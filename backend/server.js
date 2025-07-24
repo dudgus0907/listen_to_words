@@ -3,8 +3,17 @@ const cors = require('cors');
 const axios = require('axios');
 const { AdvancedTranscriptSystem } = require('./advanced-transcript-system');
 const { PythonYouTubeBridge } = require('./python-youtube-bridge');
-const { LazyTranscriptSystem } = require('./lazy-transcript-system');
-const FastSearchSystem = require('./fast-search-system');
+// Try to load SQLite-dependent systems safely
+let LazyTranscriptSystem = null;
+let FastSearchSystem = null;
+try {
+  LazyTranscriptSystem = require('./lazy-transcript-system').LazyTranscriptSystem;
+  FastSearchSystem = require('./fast-search-system');
+  console.log('✅ SQLite3 systems loaded successfully');
+} catch (error) {
+  console.log('⚠️ SQLite3 systems not available:', error.message);
+  console.log('🔄 Will use memory-based fallback search');
+}
 require('dotenv').config();
 const path = require('path'); // Added for path.join
 
@@ -19,11 +28,22 @@ app.use(express.json());
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
 const YOUTUBE_API_BASE_URL = 'https://www.googleapis.com/youtube/v3';
 
-// Initialize Advanced Transcript System, Python Bridge, Lazy System, and Fast Search System
+// Initialize Advanced Transcript System and Python Bridge
 const transcriptSystem = new AdvancedTranscriptSystem();
 const pythonBridge = new PythonYouTubeBridge();
-const lazySystem = new LazyTranscriptSystem();
-const fastSearch = new FastSearchSystem();
+
+// Initialize SQLite-dependent systems if available
+let lazySystem = null;
+let fastSearch = null;
+if (LazyTranscriptSystem && FastSearchSystem) {
+  try {
+    lazySystem = new LazyTranscriptSystem();
+    fastSearch = new FastSearchSystem();
+    console.log('✅ SQLite3-based search systems initialized');
+  } catch (error) {
+    console.log('⚠️ SQLite3 system initialization failed:', error.message);
+  }
+}
 
 // Load accurate verified database
 const fs = require('fs');
@@ -102,28 +122,32 @@ async function initializeSystem() {
   console.log('📊 Processing methods used:', methods);
   console.log('💡 New videos will be processed on-demand during search');
   
-  // FastSearchSystem 초기화 및 인덱스 확인 (Railway 환경 고려)
-  try {
-    console.log('🚀 Initializing FastSearchSystem...');
-    await fastSearch.initialize();
-    
-    console.log('🔍 Checking search index status...');
-    // 백그라운드에서 인덱스 확인 및 필요시에만 구축 (서버 시작을 차단하지 않음)
-    fastSearch.buildIndex(false).then(stats => {
-      if (stats && stats.skipped) {
-        console.log(`⚡ FastSearch index already up-to-date: ${stats.videos} videos, ${stats.segments} segments`);
-        console.log('🚀 Server ready for instant searches!');
-      } else if (stats) {
-        console.log(`✅ FastSearch index built: ${stats.videos} videos, ${stats.segments} segments`);
-      }
-    }).catch(error => {
-      console.error('❌ FastSearch index check/build failed:', error.message);
-      console.log('⚠️ Continuing with basic search functionality');
-    });
-    
-  } catch (error) {
-    console.error('❌ FastSearchSystem initialization failed:', error.message);
-    console.log('⚠️ Railway environment: Using fallback search system');
+  // FastSearchSystem 초기화 및 인덱스 확인 (사용 가능한 경우에만)
+  if (fastSearch) {
+    try {
+      console.log('🚀 Initializing FastSearchSystem...');
+      await fastSearch.initialize();
+      
+      console.log('🔍 Checking search index status...');
+      // 백그라운드에서 인덱스 확인 및 필요시에만 구축 (서버 시작을 차단하지 않음)
+      fastSearch.buildIndex(false).then(stats => {
+        if (stats && stats.skipped) {
+          console.log(`⚡ FastSearch index already up-to-date: ${stats.videos} videos, ${stats.segments} segments`);
+          console.log('🚀 Server ready for instant searches!');
+        } else if (stats) {
+          console.log(`✅ FastSearch index built: ${stats.videos} videos, ${stats.segments} segments`);
+        }
+      }).catch(error => {
+        console.error('❌ FastSearch index check/build failed:', error.message);
+        console.log('⚠️ Continuing with basic search functionality');
+      });
+      
+    } catch (error) {
+      console.error('❌ FastSearchSystem initialization failed:', error.message);
+      console.log('⚠️ Using fallback search system');
+    }
+  } else {
+    console.log('📋 Using memory-based search (FastSearch not available)');
   }
 }
 
@@ -171,18 +195,27 @@ app.get('/api/search', async (req, res) => {
     console.log(`🔍 Searching for: "${query}"`);
     const startTime = Date.now();
     
-    // Use FastSearchSystem for ultra-fast results
-    const results = await fastSearch.search(query, 10);
+    let results = [];
     
-    const searchTime = Date.now() - startTime;
-    console.log(`✅ Found ${results.length} results in ${searchTime}ms`);
+    // Try FastSearchSystem first if available
+    if (fastSearch) {
+      try {
+        results = await fastSearch.search(query, 10);
+        console.log(`✅ FastSearch found ${results.length} results`);
+      } catch (error) {
+        console.log('⚠️ FastSearch failed:', error.message);
+      }
+    }
     
-    // Fallback to cached video database if no results
+    // Fallback to cached video database search
     let fallbackResults = [];
     if (results.length === 0 && videoDatabase.length > 0) {
-      console.log('🔄 Fallback to cached videos...');
+      console.log('🔄 Using cached video search...');
       fallbackResults = pythonBridge.searchTranscripts(query, videoDatabase);
     }
+    
+    const searchTime = Date.now() - startTime;
+    console.log(`✅ Search completed in ${searchTime}ms`);
     
     // Convert FastSearchSystem results to expected format
     const formattedResults = results.map(result => ({
@@ -198,8 +231,15 @@ app.get('/api/search', async (req, res) => {
     
     const finalResults = formattedResults.length > 0 ? formattedResults : fallbackResults;
     
-    // Get FastSearch statistics
-    const fastSearchStats = await fastSearch.getStats();
+    // Get FastSearch statistics if available
+    let fastSearchStats = { totalVideos: 0, totalSegments: 0, cacheSize: 0 };
+    if (fastSearch) {
+      try {
+        fastSearchStats = await fastSearch.getStats();
+      } catch (error) {
+        console.log('⚠️ Could not get FastSearch stats:', error.message);
+      }
+    }
     
     res.json({
       query: query,
@@ -208,10 +248,10 @@ app.get('/api/search', async (req, res) => {
       searchTime: searchTime,
       systemInfo: {
         source: formattedResults.length > 0 ? 'fast-search-system' : 'cached-videos',
-        videosInDatabase: fastSearchStats.totalVideos,
-        totalSegments: fastSearchStats.totalSegments,
-        cacheSize: fastSearchStats.cacheSize,
-        hasFastSearch: true
+        videosInDatabase: fastSearchStats.totalVideos || videoDatabase.length,
+        totalSegments: fastSearchStats.totalSegments || 0,
+        cacheSize: fastSearchStats.cacheSize || 0,
+        hasFastSearch: !!fastSearch
       }
     });
     
