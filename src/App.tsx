@@ -233,7 +233,13 @@ function App() {
       {/* Header */}
       <header className="header">
         <div className="header-content">
-          <h1 className="title">YouGlish Copycat</h1>
+                      <h1 
+              className="title" 
+              onClick={() => setShowSavedClips(false)}
+              style={{ cursor: 'pointer' }}
+            >
+              Try Listening to words
+            </h1>
           <button
             onClick={() => setShowSavedClips(!showSavedClips)}
             className="button"
