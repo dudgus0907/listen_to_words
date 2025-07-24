@@ -102,7 +102,7 @@ async function initializeSystem() {
   console.log('📊 Processing methods used:', methods);
   console.log('💡 New videos will be processed on-demand during search');
   
-  // FastSearchSystem 초기화 및 인덱스 확인
+  // FastSearchSystem 초기화 및 인덱스 확인 (Railway 환경 고려)
   try {
     console.log('🚀 Initializing FastSearchSystem...');
     await fastSearch.initialize();
@@ -110,18 +110,20 @@ async function initializeSystem() {
     console.log('🔍 Checking search index status...');
     // 백그라운드에서 인덱스 확인 및 필요시에만 구축 (서버 시작을 차단하지 않음)
     fastSearch.buildIndex(false).then(stats => {
-      if (stats.skipped) {
+      if (stats && stats.skipped) {
         console.log(`⚡ FastSearch index already up-to-date: ${stats.videos} videos, ${stats.segments} segments`);
         console.log('🚀 Server ready for instant searches!');
-      } else {
+      } else if (stats) {
         console.log(`✅ FastSearch index built: ${stats.videos} videos, ${stats.segments} segments`);
       }
     }).catch(error => {
       console.error('❌ FastSearch index check/build failed:', error.message);
+      console.log('⚠️ Continuing with basic search functionality');
     });
     
   } catch (error) {
     console.error('❌ FastSearchSystem initialization failed:', error.message);
+    console.log('⚠️ Railway environment: Using fallback search system');
   }
 }
 
@@ -248,7 +250,16 @@ app.get('/api/video/:videoId', async (req, res) => {
   }
 });
 
-// Health check with system info
+// Simple health check for Railway
+app.get('/health', (req, res) => {
+  res.status(200).json({ 
+    status: 'OK', 
+    timestamp: new Date().toISOString(),
+    uptime: process.uptime()
+  });
+});
+
+// Detailed health check with system info
 app.get('/api/health', (req, res) => {
   const methodStats = {};
   videoDatabase.forEach(video => {
@@ -357,14 +368,18 @@ app.get('/api/search-stats', async (req, res) => {
   }
 });
 
-// Start server with advanced system initialization
-app.listen(PORT, async () => {
+// Start server immediately, initialize system in background
+app.listen(PORT, () => {
   console.log(`🚀 Server is running on port ${PORT}`);
   console.log(`🔍 Health check: http://localhost:${PORT}/api/health`);
   
-  // Initialize the advanced transcript system
-  await initializeSystem();
-  console.log(`📚 Advanced Transcript System ready with ${videoDatabase.length} videos`);
+  // Initialize the advanced transcript system in background
+  initializeSystem().then(() => {
+    console.log(`📚 Advanced Transcript System ready with ${videoDatabase.length} videos`);
+  }).catch(error => {
+    console.error('❌ System initialization failed:', error.message);
+    console.log('⚠️ Server running with minimal functionality');
+  });
 });
 
 module.exports = app; 
