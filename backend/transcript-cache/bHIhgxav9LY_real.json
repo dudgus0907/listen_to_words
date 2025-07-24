@@ -1,0 +1,1503 @@
+{
+  "success": true,
+  "video_id": "bHIhgxav9LY",
+  "segments": 374,
+  "transcript": [
+    {
+      "start": 0,
+      "text": "This video was sponsored by Caséta by Lutron."
+    },
+    {
+      "start": 3,
+      "text": "Imagine you have a giant circuit"
+    },
+    {
+      "start": 6,
+      "text": "consisting of a battery, a switch, a light bulb,"
+    },
+    {
+      "start": 9,
+      "text": "and two wires which are each 300,000 kilometers long."
+    },
+    {
+      "start": 13,
+      "text": "That is the distance light travels in one second."
+    },
+    {
+      "start": 16,
+      "text": "So, they would reach out half way to the moon"
+    },
+    {
+      "start": 19,
+      "text": "and then come back to be connected to the light bulb,"
+    },
+    {
+      "start": 22,
+      "text": "which is one meter away."
+    },
+    {
+      "start": 24,
+      "text": "Now, the question is,"
+    },
+    {
+      "start": 25,
+      "text": "after I close this switch,"
+    },
+    {
+      "start": 27,
+      "text": "how long would it take for the bulb to light up."
+    },
+    {
+      "start": 30,
+      "text": "Is it half a second,"
+    },
+    {
+      "start": 31,
+      "text": "one second,"
+    },
+    {
+      "start": 32,
+      "text": "two seconds,"
+    },
+    {
+      "start": 34,
+      "text": "1/c seconds,"
+    },
+    {
+      "start": 35,
+      "text": "or none of the above."
+    },
+    {
+      "start": 37,
+      "text": "You have to make some simplifying assumptions"
+    },
+    {
+      "start": 39,
+      "text": "about this circuit,"
+    },
+    {
+      "start": 40,
+      "text": "like the wires have to have no resistance,"
+    },
+    {
+      "start": 42,
+      "text": "otherwise this wouldn't work"
+    },
+    {
+      "start": 43,
+      "text": "and the light bulb has to turn on immediately"
+    },
+    {
+      "start": 46,
+      "text": "when current passes through it."
+    },
+    {
+      "start": 48,
+      "text": "But I want you to commit to an answer"
+    },
+    {
+      "start": 50,
+      "text": "and put it down in the comments"
+    },
+    {
+      "start": 52,
+      "text": "so you can't say,"
+    },
+    {
+      "start": 53,
+      "text": "oh yeah I knew that was the answer,"
+    },
+    {
+      "start": 55,
+      "text": "when I tell you the answer later on."
+    },
+    {
+      "start": 59,
+      "text": "This question actually relates to how electrical energy"
+    },
+    {
+      "start": 62,
+      "text": "get from a power plant to your home."
+    },
+    {
+      "start": 65,
+      "text": "Unlike a battery,"
+    },
+    {
+      "start": 67,
+      "text": "the electricity in the grid"
+    },
+    {
+      "start": 68,
+      "text": "comes in the form of alternating current, or AC,"
+    },
+    {
+      "start": 71,
+      "text": "which means electrons in the power lines"
+    },
+    {
+      "start": 73,
+      "text": "are just wiggling back and forth."
+    },
+    {
+      "start": 75,
+      "text": "They never actually go anywhere."
+    },
+    {
+      "start": 78,
+      "text": "So, if the charges don't come from the power plant"
+    },
+    {
+      "start": 81,
+      "text": "to your home,"
+    },
+    {
+      "start": 82,
+      "text": "how does the electrical energy actually reach you?"
+    },
+    {
+      "start": 87,
+      "text": "When I used to teach this subject,"
+    },
+    {
+      "start": 89,
+      "text": "I would say that power lines"
+    },
+    {
+      "start": 90,
+      "text": "are like this flexible plastic tubing"
+    },
+    {
+      "start": 93,
+      "text": "and the electrons inside are like this chain."
+    },
+    {
+      "start": 96,
+      "text": "So, what a power station does,"
+    },
+    {
+      "start": 98,
+      "text": "is it pushes and pulls the electrons back and forth"
+    },
+    {
+      "start": 102,
+      "text": "60 times a second."
+    },
+    {
+      "start": 104,
+      "text": "Now, at your house,"
+    },
+    {
+      "start": 105,
+      "text": "you can plug in a device, like a toaster,"
+    },
+    {
+      "start": 108,
+      "text": "which essentially means"
+    },
+    {
+      "start": 109,
+      "text": "allowing the electrons to run through it."
+    },
+    {
+      "start": 112,
+      "text": "So when the power station pushes and pulls the electrons,"
+    },
+    {
+      "start": 115,
+      "text": "well, they encounter resistance in the toaster element,"
+    },
+    {
+      "start": 119,
+      "text": "and they dissipate their energy as heat,"
+    },
+    {
+      "start": 123,
+      "text": "and so you can toast your bread."
+    },
+    {
+      "start": 125,
+      "text": "Now, this is a great story,"
+    },
+    {
+      "start": 126,
+      "text": "I think it's easy to visualize,"
+    },
+    {
+      "start": 127,
+      "text": "and I think my students understood it."
+    },
+    {
+      "start": 129,
+      "text": "The only problem is, it's wrong."
+    },
+    {
+      "start": 133,
+      "text": "For one thing,"
+    },
+    {
+      "start": 134,
+      "text": "there is no continuous conducting wire"
+    },
+    {
+      "start": 136,
+      "text": "that runs all the way from a power station to your house."
+    },
+    {
+      "start": 140,
+      "text": "No, there are physical gaps,"
+    },
+    {
+      "start": 142,
+      "text": "there are breaks in the line,"
+    },
+    {
+      "start": 144,
+      "text": "like in transformers"
+    },
+    {
+      "start": 145,
+      "text": "where one coil of wire is wrapped on one side,"
+    },
+    {
+      "start": 148,
+      "text": "a different coil of wire is wrapped on the other side."
+    },
+    {
+      "start": 150,
+      "text": "So, electrons cannot possibly flow"
+    },
+    {
+      "start": 152,
+      "text": "from one the other."
+    },
+    {
+      "start": 154,
+      "text": "Plus, if it's the electrons"
+    },
+    {
+      "start": 156,
+      "text": "that are carrying the energy"
+    },
+    {
+      "start": 158,
+      "text": "from the power station to your device,"
+    },
+    {
+      "start": 161,
+      "text": "then when those same electrons"
+    },
+    {
+      "start": 162,
+      "text": "flow back to the power station,"
+    },
+    {
+      "start": 164,
+      "text": "why are they not also carrying energy"
+    },
+    {
+      "start": 167,
+      "text": "back from your house to the power station?"
+    },
+    {
+      "start": 170,
+      "text": "If the flow of current is two ways,"
+    },
+    {
+      "start": 173,
+      "text": "then why does energy only flow in one direction?"
+    },
+    {
+      "start": 178,
+      "text": "These are the lies you were taught about electricity,"
+    },
+    {
+      "start": 181,
+      "text": "that electrons themselves have potential energy,"
+    },
+    {
+      "start": 185,
+      "text": "that they are pushed or pulled"
+    },
+    {
+      "start": 186,
+      "text": "through a continuous conducting loop"
+    },
+    {
+      "start": 188,
+      "text": "and that they dissipate their energy in the device."
+    },
+    {
+      "start": 193,
+      "text": "My claim in this video"
+    },
+    {
+      "start": 194,
+      "text": "is that all of that is false."
+    },
+    {
+      "start": 197,
+      "text": "So, how does it actually work?"
+    },
+    {
+      "start": 202,
+      "text": "In the 1860's and 70's,"
+    },
+    {
+      "start": 204,
+      "text": "there was a huge breakthrough"
+    },
+    {
+      "start": 206,
+      "text": "in our understanding of the universe"
+    },
+    {
+      "start": 207,
+      "text": "when Scottish physicist, James Clerk Maxwell,"
+    },
+    {
+      "start": 210,
+      "text": "realized that light is made up"
+    },
+    {
+      "start": 213,
+      "text": "of oscillating electric and magnetic fields."
+    },
+    {
+      "start": 216,
+      "text": "The fields are oscillating perpendicular to each other"
+    },
+    {
+      "start": 219,
+      "text": "and they are in phase,"
+    },
+    {
+      "start": 221,
+      "text": "meaning when one is at its maximum,"
+    },
+    {
+      "start": 223,
+      "text": "so is the other wave."
+    },
+    {
+      "start": 225,
+      "text": "Now, he works out the equations"
+    },
+    {
+      "start": 227,
+      "text": "that govern the behavior of electric and magnetic fields"
+    },
+    {
+      "start": 230,
+      "text": "and hence, these waves,"
+    },
+    {
+      "start": 232,
+      "text": "those are now called Maxwell's equations."
+    },
+    {
+      "start": 235,
+      "text": "But in 1883,"
+    },
+    {
+      "start": 237,
+      "text": "one of Maxwell's former students, John Henry Poynting,"
+    },
+    {
+      "start": 240,
+      "text": "is thinking about conversation of energy."
+    },
+    {
+      "start": 242,
+      "text": "If energy is conserved locally in every tiny bit of space,"
+    },
+    {
+      "start": 247,
+      "text": "well, then you should be able to trace the path"
+    },
+    {
+      "start": 250,
+      "text": "that energy flows from one place to another."
+    },
+    {
+      "start": 253,
+      "text": "So, think about the energy that comes to us from the sun,"
+    },
+    {
+      "start": 256,
+      "text": "during those eight minutes when the light is traveling,"
+    },
+    {
+      "start": 259,
+      "text": "the energy is stored and being transmitted"
+    },
+    {
+      "start": 262,
+      "text": "in the electric and magnetic fields of the light."
+    },
+    {
+      "start": 266,
+      "text": "Now, Poynting works out an equation"
+    },
+    {
+      "start": 269,
+      "text": "to describe energy flux,"
+    },
+    {
+      "start": 272,
+      "text": "that is, how much electromagnetic energy"
+    },
+    {
+      "start": 274,
+      "text": "is passing through an area per second."
+    },
+    {
+      "start": 277,
+      "text": "This is known as the Poynting vector"
+    },
+    {
+      "start": 279,
+      "text": "and it's given the symbol S."
+    },
+    {
+      "start": 281,
+      "text": "And the formula is really pretty simple,"
+    },
+    {
+      "start": 283,
+      "text": "it's just a constant one over mu naught,"
+    },
+    {
+      "start": 286,
+      "text": "which is the permeability of free space"
+    },
+    {
+      "start": 288,
+      "text": "times E X B."
+    },
+    {
+      "start": 290,
+      "text": "Now, E X B,"
+    },
+    {
+      "start": 291,
+      "text": "is the cross product"
+    },
+    {
+      "start": 292,
+      "text": "of the electric and magnetic fields."
+    },
+    {
+      "start": 294,
+      "text": "Now, the cross product is just a particular way"
+    },
+    {
+      "start": 297,
+      "text": "of multiplying two vectors together,"
+    },
+    {
+      "start": 299,
+      "text": "where you multiply their perpendicular magnitudes"
+    },
+    {
+      "start": 301,
+      "text": "and to find the direction,"
+    },
+    {
+      "start": 304,
+      "text": "you put your fingers in the direction of the first vector,"
+    },
+    {
+      "start": 306,
+      "text": "which in this case is the electric field,"
+    },
+    {
+      "start": 308,
+      "text": "and curl them in the direction of the second vector,"
+    },
+    {
+      "start": 311,
+      "text": "the magnetic fields,"
+    },
+    {
+      "start": 311,
+      "text": "then your thumb points"
+    },
+    {
+      "start": 313,
+      "text": "in the direction of the resulting vector,"
+    },
+    {
+      "start": 315,
+      "text": "the energy flux."
+    },
+    {
+      "start": 317,
+      "text": "So, what this shows us about light"
+    },
+    {
+      "start": 319,
+      "text": "is that the energy is flowing perpendicular"
+    },
+    {
+      "start": 322,
+      "text": "to both the electronic an the magnetic fields."
+    },
+    {
+      "start": 325,
+      "text": "And it's in the same direction as the light is traveling,"
+    },
+    {
+      "start": 329,
+      "text": "so this makes a lot of sense."
+    },
+    {
+      "start": 330,
+      "text": "Light carries energy from its source"
+    },
+    {
+      "start": 333,
+      "text": "out to its destination."
+    },
+    {
+      "start": 337,
+      "text": "But the kicker is this,"
+    },
+    {
+      "start": 339,
+      "text": "Poynting's equation doesn't just work for light,"
+    },
+    {
+      "start": 343,
+      "text": "it works anytime there are electric"
+    },
+    {
+      "start": 346,
+      "text": "and magnetic fields coinciding."
+    },
+    {
+      "start": 349,
+      "text": "Anytime you have electric and magnetic fields together,"
+    },
+    {
+      "start": 352,
+      "text": "there is a flow of energy"
+    },
+    {
+      "start": 353,
+      "text": "and you can calculate using Poynting's vector."
+    },
+    {
+      "start": 358,
+      "text": "To illustrate this,"
+    },
+    {
+      "start": 360,
+      "text": "let's consider a simple circuit"
+    },
+    {
+      "start": 361,
+      "text": "with a battery and a light bulb."
+    },
+    {
+      "start": 364,
+      "text": "The battery by itself has an electric field"
+    },
+    {
+      "start": 367,
+      "text": "but since no charges are moving,"
+    },
+    {
+      "start": 369,
+      "text": "there is no magnetic field"
+    },
+    {
+      "start": 371,
+      "text": "so the battery doesn't lose energy."
+    },
+    {
+      "start": 373,
+      "text": "When the battery is connected into the circuit,"
+    },
+    {
+      "start": 376,
+      "text": "its electric field extends through the circuit"
+    },
+    {
+      "start": 379,
+      "text": "at the speed of light."
+    },
+    {
+      "start": 380,
+      "text": "This electric field pushes electrons around"
+    },
+    {
+      "start": 383,
+      "text": "so they accumulate on some of the surfaces of the conductors"
+    },
+    {
+      "start": 387,
+      "text": "making them negatively charged,"
+    },
+    {
+      "start": 389,
+      "text": "and are depleted elsewhere"
+    },
+    {
+      "start": 390,
+      "text": "leaving their surfaces positively charged."
+    },
+    {
+      "start": 394,
+      "text": "These surface charges"
+    },
+    {
+      "start": 396,
+      "text": "create a small electric field inside the wires,"
+    },
+    {
+      "start": 399,
+      "text": "causing electrons to drift"
+    },
+    {
+      "start": 401,
+      "text": "preferentially in one direction."
+    },
+    {
+      "start": 403,
+      "text": "Note that this drift velocity is extremely slow"
+    },
+    {
+      "start": 407,
+      "text": "around a tenth of a millimeter per second."
+    },
+    {
+      "start": 409,
+      "text": "But this is current,"
+    },
+    {
+      "start": 411,
+      "text": "well, conventional current"
+    },
+    {
+      "start": 412,
+      "text": "is defined to flow opposite the motion of electrons,"
+    },
+    {
+      "start": 415,
+      "text": "but this is what's making it happen."
+    },
+    {
+      "start": 418,
+      "text": "The charge on the surfaces of the conductors"
+    },
+    {
+      "start": 421,
+      "text": "also creates an eclectic field outside the wires"
+    },
+    {
+      "start": 425,
+      "text": "and the current inside the wires"
+    },
+    {
+      "start": 427,
+      "text": "creates a magnetic field outside the wires."
+    },
+    {
+      "start": 430,
+      "text": "So, now there is a combination"
+    },
+    {
+      "start": 432,
+      "text": "of electric and magnetic fields"
+    },
+    {
+      "start": 434,
+      "text": "in this space around the circuit."
+    },
+    {
+      "start": 437,
+      "text": "So, according to Poynting's theory,"
+    },
+    {
+      "start": 439,
+      "text": "energy should be flowing"
+    },
+    {
+      "start": 441,
+      "text": "and we can work out the direction of this energy flow"
+    },
+    {
+      "start": 444,
+      "text": "using the right hand rule."
+    },
+    {
+      "start": 446,
+      "text": "Around the battery for example,"
+    },
+    {
+      "start": 447,
+      "text": "the electric field is down"
+    },
+    {
+      "start": 449,
+      "text": "and the magnetic field is into the screen."
+    },
+    {
+      "start": 452,
+      "text": "So, you find the energy flux is to the right"
+    },
+    {
+      "start": 455,
+      "text": "away from the battery."
+    },
+    {
+      "start": 457,
+      "text": "In fact, all around the battery,"
+    },
+    {
+      "start": 459,
+      "text": "you'll find the energy is radially outwards."
+    },
+    {
+      "start": 463,
+      "text": "Energy is going out through the sides of the battery"
+    },
+    {
+      "start": 467,
+      "text": "into the fields."
+    },
+    {
+      "start": 469,
+      "text": "Along the wires, again,"
+    },
+    {
+      "start": 470,
+      "text": "you can use the right hand rule"
+    },
+    {
+      "start": 472,
+      "text": "to find the energy is flowing to the right."
+    },
+    {
+      "start": 475,
+      "text": "This is true for the fields along the top wire"
+    },
+    {
+      "start": 478,
+      "text": "and the bottom wire."
+    },
+    {
+      "start": 480,
+      "text": "But at the filament,"
+    },
+    {
+      "start": 480,
+      "text": "the Poynting vector is directed in toward the light bulb."
+    },
+    {
+      "start": 484,
+      "text": "So, the light bulb is getting energy from the field."
+    },
+    {
+      "start": 488,
+      "text": "If you do the cross product,"
+    },
+    {
+      "start": 489,
+      "text": "you find the energy is coming in from all around the bulb."
+    },
+    {
+      "start": 493,
+      "text": "It takes many paths from the battery to the bulb,"
+    },
+    {
+      "start": 496,
+      "text": "but in all cases,"
+    },
+    {
+      "start": 497,
+      "text": "the energy is transmitted"
+    },
+    {
+      "start": 499,
+      "text": "by the electric and magnetic fields."
+    },
+    {
+      "start": 501,
+      "text": "- People seem to think that you're pumping electrons"
+    },
+    {
+      "start": 504,
+      "text": "and that you're buying electrons or something,"
+    },
+    {
+      "start": 506,
+      "text": "which is just so wrong. (laughs)"
+    },
+    {
+      "start": 509,
+      "text": "For most people,"
+    },
+    {
+      "start": 510,
+      "text": "and I think to this day, it's quite counterintuitive"
+    },
+    {
+      "start": 512,
+      "text": "to think that the energy is flowing through the space"
+    },
+    {
+      "start": 515,
+      "text": "around the conductor,"
+    },
+    {
+      "start": 516,
+      "text": "but the energy is,"
+    },
+    {
+      "start": 518,
+      "text": "which is traveling through the field,"
+    },
+    {
+      "start": 519,
+      "text": "yeah, is going quite fast."
+    },
+    {
+      "start": 522,
+      "text": "- So, there are a few things to notice here."
+    },
+    {
+      "start": 525,
+      "text": "Even though the electrons go two ways"
+    },
+    {
+      "start": 527,
+      "text": "away from the battery and towards it,"
+    },
+    {
+      "start": 529,
+      "text": "by using the Poynting vector,"
+    },
+    {
+      "start": 531,
+      "text": "you find that the energy flux only goes one way"
+    },
+    {
+      "start": 534,
+      "text": "from the battery to the bulb."
+    },
+    {
+      "start": 536,
+      "text": "This also shows it's the fields"
+    },
+    {
+      "start": 538,
+      "text": "and not the electrons that carry the energy."
+    },
+    {
+      "start": 541,
+      "text": "- How far do the electrons go"
+    },
+    {
+      "start": 543,
+      "text": "in this little thing you're talking about,"
+    },
+    {
+      "start": 545,
+      "text": "they barely move,"
+    },
+    {
+      "start": 546,
+      "text": "they probably don't move at all."
+    },
+    {
+      "start": 548,
+      "text": "- Now, what happens if in place of a battery,"
+    },
+    {
+      "start": 550,
+      "text": "we use an alternating current source?"
+    },
+    {
+      "start": 553,
+      "text": "Well then, the direction of current"
+    },
+    {
+      "start": 555,
+      "text": "reverses every half cycle."
+    },
+    {
+      "start": 557,
+      "text": "But this means that both the electric and magnetic fields"
+    },
+    {
+      "start": 560,
+      "text": "flip at the same time,"
+    },
+    {
+      "start": 562,
+      "text": "so at any instant,"
+    },
+    {
+      "start": 564,
+      "text": "the Poynting vector still points in the same direction,"
+    },
+    {
+      "start": 567,
+      "text": "from the source to the bulb."
+    },
+    {
+      "start": 569,
+      "text": "So the exact same analysis we used for DC"
+    },
+    {
+      "start": 572,
+      "text": "still works for AC."
+    },
+    {
+      "start": 575,
+      "text": "And this explains how energy is able to flow"
+    },
+    {
+      "start": 577,
+      "text": "from power plants to home in power lines."
+    },
+    {
+      "start": 580,
+      "text": "Inside the wires,"
+    },
+    {
+      "start": 581,
+      "text": "electrons just oscillate back and forth."
+    },
+    {
+      "start": 584,
+      "text": "Their motion is greatly exaggerated here."
+    },
+    {
+      "start": 587,
+      "text": "But they do not carry the energy."
+    },
+    {
+      "start": 589,
+      "text": "Outside the wires,"
+    },
+    {
+      "start": 590,
+      "text": "oscillating eclectic and magnetic fields"
+    },
+    {
+      "start": 593,
+      "text": "travel from the power station to your home."
+    },
+    {
+      "start": 596,
+      "text": "You can use the Poynting vector to check"
+    },
+    {
+      "start": 598,
+      "text": "that the energy flux is going in one direction."
+    },
+    {
+      "start": 602,
+      "text": "You might think this is just an academic discussion"
+    },
+    {
+      "start": 605,
+      "text": "that you could see the energy as transmitted"
+    },
+    {
+      "start": 607,
+      "text": "either by fields or by the current in the wire."
+    },
+    {
+      "start": 611,
+      "text": "But that is not the case,"
+    },
+    {
+      "start": 613,
+      "text": "and people learned this the hard way"
+    },
+    {
+      "start": 615,
+      "text": "when they started laying undersea telegraph cables."
+    },
+    {
+      "start": 618,
+      "text": "The first Trans Atlantic cable was laid in 1858."
+    },
+    {
+      "start": 622,
+      "text": "- It only worked for about a month,"
+    },
+    {
+      "start": 624,
+      "text": "it never worked properly."
+    },
+    {
+      "start": 625,
+      "text": "- There are all kinds of distortions"
+    },
+    {
+      "start": 627,
+      "text": "when they try to send signals."
+    },
+    {
+      "start": 628,
+      "text": "- Enormous amounts of distortion."
+    },
+    {
+      "start": 630,
+      "text": "They could work it at a few words per minute."
+    },
+    {
+      "start": 632,
+      "text": "- What they found was sending signals"
+    },
+    {
+      "start": 634,
+      "text": "over such a long distance under the sea,"
+    },
+    {
+      "start": 637,
+      "text": "the pulses became distorted and lengthened."
+    },
+    {
+      "start": 640,
+      "text": "It was hard to differentiate dots from dashes."
+    },
+    {
+      "start": 643,
+      "text": "To account for the failure,"
+    },
+    {
+      "start": 645,
+      "text": "there was a debate among scientists."
+    },
+    {
+      "start": 647,
+      "text": "William Thomson, the future Lord Kelvin,"
+    },
+    {
+      "start": 650,
+      "text": "thought electrical signals moved through submarine cables"
+    },
+    {
+      "start": 653,
+      "text": "like water flowing through a rubber tube."
+    },
+    {
+      "start": 656,
+      "text": "But others like Heaviside and Fitzgerald,"
+    },
+    {
+      "start": 658,
+      "text": "argued it was the fields around the wires"
+    },
+    {
+      "start": 661,
+      "text": "that carried the energy and information."
+    },
+    {
+      "start": 663,
+      "text": "And ultimately,"
+    },
+    {
+      "start": 665,
+      "text": "this view proved correct."
+    },
+    {
+      "start": 667,
+      "text": "To insulate and protect the submarine cable,"
+    },
+    {
+      "start": 670,
+      "text": "the central copper conductor"
+    },
+    {
+      "start": 672,
+      "text": "had been coated in an insulator"
+    },
+    {
+      "start": 673,
+      "text": "and then encased in an iron sheath."
+    },
+    {
+      "start": 676,
+      "text": "The iron was only meant to strengthen the cable,"
+    },
+    {
+      "start": 679,
+      "text": "but as a good conductor,"
+    },
+    {
+      "start": 680,
+      "text": "it interfered with a propagation of electromagnetic fields"
+    },
+    {
+      "start": 683,
+      "text": "because it increased the capacitance of the line."
+    },
+    {
+      "start": 687,
+      "text": "This is why today, most power lines are suspended high up."
+    },
+    {
+      "start": 691,
+      "text": "Even the damp earth acts as a conductor,"
+    },
+    {
+      "start": 693,
+      "text": "so you want a large insulating gap of air"
+    },
+    {
+      "start": 696,
+      "text": "to separate the wires from the ground."
+    },
+    {
+      "start": 700,
+      "text": "So, what is the answer"
+    },
+    {
+      "start": 702,
+      "text": "to our giant circuit light bulb question?"
+    },
+    {
+      "start": 705,
+      "text": "Well, after I close the switch,"
+    },
+    {
+      "start": 707,
+      "text": "the light bulb will turn on almost instantaneously,"
+    },
+    {
+      "start": 711,
+      "text": "in roughly 1/C seconds."
+    },
+    {
+      "start": 714,
+      "text": "So, the correct answer is D."
+    },
+    {
+      "start": 717,
+      "text": "I think a lot of people imagine"
+    },
+    {
+      "start": 718,
+      "text": "that the electric field needs to travel"
+    },
+    {
+      "start": 720,
+      "text": "from the battery,"
+    },
+    {
+      "start": 721,
+      "text": "all the way down the wire"
+    },
+    {
+      "start": 723,
+      "text": "which is a light second long,"
+    },
+    {
+      "start": 724,
+      "text": "so it should take a second for the bulb to light up."
+    },
+    {
+      "start": 727,
+      "text": "But what we've learned in this video"
+    },
+    {
+      "start": 729,
+      "text": "is it's not really what's happening in the wires"
+    },
+    {
+      "start": 732,
+      "text": "that matters,"
+    },
+    {
+      "start": 733,
+      "text": "it's what happens around the wires."
+    },
+    {
+      "start": 736,
+      "text": "And the electric and magnetic fields"
+    },
+    {
+      "start": 737,
+      "text": "can propagate out through space"
+    },
+    {
+      "start": 739,
+      "text": "to this light bulb,"
+    },
+    {
+      "start": 740,
+      "text": "which is only one meter away in a few nanoseconds."
+    },
+    {
+      "start": 744,
+      "text": "And so, that is the limiting factor"
+    },
+    {
+      "start": 747,
+      "text": "for the light bulb turning on."
+    },
+    {
+      "start": 749,
+      "text": "Now, the bulb won't receive"
+    },
+    {
+      "start": 750,
+      "text": "the entire voltage of the battery immediately,"
+    },
+    {
+      "start": 753,
+      "text": "it'll be some fraction,"
+    },
+    {
+      "start": 754,
+      "text": "which depends on the impedance of these lines"
+    },
+    {
+      "start": 757,
+      "text": "and the impedance of the bulb."
+    },
+    {
+      "start": 759,
+      "text": "Now, I asked several experts about this question,"
+    },
+    {
+      "start": 762,
+      "text": "and got kind of different answers,"
+    },
+    {
+      "start": 764,
+      "text": "but we all agreed on these main points."
+    },
+    {
+      "start": 766,
+      "text": "So, I'm gonna put their analysis in the description"
+    },
+    {
+      "start": 768,
+      "text": "in case you want to learn more about this particular setup."
+    },
+    {
+      "start": 772,
+      "text": "If I get called out on it"
+    },
+    {
+      "start": 773,
+      "text": "and people don't think it's real,"
+    },
+    {
+      "start": 775,
+      "text": "we can definitely invest the resources"
+    },
+    {
+      "start": 778,
+      "text": "and string up some lines,"
+    },
+    {
+      "start": 779,
+      "text": "and make our own power lines in the desert."
+    },
+    {
+      "start": 781,
+      "text": "- I think you're gonna get called out on it."
+    },
+    {
+      "start": 783,
+      "text": "- I agree, I think you're gonna get called out."
+    },
+    {
+      "start": 786,
+      "text": "(laughing)"
+    },
+    {
+      "start": 789,
+      "text": "I think that's right."
+    },
+    {
+      "start": 790,
+      "text": "- I think it's just kinda wild"
+    },
+    {
+      "start": 792,
+      "text": "that this is one of those things"
+    },
+    {
+      "start": 794,
+      "text": "that we use everyday,"
+    },
+    {
+      "start": 796,
+      "text": "that almost nobody thinks about"
+    },
+    {
+      "start": 798,
+      "text": "or knows the right answer to."
+    },
+    {
+      "start": 800,
+      "text": "These traveling electromagnetic waves around power lines"
+    },
+    {
+      "start": 803,
+      "text": "are really what's delivering your power."
+    },
+    {
+      "start": 810,
+      "text": "Hey, now that you understand"
+    },
+    {
+      "start": 811,
+      "text": "how electrical energy actually flows,"
+    },
+    {
+      "start": 814,
+      "text": "you can think about that"
+    },
+    {
+      "start": 814,
+      "text": "every time you flick on a light switch."
+    },
+    {
+      "start": 817,
+      "text": "And if you want to take your switches to the next level,"
+    },
+    {
+      "start": 819,
+      "text": "the sponsor of this video, Caseta by Lutron,"
+    },
+    {
+      "start": 821,
+      "text": "provides premium smart lighting control,"
+    },
+    {
+      "start": 823,
+      "text": "including switches, remotes, and plug-in smart dimmers."
+    },
+    {
+      "start": 827,
+      "text": "And since one switch can control many regular bulbs,"
+    },
+    {
+      "start": 830,
+      "text": "you can effectively make all those bulbs smart"
+    },
+    {
+      "start": 832,
+      "text": "just by replacing the switch."
+    },
+    {
+      "start": 834,
+      "text": "Then, you can turn your lights on and off"
+    },
+    {
+      "start": 836,
+      "text": "using your phone,"
+    },
+    {
+      "start": 838,
+      "text": "or you can use another device"
+    },
+    {
+      "start": 840,
+      "text": "like Alexa or Google Assistant."
+    },
+    {
+      "start": 842,
+      "text": "Caseta works with more leading smart home brands"
+    },
+    {
+      "start": 844,
+      "text": "than any other smart lighting control system."
+    },
+    {
+      "start": 847,
+      "text": "One of the things I like is setting timers."
+    },
+    {
+      "start": 849,
+      "text": "The lights in my office for example,"
+    },
+    {
+      "start": 850,
+      "text": "turn on by themselves every evening."
+    },
+    {
+      "start": 852,
+      "text": "And this feature gives you peace of mind"
+    },
+    {
+      "start": 854,
+      "text": "that everyone in your household"
+    },
+    {
+      "start": 855,
+      "text": "will always come home to a well-lit house."
+    },
+    {
+      "start": 858,
+      "text": "And once you're already in bed,"
+    },
+    {
+      "start": 860,
+      "text": "you can check which lights you forgot to turn off"
+    },
+    {
+      "start": 862,
+      "text": "and do that from your phone."
+    },
+    {
+      "start": 863,
+      "text": "Installation is easy."
+    },
+    {
+      "start": 865,
+      "text": "Make sure you turn off power to the switch first"
+    },
+    {
+      "start": 867,
+      "text": "and then disconnect the existing wires"
+    },
+    {
+      "start": 870,
+      "text": "and connect Caseda's smart switch."
+    },
+    {
+      "start": 872,
+      "text": "If you need any help,"
+    },
+    {
+      "start": 873,
+      "text": "they're just a click or a call away."
+    },
+    {
+      "start": 875,
+      "text": "Learn more about Caseda at Lutron's website,"
+    },
+    {
+      "start": 877,
+      "text": "lutron.com/veritasium."
+    },
+    {
+      "start": 879,
+      "text": "I will put that link down in the description."
+    },
+    {
+      "start": 881,
+      "text": "So, I want to thank Lutron Electronics"
+    },
+    {
+      "start": 884,
+      "text": "for sponsoring this video,"
+    },
+    {
+      "start": 885,
+      "text": "and I want to thank you for watching."
+    }
+  ]
+}

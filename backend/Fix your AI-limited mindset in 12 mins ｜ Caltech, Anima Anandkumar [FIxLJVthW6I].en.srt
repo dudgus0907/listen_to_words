@@ -1,0 +1,1112 @@
+1
+00:00:00,000 --> 00:00:04,640
+A lot of these AI tools are getting
+
+2
+00:00:01,839 --> 00:00:06,640
+better, but that only means they can do
+
+3
+00:00:04,640 --> 00:00:09,840
+a certain set of instructions which are
+
+4
+00:00:06,640 --> 00:00:12,160
+seen in data. You still need to provide
+
+5
+00:00:09,840 --> 00:00:15,040
+AI what to do, right? You still need to
+
+6
+00:00:12,160 --> 00:00:17,840
+be able to describe it. And that ability
+
+7
+00:00:15,040 --> 00:00:19,920
+to describe what are the tasks AI should
+
+8
+00:00:17,840 --> 00:00:22,720
+do, what are the programs to be written
+
+9
+00:00:19,920 --> 00:00:25,359
+is still important. I think one job that
+
+10
+00:00:22,720 --> 00:00:28,320
+will not be replaced by AI is the
+
+11
+00:00:25,359 --> 00:00:30,880
+ability to be curious and go after hard
+
+12
+00:00:28,320 --> 00:00:34,480
+problems. So for young people, my advice
+
+13
+00:00:30,880 --> 00:00:37,360
+is not to be afraid of AI or worry what
+
+14
+00:00:34,480 --> 00:00:40,520
+skills to learn that AI may replace them
+
+15
+00:00:37,360 --> 00:00:43,120
+with, but really be in that path of
+
+16
+00:00:40,520 --> 00:00:45,440
+curiosity. I'm an animant Kumar. I'm
+
+17
+00:00:43,120 --> 00:00:47,840
+brand professor at Caltech. I've been a
+
+18
+00:00:45,440 --> 00:00:50,800
+professor at Caltech for about 8 years
+
+19
+00:00:47,840 --> 00:00:52,960
+now and during that time I also had
+
+20
+00:00:50,800 --> 00:00:55,440
+stints in industry. I was principal
+
+21
+00:00:52,960 --> 00:00:58,399
+scientist at Amazon Web Services. So at
+
+22
+00:00:55,440 --> 00:01:01,120
+Caltech, I lead the AI and science lab,
+
+23
+00:00:58,399 --> 00:01:03,840
+which means uh working on some of the
+
+24
+00:01:01,120 --> 00:01:07,119
+hardest challenges we see in science and
+
+25
+00:01:03,840 --> 00:01:09,600
+engineering and how we can not only use
+
+26
+00:01:07,119 --> 00:01:12,730
+existing AI methods to solve them, but
+
+27
+00:01:09,600 --> 00:01:17,089
+really develop new ones.
+
+28
+00:01:12,730 --> 00:01:17,089
+[Music]
+
+29
+00:01:20,880 --> 00:01:25,759
+I think one job that will not be
+
+30
+00:01:22,720 --> 00:01:28,479
+replaced by AI is the ability to be
+
+31
+00:01:25,759 --> 00:01:30,960
+curious and go after hard problems. For
+
+32
+00:01:28,479 --> 00:01:33,680
+a lot of students, there is a strong
+
+33
+00:01:30,960 --> 00:01:36,079
+motivation to just conform and go ahead.
+
+34
+00:01:33,680 --> 00:01:38,000
+Right? The number one thing I would ask
+
+35
+00:01:36,079 --> 00:01:40,320
+is to question everything. Think
+
+36
+00:01:38,000 --> 00:01:42,720
+critically. I always begin the classes
+
+37
+00:01:40,320 --> 00:01:44,799
+by asking questions, not writing down
+
+38
+00:01:42,720 --> 00:01:47,360
+math equations, right? Not going into
+
+39
+00:01:44,799 --> 00:01:49,439
+the details but just intuitively based
+
+40
+00:01:47,360 --> 00:01:52,000
+on everything that you've seen you've
+
+41
+00:01:49,439 --> 00:01:54,799
+done what do you think I asked them
+
+42
+00:01:52,000 --> 00:01:57,520
+simple cases for instance if you were to
+
+43
+00:01:54,799 --> 00:01:59,680
+design for a fire alarm when should it
+
+44
+00:01:57,520 --> 00:02:01,439
+say that there is fire or not that's
+
+45
+00:01:59,680 --> 00:02:03,520
+something you can change right you can
+
+46
+00:02:01,439 --> 00:02:05,920
+put a threshold you know what level of
+
+47
+00:02:03,520 --> 00:02:08,319
+smoke or when does it think it's smoky
+
+48
+00:02:05,920 --> 00:02:10,800
+and that's a very practical question so
+
+49
+00:02:08,319 --> 00:02:13,120
+if you just had fire alarms every day
+
+50
+00:02:10,800 --> 00:02:14,879
+we'd be just out and it would be useless
+
+51
+00:02:13,120 --> 00:02:17,120
+we would not have a functional office
+
+52
+00:02:14,879 --> 00:02:19,360
+space. But on the other hand, if we
+
+53
+00:02:17,120 --> 00:02:22,319
+never set fire, that would be bad, too.
+
+54
+00:02:19,360 --> 00:02:25,280
+So, how to balance this and how to model
+
+55
+00:02:22,319 --> 00:02:27,520
+how noisy this sensor could be. And
+
+56
+00:02:25,280 --> 00:02:29,520
+sometimes I see with students who may
+
+57
+00:02:27,520 --> 00:02:31,280
+not have the mathematical training, but
+
+58
+00:02:29,520 --> 00:02:32,800
+they're very intuitive and practical.
+
+59
+00:02:31,280 --> 00:02:34,959
+They may be like, oh, I would go and
+
+60
+00:02:32,800 --> 00:02:36,879
+measure how noisy it is, or I would show
+
+61
+00:02:34,959 --> 00:02:39,120
+different levels of smoke, have like
+
+62
+00:02:36,879 --> 00:02:41,120
+candles of different sizes and go and
+
+63
+00:02:39,120 --> 00:02:43,360
+test it. that and you know many times
+
+64
+00:02:41,120 --> 00:02:45,200
+people already maybe somewhat aware of
+
+65
+00:02:43,360 --> 00:02:47,599
+this so they have some intuitive ideas
+
+66
+00:02:45,200 --> 00:02:49,360
+so that already is a good starting point
+
+67
+00:02:47,599 --> 00:02:51,120
+and sometimes they are maybe really
+
+68
+00:02:49,360 --> 00:02:53,519
+wrong they have an intuition but that's
+
+69
+00:02:51,120 --> 00:02:56,000
+a wrong intuition which is still okay
+
+70
+00:02:53,519 --> 00:02:58,640
+because intuitions are not always the
+
+71
+00:02:56,000 --> 00:03:01,920
+only answer right so I think a lot of it
+
+72
+00:02:58,640 --> 00:03:04,480
+comes by asking questions and now you
+
+73
+00:03:01,920 --> 00:03:06,959
+can use these AI tools to get answers
+
+74
+00:03:04,480 --> 00:03:09,920
+very quickly and also verify them a lot
+
+75
+00:03:06,959 --> 00:03:11,680
+of it comes from being just like curious
+
+76
+00:03:09,920 --> 00:03:13,519
+or interested and that could be one
+
+77
+00:03:11,680 --> 00:03:15,519
+specific topic and if somebody's
+
+78
+00:03:13,519 --> 00:03:16,959
+interested in music they can delve
+
+79
+00:03:15,519 --> 00:03:19,519
+deeper into that if somebody is
+
+80
+00:03:16,959 --> 00:03:21,920
+interested in art so it just has to that
+
+81
+00:03:19,519 --> 00:03:24,159
+spark has to come from within and I
+
+82
+00:03:21,920 --> 00:03:26,800
+think giving students more the freedom
+
+83
+00:03:24,159 --> 00:03:29,599
+to pursue where they are passionate
+
+84
+00:03:26,800 --> 00:03:31,280
+where they have a spark I think is going
+
+85
+00:03:29,599 --> 00:03:33,200
+to be the future and that's the right
+
+86
+00:03:31,280 --> 00:03:35,000
+thing rather than forcing everybody to
+
+87
+00:03:33,200 --> 00:03:38,159
+learn
+
+88
+00:03:35,000 --> 00:03:39,599
+everything I'm always motivated by the
+
+89
+00:03:38,159 --> 00:03:41,840
+hardest challenge challenges. You know,
+
+90
+00:03:39,599 --> 00:03:44,239
+I want to know what is difficult, but
+
+91
+00:03:41,840 --> 00:03:45,840
+also why it's difficult, right? And even
+
+92
+00:03:44,239 --> 00:03:47,680
+though I may not be able to solve it
+
+93
+00:03:45,840 --> 00:03:50,879
+today, how do we build up the
+
+94
+00:03:47,680 --> 00:03:54,000
+foundations to get there? Growing up in
+
+95
+00:03:50,879 --> 00:03:56,319
+my sore as a kid, I loved just solving
+
+96
+00:03:54,000 --> 00:03:59,120
+math problems, you know, going to my
+
+97
+00:03:56,319 --> 00:04:01,360
+parents' factory. I was reading up their
+
+98
+00:03:59,120 --> 00:04:03,519
+program manuals. I was, you know,
+
+99
+00:04:01,360 --> 00:04:05,920
+learning how they could be programmed.
+
+100
+00:04:03,519 --> 00:04:08,159
+And unlike in other computer programs
+
+101
+00:04:05,920 --> 00:04:10,640
+here if something was wrong that would
+
+102
+00:04:08,159 --> 00:04:13,280
+lead to like physical failure parts
+
+103
+00:04:10,640 --> 00:04:14,879
+being like not manufactured correctly
+
+104
+00:04:13,280 --> 00:04:16,560
+and I'm like oh but how does it go into
+
+105
+00:04:14,879 --> 00:04:18,880
+the computer and how does the computer
+
+106
+00:04:16,560 --> 00:04:21,199
+tell the machine what to do so there
+
+107
+00:04:18,880 --> 00:04:23,040
+were always gaps because as a kid you
+
+108
+00:04:21,199 --> 00:04:26,400
+don't know everything but to me it was
+
+109
+00:04:23,040 --> 00:04:28,560
+like observing and then understanding
+
+110
+00:04:26,400 --> 00:04:30,400
+what the gap is and even if I didn't get
+
+111
+00:04:28,560 --> 00:04:32,720
+an immediate answer I would remember
+
+112
+00:04:30,400 --> 00:04:34,639
+that there is a gap and then later when
+
+113
+00:04:32,720 --> 00:04:36,560
+I was introduce use those topics. I was
+
+114
+00:04:34,639 --> 00:04:39,120
+in my mind I was like, "Oh, that's what
+
+115
+00:04:36,560 --> 00:04:42,240
+it relates to." So somehow I had built
+
+116
+00:04:39,120 --> 00:04:44,639
+up that mental map and I had put places
+
+117
+00:04:42,240 --> 00:04:47,360
+of where things I knew and things I
+
+118
+00:04:44,639 --> 00:04:50,160
+didn't know and I kept kind of growing
+
+119
+00:04:47,360 --> 00:04:53,680
+that in my mind as I progressed through
+
+120
+00:04:50,160 --> 00:04:55,600
+the years. So when I was growing up, AI
+
+121
+00:04:53,680 --> 00:04:57,280
+was considered science fiction.
+
+122
+00:04:55,600 --> 00:05:00,000
+Naturally, there were lots of science
+
+123
+00:04:57,280 --> 00:05:02,479
+fiction movies where I saw and was
+
+124
+00:05:00,000 --> 00:05:04,720
+fascinated. But that's not something
+
+125
+00:05:02,479 --> 00:05:07,520
+people thought were practical. Uh since
+
+126
+00:05:04,720 --> 00:05:10,400
+I was in middle and high school and now
+
+127
+00:05:07,520 --> 00:05:12,400
+it's almost 30 years, right? It is a
+
+128
+00:05:10,400 --> 00:05:15,520
+long time, but the amount of progress
+
+129
+00:05:12,400 --> 00:05:17,840
+that has happened is also so astounding
+
+130
+00:05:15,520 --> 00:05:20,800
+in so many ways. So since I joined
+
+131
+00:05:17,840 --> 00:05:23,680
+Caltech in 2017, the timing just felt
+
+132
+00:05:20,800 --> 00:05:26,160
+right to use AI as a tool and a
+
+133
+00:05:23,680 --> 00:05:28,880
+framework to solve some of the hardest
+
+134
+00:05:26,160 --> 00:05:31,759
+problems which until that point was not
+
+135
+00:05:28,880 --> 00:05:34,080
+considered practical. So after I joined
+
+136
+00:05:31,759 --> 00:05:36,240
+Caltech and wanted to explore problems
+
+137
+00:05:34,080 --> 00:05:37,919
+at the intersection of AI and science
+
+138
+00:05:36,240 --> 00:05:40,080
+and I was talking to everybody on
+
+139
+00:05:37,919 --> 00:05:42,560
+campus, I was like okay do you need
+
+140
+00:05:40,080 --> 00:05:44,080
+compute? What do you need it for? Let me
+
+141
+00:05:42,560 --> 00:05:46,320
+understand the problems that you're
+
+142
+00:05:44,080 --> 00:05:48,720
+tackling. And you know I can't possibly
+
+143
+00:05:46,320 --> 00:05:51,199
+go and solve each one of them problems
+
+144
+00:05:48,720 --> 00:05:53,120
+myself. Right? My question then was are
+
+145
+00:05:51,199 --> 00:05:55,919
+there general tools we can develop that
+
+146
+00:05:53,120 --> 00:05:57,840
+could impact so many different areas?
+
+147
+00:05:55,919 --> 00:06:00,000
+And that again put me back to
+
+148
+00:05:57,840 --> 00:06:01,680
+mathematical foundations. So because a
+
+149
+00:06:00,000 --> 00:06:03,840
+lot of these different real world
+
+150
+00:06:01,680 --> 00:06:05,840
+phenomena are modeled by partial
+
+151
+00:06:03,840 --> 00:06:08,560
+differential equations. So now can we
+
+152
+00:06:05,840 --> 00:06:11,520
+design AI that can solve this and do it
+
+153
+00:06:08,560 --> 00:06:13,600
+much faster do it much better than what
+
+154
+00:06:11,520 --> 00:06:16,560
+is currently being done with traditional
+
+155
+00:06:13,600 --> 00:06:19,120
+simulations. And to do that we developed
+
+156
+00:06:16,560 --> 00:06:21,600
+neural operators. We've invented an AI
+
+157
+00:06:19,120 --> 00:06:24,520
+technology called neural operators that
+
+158
+00:06:21,600 --> 00:06:27,360
+is trained to understand physical
+
+159
+00:06:24,520 --> 00:06:29,680
+behaviors not just highle reasoning with
+
+160
+00:06:27,360 --> 00:06:32,560
+text. So think of a hurricane. The
+
+161
+00:06:29,680 --> 00:06:34,800
+hurricane if you will just eyeball it,
+
+162
+00:06:32,560 --> 00:06:36,960
+can you tell where it's going to go? You
+
+163
+00:06:34,800 --> 00:06:39,600
+know, most humans cannot, right? It's a
+
+164
+00:06:36,960 --> 00:06:42,080
+superhuman skill to predict where
+
+165
+00:06:39,600 --> 00:06:44,560
+hurricanes are going to go. And for to
+
+166
+00:06:42,080 --> 00:06:46,960
+do that, we need finecale information
+
+167
+00:06:44,560 --> 00:06:49,520
+and finecale modeling. So this cannot be
+
+168
+00:06:46,960 --> 00:06:52,160
+just a core scale image like the image
+
+169
+00:06:49,520 --> 00:06:54,000
+of a cat where even if it's gets blurry,
+
+170
+00:06:52,160 --> 00:06:56,160
+you know it's a cat. The same techniques
+
+171
+00:06:54,000 --> 00:06:58,720
+don't work for phenomena like
+
+172
+00:06:56,160 --> 00:07:01,120
+hurricanes. Once we developed tools and
+
+173
+00:06:58,720 --> 00:07:03,919
+then the next natural question is what
+
+174
+00:07:01,120 --> 00:07:06,560
+were practical use cases that involved
+
+175
+00:07:03,919 --> 00:07:09,440
+and the weather models was a natural one
+
+176
+00:07:06,560 --> 00:07:11,840
+because it's widely used. It has huge
+
+177
+00:07:09,440 --> 00:07:13,840
+implications on our lives especially if
+
+178
+00:07:11,840 --> 00:07:15,440
+extreme weather events like hurricanes
+
+179
+00:07:13,840 --> 00:07:18,080
+if we get them right that has the
+
+180
+00:07:15,440 --> 00:07:20,639
+potential to save human lives and also
+
+181
+00:07:18,080 --> 00:07:22,720
+bring down economic costs. So I was
+
+182
+00:07:20,639 --> 00:07:26,000
+motivated by how it can be helpful to
+
+183
+00:07:22,720 --> 00:07:28,000
+people, but I was also motivated by that
+
+184
+00:07:26,000 --> 00:07:30,400
+being considered a very hard technical
+
+185
+00:07:28,000 --> 00:07:32,639
+challenge. In fact, just a few months
+
+186
+00:07:30,400 --> 00:07:35,039
+before we released our model, there were
+
+187
+00:07:32,639 --> 00:07:37,199
+a group of very wellrespected weather
+
+188
+00:07:35,039 --> 00:07:39,599
+scientists who published in the Royal
+
+189
+00:07:37,199 --> 00:07:42,000
+Society Journal thinking they're they
+
+190
+00:07:39,599 --> 00:07:44,479
+were under the impression that AI would
+
+191
+00:07:42,000 --> 00:07:47,280
+take more than a decade or even longer
+
+192
+00:07:44,479 --> 00:07:49,520
+to replace traditional ways to forecast
+
+193
+00:07:47,280 --> 00:07:51,440
+weather. and they felt AI was just not
+
+194
+00:07:49,520 --> 00:07:53,599
+ready. This problem is way too
+
+195
+00:07:51,440 --> 00:07:55,919
+difficult. And we released this and it
+
+196
+00:07:53,599 --> 00:07:58,080
+just took everybody by surprise. It was
+
+197
+00:07:55,919 --> 00:08:00,400
+not only accurate, it was tens of
+
+198
+00:07:58,080 --> 00:08:03,599
+thousands of times faster. So what would
+
+199
+00:08:00,400 --> 00:08:06,400
+take a big supercomput for traditional
+
+200
+00:08:03,599 --> 00:08:09,840
+weather models can now be run on a local
+
+201
+00:08:06,400 --> 00:08:12,000
+gaming PC with just a consumer GPU. So
+
+202
+00:08:09,840 --> 00:08:16,319
+that's the beauty of uh machine learning
+
+203
+00:08:12,000 --> 00:08:18,960
+as a field. We are not always stopped by
+
+204
+00:08:16,319 --> 00:08:21,039
+what others think as difficult. As long
+
+205
+00:08:18,960 --> 00:08:23,479
+as we can get the data and we can design
+
+206
+00:08:21,039 --> 00:08:26,639
+the methods, we can just go and try
+
+207
+00:08:23,479 --> 00:08:31,039
+it. So my mission is to constantly be
+
+208
+00:08:26,639 --> 00:08:33,839
+curious and learning and not assume that
+
+209
+00:08:31,039 --> 00:08:35,760
+any problem is easy. I can't imagine a
+
+210
+00:08:33,839 --> 00:08:37,519
+world where scientists will be out of
+
+211
+00:08:35,760 --> 00:08:40,880
+jobs because the definition of a
+
+212
+00:08:37,519 --> 00:08:43,440
+scientist is somebody who tackles open
+
+213
+00:08:40,880 --> 00:08:45,920
+problems, right? So there are harder and
+
+214
+00:08:43,440 --> 00:08:48,320
+harder problems to tackle. You know, if
+
+215
+00:08:45,920 --> 00:08:50,640
+you want to look at the deep secrets of
+
+216
+00:08:48,320 --> 00:08:53,360
+our universe, go down to the smallest
+
+217
+00:08:50,640 --> 00:08:56,320
+scale and understand at the atomic and
+
+218
+00:08:53,360 --> 00:08:59,200
+subatomic level how matter is
+
+219
+00:08:56,320 --> 00:09:00,959
+constructed to of course level of galaxy
+
+220
+00:08:59,200 --> 00:09:03,920
+and beyond and understand how the
+
+221
+00:09:00,959 --> 00:09:06,000
+universe is put together. There are
+
+222
+00:09:03,920 --> 00:09:08,399
+still lots of open challenges. Many
+
+223
+00:09:06,000 --> 00:09:11,279
+other teams such as Google Deepine focus
+
+224
+00:09:08,399 --> 00:09:14,000
+on what is known as an AI scientist.
+
+225
+00:09:11,279 --> 00:09:16,560
+Meaning AI that comes up with new ideas.
+
+226
+00:09:14,000 --> 00:09:19,920
+But so much of scientific progress is
+
+227
+00:09:16,560 --> 00:09:21,839
+not limited by the lack of new ideas,
+
+228
+00:09:19,920 --> 00:09:24,320
+right? Lots of people have lots of
+
+229
+00:09:21,839 --> 00:09:26,320
+ideas. But the bottleneck is going to
+
+230
+00:09:24,320 --> 00:09:28,480
+the lab or going to the real world and
+
+231
+00:09:26,320 --> 00:09:31,519
+testing them. That is slow. That is
+
+232
+00:09:28,480 --> 00:09:34,160
+expensive. So my focus is how we can
+
+233
+00:09:31,519 --> 00:09:35,839
+replace those lab experiments. Can we
+
+234
+00:09:34,160 --> 00:09:38,399
+come up with AI that inherently
+
+235
+00:09:35,839 --> 00:09:40,880
+understands the physics better? So we
+
+236
+00:09:38,399 --> 00:09:43,360
+can completely avoid the lab experiments
+
+237
+00:09:40,880 --> 00:09:45,920
+or maybe only do it to do the final
+
+238
+00:09:43,360 --> 00:09:48,320
+testing. And so with that focus and with
+
+239
+00:09:45,920 --> 00:09:52,720
+that physical knowledge, we can come up
+
+240
+00:09:48,320 --> 00:09:55,440
+with AI designed answers that we can go
+
+241
+00:09:52,720 --> 00:09:58,240
+directly to the real world and minimize
+
+242
+00:09:55,440 --> 00:10:01,839
+this need for testing. To me, human
+
+243
+00:09:58,240 --> 00:10:04,320
+agency is driving AI to do something
+
+244
+00:10:01,839 --> 00:10:07,600
+that you want it to be done. You have
+
+245
+00:10:04,320 --> 00:10:11,040
+the agency as a human to decide what
+
+246
+00:10:07,600 --> 00:10:13,839
+tasks AI does and then you're evaluating
+
+247
+00:10:11,040 --> 00:10:16,399
+and you're in charge, right? So, you go
+
+248
+00:10:13,839 --> 00:10:18,959
+and verify whether what AI is saying is
+
+249
+00:10:16,399 --> 00:10:21,959
+true or not and then over time provide
+
+250
+00:10:18,959 --> 00:10:25,200
+that feedback to AI and make it
+
+251
+00:10:21,959 --> 00:10:27,760
+better. AI is a tool. It can both help
+
+252
+00:10:25,200 --> 00:10:30,240
+curiosity but also kill it depending on
+
+253
+00:10:27,760 --> 00:10:32,800
+how it's used. Right? So for young
+
+254
+00:10:30,240 --> 00:10:36,880
+people, my advice is not to be afraid of
+
+255
+00:10:32,800 --> 00:10:39,200
+AI or worry what skills to learn that AI
+
+256
+00:10:36,880 --> 00:10:42,000
+may replace them with, but really be in
+
+257
+00:10:39,200 --> 00:10:45,279
+that path of curiosity, right? Use AI as
+
+258
+00:10:42,000 --> 00:10:48,160
+a tool to drive that curiosity, learn
+
+259
+00:10:45,279 --> 00:10:50,399
+new skills, new knowledge, and you can
+
+260
+00:10:48,160 --> 00:10:52,320
+do that in a much more interactive way.
+
+261
+00:10:50,399 --> 00:10:54,399
+Even when it comes to writing computer
+
+262
+00:10:52,320 --> 00:10:56,880
+programs, you know, a lot of these AI
+
+263
+00:10:54,399 --> 00:10:58,959
+tools are getting better, but that only
+
+264
+00:10:56,880 --> 00:11:01,519
+means they can do a certain set of
+
+265
+00:10:58,959 --> 00:11:05,200
+instructions which are seen in data. You
+
+266
+00:11:01,519 --> 00:11:06,640
+still need to provide AI what to do,
+
+267
+00:11:05,200 --> 00:11:09,600
+right? You still need to be able to
+
+268
+00:11:06,640 --> 00:11:11,839
+describe it. And that ability to
+
+269
+00:11:09,600 --> 00:11:13,600
+describe what are the tasks AI should
+
+270
+00:11:11,839 --> 00:11:16,240
+do. What are kind of highlevel
+
+271
+00:11:13,600 --> 00:11:18,480
+understanding of what AI is doing when
+
+272
+00:11:16,240 --> 00:11:21,760
+it writes these computer programs is
+
+273
+00:11:18,480 --> 00:11:23,839
+still important because a bad programmer
+
+274
+00:11:21,760 --> 00:11:26,399
+who is not better than AI will be
+
+275
+00:11:23,839 --> 00:11:29,360
+replaced. But a great programmer who can
+
+276
+00:11:26,399 --> 00:11:32,160
+assess what AI is doing, make fixes,
+
+277
+00:11:29,360 --> 00:11:36,839
+ensure those programs are written well
+
+278
+00:11:32,160 --> 00:11:36,839
+will be in more demand than ever.
+

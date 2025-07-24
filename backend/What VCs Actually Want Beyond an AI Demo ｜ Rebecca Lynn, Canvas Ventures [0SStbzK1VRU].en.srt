@@ -1,0 +1,1176 @@
+1
+00:00:00,040 --> 00:00:06,120
+is it's really easy to create a company
+
+2
+00:00:02,919 --> 00:00:08,040
+in gen in demo mode it is a very
+
+3
+00:00:06,120 --> 00:00:10,480
+different thing to take that beautiful
+
+4
+00:00:08,040 --> 00:00:12,480
+demo and put it in the wild and scale it
+
+5
+00:00:10,480 --> 00:00:14,080
+and we've already seen a handful of
+
+6
+00:00:12,480 --> 00:00:16,240
+companies that you know were backed by
+
+7
+00:00:14,080 --> 00:00:18,240
+amazing investors kind of blow up
+
+8
+00:00:16,240 --> 00:00:20,279
+because they weren't able to transition
+
+9
+00:00:18,240 --> 00:00:21,680
+from that really cool slick demo into
+
+10
+00:00:20,279 --> 00:00:23,560
+the wild essentially into full
+
+11
+00:00:21,680 --> 00:00:25,400
+production the biggest question we have
+
+12
+00:00:23,560 --> 00:00:27,119
+for companies is they come to us and we
+
+13
+00:00:25,400 --> 00:00:31,279
+like the beautiful demo come to us when
+
+14
+00:00:27,119 --> 00:00:31,279
+you have a customer that's live
+
+15
+00:00:33,800 --> 00:00:38,760
+my name is Rebecca Lynn I'm the founder
+
+16
+00:00:36,480 --> 00:00:40,879
+and managing partner of canas Ventures
+
+17
+00:00:38,760 --> 00:00:43,360
+canvas Ventures is an early stage
+
+18
+00:00:40,879 --> 00:00:45,640
+Venture Capital firm that focuses on
+
+19
+00:00:43,360 --> 00:00:47,960
+investing in financial services digital
+
+20
+00:00:45,640 --> 00:00:50,760
+Health Andi so some of the most recent
+
+21
+00:00:47,960 --> 00:00:53,440
+outcomes of canvas Ventures are case
+
+22
+00:00:50,760 --> 00:00:56,120
+Tech Gabby and futur advisor and
+
+23
+00:00:53,440 --> 00:00:59,120
+importantly case text was a very early
+
+24
+00:00:56,120 --> 00:01:02,239
+exit with AI and gp4 and they exited to
+
+25
+00:00:59,120 --> 00:01:04,680
+Thomson reuter about 650 million Gabby
+
+26
+00:01:02,239 --> 00:01:07,519
+was acquired by Experian and future
+
+27
+00:01:04,680 --> 00:01:07,519
+adviser by Black
+
+28
+00:01:08,080 --> 00:01:13,560
+Rock so I have always been a believer in
+
+29
+00:01:11,439 --> 00:01:15,680
+in second mover I think first mover
+
+30
+00:01:13,560 --> 00:01:18,920
+Advantage is a fallacy and the reason is
+
+31
+00:01:15,680 --> 00:01:21,320
+is that it takes a lot of money and time
+
+32
+00:01:18,920 --> 00:01:23,320
+and patience to really prove out a brand
+
+33
+00:01:21,320 --> 00:01:25,680
+new market and once you prove it out you
+
+34
+00:01:23,320 --> 00:01:28,119
+have a ton of technical debt I invested
+
+35
+00:01:25,680 --> 00:01:30,079
+in Lending Club and from then on Lending
+
+36
+00:01:28,119 --> 00:01:33,320
+Club ended up being the largest US tech
+
+37
+00:01:30,079 --> 00:01:34,840
+IPO in 2014 and so lendy Club wasn't the
+
+38
+00:01:33,320 --> 00:01:36,600
+first mover there was a company out
+
+39
+00:01:34,840 --> 00:01:39,079
+there called Prosper who had really hit
+
+40
+00:01:36,600 --> 00:01:41,759
+the market first the best position to be
+
+41
+00:01:39,079 --> 00:01:43,479
+in in my opinion of a company is the
+
+42
+00:01:41,759 --> 00:01:45,520
+startup that lets another company kind
+
+43
+00:01:43,479 --> 00:01:47,240
+of seed the market prove that there's a
+
+44
+00:01:45,520 --> 00:01:49,360
+market there and then they can take that
+
+45
+00:01:47,240 --> 00:01:51,240
+learning and come up very quickly with a
+
+46
+00:01:49,360 --> 00:01:53,360
+better product and better marketing and
+
+47
+00:01:51,240 --> 00:01:55,600
+no technical debt I would challenge
+
+48
+00:01:53,360 --> 00:01:57,759
+anyone to to come up with more than just
+
+49
+00:01:55,600 --> 00:02:00,000
+a handful of companies that are public
+
+50
+00:01:57,759 --> 00:02:02,560
+today that truly were the first mover
+
+51
+00:02:00,000 --> 00:02:02,560
+there are very
+
+52
+00:02:03,119 --> 00:02:08,399
+few I think the most important
+
+53
+00:02:06,240 --> 00:02:10,920
+characteristic of a CEO is salesmanship
+
+54
+00:02:08,399 --> 00:02:12,280
+really a CEO's job all the time is sales
+
+55
+00:02:10,920 --> 00:02:14,239
+you're selling to your customer you're
+
+56
+00:02:12,280 --> 00:02:16,519
+selling to your employees you're hiring
+
+57
+00:02:14,239 --> 00:02:19,239
+people you are constantly selling the
+
+58
+00:02:16,519 --> 00:02:21,800
+company that in my opinion really most
+
+59
+00:02:19,239 --> 00:02:24,120
+clearly defines a CO who listens to
+
+60
+00:02:21,800 --> 00:02:27,440
+their customer and then is a great sales
+
+61
+00:02:24,120 --> 00:02:30,120
+leader it was Jeff tagney at doximity he
+
+62
+00:02:27,440 --> 00:02:32,160
+from the very beginning brought on a
+
+63
+00:02:30,120 --> 00:02:34,280
+customer advisory committee to help
+
+64
+00:02:32,160 --> 00:02:35,720
+inform him of you know what was
+
+65
+00:02:34,280 --> 00:02:37,239
+important to his end users in the
+
+66
+00:02:35,720 --> 00:02:39,840
+product and what wasn't and where to
+
+67
+00:02:37,239 --> 00:02:42,599
+take it very early on he would bring in
+
+68
+00:02:39,840 --> 00:02:44,640
+this advisory panel to like an on-site
+
+69
+00:02:42,599 --> 00:02:46,840
+sort of strategy session and they would
+
+70
+00:02:44,640 --> 00:02:49,480
+wireframe me of five six seven different
+
+71
+00:02:46,840 --> 00:02:51,680
+ideas and show them to this you know
+
+72
+00:02:49,480 --> 00:02:54,159
+panel of end users that would really
+
+73
+00:02:51,680 --> 00:02:55,879
+feed into their entire product road map
+
+74
+00:02:54,159 --> 00:02:58,519
+and he did that from the beginning so
+
+75
+00:02:55,879 --> 00:03:00,239
+when I'm evaluating whether a CEO really
+
+76
+00:02:58,519 --> 00:03:01,959
+possesses sort of the salesman ship it
+
+77
+00:03:00,239 --> 00:03:05,360
+becomes blazingly obvious as they're
+
+78
+00:03:01,959 --> 00:03:06,920
+pitching us you want a CEO who can sell
+
+79
+00:03:05,360 --> 00:03:08,360
+you on their Vision because of their
+
+80
+00:03:06,920 --> 00:03:09,959
+excitement and how they thought about it
+
+81
+00:03:08,360 --> 00:03:12,680
+and that they've talked to the consumer
+
+82
+00:03:09,959 --> 00:03:14,519
+and you also want them to be incredibly
+
+83
+00:03:12,680 --> 00:03:16,799
+honest and forthright with you as the
+
+84
+00:03:14,519 --> 00:03:18,440
+same time because that's what ERS trust
+
+85
+00:03:16,799 --> 00:03:21,159
+when you're in the sales process so when
+
+86
+00:03:18,440 --> 00:03:23,120
+we ask a CEO about you know their ARR
+
+87
+00:03:21,159 --> 00:03:26,040
+and is it booked or is it forecasted
+
+88
+00:03:23,120 --> 00:03:28,760
+having that c be very open and
+
+89
+00:03:26,040 --> 00:03:31,120
+transparent and upfront I think shows us
+
+90
+00:03:28,760 --> 00:03:32,920
+that they are going to not only earn our
+
+91
+00:03:31,120 --> 00:03:34,319
+trust but the trust of their customers
+
+92
+00:03:32,920 --> 00:03:36,599
+and that's really important especially
+
+93
+00:03:34,319 --> 00:03:36,599
+early
+
+94
+00:03:37,439 --> 00:03:43,200
+on the mistake most startups make when
+
+95
+00:03:40,439 --> 00:03:45,120
+they're scaling is that they believe too
+
+96
+00:03:43,200 --> 00:03:46,560
+early they have product Market fit and
+
+97
+00:03:45,120 --> 00:03:48,920
+they believe they they've got it and
+
+98
+00:03:46,560 --> 00:03:50,920
+then they go out and they hire a very
+
+99
+00:03:48,920 --> 00:03:52,599
+expensive salesperson who then wants to
+
+100
+00:03:50,920 --> 00:03:54,959
+hire a bunch of people and they just
+
+101
+00:03:52,599 --> 00:03:57,159
+burn a ton of cash too early and then
+
+102
+00:03:54,959 --> 00:03:59,280
+they have to let that salesperson go and
+
+103
+00:03:57,159 --> 00:04:01,239
+then go back to the drawing board and
+
+104
+00:03:59,280 --> 00:04:02,480
+kind of sort out a little bit more you
+
+105
+00:04:01,239 --> 00:04:05,079
+know what those elements of product
+
+106
+00:04:02,480 --> 00:04:07,280
+Market fit are and then rehire it's hard
+
+107
+00:04:05,079 --> 00:04:08,840
+to watch I think almost every startup
+
+108
+00:04:07,280 --> 00:04:10,799
+does this especially in the Enterprise
+
+109
+00:04:08,840 --> 00:04:12,720
+space and and our advice is you know
+
+110
+00:04:10,799 --> 00:04:15,079
+just way to beat hire maybe that
+
+111
+00:04:12,720 --> 00:04:17,000
+director level salesperson who can help
+
+112
+00:04:15,079 --> 00:04:19,600
+you maybe a chief of staff that can help
+
+113
+00:04:17,000 --> 00:04:22,479
+you in in your sales efforts and then
+
+114
+00:04:19,600 --> 00:04:24,040
+really make sure you scale gradually
+
+115
+00:04:22,479 --> 00:04:26,280
+when you think you have product Market
+
+116
+00:04:24,040 --> 00:04:28,680
+fit have some more checkpoints you know
+
+117
+00:04:26,280 --> 00:04:30,199
+before you go out and pay a lot of money
+
+118
+00:04:28,680 --> 00:04:31,560
+for a head sales person person before
+
+119
+00:04:30,199 --> 00:04:33,440
+you have product Market fit you know
+
+120
+00:04:31,560 --> 00:04:35,400
+what there's an example so case text
+
+121
+00:04:33,440 --> 00:04:39,520
+pretty early thought they had product
+
+122
+00:04:35,400 --> 00:04:41,720
+Market fit and they hired a very good
+
+123
+00:04:39,520 --> 00:04:43,360
+you know Season sales executive to come
+
+124
+00:04:41,720 --> 00:04:45,600
+in they spent quite a bit of money on
+
+125
+00:04:43,360 --> 00:04:47,479
+the sales exact and the team and it it
+
+126
+00:04:45,600 --> 00:04:49,479
+wasn't working they weren't getting the
+
+127
+00:04:47,479 --> 00:04:52,039
+traction that they had hoped for this is
+
+128
+00:04:49,479 --> 00:04:54,440
+before they launched co- counil the GPT
+
+129
+00:04:52,039 --> 00:04:56,840
+4 product the founder to his credit made
+
+130
+00:04:54,440 --> 00:04:58,759
+a pretty quick early decision to let
+
+131
+00:04:56,840 --> 00:05:01,000
+that team go and it was really hard you
+
+132
+00:04:58,759 --> 00:05:03,000
+know the salesperson was great it wasn't
+
+133
+00:05:01,000 --> 00:05:04,560
+an issue with them it was an issue with
+
+134
+00:05:03,000 --> 00:05:06,160
+you know where we were at that time with
+
+135
+00:05:04,560 --> 00:05:08,160
+the product you know it was really about
+
+136
+00:05:06,160 --> 00:05:10,000
+supporting the founder he kind of saw
+
+137
+00:05:08,160 --> 00:05:11,680
+also that was the right answer but it
+
+138
+00:05:10,000 --> 00:05:14,440
+was a hard answer it was a hard thing
+
+139
+00:05:11,680 --> 00:05:16,400
+for him to execute and so helping him
+
+140
+00:05:14,440 --> 00:05:18,800
+think through how to message it how to
+
+141
+00:05:16,400 --> 00:05:20,199
+make that happen and introducing him to
+
+142
+00:05:18,800 --> 00:05:22,280
+other Founders who've had to make
+
+143
+00:05:20,199 --> 00:05:24,720
+similar tough choices so that he can get
+
+144
+00:05:22,280 --> 00:05:26,440
+their firsthand experience and advice
+
+145
+00:05:24,720 --> 00:05:29,120
+was really helpful often times the
+
+146
+00:05:26,440 --> 00:05:31,520
+founder does have Instinct and data that
+
+147
+00:05:29,120 --> 00:05:33,240
+I don't so I first seek to understand
+
+148
+00:05:31,520 --> 00:05:35,600
+why they're heading in the direction
+
+149
+00:05:33,240 --> 00:05:37,319
+they're heading and then if we become
+
+150
+00:05:35,600 --> 00:05:40,240
+pretty convinced that it is the wrong
+
+151
+00:05:37,319 --> 00:05:42,360
+direction we try to show not tell and so
+
+152
+00:05:40,240 --> 00:05:45,120
+we we try to find the right people to
+
+153
+00:05:42,360 --> 00:05:47,080
+introduce them to that will offer them
+
+154
+00:05:45,120 --> 00:05:48,680
+you know a more complete picture of the
+
+155
+00:05:47,080 --> 00:05:50,199
+way we're thinking about the world and
+
+156
+00:05:48,680 --> 00:05:51,280
+often times we get there it's not that
+
+157
+00:05:50,199 --> 00:05:52,720
+they were completely in the wrong
+
+158
+00:05:51,280 --> 00:05:53,880
+direction and we were right often times
+
+159
+00:05:52,720 --> 00:05:55,680
+there's some kind of meeting in the
+
+160
+00:05:53,880 --> 00:05:57,600
+middle I think the first thing that we
+
+161
+00:05:55,680 --> 00:05:58,759
+need to do is check our assumptions
+
+162
+00:05:57,600 --> 00:06:00,800
+understand where the founder is coming
+
+163
+00:05:58,759 --> 00:06:02,199
+from and then get them the resources if
+
+164
+00:06:00,800 --> 00:06:04,479
+they do need to make a shift and they
+
+165
+00:06:02,199 --> 00:06:06,199
+decide they make a shift like help them
+
+166
+00:06:04,479 --> 00:06:07,960
+on that journey and it does happen I me
+
+167
+00:06:06,199 --> 00:06:09,680
+there's I think every company it's often
+
+168
+00:06:07,960 --> 00:06:11,360
+times many stages you has to Pivot
+
+169
+00:06:09,680 --> 00:06:13,280
+either from strategy or product or
+
+170
+00:06:11,360 --> 00:06:14,960
+Channel or you know whatever it might be
+
+171
+00:06:13,280 --> 00:06:17,080
+and when they they get there you know
+
+172
+00:06:14,960 --> 00:06:19,639
+our job is to help them figure out how
+
+173
+00:06:17,080 --> 00:06:19,639
+to make that
+
+174
+00:06:20,120 --> 00:06:25,520
+shift what do you do when a potential
+
+175
+00:06:23,039 --> 00:06:28,360
+client says we love your product but
+
+176
+00:06:25,520 --> 00:06:30,880
+it's way too expensive do you give in on
+
+177
+00:06:28,360 --> 00:06:33,840
+discounts right away or can you
+
+178
+00:06:30,880 --> 00:06:36,960
+confidently defend your price hi I'm
+
+179
+00:06:33,840 --> 00:06:39,520
+Peter on with over 15 years of sales
+
+180
+00:06:36,960 --> 00:06:42,680
+experience at companies like Google
+
+181
+00:06:39,520 --> 00:06:45,440
+Dropbox and slack I've obsessed over how
+
+182
+00:06:42,680 --> 00:06:48,080
+to effectively answer questions like
+
+183
+00:06:45,440 --> 00:06:51,000
+this in a way that builds trust that's
+
+184
+00:06:48,080 --> 00:06:54,319
+why I created Peter on sales school with
+
+185
+00:06:51,000 --> 00:06:56,879
+EO to equip startup Founders and sales
+
+186
+00:06:54,319 --> 00:07:00,199
+professionals with the modern skills to
+
+187
+00:06:56,879 --> 00:07:03,720
+excel in Enterprise B2B sales this
+
+188
+00:07:00,199 --> 00:07:06,879
+online course offers real life examples
+
+189
+00:07:03,720 --> 00:07:09,080
+and ready to use B2B sales Frameworks
+
+190
+00:07:06,879 --> 00:07:11,240
+that you can incorporate immediately
+
+191
+00:07:09,080 --> 00:07:14,000
+from crafting the most effective pitch
+
+192
+00:07:11,240 --> 00:07:16,800
+deck to authentic customer Discovery and
+
+193
+00:07:14,000 --> 00:07:19,720
+even negotiation I walk through how you
+
+194
+00:07:16,800 --> 00:07:22,759
+could do it all and limited to just 10
+
+195
+00:07:19,720 --> 00:07:26,400
+students I'm also offering oneon-one
+
+196
+00:07:22,759 --> 00:07:28,960
+bespoke feedback on assignments ready to
+
+197
+00:07:26,400 --> 00:07:31,479
+learn and grow your sales confidence
+
+198
+00:07:28,960 --> 00:07:33,690
+check out the link in the description or
+
+199
+00:07:31,479 --> 00:07:35,919
+find me at EO
+
+200
+00:07:33,690 --> 00:07:38,919
+[Music]
+
+201
+00:07:35,919 --> 00:07:41,400
+school so there's a ton of opportunity
+
+202
+00:07:38,919 --> 00:07:44,080
+in gen the clear thing that we has come
+
+203
+00:07:41,400 --> 00:07:46,919
+to us is it's really easy to create a
+
+204
+00:07:44,080 --> 00:07:49,000
+company in gen in demo mode to create
+
+205
+00:07:46,919 --> 00:07:51,479
+this beautiful demo that blows everyone
+
+206
+00:07:49,000 --> 00:07:53,400
+away it is a very different thing to
+
+207
+00:07:51,479 --> 00:07:55,599
+take that beautiful demo and put it in
+
+208
+00:07:53,400 --> 00:07:57,560
+the wild and scale it and we've already
+
+209
+00:07:55,599 --> 00:07:59,919
+seen a handful of companies that you
+
+210
+00:07:57,560 --> 00:08:01,599
+know were backed by amazing invest ERS
+
+211
+00:07:59,919 --> 00:08:03,680
+kind of blow up because they weren't
+
+212
+00:08:01,599 --> 00:08:05,759
+able to transition from that really cool
+
+213
+00:08:03,680 --> 00:08:07,479
+slick demo into the wild essentially
+
+214
+00:08:05,759 --> 00:08:09,240
+into full production the biggest
+
+215
+00:08:07,479 --> 00:08:11,319
+question we have for companies is they
+
+216
+00:08:09,240 --> 00:08:12,800
+come to us that's a beautiful demo come
+
+217
+00:08:11,319 --> 00:08:14,919
+to us when you have a customer that's
+
+218
+00:08:12,800 --> 00:08:16,560
+live for the CEOs who come to us to
+
+219
+00:08:14,919 --> 00:08:18,000
+pitch sort of their series A and B
+
+220
+00:08:16,560 --> 00:08:21,280
+companies and even we look at a lot of
+
+221
+00:08:18,000 --> 00:08:23,360
+seed deals also the questions I ask are
+
+222
+00:08:21,280 --> 00:08:25,080
+really about how's the consumer using
+
+223
+00:08:23,360 --> 00:08:26,879
+the product what have they learned from
+
+224
+00:08:25,080 --> 00:08:28,680
+the consumer since they started the
+
+225
+00:08:26,879 --> 00:08:30,960
+company what was surprising to them what
+
+226
+00:08:28,680 --> 00:08:32,680
+thesis proved what was different and
+
+227
+00:08:30,960 --> 00:08:34,519
+what I'm looking for is that they're
+
+228
+00:08:32,680 --> 00:08:36,399
+listening they're actually looking for
+
+229
+00:08:34,519 --> 00:08:38,320
+that feedback from their users and that
+
+230
+00:08:36,399 --> 00:08:39,919
+they're listening and they're adjusting
+
+231
+00:08:38,320 --> 00:08:42,159
+accordingly right that they're not sort
+
+232
+00:08:39,919 --> 00:08:44,360
+of dogmatically adherent to maybe
+
+233
+00:08:42,159 --> 00:08:46,000
+solving their own problem that was what
+
+234
+00:08:44,360 --> 00:08:47,279
+you know the company stem from that
+
+235
+00:08:46,000 --> 00:08:49,279
+they're listening to what their end
+
+236
+00:08:47,279 --> 00:08:51,600
+users really want and need the second
+
+237
+00:08:49,279 --> 00:08:53,120
+thing I really look for from the CEOs is
+
+238
+00:08:51,600 --> 00:08:55,160
+what gets them out of bed in the morning
+
+239
+00:08:53,120 --> 00:08:56,800
+they really motivates them to do a
+
+240
+00:08:55,160 --> 00:08:58,680
+startup because there's going to be
+
+241
+00:08:56,800 --> 00:09:02,000
+really really hard times in the startup
+
+242
+00:08:58,680 --> 00:09:03,519
+there always are what is it about them
+
+243
+00:09:02,000 --> 00:09:04,959
+that is driving them forward what's
+
+244
+00:09:03,519 --> 00:09:06,560
+going to help them pick themselves up
+
+245
+00:09:04,959 --> 00:09:08,160
+when things get really hard and Shake
+
+246
+00:09:06,560 --> 00:09:10,399
+themselves off and keep going and so I
+
+247
+00:09:08,160 --> 00:09:12,000
+always like to hear the CEO's stories
+
+248
+00:09:10,399 --> 00:09:13,360
+all of them could easily go get a job
+
+249
+00:09:12,000 --> 00:09:15,160
+and get paid you know quite a bit of
+
+250
+00:09:13,360 --> 00:09:17,519
+money at a big company and what is it
+
+251
+00:09:15,160 --> 00:09:20,560
+about this particular opportunity that
+
+252
+00:09:17,519 --> 00:09:20,560
+is really energizing
+
+253
+00:09:21,079 --> 00:09:26,480
+them I was motivated to found cus
+
+254
+00:09:24,040 --> 00:09:28,720
+Ventures because I wanted to create the
+
+255
+00:09:26,480 --> 00:09:31,200
+Venture firm that I would want to fund
+
+256
+00:09:28,720 --> 00:09:32,959
+my startup I didn't start inventure
+
+257
+00:09:31,200 --> 00:09:34,839
+Capital thinking I would be here you
+
+258
+00:09:32,959 --> 00:09:37,360
+know a decade plus later when I started
+
+259
+00:09:34,839 --> 00:09:39,240
+in Venture Capital it was really a GU I
+
+260
+00:09:37,360 --> 00:09:40,800
+was going to start Venture Capital learn
+
+261
+00:09:39,240 --> 00:09:42,519
+how they made decisions and I was going
+
+262
+00:09:40,800 --> 00:09:44,720
+to get them to invest in the company
+
+263
+00:09:42,519 --> 00:09:46,880
+that I was working on and unfortunately
+
+264
+00:09:44,720 --> 00:09:49,000
+I enjoyed the job so much that I I
+
+265
+00:09:46,880 --> 00:09:51,720
+remained adventure with canvas this is
+
+266
+00:09:49,000 --> 00:09:53,880
+my startup and one of the things I I try
+
+267
+00:09:51,720 --> 00:09:55,200
+to stress is just be more confident in
+
+268
+00:09:53,880 --> 00:09:56,760
+yourself one of the most formative
+
+269
+00:09:55,200 --> 00:09:58,399
+things was you know what my best friend
+
+270
+00:09:56,760 --> 00:09:59,839
+from business school where we're taking
+
+271
+00:09:58,399 --> 00:10:02,040
+a leadership class
+
+272
+00:09:59,839 --> 00:10:03,440
+and we had to rank ourselves we had all
+
+273
+00:10:02,040 --> 00:10:05,680
+of these things and we had to rank you
+
+274
+00:10:03,440 --> 00:10:07,600
+know one through five you one being the
+
+275
+00:10:05,680 --> 00:10:09,200
+best how good you were at everything and
+
+276
+00:10:07,600 --> 00:10:10,839
+then we had to get up and say what we
+
+277
+00:10:09,200 --> 00:10:13,040
+ranked ourselves and you know everyone
+
+278
+00:10:10,839 --> 00:10:15,160
+was pretty you know I don't know modest
+
+279
+00:10:13,040 --> 00:10:17,560
+or whatever and she's like I'm a one I
+
+280
+00:10:15,160 --> 00:10:19,240
+was I was like who is this person right
+
+281
+00:10:17,560 --> 00:10:20,480
+and she just explained in the world of
+
+282
+00:10:19,240 --> 00:10:22,440
+banking that's the first thing they
+
+283
+00:10:20,480 --> 00:10:23,519
+teach you like fight for yourself
+
+284
+00:10:22,440 --> 00:10:25,279
+because you know you're working for
+
+285
+00:10:23,519 --> 00:10:27,839
+somebody else and why would anyone want
+
+286
+00:10:25,279 --> 00:10:29,440
+to hire you unless at least you believe
+
+287
+00:10:27,839 --> 00:10:31,279
+that you were the best possible person
+
+288
+00:10:29,440 --> 00:10:32,920
+for that job and that really stuck with
+
+289
+00:10:31,279 --> 00:10:34,640
+me you know why would I expect somebody
+
+290
+00:10:32,920 --> 00:10:36,360
+to invest in me give me money give me
+
+291
+00:10:34,640 --> 00:10:38,320
+that promotion if I didn't believe I was
+
+292
+00:10:36,360 --> 00:10:39,680
+the best person for that job be more
+
+293
+00:10:38,320 --> 00:10:43,519
+confident in yourself no one's going to
+
+294
+00:10:39,680 --> 00:10:43,519
+believe in you more than you
+

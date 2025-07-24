@@ -1,0 +1,996 @@
+1
+00:00:00,000 --> 00:00:04,080
+I quit my job and then it took a year
+
+2
+00:00:01,760 --> 00:00:06,160
+and a half for me to launch Julius after
+
+3
+00:00:04,080 --> 00:00:08,240
+that. When I when I went all in, I was
+
+4
+00:00:06,160 --> 00:00:10,639
+nervous to be honest. I was scared, but
+
+5
+00:00:08,240 --> 00:00:12,480
+it's being a little scared is good. I
+
+6
+00:00:10,639 --> 00:00:14,639
+think fear is good. You It keeps you
+
+7
+00:00:12,480 --> 00:00:17,199
+sharp. It keeps you on your toes. You're
+
+8
+00:00:14,639 --> 00:00:19,920
+able to see through things. When you're
+
+9
+00:00:17,199 --> 00:00:22,240
+in a comfortable place, it it breeds
+
+10
+00:00:19,920 --> 00:00:23,840
+complacency and you're often, you know,
+
+11
+00:00:22,240 --> 00:00:25,279
+fooling yourself into believing that
+
+12
+00:00:23,840 --> 00:00:27,519
+your ideas are going to work one day.
+
+13
+00:00:25,279 --> 00:00:28,880
+But then when all the bridges are burned
+
+14
+00:00:27,519 --> 00:00:30,320
+and you really have to make a thing
+
+15
+00:00:28,880 --> 00:00:33,200
+work, you start thinking, you start
+
+16
+00:00:30,320 --> 00:00:36,000
+taking risks, taking shots at goal. But
+
+17
+00:00:33,200 --> 00:00:38,960
+having no other boats, you know, no life
+
+18
+00:00:36,000 --> 00:00:42,360
+boats, it it was a little scary, but I
+
+19
+00:00:38,960 --> 00:00:42,360
+think it was good.
+
+20
+00:00:44,320 --> 00:00:49,280
+I'm Rahul, founder and CEO of Julius AI.
+
+21
+00:00:47,120 --> 00:00:51,120
+Julius is an AI data analyst. If you
+
+22
+00:00:49,280 --> 00:00:52,640
+have data on your hands, Julius will
+
+23
+00:00:51,120 --> 00:00:54,800
+help you get insights from your data
+
+24
+00:00:52,640 --> 00:00:56,879
+within seconds and help you make charts
+
+25
+00:00:54,800 --> 00:00:59,680
+and data visualizations. Since launching
+
+26
+00:00:56,879 --> 00:01:01,199
+in 2023, our users have used Julius to
+
+27
+00:00:59,680 --> 00:01:04,320
+make over 10 million data
+
+28
+00:01:01,199 --> 00:01:07,280
+visualizations. Every day, Julius writes
+
+29
+00:01:04,320 --> 00:01:09,200
+over 4 million lines of analysis code. 4
+
+30
+00:01:07,280 --> 00:01:11,840
+million lines of code is more than an
+
+31
+00:01:09,200 --> 00:01:13,520
+army of data scientists can write every
+
+32
+00:01:11,840 --> 00:01:17,240
+day. It took about a year and a half to
+
+33
+00:01:13,520 --> 00:01:17,240
+get to 2 million users.
+
+34
+00:01:22,320 --> 00:01:29,759
+For AI startups, I'll say focus. Don't
+
+35
+00:01:26,240 --> 00:01:32,000
+build a general purpose tool. Startups
+
+36
+00:01:29,759 --> 00:01:33,520
+win because of focus. That's the only
+
+37
+00:01:32,000 --> 00:01:36,159
+advantage you have as a startup. Now,
+
+38
+00:01:33,520 --> 00:01:38,720
+Chad GBD is like all-in-one tool. Making
+
+39
+00:01:36,159 --> 00:01:40,799
+videos, making images, doing internet
+
+40
+00:01:38,720 --> 00:01:43,119
+search, writing essays, and it's just
+
+41
+00:01:40,799 --> 00:01:44,960
+allin-one tool. And it's not focused on
+
+42
+00:01:43,119 --> 00:01:47,920
+data analysis. So, the experience is
+
+43
+00:01:44,960 --> 00:01:50,720
+much worse. A lot of our users they
+
+44
+00:01:47,920 --> 00:01:54,560
+start with using Chad GPT and they
+
+45
+00:01:50,720 --> 00:01:56,640
+realize that to analyze any kind of real
+
+46
+00:01:54,560 --> 00:01:59,119
+data to get any kind of meaningful
+
+47
+00:01:56,640 --> 00:02:01,040
+insights Chad GPD falls short. The
+
+48
+00:01:59,119 --> 00:02:03,200
+quality of insights you get aren't that
+
+49
+00:02:01,040 --> 00:02:05,520
+deep. It cannot handle any kind of real
+
+50
+00:02:03,200 --> 00:02:06,960
+data. The charts don't look good. You
+
+51
+00:02:05,520 --> 00:02:09,440
+can't collaborate with your colleagues
+
+52
+00:02:06,960 --> 00:02:11,440
+on the analysis. So all these problems
+
+53
+00:02:09,440 --> 00:02:14,239
+people run into after using it for a day
+
+54
+00:02:11,440 --> 00:02:17,920
+for analysis and they all go to Google
+
+55
+00:02:14,239 --> 00:02:19,280
+and they look up AI data analysis and
+
+56
+00:02:17,920 --> 00:02:22,080
+the number one search result on Google
+
+57
+00:02:19,280 --> 00:02:23,840
+for that is Julius.
+
+58
+00:02:22,080 --> 00:02:26,000
+It's kind of like think about hiring
+
+59
+00:02:23,840 --> 00:02:28,640
+humans. Would you want to hire one human
+
+60
+00:02:26,000 --> 00:02:31,200
+that can do everything? You you can and
+
+61
+00:02:28,640 --> 00:02:33,040
+that will help you get decent results.
+
+62
+00:02:31,200 --> 00:02:35,519
+But then there's comes a point where you
+
+63
+00:02:33,040 --> 00:02:37,599
+want someone with deep expertise,
+
+64
+00:02:35,519 --> 00:02:40,560
+someone who's really really good at one
+
+65
+00:02:37,599 --> 00:02:42,800
+function like a marketer, finance prof,
+
+66
+00:02:40,560 --> 00:02:46,239
+finance person, an engineer. I think
+
+67
+00:02:42,800 --> 00:02:47,760
+focus agents for a task have much more
+
+68
+00:02:46,239 --> 00:02:51,400
+competitive advantage than like the
+
+69
+00:02:47,760 --> 00:02:51,400
+general purpose agent.
+
+70
+00:02:54,640 --> 00:02:57,599
+You know, there's this like conventional
+
+71
+00:02:56,160 --> 00:02:59,040
+meme like Google just killed your
+
+72
+00:02:57,599 --> 00:03:01,120
+startup, OpenAI just killed your
+
+73
+00:02:59,040 --> 00:03:02,720
+startup, XYZ just killed this all
+
+74
+00:03:01,120 --> 00:03:05,440
+startup. I think all that is very
+
+75
+00:03:02,720 --> 00:03:06,800
+overblown. As long as your users don't
+
+76
+00:03:05,440 --> 00:03:07,920
+care about that stuff, it shouldn't
+
+77
+00:03:06,800 --> 00:03:09,360
+matter. If you're building something
+
+78
+00:03:07,920 --> 00:03:10,800
+that solves a problem for people, if
+
+79
+00:03:09,360 --> 00:03:12,560
+you're doing that good job at that
+
+80
+00:03:10,800 --> 00:03:14,319
+better than everyone else, that all
+
+81
+00:03:12,560 --> 00:03:16,080
+that's all that matters. So, this is
+
+82
+00:03:14,319 --> 00:03:17,360
+back in college when I got into the
+
+83
+00:03:16,080 --> 00:03:20,080
+hackathon scene. I would go to these
+
+84
+00:03:17,360 --> 00:03:22,400
+hackathons. The big problem I noticed is
+
+85
+00:03:20,080 --> 00:03:24,720
+you have 48 hours to build and launch
+
+86
+00:03:22,400 --> 00:03:27,680
+idea. A lot of the time people would
+
+87
+00:03:24,720 --> 00:03:30,159
+spend on setting up a backend service,
+
+88
+00:03:27,680 --> 00:03:32,080
+setting up their database and I thought
+
+89
+00:03:30,159 --> 00:03:34,159
+that was a waste of time. So water
+
+90
+00:03:32,080 --> 00:03:36,400
+review was this, you know, managed
+
+91
+00:03:34,159 --> 00:03:38,239
+service. You would get out of box like a
+
+92
+00:03:36,400 --> 00:03:40,239
+backend server or database that just
+
+93
+00:03:38,239 --> 00:03:42,400
+kind of worked. It got a lot of users
+
+94
+00:03:40,239 --> 00:03:44,080
+and I would go to these hackathons, give
+
+95
+00:03:42,400 --> 00:03:46,799
+it to people and they would try it. It
+
+96
+00:03:44,080 --> 00:03:48,400
+would save them time. But problem was
+
+97
+00:03:46,799 --> 00:03:50,000
+none of the people that built their
+
+98
+00:03:48,400 --> 00:03:51,920
+hackathon projects, their weekend
+
+99
+00:03:50,000 --> 00:03:53,840
+projects on waterview continued to work
+
+100
+00:03:51,920 --> 00:03:55,360
+on those projects after that weekend.
+
+101
+00:03:53,840 --> 00:03:58,959
+You know, it was like a weekend thing.
+
+102
+00:03:55,360 --> 00:04:00,560
+The big lesson there was you can solve
+
+103
+00:03:58,959 --> 00:04:02,799
+the right problem. You can solve a
+
+104
+00:04:00,560 --> 00:04:05,200
+painoint for people, but if they don't
+
+105
+00:04:02,799 --> 00:04:06,720
+have that pain point daily or weekly,
+
+106
+00:04:05,200 --> 00:04:08,239
+they're not going to retain. They're not
+
+107
+00:04:06,720 --> 00:04:09,680
+going to come back to the product. You
+
+108
+00:04:08,239 --> 00:04:12,400
+you have to solve a problem people have.
+
+109
+00:04:09,680 --> 00:04:14,799
+If they have it only once a year or once
+
+110
+00:04:12,400 --> 00:04:16,239
+every 6 months or once a month, they're
+
+111
+00:04:14,799 --> 00:04:18,079
+not going to retain to your product.
+
+112
+00:04:16,239 --> 00:04:22,280
+That's the reason why water we failed.
+
+113
+00:04:18,079 --> 00:04:22,280
+And that was a very valuable lesson.
+
+114
+00:04:25,040 --> 00:04:29,360
+I worked as an engineer at Uber and
+
+115
+00:04:27,520 --> 00:04:31,759
+Facebook. When you're at a big company
+
+116
+00:04:29,360 --> 00:04:33,520
+and you have an idea, one no can kill
+
+117
+00:04:31,759 --> 00:04:34,560
+that idea. Get a yes from your manager.
+
+118
+00:04:33,520 --> 00:04:36,720
+You have to get a yes from your
+
+119
+00:04:34,560 --> 00:04:38,800
+manager's manager, design manager,
+
+120
+00:04:36,720 --> 00:04:41,919
+product manager. You have to get all
+
+121
+00:04:38,800 --> 00:04:44,080
+these yeses and even one no can kill
+
+122
+00:04:41,919 --> 00:04:46,320
+your idea. So innovation doesn't really
+
+123
+00:04:44,080 --> 00:04:48,400
+happen in big companies. And then at a
+
+124
+00:04:46,320 --> 00:04:50,639
+startup it's complete opposite. All you
+
+125
+00:04:48,400 --> 00:04:53,280
+need is one yes. Looking for customers
+
+126
+00:04:50,639 --> 00:04:54,880
+you know you can get 50 nos but one yes
+
+127
+00:04:53,280 --> 00:04:56,720
+your first customer that's all that
+
+128
+00:04:54,880 --> 00:04:58,560
+matters. Instead of one no killing your
+
+129
+00:04:56,720 --> 00:05:00,240
+idea. One yes can really make your
+
+130
+00:04:58,560 --> 00:05:03,680
+company work. So, one of the problems I
+
+131
+00:05:00,240 --> 00:05:07,199
+was trying to solve at Uber is people
+
+132
+00:05:03,680 --> 00:05:10,000
+book Uber rides usually for things that
+
+133
+00:05:07,199 --> 00:05:12,800
+they can't drive to, like uh like an
+
+134
+00:05:10,000 --> 00:05:15,360
+airport or from an airport or when
+
+135
+00:05:12,800 --> 00:05:18,720
+they're out going out at night to bars
+
+136
+00:05:15,360 --> 00:05:20,080
+or restaurants. That sporadic usage is
+
+137
+00:05:18,720 --> 00:05:22,320
+not good for Uber. One of the things I
+
+138
+00:05:20,080 --> 00:05:24,960
+wanted to solve for is how could we get
+
+139
+00:05:22,320 --> 00:05:26,479
+people to use Uber on a daily and weekly
+
+140
+00:05:24,960 --> 00:05:28,400
+basis? So, I wanted to launch this
+
+141
+00:05:26,479 --> 00:05:30,960
+commuter product at Uber. How can we
+
+142
+00:05:28,400 --> 00:05:35,120
+help people use you know Uber's
+
+143
+00:05:30,960 --> 00:05:37,520
+offerings Uber transit Uber X Uber um
+
+144
+00:05:35,120 --> 00:05:39,280
+Uber mobility like bikes as scooters all
+
+145
+00:05:37,520 --> 00:05:40,639
+that as a part of a commuter package
+
+146
+00:05:39,280 --> 00:05:41,919
+that companies could offer their
+
+147
+00:05:40,639 --> 00:05:43,440
+employees. So I wanted to pitch the
+
+148
+00:05:41,919 --> 00:05:46,800
+idea. I was pushing it really really
+
+149
+00:05:43,440 --> 00:05:48,560
+hard and you know I got buy in from a
+
+150
+00:05:46,800 --> 00:05:50,080
+lot of cross functional management. I
+
+151
+00:05:48,560 --> 00:05:52,720
+couldn't get behind from our um
+
+152
+00:05:50,080 --> 00:05:54,000
+engineering leader and I couldn't get in
+
+153
+00:05:52,720 --> 00:05:55,919
+from the engineering leader and that
+
+154
+00:05:54,000 --> 00:05:58,080
+crush idea but at the same time I was
+
+155
+00:05:55,919 --> 00:06:00,400
+building apps and different ideas on the
+
+156
+00:05:58,080 --> 00:06:03,120
+side on the weekends and that motivated
+
+157
+00:06:00,400 --> 00:06:08,199
+me to just like quit my job and spend a
+
+158
+00:06:03,120 --> 00:06:08,199
+year exploring my ideas full-time.
+
+159
+00:06:11,600 --> 00:06:18,479
+Every failure is is is good. Failing is
+
+160
+00:06:15,520 --> 00:06:21,120
+good because you know what's what's not
+
+161
+00:06:18,479 --> 00:06:23,280
+working. I I I talk to founders and they
+
+162
+00:06:21,120 --> 00:06:25,199
+they're too scared to launch, too scared
+
+163
+00:06:23,280 --> 00:06:26,720
+to tell people what their idea is.
+
+164
+00:06:25,199 --> 00:06:28,400
+They're too scared to put the product
+
+165
+00:06:26,720 --> 00:06:30,400
+out there. I'm the opposite. You know,
+
+166
+00:06:28,400 --> 00:06:32,319
+at Julius, we launch things when they're
+
+167
+00:06:30,400 --> 00:06:34,160
+barely working because you want to get
+
+168
+00:06:32,319 --> 00:06:35,759
+early feedback from our users, our
+
+169
+00:06:34,160 --> 00:06:37,280
+customers. We want them to try it out.
+
+170
+00:06:35,759 --> 00:06:39,440
+We want to learn from our users and
+
+171
+00:06:37,280 --> 00:06:40,960
+customers on what they actually want and
+
+172
+00:06:39,440 --> 00:06:42,479
+how the things should work. So, I'll
+
+173
+00:06:40,960 --> 00:06:44,240
+give you one of the examples. We were
+
+174
+00:06:42,479 --> 00:06:47,120
+building in you know data and AI and
+
+175
+00:06:44,240 --> 00:06:49,199
+insights and we thought you know one of
+
+176
+00:06:47,120 --> 00:06:51,520
+the one of the group of people that want
+
+177
+00:06:49,199 --> 00:06:53,120
+insights from data but don't have the
+
+178
+00:06:51,520 --> 00:06:55,919
+expertise to go do data science on their
+
+179
+00:06:53,120 --> 00:06:58,160
+own is is sports fans. We built this
+
+180
+00:06:55,919 --> 00:07:00,560
+thing called NBA GPD was called hoops
+
+181
+00:06:58,160 --> 00:07:03,120
+GPD could help you query NBA data
+
+182
+00:07:00,560 --> 00:07:05,919
+playby-play data but just asking simple
+
+183
+00:07:03,120 --> 00:07:08,800
+questions. We had to build the UI, the
+
+184
+00:07:05,919 --> 00:07:11,280
+interface, figure out how this text to
+
+185
+00:07:08,800 --> 00:07:13,520
+querying engine is going to work and
+
+186
+00:07:11,280 --> 00:07:15,759
+ship the whole thing in like two weeks
+
+187
+00:07:13,520 --> 00:07:18,960
+because if you were too late, the NBA
+
+188
+00:07:15,759 --> 00:07:21,599
+season would be over. It was no point to
+
+189
+00:07:18,960 --> 00:07:24,400
+wait a year to try the idea again. And
+
+190
+00:07:21,599 --> 00:07:26,319
+turns out like sports fans aren't that
+
+191
+00:07:24,400 --> 00:07:28,319
+savvy about data. Turns out it's only
+
+192
+00:07:26,319 --> 00:07:29,440
+the people that want to do betting. Yep.
+
+193
+00:07:28,319 --> 00:07:32,960
+Really aren't the users you want to
+
+194
+00:07:29,440 --> 00:07:34,319
+serve. So we learn very quickly know
+
+195
+00:07:32,960 --> 00:07:35,840
+whether it's something people want or
+
+196
+00:07:34,319 --> 00:07:37,520
+don't want. We don't want to build
+
+197
+00:07:35,840 --> 00:07:39,599
+something that no one will ever want to
+
+198
+00:07:37,520 --> 00:07:41,520
+use. I think failing is important.
+
+199
+00:07:39,599 --> 00:07:42,960
+Failing fast is really really important.
+
+200
+00:07:41,520 --> 00:07:44,400
+Paul Graham talks about this in his
+
+201
+00:07:42,960 --> 00:07:48,199
+essays all the time. It's like failing
+
+202
+00:07:44,400 --> 00:07:48,199
+fast is super important.
+
+203
+00:07:50,800 --> 00:07:56,000
+This is months after launching Julius.
+
+204
+00:07:53,360 --> 00:07:58,160
+We had about 10 15,000 users and most of
+
+205
+00:07:56,000 --> 00:08:00,560
+our users at that point were actually
+
+206
+00:07:58,160 --> 00:08:03,360
+coming from Chad GPT. Chad GP is this
+
+207
+00:08:00,560 --> 00:08:06,000
+plug-in store where users would discover
+
+208
+00:08:03,360 --> 00:08:08,000
+Julius and they would come to Julius,
+
+209
+00:08:06,000 --> 00:08:10,879
+stay with Julius and use Julius over and
+
+210
+00:08:08,000 --> 00:08:13,360
+over and it's going great and it's going
+
+211
+00:08:10,879 --> 00:08:14,879
+great. We're growing overnight. Open
+
+212
+00:08:13,360 --> 00:08:16,400
+announces that the plug-in store is
+
+213
+00:08:14,879 --> 00:08:19,520
+going to get shut down and our biggest
+
+214
+00:08:16,400 --> 00:08:23,039
+source of users disappeared overnight.
+
+215
+00:08:19,520 --> 00:08:24,960
+So we had to scramble and figure out how
+
+216
+00:08:23,039 --> 00:08:27,039
+we're going to get more users and where
+
+217
+00:08:24,960 --> 00:08:30,080
+we're going to get users from. So that
+
+218
+00:08:27,039 --> 00:08:32,719
+was an existential moment and that is
+
+219
+00:08:30,080 --> 00:08:34,640
+what really got us to move fast and
+
+220
+00:08:32,719 --> 00:08:37,760
+figure out okay how do we get our users
+
+221
+00:08:34,640 --> 00:08:40,880
+to become champions of Julius. Then we
+
+222
+00:08:37,760 --> 00:08:42,560
+realized that when people analyze data
+
+223
+00:08:40,880 --> 00:08:44,000
+they want to tell their colleagues about
+
+224
+00:08:42,560 --> 00:08:45,360
+it. When you get an insight you don't
+
+225
+00:08:44,000 --> 00:08:46,480
+keep it to yourself. You want to tell
+
+226
+00:08:45,360 --> 00:08:49,200
+your colleagues you want to tell your
+
+227
+00:08:46,480 --> 00:08:51,040
+team. And so we build sharing into the
+
+228
+00:08:49,200 --> 00:08:52,880
+product. If you solve a problem that
+
+229
+00:08:51,040 --> 00:08:54,959
+people have, they will come to you.
+
+230
+00:08:52,880 --> 00:08:56,560
+They'll come to you and they will use
+
+231
+00:08:54,959 --> 00:08:59,600
+your product and they'll tell their
+
+232
+00:08:56,560 --> 00:09:03,279
+friends about it. So word of mouth is a
+
+233
+00:08:59,600 --> 00:09:05,360
+free way to grow your product.
+
+234
+00:09:03,279 --> 00:09:09,000
+If I were to start from scratch today,
+
+235
+00:09:05,360 --> 00:09:09,000
+what would I do differently?
+
+236
+00:09:09,040 --> 00:09:16,560
+Nothing. I think you know all the things
+
+237
+00:09:12,800 --> 00:09:18,399
+I would consider as like missteps things
+
+238
+00:09:16,560 --> 00:09:21,519
+um I could have avoided I think those
+
+239
+00:09:18,399 --> 00:09:23,920
+are valuable lessons you know all the
+
+240
+00:09:21,519 --> 00:09:25,440
+features we tried and didn't work out
+
+241
+00:09:23,920 --> 00:09:28,000
+all that is really valuable lesson
+
+242
+00:09:25,440 --> 00:09:30,800
+that's helpful data you can if you have
+
+243
+00:09:28,000 --> 00:09:33,440
+only data from successes then that's
+
+244
+00:09:30,800 --> 00:09:34,720
+very skewed you know what doesn't work
+
+245
+00:09:33,440 --> 00:09:37,040
+so it's really important to try a lot of
+
+246
+00:09:34,720 --> 00:09:38,320
+things things that don't work also
+
+247
+00:09:37,040 --> 00:09:39,760
+important because now you know what
+
+248
+00:09:38,320 --> 00:09:43,080
+doesn't work honestly like I would not
+
+249
+00:09:39,760 --> 00:09:43,080
+do anything differently.
+

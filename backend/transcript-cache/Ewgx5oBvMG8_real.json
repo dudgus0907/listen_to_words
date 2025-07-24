@@ -1,0 +1,2278 @@
+{
+  "success": true,
+  "videoId": "Ewgx5oBvMG8",
+  "videoTitle": "This Insane AI Video Search Technology Selected by NVIDIA and Snowflake ｜ Twelve Labs, Jae Lee",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "if you try to accommodate all of the"
+    },
+    {
+      "start": 2,
+      "text": "advices that you get from your mentors"
+    },
+    {
+      "start": 4,
+      "text": "your company will most likely become"
+    },
+    {
+      "start": 6,
+      "text": "like an underwear company totally"
+    },
+    {
+      "start": 8,
+      "text": "different from what you wanted to build"
+    },
+    {
+      "start": 10,
+      "text": "having some fundamental like foundation"
+    },
+    {
+      "start": 13,
+      "text": "for yourself and for the company and be"
+    },
+    {
+      "start": 15,
+      "text": "able to say thank you for your advice"
+    },
+    {
+      "start": 17,
+      "text": "but no thank you right so having that"
+    },
+    {
+      "start": 19,
+      "text": "the gut to say no to someone that you"
+    },
+    {
+      "start": 22,
+      "text": "you respect as a Founder I think I grew"
+    },
+    {
+      "start": 24,
+      "text": "a lot hi yo my name is Jay I'm one of"
+    },
+    {
+      "start": 27,
+      "text": "the co-founders and CEO of 12 Labs 12"
+    },
+    {
+      "start": 30,
+      "text": "Labs is an AI research and product"
+    },
+    {
+      "start": 32,
+      "text": "company based here in San Francisco and"
+    },
+    {
+      "start": 34,
+      "text": "so we're building video Foundation"
+    },
+    {
+      "start": 35,
+      "text": "models for developers and Enterprises"
+    },
+    {
+      "start": 38,
+      "text": "building video Centric product we"
+    },
+    {
+      "start": 39,
+      "text": "basically build humongous AI models that"
+    },
+    {
+      "start": 42,
+      "text": "can understand videos like humans and we"
+    },
+    {
+      "start": 44,
+      "text": "serve it to developers via apis that are"
+    },
+    {
+      "start": 46,
+      "text": "looking into building really powerful"
+    },
+    {
+      "start": 48,
+      "text": "semantic search or classification or"
+    },
+    {
+      "start": 51,
+      "text": "summarization into their product we"
+    },
+    {
+      "start": 53,
+      "text": "currently have a little over 20,000"
+    },
+    {
+      "start": 55,
+      "text": "developers that are actively using our"
+    },
+    {
+      "start": 58,
+      "text": "search API we have large creators of the"
+    },
+    {
+      "start": 61,
+      "text": "world adopting 12 Labs as well as uh"
+    },
+    {
+      "start": 63,
+      "text": "media entertainment and large Sports"
+    },
+    {
+      "start": 65,
+      "text": "organizations and law"
+    },
+    {
+      "start": 69,
+      "text": "enforcement so I was born in Soul I"
+    },
+    {
+      "start": 73,
+      "text": "spent about 10 years in Soul uh I had a"
+    },
+    {
+      "start": 75,
+      "text": "chance to move to the states I moved"
+    },
+    {
+      "start": 77,
+      "text": "when I was 11 so went through Elementary"
+    },
+    {
+      "start": 79,
+      "text": "and Middle School in Knoxville Tennessee"
+    },
+    {
+      "start": 81,
+      "text": "I was able to pick up a lot of the the"
+    },
+    {
+      "start": 84,
+      "text": "the culture and and and things like that"
+    },
+    {
+      "start": 86,
+      "text": "I was uh very interested in expanding my"
+    },
+    {
+      "start": 89,
+      "text": "perspective and uh exploring the new"
+    },
+    {
+      "start": 90,
+      "text": "world my first experience with software"
+    },
+    {
+      "start": 93,
+      "text": "engineering or at least coding was uh"
+    },
+    {
+      "start": 95,
+      "text": "met lab my uncle uh was actually getting"
+    },
+    {
+      "start": 97,
+      "text": "his PhD at the University of Tennessee"
+    },
+    {
+      "start": 100,
+      "text": "so I I see him kind of like plotting"
+    },
+    {
+      "start": 102,
+      "text": "this distribution graphs and things like"
+    },
+    {
+      "start": 104,
+      "text": "that and which made me curious what what"
+    },
+    {
+      "start": 106,
+      "text": "he was doing that's how I got into"
+    },
+    {
+      "start": 109,
+      "text": "playing around with like small data sets"
+    },
+    {
+      "start": 111,
+      "text": "and doing the same thing that he he was"
+    },
+    {
+      "start": 112,
+      "text": "doing because I wanted to be relevant"
+    },
+    {
+      "start": 114,
+      "text": "and I wanted to talk to him about a"
+    },
+    {
+      "start": 116,
+      "text": "bunch of things he probably thought what"
+    },
+    {
+      "start": 117,
+      "text": "I was doing was pretty cute which"
+    },
+    {
+      "start": 119,
+      "text": "sparked my interest in learning more"
+    },
+    {
+      "start": 122,
+      "text": "about how do we capture all this data"
+    },
+    {
+      "start": 124,
+      "text": "and be able to create a system that can"
+    },
+    {
+      "start": 126,
+      "text": "really understand the distributions of"
+    },
+    {
+      "start": 129,
+      "text": "the things of the world and it just kind"
+    },
+    {
+      "start": 130,
+      "text": "of felt like if you had the"
+    },
+    {
+      "start": 132,
+      "text": "understanding of that it gives you power"
+    },
+    {
+      "start": 134,
+      "text": "predict anything and I went to Berkeley"
+    },
+    {
+      "start": 136,
+      "text": "for college and study computer science"
+    },
+    {
+      "start": 138,
+      "text": "so I really geeked out on AI and and"
+    },
+    {
+      "start": 141,
+      "text": "software engineering um so spent about"
+    },
+    {
+      "start": 143,
+      "text": "15 years uh in the United States um so"
+    },
+    {
+      "start": 146,
+      "text": "half of my life in Soul and in the"
+    },
+    {
+      "start": 148,
+      "text": "states I was dra Ed into uh this"
+    },
+    {
+      "start": 151,
+      "text": "organization called Korean cyber command"
+    },
+    {
+      "start": 153,
+      "text": "where like-minded people were already"
+    },
+    {
+      "start": 155,
+      "text": "there um with Incredible knowledge and"
+    },
+    {
+      "start": 157,
+      "text": "software engineering and and and AI I"
+    },
+    {
+      "start": 160,
+      "text": "joke about it you know I served the"
+    },
+    {
+      "start": 161,
+      "text": "country with keyboards rather than than"
+    },
+    {
+      "start": 164,
+      "text": "than a rifle I was really fortunate to"
+    },
+    {
+      "start": 166,
+      "text": "have met my Chief Architect SJ and then"
+    },
+    {
+      "start": 170,
+      "text": "Aiden kind of also joined in US you I"
+    },
+    {
+      "start": 171,
+      "text": "still clearly remember Aiden with this"
+    },
+    {
+      "start": 174,
+      "text": "buzz cut coming in from from boot camp"
+    },
+    {
+      "start": 176,
+      "text": "but from day one uh we knew we had this"
+    },
+    {
+      "start": 179,
+      "text": "common interest in Ai and what can we do"
+    },
+    {
+      "start": 182,
+      "text": "as a as a young scientist really like"
+    },
+    {
+      "start": 185,
+      "text": "push the frontier of AI development and"
+    },
+    {
+      "start": 189,
+      "text": "we've spent a lot of times reading"
+    },
+    {
+      "start": 191,
+      "text": "papers discussing arguing and it turned"
+    },
+    {
+      "start": 194,
+      "text": "out there were two clear paths uh one"
+    },
+    {
+      "start": 196,
+      "text": "was after military we go personal career"
+    },
+    {
+      "start": 198,
+      "text": "in Academia go become a professor or"
+    },
+    {
+      "start": 201,
+      "text": "start something of our own and looking"
+    },
+    {
+      "start": 204,
+      "text": "back what we realized is that we were"
+    },
+    {
+      "start": 206,
+      "text": "spending so much time together and"
+    },
+    {
+      "start": 209,
+      "text": "Military is this really special setting"
+    },
+    {
+      "start": 211,
+      "text": "where you know you're basically jamming"
+    },
+    {
+      "start": 213,
+      "text": "in 50 to 100 12 year olds right with"
+    },
+    {
+      "start": 216,
+      "text": "testosterones and what we thought was"
+    },
+    {
+      "start": 219,
+      "text": "you know if we're having this much fun"
+    },
+    {
+      "start": 220,
+      "text": "in military imagine what we can do when"
+    },
+    {
+      "start": 222,
+      "text": "we go out so it was pretty clear to us"
+    },
+    {
+      "start": 224,
+      "text": "that we're going to start I think we've"
+    },
+    {
+      "start": 225,
+      "text": "spent about year and a half really"
+    },
+    {
+      "start": 227,
+      "text": "thinking about what is the next Frontier"
+    },
+    {
+      "start": 230,
+      "text": "for AI and how can we contribute to"
+    },
+    {
+      "start": 233,
+      "text": "pushing that boundary there's this"
+    },
+    {
+      "start": 235,
+      "text": "seminal paper called attention is all"
+    },
+    {
+      "start": 238,
+      "text": "you need which some people call it the"
+    },
+    {
+      "start": 239,
+      "text": "Transformer paper which is making a lot"
+    },
+    {
+      "start": 241,
+      "text": "of impact now but when it was published"
+    },
+    {
+      "start": 243,
+      "text": "in 2017 at least for text and"
+    },
+    {
+      "start": 246,
+      "text": "image-based you know Foundation models"
+    },
+    {
+      "start": 248,
+      "text": "probably Capital was going to be a mode"
+    },
+    {
+      "start": 250,
+      "text": "whoever raises most amount of money what"
+    },
+    {
+      "start": 253,
+      "text": "we realized was there's still a lot of"
+    },
+    {
+      "start": 255,
+      "text": "unexplored research areas for multimodal"
+    },
+    {
+      "start": 258,
+      "text": "video understanding there rather than"
+    },
+    {
+      "start": 260,
+      "text": "capital is probably going to be really"
+    },
+    {
+      "start": 262,
+      "text": "passionate smart but also slightly dumb"
+    },
+    {
+      "start": 265,
+      "text": "people that's like dumb enough to start"
+    },
+    {
+      "start": 267,
+      "text": "it will have really good chance of"
+    },
+    {
+      "start": 269,
+      "text": "succeeding and also we've realized that"
+    },
+    {
+      "start": 271,
+      "text": "with the explosion of that video and and"
+    },
+    {
+      "start": 274,
+      "text": "other complex multimedia data is going"
+    },
+    {
+      "start": 276,
+      "text": "to be the infrastructural data for the"
+    },
+    {
+      "start": 278,
+      "text": "internet and we realized that probably"
+    },
+    {
+      "start": 280,
+      "text": "developers and Enterprises need"
+    },
+    {
+      "start": 281,
+      "text": "something better than object detection"
+    },
+    {
+      "start": 283,
+      "text": "or or transcription to make sense of all"
+    },
+    {
+      "start": 286,
+      "text": "all this video data that the humanity is"
+    },
+    {
+      "start": 288,
+      "text": "creating so it was like a no-brainer to"
+    },
+    {
+      "start": 290,
+      "text": "start building for video understanding"
+    },
+    {
+      "start": 293,
+      "text": "the model that 12 Labs is building it's"
+    },
+    {
+      "start": 295,
+      "text": "basically trying to map human language"
+    },
+    {
+      "start": 298,
+      "text": "into whatever that's happening in video"
+    },
+    {
+      "start": 300,
+      "text": "content so if you can map precise human"
+    },
+    {
+      "start": 302,
+      "text": "language to whatever that's happening"
+    },
+    {
+      "start": 304,
+      "text": "within video content that gives you this"
+    },
+    {
+      "start": 306,
+      "text": "emergence capabilities like being able"
+    },
+    {
+      "start": 308,
+      "text": "to search for things really well or"
+    },
+    {
+      "start": 310,
+      "text": "being able to classify things or"
+    },
+    {
+      "start": 311,
+      "text": "summarize you know we didn't All Join"
+    },
+    {
+      "start": 314,
+      "text": "the Korean cyber command at the same"
+    },
+    {
+      "start": 315,
+      "text": "time so SJ was already like 6 months"
+    },
+    {
+      "start": 318,
+      "text": "ahead of me and then Aiden was 6 months"
+    },
+    {
+      "start": 320,
+      "text": "behind so like okay we we decided we're"
+    },
+    {
+      "start": 323,
+      "text": "going to we're going to start this"
+    },
+    {
+      "start": 325,
+      "text": "company but then SJ is like leaving like"
+    },
+    {
+      "start": 328,
+      "text": "next year and then I'm leaving the year"
+    },
+    {
+      "start": 330,
+      "text": "after and then Aiden's like 6 months"
+    },
+    {
+      "start": 332,
+      "text": "after so how do we do it so it was"
+    },
+    {
+      "start": 334,
+      "text": "genuinely very scary so we had our ideas"
+    },
+    {
+      "start": 336,
+      "text": "I remember SJ was discharged on Thursday"
+    },
+    {
+      "start": 338,
+      "text": "and he came back to the military base"
+    },
+    {
+      "start": 341,
+      "text": "Saturday of that week with our laptops"
+    },
+    {
+      "start": 343,
+      "text": "and he took us out in front of our"
+    },
+    {
+      "start": 345,
+      "text": "military base there was a bagel shop"
+    },
+    {
+      "start": 348,
+      "text": "called Las vagel and that was like our"
+    },
+    {
+      "start": 350,
+      "text": "office where SJ would bring all of our"
+    },
+    {
+      "start": 353,
+      "text": "laptops and we would do our research and"
+    },
+    {
+      "start": 355,
+      "text": "and do some little little bit of"
+    },
+    {
+      "start": 356,
+      "text": "prototyping and we did that for 6 months"
+    },
+    {
+      "start": 358,
+      "text": "and then I got this charge and I did the"
+    },
+    {
+      "start": 360,
+      "text": "whole laptop carrying and and picking"
+    },
+    {
+      "start": 362,
+      "text": "out Aiden so we did that for like a good"
+    },
+    {
+      "start": 365,
+      "text": "like year so that everyone is out and"
+    },
+    {
+      "start": 367,
+      "text": "then we had a bunch of friends that were"
+    },
+    {
+      "start": 369,
+      "text": "working in Ai and crypto and blockchain"
+    },
+    {
+      "start": 372,
+      "text": "and and and web 3 was just booming and"
+    },
+    {
+      "start": 374,
+      "text": "we had a mutual friend like the founders"
+    },
+    {
+      "start": 376,
+      "text": "had a mutual friend that had like a"
+    },
+    {
+      "start": 378,
+      "text": "really nice office in Soul and he was"
+    },
+    {
+      "start": 379,
+      "text": "like oh you guys can come in and and use"
+    },
+    {
+      "start": 381,
+      "text": "our office space uh so that's what we"
+    },
+    {
+      "start": 383,
+      "text": "did and then after like 3 weeks that"
+    },
+    {
+      "start": 385,
+      "text": "company went bankrupt and then really"
+    },
+    {
+      "start": 387,
+      "text": "scary like people started coming in and"
+    },
+    {
+      "start": 389,
+      "text": "and we had like our desktops and our"
+    },
+    {
+      "start": 391,
+      "text": "gpus all set up there and we got really"
+    },
+    {
+      "start": 393,
+      "text": "scared so we brought everything back out"
+    },
+    {
+      "start": 395,
+      "text": "and we found like really tiny tiny"
+    },
+    {
+      "start": 397,
+      "text": "office probably like a size of a"
+    },
+    {
+      "start": 400,
+      "text": "dressing room uh that's where like all"
+    },
+    {
+      "start": 402,
+      "text": "five of us kind of spent uh the next 6"
+    },
+    {
+      "start": 405,
+      "text": "months uh before uh we raised our proper"
+    },
+    {
+      "start": 408,
+      "text": "seat ground looking back if we were to"
+    },
+    {
+      "start": 410,
+      "text": "do it again I don't know it we'll be"
+    },
+    {
+      "start": 412,
+      "text": "able to do it but some people say"
+    },
+    {
+      "start": 414,
+      "text": "ignorance is bliss and I think we were"
+    },
+    {
+      "start": 416,
+      "text": "just like really naive and just really"
+    },
+    {
+      "start": 418,
+      "text": "excited about building this company and"
+    },
+    {
+      "start": 421,
+      "text": "I guess not knowing what was ahead um"
+    },
+    {
+      "start": 423,
+      "text": "allowed us to kind of do what we"
+    },
+    {
+      "start": 426,
+      "text": "did hi all I'm J from EO I have a quick"
+    },
+    {
+      "start": 429,
+      "text": "question for you which is the better"
+    },
+    {
+      "start": 431,
+      "text": "prompt if you're looking to use AI to"
+    },
+    {
+      "start": 433,
+      "text": "apply directly to your workflow I would"
+    },
+    {
+      "start": 435,
+      "text": "say this one does the job this promp was"
+    },
+    {
+      "start": 437,
+      "text": "made using the five essential resources"
+    },
+    {
+      "start": 440,
+      "text": "for using chat GPT at work a free bundle"
+    },
+    {
+      "start": 442,
+      "text": "of AI resources provided by HubSpot our"
+    },
+    {
+      "start": 445,
+      "text": "amazing partner the bundle has the"
+    },
+    {
+      "start": 447,
+      "text": "following resources tips on implementing"
+    },
+    {
+      "start": 449,
+      "text": "Chad GPT at work in various professional"
+    },
+    {
+      "start": 451,
+      "text": "settings The Ultimate Guide for adopting"
+    },
+    {
+      "start": 453,
+      "text": "AI at work checklist to make sure your"
+    },
+    {
+      "start": 455,
+      "text": "AI generated content feels authentic and"
+    },
+    {
+      "start": 458,
+      "text": "more for this prompt I use templates for"
+    },
+    {
+      "start": 460,
+      "text": "setting CER guidelines which gives"
+    },
+    {
+      "start": 462,
+      "text": "simple guides to dramatically improve"
+    },
+    {
+      "start": 464,
+      "text": "your prompting and results using chat"
+    },
+    {
+      "start": 466,
+      "text": "GPT the best part is that it has over"
+    },
+    {
+      "start": 469,
+      "text": "100 prompts that you can use right away"
+    },
+    {
+      "start": 471,
+      "text": "so you don't have to start from scratch"
+    },
+    {
+      "start": 473,
+      "text": "so for anyone who's tried really hard to"
+    },
+    {
+      "start": 475,
+      "text": "use the power of AI at work give this"
+    },
+    {
+      "start": 477,
+      "text": "tool kit a try down for free using the"
+    },
+    {
+      "start": 479,
+      "text": "link in description and start"
+    },
+    {
+      "start": 481,
+      "text": "supercharging your workflow with AI"
+    },
+    {
+      "start": 483,
+      "text": "thanks to hopspot for sponsoring our"
+    },
+    {
+      "start": 484,
+      "text": "video now back to the"
+    },
+    {
+      "start": 489,
+      "text": "video when we first started a company"
+    },
+    {
+      "start": 491,
+      "text": "and we hired our first employees they"
+    },
+    {
+      "start": 494,
+      "text": "had hard time explaining what 12 Labs"
+    },
+    {
+      "start": 496,
+      "text": "does to their parents really new thing"
+    },
+    {
+      "start": 498,
+      "text": "what is foundation model what is video"
+    },
+    {
+      "start": 500,
+      "text": "understanding It's A New Concept that's"
+    },
+    {
+      "start": 502,
+      "text": "hard to understand for I guess uh people"
+    },
+    {
+      "start": 505,
+      "text": "that are not in the space nowadays"
+    },
+    {
+      "start": 507,
+      "text": "people talk about the foundation layer"
+    },
+    {
+      "start": 509,
+      "text": "the tooling layer and the application"
+    },
+    {
+      "start": 511,
+      "text": "layer it all everyone's very familiar uh"
+    },
+    {
+      "start": 513,
+      "text": "when we started 12 Labs I think"
+    },
+    {
+      "start": 515,
+      "text": "technologically it made total sense we"
+    },
+    {
+      "start": 517,
+      "text": "knew it was going to happen but what was"
+    },
+    {
+      "start": 519,
+      "text": "uncertain about it was Will Market"
+    },
+    {
+      "start": 522,
+      "text": "accept but knowing that we are at the"
+    },
+    {
+      "start": 524,
+      "text": "verge of breakthrough in building an AI"
+    },
+    {
+      "start": 527,
+      "text": "that can at least you know get to"
+    },
+    {
+      "start": 529,
+      "text": "certain level of human understanding of"
+    },
+    {
+      "start": 532,
+      "text": "videos so we were betting on Market's"
+    },
+    {
+      "start": 535,
+      "text": "acceptance of foundation models the"
+    },
+    {
+      "start": 537,
+      "text": "founders are pretty pretty much broke"
+    },
+    {
+      "start": 538,
+      "text": "right because we spent 2 years at at"
+    },
+    {
+      "start": 540,
+      "text": "military and I think we had"
+    },
+    {
+      "start": 543,
+      "text": "$22,000 uh to start with so barely"
+    },
+    {
+      "start": 546,
+      "text": "barely enough to do anything but"
+    },
+    {
+      "start": 548,
+      "text": "figuring out what was going to be"
+    },
+    {
+      "start": 550,
+      "text": "impactful that we can do given our"
+    },
+    {
+      "start": 552,
+      "text": "current resources that'll put us in the"
+    },
+    {
+      "start": 554,
+      "text": "map or at least you know let the world"
+    },
+    {
+      "start": 557,
+      "text": "know that what we're doing is relevant"
+    },
+    {
+      "start": 558,
+      "text": "so our tactic here was okay we're going"
+    },
+    {
+      "start": 561,
+      "text": "to talk to a bunch of customers and"
+    },
+    {
+      "start": 563,
+      "text": "there were early Believers in 12 Labs"
+    },
+    {
+      "start": 565,
+      "text": "who took our apis and built awesome"
+    },
+    {
+      "start": 567,
+      "text": "things with us but we needed more more"
+    },
+    {
+      "start": 569,
+      "text": "exposure basically so as a team we've"
+    },
+    {
+      "start": 572,
+      "text": "decided uh to participate in icb's its"
+    },
+    {
+      "start": 576,
+      "text": "International Conference in computer"
+    },
+    {
+      "start": 578,
+      "text": "vision they're putting this like awesome"
+    },
+    {
+      "start": 580,
+      "text": "competition for video understandings so"
+    },
+    {
+      "start": 582,
+      "text": "we talked to Aiden we have nothing to"
+    },
+    {
+      "start": 584,
+      "text": "lose and only to gain the team was"
+    },
+    {
+      "start": 586,
+      "text": "extremely supportive of of Aiden"
+    },
+    {
+      "start": 589,
+      "text": "spearheading that effort with the team"
+    },
+    {
+      "start": 591,
+      "text": "all I can do to support is you know"
+    },
+    {
+      "start": 593,
+      "text": "there was some ideas and and directional"
+    },
+    {
+      "start": 596,
+      "text": "kind of feedback that I gave to Aiden"
+    },
+    {
+      "start": 598,
+      "text": "but we needed compute and we needed"
+    },
+    {
+      "start": 600,
+      "text": "determination to put some serious cash"
+    },
+    {
+      "start": 603,
+      "text": "behind and back then for 12 laps like"
+    },
+    {
+      "start": 605,
+      "text": "$200,000 in in compute was was a lot of"
+    },
+    {
+      "start": 608,
+      "text": "money for us right so and just thinking"
+    },
+    {
+      "start": 611,
+      "text": "that okay we're going to blow through"
+    },
+    {
+      "start": 612,
+      "text": "$200,000 in 10 days in compute was"
+    },
+    {
+      "start": 616,
+      "text": "really scary but the team was able to"
+    },
+    {
+      "start": 619,
+      "text": "use that Capital that that precious"
+    },
+    {
+      "start": 621,
+      "text": "capital and build something incredible"
+    },
+    {
+      "start": 623,
+      "text": "helped us win the competition um so I"
+    },
+    {
+      "start": 625,
+      "text": "think the important thing is if you're"
+    },
+    {
+      "start": 627,
+      "text": "building something really impact full"
+    },
+    {
+      "start": 629,
+      "text": "and you think that it's going to"
+    },
+    {
+      "start": 631,
+      "text": "significantly change the industry that"
+    },
+    {
+      "start": 633,
+      "text": "you're in there will always be someone"
+    },
+    {
+      "start": 635,
+      "text": "that has very similar thesis it's just a"
+    },
+    {
+      "start": 637,
+      "text": "matter of how do you get yourself out"
+    },
+    {
+      "start": 639,
+      "text": "there how do you let the people know"
+    },
+    {
+      "start": 641,
+      "text": "that you you you exist for us that was"
+    },
+    {
+      "start": 643,
+      "text": "the competition after winning the"
+    },
+    {
+      "start": 646,
+      "text": "competition companies like index"
+    },
+    {
+      "start": 647,
+      "text": "Ventures and radical Ventures had very"
+    },
+    {
+      "start": 650,
+      "text": "strong thesis around multimodal AI the"
+    },
+    {
+      "start": 652,
+      "text": "next idea would be what's next and video"
+    },
+    {
+      "start": 656,
+      "text": "happens to be the most relatable"
+    },
+    {
+      "start": 658,
+      "text": "multimodal data these amazing companies"
+    },
+    {
+      "start": 661,
+      "text": "actually came in inbound and so they"
+    },
+    {
+      "start": 664,
+      "text": "reached out to us and we started jamming"
+    },
+    {
+      "start": 666,
+      "text": "the conversations turned into next"
+    },
+    {
+      "start": 669,
+      "text": "conversation and then we talked about"
+    },
+    {
+      "start": 671,
+      "text": "technology and and it just happened very"
+    },
+    {
+      "start": 673,
+      "text": "serendipitously right the first pitch"
+    },
+    {
+      "start": 675,
+      "text": "deck I was in Soul and and my first uh"
+    },
+    {
+      "start": 678,
+      "text": "call with index Ventures was at like I"
+    },
+    {
+      "start": 681,
+      "text": "it was like 3:30 a.m. Soul time and we"
+    },
+    {
+      "start": 684,
+      "text": "didn't have pitch deck and we just felt"
+    },
+    {
+      "start": 686,
+      "text": "like hm this is our first meeting and we"
+    },
+    {
+      "start": 689,
+      "text": "we we knew nothing about fundraising"
+    },
+    {
+      "start": 691,
+      "text": "then we didn't even know this was going"
+    },
+    {
+      "start": 693,
+      "text": "to be like a friendly introduction but I"
+    },
+    {
+      "start": 696,
+      "text": "just kind of felt the need to like oh we"
+    },
+    {
+      "start": 698,
+      "text": "don't have pitch Tech we need to build"
+    },
+    {
+      "start": 699,
+      "text": "one so I remember staying up till like"
+    },
+    {
+      "start": 701,
+      "text": "3:00 a.m. building it I think the"
+    },
+    {
+      "start": 703,
+      "text": "storyline was like quite simple we"
+    },
+    {
+      "start": 705,
+      "text": "didn't have much to much to show for it"
+    },
+    {
+      "start": 707,
+      "text": "the idea was hey the problem that we're"
+    },
+    {
+      "start": 709,
+      "text": "solving is massive 80% of the world's"
+    },
+    {
+      "start": 711,
+      "text": "data is in video and there's no adequate"
+    },
+    {
+      "start": 713,
+      "text": "solution out there or technology out"
+    },
+    {
+      "start": 716,
+      "text": "there for developers and Enterprises to"
+    },
+    {
+      "start": 717,
+      "text": "make sense of it all that is the market"
+    },
+    {
+      "start": 719,
+      "text": "that we're we're tackling we want to"
+    },
+    {
+      "start": 721,
+      "text": "index all of that like 80% of the"
+    },
+    {
+      "start": 723,
+      "text": "world's data and this is the technology"
+    },
+    {
+      "start": 725,
+      "text": "underlying research work that we've done"
+    },
+    {
+      "start": 727,
+      "text": "and then that was it VC's asked a lot of"
+    },
+    {
+      "start": 729,
+      "text": "hard questions the most memorable one if"
+    },
+    {
+      "start": 732,
+      "text": "I bring you Tik Tok as a customer and"
+    },
+    {
+      "start": 735,
+      "text": "they want to index like billion hours of"
+    },
+    {
+      "start": 737,
+      "text": "content how long does it take and I"
+    },
+    {
+      "start": 739,
+      "text": "think we were we were thinking about"
+    },
+    {
+      "start": 741,
+      "text": "maybe like a million hours going to take"
+    },
+    {
+      "start": 743,
+      "text": "like 10 years right that's when we"
+    },
+    {
+      "start": 745,
+      "text": "realize we should never be comfortable"
+    },
+    {
+      "start": 747,
+      "text": "of with what we've built this whole new"
+    },
+    {
+      "start": 750,
+      "text": "incredibly large world out there you"
+    },
+    {
+      "start": 752,
+      "text": "know that maybe some people are"
+    },
+    {
+      "start": 754,
+      "text": "impressed with our system being able to"
+    },
+    {
+      "start": 756,
+      "text": "index like a million hour but there's"
+    },
+    {
+      "start": 758,
+      "text": "others that are thinking about billion"
+    },
+    {
+      "start": 760,
+      "text": "10 billion 100 billion hours and that"
+    },
+    {
+      "start": 762,
+      "text": "was like a really challenging question"
+    },
+    {
+      "start": 764,
+      "text": "because like what we said during our"
+    },
+    {
+      "start": 765,
+      "text": "pitches we want to index all of the"
+    },
+    {
+      "start": 768,
+      "text": "world's videos and that question kind of"
+    },
+    {
+      "start": 771,
+      "text": "made me stun and I think about all of"
+    },
+    {
+      "start": 773,
+      "text": "the technical issues that that we had at"
+    },
+    {
+      "start": 775,
+      "text": "the time you probably find it like funny"
+    },
+    {
+      "start": 777,
+      "text": "right I was trying to give my best"
+    },
+    {
+      "start": 779,
+      "text": "answer as a Founder in like so the"
+    },
+    {
+      "start": 781,
+      "text": "company has raised about $30 million uh"
+    },
+    {
+      "start": 784,
+      "text": "in seed"
+    },
+    {
+      "start": 787,
+      "text": "funding my name is so young I'm one of"
+    },
+    {
+      "start": 789,
+      "text": "the co-founders of 12 lots and I"
+    },
+    {
+      "start": 791,
+      "text": "currently lead our business development"
+    },
+    {
+      "start": 793,
+      "text": "and go to market we had a customer who"
+    },
+    {
+      "start": 795,
+      "text": "was paying for our product um but they"
+    },
+    {
+      "start": 799,
+      "text": "weren't actually using it um but we had"
+    },
+    {
+      "start": 800,
+      "text": "gone through a lot of work to actually"
+    },
+    {
+      "start": 802,
+      "text": "get them as a customer through a lot of"
+    },
+    {
+      "start": 804,
+      "text": "sales and kind of relationship building"
+    },
+    {
+      "start": 806,
+      "text": "and so on but I think they were they"
+    },
+    {
+      "start": 808,
+      "text": "know were extremely early and we had"
+    },
+    {
+      "start": 810,
+      "text": "almost pushed the sales to happen and I"
+    },
+    {
+      "start": 813,
+      "text": "think what we learned from that"
+    },
+    {
+      "start": 814,
+      "text": "experience was we have to optimize even"
+    },
+    {
+      "start": 817,
+      "text": "early on it might have been better for"
+    },
+    {
+      "start": 818,
+      "text": "us to not actually make the sale because"
+    },
+    {
+      "start": 821,
+      "text": "the customer probably wasn't ready they"
+    },
+    {
+      "start": 823,
+      "text": "didn't have the passion or the"
+    },
+    {
+      "start": 825,
+      "text": "Innovative drive that our other"
+    },
+    {
+      "start": 827,
+      "text": "customers had had but we were optimizing"
+    },
+    {
+      "start": 829,
+      "text": "for kind of hearing the yes we tried so"
+    },
+    {
+      "start": 832,
+      "text": "hard to make that no into a yes and we"
+    },
+    {
+      "start": 835,
+      "text": "had succeeded but at the at the end I"
+    },
+    {
+      "start": 837,
+      "text": "think it turned out that we probably"
+    },
+    {
+      "start": 839,
+      "text": "should have kept it out of no and"
+    },
+    {
+      "start": 840,
+      "text": "focused on all the other customers where"
+    },
+    {
+      "start": 843,
+      "text": "the yes was very more clear and they had"
+    },
+    {
+      "start": 845,
+      "text": "a very clear vision of how they can you"
+    },
+    {
+      "start": 847,
+      "text": "know build their new experiences with"
+    },
+    {
+      "start": 849,
+      "text": "the the technology and especially for"
+    },
+    {
+      "start": 852,
+      "text": "earlier products and earlier"
+    },
+    {
+      "start": 853,
+      "text": "Technologies where resources are limited"
+    },
+    {
+      "start": 856,
+      "text": "and you want to you know build for your"
+    },
+    {
+      "start": 858,
+      "text": "Mo best customers and the innovators in"
+    },
+    {
+      "start": 861,
+      "text": "every field uh you should probably start"
+    },
+    {
+      "start": 863,
+      "text": "to optimize for hearing the no uh then"
+    },
+    {
+      "start": 866,
+      "text": "the yes because that will help you find"
+    },
+    {
+      "start": 868,
+      "text": "the right direction faster we quickly I"
+    },
+    {
+      "start": 870,
+      "text": "think we learned through trial and error"
+    },
+    {
+      "start": 872,
+      "text": "that the types of companies that we need"
+    },
+    {
+      "start": 874,
+      "text": "to early customers that we need to find"
+    },
+    {
+      "start": 875,
+      "text": "and work with are true innovators in"
+    },
+    {
+      "start": 878,
+      "text": "their field uh whether they come from"
+    },
+    {
+      "start": 881,
+      "text": "like the content creation space law"
+    },
+    {
+      "start": 882,
+      "text": "enforcement space e-learning and so on"
+    },
+    {
+      "start": 885,
+      "text": "you know we've had instances of trying"
+    },
+    {
+      "start": 887,
+      "text": "to oversell we were going through sales"
+    },
+    {
+      "start": 890,
+      "text": "you know sales 101 books or like sales"
+    },
+    {
+      "start": 892,
+      "text": "methodologies and we were trying to"
+    },
+    {
+      "start": 894,
+      "text": "pitch to the customer hey here's the use"
+    },
+    {
+      "start": 896,
+      "text": "case you could build out with our you"
+    },
+    {
+      "start": 898,
+      "text": "know with our technology you know we'll"
+    },
+    {
+      "start": 899,
+      "text": "improve your Roi by x% with our"
+    },
+    {
+      "start": 902,
+      "text": "technology and we did make some sales"
+    },
+    {
+      "start": 904,
+      "text": "from those but I don't think it was"
+    },
+    {
+      "start": 906,
+      "text": "something that we probably should have"
+    },
+    {
+      "start": 908,
+      "text": "you know spent so much time on doing"
+    },
+    {
+      "start": 909,
+      "text": "because if you find the right customer"
+    },
+    {
+      "start": 911,
+      "text": "who's Innovative you don't need to"
+    },
+    {
+      "start": 912,
+      "text": "explain anything to them you show them"
+    },
+    {
+      "start": 915,
+      "text": "uh a use case based demo of you know for"
+    },
+    {
+      "start": 917,
+      "text": "us it would be and we we would index uh"
+    },
+    {
+      "start": 920,
+      "text": "some videos that resemble the customers"
+    },
+    {
+      "start": 922,
+      "text": "and then we show them how you can search"
+    },
+    {
+      "start": 924,
+      "text": "or you can generate text very easily"
+    },
+    {
+      "start": 926,
+      "text": "like a like just like a person would um"
+    },
+    {
+      "start": 929,
+      "text": "had they been watching the video they"
+    },
+    {
+      "start": 930,
+      "text": "can draw out the full map of okay this"
+    },
+    {
+      "start": 933,
+      "text": "is what I want to provide to my"
+    },
+    {
+      "start": 934,
+      "text": "customers or my users uh this is a"
+    },
+    {
+      "start": 936,
+      "text": "technology that you have and I can and"
+    },
+    {
+      "start": 938,
+      "text": "they can you know fill that Gap in"
+    },
+    {
+      "start": 940,
+      "text": "pretty easily and they know already uh"
+    },
+    {
+      "start": 943,
+      "text": "what the return on that or what the"
+    },
+    {
+      "start": 944,
+      "text": "opportunity of that experience would be"
+    },
+    {
+      "start": 947,
+      "text": "for them for the kind of really large"
+    },
+    {
+      "start": 949,
+      "text": "high-profile customers that we have"
+    },
+    {
+      "start": 951,
+      "text": "right now it was all the same process we"
+    },
+    {
+      "start": 953,
+      "text": "actually learned all of these from the"
+    },
+    {
+      "start": 954,
+      "text": "customers because they had you know"
+    },
+    {
+      "start": 956,
+      "text": "seeing our demo and seeing the early"
+    },
+    {
+      "start": 959,
+      "text": "hints of the technology uh they were"
+    },
+    {
+      "start": 960,
+      "text": "able to teach us about how they could"
+    },
+    {
+      "start": 962,
+      "text": "utilize the technology and even today"
+    },
+    {
+      "start": 964,
+      "text": "it's not just a single use case that"
+    },
+    {
+      "start": 966,
+      "text": "they want to power uh they come to us"
+    },
+    {
+      "start": 968,
+      "text": "with four or five different ideas of how"
+    },
+    {
+      "start": 970,
+      "text": "you know the technology can impact"
+    },
+    {
+      "start": 971,
+      "text": "different units different business units"
+    },
+    {
+      "start": 974,
+      "text": "um and different you know optimize"
+    },
+    {
+      "start": 975,
+      "text": "different workflows or build new"
+    },
+    {
+      "start": 977,
+      "text": "experiences I think we we make stupid"
+    },
+    {
+      "start": 979,
+      "text": "mistakes probably every day the one that"
+    },
+    {
+      "start": 982,
+      "text": "I regret the most is we knew we had like"
+    },
+    {
+      "start": 985,
+      "text": "this conviction around building a"
+    },
+    {
+      "start": 987,
+      "text": "foundation model but then we didn't have"
+    },
+    {
+      "start": 990,
+      "text": "any data point as to how do you build"
+    },
+    {
+      "start": 992,
+      "text": "that company and I think I blindingly"
+    },
+    {
+      "start": 995,
+      "text": "kind of believe that the startup montra"
+    },
+    {
+      "start": 997,
+      "text": "like identifying a narrow problem and"
+    },
+    {
+      "start": 999,
+      "text": "building a very narrow solution for it I"
+    },
+    {
+      "start": 1001,
+      "text": "think we've spent a lot of early days"
+    },
+    {
+      "start": 1004,
+      "text": "thinking about okay if we have this"
+    },
+    {
+      "start": 1005,
+      "text": "really powerful AI that can understand"
+    },
+    {
+      "start": 1007,
+      "text": "videos what do we do with it and we know"
+    },
+    {
+      "start": 1010,
+      "text": "we know from the from the gecko that we"
+    },
+    {
+      "start": 1012,
+      "text": "wanted to servey to developers and"
+    },
+    {
+      "start": 1013,
+      "text": "Enterprises but I think you know we've"
+    },
+    {
+      "start": 1015,
+      "text": "had mentors and and and and other"
+    },
+    {
+      "start": 1017,
+      "text": "Founders like oh you should build Tik"
+    },
+    {
+      "start": 1019,
+      "text": "Tok 2.0 or you should build like YouTube"
+    },
+    {
+      "start": 1021,
+      "text": "2.0 or you should build that and I think"
+    },
+    {
+      "start": 1023,
+      "text": "we've spent a lot of time thinking okay"
+    },
+    {
+      "start": 1026,
+      "text": "maybe like Tik Tok 2.0 makes sense or"
+    },
+    {
+      "start": 1028,
+      "text": "maybe like gong 2.0 like sales call"
+    },
+    {
+      "start": 1032,
+      "text": "analysis but that didn't really like"
+    },
+    {
+      "start": 1034,
+      "text": "excite us because we knew like we're"
+    },
+    {
+      "start": 1036,
+      "text": "good at building the infrastructure and"
+    },
+    {
+      "start": 1037,
+      "text": "and helping developers build the next"
+    },
+    {
+      "start": 1039,
+      "text": "thing and that's probably the stupidest"
+    },
+    {
+      "start": 1042,
+      "text": "thing that we've done it's like spending"
+    },
+    {
+      "start": 1044,
+      "text": "time on thinking about things that we're"
+    },
+    {
+      "start": 1046,
+      "text": "not excited about as a founder and see"
+    },
+    {
+      "start": 1049,
+      "text": "it's really hard to get distracted if"
+    },
+    {
+      "start": 1051,
+      "text": "you're a firsttime founder or a young"
+    },
+    {
+      "start": 1053,
+      "text": "founder your mentor's advice means a lot"
+    },
+    {
+      "start": 1056,
+      "text": "to you but having like your own"
+    },
+    {
+      "start": 1058,
+      "text": "grounding having your own also re like"
+    },
+    {
+      "start": 1061,
+      "text": "relying a little bit on your own gut"
+    },
+    {
+      "start": 1063,
+      "text": "feeling is very important because what"
+    },
+    {
+      "start": 1065,
+      "text": "we've realized if you try to accommodate"
+    },
+    {
+      "start": 1067,
+      "text": "all of the advices that you get from"
+    },
+    {
+      "start": 1069,
+      "text": "your mentors your company will most"
+    },
+    {
+      "start": 1071,
+      "text": "likely become like an underwear company"
+    },
+    {
+      "start": 1073,
+      "text": "totally different from what you wanted"
+    },
+    {
+      "start": 1075,
+      "text": "to build so my key takeaway is having"
+    },
+    {
+      "start": 1078,
+      "text": "some fundamental like foundation for"
+    },
+    {
+      "start": 1081,
+      "text": "yourself and for the company and be able"
+    },
+    {
+      "start": 1083,
+      "text": "to say thank you for your advice but no"
+    },
+    {
+      "start": 1085,
+      "text": "thank you right so having that the gut"
+    },
+    {
+      "start": 1087,
+      "text": "to say no to someone that you you"
+    },
+    {
+      "start": 1090,
+      "text": "respect as a Founder I think I grew a"
+    },
+    {
+      "start": 1092,
+      "text": "lot right 12 Labs has multi-year Compu"
+    },
+    {
+      "start": 1095,
+      "text": "partnership with Oracle Cloud"
+    },
+    {
+      "start": 1097,
+      "text": "infrastructure where we get all of the"
+    },
+    {
+      "start": 1099,
+      "text": "uh state-of-the-art and media chips and"
+    },
+    {
+      "start": 1101,
+      "text": "Oracle had put together uh this small"
+    },
+    {
+      "start": 1104,
+      "text": "event for their key partners that are"
+    },
+    {
+      "start": 1106,
+      "text": "building Foundation models for and Aiden"
+    },
+    {
+      "start": 1109,
+      "text": "and I had chance to meet with Jensen"
+    },
+    {
+      "start": 1111,
+      "text": "because Jensen was at that event and we"
+    },
+    {
+      "start": 1114,
+      "text": "had I think 5 to 10 minutes to talk"
+    },
+    {
+      "start": 1116,
+      "text": "about 12 laps and I think it seems like"
+    },
+    {
+      "start": 1118,
+      "text": "he had he has a special uh place in his"
+    },
+    {
+      "start": 1121,
+      "text": "heart about computer vision and video"
+    },
+    {
+      "start": 1123,
+      "text": "understanding is you know that was one"
+    },
+    {
+      "start": 1124,
+      "text": "of the first use cases that Nvidia chips"
+    },
+    {
+      "start": 1126,
+      "text": "powered so we we got to uh meet with"
+    },
+    {
+      "start": 1129,
+      "text": "like Nvidia folks from that event and"
+    },
+    {
+      "start": 1130,
+      "text": "then 12 laps was featured in nvidia's"
+    },
+    {
+      "start": 1133,
+      "text": "2023 GTC and I think that kind of"
+    },
+    {
+      "start": 1136,
+      "text": "sparked other people from Nvidia to be"
+    },
+    {
+      "start": 1138,
+      "text": "interested in 12 labs and the mvidia"
+    },
+    {
+      "start": 1141,
+      "text": "Venture team reached out to us it was"
+    },
+    {
+      "start": 1143,
+      "text": "quite casual we were talking about 12"
+    },
+    {
+      "start": 1146,
+      "text": "labs and the future that we're drawing"
+    },
+    {
+      "start": 1148,
+      "text": "and the future of multimodal video"
+    },
+    {
+      "start": 1150,
+      "text": "understanding and I think the Venture"
+    },
+    {
+      "start": 1152,
+      "text": "team also had an idea of how Nvidia and"
+    },
+    {
+      "start": 1155,
+      "text": "12 laps can partner up more than just"
+    },
+    {
+      "start": 1157,
+      "text": "Financial investment but also think"
+    },
+    {
+      "start": 1159,
+      "text": "about really robust product partnership"
+    },
+    {
+      "start": 1161,
+      "text": "from then on what 12 leps is doing and"
+    },
+    {
+      "start": 1164,
+      "text": "what Nvidia want in vision and video"
+    },
+    {
+      "start": 1166,
+      "text": "understanding was just like a perfect"
+    },
+    {
+      "start": 1168,
+      "text": "match it happen quite uh naturally from"
+    },
+    {
+      "start": 1170,
+      "text": "from conversing our our technology our"
+    },
+    {
+      "start": 1172,
+      "text": "road map and and mvidia future in terms"
+    },
+    {
+      "start": 1175,
+      "text": "of like producing really powerful uh"
+    },
+    {
+      "start": 1177,
+      "text": "chips for Edge devices uh for smart"
+    },
+    {
+      "start": 1180,
+      "text": "cities right so there's that natural fit"
+    },
+    {
+      "start": 1183,
+      "text": "of two companies product really creating"
+    },
+    {
+      "start": 1189,
+      "text": "Synergy nowadays I am focusing mostly on"
+    },
+    {
+      "start": 1193,
+      "text": "hiring so I think 12 Labs is group of"
+    },
+    {
+      "start": 1196,
+      "text": "great people I spend a lot of time"
+    },
+    {
+      "start": 1198,
+      "text": "meeting great people I want to be able"
+    },
+    {
+      "start": 1200,
+      "text": "to recognize greatness when he or she"
+    },
+    {
+      "start": 1203,
+      "text": "comes in good Engineers or even like"
+    },
+    {
+      "start": 1205,
+      "text": "just good people in general have this"
+    },
+    {
+      "start": 1208,
+      "text": "core values I would go uh near their"
+    },
+    {
+      "start": 1211,
+      "text": "places and get together at a cafe and we"
+    },
+    {
+      "start": 1213,
+      "text": "would speak for 3 4 hours my way of"
+    },
+    {
+      "start": 1216,
+      "text": "deciding whether this person is a good"
+    },
+    {
+      "start": 1219,
+      "text": "fit for 12 laps is like I am able to"
+    },
+    {
+      "start": 1221,
+      "text": "learn from their core values everyone's"
+    },
+    {
+      "start": 1224,
+      "text": "really good at coding nowadays but great"
+    },
+    {
+      "start": 1225,
+      "text": "Engineers can apply their core values"
+    },
+    {
+      "start": 1227,
+      "text": "and their skill set and is able to talk"
+    },
+    {
+      "start": 1230,
+      "text": "about the company that they're excited"
+    },
+    {
+      "start": 1232,
+      "text": "about and how they want to impact it how"
+    },
+    {
+      "start": 1234,
+      "text": "do you see the product evolving how do"
+    },
+    {
+      "start": 1236,
+      "text": "you see our interfaces evolving the best"
+    },
+    {
+      "start": 1239,
+      "text": "some of the best Engineers are not the"
+    },
+    {
+      "start": 1241,
+      "text": "best coder but having that perspective"
+    },
+    {
+      "start": 1243,
+      "text": "really strong perspective and and"
+    },
+    {
+      "start": 1245,
+      "text": "groundedness is very important and and I"
+    },
+    {
+      "start": 1248,
+      "text": "try to look for that 12 LA's Vision in"
+    },
+    {
+      "start": 1251,
+      "text": "the next two years is really uh becoming"
+    },
+    {
+      "start": 1254,
+      "text": "horizontal video understanding"
+    },
+    {
+      "start": 1255,
+      "text": "infrastructures for all of the"
+    },
+    {
+      "start": 1258,
+      "text": "businesses and developers that are"
+    },
+    {
+      "start": 1259,
+      "text": "working with video data we want to enter"
+    },
+    {
+      "start": 1262,
+      "text": "into uh streaming as well so real- time"
+    },
+    {
+      "start": 1266,
+      "text": "uh video data and uh really become a"
+    },
+    {
+      "start": 1270,
+      "text": "visual cortex for modern video"
+    },
+    {
+      "start": 1272,
+      "text": "applications"
+    },
+    {
+      "start": 1274,
+      "text": "[Music]"
+    },
+    {
+      "start": 1282,
+      "text": "[Music]"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 567,
+  "timestamp": "2025-07-24T08:25:15.823Z"
+}

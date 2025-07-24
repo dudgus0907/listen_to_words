@@ -1,0 +1,1202 @@
+{
+  "success": true,
+  "videoId": "At9Ti-O-NqA",
+  "videoTitle": "A College Dropout Builds $1B Startup at 22 ｜ Injective, Eric Chen",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "We certainly, you know, had a decent"
+    },
+    {
+      "start": 2,
+      "text": "early success working with different"
+    },
+    {
+      "start": 4,
+      "text": "types of investors. A lot of them were"
+    },
+    {
+      "start": 6,
+      "text": "promising and also big deal at the"
+    },
+    {
+      "start": 8,
+      "text": "time. And after that, um, then came the"
+    },
+    {
+      "start": 12,
+      "text": "crypto winter."
+    },
+    {
+      "start": 15,
+      "text": "We were watching Bitcoin falling below"
+    },
+    {
+      "start": 17,
+      "text": "$6,000 overnight and all of those"
+    },
+    {
+      "start": 19,
+      "text": "alternative coins were down by much"
+    },
+    {
+      "start": 21,
+      "text": "more. There were just a loss of VC"
+    },
+    {
+      "start": 24,
+      "text": "interest. uh there were loss of"
+    },
+    {
+      "start": 26,
+      "text": "institutional interest and it's about"
+    },
+    {
+      "start": 29,
+      "text": "minimizing like uh me and like my"
+    },
+    {
+      "start": 32,
+      "text": "co-founder's cost of living at the time."
+    },
+    {
+      "start": 34,
+      "text": "Obviously there were a lot of you know"
+    },
+    {
+      "start": 35,
+      "text": "stress there's a lot of uh concerns"
+    },
+    {
+      "start": 38,
+      "text": "about what if you know the money runs"
+    },
+    {
+      "start": 39,
+      "text": "out tomorrow. So for us you know we had"
+    },
+    {
+      "start": 42,
+      "text": "to earn every single user we gained over"
+    },
+    {
+      "start": 44,
+      "text": "time. We had to earn every single dollar"
+    },
+    {
+      "start": 46,
+      "text": "that came in. We had to really really"
+    },
+    {
+      "start": 48,
+      "text": "learn how to be extremely efficient and"
+    },
+    {
+      "start": 50,
+      "text": "scrappy with the incubation capital that"
+    },
+    {
+      "start": 53,
+      "text": "we were given."
+    },
+    {
+      "start": 55,
+      "text": "I think we had a lot of privilege by"
+    },
+    {
+      "start": 58,
+      "text": "initially going through the 2019 period."
+    },
+    {
+      "start": 61,
+      "text": "We had the experience and understanding"
+    },
+    {
+      "start": 64,
+      "text": "that capital might be very very hard to"
+    },
+    {
+      "start": 67,
+      "text": "come by for an extended duration of time"
+    },
+    {
+      "start": 69,
+      "text": "and that's been basically the mindset"
+    },
+    {
+      "start": 71,
+      "text": "that we have. Ever since then, that made"
+    },
+    {
+      "start": 74,
+      "text": "us uh to be conservative during"
+    },
+    {
+      "start": 79,
+      "text": "very optimistic times and at the same"
+    },
+    {
+      "start": 82,
+      "text": "time being extremely"
+    },
+    {
+      "start": 84,
+      "text": "um optimistic during very fearful times."
+    },
+    {
+      "start": 87,
+      "text": "The way we did it was focusing on the"
+    },
+    {
+      "start": 89,
+      "text": "long term. Plan for the future, ignore"
+    },
+    {
+      "start": 92,
+      "text": "the present conditions. So, if I have a"
+    },
+    {
+      "start": 95,
+      "text": "time machine and go back and and tell"
+    },
+    {
+      "start": 97,
+      "text": "myself at that time, it would be cherish"
+    },
+    {
+      "start": 100,
+      "text": "that moment because you're not going to"
+    },
+    {
+      "start": 102,
+      "text": "have a lot of those. And it's probably"
+    },
+    {
+      "start": 106,
+      "text": "the most powerful feeling in the"
+    },
+    {
+      "start": 108,
+      "text": "world. Hi, I'm Eric Chen, co-founder and"
+    },
+    {
+      "start": 111,
+      "text": "CEO of Injective Labs. We built"
+    },
+    {
+      "start": 113,
+      "text": "Injective, which is a blockchain built"
+    },
+    {
+      "start": 114,
+      "text": "for finance meant to democratize"
+    },
+    {
+      "start": 116,
+      "text": "financial access for all. Injective is a"
+    },
+    {
+      "start": 118,
+      "text": "multi-billion dollar network that's"
+    },
+    {
+      "start": 120,
+      "text": "currently delivering more than $50"
+    },
+    {
+      "start": 122,
+      "text": "billion of exchange volume with more"
+    },
+    {
+      "start": 124,
+      "text": "than 1.4 million addresses and users as"
+    },
+    {
+      "start": 127,
+      "text": "well as 1 billion"
+    },
+    {
+      "start": 131,
+      "text": "transactions. I studied uh computer"
+    },
+    {
+      "start": 134,
+      "text": "science and uh finance in college. I was"
+    },
+    {
+      "start": 136,
+      "text": "in a bit of a soul searching process"
+    },
+    {
+      "start": 138,
+      "text": "where I didn't really know what I was"
+    },
+    {
+      "start": 140,
+      "text": "truly good at. I couldn't really find"
+    },
+    {
+      "start": 142,
+      "text": "something that you know really piqu my"
+    },
+    {
+      "start": 144,
+      "text": "interest. Everyone doing finance wanted"
+    },
+    {
+      "start": 145,
+      "text": "to go into like the banking, hedge"
+    },
+    {
+      "start": 147,
+      "text": "funds, private equity, whatever. And"
+    },
+    {
+      "start": 149,
+      "text": "everyone like doing computer science"
+    },
+    {
+      "start": 151,
+      "text": "wanted to go into like Google. For me,"
+    },
+    {
+      "start": 153,
+      "text": "it was just uh very very torn. I think"
+    },
+    {
+      "start": 155,
+      "text": "one of the most interesting part of my"
+    },
+    {
+      "start": 157,
+      "text": "college life was certainly learning more"
+    },
+    {
+      "start": 158,
+      "text": "about crypto and understanding that"
+    },
+    {
+      "start": 160,
+      "text": "there's a lot of very interesting like"
+    },
+    {
+      "start": 162,
+      "text": "research uh subjects. But the first"
+    },
+    {
+      "start": 164,
+      "text": "thing I did of course was trying to mine"
+    },
+    {
+      "start": 166,
+      "text": "with the free electricity from the dorm"
+    },
+    {
+      "start": 167,
+      "text": "room. What truly made me excite excited"
+    },
+    {
+      "start": 169,
+      "text": "at the time was when I was doing"
+    },
+    {
+      "start": 171,
+      "text": "research on you know a particular issue"
+    },
+    {
+      "start": 173,
+      "text": "that was like plaguing the industry"
+    },
+    {
+      "start": 175,
+      "text": "which was uh front running exchange"
+    },
+    {
+      "start": 177,
+      "text": "collision sandwich attacks and stuff"
+    },
+    {
+      "start": 179,
+      "text": "like that which basically the simplest"
+    },
+    {
+      "start": 181,
+      "text": "way to understand it is that it makes"
+    },
+    {
+      "start": 183,
+      "text": "general users or traders lose part of"
+    },
+    {
+      "start": 185,
+      "text": "their money because some guy can find"
+    },
+    {
+      "start": 187,
+      "text": "like a better price elsewhere and then"
+    },
+    {
+      "start": 189,
+      "text": "arbitrage their orders on chain. For us,"
+    },
+    {
+      "start": 191,
+      "text": "it was basically a very simple"
+    },
+    {
+      "start": 193,
+      "text": "understanding is that it's a it's a"
+    },
+    {
+      "start": 194,
+      "text": "problem. We can come up with probably"
+    },
+    {
+      "start": 196,
+      "text": "like a pretty elegant solution to solve"
+    },
+    {
+      "start": 198,
+      "text": "it using some cryptographic trick. I"
+    },
+    {
+      "start": 199,
+      "text": "think the most interesting part about"
+    },
+    {
+      "start": 201,
+      "text": "Injective is that it's very much of a"
+    },
+    {
+      "start": 203,
+      "text": "blockchain built for finance. Let's say"
+    },
+    {
+      "start": 205,
+      "text": "we were talking about a smart contract"
+    },
+    {
+      "start": 206,
+      "text": "platform which is like Ethereum, Salana,"
+    },
+    {
+      "start": 209,
+      "text": "etc. The way these blockchains operate"
+    },
+    {
+      "start": 211,
+      "text": "is that it tries to be web through"
+    },
+    {
+      "start": 213,
+      "text": "computer that no matter what you toss at"
+    },
+    {
+      "start": 215,
+      "text": "it, it will figure out like a way to"
+    },
+    {
+      "start": 216,
+      "text": "make it work. The way Injective works is"
+    },
+    {
+      "start": 218,
+      "text": "that instead of always having to figure"
+    },
+    {
+      "start": 221,
+      "text": "out ways to optimize for application"
+    },
+    {
+      "start": 223,
+      "text": "trends or use cases, Injective decides"
+    },
+    {
+      "start": 226,
+      "text": "to be anchored for financial"
+    },
+    {
+      "start": 227,
+      "text": "applications. Hi, I'm Albert. Hi, I'm"
+    },
+    {
+      "start": 230,
+      "text": "Eric. We are Injective Protocol. The"
+    },
+    {
+      "start": 232,
+      "text": "best and most secure experience for the"
+    },
+    {
+      "start": 234,
+      "text": "centralized exchange. During the early"
+    },
+    {
+      "start": 236,
+      "text": "days, in the way the first 100 user that"
+    },
+    {
+      "start": 238,
+      "text": "was acquired was actually very simple. I"
+    },
+    {
+      "start": 241,
+      "text": "basically went into uh every single"
+    },
+    {
+      "start": 242,
+      "text": "group chat that had anything to do with"
+    },
+    {
+      "start": 244,
+      "text": "uh crypto to reach out to a lot of the"
+    },
+    {
+      "start": 246,
+      "text": "participants or the vocal members and"
+    },
+    {
+      "start": 248,
+      "text": "trying to tell them about hey like use"
+    },
+    {
+      "start": 250,
+      "text": "uh this interactive exchange try it and"
+    },
+    {
+      "start": 252,
+      "text": "let us know what you think you know whe"
+    },
+    {
+      "start": 254,
+      "text": "what whether it makes sense whether it's"
+    },
+    {
+      "start": 255,
+      "text": "a horrible idea and then we should stop"
+    },
+    {
+      "start": 257,
+      "text": "doing it. I just kept doing it the first"
+    },
+    {
+      "start": 259,
+      "text": "50 the first 100 the first god knows how"
+    },
+    {
+      "start": 261,
+      "text": "many hundreds or thousands and I think"
+    },
+    {
+      "start": 262,
+      "text": "the most interesting part is that"
+    },
+    {
+      "start": 264,
+      "text": "there's a lot of very vocal and negative"
+    },
+    {
+      "start": 265,
+      "text": "people in a lot of these like public"
+    },
+    {
+      "start": 267,
+      "text": "group chats or you know public forums."
+    },
+    {
+      "start": 269,
+      "text": "Hey, like why do you have this? It"
+    },
+    {
+      "start": 270,
+      "text": "doesn't make sense. Why do you have this"
+    },
+    {
+      "start": 271,
+      "text": "feature? Like no, no one needs it. It's"
+    },
+    {
+      "start": 273,
+      "text": "always very very stressful for you to"
+    },
+    {
+      "start": 274,
+      "text": "talk to them or for you to even reach"
+    },
+    {
+      "start": 276,
+      "text": "out to them. But if you fight through"
+    },
+    {
+      "start": 277,
+      "text": "that like initial embarrassment"
+    },
+    {
+      "start": 279,
+      "text": "interfacing or like dealing with their"
+    },
+    {
+      "start": 281,
+      "text": "negativity, they end up being a lot more"
+    },
+    {
+      "start": 283,
+      "text": "valuable of an ally than you can"
+    },
+    {
+      "start": 285,
+      "text": "possibly imagine. A lot of these like"
+    },
+    {
+      "start": 286,
+      "text": "highly critical people are equally"
+    },
+    {
+      "start": 288,
+      "text": "critical to everyone and therefore it"
+    },
+    {
+      "start": 290,
+      "text": "means that they first of all they care"
+    },
+    {
+      "start": 292,
+      "text": "and second of all they give you"
+    },
+    {
+      "start": 293,
+      "text": "extremely valuable feedback and third of"
+    },
+    {
+      "start": 295,
+      "text": "all they're a lot nicer than what they"
+    },
+    {
+      "start": 297,
+      "text": "perceive to be. facing that negativity"
+    },
+    {
+      "start": 299,
+      "text": "with a very positive light and more"
+    },
+    {
+      "start": 301,
+      "text": "importantly listening and give everyone"
+    },
+    {
+      "start": 303,
+      "text": "no matter how negative they are or how"
+    },
+    {
+      "start": 305,
+      "text": "positive they are time of the day to"
+    },
+    {
+      "start": 306,
+      "text": "listen to their feedback and implement"
+    },
+    {
+      "start": 308,
+      "text": "upon it and it's about presenting to"
+    },
+    {
+      "start": 310,
+      "text": "them with a positive can do attitude"
+    },
+    {
+      "start": 312,
+      "text": "addressing every single concern or"
+    },
+    {
+      "start": 313,
+      "text": "problem that they might have listening"
+    },
+    {
+      "start": 315,
+      "text": "to every single one of their feedback"
+    },
+    {
+      "start": 316,
+      "text": "the product around people that voice"
+    },
+    {
+      "start": 318,
+      "text": "their concerns and opinions and really"
+    },
+    {
+      "start": 321,
+      "text": "iterate that way because you don't know"
+    },
+    {
+      "start": 322,
+      "text": "the right answer especially as a builder"
+    },
+    {
+      "start": 324,
+      "text": "to what's going to happen in the future"
+    },
+    {
+      "start": 327,
+      "text": "with a 100 or a thousand% precision and"
+    },
+    {
+      "start": 329,
+      "text": "accuracy. What you really need is have"
+    },
+    {
+      "start": 332,
+      "text": "user informed the direction that you're"
+    },
+    {
+      "start": 333,
+      "text": "building and listening to them because a"
+    },
+    {
+      "start": 335,
+      "text": "happy user will become the most valuable"
+    },
+    {
+      "start": 337,
+      "text": "ally for no matter what industry you're"
+    },
+    {
+      "start": 339,
+      "text": "in, no matter what product that you're"
+    },
+    {
+      "start": 347,
+      "text": "building. We certainly, you know, had a"
+    },
+    {
+      "start": 350,
+      "text": "decent early success working with"
+    },
+    {
+      "start": 352,
+      "text": "different types of investors. A lot of"
+    },
+    {
+      "start": 354,
+      "text": "them were promising and also big deal at"
+    },
+    {
+      "start": 356,
+      "text": "the time. And after that, um, then came"
+    },
+    {
+      "start": 360,
+      "text": "the crypto winter. We were watching"
+    },
+    {
+      "start": 362,
+      "text": "Bitcoin falling below $6,000 overnight."
+    },
+    {
+      "start": 364,
+      "text": "And all of those alternative coins were"
+    },
+    {
+      "start": 366,
+      "text": "down by much more. There were just a"
+    },
+    {
+      "start": 368,
+      "text": "loss of VC interest. There were loss of"
+    },
+    {
+      "start": 371,
+      "text": "institutional interest. We had to"
+    },
+    {
+      "start": 373,
+      "text": "really, really learn how to be extremely"
+    },
+    {
+      "start": 375,
+      "text": "efficient and scrappy with the"
+    },
+    {
+      "start": 377,
+      "text": "incubation capital that we were given."
+    },
+    {
+      "start": 379,
+      "text": "being crammed in a 70 or 80 square ft uh"
+    },
+    {
+      "start": 382,
+      "text": "apartment within New York with three"
+    },
+    {
+      "start": 384,
+      "text": "other roommates moving around in a world"
+    },
+    {
+      "start": 387,
+      "text": "trying to source talents at a"
+    },
+    {
+      "start": 389,
+      "text": "cost-effective way and trying to work"
+    },
+    {
+      "start": 391,
+      "text": "with as many globalized you know"
+    },
+    {
+      "start": 393,
+      "text": "developers and users and trying to"
+    },
+    {
+      "start": 395,
+      "text": "figure out ways to you know make"
+    },
+    {
+      "start": 396,
+      "text": "everything work. I think we had a lot of"
+    },
+    {
+      "start": 398,
+      "text": "privilege by initially going through the"
+    },
+    {
+      "start": 400,
+      "text": "period where we had the experience and"
+    },
+    {
+      "start": 404,
+      "text": "understanding that capital might be very"
+    },
+    {
+      "start": 407,
+      "text": "very hard to come by for an extended"
+    },
+    {
+      "start": 409,
+      "text": "duration of time that basically made us"
+    },
+    {
+      "start": 411,
+      "text": "to be conservative during optimistic"
+    },
+    {
+      "start": 414,
+      "text": "times and at the same time being"
+    },
+    {
+      "start": 416,
+      "text": "extremely optimistic during very fearful"
+    },
+    {
+      "start": 419,
+      "text": "times. It allows us to basically no"
+    },
+    {
+      "start": 421,
+      "text": "matter what condition it is always"
+    },
+    {
+      "start": 423,
+      "text": "ensure that you know we have a certain"
+    },
+    {
+      "start": 425,
+      "text": "amount of runway and we always can"
+    },
+    {
+      "start": 427,
+      "text": "survive for more than 5 years. The way"
+    },
+    {
+      "start": 429,
+      "text": "we did it was focusing on the long term"
+    },
+    {
+      "start": 431,
+      "text": "plan for the future ignore the present"
+    },
+    {
+      "start": 434,
+      "text": "conditions. Being around enough cycles"
+    },
+    {
+      "start": 437,
+      "text": "helps a lot because during extremely"
+    },
+    {
+      "start": 440,
+      "text": "bullish times uh during extremely"
+    },
+    {
+      "start": 443,
+      "text": "optimistic times we slowly become more"
+    },
+    {
+      "start": 445,
+      "text": "and more jaded more and more fearful. we"
+    },
+    {
+      "start": 447,
+      "text": "have like a innate sense of uh it's"
+    },
+    {
+      "start": 450,
+      "text": "almost like a primal instinct that"
+    },
+    {
+      "start": 452,
+      "text": "something is about to go wrong and I"
+    },
+    {
+      "start": 453,
+      "text": "think this helped a lot because it's"
+    },
+    {
+      "start": 455,
+      "text": "basically like an instinct that was like"
+    },
+    {
+      "start": 456,
+      "text": "developed over time after being in so"
+    },
+    {
+      "start": 458,
+      "text": "many cycles even before an injective on"
+    },
+    {
+      "start": 461,
+      "text": "another hand it's just like aial"
+    },
+    {
+      "start": 463,
+      "text": "question like have you earned it? uh a"
+    },
+    {
+      "start": 465,
+      "text": "lot of times you know like the success"
+    },
+    {
+      "start": 467,
+      "text": "is asymmetrical to the output and to the"
+    },
+    {
+      "start": 470,
+      "text": "fundamentals and oftent times we at all"
+    },
+    {
+      "start": 473,
+      "text": "times question ourselves whether we have"
+    },
+    {
+      "start": 475,
+      "text": "like earned the success that we have we"
+    },
+    {
+      "start": 477,
+      "text": "are often very very critical so we"
+    },
+    {
+      "start": 479,
+      "text": "always doubt that we did earn it and I"
+    },
+    {
+      "start": 481,
+      "text": "think that's still a very strong"
+    },
+    {
+      "start": 482,
+      "text": "relative benchmark to see how long-term"
+    },
+    {
+      "start": 484,
+      "text": "you"
+    },
+    {
+      "start": 488,
+      "text": "are I think the most exciting thing"
+    },
+    {
+      "start": 490,
+      "text": "about uh injective especially at the"
+    },
+    {
+      "start": 492,
+      "text": "current stage is about decentralizing"
+    },
+    {
+      "start": 494,
+      "text": "the access to finance to everyone."
+    },
+    {
+      "start": 496,
+      "text": "Finance is truly a game for the rich and"
+    },
+    {
+      "start": 498,
+      "text": "it really shouldn't be. Whether you have"
+    },
+    {
+      "start": 500,
+      "text": "just $1 or like $5, you get to have"
+    },
+    {
+      "start": 503,
+      "text": "access to the same type of opportunity"
+    },
+    {
+      "start": 504,
+      "text": "to those with uh, you know, $5 million"
+    },
+    {
+      "start": 506,
+      "text": "or $10 million. And this is completely"
+    },
+    {
+      "start": 508,
+      "text": "not the current financial world."
+    },
+    {
+      "start": 510,
+      "text": "Basically, if you want opportunity,"
+    },
+    {
+      "start": 511,
+      "text": "especially high growth, it's just layers"
+    },
+    {
+      "start": 513,
+      "text": "and layers of like investment advisors,"
+    },
+    {
+      "start": 515,
+      "text": "brokers, and stuff like that to purchase"
+    },
+    {
+      "start": 517,
+      "text": "one share of Apple, you have to have,"
+    },
+    {
+      "start": 519,
+      "text": "you know, hundreds and hundreds of"
+    },
+    {
+      "start": 520,
+      "text": "dollars. There's not even a"
+    },
+    {
+      "start": 521,
+      "text": "fractionalized concept within the stock"
+    },
+    {
+      "start": 523,
+      "text": "market. For us right now, the most"
+    },
+    {
+      "start": 525,
+      "text": "exciting thing is about being able to"
+    },
+    {
+      "start": 526,
+      "text": "bring in real world assets, being able"
+    },
+    {
+      "start": 528,
+      "text": "to tokenize so many exciting"
+    },
+    {
+      "start": 530,
+      "text": "opportunities happening in the"
+    },
+    {
+      "start": 531,
+      "text": "cross-section of traditional financial"
+    },
+    {
+      "start": 533,
+      "text": "world and also the crypto world. This"
+    },
+    {
+      "start": 534,
+      "text": "has just been always a dream of us, even"
+    },
+    {
+      "start": 536,
+      "text": "during the early days of Injective,"
+    },
+    {
+      "start": 538,
+      "text": "which is being able to access a lot of"
+    },
+    {
+      "start": 539,
+      "text": "these traditional products like Tesla or"
+    },
+    {
+      "start": 542,
+      "text": "GameStop, creating it in a platform that"
+    },
+    {
+      "start": 546,
+      "text": "also has access to different types of"
+    },
+    {
+      "start": 547,
+      "text": "crypto primitives while at the same time"
+    },
+    {
+      "start": 549,
+      "text": "being able to access it from all over"
+    },
+    {
+      "start": 551,
+      "text": "the world, from Argentina to Europe to"
+    },
+    {
+      "start": 554,
+      "text": "Asia and everywhere in the same easy to"
+    },
+    {
+      "start": 556,
+      "text": "access, easy to use platform. Basically"
+    },
+    {
+      "start": 559,
+      "text": "making uh financial products and assets"
+    },
+    {
+      "start": 561,
+      "text": "more accessible than ever."
+    },
+    {
+      "start": 565,
+      "text": "I don't think there's going to be a lot"
+    },
+    {
+      "start": 567,
+      "text": "of uh material change uh for people in"
+    },
+    {
+      "start": 569,
+      "text": "the world. Their day doesn't just"
+    },
+    {
+      "start": 571,
+      "text": "suddenly become completely different at"
+    },
+    {
+      "start": 574,
+      "text": "full 180. But I think it's really about"
+    },
+    {
+      "start": 576,
+      "text": "the subtlety of things. Maybe you just"
+    },
+    {
+      "start": 578,
+      "text": "have more savings in your bank. Maybe"
+    },
+    {
+      "start": 580,
+      "text": "you can connect with your friends 20,000"
+    },
+    {
+      "start": 582,
+      "text": "miles across the world a lot easier."
+    },
+    {
+      "start": 585,
+      "text": "Everyone is just a little bit better off"
+    },
+    {
+      "start": 587,
+      "text": "because of the opportunities that was"
+    },
+    {
+      "start": 589,
+      "text": "now accessible to you. I remember I uh"
+    },
+    {
+      "start": 592,
+      "text": "came up with Injective at the stolen"
+    },
+    {
+      "start": 595,
+      "text": "co-working space from my friend. It"
+    },
+    {
+      "start": 597,
+      "text": "wasn't something too flashy. It was just"
+    },
+    {
+      "start": 600,
+      "text": "hey this could be a solution to"
+    },
+    {
+      "start": 601,
+      "text": "something at that time. It was a very"
+    },
+    {
+      "start": 603,
+      "text": "very rare feeling to have the space"
+    },
+    {
+      "start": 606,
+      "text": "especially at a time was just"
+    },
+    {
+      "start": 607,
+      "text": "ostentatious way too much grandiose like"
+    },
+    {
+      "start": 610,
+      "text": "visions and stuff like that. So oftent"
+    },
+    {
+      "start": 612,
+      "text": "times it felt like it was losing touch"
+    },
+    {
+      "start": 614,
+      "text": "with reality. So that was a very rare"
+    },
+    {
+      "start": 616,
+      "text": "feeling for me even though these days I"
+    },
+    {
+      "start": 617,
+      "text": "get more and more of these feelings. uh"
+    },
+    {
+      "start": 620,
+      "text": "uh at this point in time. It was very"
+    },
+    {
+      "start": 622,
+      "text": "very rare at the time. So if I have a"
+    },
+    {
+      "start": 624,
+      "text": "time machine and go back and and tell"
+    },
+    {
+      "start": 627,
+      "text": "myself at that time, it would be cherish"
+    },
+    {
+      "start": 630,
+      "text": "that moment because you're not going to"
+    },
+    {
+      "start": 631,
+      "text": "have a lot of those. And it's probably"
+    },
+    {
+      "start": 635,
+      "text": "the most powerful feeling in the world."
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 298,
+  "timestamp": "2025-07-24T08:16:52.861Z"
+}

@@ -1,0 +1,672 @@
+1
+00:00:14,320 --> 00:00:19,439
+Hello Sharks. My name is Mattie Salin
+
+2
+00:00:16,560 --> 00:00:22,880
+and my product is called Wake and Bacon.
+
+3
+00:00:19,439 --> 00:00:25,039
+I'm asking for $40,000 in return for 20%
+
+4
+00:00:22,880 --> 00:00:26,960
+equity.
+
+5
+00:00:25,039 --> 00:00:29,840
+So, while I was getting my master's
+
+6
+00:00:26,960 --> 00:00:31,840
+degree at NYU University, I took an
+
+7
+00:00:29,840 --> 00:00:34,160
+introductory electronics course where we
+
+8
+00:00:31,840 --> 00:00:36,640
+had to make a device for the home. And I
+
+9
+00:00:34,160 --> 00:00:38,399
+wanted to remake an alarm clock. And so,
+
+10
+00:00:36,640 --> 00:00:40,280
+I canvased my fellow students asking
+
+11
+00:00:38,399 --> 00:00:43,360
+them what their ideal way to wake up
+
+12
+00:00:40,280 --> 00:00:45,000
+was. Now, I can't say what the number
+
+13
+00:00:43,360 --> 00:00:47,920
+one answer was on
+
+14
+00:00:45,000 --> 00:00:50,480
+television, but the close second was the
+
+15
+00:00:47,920 --> 00:00:53,600
+smell and taste of bacon. And so
+
+16
+00:00:50,480 --> 00:00:55,520
+inspired, I went home and I built the
+
+17
+00:00:53,600 --> 00:00:57,559
+world's first alarm clock that actually
+
+18
+00:00:55,520 --> 00:01:00,719
+wakes you up with
+
+19
+00:00:57,559 --> 00:01:02,559
+bacon. Here's how it works. So, the
+
+20
+00:01:00,719 --> 00:01:04,080
+night before you open up the chamber and
+
+21
+00:01:02,559 --> 00:01:06,400
+you put in a couple of slices of
+
+22
+00:01:04,080 --> 00:01:09,200
+pre-cooked bacon, and then you set the
+
+23
+00:01:06,400 --> 00:01:12,400
+alarm for, say, 7 a.m. The next morning
+
+24
+00:01:09,200 --> 00:01:15,600
+at 6:50, the clock silently turns on,
+
+25
+00:01:12,400 --> 00:01:17,759
+and it heats up the bacon to a crisp so
+
+26
+00:01:15,600 --> 00:01:19,920
+that the smell is really strong and can
+
+27
+00:01:17,759 --> 00:01:22,159
+wake up any bacon lover. You can then
+
+28
+00:01:19,920 --> 00:01:23,840
+actually just roll over in bed, open it
+
+29
+00:01:22,159 --> 00:01:26,159
+up, and eat the bacon yourself. You can
+
+30
+00:01:23,840 --> 00:01:29,040
+cook the bacon and then eat it. That's
+
+31
+00:01:26,159 --> 00:01:30,400
+right. Shut up. I'm serious.
+
+32
+00:01:29,040 --> 00:01:32,479
+I built this and I thought it was a
+
+33
+00:01:30,400 --> 00:01:34,320
+lark. So, I posted on my website and
+
+34
+00:01:32,479 --> 00:01:35,920
+wake and bacon went viral. I've been
+
+35
+00:01:34,320 --> 00:01:37,520
+inundated with hundreds and hundreds of
+
+36
+00:01:35,920 --> 00:01:39,040
+emails of people who are begging me to
+
+37
+00:01:37,520 --> 00:01:41,360
+sell them one. And so, with the money
+
+38
+00:01:39,040 --> 00:01:44,320
+I'm asking for, I want to redesign this
+
+39
+00:01:41,360 --> 00:01:46,720
+for mass production and get a functional
+
+40
+00:01:44,320 --> 00:01:48,640
+prototype so that I can go pitch this to
+
+41
+00:01:46,720 --> 00:01:50,640
+retail partners and manufacturing
+
+42
+00:01:48,640 --> 00:01:52,320
+partners and investors. I've actually
+
+43
+00:01:50,640 --> 00:01:54,880
+got an artist rendering of what it could
+
+44
+00:01:52,320 --> 00:01:56,520
+look like if mass-produced. Notice the
+
+45
+00:01:54,880 --> 00:01:58,799
+hose.
+
+46
+00:01:56,520 --> 00:02:01,840
+And this is what it looks like with the
+
+47
+00:01:58,799 --> 00:02:05,680
+tray open. And the cord is a little
+
+48
+00:02:01,840 --> 00:02:08,640
+corkcrew. I thought of everything.
+
+49
+00:02:05,680 --> 00:02:12,239
+Can we try it? Oh, absolutely. In fact,
+
+50
+00:02:08,640 --> 00:02:14,160
+um I've got some for you right now.
+
+51
+00:02:12,239 --> 00:02:16,080
+Hey, Maddie, I I love the face of the
+
+52
+00:02:14,160 --> 00:02:19,920
+pig. Do you have a slogan for this or
+
+53
+00:02:16,080 --> 00:02:22,560
+anything? Rise and swine.
+
+54
+00:02:19,920 --> 00:02:24,160
+Oh, lordy. Matt, how long does it take
+
+55
+00:02:22,560 --> 00:02:26,400
+to cook? Uh, it takes 10 minutes to
+
+56
+00:02:24,160 --> 00:02:28,800
+reheat. So, Maddie, what happens when
+
+57
+00:02:26,400 --> 00:02:31,360
+we've sold 10,000 of these and the
+
+58
+00:02:28,800 --> 00:02:36,360
+10,000 and first catches on fire and
+
+59
+00:02:31,360 --> 00:02:36,360
+burns the couple to death in their bed?
+
+60
+00:02:36,640 --> 00:02:40,560
+Well, it needs it. It has to be
+
+61
+00:02:38,640 --> 00:02:42,080
+ULlisted, which means it's safe for the
+
+62
+00:02:40,560 --> 00:02:43,680
+home for any I'm going to ask you. You
+
+63
+00:02:42,080 --> 00:02:46,160
+think they want an oven cooking bacon
+
+64
+00:02:43,680 --> 00:02:48,000
+next to a bed? Well, you know, there's
+
+65
+00:02:46,160 --> 00:02:50,080
+the uh Easy Bake oven out there. What
+
+66
+00:02:48,000 --> 00:02:51,040
+about next to somebody's bed at 2:00 in
+
+67
+00:02:50,080 --> 00:02:52,720
+the morning? You don't know where a
+
+68
+00:02:51,040 --> 00:02:54,160
+kid's going to put the Easy Bake oven.
+
+69
+00:02:52,720 --> 00:02:55,680
+If they if they made it through that,
+
+70
+00:02:54,160 --> 00:02:57,200
+then I'm sure that I can find a way to
+
+71
+00:02:55,680 --> 00:02:58,800
+get this UL listed and safe for the
+
+72
+00:02:57,200 --> 00:03:00,959
+home.
+
+73
+00:02:58,800 --> 00:03:02,239
+This is fantastic. You have any idea of
+
+74
+00:03:00,959 --> 00:03:04,720
+pricing? Do you know what your margins
+
+75
+00:03:02,239 --> 00:03:07,200
+will be? So, it'd be about $13 per unit.
+
+76
+00:03:04,720 --> 00:03:10,519
+I mean, you're asking for $40,000. So,
+
+77
+00:03:07,200 --> 00:03:12,560
+once you burn through the 40 to make the
+
+78
+00:03:10,519 --> 00:03:14,560
+prototype, where's the money going to
+
+79
+00:03:12,560 --> 00:03:16,879
+come from to sell it? I want the money
+
+80
+00:03:14,560 --> 00:03:19,120
+so that I can then pitch this to retail
+
+81
+00:03:16,879 --> 00:03:20,720
+partners and manufacturing partners.
+
+82
+00:03:19,120 --> 00:03:23,200
+Matt, let me see if I get this right.
+
+83
+00:03:20,720 --> 00:03:25,120
+This is a novelty item. Yes. You think
+
+84
+00:03:23,200 --> 00:03:26,879
+you can sell how many units? I'm not
+
+85
+00:03:25,120 --> 00:03:30,560
+sure. I don't have a projection of how
+
+86
+00:03:26,879 --> 00:03:33,200
+many units I could sell.
+
+87
+00:03:30,560 --> 00:03:35,200
+At least throw out a forecast. Say 1.26
+
+88
+00:03:33,200 --> 00:03:36,920
+million in the first quarter. Even if
+
+89
+00:03:35,200 --> 00:03:38,959
+you're lying to me, at least that's
+
+90
+00:03:36,920 --> 00:03:40,400
+interesting. You got no projections
+
+91
+00:03:38,959 --> 00:03:41,760
+whatsoever. You got a pig box that's
+
+92
+00:03:40,400 --> 00:03:43,040
+going to catch on fire and kill
+
+93
+00:03:41,760 --> 00:03:44,560
+somebody. I'm going to be sued into the
+
+94
+00:03:43,040 --> 00:03:47,120
+stone age. I'm out, but I'll give you
+
+95
+00:03:44,560 --> 00:03:50,080
+100 bucks for the pig box.
+
+96
+00:03:47,120 --> 00:03:52,959
+Is the pig box for sale? Uh, no. It's
+
+97
+00:03:50,080 --> 00:03:54,879
+the only one I have.
+
+98
+00:03:52,959 --> 00:03:57,040
+Maddie, I think your idea is whimsical
+
+99
+00:03:54,879 --> 00:04:00,040
+and it's a great novelty gift. Thank
+
+100
+00:03:57,040 --> 00:04:02,640
+you. That's my compliment. I don't think
+
+101
+00:04:00,040 --> 00:04:03,920
+anyone really wants to have bacon that
+
+102
+00:04:02,640 --> 00:04:05,360
+close when they're waking up. I think
+
+103
+00:04:03,920 --> 00:04:07,920
+they like smelling in the kitchen that
+
+104
+00:04:05,360 --> 00:04:09,519
+mom's making. So, I'm out. All right,
+
+105
+00:04:07,920 --> 00:04:11,799
+I'm taking my piece of bacon and I'm
+
+106
+00:04:09,519 --> 00:04:16,720
+out. All
+
+107
+00:04:11,799 --> 00:04:20,759
+right. I like I like bacon.
+
+108
+00:04:16,720 --> 00:04:20,759
+Get on it. In or out?
+
+109
+00:04:22,160 --> 00:04:26,960
+I'm out. All right. Let me ask you this,
+
+110
+00:04:25,520 --> 00:04:29,520
+Maddie. What do you think the minimum
+
+111
+00:04:26,960 --> 00:04:32,160
+production run is? Um, I think it's
+
+112
+00:04:29,520 --> 00:04:35,520
+10,000 is the lowest I can go. So, that
+
+113
+00:04:32,160 --> 00:04:37,680
+means if your full cost for these is 15
+
+114
+00:04:35,520 --> 00:04:40,400
+bucks a unit, basically 13 bucks a unit.
+
+115
+00:04:37,680 --> 00:04:42,560
+So, it' be $130,000. Where is that money
+
+116
+00:04:40,400 --> 00:04:45,680
+coming from? That's where I need to
+
+117
+00:04:42,560 --> 00:04:47,759
+partner with a retail partner or a
+
+118
+00:04:45,680 --> 00:04:48,800
+manufacturing partner or an investor.
+
+119
+00:04:47,759 --> 00:04:50,000
+You're not going to put your name on
+
+120
+00:04:48,800 --> 00:04:51,919
+this cuz I'm going to sue you into the
+
+121
+00:04:50,000 --> 00:04:54,240
+stone age after my bed catches on fire.
+
+122
+00:04:51,919 --> 00:04:56,560
+I know how to buy insurance. So, we can
+
+123
+00:04:54,240 --> 00:04:58,720
+deal with that. The bigger problem that
+
+124
+00:04:56,560 --> 00:05:02,720
+I have literally and being very
+
+125
+00:04:58,720 --> 00:05:02,720
+interested is you needed
+
+126
+00:05:03,080 --> 00:05:08,199
+$170,000. You only asked for 40.
+
+127
+00:05:09,600 --> 00:05:15,360
+I'm now asking for $170,000.
+
+128
+00:05:12,630 --> 00:05:17,600
+[Laughter]
+
+129
+00:05:15,360 --> 00:05:19,759
+Mark, are you really interested in this?
+
+130
+00:05:17,600 --> 00:05:22,400
+I like the idea. You really think
+
+131
+00:05:19,759 --> 00:05:24,160
+cooking bacon bedside is a good idea? It
+
+132
+00:05:22,400 --> 00:05:25,759
+doesn't matter. If I had to guess the
+
+133
+00:05:24,160 --> 00:05:29,680
+percentage of people who would actually
+
+134
+00:05:25,759 --> 00:05:30,880
+make bacon, I'd say 10%. And if I had to
+
+135
+00:05:29,680 --> 00:05:34,800
+guess the number of people who would
+
+136
+00:05:30,880 --> 00:05:36,639
+make bacon twice, I'd say 0%. How many%
+
+137
+00:05:34,800 --> 00:05:38,080
+set the house on fire? Well, that's what
+
+138
+00:05:36,639 --> 00:05:39,759
+the the point though is they're not
+
+139
+00:05:38,080 --> 00:05:41,280
+going to use it to make bacon. This is
+
+140
+00:05:39,759 --> 00:05:45,120
+going to be a present for dad because
+
+141
+00:05:41,280 --> 00:05:45,120
+it's so darn stupid.
+
+142
+00:05:45,199 --> 00:05:48,080
+And Mark Cuban puts his dough into
+
+143
+00:05:46,800 --> 00:05:50,080
+stupid ideas. Is that what I'm here for
+
+144
+00:05:48,080 --> 00:05:52,000
+today? It's a gag gift. The problem is
+
+145
+00:05:50,080 --> 00:05:55,400
+I'm not going to put up the 130,000.
+
+146
+00:05:52,000 --> 00:05:55,400
+That's the problem.
+
+147
+00:05:55,759 --> 00:06:02,400
+Because of that, Maddie, I'm out. All
+
+148
+00:05:59,880 --> 00:06:05,280
+right. Thank you for your time. Okay.
+
+149
+00:06:02,400 --> 00:06:06,400
+I'll give you 200 bucks for the pig box.
+
+150
+00:06:05,280 --> 00:06:07,440
+Listen, I figure I'm going to save
+
+151
+00:06:06,400 --> 00:06:08,880
+children by doing that. We're going to
+
+152
+00:06:07,440 --> 00:06:11,240
+put that in my museum of really bad
+
+153
+00:06:08,880 --> 00:06:13,600
+ideas that can kill
+
+154
+00:06:11,240 --> 00:06:16,160
+people. Okay. Hey, 300 bucks to the pig
+
+155
+00:06:13,600 --> 00:06:18,479
+box,
+
+156
+00:06:16,160 --> 00:06:22,520
+Maddie. Thank you. Thank you. Good luck,
+
+157
+00:06:18,479 --> 00:06:22,520
+Matt. Good luck, man. Thank you.
+
+158
+00:06:24,319 --> 00:06:27,759
+I wonder if he has any extra bacon on
+
+159
+00:06:25,919 --> 00:06:30,240
+him. So, basically, Mark, if you would
+
+160
+00:06:27,759 --> 00:06:31,199
+have asked for 170,000, you were in. I
+
+161
+00:06:30,240 --> 00:06:32,240
+would have tried to get you guys
+
+162
+00:06:31,199 --> 00:06:35,000
+involved and I would tried to sell
+
+163
+00:06:32,240 --> 00:06:38,800
+y'all. We would have said no. I'm very
+
+164
+00:06:35,000 --> 00:06:41,120
+persuasive. We slaughtered that one.
+
+165
+00:06:38,800 --> 00:06:43,360
+People love bacon and bacon mania is
+
+166
+00:06:41,120 --> 00:06:45,199
+sweeping the nation. I'm going to find a
+
+167
+00:06:43,360 --> 00:06:49,319
+way to build wake and bacon and get it
+
+168
+00:06:45,199 --> 00:06:49,319
+on every nightstand in America.
+

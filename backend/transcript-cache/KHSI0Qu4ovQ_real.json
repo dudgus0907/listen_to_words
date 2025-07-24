@@ -1,0 +1,2510 @@
+{
+  "success": true,
+  "videoId": "KHSI0Qu4ovQ",
+  "videoTitle": "Silicon Valley's Hottest Young Founder Right Now ｜ Cluely, Roy Lee",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "Hello, my name is Roy. I founded this"
+    },
+    {
+      "start": 2,
+      "text": "company called Cluey and I just got"
+    },
+    {
+      "start": 3,
+      "text": "kicked out of Columbia for uh building"
+    },
+    {
+      "start": 5,
+      "text": "this tool called interview coder. It's"
+    },
+    {
+      "start": 7,
+      "text": "like a cheating tool for software"
+    },
+    {
+      "start": 9,
+      "text": "engineering technical interviews. I use"
+    },
+    {
+      "start": 10,
+      "text": "the technology to build a much bigger"
+    },
+    {
+      "start": 12,
+      "text": "company, the desktop app that lets you"
+    },
+    {
+      "start": 15,
+      "text": "cheat on everything. Right now, we just"
+    },
+    {
+      "start": 17,
+      "text": "launched about a month ago, closing in"
+    },
+    {
+      "start": 19,
+      "text": "on $5 million in annually recurring"
+    },
+    {
+      "start": 21,
+      "text": "revenue. And we also just closed a $5.3"
+    },
+    {
+      "start": 23,
+      "text": "million seed round led by Abstract"
+    },
+    {
+      "start": 26,
+      "text": "Ventures and SUSA Ventures."
+    },
+    {
+      "start": 32,
+      "text": "I I was a pretty I was pretty wild kid."
+    },
+    {
+      "start": 34,
+      "text": "I got in a lot of trouble. I was pretty"
+    },
+    {
+      "start": 36,
+      "text": "smart. I think I was pretty good at"
+    },
+    {
+      "start": 37,
+      "text": "math. I did a bit of math competition"
+    },
+    {
+      "start": 39,
+      "text": "when I was younger. I was on like the"
+    },
+    {
+      "start": 40,
+      "text": "debate team. I played some cello. I love"
+    },
+    {
+      "start": 43,
+      "text": "girls, you know. I every year I had a"
+    },
+    {
+      "start": 44,
+      "text": "new girlfriend. Yeah. My mom made me do"
+    },
+    {
+      "start": 46,
+      "text": "a lot of studying, but I hated studying."
+    },
+    {
+      "start": 48,
+      "text": "I was always trying to go out and like"
+    },
+    {
+      "start": 50,
+      "text": "like like like like have fun, play with"
+    },
+    {
+      "start": 51,
+      "text": "my friends. I've always been very"
+    },
+    {
+      "start": 53,
+      "text": "competitive when I was a kid. I had a I"
+    },
+    {
+      "start": 54,
+      "text": "have an older brother who was 2 years"
+    },
+    {
+      "start": 56,
+      "text": "older than me. I always wanted to be"
+    },
+    {
+      "start": 58,
+      "text": "like smarter than him. I always wanted"
+    },
+    {
+      "start": 59,
+      "text": "to do better in great at school than"
+    },
+    {
+      "start": 60,
+      "text": "him. I I'm always trying to win. I'm"
+    },
+    {
+      "start": 62,
+      "text": "trying to be chongu at everything, you"
+    },
+    {
+      "start": 64,
+      "text": "know, like top of the class. In the"
+    },
+    {
+      "start": 66,
+      "text": "world of software engineering, if you"
+    },
+    {
+      "start": 67,
+      "text": "want to get a job at a big tech company,"
+    },
+    {
+      "start": 69,
+      "text": "you have to answer these sort of"
+    },
+    {
+      "start": 70,
+      "text": "riddlelesque questions that are called"
+    },
+    {
+      "start": 72,
+      "text": "code questions. And pretty much every"
+    },
+    {
+      "start": 74,
+      "text": "developer you know at a big company has"
+    },
+    {
+      "start": 76,
+      "text": "gone through the gauntlet of memorizing"
+    },
+    {
+      "start": 78,
+      "text": "600 300 riddles and just sort of like"
+    },
+    {
+      "start": 80,
+      "text": "memorizing the solutions and"
+    },
+    {
+      "start": 82,
+      "text": "regurgitating them in interviews. I'm"
+    },
+    {
+      "start": 83,
+      "text": "very very competitive. So, the second I"
+    },
+    {
+      "start": 86,
+      "text": "knew that there was like a a ranking on"
+    },
+    {
+      "start": 88,
+      "text": "League Code, like a global ranking, I"
+    },
+    {
+      "start": 89,
+      "text": "knew I had to be like one of the best."
+    },
+    {
+      "start": 91,
+      "text": "So, I uh I spent hundreds of hours"
+    },
+    {
+      "start": 93,
+      "text": "studying Grinding the Riddles, even"
+    },
+    {
+      "start": 94,
+      "text": "though I like I don't care about League"
+    },
+    {
+      "start": 95,
+      "text": "Code. I didn't enjoy it. I didn't really"
+    },
+    {
+      "start": 97,
+      "text": "have a good time, but I was just"
+    },
+    {
+      "start": 98,
+      "text": "competitive. So, I thought like there's"
+    },
+    {
+      "start": 99,
+      "text": "a ranking, then I got to be on the top"
+    },
+    {
+      "start": 101,
+      "text": "of the ranking. But, I mean, it just"
+    },
+    {
+      "start": 102,
+      "text": "ended up with me wasting a bunch of"
+    },
+    {
+      "start": 104,
+      "text": "hours. Le code just has nothing to do"
+    },
+    {
+      "start": 106,
+      "text": "with what you do on the job. It's like"
+    },
+    {
+      "start": 108,
+      "text": "the modern-day equivalent of asking how"
+    },
+    {
+      "start": 110,
+      "text": "many balloons fit in the Empire State"
+    },
+    {
+      "start": 111,
+      "text": "Building. It's supposed to test your"
+    },
+    {
+      "start": 113,
+      "text": "critical thinking, but the questions are"
+    },
+    {
+      "start": 115,
+      "text": "online to the extent that rather than"
+    },
+    {
+      "start": 117,
+      "text": "practicing critical thinking, you just"
+    },
+    {
+      "start": 118,
+      "text": "practice memorizing the riddles. You're"
+    },
+    {
+      "start": 120,
+      "text": "going to sit through and memorize all"
+    },
+    {
+      "start": 121,
+      "text": "the 10,000 questions cuz it means you"
+    },
+    {
+      "start": 123,
+      "text": "get a 200k a year job. This is not good"
+    },
+    {
+      "start": 125,
+      "text": "for anybody. You don't you don't learn"
+    },
+    {
+      "start": 127,
+      "text": "anything from practicing these riddles"
+    },
+    {
+      "start": 128,
+      "text": "and you just end up wasting time when"
+    },
+    {
+      "start": 130,
+      "text": "you should be programming. I thought"
+    },
+    {
+      "start": 131,
+      "text": "this was pretty stupid and this has been"
+    },
+    {
+      "start": 133,
+      "text": "going on for around 20 years. Right now,"
+    },
+    {
+      "start": 134,
+      "text": "the technology was there to sort of"
+    },
+    {
+      "start": 136,
+      "text": "develop this tool that would invisibly"
+    },
+    {
+      "start": 138,
+      "text": "let you use AI to cheat on these"
+    },
+    {
+      "start": 139,
+      "text": "interviews. So, I built the tool. I"
+    },
+    {
+      "start": 141,
+      "text": "publicly recorded myself using it on the"
+    },
+    {
+      "start": 143,
+      "text": "Amazon interview. I got the job and I I"
+    },
+    {
+      "start": 145,
+      "text": "posted this everywhere saying, \"Look how"
+    },
+    {
+      "start": 147,
+      "text": "easy it is to hack these interviews.\""
+    },
+    {
+      "start": 149,
+      "text": "Eventually, this this this got me in"
+    },
+    {
+      "start": 150,
+      "text": "some trouble. But, uh, the impetus of"
+    },
+    {
+      "start": 153,
+      "text": "everything was when I decided that it's"
+    },
+    {
+      "start": 155,
+      "text": "just a stupid industry practice and I"
+    },
+    {
+      "start": 156,
+      "text": "wanted to change"
+    },
+    {
+      "start": 158,
+      "text": "it. A lot of people think it was"
+    },
+    {
+      "start": 160,
+      "text": "explosive from the start, but it it took"
+    },
+    {
+      "start": 162,
+      "text": "about a month before it really started"
+    },
+    {
+      "start": 164,
+      "text": "to take off. And for a month I posted"
+    },
+    {
+      "start": 166,
+      "text": "everything Amazon saw was getting mad at"
+    },
+    {
+      "start": 168,
+      "text": "me and Colombia saw and was getting mad"
+    },
+    {
+      "start": 170,
+      "text": "at me and everyone was just upset and it"
+    },
+    {
+      "start": 172,
+      "text": "didn't really go that viral for about a"
+    },
+    {
+      "start": 173,
+      "text": "month. And during that time I was really"
+    },
+    {
+      "start": 174,
+      "text": "stressed. I just gave up my entire"
+    },
+    {
+      "start": 176,
+      "text": "career and my entire education for the"
+    },
+    {
+      "start": 178,
+      "text": "hope of a company. But it didn't even go"
+    },
+    {
+      "start": 180,
+      "text": "viral. Like I did all this for like"
+    },
+    {
+      "start": 181,
+      "text": "15,000 views. And I was really worried."
+    },
+    {
+      "start": 183,
+      "text": "Everybody in my life including even my"
+    },
+    {
+      "start": 185,
+      "text": "co-founders were telling me like, \"Hey,"
+    },
+    {
+      "start": 186,
+      "text": "we should probably stop. We should"
+    },
+    {
+      "start": 187,
+      "text": "probably shut this down.\" But I don't"
+    },
+    {
+      "start": 189,
+      "text": "know. There was just a voice in my head"
+    },
+    {
+      "start": 190,
+      "text": "that said like this is something this"
+    },
+    {
+      "start": 192,
+      "text": "has potential. Like I have to keep"
+    },
+    {
+      "start": 193,
+      "text": "going. And I did keep going. And then at"
+    },
+    {
+      "start": 194,
+      "text": "at one point it did go viral, like super"
+    },
+    {
+      "start": 197,
+      "text": "viral, and everybody on tech saw it. At"
+    },
+    {
+      "start": 199,
+      "text": "that point, I was safe. Virality"
+    },
+    {
+      "start": 202,
+      "text": "protected me from further punishment"
+    },
+    {
+      "start": 204,
+      "text": "from Colombia. It made the path to"
+    },
+    {
+      "start": 205,
+      "text": "entrepreneurship a lot easier and"
+    },
+    {
+      "start": 207,
+      "text": "clearer. I've sort of like committed my"
+    },
+    {
+      "start": 209,
+      "text": "life to building companies. Once I made"
+    },
+    {
+      "start": 211,
+      "text": "that decision, it was it was very easy"
+    },
+    {
+      "start": 212,
+      "text": "for me to decide to leave Colombia. And"
+    },
+    {
+      "start": 214,
+      "text": "once I did leave Colombia, like I knew"
+    },
+    {
+      "start": 216,
+      "text": "I'm going to do the only thing that I"
+    },
+    {
+      "start": 217,
+      "text": "can do now, which is build companies."
+    },
+    {
+      "start": 219,
+      "text": "Uh, I think it also helps position me"
+    },
+    {
+      "start": 221,
+      "text": "like I I'm a I'm a very unique person"
+    },
+    {
+      "start": 223,
+      "text": "now who got kicked out of an Ivy League"
+    },
+    {
+      "start": 224,
+      "text": "and as a result there there's a lot of"
+    },
+    {
+      "start": 226,
+      "text": "interest from from Silicon Valley about"
+    },
+    {
+      "start": 228,
+      "text": "what I'm going to do next. To me at the"
+    },
+    {
+      "start": 230,
+      "text": "time it felt like things were moving"
+    },
+    {
+      "start": 231,
+      "text": "really slow. As soon as interview coder"
+    },
+    {
+      "start": 233,
+      "text": "went viral I knew that I had to"
+    },
+    {
+      "start": 235,
+      "text": "capitalize on the moment cuz the"
+    },
+    {
+      "start": 236,
+      "text": "attention wasn't going to be there for"
+    },
+    {
+      "start": 238,
+      "text": "long. The product was a product designed"
+    },
+    {
+      "start": 240,
+      "text": "to die. It's a product to cheat on"
+    },
+    {
+      "start": 242,
+      "text": "technical interviews. So the second"
+    },
+    {
+      "start": 243,
+      "text": "companies change technical interviews,"
+    },
+    {
+      "start": 244,
+      "text": "the product dies. meaning I have a few"
+    },
+    {
+      "start": 247,
+      "text": "short moments before uh my my spot in"
+    },
+    {
+      "start": 249,
+      "text": "the limelight dies and I thought I have"
+    },
+    {
+      "start": 251,
+      "text": "to raise around. I have to start a"
+    },
+    {
+      "start": 252,
+      "text": "bigger company that's more sustainable"
+    },
+    {
+      "start": 254,
+      "text": "and defensible longterm. So it for me it"
+    },
+    {
+      "start": 257,
+      "text": "felt like things were moving so slow. I"
+    },
+    {
+      "start": 259,
+      "text": "had to push back my fund raise like 2"
+    },
+    {
+      "start": 260,
+      "text": "weeks. I was going to fund raise 2 weeks"
+    },
+    {
+      "start": 262,
+      "text": "earlier than I did. To me at the time I"
+    },
+    {
+      "start": 264,
+      "text": "felt like I was in such a time crunch"
+    },
+    {
+      "start": 266,
+      "text": "and I and I had I had to uh I had to"
+    },
+    {
+      "start": 268,
+      "text": "wrap things up and and do the next thing"
+    },
+    {
+      "start": 270,
+      "text": "and it felt like things were moving"
+    },
+    {
+      "start": 271,
+      "text": "super slow. But uh I guess I I was under"
+    },
+    {
+      "start": 273,
+      "text": "the pressure of the situation."
+    },
+    {
+      "start": 276,
+      "text": "Yeah, I mean we planned for me to use"
+    },
+    {
+      "start": 278,
+      "text": "interview coder to like cheat on a bunch"
+    },
+    {
+      "start": 280,
+      "text": "of big tech interviews and and get the"
+    },
+    {
+      "start": 281,
+      "text": "jobs and we thought that was going to be"
+    },
+    {
+      "start": 282,
+      "text": "a viral moment. So in that sense we"
+    },
+    {
+      "start": 284,
+      "text": "planned it, but the last 3 months I've"
+    },
+    {
+      "start": 286,
+      "text": "made probably like maybe like a thousand"
+    },
+    {
+      "start": 288,
+      "text": "tweets and since then like I figured out"
+    },
+    {
+      "start": 290,
+      "text": "how to make tweets that will go viral,"
+    },
+    {
+      "start": 291,
+      "text": "how to make tweets that will be more"
+    },
+    {
+      "start": 293,
+      "text": "controversial and and and get more"
+    },
+    {
+      "start": 294,
+      "text": "engagement. I think for X especially,"
+    },
+    {
+      "start": 297,
+      "text": "well I've only really cracked X. Uh I"
+    },
+    {
+      "start": 299,
+      "text": "think because I think people on Twitter"
+    },
+    {
+      "start": 300,
+      "text": "are a very unique type of people. Um,"
+    },
+    {
+      "start": 302,
+      "text": "they love controversy, they love drama,"
+    },
+    {
+      "start": 304,
+      "text": "they love attention, and they love to"
+    },
+    {
+      "start": 306,
+      "text": "either dog on people or watch people get"
+    },
+    {
+      "start": 308,
+      "text": "dogged on. I think every single time you"
+    },
+    {
+      "start": 310,
+      "text": "tweet something, if you don't think half"
+    },
+    {
+      "start": 312,
+      "text": "the people in the world would feel very"
+    },
+    {
+      "start": 314,
+      "text": "negative about this, then it's probably"
+    },
+    {
+      "start": 316,
+      "text": "not going to be viral as a tweet. All of"
+    },
+    {
+      "start": 318,
+      "text": "your tweets that will are you're"
+    },
+    {
+      "start": 319,
+      "text": "planning on making go viral, they need"
+    },
+    {
+      "start": 321,
+      "text": "to have a very strong controversial"
+    },
+    {
+      "start": 323,
+      "text": "twist that makes people pause and be"
+    },
+    {
+      "start": 324,
+      "text": "like, \"What the fuck?\" And this is not"
+    },
+    {
+      "start": 326,
+      "text": "the case for Instagram, Tik Tok, or"
+    },
+    {
+      "start": 328,
+      "text": "LinkedIn or whatever, but it is the case"
+    },
+    {
+      "start": 330,
+      "text": "for Twitter. And yeah, I think I think"
+    },
+    {
+      "start": 331,
+      "text": "Twitter Next, the more controversial"
+    },
+    {
+      "start": 332,
+      "text": "you're willing to make your tweet, the"
+    },
+    {
+      "start": 334,
+      "text": "better and the more viral you will go."
+    },
+    {
+      "start": 336,
+      "text": "Interview coder on Twitter was received"
+    },
+    {
+      "start": 338,
+      "text": "so positively. It was just like this"
+    },
+    {
+      "start": 340,
+      "text": "scrappy young kid who was trying to"
+    },
+    {
+      "start": 342,
+      "text": "fight back against big industry, big"
+    },
+    {
+      "start": 344,
+      "text": "tech. And uh everyone on Twitter was"
+    },
+    {
+      "start": 346,
+      "text": "very supportive. I think as I got bigger"
+    },
+    {
+      "start": 348,
+      "text": "and my account grew, people grew less"
+    },
+    {
+      "start": 350,
+      "text": "supportive, which is like to be"
+    },
+    {
+      "start": 352,
+      "text": "expected. I'm generally very good at"
+    },
+    {
+      "start": 354,
+      "text": "receiving hate and criticism. I' I'm a"
+    },
+    {
+      "start": 356,
+      "text": "very polarizing personality and I do a"
+    },
+    {
+      "start": 358,
+      "text": "lot of crazy stuff. Throughout my life,"
+    },
+    {
+      "start": 359,
+      "text": "I've always had people like giving me"
+    },
+    {
+      "start": 361,
+      "text": "hate. None of the negative comments"
+    },
+    {
+      "start": 362,
+      "text": "really stood out, but I was very"
+    },
+    {
+      "start": 363,
+      "text": "surprised to see how positively"
+    },
+    {
+      "start": 365,
+      "text": "Interview Coder was received on Twitter"
+    },
+    {
+      "start": 366,
+      "text": "when I first launched it. I think people"
+    },
+    {
+      "start": 368,
+      "text": "are often so worried that they're going"
+    },
+    {
+      "start": 369,
+      "text": "to say something bad online and it's"
+    },
+    {
+      "start": 371,
+      "text": "just going to get back to them and their"
+    },
+    {
+      "start": 373,
+      "text": "their their reputation is over. And I"
+    },
+    {
+      "start": 375,
+      "text": "don't know, like it's it's going to bury"
+    },
+    {
+      "start": 376,
+      "text": "them. But I think in reality, all press"
+    },
+    {
+      "start": 378,
+      "text": "is good press. I say a ton of super"
+    },
+    {
+      "start": 381,
+      "text": "controversial stuff. And in every video"
+    },
+    {
+      "start": 383,
+      "text": "I'm in, there's like a bunch of comments"
+    },
+    {
+      "start": 384,
+      "text": "saying, \"Oh, this guy's evil. This guy's"
+    },
+    {
+      "start": 386,
+      "text": "like like this, this, and that.\" And"
+    },
+    {
+      "start": 387,
+      "text": "there's always some hate, but it's like"
+    },
+    {
+      "start": 388,
+      "text": "like this stuff really doesn't matter."
+    },
+    {
+      "start": 390,
+      "text": "Yeah. I mean, like I I've learned that"
+    },
+    {
+      "start": 392,
+      "text": "it really doesn't matter if if if"
+    },
+    {
+      "start": 393,
+      "text": "everybody in the world just doesn't like"
+    },
+    {
+      "start": 395,
+      "text": "you. Well, actually, it's it's done"
+    },
+    {
+      "start": 396,
+      "text": "pretty much the opposite. I've realized"
+    },
+    {
+      "start": 397,
+      "text": "that even if I say extremely crazy"
+    },
+    {
+      "start": 399,
+      "text": "online, it will just make people more"
+    },
+    {
+      "start": 401,
+      "text": "interested in me and the company, and"
+    },
+    {
+      "start": 403,
+      "text": "it'll just drive more downloads and"
+    },
+    {
+      "start": 405,
+      "text": "conversions and get more eyeballs onto"
+    },
+    {
+      "start": 406,
+      "text": "Clue. If anything, I've learned that I"
+    },
+    {
+      "start": 408,
+      "text": "need to become crazier online so that"
+    },
+    {
+      "start": 410,
+      "text": "people will keep funneling attention"
+    },
+    {
+      "start": 413,
+      "text": "towards the core product. I think uh"
+    },
+    {
+      "start": 415,
+      "text": "there's it's very very rare that you"
+    },
+    {
+      "start": 417,
+      "text": "will say something online that"
+    },
+    {
+      "start": 419,
+      "text": "translates to something negative"
+    },
+    {
+      "start": 420,
+      "text": "happening in the real world. Like online"
+    },
+    {
+      "start": 422,
+      "text": "is not real life. I'm a pretty chill"
+    },
+    {
+      "start": 424,
+      "text": "person in real life, but online I'm"
+    },
+    {
+      "start": 426,
+      "text": "crazy because uh it gets it gets me"
+    },
+    {
+      "start": 428,
+      "text": "engagement and attention. When you are"
+    },
+    {
+      "start": 430,
+      "text": "so polarizing and controversial online,"
+    },
+    {
+      "start": 433,
+      "text": "you need to very clearly distinguish"
+    },
+    {
+      "start": 435,
+      "text": "this is my real world life and this is"
+    },
+    {
+      "start": 437,
+      "text": "the online life. And in my real world"
+    },
+    {
+      "start": 440,
+      "text": "life, there are very few people who I I"
+    },
+    {
+      "start": 442,
+      "text": "trust fully and who I think I love and"
+    },
+    {
+      "start": 444,
+      "text": "love me. My parents will always be on my"
+    },
+    {
+      "start": 446,
+      "text": "side no matter what crazy I do"
+    },
+    {
+      "start": 448,
+      "text": "online. And my wife and kids, they will"
+    },
+    {
+      "start": 450,
+      "text": "always be on my side no matter what"
+    },
+    {
+      "start": 451,
+      "text": "crazy I do online. And I think it"
+    },
+    {
+      "start": 453,
+      "text": "is very very important to distinguish"
+    },
+    {
+      "start": 455,
+      "text": "this is my real life uh family and"
+    },
+    {
+      "start": 457,
+      "text": "friends and they love me unconditionally"
+    },
+    {
+      "start": 459,
+      "text": "and I love them and everything online is"
+    },
+    {
+      "start": 461,
+      "text": "just noise. Even if everyone online or"
+    },
+    {
+      "start": 463,
+      "text": "everyone outside this box hates me, it"
+    },
+    {
+      "start": 465,
+      "text": "doesn't matter because uh the most"
+    },
+    {
+      "start": 466,
+      "text": "important people are in this box and"
+    },
+    {
+      "start": 468,
+      "text": "they're people that I love and love me"
+    },
+    {
+      "start": 470,
+      "text": "back. Interview coder is a tool designed"
+    },
+    {
+      "start": 474,
+      "text": "to let you treat on technical"
+    },
+    {
+      "start": 475,
+      "text": "interviews. But what we realized as we"
+    },
+    {
+      "start": 477,
+      "text": "built interview coder is that the idea"
+    },
+    {
+      "start": 480,
+      "text": "of an AI that sees your screen and hears"
+    },
+    {
+      "start": 482,
+      "text": "your audio sort of shows itself as this"
+    },
+    {
+      "start": 484,
+      "text": "translucent screen overlay. This has"
+    },
+    {
+      "start": 486,
+      "text": "never really been attempted before. This"
+    },
+    {
+      "start": 488,
+      "text": "is a completely novel user experience"
+    },
+    {
+      "start": 489,
+      "text": "and it's very shortsighted to think that"
+    },
+    {
+      "start": 491,
+      "text": "this is only good for cheating."
+    },
+    {
+      "start": 492,
+      "text": "Ultimately, what we're building is we're"
+    },
+    {
+      "start": 494,
+      "text": "building for a future where models are"
+    },
+    {
+      "start": 496,
+      "text": "multimodal and the models are not there"
+    },
+    {
+      "start": 498,
+      "text": "yet and they're probably not going to be"
+    },
+    {
+      "start": 499,
+      "text": "there yet for another 3 years. Nobody's"
+    },
+    {
+      "start": 501,
+      "text": "really thought of what happens when chat"
+    },
+    {
+      "start": 503,
+      "text": "bots are no longer relevant. What"
+    },
+    {
+      "start": 505,
+      "text": "happens when you don't want to prompt"
+    },
+    {
+      "start": 506,
+      "text": "GPT anymore and AI just knows what you"
+    },
+    {
+      "start": 508,
+      "text": "want? Then how will you interact with"
+    },
+    {
+      "start": 510,
+      "text": "AI? Nobody's really attempted this"
+    },
+    {
+      "start": 512,
+      "text": "before. And I think um interview coder"
+    },
+    {
+      "start": 514,
+      "text": "was the first proof of concept of a user"
+    },
+    {
+      "start": 516,
+      "text": "experience that could work in this"
+    },
+    {
+      "start": 518,
+      "text": "world. So we realized that and that's"
+    },
+    {
+      "start": 520,
+      "text": "that's that's what we're building"
+    },
+    {
+      "start": 521,
+      "text": "clearly off and clearly is the new way"
+    },
+    {
+      "start": 523,
+      "text": "you will use AI in um in 5 years"
+    },
+    {
+      "start": 526,
+      "text": "hopefully if we do things right then in"
+    },
+    {
+      "start": 527,
+      "text": "2 years. The phrase cheat on everything"
+    },
+    {
+      "start": 530,
+      "text": "is intentionally ambiguous like what is"
+    },
+    {
+      "start": 531,
+      "text": "cheat on like I know what cheat on test"
+    },
+    {
+      "start": 533,
+      "text": "means but I don't know what cheat on"
+    },
+    {
+      "start": 534,
+      "text": "everything means. It's left to be sort"
+    },
+    {
+      "start": 536,
+      "text": "of confusing and make you sit on it and"
+    },
+    {
+      "start": 538,
+      "text": "reflect for a moment. When you see"
+    },
+    {
+      "start": 539,
+      "text": "someone using AI for everything, it"
+    },
+    {
+      "start": 541,
+      "text": "makes you think this is unfair. They're"
+    },
+    {
+      "start": 543,
+      "text": "not supposed to be doing that. They're"
+    },
+    {
+      "start": 544,
+      "text": "cheating. In reality, like if you can"
+    },
+    {
+      "start": 546,
+      "text": "use this for everything, like what does"
+    },
+    {
+      "start": 548,
+      "text": "cheating on a meeting look like? It's"
+    },
+    {
+      "start": 549,
+      "text": "not really a thing. It's just our gut"
+    },
+    {
+      "start": 550,
+      "text": "human reaction to think this is so"
+    },
+    {
+      "start": 552,
+      "text": "different. This is such a big advantage"
+    },
+    {
+      "start": 554,
+      "text": "that it's unfair. And what we hope to do"
+    },
+    {
+      "start": 556,
+      "text": "is we hope to give everyone this"
+    },
+    {
+      "start": 557,
+      "text": "advantage. When every single person is"
+    },
+    {
+      "start": 559,
+      "text": "using AI to cheat on meetings, then it's"
+    },
+    {
+      "start": 561,
+      "text": "not that you're using you're cheating"
+    },
+    {
+      "start": 563,
+      "text": "anymore. You're just this is just how"
+    },
+    {
+      "start": 565,
+      "text": "humans will operate and think in the"
+    },
+    {
+      "start": 566,
+      "text": "future. I think when you can use AI, you"
+    },
+    {
+      "start": 568,
+      "text": "should use AI. If it helps you, then you"
+    },
+    {
+      "start": 571,
+      "text": "should use it. If if using a calculator"
+    },
+    {
+      "start": 573,
+      "text": "will help you, then you should use it."
+    },
+    {
+      "start": 574,
+      "text": "If using spell check will help you, then"
+    },
+    {
+      "start": 575,
+      "text": "you will use it. Eventually, the spell"
+    },
+    {
+      "start": 577,
+      "text": "check will teach you how to spell the"
+    },
+    {
+      "start": 578,
+      "text": "right words cuz you'll get used to it so"
+    },
+    {
+      "start": 580,
+      "text": "much. Or you just won't need to know how"
+    },
+    {
+      "start": 582,
+      "text": "to spell anymore. You'll just need to"
+    },
+    {
+      "start": 583,
+      "text": "know what the word is. If you can use AI"
+    },
+    {
+      "start": 586,
+      "text": "to help, then you should. And if it can"
+    },
+    {
+      "start": 588,
+      "text": "already do the job, then you'll never"
+    },
+    {
+      "start": 589,
+      "text": "need to do the job in the future,"
+    },
+    {
+      "start": 590,
+      "text": "assuming AI is everywhere, which it will"
+    },
+    {
+      "start": 593,
+      "text": "be. All of technical interviews need to"
+    },
+    {
+      "start": 596,
+      "text": "change. Not just in software engineering"
+    },
+    {
+      "start": 597,
+      "text": "but everywhere in the world. If you get"
+    },
+    {
+      "start": 599,
+      "text": "asked a question and AI can answer the"
+    },
+    {
+      "start": 601,
+      "text": "question then you should probably get"
+    },
+    {
+      "start": 603,
+      "text": "that out of your interview. I think"
+    },
+    {
+      "start": 604,
+      "text": "interviews will be a lot more holistic"
+    },
+    {
+      "start": 606,
+      "text": "and I really question whether we even"
+    },
+    {
+      "start": 608,
+      "text": "need job interviews at all in the"
+    },
+    {
+      "start": 610,
+      "text": "future. If there is an AI that knows"
+    },
+    {
+      "start": 611,
+      "text": "everything about you, everything you're"
+    },
+    {
+      "start": 612,
+      "text": "good at. Why do you need a 1-hour"
+    },
+    {
+      "start": 614,
+      "text": "interview to assess anything other than"
+    },
+    {
+      "start": 616,
+      "text": "culture fit? I already know all the work"
+    },
+    {
+      "start": 618,
+      "text": "you've done or at least the AI already"
+    },
+    {
+      "start": 619,
+      "text": "knows the work you've done. It knows how"
+    },
+    {
+      "start": 621,
+      "text": "good it is. It knows what skills you're"
+    },
+    {
+      "start": 622,
+      "text": "good at. Um, and if there is a skill"
+    },
+    {
+      "start": 623,
+      "text": "match, then AI should just be able to"
+    },
+    {
+      "start": 625,
+      "text": "match you directly to the job, assuming"
+    },
+    {
+      "start": 627,
+      "text": "that we get along after like a 30-minute"
+    },
+    {
+      "start": 629,
+      "text": "conversation. I really don't know that"
+    },
+    {
+      "start": 630,
+      "text": "there is a need for interviews in"
+    },
+    {
+      "start": 632,
+      "text": "today's age. But, but right now, what we"
+    },
+    {
+      "start": 634,
+      "text": "use is uh it's really just a"
+    },
+    {
+      "start": 635,
+      "text": "conversation. Uh, we check if you're a"
+    },
+    {
+      "start": 637,
+      "text": "culture fit. We talk about past work"
+    },
+    {
+      "start": 638,
+      "text": "you've done and um that's pretty much"
+    },
+    {
+      "start": 640,
+      "text": "it. The whole point of Clo is to get"
+    },
+    {
+      "start": 642,
+      "text": "everybody used to or used to a life"
+    },
+    {
+      "start": 644,
+      "text": "where they use AI for everything. Once"
+    },
+    {
+      "start": 646,
+      "text": "everybody uses AI in every instance"
+    },
+    {
+      "start": 648,
+      "text": "possible, there's going to be a lot of"
+    },
+    {
+      "start": 649,
+      "text": "jobs that get replaced and there's going"
+    },
+    {
+      "start": 651,
+      "text": "to be a lot of people who are able to do"
+    },
+    {
+      "start": 653,
+      "text": "so much more than they previously were."
+    },
+    {
+      "start": 655,
+      "text": "If every scientist decided one day, like"
+    },
+    {
+      "start": 657,
+      "text": "today, I'm going to start using AI as"
+    },
+    {
+      "start": 659,
+      "text": "much as possible. They will be 100 times"
+    },
+    {
+      "start": 661,
+      "text": "more productive. When scientists are 100"
+    },
+    {
+      "start": 662,
+      "text": "times more productive, we cure cancer 10"
+    },
+    {
+      "start": 664,
+      "text": "years earlier. We cure Alzheimer's 10"
+    },
+    {
+      "start": 666,
+      "text": "years earlier. Everyone lives to 400"
+    },
+    {
+      "start": 667,
+      "text": "years old, and we're on the next flight"
+    },
+    {
+      "start": 669,
+      "text": "to to Mars in like 2 years. the"
+    },
+    {
+      "start": 671,
+      "text": "rate of societal progression will just"
+    },
+    {
+      "start": 673,
+      "text": "expand and exponentiate significantly"
+    },
+    {
+      "start": 676,
+      "text": "once everyone gets gets along to the"
+    },
+    {
+      "start": 678,
+      "text": "fact that um we're all using AI now and"
+    },
+    {
+      "start": 680,
+      "text": "and and that's what clearly hopes to"
+    },
+    {
+      "start": 681,
+      "text": "achieve is to get everybody used to"
+    },
+    {
+      "start": 683,
+      "text": "we're all using AI"
+    },
+    {
+      "start": 687,
+      "text": "now. I think the the user experience I I"
+    },
+    {
+      "start": 691,
+      "text": "spent a lot of time making the user"
+    },
+    {
+      "start": 692,
+      "text": "experience very seamless. It's less of a"
+    },
+    {
+      "start": 694,
+      "text": "technical challenge I think and more of"
+    },
+    {
+      "start": 696,
+      "text": "a taste challenge. uh the the concept of"
+    },
+    {
+      "start": 698,
+      "text": "an a translucent screen overlay,"
+    },
+    {
+      "start": 701,
+      "text": "something that really has never been"
+    },
+    {
+      "start": 702,
+      "text": "attempted before and it's something that"
+    },
+    {
+      "start": 704,
+      "text": "that I tried and I think I only got to"
+    },
+    {
+      "start": 706,
+      "text": "it after like dozens of iterations of"
+    },
+    {
+      "start": 708,
+      "text": "different tools that would be a more"
+    },
+    {
+      "start": 710,
+      "text": "seamless use of AI in your life. Yeah, I"
+    },
+    {
+      "start": 713,
+      "text": "think that was the pro probably the"
+    },
+    {
+      "start": 714,
+      "text": "biggest technical challenge was just"
+    },
+    {
+      "start": 716,
+      "text": "figuring out like what exactly is the"
+    },
+    {
+      "start": 717,
+      "text": "best user experience for someone using"
+    },
+    {
+      "start": 719,
+      "text": "this tool. I mean I mean latency,"
+    },
+    {
+      "start": 721,
+      "text": "response speed and um accuracy are like"
+    },
+    {
+      "start": 723,
+      "text": "the the two biggest things. This is what"
+    },
+    {
+      "start": 725,
+      "text": "every model, every like open AAI is"
+    },
+    {
+      "start": 727,
+      "text": "working to improve latency and and"
+    },
+    {
+      "start": 729,
+      "text": "accuracy. There there's ways that we can"
+    },
+    {
+      "start": 731,
+      "text": "get to a much faster response. For"
+    },
+    {
+      "start": 733,
+      "text": "example, if we host models on our own"
+    },
+    {
+      "start": 735,
+      "text": "servers, uh this eliminates a lot of the"
+    },
+    {
+      "start": 737,
+      "text": "latency that comes from the the load"
+    },
+    {
+      "start": 738,
+      "text": "balancing and request uh request"
+    },
+    {
+      "start": 740,
+      "text": "handling that that is just inherent in"
+    },
+    {
+      "start": 742,
+      "text": "OpenAI servers. That's probably what we"
+    },
+    {
+      "start": 744,
+      "text": "will end up doing. There's ways that we"
+    },
+    {
+      "start": 746,
+      "text": "can cache the input and um sort of like"
+    },
+    {
+      "start": 748,
+      "text": "uh parameterize the input so that um"
+    },
+    {
+      "start": 750,
+      "text": "they you get the same condensed same"
+    },
+    {
+      "start": 753,
+      "text": "same information but just condensed in a"
+    },
+    {
+      "start": 755,
+      "text": "smaller way and the smaller the input"
+    },
+    {
+      "start": 757,
+      "text": "size the faster the time to first token."
+    },
+    {
+      "start": 759,
+      "text": "Also generally accuracy can be improved"
+    },
+    {
+      "start": 761,
+      "text": "by specific system prompts. We're"
+    },
+    {
+      "start": 763,
+      "text": "developing custom evals in house uh"
+    },
+    {
+      "start": 766,
+      "text": "based on a lot of the analytics and"
+    },
+    {
+      "start": 767,
+      "text": "usage that we're seeing and like"
+    },
+    {
+      "start": 769,
+      "text": "everything is getting better like every"
+    },
+    {
+      "start": 770,
+      "text": "single day the model of the clue gets"
+    },
+    {
+      "start": 772,
+      "text": "more accurate and faster. At a certain"
+    },
+    {
+      "start": 774,
+      "text": "point, we're going to know uh exactly"
+    },
+    {
+      "start": 776,
+      "text": "what type of responses you prefer as an"
+    },
+    {
+      "start": 778,
+      "text": "individual. Um what sort of"
+    },
+    {
+      "start": 780,
+      "text": "conversations that you're in and we can"
+    },
+    {
+      "start": 782,
+      "text": "use all that data to generate a very"
+    },
+    {
+      "start": 785,
+      "text": "very hyperspecific personalized"
+    },
+    {
+      "start": 787,
+      "text": "fine-tuned model for you that knows that"
+    },
+    {
+      "start": 789,
+      "text": "hey I'm a media reporter. I conduct"
+    },
+    {
+      "start": 791,
+      "text": "these sorts of interviews and I"
+    },
+    {
+      "start": 792,
+      "text": "generally want these types of responses."
+    },
+    {
+      "start": 794,
+      "text": "The tonality of my emails is this. So I"
+    },
+    {
+      "start": 796,
+      "text": "would like you to respond in this way."
+    },
+    {
+      "start": 797,
+      "text": "And we can just get the most"
+    },
+    {
+      "start": 798,
+      "text": "personalized model in the world. And um"
+    },
+    {
+      "start": 800,
+      "text": "once we have that data as like a a moat"
+    },
+    {
+      "start": 803,
+      "text": "defending us from the other big tech"
+    },
+    {
+      "start": 804,
+      "text": "companies, then we'll pretty much be"
+    },
+    {
+      "start": 805,
+      "text": "unstoppable. More so than the data, I"
+    },
+    {
+      "start": 808,
+      "text": "think the the user experience is just"
+    },
+    {
+      "start": 810,
+      "text": "interesting, untapped, and novel. Uh if"
+    },
+    {
+      "start": 812,
+      "text": "we're correct about this, then we'll be"
+    },
+    {
+      "start": 813,
+      "text": "the first to market. And there's a huge"
+    },
+    {
+      "start": 815,
+      "text": "first mover advantage when you're when"
+    },
+    {
+      "start": 817,
+      "text": "you're trying a new form of UX. And as"
+    },
+    {
+      "start": 820,
+      "text": "if we can capture the market quickly"
+    },
+    {
+      "start": 821,
+      "text": "enough by going viral enough"
+    },
+    {
+      "start": 823,
+      "text": "sufficiently, then uh I think there will"
+    },
+    {
+      "start": 825,
+      "text": "be it will be very hard to compete with"
+    },
+    {
+      "start": 827,
+      "text": "us."
+    },
+    {
+      "start": 829,
+      "text": "the entire way we're going to think will"
+    },
+    {
+      "start": 832,
+      "text": "be changed. Every single one of my"
+    },
+    {
+      "start": 833,
+      "text": "thoughts is formulated by the"
+    },
+    {
+      "start": 835,
+      "text": "information I have uh at this moment."
+    },
+    {
+      "start": 837,
+      "text": "But what happens when that information I"
+    },
+    {
+      "start": 839,
+      "text": "have isn't just what's in my brain, but"
+    },
+    {
+      "start": 840,
+      "text": "it's everything that humanity has ever"
+    },
+    {
+      "start": 842,
+      "text": "collected and put online ever. What"
+    },
+    {
+      "start": 844,
+      "text": "happens when AI literally helps me think"
+    },
+    {
+      "start": 846,
+      "text": "in real time? The entire way that humans"
+    },
+    {
+      "start": 848,
+      "text": "will interact with each other, with the"
+    },
+    {
+      "start": 850,
+      "text": "world, all of our thoughts will be"
+    },
+    {
+      "start": 851,
+      "text": "changed. like like what what happens"
+    },
+    {
+      "start": 852,
+      "text": "when I know about every single post"
+    },
+    {
+      "start": 853,
+      "text": "you've made online ever and I I I use"
+    },
+    {
+      "start": 856,
+      "text": "that to distill down into like a like a"
+    },
+    {
+      "start": 858,
+      "text": "condensed blurb of everything about you"
+    },
+    {
+      "start": 861,
+      "text": "ever what does our interaction look like"
+    },
+    {
+      "start": 863,
+      "text": "then it's it's really hard to say but I"
+    },
+    {
+      "start": 865,
+      "text": "think this is a turning point for"
+    },
+    {
+      "start": 867,
+      "text": "humanity and it it will fundamentally"
+    },
+    {
+      "start": 868,
+      "text": "change the way that we think and the way"
+    },
+    {
+      "start": 870,
+      "text": "that we behave as humans well if you're"
+    },
+    {
+      "start": 872,
+      "text": "not building a company in AI right now"
+    },
+    {
+      "start": 873,
+      "text": "then you're probably not doing the right"
+    },
+    {
+      "start": 874,
+      "text": "thing just enables you to build such"
+    },
+    {
+      "start": 878,
+      "text": "cool stuff and it's such a new"
+    },
+    {
+      "start": 880,
+      "text": "technology that even If you're 19 and"
+    },
+    {
+      "start": 882,
+      "text": "you've been playing with it for 2"
+    },
+    {
+      "start": 883,
+      "text": "months, you are one of the the brightest"
+    },
+    {
+      "start": 885,
+      "text": "minds. You are one of the pioneers of"
+    },
+    {
+      "start": 887,
+      "text": "the field. It's not like biology where"
+    },
+    {
+      "start": 889,
+      "text": "if you haven't studied for 10, 20 years,"
+    },
+    {
+      "start": 890,
+      "text": "then you don't then you're not an expert"
+    },
+    {
+      "start": 892,
+      "text": "in biology. You can study AI for 2"
+    },
+    {
+      "start": 894,
+      "text": "months and you'll be an expert in AI."
+    },
+    {
+      "start": 895,
+      "text": "This technology is so gigantic and it's"
+    },
+    {
+      "start": 898,
+      "text": "so new that you can be really really"
+    },
+    {
+      "start": 900,
+      "text": "young and you can you can know it more"
+    },
+    {
+      "start": 901,
+      "text": "deeply than anyone else and you you'll"
+    },
+    {
+      "start": 903,
+      "text": "have the opportunity to build like a"
+    },
+    {
+      "start": 905,
+      "text": "billion10 billion company out of it. I"
+    },
+    {
+      "start": 907,
+      "text": "would say take bigger risks. This is the"
+    },
+    {
+      "start": 909,
+      "text": "only advice I have for anyone really."
+    },
+    {
+      "start": 911,
+      "text": "You are smart enough, you're capable"
+    },
+    {
+      "start": 912,
+      "text": "enough, you're hardworking enough, just"
+    },
+    {
+      "start": 914,
+      "text": "take bigger risks. If you take bigger"
+    },
+    {
+      "start": 916,
+      "text": "risks and force yourself into positions"
+    },
+    {
+      "start": 917,
+      "text": "where you have to make it, you'll find"
+    },
+    {
+      "start": 919,
+      "text": "that you're a lot more hardworking than"
+    },
+    {
+      "start": 920,
+      "text": "you thought you were. And you'll also"
+    },
+    {
+      "start": 922,
+      "text": "find that life gets a lot more"
+    },
+    {
+      "start": 923,
+      "text": "interesting and very often the downside"
+    },
+    {
+      "start": 925,
+      "text": "of risk is much smaller than you think"
+    },
+    {
+      "start": 927,
+      "text": "and the upside of risk is much bigger"
+    },
+    {
+      "start": 928,
+      "text": "than you think. I wasn't really like"
+    },
+    {
+      "start": 930,
+      "text": "this 5 months ago. I mean, literally"
+    },
+    {
+      "start": 932,
+      "text": "like like half a year ago, I was"
+    },
+    {
+      "start": 934,
+      "text": "thinking I just want to get a job at a"
+    },
+    {
+      "start": 935,
+      "text": "big tech company. That's all I want to"
+    },
+    {
+      "start": 937,
+      "text": "do. And it wasn't until very recently"
+    },
+    {
+      "start": 939,
+      "text": "that I thought like, oh, I actually want"
+    },
+    {
+      "start": 940,
+      "text": "to build companies and go all in on"
+    },
+    {
+      "start": 942,
+      "text": "this. Taking risks initially, it means"
+    },
+    {
+      "start": 944,
+      "text": "being willing to uh get rid of the"
+    },
+    {
+      "start": 947,
+      "text": "constructs and limiting beliefs in your"
+    },
+    {
+      "start": 949,
+      "text": "mind that make you think, hey, when I"
+    },
+    {
+      "start": 950,
+      "text": "graduate, I have to be an engineer,"
+    },
+    {
+      "start": 951,
+      "text": "lawyer, a doctor, or whatever. Just"
+    },
+    {
+      "start": 953,
+      "text": "being willing to see what would happen"
+    },
+    {
+      "start": 954,
+      "text": "if you didn't do it. Every risk starts"
+    },
+    {
+      "start": 957,
+      "text": "very small. Right now, I think people"
+    },
+    {
+      "start": 958,
+      "text": "look at me and think I'm a crazy risk"
+    },
+    {
+      "start": 960,
+      "text": "taker. But it didn't start like this."
+    },
+    {
+      "start": 961,
+      "text": "Started with me taking smaller risks."
+    },
+    {
+      "start": 962,
+      "text": "Like the first risk I took was, hey,"
+    },
+    {
+      "start": 964,
+      "text": "what if I what if I built this tool and"
+    },
+    {
+      "start": 965,
+      "text": "told nobody about it? Then the next risk"
+    },
+    {
+      "start": 967,
+      "text": "I took was what if I posted online but"
+    },
+    {
+      "start": 968,
+      "text": "made it free and didn't really associate"
+    },
+    {
+      "start": 970,
+      "text": "with it so that people more people would"
+    },
+    {
+      "start": 971,
+      "text": "see it. And eventually the risk just"
+    },
+    {
+      "start": 973,
+      "text": "snowballed and snowballed until now I'm"
+    },
+    {
+      "start": 974,
+      "text": "like fully posting whatever confidential"
+    },
+    {
+      "start": 977,
+      "text": "document Columbia gives me because like"
+    },
+    {
+      "start": 978,
+      "text": "I don't care like the risk is not it's"
+    },
+    {
+      "start": 980,
+      "text": "not that much of a risk anymore and I've"
+    },
+    {
+      "start": 981,
+      "text": "grown used to it. So grow used to taking"
+    },
+    {
+      "start": 983,
+      "text": "bigger"
+    },
+    {
+      "start": 986,
+      "text": "risks. I feel like my life is very easy."
+    },
+    {
+      "start": 990,
+      "text": "My life has been very easy. I mean my"
+    },
+    {
+      "start": 993,
+      "text": "mom I've got loving parents. my mom, she"
+    },
+    {
+      "start": 995,
+      "text": "made me study. Uh even when I didn't"
+    },
+    {
+      "start": 997,
+      "text": "want to, she would just say, \"Well, you"
+    },
+    {
+      "start": 998,
+      "text": "should go study.\" So, I studied and and"
+    },
+    {
+      "start": 1000,
+      "text": "as a result, I did well in school and I"
+    },
+    {
+      "start": 1001,
+      "text": "hung out with smart kids and uh they"
+    },
+    {
+      "start": 1003,
+      "text": "they helped me do better in life. Like,"
+    },
+    {
+      "start": 1004,
+      "text": "I have two amazing great parents and I"
+    },
+    {
+      "start": 1006,
+      "text": "come from a great family. I don't really"
+    },
+    {
+      "start": 1008,
+      "text": "feel like my life has been all that"
+    },
+    {
+      "start": 1010,
+      "text": "challenging. Getting kicked out of"
+    },
+    {
+      "start": 1011,
+      "text": "Colombia, it's not that challenging when"
+    },
+    {
+      "start": 1013,
+      "text": "you're out there building companies and"
+    },
+    {
+      "start": 1014,
+      "text": "I was going to drop out anyways. Getting"
+    },
+    {
+      "start": 1016,
+      "text": "rescended from Harvard is also not that"
+    },
+    {
+      "start": 1018,
+      "text": "challenging when you have a loving"
+    },
+    {
+      "start": 1019,
+      "text": "family at home. There's kids like out"
+    },
+    {
+      "start": 1021,
+      "text": "there who are starving in like Uganda"
+    },
+    {
+      "start": 1023,
+      "text": "and like my life is not that hard"
+    },
+    {
+      "start": 1024,
+      "text": "really. A lot of everything that you"
+    },
+    {
+      "start": 1026,
+      "text": "should think is you should just try and"
+    },
+    {
+      "start": 1028,
+      "text": "think more positively about life and be"
+    },
+    {
+      "start": 1030,
+      "text": "more optimistic about things. It's very"
+    },
+    {
+      "start": 1032,
+      "text": "rare that you're going to be in America."
+    },
+    {
+      "start": 1034,
+      "text": "You're going to have the opportunity to"
+    },
+    {
+      "start": 1035,
+      "text": "go to college and you're really in like"
+    },
+    {
+      "start": 1037,
+      "text": "an actually challenging situation. In"
+    },
+    {
+      "start": 1039,
+      "text": "reality, we're in the most interesting"
+    },
+    {
+      "start": 1041,
+      "text": "time in history. If you live in America"
+    },
+    {
+      "start": 1042,
+      "text": "and you're not like in poverty and your"
+    },
+    {
+      "start": 1044,
+      "text": "parents aren't crackheads, you have the"
+    },
+    {
+      "start": 1046,
+      "text": "the opportunity to make billions of"
+    },
+    {
+      "start": 1048,
+      "text": "dollars and and make generational wealth"
+    },
+    {
+      "start": 1050,
+      "text": "and do the most interesting thing ever."
+    },
+    {
+      "start": 1051,
+      "text": "There's very few challenging situations"
+    },
+    {
+      "start": 1053,
+      "text": "that are so challenging that you're just"
+    },
+    {
+      "start": 1055,
+      "text": "like limited. Right now, anybody can do"
+    },
+    {
+      "start": 1057,
+      "text": "anything and you should just try and"
+    },
+    {
+      "start": 1059,
+      "text": "take risks and be bold because uh you're"
+    },
+    {
+      "start": 1062,
+      "text": "very privileged right now to be living"
+    },
+    {
+      "start": 1063,
+      "text": "in this"
+    },
+    {
+      "start": 1065,
+      "text": "world. Success is having a wife, having"
+    },
+    {
+      "start": 1068,
+      "text": "12 kids, and having people remember me."
+    },
+    {
+      "start": 1071,
+      "text": "I think Steve Jobs and Elon Musk are"
+    },
+    {
+      "start": 1074,
+      "text": "very cool in that everyone has a strong"
+    },
+    {
+      "start": 1076,
+      "text": "opinion about them. Whether it's good or"
+    },
+    {
+      "start": 1078,
+      "text": "bad, everyone has something to say about"
+    },
+    {
+      "start": 1080,
+      "text": "Elon Musk and I think that's really"
+    },
+    {
+      "start": 1082,
+      "text": "cool. We're all going to die eventually"
+    },
+    {
+      "start": 1084,
+      "text": "and nobody's going to remember us in a"
+    },
+    {
+      "start": 1085,
+      "text": "thousand years. I might as well be"
+    },
+    {
+      "start": 1087,
+      "text": "remembered as strongly as possible for"
+    },
+    {
+      "start": 1089,
+      "text": "for the time that I'm here. I think the"
+    },
+    {
+      "start": 1091,
+      "text": "biggest thing is confidence. Like truly,"
+    },
+    {
+      "start": 1093,
+      "text": "you hear all the time that um the people"
+    },
+    {
+      "start": 1095,
+      "text": "that build big companies are not"
+    },
+    {
+      "start": 1096,
+      "text": "geniuses. They're not smarter than you."
+    },
+    {
+      "start": 1098,
+      "text": "They're just um they take more risks"
+    },
+    {
+      "start": 1100,
+      "text": "than you and they're hard work harder"
+    },
+    {
+      "start": 1102,
+      "text": "workers than you. And I think this is"
+    },
+    {
+      "start": 1104,
+      "text": "generally true. 5 months ago, I was just"
+    },
+    {
+      "start": 1105,
+      "text": "some random student at some random"
+    },
+    {
+      "start": 1107,
+      "text": "school and I didn't really have anything"
+    },
+    {
+      "start": 1108,
+      "text": "going for me. And now I just raised $5"
+    },
+    {
+      "start": 1111,
+      "text": "million and I'm in this giant office and"
+    },
+    {
+      "start": 1113,
+      "text": "I'm building a company that I hope will"
+    },
+    {
+      "start": 1114,
+      "text": "change the world one day. And very"
+    },
+    {
+      "start": 1116,
+      "text": "little has changed about me except the"
+    },
+    {
+      "start": 1118,
+      "text": "fact that I took a risk. Even moving"
+    },
+    {
+      "start": 1119,
+      "text": "forward, if I do end up becoming like"
+    },
+    {
+      "start": 1121,
+      "text": "the next trillionaire, like as as as big"
+    },
+    {
+      "start": 1123,
+      "text": "as Mark Zuckerberg, there will be"
+    },
+    {
+      "start": 1124,
+      "text": "nothing about me that changed. It'll"
+    },
+    {
+      "start": 1126,
+      "text": "just be a series of well-calulated risks"
+    },
+    {
+      "start": 1128,
+      "text": "that I took that will lead me there. And"
+    },
+    {
+      "start": 1130,
+      "text": "I think the gap between Mark Zuckerberg"
+    },
+    {
+      "start": 1132,
+      "text": "and your average human, it's it's really"
+    },
+    {
+      "start": 1133,
+      "text": "not that big. And if you just have the"
+    },
+    {
+      "start": 1135,
+      "text": "confidence to take bigger risks, then"
+    },
+    {
+      "start": 1137,
+      "text": "very often you will win."
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 625,
+  "timestamp": "2025-07-24T08:16:52.956Z"
+}

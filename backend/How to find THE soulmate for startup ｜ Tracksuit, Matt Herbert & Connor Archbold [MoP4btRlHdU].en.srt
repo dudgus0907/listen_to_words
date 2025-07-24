@@ -1,0 +1,2376 @@
+1
+00:00:00,040 --> 00:00:03,080
+can you share the story of hanging out
+
+2
+00:00:01,240 --> 00:00:04,960
+with Sam Alman I was launching Al's
+
+3
+00:00:03,080 --> 00:00:06,640
+first accelerator program Sam Alman was
+
+4
+00:00:04,960 --> 00:00:08,920
+like visiting New Zealand I just like
+
+5
+00:00:06,640 --> 00:00:10,840
+bothered him in his Twitter DM you like
+
+6
+00:00:08,920 --> 00:00:12,040
+surfing no answer eventually I got him
+
+7
+00:00:10,840 --> 00:00:13,440
+like oh that'd be great when I said
+
+8
+00:00:12,040 --> 00:00:15,040
+something like oh I can maybe get an
+
+9
+00:00:13,440 --> 00:00:17,240
+investor to provide like a big boat and
+
+10
+00:00:15,040 --> 00:00:18,760
+we could do a tour of a harbor and so
+
+11
+00:00:17,240 --> 00:00:20,000
+first of all I didn't have a boat but he
+
+12
+00:00:18,760 --> 00:00:21,359
+said oh that'd be great I'd love to meet
+
+13
+00:00:20,000 --> 00:00:23,439
+some New Zealand startup went and found
+
+14
+00:00:21,359 --> 00:00:25,320
+a boat from some investor in New Zealand
+
+15
+00:00:23,439 --> 00:00:27,560
+but the investor was like fishing guy he
+
+16
+00:00:25,320 --> 00:00:29,439
+wanted to go fishing Sam was vegan at
+
+17
+00:00:27,560 --> 00:00:30,920
+the time I got this boat but the only
+
+18
+00:00:29,439 --> 00:00:32,840
+way we could use it as if the guy could
+
+19
+00:00:30,920 --> 00:00:34,800
+take us fishing it's just like oh I'm
+
+20
+00:00:32,840 --> 00:00:36,480
+sorry we're hauling up all these poor
+
+21
+00:00:34,800 --> 00:00:37,719
+fish and you're sitting there just like
+
+22
+00:00:36,480 --> 00:00:39,719
+chilling in the inside of the boat
+
+23
+00:00:37,719 --> 00:00:41,520
+talking to a few startup he was Running
+
+24
+00:00:39,719 --> 00:00:44,640
+Y combinator I was trying to launch New
+
+25
+00:00:41,520 --> 00:00:44,640
+Zealand's first accelerator
+
+26
+00:00:47,160 --> 00:00:51,320
+program maybe to start could you please
+
+27
+00:00:49,600 --> 00:00:53,800
+introduce yourselves yeah I'm Matthew
+
+28
+00:00:51,320 --> 00:00:55,960
+Herbert co-founder and co-coo of trackit
+
+29
+00:00:53,800 --> 00:00:58,280
+and I'm Connor arold co-founder and
+
+30
+00:00:55,960 --> 00:01:01,199
+co-ceo of tracksuit tell us a little bit
+
+31
+00:00:58,280 --> 00:01:02,840
+about tracksuit what this it do what
+
+32
+00:01:01,199 --> 00:01:04,360
+problem is it solving tracksuit as a
+
+33
+00:01:02,840 --> 00:01:06,000
+brand tracking platform the best way to
+
+34
+00:01:04,360 --> 00:01:07,159
+measure top of funnel marketing the
+
+35
+00:01:06,000 --> 00:01:08,439
+problem that we're solving in in
+
+36
+00:01:07,159 --> 00:01:10,439
+marketing and brand building is there's
+
+37
+00:01:08,439 --> 00:01:13,119
+two jobs to be done the 95 and the and
+
+38
+00:01:10,439 --> 00:01:14,840
+the 5% the two jobs the 5% in any
+
+39
+00:01:13,119 --> 00:01:17,280
+category there are about 5% of people
+
+40
+00:01:14,840 --> 00:01:19,439
+who are ready to buy from you right now
+
+41
+00:01:17,280 --> 00:01:21,200
+and that's one job go and get those
+
+42
+00:01:19,439 --> 00:01:23,079
+people to buy from your your product and
+
+43
+00:01:21,200 --> 00:01:25,320
+your Brands but at the same time there's
+
+44
+00:01:23,079 --> 00:01:27,240
+95% of people who will come into the
+
+45
+00:01:25,320 --> 00:01:29,000
+category aren't ready to buy from you
+
+46
+00:01:27,240 --> 00:01:31,079
+right now but what are you doing to
+
+47
+00:01:29,000 --> 00:01:32,759
+build your famili familiarity and and
+
+48
+00:01:31,079 --> 00:01:34,360
+emotional closeness and and make people
+
+49
+00:01:32,759 --> 00:01:35,520
+fall in love with your with your company
+
+50
+00:01:34,360 --> 00:01:36,680
+and your brand so that when they are
+
+51
+00:01:35,520 --> 00:01:38,520
+ready to buy they're going to come and
+
+52
+00:01:36,680 --> 00:01:40,560
+buy from your business over the last you
+
+53
+00:01:38,520 --> 00:01:42,720
+know 15 years or so the world of
+
+54
+00:01:40,560 --> 00:01:45,159
+marketing has been so focused and
+
+55
+00:01:42,720 --> 00:01:46,759
+successful at measuring 5% of people or
+
+56
+00:01:45,159 --> 00:01:49,040
+the bottom of the funnel the sales the
+
+57
+00:01:46,759 --> 00:01:50,479
+conversions at the expense of the 95 and
+
+58
+00:01:49,040 --> 00:01:52,520
+so what we're doing at tracksuit is
+
+59
+00:01:50,479 --> 00:01:54,399
+building the best way to measure how
+
+60
+00:01:52,520 --> 00:01:56,280
+well you're building your brands with
+
+61
+00:01:54,399 --> 00:01:57,719
+the 95% of people that will come into
+
+62
+00:01:56,280 --> 00:02:00,119
+the category and they're going to choose
+
+63
+00:01:57,719 --> 00:02:02,079
+your brand essentially tracksuit we do
+
+64
+00:02:00,119 --> 00:02:04,479
+surveys of humans to find out what they
+
+65
+00:02:02,079 --> 00:02:06,799
+think and feel about Brands that's novel
+
+66
+00:02:04,479 --> 00:02:08,280
+because any company in the world hasn't
+
+67
+00:02:06,799 --> 00:02:10,039
+been able to afford this it's only being
+
+68
+00:02:08,280 --> 00:02:12,720
+available for Enterprise companies who
+
+69
+00:02:10,039 --> 00:02:15,360
+have $200,000 to pay for market research
+
+70
+00:02:12,720 --> 00:02:17,599
+reports that end up sitting on a desk
+
+71
+00:02:15,360 --> 00:02:19,480
+Gathering dust and we've created a
+
+72
+00:02:17,599 --> 00:02:21,800
+beautiful dashboard with you know we're
+
+73
+00:02:19,480 --> 00:02:24,680
+collecting surveys every single day for
+
+74
+00:02:21,800 --> 00:02:26,280
+7,000 Brands now globally we help those
+
+75
+00:02:24,680 --> 00:02:28,680
+marketers understand what people think
+
+76
+00:02:26,280 --> 00:02:30,959
+and feel about those Brands and how did
+
+77
+00:02:28,680 --> 00:02:32,599
+you two meet we we met at a previous
+
+78
+00:02:30,959 --> 00:02:34,360
+startup we started on the same day when
+
+79
+00:02:32,599 --> 00:02:36,360
+we were much younger mat was like the
+
+80
+00:02:34,360 --> 00:02:39,040
+first SDR ended up looking after all of
+
+81
+00:02:36,360 --> 00:02:41,159
+APAC I started as like sweep the FL
+
+82
+00:02:39,040 --> 00:02:43,640
+floors generalist guy ended up as coo
+
+83
+00:02:41,159 --> 00:02:45,640
+based out of New York yeah tracksuit we
+
+84
+00:02:43,640 --> 00:02:48,280
+we both moved back to New Zealand many
+
+85
+00:02:45,640 --> 00:02:50,560
+years later and tracksuit was sort of
+
+86
+00:02:48,280 --> 00:02:52,040
+started off the back of a weekly coffee
+
+87
+00:02:50,560 --> 00:02:54,560
+when we were figuring out what was next
+
+88
+00:02:52,040 --> 00:02:56,840
+for both of us this goes back eight
+
+89
+00:02:54,560 --> 00:02:58,599
+years colleagues friends and now and now
+
+90
+00:02:56,840 --> 00:02:59,920
+co-founders having another go with you
+
+91
+00:02:58,599 --> 00:03:01,680
+know with trackit bring on the all the
+
+92
+00:02:59,920 --> 00:03:03,000
+learnings from our from our experience
+
+93
+00:03:01,680 --> 00:03:04,920
+to you know build a company that we
+
+94
+00:03:03,000 --> 00:03:07,640
+really wanted to do and so yeah 8year
+
+95
+00:03:04,920 --> 00:03:09,599
+journey and few more to come one thing I
+
+96
+00:03:07,640 --> 00:03:12,519
+wanted to ask is uh how would you
+
+97
+00:03:09,599 --> 00:03:15,200
+describe each other and you can describe
+
+98
+00:03:12,519 --> 00:03:16,879
+each other as friends but also as
+
+99
+00:03:15,200 --> 00:03:18,599
+co-founders colleagues however you want
+
+100
+00:03:16,879 --> 00:03:20,840
+to go about this but yeah how would you
+
+101
+00:03:18,599 --> 00:03:22,760
+describe each other who's going first
+
+102
+00:03:20,840 --> 00:03:24,280
+all right I'll start I'll start all
+
+103
+00:03:22,760 --> 00:03:26,879
+right so con and I I've known each other
+
+104
+00:03:24,280 --> 00:03:29,480
+for eight years now colleagues friends
+
+105
+00:03:26,879 --> 00:03:32,239
+business partners Founders and so the
+
+106
+00:03:29,480 --> 00:03:33,840
+way describe Connor as a person as a
+
+107
+00:03:32,239 --> 00:03:36,720
+leader is just a little bit like a big
+
+108
+00:03:33,840 --> 00:03:39,480
+grizzly bear and what I mean by a big
+
+109
+00:03:36,720 --> 00:03:40,959
+grizzly bear okay is that he's the first
+
+110
+00:03:39,480 --> 00:03:43,000
+one to come over and give everybody a
+
+111
+00:03:40,959 --> 00:03:44,360
+big hug but every now and then he can
+
+112
+00:03:43,000 --> 00:03:46,599
+show a little bit of teeth and a little
+
+113
+00:03:44,360 --> 00:03:49,000
+bit of raw okay and he's the best at
+
+114
+00:03:46,599 --> 00:03:51,439
+just at at honestly at drive at driving
+
+115
+00:03:49,000 --> 00:03:53,319
+at driving forward and that's a a big
+
+116
+00:03:51,439 --> 00:03:55,280
+part that when we came together I mean
+
+117
+00:03:53,319 --> 00:03:56,439
+compliment child I know exactly what
+
+118
+00:03:55,280 --> 00:03:57,680
+Connor's going to say so that's why I
+
+119
+00:03:56,439 --> 00:04:00,560
+wanted to get in first he's like a big
+
+120
+00:03:57,680 --> 00:04:03,280
+grizzly bear he looks tough and scary
+
+121
+00:04:00,560 --> 00:04:04,400
+a big S but when he needs to drive he he
+
+122
+00:04:03,280 --> 00:04:06,760
+can drive really well all right there's
+
+123
+00:04:04,400 --> 00:04:08,439
+a reason the beard is just growing it
+
+124
+00:04:06,760 --> 00:04:11,720
+out more and
+
+125
+00:04:08,439 --> 00:04:13,680
+more all right yeah Matt I'll go I'll go
+
+126
+00:04:11,720 --> 00:04:16,880
+with spirit animal as well I guess so
+
+127
+00:04:13,680 --> 00:04:19,959
+Matt um I think like he's the perfect
+
+128
+00:04:16,880 --> 00:04:24,840
+cross of like a border collie and like
+
+129
+00:04:19,959 --> 00:04:28,240
+Golden Retriever and that he's the he's
+
+130
+00:04:24,840 --> 00:04:31,440
+the stick with me here
+
+131
+00:04:28,240 --> 00:04:33,880
+he's he will make your day every day in
+
+132
+00:04:31,440 --> 00:04:36,120
+the office like you are stoked to run
+
+133
+00:04:33,880 --> 00:04:38,680
+into Matt in the hallway Matt is stoked
+
+134
+00:04:36,120 --> 00:04:40,960
+to run into you in the hallway everyone
+
+135
+00:04:38,680 --> 00:04:43,759
+appreciates Matt's energy and what he
+
+136
+00:04:40,960 --> 00:04:45,199
+brings but he also is like in every
+
+137
+00:04:43,759 --> 00:04:46,880
+meeting he's like okay what what are the
+
+138
+00:04:45,199 --> 00:04:48,800
+next steps like what are we doing he's
+
+139
+00:04:46,880 --> 00:04:50,800
+keeping us on task he's keeping us
+
+140
+00:04:48,800 --> 00:04:52,680
+focused and it's a really yeah it's a
+
+141
+00:04:50,800 --> 00:04:55,320
+nice combination and we work really well
+
+142
+00:04:52,680 --> 00:04:56,759
+together he also just like make sure the
+
+143
+00:04:55,320 --> 00:04:58,080
+team are focused if he sees a ball
+
+144
+00:04:56,759 --> 00:05:00,199
+bouncing somewhere he runs really
+
+145
+00:04:58,080 --> 00:05:02,520
+quickly no just
+
+146
+00:05:00,199 --> 00:05:05,240
+um but yeah it's it's a really nice
+
+147
+00:05:02,520 --> 00:05:08,120
+combo he's just super kind and always
+
+148
+00:05:05,240 --> 00:05:10,080
+has a smile but keeps you on task keeps
+
+149
+00:05:08,120 --> 00:05:11,840
+you focused and keeps you moving you
+
+150
+00:05:10,080 --> 00:05:13,720
+know I think one thing I think was is
+
+151
+00:05:11,840 --> 00:05:15,479
+worth touching on here and why this is
+
+152
+00:05:13,720 --> 00:05:17,199
+working why I just love working and and
+
+153
+00:05:15,479 --> 00:05:19,199
+leading tracksuit with with Connor is
+
+154
+00:05:17,199 --> 00:05:22,120
+that it's so complimentary and one of
+
+155
+00:05:19,199 --> 00:05:24,199
+the the very first I me couple of weeks
+
+156
+00:05:22,120 --> 00:05:26,759
+as we were coming in to start trackit
+
+157
+00:05:24,199 --> 00:05:29,319
+what we did is we did not only personal
+
+158
+00:05:26,759 --> 00:05:30,319
+Behavior profiling but team profiling
+
+159
+00:05:29,319 --> 00:05:31,759
+and so
+
+160
+00:05:30,319 --> 00:05:34,360
+this is where you say who do who do I
+
+161
+00:05:31,759 --> 00:05:36,680
+think I am as a person but what do my
+
+162
+00:05:34,360 --> 00:05:38,400
+teammates and what do my old colleagues
+
+163
+00:05:36,680 --> 00:05:40,720
+perceive me as and so you get this
+
+164
+00:05:38,400 --> 00:05:42,880
+really objective view around not only
+
+165
+00:05:40,720 --> 00:05:44,280
+what I think but what does my team think
+
+166
+00:05:42,880 --> 00:05:45,919
+we went through this exercise where
+
+167
+00:05:44,280 --> 00:05:48,720
+Conor and I both did this and it comes
+
+168
+00:05:45,919 --> 00:05:50,520
+out to say what is Connor what is Matt
+
+169
+00:05:48,720 --> 00:05:52,440
+where are our strengths where our
+
+170
+00:05:50,520 --> 00:05:54,360
+weaknesses but more so what are the
+
+171
+00:05:52,440 --> 00:05:56,000
+things just to watch out where's Connor
+
+172
+00:05:54,360 --> 00:05:59,080
+going to go and this is where Connor's
+
+173
+00:05:56,000 --> 00:06:01,560
+driving and really good and compliments
+
+174
+00:05:59,080 --> 00:06:03,440
+me and where are there where are the
+
+175
+00:06:01,560 --> 00:06:06,360
+some areas where you know I'm leaning
+
+176
+00:06:03,440 --> 00:06:09,240
+into to my superpowers or or My areas
+
+177
+00:06:06,360 --> 00:06:10,759
+but just knowing where we might cause
+
+178
+00:06:09,240 --> 00:06:13,280
+tension where we might see the world in
+
+179
+00:06:10,759 --> 00:06:15,599
+different ways and so having that as a
+
+180
+00:06:13,280 --> 00:06:17,120
+framework about who we are how we
+
+181
+00:06:15,599 --> 00:06:19,680
+operate how we build and operate and
+
+182
+00:06:17,120 --> 00:06:22,160
+teams together I think has had you know
+
+183
+00:06:19,680 --> 00:06:25,000
+a really impactful and huge impact on
+
+184
+00:06:22,160 --> 00:06:26,960
+who we are as As Leaders as friends as
+
+185
+00:06:25,000 --> 00:06:28,599
+colleagues but also the type of culture
+
+186
+00:06:26,960 --> 00:06:31,639
+and teams that we're building at
+
+187
+00:06:28,599 --> 00:06:33,880
+tracksuit you know what your role is in
+
+188
+00:06:31,639 --> 00:06:35,560
+any given team situation which is quite
+
+189
+00:06:33,880 --> 00:06:38,000
+fascinating if you know that you're the
+
+190
+00:06:35,560 --> 00:06:39,759
+strongest creative Problem Solver or the
+
+191
+00:06:38,000 --> 00:06:41,680
+strongest driver you know that when you
+
+192
+00:06:39,759 --> 00:06:43,360
+see people struggling with a problem
+
+193
+00:06:41,680 --> 00:06:44,880
+that it's your turn to step in or you
+
+194
+00:06:43,360 --> 00:06:46,599
+know when you see people kind of
+
+195
+00:06:44,880 --> 00:06:48,319
+deliberating for too long it's your turn
+
+196
+00:06:46,599 --> 00:06:50,840
+to step in and drive it forward and just
+
+197
+00:06:48,319 --> 00:06:53,720
+make a call and so yeah once you
+
+198
+00:06:50,840 --> 00:06:56,759
+understand how you fit in with the team
+
+199
+00:06:53,720 --> 00:06:59,080
+you are able to kind of embody that
+
+200
+00:06:56,759 --> 00:07:01,400
+trait at the right time and so yeah it
+
+201
+00:06:59,080 --> 00:07:02,960
+was it was is fascinating to do that and
+
+202
+00:07:01,400 --> 00:07:04,919
+it has helped we've done it for every
+
+203
+00:07:02,960 --> 00:07:06,800
+single person we're now at 100 employees
+
+204
+00:07:04,919 --> 00:07:08,840
+everyone knows what their roles are how
+
+205
+00:07:06,800 --> 00:07:11,479
+they should and can interact with the
+
+206
+00:07:08,840 --> 00:07:14,800
+team super helpful and then you also
+
+207
+00:07:11,479 --> 00:07:17,080
+decided to become co-ceos that must have
+
+208
+00:07:14,800 --> 00:07:19,840
+also been a very intentional decision as
+
+209
+00:07:17,080 --> 00:07:22,080
+co-founders so maybe help us understand
+
+210
+00:07:19,840 --> 00:07:24,440
+how that decision was made I I mean when
+
+211
+00:07:22,080 --> 00:07:26,720
+we started truit we both were doing
+
+212
+00:07:24,440 --> 00:07:28,720
+everything it was just and because we
+
+213
+00:07:26,720 --> 00:07:30,560
+were bootstrapped it was just like half
+
+214
+00:07:28,720 --> 00:07:32,599
+the time you're doing demo if you close
+
+215
+00:07:30,560 --> 00:07:34,039
+customers they're your customers and you
+
+216
+00:07:32,599 --> 00:07:36,120
+run it and we're both sort of thinking
+
+217
+00:07:34,039 --> 00:07:39,599
+about product and iterating and it kind
+
+218
+00:07:36,120 --> 00:07:41,280
+of naturally started that way where we
+
+219
+00:07:39,599 --> 00:07:43,560
+were both kind of doing it all and just
+
+220
+00:07:41,280 --> 00:07:46,039
+talking about the opportunity and then
+
+221
+00:07:43,560 --> 00:07:48,240
+as we started bringing on team members I
+
+222
+00:07:46,039 --> 00:07:50,000
+think you look at what we were doing and
+
+223
+00:07:48,240 --> 00:07:52,360
+it's like this is perfect the way it is
+
+224
+00:07:50,000 --> 00:07:55,000
+like let's not upset the apple cat I
+
+225
+00:07:52,360 --> 00:07:56,319
+think Coos is it's a like it's a really
+
+226
+00:07:55,000 --> 00:07:59,120
+interesting thing that you have to be
+
+227
+00:07:56,319 --> 00:08:01,840
+intentional with and we redraft our JDS
+
+228
+00:07:59,120 --> 00:08:03,800
+almost every 6 months I'd say where the
+
+229
+00:08:01,840 --> 00:08:06,240
+company's changing really fast so we
+
+230
+00:08:03,800 --> 00:08:09,280
+need to adapt and change really fast and
+
+231
+00:08:06,240 --> 00:08:11,879
+so yeah it's that relationship has
+
+232
+00:08:09,280 --> 00:08:13,639
+updated what we focus on at any given
+
+233
+00:08:11,879 --> 00:08:14,919
+time has changed the main thing is that
+
+234
+00:08:13,639 --> 00:08:17,520
+we have to be really good at
+
+235
+00:08:14,919 --> 00:08:19,960
+communicating just maintain that like
+
+236
+00:08:17,520 --> 00:08:21,400
+solid connection ourselves yeah it's
+
+237
+00:08:19,960 --> 00:08:23,919
+worked so far and I think it would you
+
+238
+00:08:21,400 --> 00:08:26,280
+know we can hire better people into a
+
+239
+00:08:23,919 --> 00:08:28,280
+CPO position or a COO position who've
+
+240
+00:08:26,280 --> 00:08:30,360
+been there and done that and there's
+
+241
+00:08:28,280 --> 00:08:32,880
+almost a bit of a hack in Matt can be in
+
+242
+00:08:30,360 --> 00:08:35,519
+London being a CEO and I can be in New
+
+243
+00:08:32,880 --> 00:08:37,479
+Zealand being a CEO so it's like 247
+
+244
+00:08:35,519 --> 00:08:40,560
+coverage yeah it's double it's double
+
+245
+00:08:37,479 --> 00:08:42,080
+trouble yeah and I mean and I've heard
+
+246
+00:08:40,560 --> 00:08:44,560
+I've heard a couple times where around
+
+247
+00:08:42,080 --> 00:08:46,360
+if you're a CEO or a Founder founder CEO
+
+248
+00:08:44,560 --> 00:08:48,560
+you're the one that gets the least
+
+249
+00:08:46,360 --> 00:08:50,399
+amount of feedback in the business until
+
+250
+00:08:48,560 --> 00:08:53,000
+you're really intentional about that and
+
+251
+00:08:50,399 --> 00:08:54,920
+so to be able to do that together give
+
+252
+00:08:53,000 --> 00:08:57,080
+each other feedback take on each other's
+
+253
+00:08:54,920 --> 00:08:59,680
+feedback and have that ongoing dialogue
+
+254
+00:08:57,080 --> 00:09:00,880
+is so important so that you know really
+
+255
+00:08:59,680 --> 00:09:03,600
+lines and clear on what we're trying to
+
+256
+00:09:00,880 --> 00:09:05,160
+do here at trackit but also you know see
+
+257
+00:09:03,600 --> 00:09:06,640
+the world in slightly different ways and
+
+258
+00:09:05,160 --> 00:09:08,920
+compliment but it's that ongoing
+
+259
+00:09:06,640 --> 00:09:11,680
+communication I don't know how founder
+
+260
+00:09:08,920 --> 00:09:13,560
+CEOs go around building and maintaining
+
+261
+00:09:11,680 --> 00:09:15,440
+rapidly growing business as well as if
+
+262
+00:09:13,560 --> 00:09:16,839
+you're going down and raising investment
+
+263
+00:09:15,440 --> 00:09:18,920
+when we went through that that's that's
+
+264
+00:09:16,839 --> 00:09:20,720
+two full-time roles and then that was a
+
+265
+00:09:18,920 --> 00:09:23,040
+great example of when we decided to go
+
+266
+00:09:20,720 --> 00:09:25,519
+and and raise Capital you know a lot of
+
+267
+00:09:23,040 --> 00:09:27,600
+Connor time was spent on on doing that
+
+268
+00:09:25,519 --> 00:09:29,920
+the upwards stakeholder management
+
+269
+00:09:27,600 --> 00:09:32,440
+investor relations while I was able to
+
+270
+00:09:29,920 --> 00:09:34,079
+lean into keeping the business going and
+
+271
+00:09:32,440 --> 00:09:36,079
+maintaining and and the momentum that we
+
+272
+00:09:34,079 --> 00:09:37,560
+needed so being able to split the roles
+
+273
+00:09:36,079 --> 00:09:39,040
+we needed with what the company needs to
+
+274
+00:09:37,560 --> 00:09:40,959
+do leaning to our strengths but being
+
+275
+00:09:39,040 --> 00:09:42,839
+able to do it together is is fantastic
+
+276
+00:09:40,959 --> 00:09:43,760
+highly recommend yeah that's great
+
+277
+00:09:42,839 --> 00:09:45,079
+highly recommend as long as you're good
+
+278
+00:09:43,760 --> 00:09:46,640
+communicators yeah as long as it works
+
+279
+00:09:45,079 --> 00:09:48,399
+and you don't let your OS get in the way
+
+280
+00:09:46,640 --> 00:09:49,560
+right CU you got to I think that's I
+
+281
+00:09:48,399 --> 00:09:52,040
+reckon that's the main thing that gets
+
+282
+00:09:49,560 --> 00:09:53,800
+in the way of Coos over time is just
+
+283
+00:09:52,040 --> 00:09:55,640
+someone gets a little bit offended that
+
+284
+00:09:53,800 --> 00:09:58,600
+some call was made or they're like you
+
+285
+00:09:55,640 --> 00:10:00,320
+stepped on my toes and then it's like sh
+
+286
+00:09:58,600 --> 00:10:02,320
+then everyone's doing best at any given
+
+287
+00:10:00,320 --> 00:10:04,200
+time and and we're both aligned with
+
+288
+00:10:02,320 --> 00:10:06,640
+that long-term Vision so keep pushing
+
+289
+00:10:04,200 --> 00:10:10,440
+keep moving and make it
+
+290
+00:10:06,640 --> 00:10:12,880
+work you've made the cooco format work
+
+291
+00:10:10,440 --> 00:10:17,440
+quite well so far and so if you were to
+
+292
+00:10:12,880 --> 00:10:19,640
+give advice to other Founders on the
+
+293
+00:10:17,440 --> 00:10:21,120
+structure like how would you recommend
+
+294
+00:10:19,640 --> 00:10:23,399
+what advice would you have on this
+
+295
+00:10:21,120 --> 00:10:25,680
+co-ceo idea basically what I recommend
+
+296
+00:10:23,399 --> 00:10:27,440
+it yes I would recommend it I think
+
+297
+00:10:25,680 --> 00:10:29,600
+recommend it with a couple of flags is
+
+298
+00:10:27,440 --> 00:10:31,839
+that we also knew each other we've known
+
+299
+00:10:29,600 --> 00:10:34,120
+each other for 8 years when we first
+
+300
+00:10:31,839 --> 00:10:35,839
+came into this we did that teaming
+
+301
+00:10:34,120 --> 00:10:37,800
+exercise who are we as people how do we
+
+302
+00:10:35,839 --> 00:10:40,160
+operate in teams how are we going to
+
+303
+00:10:37,800 --> 00:10:41,600
+work dynamically so that I know exactly
+
+304
+00:10:40,160 --> 00:10:43,000
+where Connor's going off somewhere like
+
+305
+00:10:41,600 --> 00:10:44,600
+great I'm going to let Connor go there
+
+306
+00:10:43,000 --> 00:10:46,600
+when I'm starting to really lean in or
+
+307
+00:10:44,600 --> 00:10:47,839
+or or fight for all I want Conor knows
+
+308
+00:10:46,600 --> 00:10:50,160
+that like there's a reason why Matt's
+
+309
+00:10:47,839 --> 00:10:52,240
+going on on on that area knowing who you
+
+310
+00:10:50,160 --> 00:10:53,839
+are and how you operate together is
+
+311
+00:10:52,240 --> 00:10:56,399
+really important we're seeing in new
+
+312
+00:10:53,839 --> 00:10:58,880
+zealands that the multi CEO is as a
+
+313
+00:10:56,399 --> 00:11:01,680
+thing I think we looked at sh sharesies
+
+314
+00:10:58,880 --> 00:11:03,720
+investment they have AO they've got AO
+
+315
+00:11:01,680 --> 00:11:05,880
+shes and New Zealand have a three EO
+
+316
+00:11:03,720 --> 00:11:07,320
+there are examples of where it worked if
+
+317
+00:11:05,880 --> 00:11:09,560
+we weren't really honest with each other
+
+318
+00:11:07,320 --> 00:11:12,279
+if we didn't really know who each other
+
+319
+00:11:09,560 --> 00:11:15,279
+were deeply it probably would fall over
+
+320
+00:11:12,279 --> 00:11:16,600
+and so recommend it but go into caution
+
+321
+00:11:15,279 --> 00:11:17,959
+just because it works for us doesn't
+
+322
+00:11:16,600 --> 00:11:21,000
+mean it's going to work for everybody
+
+323
+00:11:17,959 --> 00:11:22,839
+else but what we do want to do is prove
+
+324
+00:11:21,000 --> 00:11:24,720
+that we can build an incredibly
+
+325
+00:11:22,839 --> 00:11:26,600
+successful business but be really well
+
+326
+00:11:24,720 --> 00:11:28,720
+respected in how we grow and what
+
+327
+00:11:26,600 --> 00:11:30,959
+trackit is as a place of work and the
+
+328
+00:11:28,720 --> 00:11:33,160
+impact that can that we can have yeah
+
+329
+00:11:30,959 --> 00:11:34,959
+everything you jump into in business in
+
+330
+00:11:33,160 --> 00:11:36,600
+life like there's going to be an outcome
+
+331
+00:11:34,959 --> 00:11:38,360
+and it's either going to be accidental
+
+332
+00:11:36,600 --> 00:11:39,639
+or it's going to be designed the coast
+
+333
+00:11:38,360 --> 00:11:42,160
+of your relationship is not something
+
+334
+00:11:39,639 --> 00:11:43,959
+you can go into and be open to an
+
+335
+00:11:42,160 --> 00:11:46,760
+accidental outcome you have to
+
+336
+00:11:43,959 --> 00:11:49,160
+intentionally design the relationship
+
+337
+00:11:46,760 --> 00:11:51,120
+your what Your roles are how you
+
+338
+00:11:49,160 --> 00:11:52,680
+interact otherwise I don't think it
+
+339
+00:11:51,120 --> 00:11:54,360
+would end well and and people aren't
+
+340
+00:11:52,680 --> 00:11:56,279
+very good at doing that when things are
+
+341
+00:11:54,360 --> 00:11:57,920
+busy and when they're hectic people
+
+342
+00:11:56,279 --> 00:11:59,959
+forget that they leave it for too long
+
+343
+00:11:57,920 --> 00:12:02,279
+so if you think you're that way inclined
+
+344
+00:11:59,959 --> 00:12:04,079
+don't do the coasty thing if you're
+
+345
+00:12:02,279 --> 00:12:07,040
+willing to put in the time and the
+
+346
+00:12:04,079 --> 00:12:09,320
+effort go ahead maybe even rewinding
+
+347
+00:12:07,040 --> 00:12:11,120
+further if you go to your personal
+
+348
+00:12:09,320 --> 00:12:13,720
+backgrounds a little bit of your
+
+349
+00:12:11,120 --> 00:12:15,800
+upbringing and also what some of the
+
+350
+00:12:13,720 --> 00:12:17,760
+SEMA moments were that you think LED you
+
+351
+00:12:15,800 --> 00:12:19,720
+to getting attracted to this world of
+
+352
+00:12:17,760 --> 00:12:21,360
+startups and Technology I actually
+
+353
+00:12:19,720 --> 00:12:24,399
+started my career as a corporate lawyer
+
+354
+00:12:21,360 --> 00:12:27,000
+of all things kind of wasn't inspired by
+
+355
+00:12:24,399 --> 00:12:27,839
+that uh so much which is probably easy
+
+356
+00:12:27,000 --> 00:12:29,800
+to
+
+357
+00:12:27,839 --> 00:12:31,800
+imagine but
+
+358
+00:12:29,800 --> 00:12:33,639
+I like ended up raising a fund and
+
+359
+00:12:31,800 --> 00:12:35,639
+almost going into the VC route first
+
+360
+00:12:33,639 --> 00:12:37,639
+because I started Auckland New Zealand's
+
+361
+00:12:35,639 --> 00:12:40,199
+first accelerator program and that was
+
+362
+00:12:37,639 --> 00:12:42,079
+my like risk-free way of understanding
+
+363
+00:12:40,199 --> 00:12:43,160
+everything I could about startups jumped
+
+364
+00:12:42,079 --> 00:12:44,440
+into one of the startups that came
+
+365
+00:12:43,160 --> 00:12:46,720
+through that program and that's that's
+
+366
+00:12:44,440 --> 00:12:48,240
+when I met Matt now wife and I ended up
+
+367
+00:12:46,720 --> 00:12:51,079
+running a surf and yoga retreat in
+
+368
+00:12:48,240 --> 00:12:53,279
+Nicaragua at some point um inar yeah
+
+369
+00:12:51,079 --> 00:12:55,199
+yeah we spent a year there and so yeah
+
+370
+00:12:53,279 --> 00:12:57,079
+I'm I'm attracted by you know like kind
+
+371
+00:12:55,199 --> 00:12:58,720
+of trying new things I've always always
+
+372
+00:12:57,079 --> 00:13:01,880
+been a first principles thinker and I
+
+373
+00:12:58,720 --> 00:13:03,639
+think that naturally you lend that lends
+
+374
+00:13:01,880 --> 00:13:05,680
+itself to being in a startup and and
+
+375
+00:13:03,639 --> 00:13:06,680
+maybe being a Founder in particular so
+
+376
+00:13:05,680 --> 00:13:08,639
+yeah I think I was always going to end
+
+377
+00:13:06,680 --> 00:13:11,720
+up here and have had a nice Meandering
+
+378
+00:13:08,639 --> 00:13:13,560
+path getting here I also studied law and
+
+379
+00:13:11,720 --> 00:13:15,199
+science I never went and practiced law
+
+380
+00:13:13,560 --> 00:13:16,920
+but my first role in the world of tech
+
+381
+00:13:15,199 --> 00:13:18,639
+was being part of the Uber team that
+
+382
+00:13:16,920 --> 00:13:20,600
+launched Uber in New Zealand and so that
+
+383
+00:13:18,639 --> 00:13:21,639
+was you know big Tech Big Brand that was
+
+384
+00:13:20,600 --> 00:13:23,279
+coming across the other side of the
+
+385
+00:13:21,639 --> 00:13:25,000
+world and being involved in that and you
+
+386
+00:13:23,279 --> 00:13:27,920
+know startup mode but the backing of
+
+387
+00:13:25,000 --> 00:13:29,480
+what Uber was in 2015 2016 that was the
+
+388
+00:13:27,920 --> 00:13:31,000
+introduction to Tech and I said great
+
+389
+00:13:29,480 --> 00:13:32,399
+let's get let's keep going in the in the
+
+390
+00:13:31,000 --> 00:13:34,399
+startup world had the opportunity to
+
+391
+00:13:32,399 --> 00:13:36,079
+move to Sydney that's where Connor and I
+
+392
+00:13:34,399 --> 00:13:37,680
+move met on the first day back in New
+
+393
+00:13:36,079 --> 00:13:39,279
+Zealand Connor was off to New York I was
+
+394
+00:13:37,680 --> 00:13:40,880
+going off to Sydney that company was a
+
+395
+00:13:39,279 --> 00:13:42,480
+company called Mish Guru it was looking
+
+396
+00:13:40,880 --> 00:13:44,360
+after the snap uh Snapchat management
+
+397
+00:13:42,480 --> 00:13:45,880
+platform and so we were working Keely
+
+398
+00:13:44,360 --> 00:13:47,720
+with leading agencies and Brands to
+
+399
+00:13:45,880 --> 00:13:49,240
+unlock Snapchat as a new channel and so
+
+400
+00:13:47,720 --> 00:13:52,279
+that was the that was the real the the
+
+401
+00:13:49,240 --> 00:13:54,240
+tow into to MK really helping modern
+
+402
+00:13:52,279 --> 00:13:56,160
+brands use news new channels we there
+
+403
+00:13:54,240 --> 00:13:57,800
+for you know 5 years or so and then
+
+404
+00:13:56,160 --> 00:14:00,000
+ended up back in New Zealand linked up
+
+405
+00:13:57,800 --> 00:14:02,120
+with Connor have always loved uh brands
+
+406
+00:14:00,000 --> 00:14:04,160
+have always loved um an entrepreneurial
+
+407
+00:14:02,120 --> 00:14:06,079
+spirit I guess growing up I ran
+
+408
+00:14:04,160 --> 00:14:07,839
+Landscaping businesses and and pool
+
+409
+00:14:06,079 --> 00:14:09,519
+cleaning and and car washing around the
+
+410
+00:14:07,839 --> 00:14:11,279
+neighborhood so I don't know whether
+
+411
+00:14:09,519 --> 00:14:14,279
+that's where my entrepreneurial Spirit
+
+412
+00:14:11,279 --> 00:14:16,519
+came from but then Tech mtech and then
+
+413
+00:14:14,279 --> 00:14:18,360
+now trackit tell us a little bit about
+
+414
+00:14:16,519 --> 00:14:21,160
+New Zealand what is it like to grow up
+
+415
+00:14:18,360 --> 00:14:23,160
+as a kiwi what is the tech scene this is
+
+416
+00:14:21,160 --> 00:14:25,120
+a it's a great a great question I always
+
+417
+00:14:23,160 --> 00:14:26,720
+like to get Connor's perspective on this
+
+418
+00:14:25,120 --> 00:14:28,480
+um Connor brings the the best of the
+
+419
+00:14:26,720 --> 00:14:29,600
+American and the best of the the New
+
+420
+00:14:28,480 --> 00:14:33,000
+Zealand
+
+421
+00:14:29,600 --> 00:14:35,199
+take s yeah I I was born in California
+
+422
+00:14:33,000 --> 00:14:37,880
+and moved to New Zealand when I was 11
+
+423
+00:14:35,199 --> 00:14:40,399
+so I kind of have a bit of both matx I
+
+424
+00:14:37,880 --> 00:14:42,199
+think I can dial up one or the other
+
+425
+00:14:40,399 --> 00:14:45,279
+depending on what we need at trackx at
+
+426
+00:14:42,199 --> 00:14:48,320
+any given time do we need wild ambition
+
+427
+00:14:45,279 --> 00:14:50,759
+optimism and uh Ching those dreams and
+
+428
+00:14:48,320 --> 00:14:52,800
+drive yeah a drive yeah or you know he
+
+429
+00:14:50,759 --> 00:14:55,279
+can turn on the sort of the cool chill
+
+430
+00:14:52,800 --> 00:14:57,000
+kiwi charm and and that's the other side
+
+431
+00:14:55,279 --> 00:14:58,600
+so I mean growing up in New Zealand is
+
+432
+00:14:57,000 --> 00:15:00,639
+amazing I always like to tell my
+
+433
+00:14:58,600 --> 00:15:02,240
+American and friends that like my first
+
+434
+00:15:00,639 --> 00:15:04,199
+week of school in New Zealand I got in
+
+435
+00:15:02,240 --> 00:15:06,680
+trouble for wearing shoes that's like
+
+436
+00:15:04,199 --> 00:15:08,720
+New Zealand culture it's so relaxed it's
+
+437
+00:15:06,680 --> 00:15:11,199
+a wonderful place to grow up the tech
+
+438
+00:15:08,720 --> 00:15:12,600
+scene I think is it's an exciting place
+
+439
+00:15:11,199 --> 00:15:14,040
+if you talk to investors around the
+
+440
+00:15:12,600 --> 00:15:15,480
+world a lot of them are starting to look
+
+441
+00:15:14,040 --> 00:15:17,560
+at New Zealand and Australia because
+
+442
+00:15:15,480 --> 00:15:20,279
+we've had a lot of success recently with
+
+443
+00:15:17,560 --> 00:15:22,600
+the likes of canva and just like some
+
+444
+00:15:20,279 --> 00:15:24,639
+big companies coming out of that part of
+
+445
+00:15:22,600 --> 00:15:27,120
+the world and and we're starting to see
+
+446
+00:15:24,639 --> 00:15:29,319
+second time third time operators or
+
+447
+00:15:27,120 --> 00:15:31,279
+Founders coming through we're known for
+
+448
+00:15:29,319 --> 00:15:33,880
+being highly efficient that's because we
+
+449
+00:15:31,279 --> 00:15:35,440
+haven't had a lot of capital previously
+
+450
+00:15:33,880 --> 00:15:37,440
+you're seeing these companies come out
+
+451
+00:15:35,440 --> 00:15:39,920
+that are highly efficient they've it's a
+
+452
+00:15:37,440 --> 00:15:41,600
+great place to test and learn and so
+
+453
+00:15:39,920 --> 00:15:43,639
+it's a bit of a beta Nation because
+
+454
+00:15:41,600 --> 00:15:45,120
+you've got a highly engaged small
+
+455
+00:15:43,639 --> 00:15:46,560
+population the things that are coming
+
+456
+00:15:45,120 --> 00:15:48,319
+out tend to have good product Market fit
+
+457
+00:15:46,560 --> 00:15:50,000
+they're highly efficient and then they
+
+458
+00:15:48,319 --> 00:15:52,279
+can kind of take the World by storm
+
+459
+00:15:50,000 --> 00:15:54,199
+relatively quickly I visited New Zealand
+
+460
+00:15:52,279 --> 00:15:57,240
+a few years ago and I learned that there
+
+461
+00:15:54,199 --> 00:15:59,920
+are more sheep than humans who told who
+
+462
+00:15:57,240 --> 00:16:02,399
+told you that everyone I think cows are
+
+463
+00:15:59,920 --> 00:16:03,920
+actually the most now cows okay got it a
+
+464
+00:16:02,399 --> 00:16:06,199
+lot of cows but there there is a big
+
+465
+00:16:03,920 --> 00:16:08,120
+agretech sector like in New Zealand so
+
+466
+00:16:06,199 --> 00:16:11,199
+yeah we have we have Rockets we have
+
+467
+00:16:08,120 --> 00:16:14,480
+agretech and now we have truit y there
+
+468
+00:16:11,199 --> 00:16:16,880
+we go and does that impact the way you
+
+469
+00:16:14,480 --> 00:16:19,199
+thought of or think of the way you build
+
+470
+00:16:16,880 --> 00:16:21,519
+a company in other words do most
+
+471
+00:16:19,199 --> 00:16:23,560
+entrepreneurs think to go Global from
+
+472
+00:16:21,519 --> 00:16:25,920
+day one because it's a relatively
+
+473
+00:16:23,560 --> 00:16:27,959
+smaller Market or are there people still
+
+474
+00:16:25,920 --> 00:16:29,399
+focused mostly on the domestic Market
+
+475
+00:16:27,959 --> 00:16:31,319
+the global from day one I think there
+
+476
+00:16:29,399 --> 00:16:33,279
+are so many different ways to build
+
+477
+00:16:31,319 --> 00:16:34,959
+business and what the aspirations are
+
+478
+00:16:33,279 --> 00:16:36,959
+and when you want to to take things
+
+479
+00:16:34,959 --> 00:16:39,279
+absolutely at some point if you do have
+
+480
+00:16:36,959 --> 00:16:40,759
+international intentions you need to
+
+481
+00:16:39,279 --> 00:16:42,639
+leave New Zealand I mean there's only
+
+482
+00:16:40,759 --> 00:16:45,079
+you know there's 5 A2 million people in
+
+483
+00:16:42,639 --> 00:16:47,360
+New Zealand there's 25 million people in
+
+484
+00:16:45,079 --> 00:16:49,959
+Australia so the same it's the same size
+
+485
+00:16:47,360 --> 00:16:52,480
+as California how many hundreds of cows
+
+486
+00:16:49,959 --> 00:16:53,600
+thousands of hundreds of millions but
+
+487
+00:16:52,480 --> 00:16:55,800
+when you look at so when you look at the
+
+488
+00:16:53,600 --> 00:16:57,639
+size of of New Zealand at 52 million and
+
+489
+00:16:55,800 --> 00:16:59,800
+and Australia at about 25 it's the same
+
+490
+00:16:57,639 --> 00:17:00,800
+as California and so depending on what
+
+491
+00:16:59,800 --> 00:17:02,440
+you're doing and where you're trying to
+
+492
+00:17:00,800 --> 00:17:03,959
+go absolutely people look you know
+
+493
+00:17:02,440 --> 00:17:05,240
+offshore you can still build big
+
+494
+00:17:03,959 --> 00:17:06,760
+business across Australia and New
+
+495
+00:17:05,240 --> 00:17:08,959
+Zealand for us for you know for Conor
+
+496
+00:17:06,760 --> 00:17:11,480
+and I with track we were so intentional
+
+497
+00:17:08,959 --> 00:17:14,280
+about the way that we wanted to grow
+
+498
+00:17:11,480 --> 00:17:16,319
+track a few scars and burns about trying
+
+499
+00:17:14,280 --> 00:17:17,600
+to go Global too fast and and and
+
+500
+00:17:16,319 --> 00:17:19,640
+product Market fit and that type of
+
+501
+00:17:17,600 --> 00:17:21,120
+thing so with trackx right from the
+
+502
+00:17:19,640 --> 00:17:23,120
+start we said hey look the back end of
+
+503
+00:17:21,120 --> 00:17:24,839
+the technology that we're doing needs to
+
+504
+00:17:23,120 --> 00:17:26,760
+be in a position that we can turn on any
+
+505
+00:17:24,839 --> 00:17:28,559
+Market in the world when we're ready but
+
+506
+00:17:26,760 --> 00:17:30,600
+we wanted to be super intentional about
+
+507
+00:17:28,559 --> 00:17:32,480
+the way that we built do we have product
+
+508
+00:17:30,600 --> 00:17:34,440
+Market fit are people paying us are we
+
+509
+00:17:32,480 --> 00:17:36,880
+solving real problems are we building a
+
+510
+00:17:34,440 --> 00:17:38,960
+great team are we building great brands
+
+511
+00:17:36,880 --> 00:17:40,280
+that then enables us to go and scale so
+
+512
+00:17:38,960 --> 00:17:41,760
+we started in New Zealand our New
+
+513
+00:17:40,280 --> 00:17:43,640
+Zealand customers said can you do this
+
+514
+00:17:41,760 --> 00:17:44,880
+in Australia great we moved into
+
+515
+00:17:43,640 --> 00:17:46,679
+Australia we started working with
+
+516
+00:17:44,880 --> 00:17:48,679
+Incredible Australian Brands like
+
+517
+00:17:46,679 --> 00:17:50,600
+Culture Kings and Bondi Sands and then
+
+518
+00:17:48,679 --> 00:17:51,760
+those businesses said hey look the us
+
+519
+00:17:50,600 --> 00:17:53,559
+we've got a whole lot of Revenue in the
+
+520
+00:17:51,760 --> 00:17:55,200
+US we're trying to figure out how to
+
+521
+00:17:53,559 --> 00:17:56,240
+position what our competitors are doing
+
+522
+00:17:55,200 --> 00:17:58,640
+where we should be spending our
+
+523
+00:17:56,240 --> 00:18:00,679
+marketing dollars and so we went into
+
+524
+00:17:58,640 --> 00:18:03,039
+know came into the US off the back of
+
+525
+00:18:00,679 --> 00:18:05,039
+our our customers the same into the UK
+
+526
+00:18:03,039 --> 00:18:07,600
+so we've been pulled into the markets
+
+527
+00:18:05,039 --> 00:18:09,159
+which has allowed us to scale a team
+
+528
+00:18:07,600 --> 00:18:11,159
+with our customers with product Market
+
+529
+00:18:09,159 --> 00:18:12,880
+fit but always from the start absolutely
+
+530
+00:18:11,159 --> 00:18:15,039
+Global from day one but not turning it
+
+531
+00:18:12,880 --> 00:18:17,360
+on straight away and I think being from
+
+532
+00:18:15,039 --> 00:18:18,880
+New Zealand and how intentional we are
+
+533
+00:18:17,360 --> 00:18:21,200
+with our company Matt and I when we
+
+534
+00:18:18,880 --> 00:18:23,440
+started we wanted to spend 50% of our
+
+535
+00:18:21,200 --> 00:18:25,080
+energy on what we were building and
+
+536
+00:18:23,440 --> 00:18:27,480
+creating a great product and and trying
+
+537
+00:18:25,080 --> 00:18:29,320
+but we also wanted to like spend 50% of
+
+538
+00:18:27,480 --> 00:18:31,159
+our energy on how we were building and
+
+539
+00:18:29,320 --> 00:18:32,679
+sort of taking a great culture in our
+
+540
+00:18:31,159 --> 00:18:35,159
+company and then kind of taking that
+
+541
+00:18:32,679 --> 00:18:37,360
+culture to the world so we do have four
+
+542
+00:18:35,159 --> 00:18:39,280
+Global offices now we've got Sydney New
+
+543
+00:18:37,360 --> 00:18:41,960
+York and London on top of our our New
+
+544
+00:18:39,280 --> 00:18:44,280
+Zealand Auckland head office and we've
+
+545
+00:18:41,960 --> 00:18:47,840
+been putting some of our key members of
+
+546
+00:18:44,280 --> 00:18:50,120
+our early team into those offices and we
+
+547
+00:18:47,840 --> 00:18:51,960
+try to bring that New Zealand and that
+
+548
+00:18:50,120 --> 00:18:53,799
+tracksuit culture to the world while
+
+549
+00:18:51,960 --> 00:18:55,720
+making like a good amount of room and
+
+550
+00:18:53,799 --> 00:18:57,720
+and setting space for that kind of local
+
+551
+00:18:55,720 --> 00:19:00,280
+flavor to be a part of that in each
+
+552
+00:18:57,720 --> 00:19:01,840
+office as well all right we'll end on uh
+
+553
+00:19:00,280 --> 00:19:04,120
+can you share the story of hanging out
+
+554
+00:19:01,840 --> 00:19:06,039
+with Sam Alman in Auckland I was
+
+555
+00:19:04,120 --> 00:19:08,240
+launching Oakland's first accelerator
+
+556
+00:19:06,039 --> 00:19:10,679
+program Sam Alman was like visiting New
+
+557
+00:19:08,240 --> 00:19:12,880
+Zealand I think on a holiday not to like
+
+558
+00:19:10,679 --> 00:19:16,320
+do anything official I just like
+
+559
+00:19:12,880 --> 00:19:18,679
+bothered him in his Twitter DMS for a
+
+560
+00:19:16,320 --> 00:19:19,760
+long time like hey you want to we go
+
+561
+00:19:18,679 --> 00:19:21,799
+you're from California do you like
+
+562
+00:19:19,760 --> 00:19:24,120
+surfing do you want to go no no answer
+
+563
+00:19:21,799 --> 00:19:25,640
+do you want to like do something I don't
+
+564
+00:19:24,120 --> 00:19:26,919
+know and eventually I got him like he
+
+565
+00:19:25,640 --> 00:19:28,720
+said oh that'd be great when I said
+
+566
+00:19:26,919 --> 00:19:30,200
+something like oh I can maybe get an
+
+567
+00:19:28,720 --> 00:19:33,159
+investor to provide like a big boat and
+
+568
+00:19:30,200 --> 00:19:35,919
+we could do a tour of the harbor and go
+
+569
+00:19:33,159 --> 00:19:37,240
+so first of all I didn't have a boat um
+
+570
+00:19:35,919 --> 00:19:38,919
+but he said oh that'd be great I'd love
+
+571
+00:19:37,240 --> 00:19:41,080
+to meet some New Zealand startups so I
+
+572
+00:19:38,919 --> 00:19:43,520
+went and found a 70ft boat from some
+
+573
+00:19:41,080 --> 00:19:45,360
+investor in New Zealand go and we all
+
+574
+00:19:43,520 --> 00:19:47,799
+went out on it but the investor was like
+
+575
+00:19:45,360 --> 00:19:49,760
+he was like a a fishing guy like he he
+
+576
+00:19:47,799 --> 00:19:52,159
+wanted to go fishing and he wanted to
+
+577
+00:19:49,760 --> 00:19:53,640
+show these American visitors the great
+
+578
+00:19:52,159 --> 00:19:58,840
+fish you can catch in New Zealand
+
+579
+00:19:53,640 --> 00:20:01,360
+harbors and Sam was vegan at the time
+
+580
+00:19:58,840 --> 00:20:02,880
+so like I got this boat but the only way
+
+581
+00:20:01,360 --> 00:20:04,960
+we could use it is if the guy could take
+
+582
+00:20:02,880 --> 00:20:07,400
+us fishing and so it was just like oh
+
+583
+00:20:04,960 --> 00:20:09,480
+I'm sorry man like we're hauling up all
+
+584
+00:20:07,400 --> 00:20:11,280
+these poor fish and you sitting there
+
+585
+00:20:09,480 --> 00:20:13,200
+just like chilling in the inside of the
+
+586
+00:20:11,280 --> 00:20:15,520
+boat talking to a few stups and yeah
+
+587
+00:20:13,200 --> 00:20:19,240
+anyway so that was that was my
+
+588
+00:20:15,520 --> 00:20:21,640
+interaction with Sam mman 15 years ago
+
+589
+00:20:19,240 --> 00:20:23,000
+he was Running Y combinator and I was
+
+590
+00:20:21,640 --> 00:20:25,159
+trying to launch New Zealand's first
+
+591
+00:20:23,000 --> 00:20:28,960
+accelerator program and here we are here
+
+592
+00:20:25,159 --> 00:20:30,720
+we are here we are amazing
+
+593
+00:20:28,960 --> 00:20:35,280
+Bo thank you Matt thank you Connor we
+
+594
+00:20:30,720 --> 00:20:35,280
+really appreciate it thanks T thank you
+

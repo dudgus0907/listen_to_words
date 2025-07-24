@@ -1,0 +1,2786 @@
+{
+  "success": true,
+  "videoId": "7gEdL3vQvKQ",
+  "videoTitle": "From $0 Ad Spend to $12.5B： The Figma StoryㅣClaire Butler & Corey Lee",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "So the first day that I joined Figma, I"
+    },
+    {
+      "start": 2,
+      "text": "remember I was sitting in a presentation"
+    },
+    {
+      "start": 3,
+      "text": "and Dylan was kind of walking me through"
+    },
+    {
+      "start": 5,
+      "text": "stuff, showing the product and the name"
+    },
+    {
+      "start": 7,
+      "text": "of the tool at the time was actually"
+    },
+    {
+      "start": 9,
+      "text": "called Summit. And I remember I thought"
+    },
+    {
+      "start": 10,
+      "text": "to myself like this just isn't going to"
+    },
+    {
+      "start": 12,
+      "text": "work. Metrics are so important, but I"
+    },
+    {
+      "start": 14,
+      "text": "feel like when you're doing something"
+    },
+    {
+      "start": 16,
+      "text": "really early and you're like, I have to"
+    },
+    {
+      "start": 17,
+      "text": "10x this, I have to 100x this, I have"
+    },
+    {
+      "start": 20,
+      "text": "to,000x this, you kind of have to go"
+    },
+    {
+      "start": 22,
+      "text": "more on intuition and more on feeling, I"
+    },
+    {
+      "start": 24,
+      "text": "think, and really believe that because"
+    },
+    {
+      "start": 26,
+      "text": "metrics just aren't going to get you the"
+    },
+    {
+      "start": 27,
+      "text": "answers that you're looking for. If you"
+    },
+    {
+      "start": 29,
+      "text": "joined Figma, you had to start spending"
+    },
+    {
+      "start": 31,
+      "text": "time answering support questions. And so"
+    },
+    {
+      "start": 34,
+      "text": "it sounds like pretty un unscalable,"
+    },
+    {
+      "start": 36,
+      "text": "right? Oh, you have your engineers"
+    },
+    {
+      "start": 37,
+      "text": "sitting there answering support tickets,"
+    },
+    {
+      "start": 39,
+      "text": "fixing bugs, like you can't do that"
+    },
+    {
+      "start": 42,
+      "text": "forever. That doesn't scale. But"
+    },
+    {
+      "start": 43,
+      "text": "actually, it does scale. You think about"
+    },
+    {
+      "start": 46,
+      "text": "people as companies. And I think the"
+    },
+    {
+      "start": 48,
+      "text": "biggest advice that I would give is like"
+    },
+    {
+      "start": 49,
+      "text": "people are people, right? And I think"
+    },
+    {
+      "start": 51,
+      "text": "you see that it can conf like you'll see"
+    },
+    {
+      "start": 53,
+      "text": "people and you'll talk to them and"
+    },
+    {
+      "start": 54,
+      "text": "you'll be chatting. It sounds so basic,"
+    },
+    {
+      "start": 56,
+      "text": "right? But like I think so often in"
+    },
+    {
+      "start": 57,
+      "text": "marketing we we split people into like"
+    },
+    {
+      "start": 59,
+      "text": "you as a person at your desk and you as"
+    },
+    {
+      "start": 62,
+      "text": "a person outside of that. Whereas we try"
+    },
+    {
+      "start": 64,
+      "text": "to think of people as one person. It"
+    },
+    {
+      "start": 66,
+      "text": "wasn't like let's have a communitydriven"
+    },
+    {
+      "start": 68,
+      "text": "strategy. It was just we need to listen"
+    },
+    {
+      "start": 71,
+      "text": "to our users and we need to build a"
+    },
+    {
+      "start": 72,
+      "text": "product that's going to be really useful"
+    },
+    {
+      "start": 74,
+      "text": "for them and they know what their"
+    },
+    {
+      "start": 76,
+      "text": "problems are more than we do and we need"
+    },
+    {
+      "start": 78,
+      "text": "to spend time with them and and fix"
+    },
+    {
+      "start": 80,
+      "text": "their problems."
+    },
+    {
+      "start": 81,
+      "text": "[Applause]"
+    },
+    {
+      "start": 85,
+      "text": "Hi, I'm Claire. Uh, I'm the director of"
+    },
+    {
+      "start": 87,
+      "text": "brand marketing here at Figma. I was"
+    },
+    {
+      "start": 89,
+      "text": "also the first marketer and yeah, I've"
+    },
+    {
+      "start": 92,
+      "text": "been here since the beginning. So,"
+    },
+    {
+      "start": 93,
+      "text": "coming up on 9 years of Figma. So, it's"
+    },
+    {
+      "start": 96,
+      "text": "been it's really fun for me to see"
+    },
+    {
+      "start": 97,
+      "text": "everything come together today."
+    },
+    {
+      "start": 101,
+      "text": "My name is Cory. I'm designer advocate"
+    },
+    {
+      "start": 103,
+      "text": "here at Figma. Um, I'm based in Tokyo"
+    },
+    {
+      "start": 105,
+      "text": "and I've been here at Figma for about 2"
+    },
+    {
+      "start": 107,
+      "text": "years and been a longtime Figma user in"
+    },
+    {
+      "start": 110,
+      "text": "community. As a designer advocate, I'm"
+    },
+    {
+      "start": 111,
+      "text": "part of our community team. My role is a"
+    },
+    {
+      "start": 114,
+      "text": "mixture of helping build community but"
+    },
+    {
+      "start": 117,
+      "text": "while also helping enable um designers."
+    },
+    {
+      "start": 119,
+      "text": "So um could you give us an overview of"
+    },
+    {
+      "start": 121,
+      "text": "your career um before joining Figma?"
+    },
+    {
+      "start": 123,
+      "text": "Sure. Uh it's kind of funny. It's hard"
+    },
+    {
+      "start": 125,
+      "text": "to remember a time before Figma because"
+    },
+    {
+      "start": 127,
+      "text": "I've been here for uh 9 years. I was at"
+    },
+    {
+      "start": 129,
+      "text": "another startup before that called"
+    },
+    {
+      "start": 131,
+      "text": "Climate Corporation and Index Ventures"
+    },
+    {
+      "start": 133,
+      "text": "was one of the investors in uh Climate"
+    },
+    {
+      "start": 135,
+      "text": "Corp. and we got acquired and you know I"
+    },
+    {
+      "start": 138,
+      "text": "kind of knew a big company wasn't for me"
+    },
+    {
+      "start": 139,
+      "text": "and I I really wanted to roll up my"
+    },
+    {
+      "start": 141,
+      "text": "sleeves and and do something early"
+    },
+    {
+      "start": 142,
+      "text": "stage. So Danny Rhyr who is was the lead"
+    },
+    {
+      "start": 145,
+      "text": "investor over at the last company I was"
+    },
+    {
+      "start": 147,
+      "text": "at uh also invested was the first seed"
+    },
+    {
+      "start": 149,
+      "text": "investor for Dylan. So um I was meeting"
+    },
+    {
+      "start": 152,
+      "text": "a bunch of different startups and"
+    },
+    {
+      "start": 153,
+      "text": "different companies and uh Danny"
+    },
+    {
+      "start": 155,
+      "text": "introduced me to Dylan and I met Dylan"
+    },
+    {
+      "start": 157,
+      "text": "and kind of just decided that that was"
+    },
+    {
+      "start": 160,
+      "text": "it and that's that's you know went from"
+    },
+    {
+      "start": 162,
+      "text": "there. When I started at Figma, we were"
+    },
+    {
+      "start": 164,
+      "text": "pretty launched. So, there was there"
+    },
+    {
+      "start": 165,
+      "text": "wasn't even a product. There wasn't a"
+    },
+    {
+      "start": 167,
+      "text": "company, you know, there wasn't even a"
+    },
+    {
+      "start": 169,
+      "text": "name, honestly. We were going to name it"
+    },
+    {
+      "start": 170,
+      "text": "something else at the beginning. So, I I"
+    },
+    {
+      "start": 172,
+      "text": "think back to just how much we've grown"
+    },
+    {
+      "start": 174,
+      "text": "and evolved over the past 9 years and"
+    },
+    {
+      "start": 176,
+      "text": "where we are today. And it really blows"
+    },
+    {
+      "start": 178,
+      "text": "my mind. It's just so amazing to see the"
+    },
+    {
+      "start": 181,
+      "text": "excitement. I just got emotional"
+    },
+    {
+      "start": 183,
+      "text": "watching all the people come in and just"
+    },
+    {
+      "start": 185,
+      "text": "how many people how many how much Figma"
+    },
+    {
+      "start": 187,
+      "text": "means to so many people and how many"
+    },
+    {
+      "start": 188,
+      "text": "people love it and use it every day."
+    },
+    {
+      "start": 190,
+      "text": "It's just a surreal moment for me to see"
+    },
+    {
+      "start": 192,
+      "text": "everything come together. What was the"
+    },
+    {
+      "start": 194,
+      "text": "first thing that you did after you"
+    },
+    {
+      "start": 196,
+      "text": "joined Figma? Literal first thing I did."
+    },
+    {
+      "start": 198,
+      "text": "So the first day that I joined Figma, I"
+    },
+    {
+      "start": 200,
+      "text": "remember I was sitting in a presentation"
+    },
+    {
+      "start": 202,
+      "text": "and Dylan was kind of walking me through"
+    },
+    {
+      "start": 204,
+      "text": "stuff, showing the product, also showing"
+    },
+    {
+      "start": 206,
+      "text": "me where to like the bathroom was like"
+    },
+    {
+      "start": 208,
+      "text": "all of the basics that you get on your"
+    },
+    {
+      "start": 209,
+      "text": "first day. And uh I saw one presentation"
+    },
+    {
+      "start": 212,
+      "text": "where they were going through some of"
+    },
+    {
+      "start": 213,
+      "text": "the branding for Figma and some of the"
+    },
+    {
+      "start": 215,
+      "text": "different naming and how they were"
+    },
+    {
+      "start": 217,
+      "text": "thinking about launching it. And the"
+    },
+    {
+      "start": 218,
+      "text": "name of the tool at the time was"
+    },
+    {
+      "start": 220,
+      "text": "actually called Summit. And so um Figma"
+    },
+    {
+      "start": 223,
+      "text": "was always the name of the company, but"
+    },
+    {
+      "start": 224,
+      "text": "we had the strategy at the time where"
+    },
+    {
+      "start": 226,
+      "text": "the tool would be called Summit and like"
+    },
+    {
+      "start": 228,
+      "text": "the Figma editor. And then the company"
+    },
+    {
+      "start": 231,
+      "text": "would be called Figma. And I remember I"
+    },
+    {
+      "start": 232,
+      "text": "thought to myself like this just isn't"
+    },
+    {
+      "start": 234,
+      "text": "going to work. Like uh nobody knows who"
+    },
+    {
+      "start": 236,
+      "text": "we are. Summit is just like a really"
+    },
+    {
+      "start": 239,
+      "text": "basic name. There's PCs named Summit."
+    },
+    {
+      "start": 241,
+      "text": "There's apps named Summit. This isn't"
+    },
+    {
+      "start": 243,
+      "text": "anything we can own. And so I remember"
+    },
+    {
+      "start": 245,
+      "text": "saying just kind of off the cuff like,"
+    },
+    {
+      "start": 247,
+      "text": "\"Hey, like how locked is this? Is this"
+    },
+    {
+      "start": 249,
+      "text": "something we can change?\" And Dylan was"
+    },
+    {
+      "start": 251,
+      "text": "like, \"Yeah, what do you think?\" And and"
+    },
+    {
+      "start": 253,
+      "text": "I was like, \"Well, I I really think we"
+    },
+    {
+      "start": 254,
+      "text": "should probably only have one name. We"
+    },
+    {
+      "start": 256,
+      "text": "can't really have two.\" Um, and he's"
+    },
+    {
+      "start": 258,
+      "text": "like, \"Well, well, how about you think"
+    },
+    {
+      "start": 260,
+      "text": "about that more and make a presentation"
+    },
+    {
+      "start": 262,
+      "text": "and and maybe can show everybody it and"
+    },
+    {
+      "start": 264,
+      "text": "then we can talk about it.\" And I said,"
+    },
+    {
+      "start": 265,
+      "text": "\"Okay, cool. Like what does what does"
+    },
+    {
+      "start": 266,
+      "text": "the timeline look like for that?\" And he"
+    },
+    {
+      "start": 267,
+      "text": "said, \"How about tomorrow?\" And I was"
+    },
+    {
+      "start": 270,
+      "text": "like, \"Okay.\" And so uh I remember the"
+    },
+    {
+      "start": 274,
+      "text": "literal first thing I did on my first"
+    },
+    {
+      "start": 275,
+      "text": "day was um make a presentation about how"
+    },
+    {
+      "start": 279,
+      "text": "the product should be called Figma and"
+    },
+    {
+      "start": 280,
+      "text": "not Summit. And that was the first thing"
+    },
+    {
+      "start": 282,
+      "text": "I did. When Figma first launched people"
+    },
+    {
+      "start": 285,
+      "text": "saying especially among designers like"
+    },
+    {
+      "start": 287,
+      "text": "there are a lot of people liking the"
+    },
+    {
+      "start": 289,
+      "text": "product but also saying oh if this is"
+    },
+    {
+      "start": 291,
+      "text": "the future of design then I would quit"
+    },
+    {
+      "start": 293,
+      "text": "design or like this is not the future I"
+    },
+    {
+      "start": 295,
+      "text": "want as a designer. So, as a first"
+    },
+    {
+      "start": 298,
+      "text": "marketer at uh Figma, like what were"
+    },
+    {
+      "start": 301,
+      "text": "your like go to market strategy or like"
+    },
+    {
+      "start": 303,
+      "text": "how did you deal with these market"
+    },
+    {
+      "start": 305,
+      "text": "response? You know, I think it's really"
+    },
+    {
+      "start": 306,
+      "text": "interesting because as a marketer"
+    },
+    {
+      "start": 309,
+      "text": "working online and collaboratively, it's"
+    },
+    {
+      "start": 311,
+      "text": "it's just intuitive to me, right? Like"
+    },
+    {
+      "start": 312,
+      "text": "was used to using Google Docs, was used"
+    },
+    {
+      "start": 314,
+      "text": "to just having Google Slides, a sauna,"
+    },
+    {
+      "start": 316,
+      "text": "these things where you just have things"
+    },
+    {
+      "start": 318,
+      "text": "constantly updated and working really"
+    },
+    {
+      "start": 320,
+      "text": "collaboratively. But it didn't really"
+    },
+    {
+      "start": 321,
+      "text": "click for me until I saw the response."
+    },
+    {
+      "start": 323,
+      "text": "Honestly, that, you know, before design"
+    },
+    {
+      "start": 325,
+      "text": "didn't really work that way. People were"
+    },
+    {
+      "start": 327,
+      "text": "used to working in these offline tools"
+    },
+    {
+      "start": 329,
+      "text": "and sharing when they're done and doing"
+    },
+    {
+      "start": 331,
+      "text": "these like beautiful presentations and"
+    },
+    {
+      "start": 333,
+      "text": "showing kind of more of a finished"
+    },
+    {
+      "start": 334,
+      "text": "product. Um, and so yeah, there was a"
+    },
+    {
+      "start": 336,
+      "text": "lot of questioning uh of that in the"
+    },
+    {
+      "start": 338,
+      "text": "early days. I think that there's a"
+    },
+    {
+      "start": 340,
+      "text": "couple things that I keep in mind when I"
+    },
+    {
+      "start": 342,
+      "text": "think of like how to approach something"
+    },
+    {
+      "start": 343,
+      "text": "like that. The first is, you know, you"
+    },
+    {
+      "start": 346,
+      "text": "have to have a level of confidence that"
+    },
+    {
+      "start": 348,
+      "text": "you're going to keep going anyway,"
+    },
+    {
+      "start": 350,
+      "text": "right? Like there's some people who"
+    },
+    {
+      "start": 352,
+      "text": "don't like it. There's different"
+    },
+    {
+      "start": 353,
+      "text": "adoption curves and it's okay. Not"
+    },
+    {
+      "start": 355,
+      "text": "everyone likes your product right away."
+    },
+    {
+      "start": 357,
+      "text": "So this just having a general confidence"
+    },
+    {
+      "start": 359,
+      "text": "in that and a belief that that's the way"
+    },
+    {
+      "start": 360,
+      "text": "to go and that's the vision and we're"
+    },
+    {
+      "start": 362,
+      "text": "going to stick with it is very"
+    },
+    {
+      "start": 363,
+      "text": "important. And then I think the other"
+    },
+    {
+      "start": 365,
+      "text": "thing that we did that was really really"
+    },
+    {
+      "start": 367,
+      "text": "helpful was we really looked at design"
+    },
+    {
+      "start": 370,
+      "text": "is an interesting space where uh you"
+    },
+    {
+      "start": 372,
+      "text": "know people really learn from each other"
+    },
+    {
+      "start": 373,
+      "text": "and so people are always looking to"
+    },
+    {
+      "start": 375,
+      "text": "other influencers or other people to"
+    },
+    {
+      "start": 377,
+      "text": "help understand you know what's the"
+    },
+    {
+      "start": 378,
+      "text": "latest in design how do you work how"
+    },
+    {
+      "start": 380,
+      "text": "should we work so we really built a lot"
+    },
+    {
+      "start": 382,
+      "text": "of relationships and focused on building"
+    },
+    {
+      "start": 384,
+      "text": "relationships with people who had a lot"
+    },
+    {
+      "start": 386,
+      "text": "of thought in the space a lot of thought"
+    },
+    {
+      "start": 388,
+      "text": "leadership and um talked to them about"
+    },
+    {
+      "start": 391,
+      "text": "things. So even if they had a negative"
+    },
+    {
+      "start": 393,
+      "text": "reaction at first or weren't sure about"
+    },
+    {
+      "start": 395,
+      "text": "something we were doing, we just engaged"
+    },
+    {
+      "start": 396,
+      "text": "in conversation and talked about it and"
+    },
+    {
+      "start": 399,
+      "text": "uh you know over time heard their"
+    },
+    {
+      "start": 401,
+      "text": "opinions, we shared our opinions, got"
+    },
+    {
+      "start": 403,
+      "text": "feedback from them and that was a a"
+    },
+    {
+      "start": 405,
+      "text": "really important thing where maybe"
+    },
+    {
+      "start": 406,
+      "text": "initially people had concerns but as we"
+    },
+    {
+      "start": 409,
+      "text": "built trust with them, built"
+    },
+    {
+      "start": 410,
+      "text": "credibility, uh people started using the"
+    },
+    {
+      "start": 412,
+      "text": "tool that was really important and they"
+    },
+    {
+      "start": 415,
+      "text": "changed their minds. I'm also curious"
+    },
+    {
+      "start": 417,
+      "text": "like Corey your response when you first"
+    },
+    {
+      "start": 419,
+      "text": "got to know Figma but as a designer"
+    },
+    {
+      "start": 421,
+      "text": "didn't didn't you have any like mixed"
+    },
+    {
+      "start": 423,
+      "text": "feelings towards the product or as a"
+    },
+    {
+      "start": 425,
+      "text": "designer like what were your thoughts on"
+    },
+    {
+      "start": 427,
+      "text": "the product as a designer at the time I"
+    },
+    {
+      "start": 430,
+      "text": "was using Figma this was probably like"
+    },
+    {
+      "start": 431,
+      "text": "2016 2017 like a lot of different design"
+    },
+    {
+      "start": 434,
+      "text": "tools were coming out like when every"
+    },
+    {
+      "start": 435,
+      "text": "week seemed like there was different"
+    },
+    {
+      "start": 436,
+      "text": "design tool like and I was you know"
+    },
+    {
+      "start": 437,
+      "text": "using one tool as my main tool but like"
+    },
+    {
+      "start": 440,
+      "text": "I would be using another tool beta"
+    },
+    {
+      "start": 442,
+      "text": "testing it like on the side and like"
+    },
+    {
+      "start": 443,
+      "text": "recreating the design like every week"
+    },
+    {
+      "start": 445,
+      "text": "and testing you know, these AB testing,"
+    },
+    {
+      "start": 446,
+      "text": "these design choices to see like which"
+    },
+    {
+      "start": 448,
+      "text": "one is the is going to be the best one,"
+    },
+    {
+      "start": 449,
+      "text": "which one I just I switched to and like"
+    },
+    {
+      "start": 451,
+      "text": "through that whole process, like one of"
+    },
+    {
+      "start": 452,
+      "text": "them I found like Figma and I was using"
+    },
+    {
+      "start": 455,
+      "text": "Figma and I I picked it up for a bit and"
+    },
+    {
+      "start": 457,
+      "text": "I was like, \"Okay, this is web- based."
+    },
+    {
+      "start": 459,
+      "text": "This is kind of interesting, but like it"
+    },
+    {
+      "start": 461,
+      "text": "doesn't make much difference compared to"
+    },
+    {
+      "start": 464,
+      "text": "like what I'm using now, right?\" And"
+    },
+    {
+      "start": 465,
+      "text": "then um I went back to it for some"
+    },
+    {
+      "start": 467,
+      "text": "reason again to use it and I started"
+    },
+    {
+      "start": 470,
+      "text": "thinking about the collaboration"
+    },
+    {
+      "start": 471,
+      "text": "features, right? I was just like, \"Wait,"
+    },
+    {
+      "start": 472,
+      "text": "wait, you can just Oh, it's web- based."
+    },
+    {
+      "start": 474,
+      "text": "You can just share a link. I don't have"
+    },
+    {
+      "start": 475,
+      "text": "to like export this and every single"
+    },
+    {
+      "start": 477,
+      "text": "time it's my final final final final"
+    },
+    {
+      "start": 479,
+      "text": "version. Send that again and then I you"
+    },
+    {
+      "start": 480,
+      "text": "know I could just share that and it's"
+    },
+    {
+      "start": 482,
+      "text": "always up to date and thinking about"
+    },
+    {
+      "start": 483,
+      "text": "like the repercussions of that of like"
+    },
+    {
+      "start": 485,
+      "text": "how that would change the way interact"
+    },
+    {
+      "start": 488,
+      "text": "uh and just reduce the friction I think"
+    },
+    {
+      "start": 490,
+      "text": "was just a big thing I think about a lot"
+    },
+    {
+      "start": 492,
+      "text": "of time uh in the process. So I was like"
+    },
+    {
+      "start": 494,
+      "text": "oh well to realize the value that I"
+    },
+    {
+      "start": 496,
+      "text": "actually have to do use this tool with"
+    },
+    {
+      "start": 497,
+      "text": "somebody else. So that the first thing I"
+    },
+    {
+      "start": 499,
+      "text": "did was okay let me find some other"
+    },
+    {
+      "start": 501,
+      "text": "people on my team that I can get to get"
+    },
+    {
+      "start": 502,
+      "text": "in the tool and let's use it together."
+    },
+    {
+      "start": 504,
+      "text": "And then once I did that, they"
+    },
+    {
+      "start": 506,
+      "text": "understood it. I understood it. I was"
+    },
+    {
+      "start": 507,
+      "text": "like, \"Okay, this is a game changer.\""
+    },
+    {
+      "start": 509,
+      "text": "You know, once you start using it"
+    },
+    {
+      "start": 510,
+      "text": "together, you just realize it's like"
+    },
+    {
+      "start": 512,
+      "text": "it's completely different experience."
+    },
+    {
+      "start": 513,
+      "text": "And I think that was when it was"
+    },
+    {
+      "start": 514,
+      "text": "clicked. And then I realized that and"
+    },
+    {
+      "start": 516,
+      "text": "then I was like, \"Oh, I need to get my"
+    },
+    {
+      "start": 517,
+      "text": "whole team on this. I need to get"
+    },
+    {
+      "start": 518,
+      "text": "everyone in this and get everyone in the"
+    },
+    {
+      "start": 520,
+      "text": "file.\" Before I was like going to"
+    },
+    {
+      "start": 521,
+      "text": "introduce my team to it. There was"
+    },
+    {
+      "start": 522,
+      "text": "actually an issue with like Japanese"
+    },
+    {
+      "start": 524,
+      "text": "input. Um, and you know, back in the"
+    },
+    {
+      "start": 527,
+      "text": "day, like I you still have it today in"
+    },
+    {
+      "start": 529,
+      "text": "the bottom like right corner of Figma,"
+    },
+    {
+      "start": 530,
+      "text": "there's a little question mark right"
+    },
+    {
+      "start": 531,
+      "text": "there. And if you push that you can have"
+    },
+    {
+      "start": 532,
+      "text": "like you can send a message right to the"
+    },
+    {
+      "start": 534,
+      "text": "help desk and get support on that."
+    },
+    {
+      "start": 536,
+      "text": "Right? So I was using Figma and when you"
+    },
+    {
+      "start": 538,
+      "text": "input the Japanese characters it"
+    },
+    {
+      "start": 539,
+      "text": "wouldn't show up correctly. Japanese was"
+    },
+    {
+      "start": 541,
+      "text": "basically broken in Pigma at the time. I"
+    },
+    {
+      "start": 543,
+      "text": "was like oh this is great but like I'm"
+    },
+    {
+      "start": 545,
+      "text": "in Japan and like I'm I'm designing in"
+    },
+    {
+      "start": 547,
+      "text": "Japanese so I can't use this on my team"
+    },
+    {
+      "start": 549,
+      "text": "until this is fixed, right? I was like"
+    },
+    {
+      "start": 551,
+      "text": "uh maybe I'll just try to send some"
+    },
+    {
+      "start": 553,
+      "text": "support and see what happens, you know?"
+    },
+    {
+      "start": 554,
+      "text": "So I I told him I I sent some"
+    },
+    {
+      "start": 556,
+      "text": "screenshots. I sent a detailed request"
+    },
+    {
+      "start": 558,
+      "text": "and I said, \"Hey, you know, this thing"
+    },
+    {
+      "start": 560,
+      "text": "is broken here. and if you could fix"
+    },
+    {
+      "start": 561,
+      "text": "this, this would really be helpful for"
+    },
+    {
+      "start": 562,
+      "text": "your Japanese users, right? And then"
+    },
+    {
+      "start": 564,
+      "text": "couple weeks go by and I pick it up"
+    },
+    {
+      "start": 566,
+      "text": "again and it's fixed. And I was like,"
+    },
+    {
+      "start": 568,
+      "text": "wow, this is pretty nice. I was I was"
+    },
+    {
+      "start": 570,
+      "text": "like, the tool is pretty cool, but I was"
+    },
+    {
+      "start": 571,
+      "text": "like, what was really really cool was"
+    },
+    {
+      "start": 573,
+      "text": "it's like, oh, I gave this feedback and"
+    },
+    {
+      "start": 574,
+      "text": "then they fix that. But also, I know"
+    },
+    {
+      "start": 576,
+      "text": "that like they're accepting feedback"
+    },
+    {
+      "start": 577,
+      "text": "from the community and the speed of that"
+    },
+    {
+      "start": 579,
+      "text": "iteration is is something that it gives"
+    },
+    {
+      "start": 581,
+      "text": "me confidence that um so I think like"
+    },
+    {
+      "start": 584,
+      "text": "changing tools is like an investment for"
+    },
+    {
+      "start": 585,
+      "text": "the whole team. That was kind of me"
+    },
+    {
+      "start": 587,
+      "text": "weighing the option. I was just like,"
+    },
+    {
+      "start": 588,
+      "text": "\"Okay, I'm really kind of investing in"
+    },
+    {
+      "start": 590,
+      "text": "this team and I'm going to tell my team"
+    },
+    {
+      "start": 592,
+      "text": "we should use this this product.\" So,"
+    },
+    {
+      "start": 593,
+      "text": "you joined Figma before the product"
+    },
+    {
+      "start": 595,
+      "text": "launch. How did you approach marketing"
+    },
+    {
+      "start": 598,
+      "text": "marketing a product that was still in"
+    },
+    {
+      "start": 600,
+      "text": "self mode? So, I was the first marketing"
+    },
+    {
+      "start": 601,
+      "text": "hire, but I was also the first just go"
+    },
+    {
+      "start": 603,
+      "text": "to market person. In the beginning, when"
+    },
+    {
+      "start": 605,
+      "text": "we didn't have a product, I would go"
+    },
+    {
+      "start": 607,
+      "text": "around and drive around PaloAlto, San"
+    },
+    {
+      "start": 609,
+      "text": "Francisco with Dylan, and we would just"
+    },
+    {
+      "start": 611,
+      "text": "pitch Figma to differenti. We made a"
+    },
+    {
+      "start": 614,
+      "text": "bunch of connections in different design"
+    },
+    {
+      "start": 615,
+      "text": "teams and we would just go there and we"
+    },
+    {
+      "start": 618,
+      "text": "we'd show them the product. And so a lot"
+    },
+    {
+      "start": 620,
+      "text": "of what I did in the early days was meet"
+    },
+    {
+      "start": 622,
+      "text": "these people, gather their feedback,"
+    },
+    {
+      "start": 625,
+      "text": "kind of like what Corey was saying and"
+    },
+    {
+      "start": 626,
+      "text": "in that more of a one-on-one setting and"
+    },
+    {
+      "start": 628,
+      "text": "hear what they thought about the tool."
+    },
+    {
+      "start": 629,
+      "text": "And then uh we were really trying to"
+    },
+    {
+      "start": 631,
+      "text": "understand okay when are we ready to go"
+    },
+    {
+      "start": 633,
+      "text": "at it stealth then launch la la la la la"
+    },
+    {
+      "start": 634,
+      "text": "la la la la la la la la la la la la la"
+    },
+    {
+      "start": 634,
+      "text": "la la la la la la la la la la la la la"
+    },
+    {
+      "start": 634,
+      "text": "la la la la la la la la la la la la la"
+    },
+    {
+      "start": 634,
+      "text": "la la la la la la la la la la la la la"
+    },
+    {
+      "start": 634,
+      "text": "la la launch the product and so a lot of"
+    },
+    {
+      "start": 636,
+      "text": "what I was doing was trying to"
+    },
+    {
+      "start": 638,
+      "text": "understand you know our teams ready to"
+    },
+    {
+      "start": 640,
+      "text": "adopt this and is the the tool good"
+    },
+    {
+      "start": 642,
+      "text": "enough to launch. I think it's such a"
+    },
+    {
+      "start": 644,
+      "text": "balance that you have to think about"
+    },
+    {
+      "start": 646,
+      "text": "where it's like, okay, we want to get"
+    },
+    {
+      "start": 648,
+      "text": "out of self and want to get in this this"
+    },
+    {
+      "start": 649,
+      "text": "people's hands, but if it's not good"
+    },
+    {
+      "start": 651,
+      "text": "enough, then it's also like, well, we're"
+    },
+    {
+      "start": 653,
+      "text": "going to lose our chance. You only get"
+    },
+    {
+      "start": 654,
+      "text": "one shot to launch. And like, what were"
+    },
+    {
+      "start": 657,
+      "text": "some of the factors that made that"
+    },
+    {
+      "start": 658,
+      "text": "decision? Yeah, it's hard, right? It's"
+    },
+    {
+      "start": 661,
+      "text": "such a a hard question for people"
+    },
+    {
+      "start": 663,
+      "text": "because you really do only get one"
+    },
+    {
+      "start": 665,
+      "text": "chance to launch the product and you"
+    },
+    {
+      "start": 667,
+      "text": "want to do it right and so you want it"
+    },
+    {
+      "start": 669,
+      "text": "to be good when people are all going in"
+    },
+    {
+      "start": 671,
+      "text": "and looking at the tool. You want them"
+    },
+    {
+      "start": 673,
+      "text": "to have a good experience. So that's on"
+    },
+    {
+      "start": 674,
+      "text": "one hand, but then on the other hand,"
+    },
+    {
+      "start": 676,
+      "text": "you don't want to wait too long, right?"
+    },
+    {
+      "start": 678,
+      "text": "Because the tool, the team had already"
+    },
+    {
+      "start": 679,
+      "text": "been building the tool for years before"
+    },
+    {
+      "start": 681,
+      "text": "I got there. You want to keep things"
+    },
+    {
+      "start": 682,
+      "text": "going. You want to start building with"
+    },
+    {
+      "start": 684,
+      "text": "people and getting their feedback. And"
+    },
+    {
+      "start": 686,
+      "text": "so it is a really hard balance. It's"
+    },
+    {
+      "start": 688,
+      "text": "definitely more of an art than a science"
+    },
+    {
+      "start": 690,
+      "text": "in terms of, you know, when to launch."
+    },
+    {
+      "start": 692,
+      "text": "And I remember I was sitting in this"
+    },
+    {
+      "start": 694,
+      "text": "meeting and someone literally took the"
+    },
+    {
+      "start": 696,
+      "text": "laptop out of Dylan's hands because they"
+    },
+    {
+      "start": 698,
+      "text": "wanted to play with it. I don't think"
+    },
+    {
+      "start": 699,
+      "text": "that they didn't mean to like didn't"
+    },
+    {
+      "start": 700,
+      "text": "take a laptop, but they were just like,"
+    },
+    {
+      "start": 701,
+      "text": "\"That's so cool. I have to try it.\" And"
+    },
+    {
+      "start": 704,
+      "text": "I think once they saw people starting to"
+    },
+    {
+      "start": 706,
+      "text": "do that, that was like, \"Okay, this is"
+    },
+    {
+      "start": 709,
+      "text": "this feels like it's kind of ready.\" One"
+    },
+    {
+      "start": 711,
+      "text": "of the biggest challenges that we had in"
+    },
+    {
+      "start": 713,
+      "text": "terms of deciding when to launch was"
+    },
+    {
+      "start": 716,
+      "text": "multiplayer wasn't actually done when we"
+    },
+    {
+      "start": 718,
+      "text": "launched Figma. It just was going to"
+    },
+    {
+      "start": 720,
+      "text": "take like another year for for"
+    },
+    {
+      "start": 722,
+      "text": "multiplayer to be done. And so that was"
+    },
+    {
+      "start": 724,
+      "text": "a really hard decision at the time where"
+    },
+    {
+      "start": 726,
+      "text": "it was like this is our most important"
+    },
+    {
+      "start": 728,
+      "text": "feature arguably and we know it's going"
+    },
+    {
+      "start": 730,
+      "text": "to take another year before it's done."
+    },
+    {
+      "start": 732,
+      "text": "And the decision that we had to make"
+    },
+    {
+      "start": 733,
+      "text": "was, you know, do we launch without"
+    },
+    {
+      "start": 735,
+      "text": "multiplayer or do we wait another year?"
+    },
+    {
+      "start": 738,
+      "text": "And we decided just to go for it and to"
+    },
+    {
+      "start": 740,
+      "text": "launch and to start getting feedback,"
+    },
+    {
+      "start": 742,
+      "text": "start getting in people's hands, keep it"
+    },
+    {
+      "start": 744,
+      "text": "in beta even though we knew it wasn't"
+    },
+    {
+      "start": 746,
+      "text": "finished. But that is such a hard"
+    },
+    {
+      "start": 747,
+      "text": "challenge, right? Like I think there'd"
+    },
+    {
+      "start": 749,
+      "text": "be a lot of good arguments on why you"
+    },
+    {
+      "start": 750,
+      "text": "should wait uh for the the core feature"
+    },
+    {
+      "start": 753,
+      "text": "to be done, but it definitely becomes"
+    },
+    {
+      "start": 754,
+      "text": "kind of more of an art than a science at"
+    },
+    {
+      "start": 756,
+      "text": "that point in terms of making that"
+    },
+    {
+      "start": 757,
+      "text": "decision cuz you also just got to keep"
+    },
+    {
+      "start": 758,
+      "text": "the momentum up too. Metrics are so"
+    },
+    {
+      "start": 760,
+      "text": "important, but I feel like you can't"
+    },
+    {
+      "start": 762,
+      "text": "really look at them that closely when"
+    },
+    {
+      "start": 764,
+      "text": "you're in a micro setting like that. You"
+    },
+    {
+      "start": 766,
+      "text": "kind of have to go on anecdotes, right?"
+    },
+    {
+      "start": 769,
+      "text": "Like we didn't have enough people to"
+    },
+    {
+      "start": 770,
+      "text": "like have these metrics dashboards and"
+    },
+    {
+      "start": 772,
+      "text": "be like look at the usage over time,"
+    },
+    {
+      "start": 774,
+      "text": "right? Like honestly, we were meeting"
+    },
+    {
+      "start": 777,
+      "text": "these teams and what we looked at was"
+    },
+    {
+      "start": 779,
+      "text": "like at at the beginning, can we get one"
+    },
+    {
+      "start": 780,
+      "text": "team to transfer full-time? And it"
+    },
+    {
+      "start": 783,
+      "text": "sounds so funny because it's like our"
+    },
+    {
+      "start": 784,
+      "text": "metric was like zero or one, right? It's"
+    },
+    {
+      "start": 787,
+      "text": "not like you're looking at these"
+    },
+    {
+      "start": 788,
+      "text": "dashboards. And that's why I feel like"
+    },
+    {
+      "start": 790,
+      "text": "sometimes when you're doing something"
+    },
+    {
+      "start": 792,
+      "text": "really early and you're like, I have to"
+    },
+    {
+      "start": 793,
+      "text": "10x this, I have to 100x this. I have to"
+    },
+    {
+      "start": 795,
+      "text": "thousandx this. you kind of have to go"
+    },
+    {
+      "start": 797,
+      "text": "more on intuition and more on feeling I"
+    },
+    {
+      "start": 800,
+      "text": "think and really believe that because"
+    },
+    {
+      "start": 801,
+      "text": "metrics just aren't going to get you the"
+    },
+    {
+      "start": 803,
+      "text": "answers that you're looking for. What"
+    },
+    {
+      "start": 805,
+      "text": "were your um team or your um plan or"
+    },
+    {
+      "start": 808,
+      "text": "strategy on building this community and"
+    },
+    {
+      "start": 811,
+      "text": "um how important was that at the time? I"
+    },
+    {
+      "start": 814,
+      "text": "wouldn't say in the beginnings we ever"
+    },
+    {
+      "start": 816,
+      "text": "set out to like have a communitydriven"
+    },
+    {
+      "start": 818,
+      "text": "strategy. Kind of to just take to"
+    },
+    {
+      "start": 820,
+      "text": "parallel Corey's story with what was"
+    },
+    {
+      "start": 822,
+      "text": "happening at Figma at the time. In the"
+    },
+    {
+      "start": 823,
+      "text": "early days of Figma, that little"
+    },
+    {
+      "start": 825,
+      "text": "question mark button that Cory was"
+    },
+    {
+      "start": 827,
+      "text": "talking about, uh we didn't really have"
+    },
+    {
+      "start": 829,
+      "text": "a full-time support team or it took a"
+    },
+    {
+      "start": 831,
+      "text": "while for us to do that. And so our"
+    },
+    {
+      "start": 832,
+      "text": "engineers would rotate and answer those"
+    },
+    {
+      "start": 834,
+      "text": "questions. And so it makes a lot of"
+    },
+    {
+      "start": 836,
+      "text": "sense that somebody reported a bug and"
+    },
+    {
+      "start": 839,
+      "text": "that Corey reported a bug and then one"
+    },
+    {
+      "start": 841,
+      "text": "of our engineers saw that and just fixed"
+    },
+    {
+      "start": 843,
+      "text": "it, right? Like that's just kind of what"
+    },
+    {
+      "start": 845,
+      "text": "happened. It was really all hands on"
+    },
+    {
+      "start": 846,
+      "text": "deck. And Dylan, our CEO, really"
+    },
+    {
+      "start": 848,
+      "text": "believed that we need to be as close to"
+    },
+    {
+      "start": 851,
+      "text": "the users of our product as possible."
+    },
+    {
+      "start": 853,
+      "text": "And so even even now that like up until"
+    },
+    {
+      "start": 855,
+      "text": "a long time ago or until recently if you"
+    },
+    {
+      "start": 858,
+      "text": "joined Figma you had to start spending"
+    },
+    {
+      "start": 860,
+      "text": "time answering support questions because"
+    },
+    {
+      "start": 863,
+      "text": "he wanted people to know and understand"
+    },
+    {
+      "start": 865,
+      "text": "what the problems were and be really"
+    },
+    {
+      "start": 866,
+      "text": "close to what that looked like. So"
+    },
+    {
+      "start": 868,
+      "text": "that's been integrated and woven into"
+    },
+    {
+      "start": 870,
+      "text": "who we are since the beginning. And"
+    },
+    {
+      "start": 873,
+      "text": "along with that it's really building the"
+    },
+    {
+      "start": 875,
+      "text": "product alongside of the users of the"
+    },
+    {
+      "start": 878,
+      "text": "product. It wasn't like we thought to"
+    },
+    {
+      "start": 880,
+      "text": "ourselves like let's have a"
+    },
+    {
+      "start": 881,
+      "text": "communitydriven strategy. It was just we"
+    },
+    {
+      "start": 884,
+      "text": "need to listen to our users and we need"
+    },
+    {
+      "start": 886,
+      "text": "to build a product that's going to be"
+    },
+    {
+      "start": 887,
+      "text": "really useful for them and they know"
+    },
+    {
+      "start": 890,
+      "text": "what their problems are more than we do"
+    },
+    {
+      "start": 892,
+      "text": "and we need to spend time with them and"
+    },
+    {
+      "start": 894,
+      "text": "and fix their problems. And there's"
+    },
+    {
+      "start": 895,
+      "text": "people like Corey, like Corey was one of"
+    },
+    {
+      "start": 897,
+      "text": "those people that put it went into the"
+    },
+    {
+      "start": 899,
+      "text": "chat, but there were thousands of other"
+    },
+    {
+      "start": 901,
+      "text": "Corey's. That idea of listening to"
+    },
+    {
+      "start": 903,
+      "text": "people and then having a personal"
+    },
+    {
+      "start": 905,
+      "text": "relationship, really becoming close with"
+    },
+    {
+      "start": 908,
+      "text": "them and then having them go spread"
+    },
+    {
+      "start": 911,
+      "text": "Figma to their company, to their"
+    },
+    {
+      "start": 913,
+      "text": "communities, to where they live. That's"
+    },
+    {
+      "start": 915,
+      "text": "just what we did at scale. And so it"
+    },
+    {
+      "start": 917,
+      "text": "sounds like pretty un unscalable, right?"
+    },
+    {
+      "start": 920,
+      "text": "Oh, you have your engineers sitting"
+    },
+    {
+      "start": 921,
+      "text": "there answering support tickets, fixing"
+    },
+    {
+      "start": 923,
+      "text": "bugs, like you can't do that forever."
+    },
+    {
+      "start": 926,
+      "text": "That doesn't scale. But actually, it"
+    },
+    {
+      "start": 928,
+      "text": "does scale because once we empowered"
+    },
+    {
+      "start": 931,
+      "text": "him, he can burn it his team. He grew a"
+    },
+    {
+      "start": 934,
+      "text": "community in Tokyo, right? Like that has"
+    },
+    {
+      "start": 936,
+      "text": "a huge amount of ramifications down the"
+    },
+    {
+      "start": 938,
+      "text": "line. Um, and so that's what that"
+    },
+    {
+      "start": 940,
+      "text": "strategy looks like when it when it does"
+    },
+    {
+      "start": 942,
+      "text": "scale, right? It's it's how those people"
+    },
+    {
+      "start": 945,
+      "text": "these people who you really build these"
+    },
+    {
+      "start": 946,
+      "text": "strong relationships with then spread"
+    },
+    {
+      "start": 948,
+      "text": "Figma for you. That's the whole crux of"
+    },
+    {
+      "start": 951,
+      "text": "a community tribute strategy. The advice"
+    },
+    {
+      "start": 953,
+      "text": "I would give is focus on a niche because"
+    },
+    {
+      "start": 955,
+      "text": "it's so hard to be too broad, especially"
+    },
+    {
+      "start": 958,
+      "text": "when you're new and you're early and you"
+    },
+    {
+      "start": 961,
+      "text": "don't have a brand yet and find out who"
+    },
+    {
+      "start": 963,
+      "text": "your users are and have somebody who"
+    },
+    {
+      "start": 965,
+      "text": "really understands them be the face of"
+    },
+    {
+      "start": 967,
+      "text": "face of what you're doing. We definitely"
+    },
+    {
+      "start": 969,
+      "text": "started with designers. you were very"
+    },
+    {
+      "start": 971,
+      "text": "focused. It had very specific niche of"
+    },
+    {
+      "start": 973,
+      "text": "designers. They wanted someone who"
+    },
+    {
+      "start": 975,
+      "text": "really understood their pain points,"
+    },
+    {
+      "start": 977,
+      "text": "what they were going through, what it"
+    },
+    {
+      "start": 978,
+      "text": "was like to design. And that's when for"
+    },
+    {
+      "start": 982,
+      "text": "me, I realized that immediately and I"
+    },
+    {
+      "start": 984,
+      "text": "was like, I don't know this. I can study"
+    },
+    {
+      "start": 986,
+      "text": "it. I can I could try and and learn my"
+    },
+    {
+      "start": 989,
+      "text": "best. I I have over the years, but at"
+    },
+    {
+      "start": 990,
+      "text": "the end of the day, I'm not a"
+    },
+    {
+      "start": 992,
+      "text": "classically trained designer. It's not"
+    },
+    {
+      "start": 994,
+      "text": "my my core expertise. And so that's when"
+    },
+    {
+      "start": 997,
+      "text": "I you know I decided I was like we have"
+    },
+    {
+      "start": 998,
+      "text": "to hire somebody who knows this really"
+    },
+    {
+      "start": 1000,
+      "text": "really really well and have them be the"
+    },
+    {
+      "start": 1002,
+      "text": "face of this and having them be the"
+    },
+    {
+      "start": 1003,
+      "text": "people who are talking with users who"
+    },
+    {
+      "start": 1006,
+      "text": "are creating content who are checking"
+    },
+    {
+      "start": 1008,
+      "text": "all of our marketing um who are helping"
+    },
+    {
+      "start": 1010,
+      "text": "us do things and that's that's when we"
+    },
+    {
+      "start": 1012,
+      "text": "decided to have a user from the"
+    },
+    {
+      "start": 1014,
+      "text": "community come join the team and that"
+    },
+    {
+      "start": 1016,
+      "text": "that function has scaled. How did you um"
+    },
+    {
+      "start": 1019,
+      "text": "come up with this idea of having like an"
+    },
+    {
+      "start": 1021,
+      "text": "offline um community and how did that um"
+    },
+    {
+      "start": 1025,
+      "text": "scale also? Totally. So in the early"
+    },
+    {
+      "start": 1027,
+      "text": "days uh we did meetups and so that's"
+    },
+    {
+      "start": 1029,
+      "text": "what it looked like at the beginning."
+    },
+    {
+      "start": 1030,
+      "text": "Some people were skeptics in the"
+    },
+    {
+      "start": 1032,
+      "text": "beginning, right? And maybe they'd want"
+    },
+    {
+      "start": 1034,
+      "text": "to go to meet other designers or they'd"
+    },
+    {
+      "start": 1035,
+      "text": "show up, but we realized how valuable it"
+    },
+    {
+      "start": 1038,
+      "text": "was to bring people together and to"
+    },
+    {
+      "start": 1039,
+      "text": "talk. And we just saw how amazing it was"
+    },
+    {
+      "start": 1042,
+      "text": "when people just learn best practices"
+    },
+    {
+      "start": 1044,
+      "text": "from each other um and just learn from"
+    },
+    {
+      "start": 1046,
+      "text": "being together. and we were able to"
+    },
+    {
+      "start": 1048,
+      "text": "build these one relationships, we could"
+    },
+    {
+      "start": 1050,
+      "text": "kind of overcome some of their concerns"
+    },
+    {
+      "start": 1052,
+      "text": "or talk them out or just kind of hear"
+    },
+    {
+      "start": 1054,
+      "text": "people out on why they were skeptics or"
+    },
+    {
+      "start": 1055,
+      "text": "why they weren't sure and how we'd have"
+    },
+    {
+      "start": 1058,
+      "text": "these conversations and it might be I"
+    },
+    {
+      "start": 1060,
+      "text": "remember one u Tom was in in Seattle,"
+    },
+    {
+      "start": 1062,
+      "text": "Tom, our first designer advocate was in"
+    },
+    {
+      "start": 1064,
+      "text": "Seattle and he was talking to somebody"
+    },
+    {
+      "start": 1066,
+      "text": "who at the time was a very big skeptic,"
+    },
+    {
+      "start": 1068,
+      "text": "right? Uh and then he kept talking to"
+    },
+    {
+      "start": 1070,
+      "text": "them, had these relationships, built"
+    },
+    {
+      "start": 1072,
+      "text": "this relationship with them. Turns out"
+    },
+    {
+      "start": 1074,
+      "text": "they were at Uber. Um, and that person"
+    },
+    {
+      "start": 1076,
+      "text": "then brought Figma to Uber, right? And"
+    },
+    {
+      "start": 1078,
+      "text": "we saw the power of how that process"
+    },
+    {
+      "start": 1080,
+      "text": "worked and we started growing just these"
+    },
+    {
+      "start": 1083,
+      "text": "people and and having these"
+    },
+    {
+      "start": 1084,
+      "text": "relationships. And then we had this"
+    },
+    {
+      "start": 1086,
+      "text": "thought of like, well, wait a minute,"
+    },
+    {
+      "start": 1088,
+      "text": "you know, we've been going to these"
+    },
+    {
+      "start": 1089,
+      "text": "different cities, these different"
+    },
+    {
+      "start": 1090,
+      "text": "places. What if we brought everyone"
+    },
+    {
+      "start": 1091,
+      "text": "together, right? And what what would"
+    },
+    {
+      "start": 1093,
+      "text": "that look like? And it was really funny."
+    },
+    {
+      "start": 1095,
+      "text": "I remember when we first had the idea,"
+    },
+    {
+      "start": 1097,
+      "text": "we're like, okay, how big should it be?"
+    },
+    {
+      "start": 1099,
+      "text": "And it sounds so funny and I laugh at it"
+    },
+    {
+      "start": 1101,
+      "text": "now. It was actually we thought we were"
+    },
+    {
+      "start": 1103,
+      "text": "going to be at 200 people and that was"
+    },
+    {
+      "start": 1105,
+      "text": "going to be the conference and we even"
+    },
+    {
+      "start": 1106,
+      "text": "booked a venue for 200 people that was"
+    },
+    {
+      "start": 1108,
+      "text": "the size and we launched the conference"
+    },
+    {
+      "start": 1110,
+      "text": "and in the first day we had so many"
+    },
+    {
+      "start": 1112,
+      "text": "registrations and people who wants to"
+    },
+    {
+      "start": 1115,
+      "text": "join that we're like okay we have to"
+    },
+    {
+      "start": 1117,
+      "text": "change the size of this thing because"
+    },
+    {
+      "start": 1118,
+      "text": "there's no way 200 people is going to"
+    },
+    {
+      "start": 1120,
+      "text": "work. Um and so expanded it and so the"
+    },
+    {
+      "start": 1122,
+      "text": "first config was a thousand people. We"
+    },
+    {
+      "start": 1124,
+      "text": "have all these relationships. People"
+    },
+    {
+      "start": 1126,
+      "text": "have these connections online and"
+    },
+    {
+      "start": 1127,
+      "text": "because of just the distributed nature"
+    },
+    {
+      "start": 1129,
+      "text": "and the global nature of design, people"
+    },
+    {
+      "start": 1130,
+      "text": "have been talking to each other on"
+    },
+    {
+      "start": 1132,
+      "text": "Twitter for so long. But then they all"
+    },
+    {
+      "start": 1134,
+      "text": "came together in person and it was just"
+    },
+    {
+      "start": 1136,
+      "text": "pure magic to see these people. I"
+    },
+    {
+      "start": 1138,
+      "text": "remember so many that the line the"
+    },
+    {
+      "start": 1140,
+      "text": "conversation was like, \"Oh, that's not"
+    },
+    {
+      "start": 1141,
+      "text": "what your avatar looks like on Twitter.\""
+    },
+    {
+      "start": 1143,
+      "text": "Because this there's a strong community"
+    },
+    {
+      "start": 1145,
+      "text": "that existed and that people were"
+    },
+    {
+      "start": 1147,
+      "text": "already meeting each other and talking"
+    },
+    {
+      "start": 1148,
+      "text": "that we've been doing from these"
+    },
+    {
+      "start": 1149,
+      "text": "meetups, but also just from the nature"
+    },
+    {
+      "start": 1151,
+      "text": "of design. designers have been talking"
+    },
+    {
+      "start": 1153,
+      "text": "and learning to each other regardless of"
+    },
+    {
+      "start": 1154,
+      "text": "BIGMA for so long and so bringing"
+    },
+    {
+      "start": 1157,
+      "text": "everybody together in person and having"
+    },
+    {
+      "start": 1159,
+      "text": "these relationships that were just"
+    },
+    {
+      "start": 1161,
+      "text": "online happen in real life was just so"
+    },
+    {
+      "start": 1163,
+      "text": "magical that we just knew we had to"
+    },
+    {
+      "start": 1165,
+      "text": "continue like so do you have any like"
+    },
+    {
+      "start": 1167,
+      "text": "advice on like building communities for"
+    },
+    {
+      "start": 1169,
+      "text": "early startups? Totally. I think the"
+    },
+    {
+      "start": 1171,
+      "text": "biggest thing is that sometimes in in"
+    },
+    {
+      "start": 1174,
+      "text": "you know especially for us in you know"
+    },
+    {
+      "start": 1176,
+      "text": "enterprise marketing or B2B marketing"
+    },
+    {
+      "start": 1178,
+      "text": "you think about people as companies and"
+    },
+    {
+      "start": 1180,
+      "text": "I think the biggest advice that I would"
+    },
+    {
+      "start": 1182,
+      "text": "give is like people are people right and"
+    },
+    {
+      "start": 1184,
+      "text": "I think you see that it can fit like"
+    },
+    {
+      "start": 1185,
+      "text": "you'll see people and you'll talk to"
+    },
+    {
+      "start": 1187,
+      "text": "them and you'll be chatting and then you"
+    },
+    {
+      "start": 1188,
+      "text": "look at their badge and you're like oh"
+    },
+    {
+      "start": 1190,
+      "text": "you work at a really big company oh that"
+    },
+    {
+      "start": 1191,
+      "text": "was a company that in theory you might"
+    },
+    {
+      "start": 1193,
+      "text": "want to like target for sales but that's"
+    },
+    {
+      "start": 1194,
+      "text": "not how we think of it we're just like"
+    },
+    {
+      "start": 1196,
+      "text": "you're just a person and you have"
+    },
+    {
+      "start": 1198,
+      "text": "interest like it sounds so basic right"
+    },
+    {
+      "start": 1200,
+      "text": "but like I think So often in marketing,"
+    },
+    {
+      "start": 1201,
+      "text": "we we split people into like you as a"
+    },
+    {
+      "start": 1204,
+      "text": "person at your desk and you as a person"
+    },
+    {
+      "start": 1206,
+      "text": "outside of that, whereas we try to think"
+    },
+    {
+      "start": 1208,
+      "text": "of people as one person and you can just"
+    },
+    {
+      "start": 1210,
+      "text": "you're yourself all the time. And sure,"
+    },
+    {
+      "start": 1212,
+      "text": "you happen to work at a company, but uh"
+    },
+    {
+      "start": 1214,
+      "text": "I think it's doing these things that"
+    },
+    {
+      "start": 1216,
+      "text": "don't scale and building these"
+    },
+    {
+      "start": 1218,
+      "text": "relationships one-on-one like like Gory"
+    },
+    {
+      "start": 1220,
+      "text": "and Gory's example and then those people"
+    },
+    {
+      "start": 1222,
+      "text": "bring other people and those then that's"
+    },
+    {
+      "start": 1224,
+      "text": "how word of mouth really spreads. So"
+    },
+    {
+      "start": 1226,
+      "text": "Figma is beyond just a product. It seems"
+    },
+    {
+      "start": 1230,
+      "text": "like it's a brand, it's a community. So,"
+    },
+    {
+      "start": 1233,
+      "text": "um, what are your advice on yeah, making"
+    },
+    {
+      "start": 1235,
+      "text": "a brand, you know, I think that the most"
+    },
+    {
+      "start": 1237,
+      "text": "important thing is to actually start"
+    },
+    {
+      "start": 1238,
+      "text": "with a product for us and that's like"
+    },
+    {
+      "start": 1241,
+      "text": "what productled growth looks like,"
+    },
+    {
+      "start": 1243,
+      "text": "right? And I I think that what we have"
+    },
+    {
+      "start": 1245,
+      "text": "as a brand really starts with a brave"
+    },
+    {
+      "start": 1249,
+      "text": "product by starting from the bottom up"
+    },
+    {
+      "start": 1251,
+      "text": "and saying like, okay, first we have a"
+    },
+    {
+      "start": 1252,
+      "text": "really strong product that's awesome."
+    },
+    {
+      "start": 1254,
+      "text": "We're improving it as we go. We're"
+    },
+    {
+      "start": 1257,
+      "text": "listening to feedback um as we're"
+    },
+    {
+      "start": 1259,
+      "text": "building it and building it with the"
+    },
+    {
+      "start": 1260,
+      "text": "community. And then second, we have you"
+    },
+    {
+      "start": 1263,
+      "text": "know these relationships with people and"
+    },
+    {
+      "start": 1265,
+      "text": "if those people love the product,"
+    },
+    {
+      "start": 1266,
+      "text": "they're spreading it to other people and"
+    },
+    {
+      "start": 1269,
+      "text": "that's that's growing over time of"
+    },
+    {
+      "start": 1271,
+      "text": "community of people. Then we can do it,"
+    },
+    {
+      "start": 1274,
+      "text": "right? And then we can say, okay, now we"
+    },
+    {
+      "start": 1278,
+      "text": "want to layer on top all these other"
+    },
+    {
+      "start": 1279,
+      "text": "things like a 10,000 person conference"
+    },
+    {
+      "start": 1281,
+      "text": "or like um you know all these beautiful"
+    },
+    {
+      "start": 1284,
+      "text": "visuals that we have. The story of Figma"
+    },
+    {
+      "start": 1287,
+      "text": "is not about ending at Figma. The story"
+    },
+    {
+      "start": 1289,
+      "text": "about Figma is where does Figma get in"
+    },
+    {
+      "start": 1291,
+      "text": "that person too. And in most cases, you"
+    },
+    {
+      "start": 1293,
+      "text": "know, people using Figma, their story is"
+    },
+    {
+      "start": 1295,
+      "text": "something like, you know, I just want to"
+    },
+    {
+      "start": 1297,
+      "text": "create great products. I want to enjoy"
+    },
+    {
+      "start": 1299,
+      "text": "the process and create that product"
+    },
+    {
+      "start": 1301,
+      "text": "together. So, the narrative that we're"
+    },
+    {
+      "start": 1303,
+      "text": "creating on the community side is often"
+    },
+    {
+      "start": 1304,
+      "text": "like, how do we just enable those people"
+    },
+    {
+      "start": 1306,
+      "text": "to get to where they want to go? Do you"
+    },
+    {
+      "start": 1308,
+      "text": "know where the name Pigma comes from?"
+    },
+    {
+      "start": 1309,
+      "text": "It's It would be great if you can"
+    },
+    {
+      "start": 1310,
+      "text": "explain it to us. Yeah, it's actually it"
+    },
+    {
+      "start": 1312,
+      "text": "comes from the idea of a figment of your"
+    },
+    {
+      "start": 1314,
+      "text": "imagination. And the initial vision of"
+    },
+    {
+      "start": 1316,
+      "text": "Fikba was uh to eliminate the gap"
+    },
+    {
+      "start": 1319,
+      "text": "between imagination and reality. Like"
+    },
+    {
+      "start": 1321,
+      "text": "that was that was the vision. And so"
+    },
+    {
+      "start": 1323,
+      "text": "they it kind of shifted for a while"
+    },
+    {
+      "start": 1325,
+      "text": "there cuz uh some people told him it was"
+    },
+    {
+      "start": 1327,
+      "text": "too ambitious. And so it was make design"
+    },
+    {
+      "start": 1329,
+      "text": "accessible is kind of where it went to."
+    },
+    {
+      "start": 1331,
+      "text": "But as we grow and as we continue to"
+    },
+    {
+      "start": 1332,
+      "text": "evolve it, it always comes back to that"
+    },
+    {
+      "start": 1335,
+      "text": "like how do you how can we get better at"
+    },
+    {
+      "start": 1337,
+      "text": "as a tool helping to make eliminate that"
+    },
+    {
+      "start": 1340,
+      "text": "gap um and make it so anybody can have"
+    },
+    {
+      "start": 1342,
+      "text": "what they're they have ideas in their"
+    },
+    {
+      "start": 1344,
+      "text": "head turn it into a product or turn it"
+    },
+    {
+      "start": 1346,
+      "text": "into something that a's world"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 694,
+  "timestamp": "2025-07-24T08:16:52.899Z"
+}

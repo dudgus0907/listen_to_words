@@ -1,0 +1,2228 @@
+1
+00:00:00,080 --> 00:00:04,279
+I think it would be foolish to believe
+
+2
+00:00:02,320 --> 00:00:06,120
+that if you're competing against
+
+3
+00:00:04,279 --> 00:00:07,720
+companies with thousands of employees
+
+4
+00:00:06,120 --> 00:00:09,360
+and hundreds of millions of billions in
+
+5
+00:00:07,720 --> 00:00:11,480
+revenue and you can just show up with
+
+6
+00:00:09,360 --> 00:00:13,679
+like a threers Founder team and after
+
+7
+00:00:11,480 --> 00:00:15,480
+like one year of work you're just better
+
+8
+00:00:13,679 --> 00:00:18,119
+right that's just not how it works right
+
+9
+00:00:15,480 --> 00:00:20,279
+you start out by not having very much of
+
+10
+00:00:18,119 --> 00:00:22,400
+a competitive Advantage other than you
+
+11
+00:00:20,279 --> 00:00:24,840
+the founders and what you can bring to
+
+12
+00:00:22,400 --> 00:00:27,000
+bear with a product for very small
+
+13
+00:00:24,840 --> 00:00:28,840
+specific Niche and so then over time
+
+14
+00:00:27,000 --> 00:00:31,960
+what was the initial Niche the smallest
+
+15
+00:00:28,840 --> 00:00:31,960
+Niche God man
+
+16
+00:00:35,160 --> 00:00:39,399
+hi my name is TA I'm a partner at altto
+
+17
+00:00:37,239 --> 00:00:41,920
+ventures we are very excited to have
+
+18
+00:00:39,399 --> 00:00:43,440
+Daniel Lang here from mango mint welcome
+
+19
+00:00:41,920 --> 00:00:44,760
+Daniel thanks for being here thanks so
+
+20
+00:00:43,440 --> 00:00:47,160
+much for having me I'm excited to be
+
+21
+00:00:44,760 --> 00:00:49,559
+here I'm Daniel Lang I'm co-founder and
+
+22
+00:00:47,160 --> 00:00:52,120
+CEO of mangement mangement is software
+
+23
+00:00:49,559 --> 00:00:54,199
+for salons and spas what that means is
+
+24
+00:00:52,120 --> 00:00:56,199
+that we provide an operating system that
+
+25
+00:00:54,199 --> 00:00:57,760
+allows Beauty and wellness businesses to
+
+26
+00:00:56,199 --> 00:01:00,280
+do everything from scheduling
+
+27
+00:00:57,760 --> 00:01:02,079
+appointments taking payments marketing
+
+28
+00:01:00,280 --> 00:01:03,680
+to clients all the way through to
+
+29
+00:01:02,079 --> 00:01:05,880
+Payment Processing actually we should
+
+30
+00:01:03,680 --> 00:01:08,640
+probably rewind a little bit to your
+
+31
+00:01:05,880 --> 00:01:10,920
+journey up to Mangan share us a little
+
+32
+00:01:08,640 --> 00:01:13,799
+bit of that Journey that you were on
+
+33
+00:01:10,920 --> 00:01:15,280
+sure so I grew up in Austria which is a
+
+34
+00:01:13,799 --> 00:01:17,240
+for those of you who don't know a very
+
+35
+00:01:15,280 --> 00:01:18,840
+peaceful quiet small country in the
+
+36
+00:01:17,240 --> 00:01:20,479
+heart of Europe know sometimes you hear
+
+37
+00:01:18,840 --> 00:01:22,200
+these stories of entrepreneurs that had
+
+38
+00:01:20,479 --> 00:01:23,720
+to overcome all of these obstacles and
+
+39
+00:01:22,200 --> 00:01:26,119
+challenges in their childhood I really
+
+40
+00:01:23,720 --> 00:01:28,320
+can't say that that was the case for me
+
+41
+00:01:26,119 --> 00:01:29,960
+but what I will say is that my dad had
+
+42
+00:01:28,320 --> 00:01:31,799
+like a small business it wasn't so much
+
+43
+00:01:29,960 --> 00:01:34,000
+much what he was doing it was more so
+
+44
+00:01:31,799 --> 00:01:36,320
+the fact that he ran his own business
+
+45
+00:01:34,000 --> 00:01:38,560
+and that that was a possibility that I
+
+46
+00:01:36,320 --> 00:01:40,320
+think opened my eyes to that being
+
+47
+00:01:38,560 --> 00:01:41,960
+something that you could in fact do and
+
+48
+00:01:40,320 --> 00:01:43,640
+then at the age of 12 I just fell in
+
+49
+00:01:41,960 --> 00:01:45,240
+love with programming started my first
+
+50
+00:01:43,640 --> 00:01:47,479
+real business with employees at the age
+
+51
+00:01:45,240 --> 00:01:49,880
+of 19 but at the same time being in
+
+52
+00:01:47,479 --> 00:01:51,520
+Austria it always felt somewhat limiting
+
+53
+00:01:49,880 --> 00:01:53,920
+because Austria and Europe for the most
+
+54
+00:01:51,520 --> 00:01:55,799
+part is not a place that is conducive to
+
+55
+00:01:53,920 --> 00:01:58,079
+entrepreneurialism taking risks and all
+
+56
+00:01:55,799 --> 00:02:00,640
+of that stuff so the first time I came
+
+57
+00:01:58,079 --> 00:02:02,640
+here to America it felt like wow this is
+
+58
+00:02:00,640 --> 00:02:04,759
+a totally different world I mean just
+
+59
+00:02:02,640 --> 00:02:06,680
+like in Austria failure is something
+
+60
+00:02:04,759 --> 00:02:08,239
+that has a big stigma attached to it
+
+61
+00:02:06,680 --> 00:02:10,039
+whereas here it's almost like embraced
+
+62
+00:02:08,239 --> 00:02:12,280
+it's not that people enjoy failing like
+
+63
+00:02:10,039 --> 00:02:14,879
+failing still sucks but it's something
+
+64
+00:02:12,280 --> 00:02:17,000
+where if you fail as an entrepreneur and
+
+65
+00:02:14,879 --> 00:02:18,840
+you give it your everything nobody is
+
+66
+00:02:17,000 --> 00:02:20,560
+going to judge you for that right like
+
+67
+00:02:18,840 --> 00:02:23,120
+in fact they might high five you so I
+
+68
+00:02:20,560 --> 00:02:25,000
+was like immediately struck by that knew
+
+69
+00:02:23,120 --> 00:02:26,720
+that this was the place that I wanted to
+
+70
+00:02:25,000 --> 00:02:29,040
+start my business share with us a little
+
+71
+00:02:26,720 --> 00:02:31,840
+bit of the the early days and in
+
+72
+00:02:29,040 --> 00:02:34,120
+particular what was the journey to
+
+73
+00:02:31,840 --> 00:02:36,519
+saying I must build software for the
+
+74
+00:02:34,120 --> 00:02:38,040
+salon and spa industry totally one of
+
+75
+00:02:36,519 --> 00:02:39,840
+the things that was really important to
+
+76
+00:02:38,040 --> 00:02:41,319
+us when we started mangement is to find
+
+77
+00:02:39,840 --> 00:02:43,920
+something that we could truly be
+
+78
+00:02:41,319 --> 00:02:45,480
+passionate about for 10 15 20 years for
+
+79
+00:02:43,920 --> 00:02:47,840
+like the length of the journey you know
+
+80
+00:02:45,480 --> 00:02:49,760
+we spent about a year just looking for
+
+81
+00:02:47,840 --> 00:02:51,879
+different things and staying open-minded
+
+82
+00:02:49,760 --> 00:02:53,920
+during that time my wife and I we went
+
+83
+00:02:51,879 --> 00:02:55,680
+on this road trip I think we visited 32
+
+84
+00:02:53,920 --> 00:02:57,239
+different states basically visiting all
+
+85
+00:02:55,680 --> 00:02:59,840
+of these different places the one thing
+
+86
+00:02:57,239 --> 00:03:01,920
+that I noticed is that every town in the
+
+87
+00:02:59,840 --> 00:03:03,440
+America no matter how big or small tends
+
+88
+00:03:01,920 --> 00:03:04,959
+to have a lot of these like small
+
+89
+00:03:03,440 --> 00:03:06,840
+businesses local businesses that are
+
+90
+00:03:04,959 --> 00:03:09,319
+literally everywhere and at the time
+
+91
+00:03:06,840 --> 00:03:11,519
+this is 2016 coming from La I was
+
+92
+00:03:09,319 --> 00:03:12,959
+already used to using Uber and you know
+
+93
+00:03:11,519 --> 00:03:14,840
+Uber Eats and all of that modern
+
+94
+00:03:12,959 --> 00:03:16,879
+technology and yet when it came to
+
+95
+00:03:14,840 --> 00:03:19,400
+booking a herir appointment or booking a
+
+96
+00:03:16,879 --> 00:03:21,080
+wellness treatment it felt like you know
+
+97
+00:03:19,400 --> 00:03:22,720
+it was back in the '90s where you had to
+
+98
+00:03:21,080 --> 00:03:25,239
+call at a certain time and they had to
+
+99
+00:03:22,720 --> 00:03:26,879
+get back to you so we started to notice
+
+100
+00:03:25,239 --> 00:03:29,239
+that there might be an opportunity so
+
+101
+00:03:26,879 --> 00:03:31,840
+you go on this tour you wrap it up with
+
+102
+00:03:29,239 --> 00:03:34,360
+your wife you come back to LA and then
+
+103
+00:03:31,840 --> 00:03:37,080
+you say what we the co-founders and I
+
+104
+00:03:34,360 --> 00:03:39,200
+made it a point to spend several months
+
+105
+00:03:37,080 --> 00:03:41,000
+going out and talking to who we thought
+
+106
+00:03:39,200 --> 00:03:43,040
+would be potential customers and we
+
+107
+00:03:41,000 --> 00:03:45,360
+basically said if we can't get to them
+
+108
+00:03:43,040 --> 00:03:48,360
+now why would we be able to later so how
+
+109
+00:03:45,360 --> 00:03:49,920
+many customers pre-product did you in
+
+110
+00:03:48,360 --> 00:03:52,920
+some sense convince to use your
+
+111
+00:03:49,920 --> 00:03:55,079
+non-existent product yeah so one of the
+
+112
+00:03:52,920 --> 00:03:57,640
+challenges that we identified early on
+
+113
+00:03:55,079 --> 00:03:59,400
+was that none of us Founders had any
+
+114
+00:03:57,640 --> 00:04:01,959
+industry experience so none of us had
+
+115
+00:03:59,400 --> 00:04:03,799
+worked in a salano or Spa before I mean
+
+116
+00:04:01,959 --> 00:04:05,200
+everyone's a client in the salano spa at
+
+117
+00:04:03,799 --> 00:04:06,959
+some point in their life but we didn't
+
+118
+00:04:05,200 --> 00:04:08,400
+really know how these businesses worked
+
+119
+00:04:06,959 --> 00:04:10,280
+in order to build a great product for
+
+120
+00:04:08,400 --> 00:04:11,720
+them we had to go way deeper than what
+
+121
+00:04:10,280 --> 00:04:13,720
+we could learn in like a 1-h hour
+
+122
+00:04:11,720 --> 00:04:16,840
+conversation with an owner to solve the
+
+123
+00:04:13,720 --> 00:04:19,519
+problem we decided to use a trojan horse
+
+124
+00:04:16,840 --> 00:04:21,079
+approach where essentially we offered
+
+125
+00:04:19,519 --> 00:04:23,000
+free marketing Services we would
+
+126
+00:04:21,079 --> 00:04:24,919
+literally just like walk into salons and
+
+127
+00:04:23,000 --> 00:04:27,360
+say hey we have nothing to sell but we
+
+128
+00:04:24,919 --> 00:04:29,320
+have a background in marketing and Tech
+
+129
+00:04:27,360 --> 00:04:31,960
+and we'd love to just you know hang
+
+130
+00:04:29,320 --> 00:04:33,600
+around here and in exchange we'll build
+
+131
+00:04:31,960 --> 00:04:35,440
+you a new website we'll do your email
+
+132
+00:04:33,600 --> 00:04:37,240
+marketing honestly in the beginning it
+
+133
+00:04:35,440 --> 00:04:38,320
+was actually hard to convince people
+
+134
+00:04:37,240 --> 00:04:41,199
+because they thought we were scamming
+
+135
+00:04:38,320 --> 00:04:43,800
+them and way but you keep trying and we
+
+136
+00:04:41,199 --> 00:04:45,720
+found our first 10 20 eventually 30
+
+137
+00:04:43,800 --> 00:04:47,560
+customers that way two years later in
+
+138
+00:04:45,720 --> 00:04:49,440
+fact we had a software product that
+
+139
+00:04:47,560 --> 00:04:51,120
+somebody would actually be like a normal
+
+140
+00:04:49,440 --> 00:04:53,000
+person would pay for without being
+
+141
+00:04:51,120 --> 00:04:55,960
+friends with us so so you studied the
+
+142
+00:04:53,000 --> 00:04:58,400
+market quite intensely you talk to
+
+143
+00:04:55,960 --> 00:05:00,400
+hundreds of salons before you go into
+
+144
+00:04:58,400 --> 00:05:03,160
+the space so you probably some really
+
+145
+00:05:00,400 --> 00:05:05,199
+deep conviction that this could work but
+
+146
+00:05:03,160 --> 00:05:08,160
+that doesn't mean that it will work and
+
+147
+00:05:05,199 --> 00:05:11,000
+so as you were selling the first few
+
+148
+00:05:08,160 --> 00:05:12,680
+dozen software tools to these customers
+
+149
+00:05:11,000 --> 00:05:14,800
+were there any points where you're like
+
+150
+00:05:12,680 --> 00:05:16,479
+maybe I'm wrong like maybe maybe this
+
+151
+00:05:14,800 --> 00:05:17,600
+wasn't a good idea I'm still thinking
+
+152
+00:05:16,479 --> 00:05:20,520
+that every
+
+153
+00:05:17,600 --> 00:05:22,440
+day no the space that we're in took us
+
+154
+00:05:20,520 --> 00:05:24,880
+about 2 years to build the first version
+
+155
+00:05:22,440 --> 00:05:26,400
+of the product and that version was very
+
+156
+00:05:24,880 --> 00:05:28,639
+incomplete as I mentioned it probably
+
+157
+00:05:26,400 --> 00:05:30,680
+took another at least 2 years maybe even
+
+158
+00:05:28,639 --> 00:05:33,120
+longer to have a product that I would
+
+159
+00:05:30,680 --> 00:05:35,199
+consider competitive and so that's a
+
+160
+00:05:33,120 --> 00:05:36,840
+very long time and you know in the early
+
+161
+00:05:35,199 --> 00:05:39,160
+days we didn't raise funding at the very
+
+162
+00:05:36,840 --> 00:05:40,919
+beginning so it meant that as Founders
+
+163
+00:05:39,160 --> 00:05:42,639
+we had to basically put in money
+
+164
+00:05:40,919 --> 00:05:44,600
+ourselves not only not getting paid we
+
+165
+00:05:42,639 --> 00:05:47,039
+put in money for several years I think
+
+166
+00:05:44,600 --> 00:05:49,039
+that is why you really need to focus on
+
+167
+00:05:47,039 --> 00:05:51,319
+alignment with your co-founders as well
+
+168
+00:05:49,039 --> 00:05:53,440
+and making sure that they also
+
+169
+00:05:51,319 --> 00:05:56,039
+understand the length of how long this
+
+170
+00:05:53,440 --> 00:05:58,319
+takes there's so much in my opinion bad
+
+171
+00:05:56,039 --> 00:06:00,720
+advice out there for Founders you know
+
+172
+00:05:58,319 --> 00:06:02,560
+the stories that sound really we oh we
+
+173
+00:06:00,720 --> 00:06:04,120
+met on a weekend hackathon and like you
+
+174
+00:06:02,560 --> 00:06:06,400
+know 3 weeks later we had shipped the
+
+175
+00:06:04,120 --> 00:06:09,319
+first version and 3 months later as AOA
+
+176
+00:06:06,400 --> 00:06:11,240
+invested what not right like yeah sure
+
+177
+00:06:09,319 --> 00:06:13,599
+that happens once every 20 years maybe
+
+178
+00:06:11,240 --> 00:06:15,080
+but like the reality for most Founders
+
+179
+00:06:13,599 --> 00:06:16,520
+is different right like the reality is
+
+180
+00:06:15,080 --> 00:06:18,560
+like in the early days you put in
+
+181
+00:06:16,520 --> 00:06:20,479
+everything you can and a lot of times
+
+182
+00:06:18,560 --> 00:06:22,479
+you know the initial idea is not the one
+
+183
+00:06:20,479 --> 00:06:24,720
+that works out and so you have to stay
+
+184
+00:06:22,479 --> 00:06:26,479
+Nimble and many cases pivot we were
+
+185
+00:06:24,720 --> 00:06:27,919
+fortunate in the sense that our thesis
+
+186
+00:06:26,479 --> 00:06:29,800
+didn't actually change but there are
+
+187
+00:06:27,919 --> 00:06:31,639
+definitely moments where you kind of to
+
+188
+00:06:29,800 --> 00:06:33,639
+convince yourself to just keep going
+
+189
+00:06:31,639 --> 00:06:36,680
+there were already a lot of players in
+
+190
+00:06:33,639 --> 00:06:38,720
+this category of Salon and Spa software
+
+191
+00:06:36,680 --> 00:06:41,560
+so it's a relatively mature market in
+
+192
+00:06:38,720 --> 00:06:44,720
+terms of software penetration yet you
+
+193
+00:06:41,560 --> 00:06:47,759
+found there to be a need for mango mint
+
+194
+00:06:44,720 --> 00:06:50,680
+to exist and flourish so how would you
+
+195
+00:06:47,759 --> 00:06:53,280
+characterize the fundamental competitive
+
+196
+00:06:50,680 --> 00:06:54,759
+advantage that you have in mango mint
+
+197
+00:06:53,280 --> 00:06:57,080
+yeah it's interesting cuz you know
+
+198
+00:06:54,759 --> 00:06:58,960
+having started other businesses before
+
+199
+00:06:57,080 --> 00:07:01,120
+and been around Founders you make a
+
+200
+00:06:58,960 --> 00:07:04,120
+choice or on like what kind of risk you
+
+201
+00:07:01,120 --> 00:07:06,720
+want to take and a lot of Founders take
+
+202
+00:07:04,120 --> 00:07:08,560
+Market risk where they have some great
+
+203
+00:07:06,720 --> 00:07:10,319
+technology to have an idea but it's
+
+204
+00:07:08,560 --> 00:07:12,960
+unclear whether there would be a market
+
+205
+00:07:10,319 --> 00:07:15,840
+for it we did not want to take that risk
+
+206
+00:07:12,960 --> 00:07:18,440
+we intentionally chose a market that had
+
+207
+00:07:15,840 --> 00:07:20,400
+a lot of incumbents already we saw that
+
+208
+00:07:18,440 --> 00:07:22,319
+as a positive characteristic about the
+
+209
+00:07:20,400 --> 00:07:24,599
+market rather than a negative one a lot
+
+210
+00:07:22,319 --> 00:07:26,199
+of times you know when you talk to folks
+
+211
+00:07:24,599 --> 00:07:28,520
+and you tell them the idea they're like
+
+212
+00:07:26,199 --> 00:07:30,720
+wait but doesn't this already exist like
+
+213
+00:07:28,520 --> 00:07:32,120
+yes that's the point it exists and
+
+214
+00:07:30,720 --> 00:07:33,680
+they're doing well and there's many
+
+215
+00:07:32,120 --> 00:07:35,680
+companies that are making lots of money
+
+216
+00:07:33,680 --> 00:07:38,440
+that's a good thing because then it
+
+217
+00:07:35,680 --> 00:07:41,639
+allows you to focus on strategy and
+
+218
+00:07:38,440 --> 00:07:44,000
+differentiation and how you can carve
+
+219
+00:07:41,639 --> 00:07:46,120
+out initially like a wedge and then over
+
+220
+00:07:44,000 --> 00:07:48,360
+time grow that wedge into a real
+
+221
+00:07:46,120 --> 00:07:50,360
+competitive strength I think it would be
+
+222
+00:07:48,360 --> 00:07:52,319
+foolish to believe that if you're
+
+223
+00:07:50,360 --> 00:07:54,120
+competing against companies with
+
+224
+00:07:52,319 --> 00:07:55,800
+thousands of employees and hundreds of
+
+225
+00:07:54,120 --> 00:07:57,280
+millions of billions in Revenue that you
+
+226
+00:07:55,800 --> 00:07:59,159
+can just show up with like a three
+
+227
+00:07:57,280 --> 00:08:01,479
+person founder team and after like one
+
+228
+00:07:59,159 --> 00:08:02,960
+year work you're just better right
+
+229
+00:08:01,479 --> 00:08:04,840
+that's just not how it works right so
+
+230
+00:08:02,960 --> 00:08:06,280
+you have to really be smart about okay
+
+231
+00:08:04,840 --> 00:08:08,080
+better for who right and like you know
+
+232
+00:08:06,280 --> 00:08:10,479
+probably start with a very small group
+
+233
+00:08:08,080 --> 00:08:12,879
+that's what we did and so you start out
+
+234
+00:08:10,479 --> 00:08:15,440
+by not having very much of a competitive
+
+235
+00:08:12,879 --> 00:08:17,520
+Advantage other than you the founders
+
+236
+00:08:15,440 --> 00:08:20,759
+and what you can bring to bear with a
+
+237
+00:08:17,520 --> 00:08:22,400
+product for a very small specific Niche
+
+238
+00:08:20,759 --> 00:08:24,759
+and so then over time what was the
+
+239
+00:08:22,400 --> 00:08:26,479
+initial Niche the smallest Niche it
+
+240
+00:08:24,759 --> 00:08:28,240
+wasn't actually like a a niche in terms
+
+241
+00:08:26,479 --> 00:08:30,440
+of like segmentation of the market it
+
+242
+00:08:28,240 --> 00:08:32,800
+was a niche more so around what people
+
+243
+00:08:30,440 --> 00:08:34,599
+wanted from it and so for example when
+
+244
+00:08:32,800 --> 00:08:36,839
+we launched we did not have Payment
+
+245
+00:08:34,599 --> 00:08:39,080
+Processing we did not have reporting we
+
+246
+00:08:36,839 --> 00:08:40,519
+did not have a Shopify integration so if
+
+247
+00:08:39,080 --> 00:08:42,399
+any of those things were important to
+
+248
+00:08:40,519 --> 00:08:45,240
+you we would not be a good solution for
+
+249
+00:08:42,399 --> 00:08:47,360
+you but what we did have was a calendar
+
+250
+00:08:45,240 --> 00:08:49,880
+that beautifully designed fast
+
+251
+00:08:47,360 --> 00:08:52,000
+interfaces intuitive I feel like a lot
+
+252
+00:08:49,880 --> 00:08:53,880
+of people who don't have a plan don't
+
+253
+00:08:52,000 --> 00:08:56,200
+have a strategy make the mistake that
+
+254
+00:08:53,880 --> 00:08:58,200
+they say yes to everything and it
+
+255
+00:08:56,200 --> 00:09:00,240
+dilutes them so much that you can't
+
+256
+00:08:58,200 --> 00:09:01,959
+really tell after a while what they're
+
+257
+00:09:00,240 --> 00:09:03,519
+actually good for and so I feel like you
+
+258
+00:09:01,959 --> 00:09:06,440
+know one of the things that we've always
+
+259
+00:09:03,519 --> 00:09:08,920
+done well is being very clear who is our
+
+260
+00:09:06,440 --> 00:09:10,680
+ICP who are we for who are we not for
+
+261
+00:09:08,920 --> 00:09:12,920
+what are we willing to say yes to and
+
+262
+00:09:10,680 --> 00:09:15,040
+what are we willing to say no to and
+
+263
+00:09:12,920 --> 00:09:17,320
+it's actually hard because when you have
+
+264
+00:09:15,040 --> 00:09:18,640
+somebody knock on your door and wave a
+
+265
+00:09:17,320 --> 00:09:20,519
+lot of money in front of your face and
+
+266
+00:09:18,640 --> 00:09:22,399
+say hey I need this thing can you please
+
+267
+00:09:20,519 --> 00:09:23,880
+build it for me it's very tempting
+
+268
+00:09:22,399 --> 00:09:25,800
+especially when you don't have a lot of
+
+269
+00:09:23,880 --> 00:09:27,800
+Revenue yet and you know also don't have
+
+270
+00:09:25,800 --> 00:09:29,519
+funding but it's those moments when I
+
+271
+00:09:27,800 --> 00:09:31,360
+think it really matters to be clear
+
+272
+00:09:29,519 --> 00:09:33,480
+about what your strategy is so that you
+
+273
+00:09:31,360 --> 00:09:36,600
+have the permission to say no in those
+
+274
+00:09:33,480 --> 00:09:38,959
+moments what were the most painful NOS
+
+275
+00:09:36,600 --> 00:09:40,959
+you've said today oh man usually the
+
+276
+00:09:38,959 --> 00:09:43,160
+ones where somebody shows up and says
+
+277
+00:09:40,959 --> 00:09:44,800
+hey I got 70 locations we love your
+
+278
+00:09:43,160 --> 00:09:47,240
+product we've already used it we've
+
+279
+00:09:44,800 --> 00:09:49,760
+already done the troll and we just need
+
+280
+00:09:47,240 --> 00:09:52,040
+this one little extra button or this one
+
+281
+00:09:49,760 --> 00:09:53,600
+little extra report or something can you
+
+282
+00:09:52,040 --> 00:09:55,120
+can you please build it and we'll be a
+
+283
+00:09:53,600 --> 00:09:57,200
+customer those are the moments where
+
+284
+00:09:55,120 --> 00:09:58,959
+it's really difficult to say no but so
+
+285
+00:09:57,200 --> 00:10:01,279
+far we've managed to do that uh but
+
+286
+00:09:58,959 --> 00:10:03,360
+certainly not with without like you know
+
+287
+00:10:01,279 --> 00:10:06,160
+feeling wow like a man that would have
+
+288
+00:10:03,360 --> 00:10:07,600
+been nice actually right right this is a
+
+289
+00:10:06,160 --> 00:10:10,079
+question from one of your close
+
+290
+00:10:07,600 --> 00:10:12,680
+colleagues Daniel has exceptional
+
+291
+00:10:10,079 --> 00:10:14,959
+intuition for building a great product
+
+292
+00:10:12,680 --> 00:10:17,440
+how would you describe your personal
+
+293
+00:10:14,959 --> 00:10:19,720
+philosophy of what it means to build
+
+294
+00:10:17,440 --> 00:10:21,680
+great product I love the question
+
+295
+00:10:19,720 --> 00:10:24,120
+because intuition is such a thing that
+
+296
+00:10:21,680 --> 00:10:25,680
+is underappreciated in traditional
+
+297
+00:10:24,120 --> 00:10:27,560
+product management for those of you who
+
+298
+00:10:25,680 --> 00:10:29,839
+don't know product management is a lot
+
+299
+00:10:27,560 --> 00:10:31,440
+of like lot about prioritization
+
+300
+00:10:29,839 --> 00:10:33,360
+which features do you build how do you
+
+301
+00:10:31,440 --> 00:10:35,079
+weigh them there's all kinds of systems
+
+302
+00:10:33,360 --> 00:10:37,279
+that you can use you can assign points
+
+303
+00:10:35,079 --> 00:10:39,240
+and impact scores and whatnot right and
+
+304
+00:10:37,279 --> 00:10:41,959
+what ends up happening is you end up
+
+305
+00:10:39,240 --> 00:10:45,519
+with unremarkable products because when
+
+306
+00:10:41,959 --> 00:10:48,160
+you apply such a rigid system to the way
+
+307
+00:10:45,519 --> 00:10:50,519
+you build product you end up optimizing
+
+308
+00:10:48,160 --> 00:10:52,320
+for a lot of boring stuff I think the
+
+309
+00:10:50,519 --> 00:10:54,880
+most exciting products the ones that
+
+310
+00:10:52,320 --> 00:10:57,560
+really like inspire people make people
+
+311
+00:10:54,880 --> 00:10:59,800
+truly feel love for a product are the
+
+312
+00:10:57,560 --> 00:11:02,279
+ones that have intuition in then where
+
+313
+00:10:59,800 --> 00:11:04,440
+somebody had a feeling that something
+
+314
+00:11:02,279 --> 00:11:06,800
+was a good idea and went with that gut
+
+315
+00:11:04,440 --> 00:11:08,560
+instinct that intuition if you call it
+
+316
+00:11:06,800 --> 00:11:10,320
+so now the question becomes what does it
+
+317
+00:11:08,560 --> 00:11:12,519
+take to have intuition and I think it's
+
+318
+00:11:10,320 --> 00:11:14,200
+with many things in life where to
+
+319
+00:11:12,519 --> 00:11:16,120
+develop intuition for anything you just
+
+320
+00:11:14,200 --> 00:11:17,920
+got to put in the Reps you just got to
+
+321
+00:11:16,120 --> 00:11:20,079
+see a lot right so if you want to be a
+
+322
+00:11:17,920 --> 00:11:21,839
+product leader you have to try a lot of
+
+323
+00:11:20,079 --> 00:11:23,839
+products you have to be in the products
+
+324
+00:11:21,839 --> 00:11:26,480
+you have to be willing to try every
+
+325
+00:11:23,839 --> 00:11:27,959
+product and analyze it and form an
+
+326
+00:11:26,480 --> 00:11:29,760
+opinion what do you like about it what
+
+327
+00:11:27,959 --> 00:11:31,440
+do you not like about it why is it good
+
+328
+00:11:29,760 --> 00:11:33,920
+why does a product make you angry why
+
+329
+00:11:31,440 --> 00:11:35,120
+does a product make you excited what are
+
+330
+00:11:33,920 --> 00:11:36,839
+those like you know things that are
+
+331
+00:11:35,120 --> 00:11:39,279
+going on and a lot of times it's not
+
+332
+00:11:36,839 --> 00:11:41,000
+stuff that you can perfectly capture in
+
+333
+00:11:39,279 --> 00:11:42,839
+like spreadsheets like it's like the
+
+334
+00:11:41,000 --> 00:11:44,440
+little things right and that's what I
+
+335
+00:11:42,839 --> 00:11:47,639
+mean with intuition right like you need
+
+336
+00:11:44,440 --> 00:11:50,040
+to see a lot of products try smell taste
+
+337
+00:11:47,639 --> 00:11:52,079
+products to be able to tell when a
+
+338
+00:11:50,040 --> 00:11:54,560
+product is good and then also be able to
+
+339
+00:11:52,079 --> 00:11:57,279
+judge whether an idea or a feature is
+
+340
+00:11:54,560 --> 00:11:59,519
+good and I'd much rather make an
+
+341
+00:11:57,279 --> 00:12:02,040
+opinionated decision and be wrong about
+
+342
+00:11:59,519 --> 00:12:03,920
+it then crowdsourcing these decisions
+
+343
+00:12:02,040 --> 00:12:05,399
+and then always making the safe decision
+
+344
+00:12:03,920 --> 00:12:07,760
+so I I believe like you know being
+
+345
+00:12:05,399 --> 00:12:09,440
+opinionated having a philosophy with
+
+346
+00:12:07,760 --> 00:12:10,880
+what your product should be is very
+
+347
+00:12:09,440 --> 00:12:12,720
+important to building a product that
+
+348
+00:12:10,880 --> 00:12:14,600
+people at will really love at the end of
+
+349
+00:12:12,720 --> 00:12:17,040
+the day are you still involved in
+
+350
+00:12:14,600 --> 00:12:19,639
+product at the stage very much so do you
+
+351
+00:12:17,040 --> 00:12:21,880
+feel like you have to stay involved
+
+352
+00:12:19,639 --> 00:12:24,240
+there for a while or is there a point
+
+353
+00:12:21,880 --> 00:12:27,399
+where you think the system has to be set
+
+354
+00:12:24,240 --> 00:12:29,399
+up such that the PMS or product leaders
+
+355
+00:12:27,399 --> 00:12:31,120
+have the uh empowerment to make their
+
+356
+00:12:29,399 --> 00:12:32,560
+own decisions the short answer is yes I
+
+357
+00:12:31,120 --> 00:12:34,680
+think it will always have to be involved
+
+358
+00:12:32,560 --> 00:12:36,959
+I think it's actually crazy to think
+
+359
+00:12:34,680 --> 00:12:39,000
+that the CEO should not be involved in
+
+360
+00:12:36,959 --> 00:12:41,959
+product I mean product is literally what
+
+361
+00:12:39,000 --> 00:12:44,120
+you're selling and it's in some ways the
+
+362
+00:12:41,959 --> 00:12:46,120
+most important thing about your business
+
+363
+00:12:44,120 --> 00:12:48,560
+so how could you not be intimately
+
+364
+00:12:46,120 --> 00:12:51,040
+involved as a CEO that's the way I see
+
+365
+00:12:48,560 --> 00:12:52,320
+it now that being said you don't want to
+
+366
+00:12:51,040 --> 00:12:54,360
+create an environment where you
+
+367
+00:12:52,320 --> 00:12:56,440
+micromanage everything of course right
+
+368
+00:12:54,360 --> 00:12:58,680
+so you want to put in place people who
+
+369
+00:12:56,440 --> 00:13:00,399
+are able to act with conviction
+
+370
+00:12:58,680 --> 00:13:03,120
+themselves right but I think that's
+
+371
+00:13:00,399 --> 00:13:04,839
+different from letting them completely
+
+372
+00:13:03,120 --> 00:13:06,680
+decide what is getting built and not
+
+373
+00:13:04,839 --> 00:13:08,440
+being aware of it I think it is very
+
+374
+00:13:06,680 --> 00:13:10,440
+important to stay plugged in to have
+
+375
+00:13:08,440 --> 00:13:12,600
+that sort of cohesive vision for where
+
+376
+00:13:10,440 --> 00:13:15,240
+the product is going and keep doing that
+
+377
+00:13:12,600 --> 00:13:18,000
+I also believe that the way software is
+
+378
+00:13:15,240 --> 00:13:20,199
+built in many companies is not conducive
+
+379
+00:13:18,000 --> 00:13:22,120
+to great product outcomes and what I
+
+380
+00:13:20,199 --> 00:13:24,959
+mean by that is a lot of times you know
+
+381
+00:13:22,120 --> 00:13:27,040
+a PM product manager comes up with a
+
+382
+00:13:24,959 --> 00:13:29,600
+feature they spec it out they work with
+
+383
+00:13:27,040 --> 00:13:31,760
+design to create like a UI design sign
+
+384
+00:13:29,600 --> 00:13:33,279
+and then they hand it off to engineering
+
+385
+00:13:31,760 --> 00:13:35,199
+and then engineering builds something it
+
+386
+00:13:33,279 --> 00:13:36,760
+comes back there's some Q&A maybe some
+
+387
+00:13:35,199 --> 00:13:39,440
+back and forth but then it gets shipped
+
+388
+00:13:36,760 --> 00:13:41,560
+right we fundamentally believe that this
+
+389
+00:13:39,440 --> 00:13:42,839
+is not a good approach to building great
+
+390
+00:13:41,560 --> 00:13:44,680
+great products I think you can actually
+
+391
+00:13:42,839 --> 00:13:47,440
+build really decent products with it but
+
+392
+00:13:44,680 --> 00:13:49,120
+if you truly aspire to build the world's
+
+393
+00:13:47,440 --> 00:13:50,680
+best software you have to do it
+
+394
+00:13:49,120 --> 00:13:53,079
+differently you have to bring the
+
+395
+00:13:50,680 --> 00:13:54,920
+engineers the ones that are building the
+
+396
+00:13:53,079 --> 00:13:56,880
+codes that the ones that are living in
+
+397
+00:13:54,920 --> 00:13:59,160
+the code base into the mix and they have
+
+398
+00:13:56,880 --> 00:14:00,639
+to understand why it is they building
+
+399
+00:13:59,160 --> 00:14:02,839
+what they are building they have to
+
+400
+00:14:00,639 --> 00:14:04,959
+understand the customer and so many
+
+401
+00:14:02,839 --> 00:14:06,600
+times when they make decisions the
+
+402
+00:14:04,959 --> 00:14:08,360
+little of things they will spot
+
+403
+00:14:06,600 --> 00:14:10,360
+opportunities that a product manager
+
+404
+00:14:08,360 --> 00:14:12,040
+could never identify so it's really
+
+405
+00:14:10,360 --> 00:14:13,680
+important that you bring them on board
+
+406
+00:14:12,040 --> 00:14:15,519
+and some companies call it product
+
+407
+00:14:13,680 --> 00:14:17,199
+Engineers I think that's just like a
+
+408
+00:14:15,519 --> 00:14:19,959
+title thing but at the end of the day it
+
+409
+00:14:17,199 --> 00:14:21,800
+means that the product manager is not
+
+410
+00:14:19,959 --> 00:14:23,800
+the owner of the product they're not
+
+411
+00:14:21,800 --> 00:14:25,639
+dictating what gets built and how and
+
+412
+00:14:23,800 --> 00:14:27,720
+all the specs they're more like a
+
+413
+00:14:25,639 --> 00:14:29,800
+research function that is there to
+
+414
+00:14:27,720 --> 00:14:31,880
+assist the product development which
+
+415
+00:14:29,800 --> 00:14:33,800
+happens with engineers and designers and
+
+416
+00:14:31,880 --> 00:14:36,320
+the product manager informs that by
+
+417
+00:14:33,800 --> 00:14:38,399
+providing insights and perspective from
+
+418
+00:14:36,320 --> 00:14:40,079
+talking to customers and the market and
+
+419
+00:14:38,399 --> 00:14:42,279
+competitors and all of that stuff but
+
+420
+00:14:40,079 --> 00:14:44,120
+they are not like the mini CEO as
+
+421
+00:14:42,279 --> 00:14:45,880
+they're sometimes called for a feature
+
+422
+00:14:44,120 --> 00:14:47,680
+or a product they're more in like this
+
+423
+00:14:45,880 --> 00:14:50,160
+research and assistance role so in the
+
+424
+00:14:47,680 --> 00:14:52,199
+early days you bootstrapped you figured
+
+425
+00:14:50,160 --> 00:14:54,079
+out ways to earn some marketing dollars
+
+426
+00:14:52,199 --> 00:14:55,959
+here and there and you tged along and at
+
+427
+00:14:54,079 --> 00:14:58,440
+a certain point you decided to raise
+
+428
+00:14:55,959 --> 00:15:00,279
+some Capital so what was that moment
+
+429
+00:14:58,440 --> 00:15:02,320
+when you and your your co-founder said
+
+430
+00:15:00,279 --> 00:15:04,079
+let's go talk to some fec's I think it
+
+431
+00:15:02,320 --> 00:15:06,440
+was always obvious for us from the
+
+432
+00:15:04,079 --> 00:15:08,199
+beginning that the vision was so big
+
+433
+00:15:06,440 --> 00:15:09,600
+that at some point along the journey we
+
+434
+00:15:08,199 --> 00:15:11,480
+would have to bring in some outside
+
+435
+00:15:09,600 --> 00:15:14,040
+Capital to you know just like make the
+
+436
+00:15:11,480 --> 00:15:15,639
+necessary Investments to hire the team
+
+437
+00:15:14,040 --> 00:15:17,360
+build the product and do all of that
+
+438
+00:15:15,639 --> 00:15:18,880
+stuff so it wasn't so much that we were
+
+439
+00:15:17,360 --> 00:15:20,600
+trying to figure out should we raise or
+
+440
+00:15:18,880 --> 00:15:22,360
+not it was more like okay when do we
+
+441
+00:15:20,600 --> 00:15:24,720
+feel like you know there's enough there
+
+442
+00:15:22,360 --> 00:15:27,040
+that we feel comfortable taking someone
+
+443
+00:15:24,720 --> 00:15:28,480
+else's money it's a big responsibility
+
+444
+00:15:27,040 --> 00:15:30,160
+you know if you take someone else's
+
+445
+00:15:28,480 --> 00:15:31,759
+money and beginning it's like you know
+
+446
+00:15:30,160 --> 00:15:34,240
+they say family friends and fools right
+
+447
+00:15:31,759 --> 00:15:36,199
+for a reason uh a lot of times they lose
+
+448
+00:15:34,240 --> 00:15:38,480
+the money right and we just wanted to
+
+449
+00:15:36,199 --> 00:15:40,759
+make sure that we felt really good about
+
+450
+00:15:38,480 --> 00:15:43,120
+it before we did that and did not lose
+
+451
+00:15:40,759 --> 00:15:45,560
+the money frankly what was the early
+
+452
+00:15:43,120 --> 00:15:47,360
+iteration of those pitch meetings like
+
+453
+00:15:45,560 --> 00:15:49,519
+what was the feedback I'm sure you
+
+454
+00:15:47,360 --> 00:15:51,600
+remember some of the NOS that you heard
+
+455
+00:15:49,519 --> 00:15:53,759
+like what was that like I mean it sucks
+
+456
+00:15:51,600 --> 00:15:55,759
+right like you know fundraising as an
+
+457
+00:15:53,759 --> 00:15:57,480
+early stage it's funny because in the
+
+458
+00:15:55,759 --> 00:15:59,720
+beginning when you start out doing your
+
+459
+00:15:57,480 --> 00:16:01,880
+pre-seed your seat round man it's such a
+
+460
+00:15:59,720 --> 00:16:03,720
+grind right like as a Founder unless you
+
+461
+00:16:01,880 --> 00:16:05,519
+have some prior background unless you
+
+462
+00:16:03,720 --> 00:16:07,519
+already are super connected and know
+
+463
+00:16:05,519 --> 00:16:09,519
+everybody in the industry if that's not
+
+464
+00:16:07,519 --> 00:16:11,319
+you then chances are it's not going to
+
+465
+00:16:09,519 --> 00:16:13,279
+be a fun experience it's just not how it
+
+466
+00:16:11,319 --> 00:16:15,480
+goes right even like you know getting
+
+467
+00:16:13,279 --> 00:16:17,680
+into a meeting is difficult in the
+
+468
+00:16:15,480 --> 00:16:19,319
+beginning and then later once the
+
+469
+00:16:17,680 --> 00:16:21,120
+business starts to take off a little bit
+
+470
+00:16:19,319 --> 00:16:23,160
+there's this interesting moment where it
+
+471
+00:16:21,120 --> 00:16:24,839
+completely shifts like all of a sudden
+
+472
+00:16:23,160 --> 00:16:25,959
+like you know the VCS and the investors
+
+473
+00:16:24,839 --> 00:16:27,600
+are the ones that are trying to get a
+
+474
+00:16:25,959 --> 00:16:28,920
+meeting with you and now you are in the
+
+475
+00:16:27,600 --> 00:16:30,600
+position where there's like way too many
+
+476
+00:16:28,920 --> 00:16:32,040
+many emails coming in and you're trying
+
+477
+00:16:30,600 --> 00:16:34,040
+to figure out like how to spend your
+
+478
+00:16:32,040 --> 00:16:36,120
+time so you actually start to appreciate
+
+479
+00:16:34,040 --> 00:16:38,360
+what it was like for the investors so
+
+480
+00:16:36,120 --> 00:16:40,480
+now you're in the driver's seat you can
+
+481
+00:16:38,360 --> 00:16:42,160
+make some decisions with all these VCS
+
+482
+00:16:40,480 --> 00:16:43,880
+knocking on your doors how did you go
+
+483
+00:16:42,160 --> 00:16:46,279
+about that process like what did you
+
+484
+00:16:43,880 --> 00:16:48,120
+optimize for and ultimately how did you
+
+485
+00:16:46,279 --> 00:16:50,360
+pick the right type of Partners to work
+
+486
+00:16:48,120 --> 00:16:53,839
+with over time you know for the series a
+
+487
+00:16:50,360 --> 00:16:55,639
+um which we did 2022 we actually ran a
+
+488
+00:16:53,839 --> 00:16:57,959
+very very short process I think it took
+
+489
+00:16:55,639 --> 00:16:59,959
+us like two weeks from first meeting
+
+490
+00:16:57,959 --> 00:17:01,639
+until we had term sheets and then like
+
+491
+00:16:59,959 --> 00:17:04,199
+another week to actually sign a term
+
+492
+00:17:01,639 --> 00:17:06,199
+sheet for C then series a rounds at
+
+493
+00:17:04,199 --> 00:17:08,079
+least in my experience it's all about
+
+494
+00:17:06,199 --> 00:17:10,959
+like you know do you have traction and
+
+495
+00:17:08,079 --> 00:17:12,799
+is the investor excited about the idea
+
+496
+00:17:10,959 --> 00:17:14,880
+and usually you know pretty early right
+
+497
+00:17:12,799 --> 00:17:16,520
+like 20 minutes into a conversation the
+
+498
+00:17:14,880 --> 00:17:18,480
+person who ended up doing a series a
+
+499
+00:17:16,520 --> 00:17:20,799
+Sanji from open view he literally like
+
+500
+00:17:18,480 --> 00:17:22,280
+20 minutes into our first conversation
+
+501
+00:17:20,799 --> 00:17:24,120
+stopped me and said all right what does
+
+502
+00:17:22,280 --> 00:17:25,400
+it take to win this deal like I don't
+
+503
+00:17:24,120 --> 00:17:26,720
+need to hear anymore like I've heard
+
+504
+00:17:25,400 --> 00:17:28,079
+enough like what does it take to win
+
+505
+00:17:26,720 --> 00:17:29,880
+this deal right and I feel like it's
+
+506
+00:17:28,079 --> 00:17:31,480
+almost obvious when you have that
+
+507
+00:17:29,880 --> 00:17:33,080
+meeting and you know oh wow like you
+
+508
+00:17:31,480 --> 00:17:35,240
+know this could be some something that
+
+509
+00:17:33,080 --> 00:17:37,480
+could work out I guess later on like you
+
+510
+00:17:35,240 --> 00:17:39,600
+know for where we are now it shifts a
+
+511
+00:17:37,480 --> 00:17:41,000
+little bit right because now it's no
+
+512
+00:17:39,600 --> 00:17:42,960
+longer the question of are you going to
+
+513
+00:17:41,000 --> 00:17:44,919
+get funded yes or no but more like okay
+
+514
+00:17:42,960 --> 00:17:47,840
+who is the best partner to help us
+
+515
+00:17:44,919 --> 00:17:49,600
+fulfill our vision and make this like a
+
+516
+00:17:47,840 --> 00:17:51,120
+really big meaningful company for the
+
+517
+00:17:49,600 --> 00:17:53,080
+long term right so even like you know
+
+518
+00:17:51,120 --> 00:17:54,400
+with Altos you know the long-term Focus
+
+519
+00:17:53,080 --> 00:17:56,120
+that you guys have that was really
+
+520
+00:17:54,400 --> 00:17:58,360
+important to us right and getting to
+
+521
+00:17:56,120 --> 00:18:00,200
+know you better and the team here and
+
+522
+00:17:58,360 --> 00:18:02,039
+how everybody thought like that was a
+
+523
+00:18:00,200 --> 00:18:03,960
+much bigger consideration than when we
+
+524
+00:18:02,039 --> 00:18:06,039
+raised our seed rant several years ago
+
+525
+00:18:03,960 --> 00:18:07,880
+for example if you're on that road trip
+
+526
+00:18:06,039 --> 00:18:09,559
+with your wife talking to the salon
+
+527
+00:18:07,880 --> 00:18:11,320
+owners maybe even before that as you
+
+528
+00:18:09,559 --> 00:18:14,280
+were thinking about maybe starting a
+
+529
+00:18:11,320 --> 00:18:17,039
+company what would you tell Daniel what
+
+530
+00:18:14,280 --> 00:18:19,919
+now8 nine years ago I would say the
+
+531
+00:18:17,039 --> 00:18:22,520
+thing that I did not appreciate at the
+
+532
+00:18:19,919 --> 00:18:25,159
+very beginning of the journey is how
+
+533
+00:18:22,520 --> 00:18:27,120
+incredibly long it would take to get to
+
+534
+00:18:25,159 --> 00:18:29,240
+a place where it really you can really
+
+535
+00:18:27,120 --> 00:18:30,840
+see the future you know everyone
+
+536
+00:18:29,240 --> 00:18:33,200
+understands it intellectually when you
+
+537
+00:18:30,840 --> 00:18:35,159
+say oh it takes like 7 to 10 years for
+
+538
+00:18:33,200 --> 00:18:36,440
+any company to be successful right but
+
+539
+00:18:35,159 --> 00:18:38,600
+when you're in it when you're like a
+
+540
+00:18:36,440 --> 00:18:41,000
+year three year four it can feel really
+
+541
+00:18:38,600 --> 00:18:42,640
+long and it's almost like this thing
+
+542
+00:18:41,000 --> 00:18:44,919
+where for the longest time you're just
+
+543
+00:18:42,640 --> 00:18:46,640
+trying to survive and then it hits you
+
+544
+00:18:44,919 --> 00:18:49,360
+finally where it's like hey I think
+
+545
+00:18:46,640 --> 00:18:51,240
+we're no longer fighting to to survive I
+
+546
+00:18:49,360 --> 00:18:53,159
+think you know now I can actually shift
+
+547
+00:18:51,240 --> 00:18:55,640
+around how big could this be but before
+
+548
+00:18:53,159 --> 00:18:57,320
+you hit that moment it's a real grind
+
+549
+00:18:55,640 --> 00:18:59,760
+and I would say if I could go back and
+
+550
+00:18:57,320 --> 00:19:01,640
+talk to me at the very beginning I would
+
+551
+00:18:59,760 --> 00:19:03,400
+just like really emphasize hey make sure
+
+552
+00:19:01,640 --> 00:19:05,120
+that you embrace it it's like part of
+
+553
+00:19:03,400 --> 00:19:06,600
+the journey don't get discouraged I mean
+
+554
+00:19:05,120 --> 00:19:09,159
+we didn't but still like it would have
+
+555
+00:19:06,600 --> 00:19:13,679
+been nice to hear that and and and to
+
+556
+00:19:09,159 --> 00:19:13,679
+know that this is what it takes
+
+557
+00:19:14,500 --> 00:19:17,619
+[Music]
+

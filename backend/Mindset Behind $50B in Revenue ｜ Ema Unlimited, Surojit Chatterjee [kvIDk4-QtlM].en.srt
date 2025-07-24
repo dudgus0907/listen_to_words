@@ -1,0 +1,1240 @@
+1
+00:00:00,080 --> 00:00:06,000
+so I grew up in a lower middle class
+
+2
+00:00:03,040 --> 00:00:08,160
+family almost a third tier town in India
+
+3
+00:00:06,000 --> 00:00:10,480
+in my town at that time there was only
+
+4
+00:00:08,160 --> 00:00:13,160
+one person with the car I really loved
+
+5
+00:00:10,480 --> 00:00:16,080
+math I was very good at it I just wanted
+
+6
+00:00:13,160 --> 00:00:17,640
+to learn more math someone told my dad
+
+7
+00:00:16,080 --> 00:00:19,640
+you should put your son in computer
+
+8
+00:00:17,640 --> 00:00:22,119
+science because that's the the next big
+
+9
+00:00:19,640 --> 00:00:24,599
+thing and that's what probably got me
+
+10
+00:00:22,119 --> 00:00:27,840
+into one of the top colleges in India
+
+11
+00:00:24,599 --> 00:00:30,240
+called I quite lucky to get to Google in
+
+12
+00:00:27,840 --> 00:00:32,320
+early days I ran couple of things at
+
+13
+00:00:30,240 --> 00:00:34,640
+Google Google's mobile advertising which
+
+14
+00:00:32,320 --> 00:00:37,360
+actually I happen to Drew that to $50
+
+15
+00:00:34,640 --> 00:00:39,040
+billion in Revenue before joining
+
+16
+00:00:37,360 --> 00:00:41,280
+company called flip cart in India where
+
+17
+00:00:39,040 --> 00:00:43,280
+I was Chief product officer second time
+
+18
+00:00:41,280 --> 00:00:45,440
+I joined Google I walked on Google's
+
+19
+00:00:43,280 --> 00:00:47,840
+product search uh most recently I was
+
+20
+00:00:45,440 --> 00:00:50,280
+Chief product officer at coinbase and
+
+21
+00:00:47,840 --> 00:00:54,199
+helped coinbase through their
+
+22
+00:00:50,280 --> 00:00:56,120
+IPO I am surit chatur I'm founder and
+
+23
+00:00:54,199 --> 00:00:58,280
+CEO of Emma the full name of the
+
+24
+00:00:56,120 --> 00:01:01,440
+company's Enterprise machine assistant
+
+25
+00:00:58,280 --> 00:01:04,400
+EMA we built Emma as what we call a
+
+26
+00:01:01,440 --> 00:01:06,320
+universal AI employee so the idea is
+
+27
+00:01:04,400 --> 00:01:08,159
+Emma can collaborate with human
+
+28
+00:01:06,320 --> 00:01:10,640
+employees and take a lot of the
+
+29
+00:01:08,159 --> 00:01:13,280
+repetitive tedious task that humans do
+
+30
+00:01:10,640 --> 00:01:13,280
+today in
+
+31
+00:01:15,720 --> 00:01:21,560
+Enterprise so I grew up in in India I
+
+32
+00:01:19,080 --> 00:01:24,240
+went to one of the top technical
+
+33
+00:01:21,560 --> 00:01:27,759
+institutes in India called IIT I was an
+
+34
+00:01:24,240 --> 00:01:30,240
+engineer in early years of my my journey
+
+35
+00:01:27,759 --> 00:01:31,680
+uh got a business degree from MIT I was
+
+36
+00:01:30,240 --> 00:01:34,399
+confused that oh should I be a
+
+37
+00:01:31,680 --> 00:01:37,240
+consultant investment banker and it took
+
+38
+00:01:34,399 --> 00:01:40,079
+me a little bit of time to realize no
+
+39
+00:01:37,240 --> 00:01:42,840
+I'm a technologist at heart I need to go
+
+40
+00:01:40,079 --> 00:01:45,439
+back and just focus more on technology
+
+41
+00:01:42,840 --> 00:01:48,200
+quite lucky to get to Google in early
+
+42
+00:01:45,439 --> 00:01:51,040
+days I had no idea what product
+
+43
+00:01:48,200 --> 00:01:53,040
+management was before joining go to be
+
+44
+00:01:51,040 --> 00:01:54,759
+honest and I was an engineer I had a
+
+45
+00:01:53,040 --> 00:01:56,799
+business degree I interviewed with
+
+46
+00:01:54,759 --> 00:02:00,399
+Google and they said you can be a
+
+47
+00:01:56,799 --> 00:02:02,799
+product manager and had me they told me
+
+48
+00:02:00,399 --> 00:02:05,560
+oh your first job will be in actually
+
+49
+00:02:02,799 --> 00:02:07,719
+payments and billing and fixing their
+
+50
+00:02:05,560 --> 00:02:10,080
+Google's payments product I have no idea
+
+51
+00:02:07,719 --> 00:02:12,560
+what it is I like yeah that's fine just
+
+52
+00:02:10,080 --> 00:02:14,920
+go learn and figure it out that was
+
+53
+00:02:12,560 --> 00:02:17,160
+really interesting for me that kind of
+
+54
+00:02:14,920 --> 00:02:19,160
+uh culture where we hire really good
+
+55
+00:02:17,160 --> 00:02:21,879
+people really smart people and we
+
+56
+00:02:19,160 --> 00:02:25,319
+believe they can figure out anything I
+
+57
+00:02:21,879 --> 00:02:28,200
+was very lucky to I had the opportunity
+
+58
+00:02:25,319 --> 00:02:30,720
+to actually co-found Google's mobile ads
+
+59
+00:02:28,200 --> 00:02:33,440
+team so another engineer in myself we
+
+60
+00:02:30,720 --> 00:02:36,040
+started very modest team working on
+
+61
+00:02:33,440 --> 00:02:39,080
+mobile advertising at Google crew that
+
+62
+00:02:36,040 --> 00:02:42,599
+that business from 0 to $50 billion in
+
+63
+00:02:39,080 --> 00:02:45,599
+Revenue see at Google I built stuff that
+
+64
+00:02:42,599 --> 00:02:48,159
+were many times incredibly hard to build
+
+65
+00:02:45,599 --> 00:02:50,920
+many people told me they were impossible
+
+66
+00:02:48,159 --> 00:02:53,200
+to build this happens all the time in in
+
+67
+00:02:50,920 --> 00:02:55,680
+larger companies because people someone
+
+68
+00:02:53,200 --> 00:02:57,360
+will try the product that you are trying
+
+69
+00:02:55,680 --> 00:02:58,920
+to build before and they might have
+
+70
+00:02:57,360 --> 00:03:01,360
+failed they'll tell you oh no no don't
+
+71
+00:02:58,920 --> 00:03:04,319
+try it it already failed so far my
+
+72
+00:03:01,360 --> 00:03:08,040
+biggest learning was you know how to
+
+73
+00:03:04,319 --> 00:03:11,080
+take on very ambitious idea uh believe
+
+74
+00:03:08,040 --> 00:03:14,680
+in my conviction believe in my gut on
+
+75
+00:03:11,080 --> 00:03:17,360
+those ideas and really risk it all I
+
+76
+00:03:14,680 --> 00:03:20,640
+would always go to work I would tell my
+
+77
+00:03:17,360 --> 00:03:24,239
+team you know I'm ready to be fired
+
+78
+00:03:20,640 --> 00:03:27,640
+today but not doing anything unethical
+
+79
+00:03:24,239 --> 00:03:29,840
+or illegal but pursuing my idea when I
+
+80
+00:03:27,640 --> 00:03:32,120
+was running mobile ads so I came up with
+
+81
+00:03:29,840 --> 00:03:34,519
+the idea of click to call ADS there's a
+
+82
+00:03:32,120 --> 00:03:36,920
+button to call you can call the
+
+83
+00:03:34,519 --> 00:03:39,080
+advertiser directly that now it's a
+
+84
+00:03:36,920 --> 00:03:41,120
+multi-billion Dollar business for Google
+
+85
+00:03:39,080 --> 00:03:44,040
+you would think it's the most obvious
+
+86
+00:03:41,120 --> 00:03:46,200
+idea today but for some reason there's
+
+87
+00:03:44,040 --> 00:03:48,159
+tremendous resistance internally we
+
+88
+00:03:46,200 --> 00:03:51,239
+wanted to go and experiment in Google
+
+89
+00:03:48,159 --> 00:03:53,480
+you experiment everything and Google had
+
+90
+00:03:51,239 --> 00:03:56,040
+this massive experimentation framework
+
+91
+00:03:53,480 --> 00:03:58,120
+to launch anything you need to get like
+
+92
+00:03:56,040 --> 00:04:00,239
+significant volume like you need to show
+
+93
+00:03:58,120 --> 00:04:02,760
+a statistical significance of your
+
+94
+00:04:00,239 --> 00:04:04,920
+feature and at that time on mobile uh
+
+95
+00:04:02,760 --> 00:04:07,560
+the number of users were really low so
+
+96
+00:04:04,920 --> 00:04:09,599
+if we just follow the Norms of Google at
+
+97
+00:04:07,560 --> 00:04:12,079
+that time which is a large desktop
+
+98
+00:04:09,599 --> 00:04:15,280
+business the mobile features will take
+
+99
+00:04:12,079 --> 00:04:17,600
+at least 9 months or a year each to
+
+100
+00:04:15,280 --> 00:04:20,600
+gather enough data to launch that just
+
+101
+00:04:17,600 --> 00:04:22,680
+seems like too long and the the mobile
+
+102
+00:04:20,600 --> 00:04:25,800
+industry is moving really fast we can't
+
+103
+00:04:22,680 --> 00:04:27,840
+wait that long let's make a mistake and
+
+104
+00:04:25,800 --> 00:04:29,720
+turn this feature on for 50% of the
+
+105
+00:04:27,840 --> 00:04:31,880
+users and how long would it take like
+
+106
+00:04:29,720 --> 00:04:34,000
+like okay only just a few weeks if
+
+107
+00:04:31,880 --> 00:04:37,080
+somebody finds out of of course they
+
+108
+00:04:34,000 --> 00:04:38,880
+will find out I'll take the blame and
+
+109
+00:04:37,080 --> 00:04:41,560
+what are they going to do fire Me Maybe
+
+110
+00:04:38,880 --> 00:04:44,919
+that's that's fine so we made a mistake
+
+111
+00:04:41,560 --> 00:04:47,479
+and launched that feature 50% of course
+
+112
+00:04:44,919 --> 00:04:49,520
+I had to go and explain what happened
+
+113
+00:04:47,479 --> 00:04:53,000
+but then actually it is working really
+
+114
+00:04:49,520 --> 00:04:55,440
+well let's not unlaunch it and lot of
+
+115
+00:04:53,000 --> 00:04:58,000
+things we had to do in early days was
+
+116
+00:04:55,440 --> 00:05:00,360
+breaking the Norms when you build a lot
+
+117
+00:04:58,000 --> 00:05:03,120
+of success you create some norms for
+
+118
+00:05:00,360 --> 00:05:05,840
+that success and that becomes an
+
+119
+00:05:03,120 --> 00:05:08,520
+innovator for the next success because
+
+120
+00:05:05,840 --> 00:05:10,720
+those Norms is actually stopping you
+
+121
+00:05:08,520 --> 00:05:13,400
+from innovating so everything I did on
+
+122
+00:05:10,720 --> 00:05:16,080
+mobile I had to break a lot of norms
+
+123
+00:05:13,400 --> 00:05:19,080
+there are many many projects I did this
+
+124
+00:05:16,080 --> 00:05:20,960
+enormous internal resistance Google has
+
+125
+00:05:19,080 --> 00:05:24,560
+really smart people right if bunch of
+
+126
+00:05:20,960 --> 00:05:26,360
+smart people are vly against my idea I
+
+127
+00:05:24,560 --> 00:05:28,880
+think there is something good in it that
+
+128
+00:05:26,360 --> 00:05:31,960
+actually gets me fired up to pursue that
+
+129
+00:05:28,880 --> 00:05:34,960
+idea I think the the conviction on your
+
+130
+00:05:31,960 --> 00:05:37,800
+ideas is very important attribute of a
+
+131
+00:05:34,960 --> 00:05:39,919
+product manager of of any leader right
+
+132
+00:05:37,800 --> 00:05:41,880
+of course not stupid conviction but
+
+133
+00:05:39,919 --> 00:05:44,919
+conviction to the extent that you want
+
+134
+00:05:41,880 --> 00:05:48,319
+to take it all the way and test it out
+
+135
+00:05:44,919 --> 00:05:50,759
+that's how I have lived my career trying
+
+136
+00:05:48,319 --> 00:05:54,039
+out things that often seemed
+
+137
+00:05:50,759 --> 00:05:56,520
+contradictory and often seemed out there
+
+138
+00:05:54,039 --> 00:05:56,520
+a little
+
+139
+00:05:57,919 --> 00:06:03,240
+bit I was try running mobile ads at
+
+140
+00:06:01,039 --> 00:06:05,680
+Google doing extremely well I got
+
+141
+00:06:03,240 --> 00:06:07,919
+promoted many times it was the fastest
+
+142
+00:06:05,680 --> 00:06:09,599
+growing and largest business at Google
+
+143
+00:06:07,919 --> 00:06:12,400
+at that time you would think there is no
+
+144
+00:06:09,599 --> 00:06:14,479
+reason to leave back of my mind I was
+
+145
+00:06:12,400 --> 00:06:17,960
+getting a little worried that I will
+
+146
+00:06:14,479 --> 00:06:20,599
+never leave it's kind of so comfortable
+
+147
+00:06:17,960 --> 00:06:23,080
+in some way I've done well and that was
+
+148
+00:06:20,599 --> 00:06:25,800
+kind of worrying me a little bit that oh
+
+149
+00:06:23,080 --> 00:06:28,280
+I may become like a lifer and I I just
+
+150
+00:06:25,800 --> 00:06:29,720
+want to learn always learn more but the
+
+151
+00:06:28,280 --> 00:06:32,599
+flip cart thing was completely said
+
+152
+00:06:29,720 --> 00:06:35,759
+indeas I was visiting bunch of customers
+
+153
+00:06:32,599 --> 00:06:38,080
+in India what was curious was Indian
+
+154
+00:06:35,759 --> 00:06:40,599
+customers like flip cart and others at
+
+155
+00:06:38,080 --> 00:06:43,000
+that time had already made the leap to
+
+156
+00:06:40,599 --> 00:06:44,639
+Mobile so the India was a mobile first
+
+157
+00:06:43,000 --> 00:06:47,400
+company they skipped the desktop
+
+158
+00:06:44,639 --> 00:06:50,280
+generation so lot of the e-commerce was
+
+159
+00:06:47,400 --> 00:06:52,160
+90% of the gmv or the net the net
+
+160
+00:06:50,280 --> 00:06:54,479
+revenue was from mobile which is very
+
+161
+00:06:52,160 --> 00:06:57,160
+different from developed markets where
+
+162
+00:06:54,479 --> 00:06:59,680
+at that time it was still 90% was on
+
+163
+00:06:57,160 --> 00:07:01,599
+desktop or maybe 80% was on desktop it
+
+164
+00:06:59,680 --> 00:07:03,720
+was great to see that I was very curious
+
+165
+00:07:01,599 --> 00:07:06,240
+about that going back to India and
+
+166
+00:07:03,720 --> 00:07:08,840
+meeting lot of these customers I thought
+
+167
+00:07:06,240 --> 00:07:10,800
+uh this is the kind of EX completely
+
+168
+00:07:08,840 --> 00:07:13,039
+different thing thing that I could do
+
+169
+00:07:10,800 --> 00:07:15,000
+from Google it's a different country
+
+170
+00:07:13,039 --> 00:07:16,199
+very different business I would just
+
+171
+00:07:15,000 --> 00:07:19,199
+learn a
+
+172
+00:07:16,199 --> 00:07:21,680
+lot India was the last place where
+
+173
+00:07:19,199 --> 00:07:23,639
+e-commerce should have gone in the those
+
+174
+00:07:21,680 --> 00:07:26,919
+times so if you think about it the three
+
+175
+00:07:23,639 --> 00:07:29,840
+ingredients for e-commerce internet
+
+176
+00:07:26,919 --> 00:07:32,800
+electronic payments and Logistics at
+
+177
+00:07:29,840 --> 00:07:35,120
+that time very few Indians had credit
+
+178
+00:07:32,800 --> 00:07:38,280
+cards or debit cards the road
+
+179
+00:07:35,120 --> 00:07:41,400
+infrastructure was very poor so flip
+
+180
+00:07:38,280 --> 00:07:43,879
+cart a as a company had to take on this
+
+181
+00:07:41,400 --> 00:07:47,360
+enormous challenge of the infrastructure
+
+182
+00:07:43,879 --> 00:07:50,759
+of the country to build Ecommerce for a
+
+183
+00:07:47,360 --> 00:07:53,479
+billion people so how do get a product
+
+184
+00:07:50,759 --> 00:07:56,440
+like a village in India the second tier
+
+185
+00:07:53,479 --> 00:07:59,080
+30er town in India we had to design
+
+186
+00:07:56,440 --> 00:08:02,680
+special trucks that were thin that could
+
+187
+00:07:59,080 --> 00:08:04,520
+go through small lanes and alleys so we
+
+188
+00:08:02,680 --> 00:08:06,919
+had to solve a lot of the technical
+
+189
+00:08:04,520 --> 00:08:09,960
+challenges logistical challenges that
+
+190
+00:08:06,919 --> 00:08:13,360
+was really amazing learning for me so
+
+191
+00:08:09,960 --> 00:08:16,759
+flip cart actually got into an agreement
+
+192
+00:08:13,360 --> 00:08:18,520
+to uh get bought over by Walmart that
+
+193
+00:08:16,759 --> 00:08:21,520
+was kind of the motivation for me to
+
+194
+00:08:18,520 --> 00:08:21,520
+come back and rejoin
+
+195
+00:08:23,120 --> 00:08:28,960
+Google running a company is different
+
+196
+00:08:26,479 --> 00:08:31,440
+from popularity contest you cannot
+
+197
+00:08:28,960 --> 00:08:34,479
+please everyone and whenever if you try
+
+198
+00:08:31,440 --> 00:08:36,839
+to please everyone as you grow your
+
+199
+00:08:34,479 --> 00:08:39,440
+company then you will definitely
+
+200
+00:08:36,839 --> 00:08:43,080
+degenerate your culture the next 3 years
+
+201
+00:08:39,440 --> 00:08:46,440
+at Google when I ran shopping Google was
+
+202
+00:08:43,080 --> 00:08:49,480
+becoming a place which was not very
+
+203
+00:08:46,440 --> 00:08:51,399
+enjoyable to work anymore Google had
+
+204
+00:08:49,480 --> 00:08:54,120
+actually as a company changed
+
+205
+00:08:51,399 --> 00:08:56,200
+dramatically from cultural perspective
+
+206
+00:08:54,120 --> 00:08:59,079
+some of the things that were very
+
+207
+00:08:56,200 --> 00:09:01,519
+positive about Google had degenerated
+
+208
+00:08:59,079 --> 00:09:04,440
+into being very negative so Google was a
+
+209
+00:09:01,519 --> 00:09:06,680
+place where people would always express
+
+210
+00:09:04,440 --> 00:09:09,519
+their opinion very freely people could
+
+211
+00:09:06,680 --> 00:09:12,079
+discuss anything but you can can take
+
+212
+00:09:09,519 --> 00:09:14,560
+that to an extreme and then discuss
+
+213
+00:09:12,079 --> 00:09:16,720
+anything and everything that is outside
+
+214
+00:09:14,560 --> 00:09:18,680
+the scope of Google's main mission of
+
+215
+00:09:16,720 --> 00:09:21,360
+the business and there's everybody is
+
+216
+00:09:18,680 --> 00:09:24,000
+distracted so I felt actually very
+
+217
+00:09:21,360 --> 00:09:26,160
+fortunate to leave Google have done
+
+218
+00:09:24,000 --> 00:09:28,600
+something else have seen something
+
+219
+00:09:26,160 --> 00:09:31,240
+different at every stage of growth there
+
+220
+00:09:28,600 --> 00:09:34,240
+is a risk that your culture will
+
+221
+00:09:31,240 --> 00:09:36,760
+degenerate because you are hiring new
+
+222
+00:09:34,240 --> 00:09:39,160
+people you have to learn how to work in
+
+223
+00:09:36,760 --> 00:09:41,880
+a in a different setting and so on so we
+
+224
+00:09:39,160 --> 00:09:44,760
+have to be very aware and very
+
+225
+00:09:41,880 --> 00:09:47,720
+deliberate very intentional to maintain
+
+226
+00:09:44,760 --> 00:09:50,320
+culture in fact you have to take a
+
+227
+00:09:47,720 --> 00:09:52,880
+stance that this is our culture if you
+
+228
+00:09:50,320 --> 00:09:54,880
+as an individual don't align with our
+
+229
+00:09:52,880 --> 00:09:57,480
+culture there are other opportunities
+
+230
+00:09:54,880 --> 00:09:59,519
+out there other options out there yes
+
+231
+00:09:57,480 --> 00:10:03,040
+it's possible to maintain the culture
+
+232
+00:09:59,519 --> 00:10:06,560
+but you have to be ready to be unpopular
+
+233
+00:10:03,040 --> 00:10:09,880
+make hard calls and be very intentional
+
+234
+00:10:06,560 --> 00:10:09,880
+about maintaining the
+
+235
+00:10:12,720 --> 00:10:20,560
+culture look I have run very large teams
+
+236
+00:10:17,000 --> 00:10:22,760
+grown teams in in companies like Google
+
+237
+00:10:20,560 --> 00:10:25,160
+coinbase flip cart some of the best
+
+238
+00:10:22,760 --> 00:10:27,640
+companies in the world and one thing
+
+239
+00:10:25,160 --> 00:10:30,160
+that always bothered me we had really
+
+240
+00:10:27,640 --> 00:10:32,440
+talented people but then a large
+
+241
+00:10:30,160 --> 00:10:34,680
+percentage of their time was still spent
+
+242
+00:10:32,440 --> 00:10:38,040
+in repetitive work so the idea behind
+
+243
+00:10:34,680 --> 00:10:40,480
+Emma is can we automate most of the
+
+244
+00:10:38,040 --> 00:10:43,240
+mundane tasks people have to do in
+
+245
+00:10:40,480 --> 00:10:46,880
+Enterprises and and free them up to do
+
+246
+00:10:43,240 --> 00:10:49,560
+more value added more creative tasks in
+
+247
+00:10:46,880 --> 00:10:52,200
+our journey first thing is we walked
+
+248
+00:10:49,560 --> 00:10:55,240
+very closely with customers very very
+
+249
+00:10:52,200 --> 00:10:57,360
+early on we build the product actually
+
+250
+00:10:55,240 --> 00:11:00,279
+working with multiple customers as
+
+251
+00:10:57,360 --> 00:11:02,519
+design Partners so from the get go we
+
+252
+00:11:00,279 --> 00:11:04,480
+knew there is there is a need we knew if
+
+253
+00:11:02,519 --> 00:11:06,360
+you build it at least there are a few
+
+254
+00:11:04,480 --> 00:11:08,160
+customers and I think the trick is to
+
+255
+00:11:06,360 --> 00:11:10,200
+figure out okay are this the only
+
+256
+00:11:08,160 --> 00:11:12,000
+customers who will use it or there is a
+
+257
+00:11:10,200 --> 00:11:14,680
+broader demand so you have to talk to
+
+258
+00:11:12,000 --> 00:11:16,240
+enough customers to recognize patterns
+
+259
+00:11:14,680 --> 00:11:18,800
+and make sure okay whatever you are
+
+260
+00:11:16,240 --> 00:11:20,880
+building is not too custom for this
+
+261
+00:11:18,800 --> 00:11:22,920
+given customer you may have to do some
+
+262
+00:11:20,880 --> 00:11:25,880
+custom work for your early customer but
+
+263
+00:11:22,920 --> 00:11:28,760
+you have to be very clear ey on which
+
+264
+00:11:25,880 --> 00:11:31,959
+part of your product is a platform that
+
+265
+00:11:28,760 --> 00:11:34,000
+can be used and which part is maybe you
+
+266
+00:11:31,959 --> 00:11:36,440
+are customizing a little bit for some of
+
+267
+00:11:34,000 --> 00:11:40,200
+your early customers the other advice
+
+268
+00:11:36,440 --> 00:11:42,480
+I'll give to any startup founder or
+
+269
+00:11:40,200 --> 00:11:45,959
+particularly AI founder focus on
+
+270
+00:11:42,480 --> 00:11:49,240
+building nothing matters we kept the
+
+271
+00:11:45,959 --> 00:11:51,399
+company in stealth for a year uh we did
+
+272
+00:11:49,240 --> 00:11:53,839
+not announce our fundraise we didn't
+
+273
+00:11:51,399 --> 00:11:56,440
+announce even incorporation so funny
+
+274
+00:11:53,839 --> 00:11:58,320
+story some of our employees in in India
+
+275
+00:11:56,440 --> 00:12:00,040
+will complain that what do I tell my
+
+276
+00:11:58,320 --> 00:12:02,720
+parents where do I work
+
+277
+00:12:00,040 --> 00:12:06,399
+work it just say Ste and there is no
+
+278
+00:12:02,720 --> 00:12:08,720
+ifite we kept it under radar uh and Ste
+
+279
+00:12:06,399 --> 00:12:11,040
+just so we can focus and not get
+
+280
+00:12:08,720 --> 00:12:12,760
+distracted by by everything that
+
+281
+00:12:11,040 --> 00:12:15,360
+happening you know there's too much
+
+282
+00:12:12,760 --> 00:12:17,920
+noise out there you can spend your
+
+283
+00:12:15,360 --> 00:12:20,639
+entire day on Twitter and talking to
+
+284
+00:12:17,920 --> 00:12:22,959
+many people and getting too much wisdom
+
+285
+00:12:20,639 --> 00:12:24,560
+you of course want to absorb that and
+
+286
+00:12:22,959 --> 00:12:26,760
+and look at what's happening in the
+
+287
+00:12:24,560 --> 00:12:29,320
+world but you have to have your own
+
+288
+00:12:26,760 --> 00:12:31,920
+conviction and you have to block it out
+
+289
+00:12:29,320 --> 00:12:33,800
+and focus that's so important because
+
+290
+00:12:31,920 --> 00:12:36,880
+when you build a great product
+
+291
+00:12:33,800 --> 00:12:39,440
+everything else will fall into place see
+
+292
+00:12:36,880 --> 00:12:41,720
+our long-term vision is uh will be a
+
+293
+00:12:39,440 --> 00:12:44,040
+conversational operating system for
+
+294
+00:12:41,720 --> 00:12:47,240
+every Enterprise out there I think there
+
+295
+00:12:44,040 --> 00:12:49,720
+will be a future where in every company
+
+296
+00:12:47,240 --> 00:12:52,720
+team of human employees will work with a
+
+297
+00:12:49,720 --> 00:12:55,959
+team of AI employees that's the world we
+
+298
+00:12:52,720 --> 00:12:59,959
+envision where uh companies with very
+
+299
+00:12:55,959 --> 00:13:02,480
+few people actually being able to create
+
+300
+00:12:59,959 --> 00:13:04,440
+enormous impact 100 people company
+
+301
+00:13:02,480 --> 00:13:06,240
+making a billion dollar Revenue how
+
+302
+00:13:04,440 --> 00:13:08,320
+about a 10 people company making a
+
+303
+00:13:06,240 --> 00:13:10,639
+billion dollar revenue or even a one
+
+304
+00:13:08,320 --> 00:13:13,519
+person company making a billion dollars
+
+305
+00:13:10,639 --> 00:13:17,000
+in revenue or more I think we will be
+
+306
+00:13:13,519 --> 00:13:20,600
+able to enable that in the future where
+
+307
+00:13:17,000 --> 00:13:24,000
+a few a human employees will work with a
+
+308
+00:13:20,600 --> 00:13:26,480
+a group of AI agents and and AI
+
+309
+00:13:24,000 --> 00:13:29,839
+employees like Emma to build really
+
+310
+00:13:26,480 --> 00:13:29,839
+large companies
+

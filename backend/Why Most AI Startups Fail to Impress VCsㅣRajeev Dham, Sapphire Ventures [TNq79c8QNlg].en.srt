@@ -1,0 +1,1128 @@
+1
+00:00:00,080 --> 00:00:06,240
+it's true that at least 50% of the
+
+2
+00:00:02,960 --> 00:00:08,280
+pitches that we hear are AI every
+
+3
+00:00:06,240 --> 00:00:10,599
+vertical is being touched by both
+
+4
+00:00:08,280 --> 00:00:13,040
+software and AI but that doesn't mean
+
+5
+00:00:10,599 --> 00:00:14,639
+SAS is dead it's sort of why now what's
+
+6
+00:00:13,040 --> 00:00:17,039
+different why does the world need
+
+7
+00:00:14,639 --> 00:00:18,600
+another X what's the non AI part of your
+
+8
+00:00:17,039 --> 00:00:23,640
+product tackle something that's a new
+
+9
+00:00:18,600 --> 00:00:23,640
+problem area AI is not alone AI is not a
+
+10
+00:00:27,519 --> 00:00:32,520
+differentiator hey I'm reie Dom I'm I am
+
+11
+00:00:30,199 --> 00:00:36,360
+a general partner with sapphire Ventures
+
+12
+00:00:32,520 --> 00:00:38,399
+Sapphire is a growth stage software B2B
+
+13
+00:00:36,360 --> 00:00:40,559
+focused software investor we invest in
+
+14
+00:00:38,399 --> 00:00:43,079
+US Europe and Israel we're managing
+
+15
+00:00:40,559 --> 00:00:45,200
+over10 billion in capital partnering
+
+16
+00:00:43,079 --> 00:00:48,760
+with companies like LinkedIn exact
+
+17
+00:00:45,200 --> 00:00:51,160
+target DocuSign looker moft and more
+
+18
+00:00:48,760 --> 00:00:53,960
+recently companies like monday.com and
+
+19
+00:00:51,160 --> 00:00:56,680
+glean an Enterprise AI company I started
+
+20
+00:00:53,960 --> 00:00:58,680
+my career actually not as an investor
+
+21
+00:00:56,680 --> 00:01:00,160
+but an investment banker I worked for
+
+22
+00:00:58,680 --> 00:01:01,719
+Goldman Sachs actually in their
+
+23
+00:01:00,160 --> 00:01:04,839
+financial institutions Investment
+
+24
+00:01:01,719 --> 00:01:07,400
+Banking you know your primary role is to
+
+25
+00:01:04,839 --> 00:01:09,119
+advise companies on what you think they
+
+26
+00:01:07,400 --> 00:01:10,720
+should be doing in response to a
+
+27
+00:01:09,119 --> 00:01:14,080
+particular situation whether it be
+
+28
+00:01:10,720 --> 00:01:16,360
+evaluating m&a or going public or
+
+29
+00:01:14,080 --> 00:01:18,520
+raising some financing that's your job
+
+30
+00:01:16,360 --> 00:01:20,400
+as an investment banker But ultimately
+
+31
+00:01:18,520 --> 00:01:22,439
+even after a couple of years I realized
+
+32
+00:01:20,400 --> 00:01:24,000
+instead of advising these companies what
+
+33
+00:01:22,439 --> 00:01:25,920
+would it feel like to actually invest in
+
+34
+00:01:24,000 --> 00:01:27,759
+them and then help really advise them
+
+35
+00:01:25,920 --> 00:01:29,280
+from the board level having sort of some
+
+36
+00:01:27,759 --> 00:01:30,720
+skin in the game and chips on the table
+
+37
+00:01:29,280 --> 00:01:32,520
+of investing in companies that you're
+
+38
+00:01:30,720 --> 00:01:34,600
+really excited about there's a lot of
+
+39
+00:01:32,520 --> 00:01:36,520
+uncertainty but yet it's exciting
+
+40
+00:01:34,600 --> 00:01:38,520
+because these are growth markets you're
+
+41
+00:01:36,520 --> 00:01:40,159
+you're redefining a market or creating a
+
+42
+00:01:38,520 --> 00:01:41,759
+new market feel like I'm a kid in the
+
+43
+00:01:40,159 --> 00:01:43,560
+candy store and learning all the time
+
+44
+00:01:41,759 --> 00:01:45,040
+from entrepreneurs what they're building
+
+45
+00:01:43,560 --> 00:01:48,960
+why they're building it what's on the
+
+46
+00:01:45,040 --> 00:01:48,960
+come and it's just really exciting to
+
+47
+00:01:49,200 --> 00:01:53,159
+me on the market you want to make sure
+
+48
+00:01:51,520 --> 00:01:55,040
+there's a good Market size ideally you
+
+49
+00:01:53,159 --> 00:01:56,759
+want to make sure the company is an
+
+50
+00:01:55,040 --> 00:01:59,119
+emerging especially at our stage an
+
+51
+00:01:56,759 --> 00:02:01,240
+emerging leader or a Next Generation
+
+52
+00:01:59,119 --> 00:02:03,119
+leader one thing we see is category
+
+53
+00:02:01,240 --> 00:02:04,280
+leaders there's very few markets where
+
+54
+00:02:03,119 --> 00:02:06,119
+there's three or four players and
+
+55
+00:02:04,280 --> 00:02:07,799
+they're all roughly similar size often
+
+56
+00:02:06,119 --> 00:02:10,080
+times the category leader just sucks the
+
+57
+00:02:07,799 --> 00:02:11,879
+air uh out of a market because they
+
+58
+00:02:10,080 --> 00:02:13,360
+attract the best employees they attract
+
+59
+00:02:11,879 --> 00:02:15,200
+the best investors and the most amount
+
+60
+00:02:13,360 --> 00:02:16,800
+of capital they get the best customers
+
+61
+00:02:15,200 --> 00:02:18,840
+who tell other customers this is the
+
+62
+00:02:16,800 --> 00:02:20,720
+only game in town and they're lead just
+
+63
+00:02:18,840 --> 00:02:22,879
+compounds over time so we tend to look
+
+64
+00:02:20,720 --> 00:02:24,440
+at not just Market size but positioning
+
+65
+00:02:22,879 --> 00:02:27,000
+with that market one thing we're looking
+
+66
+00:02:24,440 --> 00:02:29,120
+at recently given the saturation in this
+
+67
+00:02:27,000 --> 00:02:31,319
+software and SAS space is sort of why
+
+68
+00:02:29,120 --> 00:02:33,040
+now what's different okay maybe there's
+
+69
+00:02:31,319 --> 00:02:34,760
+a company that has an AI angle and
+
+70
+00:02:33,040 --> 00:02:37,319
+that's going to create some accelerated
+
+71
+00:02:34,760 --> 00:02:38,440
+sort of growth over the long term but
+
+72
+00:02:37,319 --> 00:02:40,800
+what else is there's something
+
+73
+00:02:38,440 --> 00:02:43,200
+inflecting or something changing I like
+
+74
+00:02:40,800 --> 00:02:45,000
+to say what's the energy in the market
+
+75
+00:02:43,200 --> 00:02:46,760
+what is the end velocity in the market
+
+76
+00:02:45,000 --> 00:02:48,519
+you may have a big Market size but
+
+77
+00:02:46,760 --> 00:02:50,000
+everyone's happy with what they have and
+
+78
+00:02:48,519 --> 00:02:52,159
+it's going to be hard to go sell new
+
+79
+00:02:50,000 --> 00:02:54,480
+software into it what is the energy of
+
+80
+00:02:52,159 --> 00:02:57,360
+adopting a new software and companies
+
+81
+00:02:54,480 --> 00:02:58,840
+coming up for Renewal uh in that market
+
+82
+00:02:57,360 --> 00:03:01,239
+I think is critical even if your
+
+83
+00:02:58,840 --> 00:03:03,239
+business is scaling nicely taking a step
+
+84
+00:03:01,239 --> 00:03:04,599
+back and understanding the context in
+
+85
+00:03:03,239 --> 00:03:07,120
+the broader Market is there an
+
+86
+00:03:04,599 --> 00:03:09,760
+underlying Trend or inflection point or
+
+87
+00:03:07,120 --> 00:03:11,560
+a pocket in your competitive space or
+
+88
+00:03:09,760 --> 00:03:13,159
+Market space that might be more
+
+89
+00:03:11,560 --> 00:03:14,879
+interesting potentially and while your
+
+90
+00:03:13,159 --> 00:03:17,200
+company's going nicely now there's
+
+91
+00:03:14,879 --> 00:03:19,959
+another company or another pocket of the
+
+92
+00:03:17,200 --> 00:03:21,760
+market that can lead to even higher
+
+93
+00:03:19,959 --> 00:03:23,840
+growth we call it sort of missing out a
+
+94
+00:03:21,760 --> 00:03:25,640
+little bit on the wave I think that's
+
+95
+00:03:23,840 --> 00:03:26,799
+critical for some companies which is
+
+96
+00:03:25,640 --> 00:03:28,480
+incredibly hard to do when your
+
+97
+00:03:26,799 --> 00:03:30,480
+company's performing well and you want
+
+98
+00:03:28,480 --> 00:03:31,760
+to just stick to that l but I think it's
+
+99
+00:03:30,480 --> 00:03:33,280
+also important to understand that
+
+100
+00:03:31,760 --> 00:03:35,360
+broader context and I've seen that
+
+101
+00:03:33,280 --> 00:03:37,159
+multiple times where another company has
+
+102
+00:03:35,360 --> 00:03:38,720
+a slightly different twist or approach
+
+103
+00:03:37,159 --> 00:03:40,560
+is operating in a slightly different
+
+104
+00:03:38,720 --> 00:03:42,680
+segment or pocket of the market that has
+
+105
+00:03:40,560 --> 00:03:44,720
+more velocity and you can kind of take
+
+106
+00:03:42,680 --> 00:03:46,239
+off with the whole the whole prize one
+
+107
+00:03:44,720 --> 00:03:48,360
+thing I look for a lot and I talked to
+
+108
+00:03:46,239 --> 00:03:50,920
+customers about is velocity what's the
+
+109
+00:03:48,360 --> 00:03:53,319
+velocity of product improvements what is
+
+110
+00:03:50,920 --> 00:03:56,200
+the velocity of changes that maybe a CEO
+
+111
+00:03:53,319 --> 00:03:57,879
+or a c make on the go to market team how
+
+112
+00:03:56,200 --> 00:03:59,799
+quickly are those changes made how
+
+113
+00:03:57,879 --> 00:04:02,239
+decisive is this management team in
+
+114
+00:03:59,799 --> 00:04:03,799
+making changes there there's this saying
+
+115
+00:04:02,239 --> 00:04:05,840
+I'm sure someone said it like grow fast
+
+116
+00:04:03,799 --> 00:04:08,079
+or die and I think that's kind of true
+
+117
+00:04:05,840 --> 00:04:09,799
+in startup world there's something about
+
+118
+00:04:08,079 --> 00:04:12,280
+the compounding nature of sort of
+
+119
+00:04:09,799 --> 00:04:14,720
+growing fast you almost have to hit that
+
+120
+00:04:12,280 --> 00:04:16,280
+escape velocity to make it out as a
+
+121
+00:04:14,720 --> 00:04:18,199
+startup and become some sort of
+
+122
+00:04:16,280 --> 00:04:21,479
+successful company CU if you don't the
+
+123
+00:04:18,199 --> 00:04:23,160
+sort of laws of gravity of private SAS
+
+124
+00:04:21,479 --> 00:04:24,919
+just sort of catch up to you and that's
+
+125
+00:04:23,160 --> 00:04:26,880
+hard and there's a lot of pressure there
+
+126
+00:04:24,919 --> 00:04:29,039
+becomes a lot of competition because
+
+127
+00:04:26,880 --> 00:04:30,400
+people see your company growing fast so
+
+128
+00:04:29,039 --> 00:04:32,960
+you got to just hit hit that escape
+
+129
+00:04:30,400 --> 00:04:35,199
+velocity I think this velocity of
+
+130
+00:04:32,960 --> 00:04:38,479
+decision- making that that you do across
+
+131
+00:04:35,199 --> 00:04:38,479
+product and go to market in an
+
+132
+00:04:38,720 --> 00:04:43,360
+organization what do you do when a
+
+133
+00:04:40,960 --> 00:04:46,000
+potential client says we love your
+
+134
+00:04:43,360 --> 00:04:49,000
+product but it's way too expensive do
+
+135
+00:04:46,000 --> 00:04:52,240
+you give in on discounts right away or
+
+136
+00:04:49,000 --> 00:04:55,600
+can you confidently defend your price hi
+
+137
+00:04:52,240 --> 00:04:58,160
+I'm Peter on with over 15 years of sales
+
+138
+00:04:55,600 --> 00:05:01,320
+experience at companies like Google
+
+139
+00:04:58,160 --> 00:05:04,120
+Dropbox and Slack I'm obsessed over how
+
+140
+00:05:01,320 --> 00:05:06,720
+to effectively answer questions like
+
+141
+00:05:04,120 --> 00:05:09,639
+this in a way that builds trust that's
+
+142
+00:05:06,720 --> 00:05:12,960
+why I created Peter on sales school with
+
+143
+00:05:09,639 --> 00:05:15,479
+EO to equip startup Founders and sales
+
+144
+00:05:12,960 --> 00:05:18,840
+professionals with the modern skills to
+
+145
+00:05:15,479 --> 00:05:22,360
+excel in Enterprise B2B sales this
+
+146
+00:05:18,840 --> 00:05:25,479
+online course offers real life examples
+
+147
+00:05:22,360 --> 00:05:27,720
+and ready to use B2B sales Frameworks
+
+148
+00:05:25,479 --> 00:05:30,160
+that you can incorporate immediately
+
+149
+00:05:27,720 --> 00:05:33,360
+from crafting the most effective p deck
+
+150
+00:05:30,160 --> 00:05:35,639
+to authentic customer Discovery and even
+
+151
+00:05:33,360 --> 00:05:38,360
+negotiation I walk through how you could
+
+152
+00:05:35,639 --> 00:05:41,600
+do it all and limited to just 10
+
+153
+00:05:38,360 --> 00:05:45,000
+students I'm also offering one-on-one
+
+154
+00:05:41,600 --> 00:05:47,639
+bespoke feedback on assignments ready to
+
+155
+00:05:45,000 --> 00:05:50,080
+learn and grow your sales confidence
+
+156
+00:05:47,639 --> 00:05:53,319
+check out the link in the description or
+
+157
+00:05:50,080 --> 00:05:56,360
+find me at EO
+
+158
+00:05:53,319 --> 00:05:58,880
+School recent marketing conditions are
+
+159
+00:05:56,360 --> 00:06:00,560
+interesting is highly saturated with
+
+160
+00:05:58,880 --> 00:06:03,520
+hundreds if not thousands I think the
+
+161
+00:06:00,560 --> 00:06:06,560
+latest that was of rather large maybe 30
+
+162
+00:06:03,520 --> 00:06:08,360
+million to kind of 300 million ARR
+
+163
+00:06:06,560 --> 00:06:10,000
+enterprise software assas businesses
+
+164
+00:06:08,360 --> 00:06:12,720
+from infrastructures to application
+
+165
+00:06:10,000 --> 00:06:14,520
+businesses there's a plethora of them
+
+166
+00:06:12,720 --> 00:06:18,039
+that are out there in the private
+
+167
+00:06:14,520 --> 00:06:19,960
+markets every single category is
+
+168
+00:06:18,039 --> 00:06:22,000
+saturated and also getting funded by the
+
+169
+00:06:19,960 --> 00:06:23,800
+way at the very early stages so if
+
+170
+00:06:22,000 --> 00:06:25,800
+you're a Founder tackling something I
+
+171
+00:06:23,800 --> 00:06:28,120
+would say really push yourself to say
+
+172
+00:06:25,800 --> 00:06:29,680
+why does the world need another X or
+
+173
+00:06:28,120 --> 00:06:31,680
+tackle something that's a new problem
+
+174
+00:06:29,680 --> 00:06:33,720
+area tackle something that's you know
+
+175
+00:06:31,680 --> 00:06:35,400
+never been done before or in a vertical
+
+176
+00:06:33,720 --> 00:06:36,840
+that hasn't been touched before because
+
+177
+00:06:35,400 --> 00:06:39,160
+by the way the other Trend I'm seeing is
+
+178
+00:06:36,840 --> 00:06:41,960
+every vertical is being touched by both
+
+179
+00:06:39,160 --> 00:06:44,240
+software and AI now ask yourself the why
+
+180
+00:06:41,960 --> 00:06:45,560
+now why is this important why does the
+
+181
+00:06:44,240 --> 00:06:47,880
+world need another one of these
+
+182
+00:06:45,560 --> 00:06:49,880
+companies because ultimately investors
+
+183
+00:06:47,880 --> 00:06:52,280
+are looking for that as well what's the
+
+184
+00:06:49,880 --> 00:06:55,639
+difference in this narrative it's true
+
+185
+00:06:52,280 --> 00:06:59,879
+that at least 50% of the pitches that we
+
+186
+00:06:55,639 --> 00:07:02,199
+hear are AI already maybe even 60 70%
+
+187
+00:06:59,879 --> 00:07:04,639
+but that doesn't mean SAS is dead to me
+
+188
+00:07:02,199 --> 00:07:07,560
+those are still SAS companies AI is not
+
+189
+00:07:04,639 --> 00:07:10,800
+alone AI is not a differentiator it may
+
+190
+00:07:07,560 --> 00:07:14,039
+use AI as a technology enabler but it's
+
+191
+00:07:10,800 --> 00:07:15,639
+not AI is not the product AI is just a
+
+192
+00:07:14,039 --> 00:07:17,360
+small kind of piece of the product that
+
+193
+00:07:15,639 --> 00:07:20,680
+they're leveraging in really creative
+
+194
+00:07:17,360 --> 00:07:22,440
+ways like I said if AI is your full
+
+195
+00:07:20,680 --> 00:07:24,120
+product there's probably something wrong
+
+196
+00:07:22,440 --> 00:07:26,639
+and we probably won't invest you have to
+
+197
+00:07:24,120 --> 00:07:29,280
+have an approach of some non-ai
+
+198
+00:07:26,639 --> 00:07:30,720
+technology and Integrations workflows
+
+199
+00:07:29,280 --> 00:07:32,360
+that are are different in and around
+
+200
+00:07:30,720 --> 00:07:35,680
+that that I think are critical and so
+
+201
+00:07:32,360 --> 00:07:35,680
+that's that's what people are looking
+
+202
+00:07:36,039 --> 00:07:41,720
+for I invested in monday.com in 200
+
+203
+00:07:39,520 --> 00:07:43,599
+maybe 189 what was interesting to me
+
+204
+00:07:41,720 --> 00:07:46,360
+about monday.com was you had two
+
+205
+00:07:43,599 --> 00:07:48,599
+Founders in Iran and Roy who really just
+
+206
+00:07:46,360 --> 00:07:51,840
+had incredible conviction in their own
+
+207
+00:07:48,599 --> 00:07:54,560
+Direction and vision uh well one they
+
+208
+00:07:51,840 --> 00:07:56,639
+they presented to me and a group on my
+
+209
+00:07:54,560 --> 00:07:58,919
+colleagues and it was that night
+
+210
+00:07:56,639 --> 00:08:01,199
+actually I booked a red eyee over to Tel
+
+211
+00:07:58,919 --> 00:08:03,000
+Aviv flew out there to spend the whole
+
+212
+00:08:01,199 --> 00:08:05,280
+day with them and they were shocked and
+
+213
+00:08:03,000 --> 00:08:07,080
+surprised there was a plethora of
+
+214
+00:08:05,280 --> 00:08:09,000
+companies here in Silicon Valley that
+
+215
+00:08:07,080 --> 00:08:10,919
+were attacking the same Market with
+
+216
+00:08:09,000 --> 00:08:13,919
+maybe more interesting Silicon Valley
+
+217
+00:08:10,919 --> 00:08:15,599
+logos as customers but Monday and Roy
+
+218
+00:08:13,919 --> 00:08:17,879
+Iran just had a different way of doing
+
+219
+00:08:15,599 --> 00:08:19,879
+things I just saw that they just just
+
+220
+00:08:17,879 --> 00:08:21,840
+had true belief in their vision and it
+
+221
+00:08:19,879 --> 00:08:23,720
+was very well thought out why they would
+
+222
+00:08:21,840 --> 00:08:25,879
+succeed it was that founder sort of
+
+223
+00:08:23,720 --> 00:08:27,440
+conviction I saw that really left an
+
+224
+00:08:25,879 --> 00:08:29,039
+impression on me that was just really
+
+225
+00:08:27,440 --> 00:08:30,639
+unique in our time together I think
+
+226
+00:08:29,039 --> 00:08:32,080
+people sometimes don't quite get that
+
+227
+00:08:30,639 --> 00:08:33,760
+they think Road stage is just very
+
+228
+00:08:32,080 --> 00:08:35,240
+formulaic everything's sort of working
+
+229
+00:08:33,760 --> 00:08:37,240
+and you price the company and you try to
+
+230
+00:08:35,240 --> 00:08:39,519
+get money in there's still a lot that
+
+231
+00:08:37,240 --> 00:08:41,360
+has to work out even at later stages and
+
+232
+00:08:39,519 --> 00:08:42,760
+at monday.com there was a lot that still
+
+233
+00:08:41,360 --> 00:08:44,240
+had to work out but there's something
+
+234
+00:08:42,760 --> 00:08:46,519
+that excited me there's something that
+
+235
+00:08:44,240 --> 00:08:48,360
+stuck with me about that company and
+
+236
+00:08:46,519 --> 00:08:50,560
+about that meeting that leaves me that
+
+237
+00:08:48,360 --> 00:08:52,760
+energized to sleep 3 four hours a night
+
+238
+00:08:50,560 --> 00:08:54,279
+for multiple nights and to me that's now
+
+239
+00:08:52,760 --> 00:08:56,600
+become a signal I thought it was used to
+
+240
+00:08:54,279 --> 00:08:58,240
+be a flaw maybe it still is but now it's
+
+241
+00:08:56,600 --> 00:08:59,440
+a signal to me and that happened with
+
+242
+00:08:58,240 --> 00:09:01,200
+Monday and that happened with many other
+
+243
+00:08:59,440 --> 00:09:02,640
+other businesses since our business is
+
+244
+00:09:01,200 --> 00:09:04,560
+pretty simple in some ways it's
+
+245
+00:09:02,640 --> 00:09:07,320
+investing in people you like and you
+
+246
+00:09:04,560 --> 00:09:11,640
+admire that just move you in some way I
+
+247
+00:09:07,320 --> 00:09:13,399
+think every investor needs to adapt to
+
+248
+00:09:11,640 --> 00:09:16,279
+the entrepreneur and founder that
+
+249
+00:09:13,399 --> 00:09:18,200
+they're working with I think if if a VC
+
+250
+00:09:16,279 --> 00:09:19,480
+is needing to operate the business
+
+251
+00:09:18,200 --> 00:09:21,200
+that's not really the entrepreneur that
+
+252
+00:09:19,480 --> 00:09:23,160
+a VC even wants to back in the first
+
+253
+00:09:21,200 --> 00:09:25,240
+place we want to back an entrepreneur
+
+254
+00:09:23,160 --> 00:09:27,399
+that says kind of get out of my way I
+
+255
+00:09:25,240 --> 00:09:28,720
+know what I'm doing here but hey can you
+
+256
+00:09:27,399 --> 00:09:30,360
+tell me how much I should compensate
+
+257
+00:09:28,720 --> 00:09:32,560
+this sales person and can you tell me
+
+258
+00:09:30,360 --> 00:09:34,240
+how many companies of yours operates in
+
+259
+00:09:32,560 --> 00:09:36,200
+three different distinct go to market
+
+260
+00:09:34,240 --> 00:09:37,839
+segments are there metrics or kpis can
+
+261
+00:09:36,200 --> 00:09:39,560
+you introduce me to a CTO and your
+
+262
+00:09:37,839 --> 00:09:41,360
+portfolio can you sit down with me talk
+
+263
+00:09:39,560 --> 00:09:42,920
+about usage based pricing models versus
+
+264
+00:09:41,360 --> 00:09:45,040
+seat-based pricing models and how that's
+
+265
+00:09:42,920 --> 00:09:46,560
+evolving across your portfolio or what
+
+266
+00:09:45,040 --> 00:09:48,120
+you think how would you think it appli
+
+267
+00:09:46,560 --> 00:09:49,800
+those are the questions that VC should
+
+268
+00:09:48,120 --> 00:09:51,880
+be there to answer versus going in
+
+269
+00:09:49,800 --> 00:09:55,040
+deeply and really trying to operate the
+
+270
+00:09:51,880 --> 00:09:56,880
+business dictate strategy too deeply uh
+
+271
+00:09:55,040 --> 00:09:58,920
+themselves so again I try to adapt to
+
+272
+00:09:56,880 --> 00:10:01,800
+the company and situation one thing I've
+
+273
+00:09:58,920 --> 00:10:03,640
+realized from glean to Mondays an
+
+274
+00:10:01,800 --> 00:10:05,680
+entrepreneur really wants to to walk
+
+275
+00:10:03,640 --> 00:10:07,600
+with you similarly as an investor and a
+
+276
+00:10:05,680 --> 00:10:10,480
+potential board member and just just
+
+277
+00:10:07,600 --> 00:10:13,360
+ensure that you really are bought in to
+
+278
+00:10:10,480 --> 00:10:15,720
+their Vision have true passion and
+
+279
+00:10:13,360 --> 00:10:17,519
+conviction for their companies I think
+
+280
+00:10:15,720 --> 00:10:19,240
+that's still um Paramount in terms of
+
+281
+00:10:17,519 --> 00:10:22,959
+you know winning a deal and figuring out
+
+282
+00:10:19,240 --> 00:10:22,959
+what you want to invest in
+

@@ -1,0 +1,1454 @@
+{
+  "success": true,
+  "videoId": "B2SM5_4pSag",
+  "videoTitle": "How First-Time Founders Can Avoid Mistakes ｜ Pelu Tran, Ferrum Health",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "idealist techie you know Stanford grad"
+    },
+    {
+      "start": 2,
+      "text": "student in the garage saying we're going"
+    },
+    {
+      "start": 5,
+      "text": "to make outcomes better those companies"
+    },
+    {
+      "start": 7,
+      "text": "all fail most early stage Founders go to"
+    },
+    {
+      "start": 10,
+      "text": "Partners and say hey like what is it"
+    },
+    {
+      "start": 11,
+      "text": "that you need like tell me and I'll just"
+    },
+    {
+      "start": 12,
+      "text": "deliver for you if you're looking to"
+    },
+    {
+      "start": 14,
+      "text": "them just to give me the answers they"
+    },
+    {
+      "start": 16,
+      "text": "don't know what's possible"
+    },
+    {
+      "start": 17,
+      "text": "technologically often times they're not"
+    },
+    {
+      "start": 19,
+      "text": "sure how the market trends are moving"
+    },
+    {
+      "start": 21,
+      "text": "they're not going to be able to tell you"
+    },
+    {
+      "start": 22,
+      "text": "what the answer is what they're really"
+    },
+    {
+      "start": 24,
+      "text": "really good at is telling you what the"
+    },
+    {
+      "start": 25,
+      "text": "problems are my name is p Tran I'm the"
+    },
+    {
+      "start": 29,
+      "text": "CEO and co-founder of FM Health FM"
+    },
+    {
+      "start": 31,
+      "text": "health is a company that is trying to"
+    },
+    {
+      "start": 34,
+      "text": "make clinical AI tools accessible to the"
+    },
+    {
+      "start": 36,
+      "text": "doctors and patients that need it we"
+    },
+    {
+      "start": 38,
+      "text": "just closed a $16 million series a round"
+    },
+    {
+      "start": 42,
+      "text": "we've raised a total of $31 million our"
+    },
+    {
+      "start": 44,
+      "text": "success is going to occur by enabling"
+    },
+    {
+      "start": 47,
+      "text": "big Tech big Healthcare governments AI"
+    },
+    {
+      "start": 49,
+      "text": "developers by enabling everyone in the"
+    },
+    {
+      "start": 52,
+      "text": "market to be able to collaborate and"
+    },
+    {
+      "start": 54,
+      "text": "deploy AI the way it needs to be"
+    },
+    {
+      "start": 56,
+      "text": "deployed"
+    },
+    {
+      "start": 61,
+      "text": "I was months away from graduating"
+    },
+    {
+      "start": 63,
+      "text": "Stanford Medical School when I actually"
+    },
+    {
+      "start": 65,
+      "text": "decided to go and leave this start my"
+    },
+    {
+      "start": 66,
+      "text": "first company as a medical student hudos"
+    },
+    {
+      "start": 68,
+      "text": "go stford Med for allowing us to be"
+    },
+    {
+      "start": 71,
+      "text": "extremely flexible with our time so I"
+    },
+    {
+      "start": 73,
+      "text": "was one of those students who kind of"
+    },
+    {
+      "start": 74,
+      "text": "had my hand in all sorts of different Pi"
+    },
+    {
+      "start": 76,
+      "text": "where I was doing like device work I was"
+    },
+    {
+      "start": 79,
+      "text": "working on side projects with friends"
+    },
+    {
+      "start": 81,
+      "text": "from the business school and the medical"
+    },
+    {
+      "start": 83,
+      "text": "school and atics was really at the"
+    },
+    {
+      "start": 85,
+      "text": "beginning just one of those side"
+    },
+    {
+      "start": 86,
+      "text": "projects as a medical student I was"
+    },
+    {
+      "start": 88,
+      "text": "working in the county hospital here here"
+    },
+    {
+      "start": 89,
+      "text": "in the barria that was a nightmare I was"
+    },
+    {
+      "start": 93,
+      "text": "there while they were transitioning from"
+    },
+    {
+      "start": 94,
+      "text": "paper records to electronic records"
+    },
+    {
+      "start": 97,
+      "text": "where doctors were losing track of"
+    },
+    {
+      "start": 98,
+      "text": "patients no one could figure out where"
+    },
+    {
+      "start": 100,
+      "text": "medications were people were burning out"
+    },
+    {
+      "start": 102,
+      "text": "and spending three four times as much of"
+    },
+    {
+      "start": 104,
+      "text": "their day on documentation as they were"
+    },
+    {
+      "start": 106,
+      "text": "before and actually back in the day this"
+    },
+    {
+      "start": 108,
+      "text": "was when Google Glass was still emerging"
+    },
+    {
+      "start": 110,
+      "text": "onto the scene everyone thought that it"
+    },
+    {
+      "start": 112,
+      "text": "was going to be the Advent of the"
+    },
+    {
+      "start": 114,
+      "text": "wearable era and that emerging"
+    },
+    {
+      "start": 117,
+      "text": "technology intersecting with the real"
+    },
+    {
+      "start": 120,
+      "text": "pain points that I was seeing in my"
+    },
+    {
+      "start": 121,
+      "text": "day-to-day Life as a medical student we"
+    },
+    {
+      "start": 124,
+      "text": "found dog Medics because we wanted to"
+    },
+    {
+      "start": 127,
+      "text": "doctor spend their day taking care of"
+    },
+    {
+      "start": 129,
+      "text": "patients rather than documenting patient"
+    },
+    {
+      "start": 131,
+      "text": "records Aug Medics and Google Glass"
+    },
+    {
+      "start": 133,
+      "text": "allow a scribe located offsite to"
+    },
+    {
+      "start": 135,
+      "text": "securely see and hear what the doctor"
+    },
+    {
+      "start": 137,
+      "text": "sees and hears during an exam in a real"
+    },
+    {
+      "start": 139,
+      "text": "time video we showed pretty early on"
+    },
+    {
+      "start": 142,
+      "text": "that writing the notes for the doctors"
+    },
+    {
+      "start": 143,
+      "text": "actually allows them to deliver better"
+    },
+    {
+      "start": 145,
+      "text": "care as well 2 3 years into my first"
+    },
+    {
+      "start": 147,
+      "text": "company I was still considering going"
+    },
+    {
+      "start": 149,
+      "text": "back and and still thinking about hey"
+    },
+    {
+      "start": 151,
+      "text": "you know what point do I maybe leave the"
+    },
+    {
+      "start": 153,
+      "text": "company go back to medical school become"
+    },
+    {
+      "start": 154,
+      "text": "a doctor but once we saw our technology"
+    },
+    {
+      "start": 157,
+      "text": "being used to deliver care to thousands"
+    },
+    {
+      "start": 160,
+      "text": "of additional patients a month I"
+    },
+    {
+      "start": 162,
+      "text": "realized wow like I have already had"
+    },
+    {
+      "start": 164,
+      "text": "more of an impact on healthare than I"
+    },
+    {
+      "start": 166,
+      "text": "would have had in my entire career as a"
+    },
+    {
+      "start": 167,
+      "text": "doctor and we went to santel Road and to"
+    },
+    {
+      "start": 170,
+      "text": "the The Venture Capital firms there and"
+    },
+    {
+      "start": 171,
+      "text": "we were able to raise round of funding"
+    },
+    {
+      "start": 173,
+      "text": "off of that idea and we spent a few"
+    },
+    {
+      "start": 175,
+      "text": "years probably trying to build out the"
+    },
+    {
+      "start": 177,
+      "text": "company prove out the idea and"
+    },
+    {
+      "start": 178,
+      "text": "ultimately continued to stay on leave"
+    },
+    {
+      "start": 180,
+      "text": "from medical school as the company"
+    },
+    {
+      "start": 184,
+      "text": "grew so a few years into the augme"
+    },
+    {
+      "start": 187,
+      "text": "journey I think the whole world started"
+    },
+    {
+      "start": 190,
+      "text": "to realize that Google Glass probably"
+    },
+    {
+      "start": 192,
+      "text": "wasn't going to be a thing and so we had"
+    },
+    {
+      "start": 194,
+      "text": "to figure out what are we going to do"
+    },
+    {
+      "start": 195,
+      "text": "with this company and with this Mission"
+    },
+    {
+      "start": 197,
+      "text": "if Google Glass isn't going to be a"
+    },
+    {
+      "start": 199,
+      "text": "thing and if our company's brand has"
+    },
+    {
+      "start": 201,
+      "text": "been built off that so far because we"
+    },
+    {
+      "start": 202,
+      "text": "had that really clear Mission because we"
+    },
+    {
+      "start": 204,
+      "text": "knew hey like you know it's not about"
+    },
+    {
+      "start": 206,
+      "text": "the Google Glass it's about what we"
+    },
+    {
+      "start": 208,
+      "text": "believed the glasses could for"
+    },
+    {
+      "start": 210,
+      "text": "healthcare that we were able to Pivot"
+    },
+    {
+      "start": 212,
+      "text": "and pretty rapidly launch tablet and"
+    },
+    {
+      "start": 214,
+      "text": "phone based versions of our software"
+    },
+    {
+      "start": 216,
+      "text": "that instead of sitting the doctor's"
+    },
+    {
+      "start": 217,
+      "text": "face they would bring around either card"
+    },
+    {
+      "start": 219,
+      "text": "around as a tablet or bring around in"
+    },
+    {
+      "start": 221,
+      "text": "their pocket that still did the same"
+    },
+    {
+      "start": 222,
+      "text": "thing I think what that taught me is"
+    },
+    {
+      "start": 224,
+      "text": "that if you go into a new technology"
+    },
+    {
+      "start": 228,
+      "text": "looking for a problem you're probably"
+    },
+    {
+      "start": 230,
+      "text": "going to get pretty far but ultimately"
+    },
+    {
+      "start": 232,
+      "text": "fail and I think the difference between"
+    },
+    {
+      "start": 234,
+      "text": "Aug Medics which we were able to"
+    },
+    {
+      "start": 236,
+      "text": "continue to grow over time and a lot of"
+    },
+    {
+      "start": 238,
+      "text": "those companies is that we started off"
+    },
+    {
+      "start": 241,
+      "text": "as a technology looking for a problem"
+    },
+    {
+      "start": 244,
+      "text": "but we just happened to find a really"
+    },
+    {
+      "start": 247,
+      "text": "really big and important problem and so"
+    },
+    {
+      "start": 249,
+      "text": "that allowed us to stay alive moving"
+    },
+    {
+      "start": 250,
+      "text": "forward from that I have become really"
+    },
+    {
+      "start": 253,
+      "text": "really careful around new technology"
+    },
+    {
+      "start": 256,
+      "text": "Trends even AI the new wave of gen AI"
+    },
+    {
+      "start": 259,
+      "text": "tele medicine through Co all of those"
+    },
+    {
+      "start": 262,
+      "text": "boom and bust Cycles they all occur"
+    },
+    {
+      "start": 265,
+      "text": "around emerging Technologies they never"
+    },
+    {
+      "start": 267,
+      "text": "occur around endemic pain points and so"
+    },
+    {
+      "start": 270,
+      "text": "gen today yes it it's promising yes it's"
+    },
+    {
+      "start": 273,
+      "text": "going to change the world is it going to"
+    },
+    {
+      "start": 274,
+      "text": "change the world to the scale that"
+    },
+    {
+      "start": 276,
+      "text": "everyone is saying it will at the"
+    },
+    {
+      "start": 278,
+      "text": "Timeline that everyone's saying it well"
+    },
+    {
+      "start": 279,
+      "text": "like guaranteed not and it's because we"
+    },
+    {
+      "start": 282,
+      "text": "always tend to overestimate these"
+    },
+    {
+      "start": 284,
+      "text": "Technologies in the near- term over the"
+    },
+    {
+      "start": 286,
+      "text": "long term they will have an impact but"
+    },
+    {
+      "start": 288,
+      "text": "that that long term is longer time frame"
+    },
+    {
+      "start": 291,
+      "text": "than any one startup is able to weather"
+    },
+    {
+      "start": 300,
+      "text": "during that journey I actually had an"
+    },
+    {
+      "start": 302,
+      "text": "uncle pass away from a late stage lung"
+    },
+    {
+      "start": 304,
+      "text": "cancer that was missed by his doctors"
+    },
+    {
+      "start": 306,
+      "text": "and it was a really frustrating"
+    },
+    {
+      "start": 307,
+      "text": "experience for myself and my family"
+    },
+    {
+      "start": 309,
+      "text": "because I already was a successful"
+    },
+    {
+      "start": 310,
+      "text": "entrepreneur in the digital Health space"
+    },
+    {
+      "start": 312,
+      "text": "when we were providing care for him and"
+    },
+    {
+      "start": 314,
+      "text": "talking to his doctors he was receiving"
+    },
+    {
+      "start": 316,
+      "text": "the best care in the world he was going"
+    },
+    {
+      "start": 318,
+      "text": "regularly for his screenings you know he"
+    },
+    {
+      "start": 319,
+      "text": "did everything right but because his"
+    },
+    {
+      "start": 322,
+      "text": "doctors weren't using the most modern of"
+    },
+    {
+      "start": 324,
+      "text": "tools a lot of these AI diagnostic tools"
+    },
+    {
+      "start": 326,
+      "text": "around lung cancer that have been"
+    },
+    {
+      "start": 328,
+      "text": "launched over the past decade he wasn't"
+    },
+    {
+      "start": 330,
+      "text": "able to actually have his cancer time in"
+    },
+    {
+      "start": 332,
+      "text": "fact it was missed for almost 5 years he"
+    },
+    {
+      "start": 335,
+      "text": "would have benefited so much from"
+    },
+    {
+      "start": 336,
+      "text": "technology from AI tools his doctors"
+    },
+    {
+      "start": 338,
+      "text": "wanted to use those tools but hospitals"
+    },
+    {
+      "start": 341,
+      "text": "not being able to actually adopt AI"
+    },
+    {
+      "start": 343,
+      "text": "themselves directly like at some point"
+    },
+    {
+      "start": 345,
+      "text": "someone was going to solve it question"
+    },
+    {
+      "start": 346,
+      "text": "was how long will it take to solve what"
+    },
+    {
+      "start": 348,
+      "text": "we realized was if we don't start this"
+    },
+    {
+      "start": 350,
+      "text": "company it is extremely unlikely that"
+    },
+    {
+      "start": 353,
+      "text": "someone else will and succeed FM health"
+    },
+    {
+      "start": 355,
+      "text": "is our attempt at trying to solve this"
+    },
+    {
+      "start": 358,
+      "text": "disconnect between the technology that's"
+    },
+    {
+      "start": 360,
+      "text": "out there the need for a platform that"
+    },
+    {
+      "start": 362,
+      "text": "allows for the consolidation of AI"
+    },
+    {
+      "start": 364,
+      "text": "vendors into a single point back when we"
+    },
+    {
+      "start": 367,
+      "text": "first started the company I was really"
+    },
+    {
+      "start": 370,
+      "text": "skeptical about how good these AI tools"
+    },
+    {
+      "start": 372,
+      "text": "actually were some patients and some"
+    },
+    {
+      "start": 374,
+      "text": "hospitals that we worked with in Asia"
+    },
+    {
+      "start": 376,
+      "text": "that we launched our pilot product"
+    },
+    {
+      "start": 379,
+      "text": "initially and that was an open- Source"
+    },
+    {
+      "start": 381,
+      "text": "lung nodule tool something that was a"
+    },
+    {
+      "start": 382,
+      "text": "made available online for public use and"
+    },
+    {
+      "start": 385,
+      "text": "we ran it for 3 Days across their scans"
+    },
+    {
+      "start": 389,
+      "text": "and we basically look to see how many"
+    },
+    {
+      "start": 391,
+      "text": "patients does did this model find that"
+    },
+    {
+      "start": 393,
+      "text": "the doctors didn't find and 3 days later"
+    },
+    {
+      "start": 397,
+      "text": "we're like oh wow like there are almost"
+    },
+    {
+      "start": 399,
+      "text": "50 patients here who have very"
+    },
+    {
+      "start": 402,
+      "text": "significant findings it makes the"
+    },
+    {
+      "start": 405,
+      "text": "mission of the company just so urgent we"
+    },
+    {
+      "start": 408,
+      "text": "happen to have a Tailwind of AI hype"
+    },
+    {
+      "start": 411,
+      "text": "that maybe it lasts one more year maybe"
+    },
+    {
+      "start": 412,
+      "text": "it lasts three more years but like hype"
+    },
+    {
+      "start": 414,
+      "text": "Cycles come and go and so there's going"
+    },
+    {
+      "start": 415,
+      "text": "to be a time when that hype no longer is"
+    },
+    {
+      "start": 417,
+      "text": "there but for us like we solve a real"
+    },
+    {
+      "start": 420,
+      "text": "problem that endure over time at some"
+    },
+    {
+      "start": 422,
+      "text": "point you have to be solving a really"
+    },
+    {
+      "start": 424,
+      "text": "important problem or you will never be"
+    },
+    {
+      "start": 425,
+      "text": "able to claw your way out of that"
+    },
+    {
+      "start": 428,
+      "text": "experimentation early stage most early"
+    },
+    {
+      "start": 431,
+      "text": "stage Founders firsttime Founders that I"
+    },
+    {
+      "start": 433,
+      "text": "meet are overly focused on building a"
+    },
+    {
+      "start": 437,
+      "text": "really good technology product and not"
+    },
+    {
+      "start": 439,
+      "text": "enough focus on identifying the exact"
+    },
+    {
+      "start": 442,
+      "text": "paino and problem they're solving figure"
+    },
+    {
+      "start": 444,
+      "text": "out what matters what are the risks that"
+    },
+    {
+      "start": 445,
+      "text": "I need to drisk and proving that out"
+    },
+    {
+      "start": 447,
+      "text": "even manually right like just by doing"
+    },
+    {
+      "start": 449,
+      "text": "it with an Excel spreadsheet or with a"
+    },
+    {
+      "start": 451,
+      "text": "human being in the background rather"
+    },
+    {
+      "start": 453,
+      "text": "than having to launch the whole product"
+    },
+    {
+      "start": 454,
+      "text": "and spending all that money before"
+    },
+    {
+      "start": 456,
+      "text": "you've tested out those initial"
+    },
+    {
+      "start": 461,
+      "text": "assumptions Co was brutal and this is"
+    },
+    {
+      "start": 463,
+      "text": "not a super exciting kind of thing to"
+    },
+    {
+      "start": 467,
+      "text": "bring up but Co was absolutely brutal it"
+    },
+    {
+      "start": 470,
+      "text": "was especially brutal because the"
+    },
+    {
+      "start": 472,
+      "text": "general perspective was wow if you're a"
+    },
+    {
+      "start": 475,
+      "text": "Healthcare Company you should be doing"
+    },
+    {
+      "start": 476,
+      "text": "great but the actual reality was like"
+    },
+    {
+      "start": 479,
+      "text": "most companies were dying because no one"
+    },
+    {
+      "start": 482,
+      "text": "was able to sell unless you were very"
+    },
+    {
+      "start": 484,
+      "text": "specifically solving a CO problem really"
+    },
+    {
+      "start": 486,
+      "text": "honestly like we don't have that much to"
+    },
+    {
+      "start": 488,
+      "text": "do with global pandemic so we're solving"
+    },
+    {
+      "start": 490,
+      "text": "an AI deployment issue for health"
+    },
+    {
+      "start": 491,
+      "text": "systems and that just was not a priority"
+    },
+    {
+      "start": 494,
+      "text": "so keeping the team motivated keeping"
+    },
+    {
+      "start": 496,
+      "text": "our investors and stakeholders and"
+    },
+    {
+      "start": 498,
+      "text": "customers aligned and engaged and"
+    },
+    {
+      "start": 500,
+      "text": "excited about this problem when nobody"
+    },
+    {
+      "start": 503,
+      "text": "cared about it for years and years and"
+    },
+    {
+      "start": 506,
+      "text": "years was really difficult more patients"
+    },
+    {
+      "start": 509,
+      "text": "died due to delay in care then die from"
+    },
+    {
+      "start": 512,
+      "text": "Co we're going to keep focusing what"
+    },
+    {
+      "start": 513,
+      "text": "we're going to focus on and we're going"
+    },
+    {
+      "start": 515,
+      "text": "to try to build the best business we can"
+    },
+    {
+      "start": 516,
+      "text": "around this and survive until everyone"
+    },
+    {
+      "start": 519,
+      "text": "else kind of gets there I think that"
+    },
+    {
+      "start": 521,
+      "text": "easily could have led to the company"
+    },
+    {
+      "start": 523,
+      "text": "collapse but I think what that has"
+    },
+    {
+      "start": 525,
+      "text": "allowed us to do now that AI is hot now"
+    },
+    {
+      "start": 529,
+      "text": "that hospitales are looking at platforms"
+    },
+    {
+      "start": 530,
+      "text": "now that can all of our original thesis"
+    },
+    {
+      "start": 532,
+      "text": "when we founded the company have come to"
+    },
+    {
+      "start": 534,
+      "text": "bear and we've stayed focused on that"
+    },
+    {
+      "start": 536,
+      "text": "problem for the past 5 years is that we"
+    },
+    {
+      "start": 537,
+      "text": "are just again incredibly well"
+    },
+    {
+      "start": 539,
+      "text": "positioned and we've got such a head"
+    },
+    {
+      "start": 541,
+      "text": "start on the broader Market in order to"
+    },
+    {
+      "start": 543,
+      "text": "actually succeed as a Founder you've got"
+    },
+    {
+      "start": 545,
+      "text": "to be really comfortable with everyone"
+    },
+    {
+      "start": 547,
+      "text": "thinking you're wrong for a really"
+    },
+    {
+      "start": 549,
+      "text": "really long time I still have not seen"
+    },
+    {
+      "start": 551,
+      "text": "one example of a massive iconic company"
+    },
+    {
+      "start": 554,
+      "text": "where everyone didn't think that they"
+    },
+    {
+      "start": 556,
+      "text": "were completely out of their mind for"
+    },
+    {
+      "start": 557,
+      "text": "the first few years a human being you"
+    },
+    {
+      "start": 560,
+      "text": "usually look for societal approval as"
+    },
+    {
+      "start": 563,
+      "text": "Founders like you kind of have to be"
+    },
+    {
+      "start": 565,
+      "text": "comfortable um not just not having that"
+    },
+    {
+      "start": 569,
+      "text": "but being able to convince people who"
+    },
+    {
+      "start": 573,
+      "text": "otherwise didn't see it the same way you"
+    },
+    {
+      "start": 575,
+      "text": "did that you're right and you do have to"
+    },
+    {
+      "start": 577,
+      "text": "just be used to everyone either not"
+    },
+    {
+      "start": 579,
+      "text": "knowing what you're talking about or"
+    },
+    {
+      "start": 580,
+      "text": "thinking you're wrong and just"
+    },
+    {
+      "start": 581,
+      "text": "comfortable just over and over and over"
+    },
+    {
+      "start": 583,
+      "text": "convincing them of why what you're doing"
+    },
+    {
+      "start": 585,
+      "text": "is the right approach and why it's"
+    },
+    {
+      "start": 593,
+      "text": "important a lot of my classmates are now"
+    },
+    {
+      "start": 595,
+      "text": "you know super high-powered specialized"
+    },
+    {
+      "start": 598,
+      "text": "doctors that are making a ton of money"
+    },
+    {
+      "start": 600,
+      "text": "and so it's easy to look at hey like if"
+    },
+    {
+      "start": 603,
+      "text": "I just stayed as a doctor I would be"
+    },
+    {
+      "start": 605,
+      "text": "some you know badass surgeon doing XYZ"
+    },
+    {
+      "start": 608,
+      "text": "thing and especially as my friends all"
+    },
+    {
+      "start": 610,
+      "text": "have now Sav me a ton of lives they did"
+    },
+    {
+      "start": 612,
+      "text": "like it's an incredibly rewarding"
+    },
+    {
+      "start": 613,
+      "text": "profession that I never had a chance to"
+    },
+    {
+      "start": 616,
+      "text": "actually go into but that's probably one"
+    },
+    {
+      "start": 618,
+      "text": "of the sacrifices and trade-offs that I"
+    },
+    {
+      "start": 621,
+      "text": "had to make and I just have to look at"
+    },
+    {
+      "start": 622,
+      "text": "the hundreds and thousands of patients"
+    },
+    {
+      "start": 624,
+      "text": "that are technology is saving and say"
+    },
+    {
+      "start": 626,
+      "text": "like listen like fine like I'm not going"
+    },
+    {
+      "start": 627,
+      "text": "to do it directly but we're still going"
+    },
+    {
+      "start": 629,
+      "text": "to be able to deliver a lot of impact in"
+    },
+    {
+      "start": 631,
+      "text": "society and that's enough for us you"
+    },
+    {
+      "start": 634,
+      "text": "kind of have to start companies at a"
+    },
+    {
+      "start": 635,
+      "text": "young age because your risk appetite"
+    },
+    {
+      "start": 637,
+      "text": "goes down as you get older the downside"
+    },
+    {
+      "start": 639,
+      "text": "of starting a company when you're young"
+    },
+    {
+      "start": 641,
+      "text": "is the lack of Industry knowledge the"
+    },
+    {
+      "start": 643,
+      "text": "lack of Industry connections I think it"
+    },
+    {
+      "start": 645,
+      "text": "is much easier to solve those problems"
+    },
+    {
+      "start": 648,
+      "text": "just by being diligent and by networking"
+    },
+    {
+      "start": 650,
+      "text": "and connecting people and being"
+    },
+    {
+      "start": 651,
+      "text": "open-minded you can solve those problems"
+    },
+    {
+      "start": 653,
+      "text": "as a young person for firsttime Founders"
+    },
+    {
+      "start": 656,
+      "text": "it is really really easy to just go to"
+    },
+    {
+      "start": 659,
+      "text": "hospitals go to Partners and say hey"
+    },
+    {
+      "start": 660,
+      "text": "like what is it that you need like tell"
+    },
+    {
+      "start": 661,
+      "text": "me and I'll just deliver for you but the"
+    },
+    {
+      "start": 663,
+      "text": "real challenge is like these are"
+    },
+    {
+      "start": 665,
+      "text": "problems that Health Systems often times"
+    },
+    {
+      "start": 667,
+      "text": "don't know how to solve and so if you're"
+    },
+    {
+      "start": 668,
+      "text": "looking to them just to give you the"
+    },
+    {
+      "start": 670,
+      "text": "answers they don't know what's possible"
+    },
+    {
+      "start": 672,
+      "text": "technologically often times they're not"
+    },
+    {
+      "start": 674,
+      "text": "sure how the market trends are moving"
+    },
+    {
+      "start": 676,
+      "text": "and so they're not going to be able to"
+    },
+    {
+      "start": 678,
+      "text": "tell you what the answer is what they're"
+    },
+    {
+      "start": 680,
+      "text": "really really good at is telling you"
+    },
+    {
+      "start": 681,
+      "text": "what the problems are and so when we go"
+    },
+    {
+      "start": 683,
+      "text": "in and we work with hospitals we always"
+    },
+    {
+      "start": 686,
+      "text": "make sure to align around hey like what"
+    },
+    {
+      "start": 687,
+      "text": "are the problems they're trying to solve"
+    },
+    {
+      "start": 689,
+      "text": "and it's different depending on the"
+    },
+    {
+      "start": 690,
+      "text": "hospital some hospitals really care"
+    },
+    {
+      "start": 692,
+      "text": "about delivering the best care possible"
+    },
+    {
+      "start": 693,
+      "text": "to the patients and they want to use"
+    },
+    {
+      "start": 695,
+      "text": "these AI tools for that many others care"
+    },
+    {
+      "start": 697,
+      "text": "a lot about productivity by being really"
+    },
+    {
+      "start": 700,
+      "text": "clear upfront about hey we solve the"
+    },
+    {
+      "start": 702,
+      "text": "security problem we solve the patient"
+    },
+    {
+      "start": 704,
+      "text": "safety problem and if those are problems"
+    },
+    {
+      "start": 706,
+      "text": "that you have let us help you and if"
+    },
+    {
+      "start": 708,
+      "text": "they aren't great you are not the right"
+    },
+    {
+      "start": 710,
+      "text": "partner for us we're going to go focus"
+    },
+    {
+      "start": 712,
+      "text": "our time elsewhere and that's tough for"
+    },
+    {
+      "start": 714,
+      "text": "startups to do because you know if"
+    },
+    {
+      "start": 715,
+      "text": "you're looking at revenue and you"
+    },
+    {
+      "start": 717,
+      "text": "otherwise don't have it that can be a"
+    },
+    {
+      "start": 719,
+      "text": "really difficult decision to make but as"
+    },
+    {
+      "start": 721,
+      "text": "a result you know every one of our"
+    },
+    {
+      "start": 722,
+      "text": "customers really love the fact that we"
+    },
+    {
+      "start": 724,
+      "text": "solve a problem that they really care"
+    },
+    {
+      "start": 726,
+      "text": "about I think that's been pivotal to us"
+    },
+    {
+      "start": 728,
+      "text": "being able to have this trusted advisor"
+    },
+    {
+      "start": 731,
+      "text": "relationship with all of our hosital"
+    },
+    {
+      "start": 732,
+      "text": "Executives and faram is not going to be"
+    },
+    {
+      "start": 735,
+      "text": "able to be the one platform that"
+    },
+    {
+      "start": 737,
+      "text": "everyone everywhere in the world uses"
+    },
+    {
+      "start": 738,
+      "text": "for everything our success is going to"
+    },
+    {
+      "start": 740,
+      "text": "occur by enabling big Tech big"
+    },
+    {
+      "start": 743,
+      "text": "Healthcare governments AI developers by"
+    },
+    {
+      "start": 745,
+      "text": "enabling everyone in the market to be"
+    },
+    {
+      "start": 748,
+      "text": "able to collaborate and deploy AI the"
+    },
+    {
+      "start": 750,
+      "text": "way it needs to be deployed and so I"
+    },
+    {
+      "start": 752,
+      "text": "don't think of firm as this kind of"
+    },
+    {
+      "start": 754,
+      "text": "search bar for the internet or as Uber"
+    },
+    {
+      "start": 757,
+      "text": "for taxis I don't think we're going to"
+    },
+    {
+      "start": 759,
+      "text": "be this dominant kind of front Force I"
+    },
+    {
+      "start": 761,
+      "text": "think that we are building the pipelines"
+    },
+    {
+      "start": 763,
+      "text": "we're building the tooling the pick and"
+    },
+    {
+      "start": 764,
+      "text": "shovels that ideally everyone everywhere"
+    },
+    {
+      "start": 767,
+      "text": "is using and if you can make AI truly"
+    },
+    {
+      "start": 771,
+      "text": "fungible truly liquid um truly zero cost"
+    },
+    {
+      "start": 775,
+      "text": "to adopt then you end up with that"
+    },
+    {
+      "start": 778,
+      "text": "future state I talked about which is a"
+    },
+    {
+      "start": 780,
+      "text": "fundamentally transformed Healthcare"
+    },
+    {
+      "start": 782,
+      "text": "System"
+    },
+    {
+      "start": 784,
+      "text": "[Music]"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 361,
+  "timestamp": "2025-07-24T08:25:15.762Z"
+}

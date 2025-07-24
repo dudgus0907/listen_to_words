@@ -1,0 +1,912 @@
+1
+00:00:00,040 --> 00:00:03,800
+a lot of people think that if you come
+
+2
+00:00:02,159 --> 00:00:05,279
+up with a really good idea that's all
+
+3
+00:00:03,800 --> 00:00:07,319
+you need but you need to understand isra
+
+4
+00:00:05,279 --> 00:00:09,880
+competition who has done this before
+
+5
+00:00:07,319 --> 00:00:11,599
+have they been successful if not why not
+
+6
+00:00:09,880 --> 00:00:13,880
+why would you be more successful than
+
+7
+00:00:11,599 --> 00:00:15,120
+other people you really need to deeply
+
+8
+00:00:13,880 --> 00:00:16,800
+understand why you will be better than
+
+9
+00:00:15,120 --> 00:00:18,680
+them and how you will be better than
+
+10
+00:00:16,800 --> 00:00:20,279
+them and you don't understand why you're
+
+11
+00:00:18,680 --> 00:00:22,880
+building when you're building it you
+
+12
+00:00:20,279 --> 00:00:25,240
+can't be successful hi everyone I'm
+
+13
+00:00:22,880 --> 00:00:26,640
+sheny co-founder in C at merch we help
+
+14
+00:00:25,240 --> 00:00:28,880
+companies add Integrations through
+
+15
+00:00:26,640 --> 00:00:31,800
+products really easily across categories
+
+16
+00:00:28,880 --> 00:00:33,360
+including Hrs ATS accounting serum
+
+17
+00:00:31,800 --> 00:00:35,960
+ticketing file storage and marketing
+
+18
+00:00:33,360 --> 00:00:38,079
+automation we've raised $75 million from
+
+19
+00:00:35,960 --> 00:00:40,280
+investors including Excel Nea and
+
+20
+00:00:38,079 --> 00:00:42,910
+addition and we're currently operating
+
+21
+00:00:40,280 --> 00:00:46,020
+in New York City San Francisco and
+
+22
+00:00:42,910 --> 00:00:46,020
+[Music]
+
+23
+00:00:50,160 --> 00:00:55,280
+Berlin oh my gosh trying to get your
+
+24
+00:00:52,600 --> 00:00:57,079
+first customers is so painful we spent a
+
+25
+00:00:55,280 --> 00:00:58,559
+long time building in stealth before we
+
+26
+00:00:57,079 --> 00:00:59,519
+started fundraising we were starting to
+
+27
+00:00:58,559 --> 00:01:00,879
+build a product and then once we
+
+28
+00:00:59,519 --> 00:01:02,320
+fundraised we continued building the
+
+29
+00:01:00,879 --> 00:01:04,400
+product and we actually didn't launch
+
+30
+00:01:02,320 --> 00:01:05,720
+for a year or so and once you come out
+
+31
+00:01:04,400 --> 00:01:08,360
+of steth you just expect all the
+
+32
+00:01:05,720 --> 00:01:10,920
+customers to come and they don't so we
+
+33
+00:01:08,360 --> 00:01:13,200
+were basically outbound begging people
+
+34
+00:01:10,920 --> 00:01:15,560
+to take a chance on us and to try our
+
+35
+00:01:13,200 --> 00:01:17,200
+product out and those early customer
+
+36
+00:01:15,560 --> 00:01:19,119
+sales processes taught me a lot about
+
+37
+00:01:17,200 --> 00:01:20,280
+what questions people would ask and I
+
+38
+00:01:19,119 --> 00:01:21,640
+think one thing that Gil and I did
+
+39
+00:01:20,280 --> 00:01:23,560
+really well was we really packed our
+
+40
+00:01:21,640 --> 00:01:24,640
+calendars with as many sales calls as
+
+41
+00:01:23,560 --> 00:01:26,240
+possible so we were pretty much like
+
+42
+00:01:24,640 --> 00:01:28,439
+from 10:00 a.m. to 9:00 p.m. both of us
+
+43
+00:01:26,240 --> 00:01:30,439
+just on calls it was a really tough
+
+44
+00:01:28,439 --> 00:01:32,920
+period in our life um we were just in
+
+45
+00:01:30,439 --> 00:01:34,520
+phone booths all day on calls and back
+
+46
+00:01:32,920 --> 00:01:36,479
+to back to back but it's it was a really
+
+47
+00:01:34,520 --> 00:01:38,759
+great muscle for just hearing the same
+
+48
+00:01:36,479 --> 00:01:40,520
+call over and over again AB testing
+
+49
+00:01:38,759 --> 00:01:42,320
+different pitches and seeing how people
+
+50
+00:01:40,520 --> 00:01:43,600
+reacted also just seeing the wide
+
+51
+00:01:42,320 --> 00:01:45,399
+variety of questions that people might
+
+52
+00:01:43,600 --> 00:01:47,600
+ask so by the time we hired our first
+
+53
+00:01:45,399 --> 00:01:48,840
+salesperson we were able to teach him
+
+54
+00:01:47,600 --> 00:01:50,520
+the answers to the questions that we
+
+55
+00:01:48,840 --> 00:01:51,719
+knew were always going to get asked if
+
+56
+00:01:50,520 --> 00:01:53,640
+we hadn't done that I think it would
+
+57
+00:01:51,719 --> 00:01:55,640
+have been really hard for us to ramp our
+
+58
+00:01:53,640 --> 00:01:56,840
+first salesperson we wouldn't know what
+
+59
+00:01:55,640 --> 00:01:58,520
+questions would come we wouldn't know
+
+60
+00:01:56,840 --> 00:02:00,039
+how to answer them and so by the time he
+
+61
+00:01:58,520 --> 00:02:01,280
+came we were able to say hey this is the
+
+62
+00:02:00,039 --> 00:02:02,640
+way that customers really like this is
+
+63
+00:02:01,280 --> 00:02:04,280
+what really resonates with them this is
+
+64
+00:02:02,640 --> 00:02:05,600
+what you shouldn't say so I think it was
+
+65
+00:02:04,280 --> 00:02:07,360
+really helpful for me and Gil to just
+
+66
+00:02:05,600 --> 00:02:09,039
+get those first reps in because it made
+
+67
+00:02:07,360 --> 00:02:10,679
+it so that the first salesperson that
+
+68
+00:02:09,039 --> 00:02:14,440
+came in and head of sales he was really
+
+69
+00:02:10,679 --> 00:02:14,440
+prepped and he was he was set up for
+
+70
+00:02:16,879 --> 00:02:20,920
+success to be honest we found product
+
+71
+00:02:19,000 --> 00:02:22,280
+Market fit pretty early on I think the
+
+72
+00:02:20,920 --> 00:02:23,879
+process of finding product Market fit
+
+73
+00:02:22,280 --> 00:02:25,640
+actually mostly happened before we even
+
+74
+00:02:23,879 --> 00:02:26,920
+started the companies user interviews
+
+75
+00:02:25,640 --> 00:02:28,360
+getting validation from people and how
+
+76
+00:02:26,920 --> 00:02:30,080
+much they would spend money all the
+
+77
+00:02:28,360 --> 00:02:32,040
+research had really happened before we
+
+78
+00:02:30,080 --> 00:02:33,360
+even started building I just didn't want
+
+79
+00:02:32,040 --> 00:02:34,640
+us to start building the product and
+
+80
+00:02:33,360 --> 00:02:35,879
+figuring it out later I wanted us to do
+
+81
+00:02:34,640 --> 00:02:37,360
+the research up front and we probably
+
+82
+00:02:35,879 --> 00:02:39,519
+spent six to nine months of just doing
+
+83
+00:02:37,360 --> 00:02:41,840
+user research before we quit our jobs a
+
+84
+00:02:39,519 --> 00:02:43,480
+lot of people think that if you come up
+
+85
+00:02:41,840 --> 00:02:44,840
+with a really good idea that's all you
+
+86
+00:02:43,480 --> 00:02:46,840
+need but you need to understand isra
+
+87
+00:02:44,840 --> 00:02:49,360
+competition who has done this before
+
+88
+00:02:46,840 --> 00:02:51,080
+have they been successful if not why not
+
+89
+00:02:49,360 --> 00:02:53,280
+why would you be more successful than
+
+90
+00:02:51,080 --> 00:02:54,840
+other people also the chances of you
+
+91
+00:02:53,280 --> 00:02:56,800
+thinking of an idea that no one else has
+
+92
+00:02:54,840 --> 00:02:58,080
+thought of before is extremely unlikely
+
+93
+00:02:56,800 --> 00:02:59,440
+probably someone else has tried this
+
+94
+00:02:58,080 --> 00:03:00,560
+before and they probably haven't
+
+95
+00:02:59,440 --> 00:03:01,840
+unsuccess successful if you haven't
+
+96
+00:03:00,560 --> 00:03:03,239
+heard of them or they're maybe in the
+
+97
+00:03:01,840 --> 00:03:04,959
+early parts of the journey so you really
+
+98
+00:03:03,239 --> 00:03:06,760
+need to deeply understand why you will
+
+99
+00:03:04,959 --> 00:03:08,920
+be better than them and how you will be
+
+100
+00:03:06,760 --> 00:03:10,720
+better than them so we started every
+
+101
+00:03:08,920 --> 00:03:12,760
+week and we would spend a day together
+
+102
+00:03:10,720 --> 00:03:14,560
+just reading up on the industry trying
+
+103
+00:03:12,760 --> 00:03:15,840
+to better understand it trying to better
+
+104
+00:03:14,560 --> 00:03:17,400
+understand why companies out there that
+
+105
+00:03:15,840 --> 00:03:19,640
+were weren't solving this problem and if
+
+106
+00:03:17,400 --> 00:03:21,400
+they were trying to why it wasn't quite
+
+107
+00:03:19,640 --> 00:03:23,000
+the right solution so I think the
+
+108
+00:03:21,400 --> 00:03:24,400
+research is so so so important because
+
+109
+00:03:23,000 --> 00:03:27,080
+if you're not opinionated about it and
+
+110
+00:03:24,400 --> 00:03:28,920
+you don't understand why you're building
+
+111
+00:03:27,080 --> 00:03:31,760
+when you're building it you can't be
+
+112
+00:03:28,920 --> 00:03:31,760
+successful
+
+113
+00:03:34,560 --> 00:03:37,879
+I think a consistent characteristic of
+
+114
+00:03:36,080 --> 00:03:40,000
+billion dollar companies is successfully
+
+115
+00:03:37,879 --> 00:03:42,159
+operating at scale with each team
+
+116
+00:03:40,000 --> 00:03:44,239
+operating on its own so what that means
+
+117
+00:03:42,159 --> 00:03:45,760
+is that each manager is successful at
+
+118
+00:03:44,239 --> 00:03:48,360
+operating their team and the manager
+
+119
+00:03:45,760 --> 00:03:50,840
+about that as well there's no individual
+
+120
+00:03:48,360 --> 00:03:52,519
+that needs to contribute a ton in order
+
+121
+00:03:50,840 --> 00:03:54,720
+to make the company successful the teams
+
+122
+00:03:52,519 --> 00:03:56,640
+are just operating at skill on their own
+
+123
+00:03:54,720 --> 00:03:58,959
+and that's really hard to achieve
+
+124
+00:03:56,640 --> 00:04:00,400
+especially from an earlier stage where
+
+125
+00:03:58,959 --> 00:04:02,280
+each individual is the one that's
+
+126
+00:04:00,400 --> 00:04:03,680
+contributing a lot to the company so I
+
+127
+00:04:02,280 --> 00:04:05,079
+think that transformation from
+
+128
+00:04:03,680 --> 00:04:07,000
+individuals contributing a lot to the
+
+129
+00:04:05,079 --> 00:04:08,840
+company to each team operating
+
+130
+00:04:07,000 --> 00:04:11,519
+autonomously and operating on their own
+
+131
+00:04:08,840 --> 00:04:13,959
+cross functionally that's the goal but
+
+132
+00:04:11,519 --> 00:04:13,959
+it's hard to
+
+133
+00:04:16,320 --> 00:04:20,479
+do it's not always natural for friends
+
+134
+00:04:18,759 --> 00:04:22,360
+to turn into co-founders and you really
+
+135
+00:04:20,479 --> 00:04:24,280
+have to have a foundation of trust you
+
+136
+00:04:22,360 --> 00:04:27,280
+also have to have complimentary Skillet
+
+137
+00:04:24,280 --> 00:04:29,160
+my co-founder is a genius he is the best
+
+138
+00:04:27,280 --> 00:04:30,720
+software engineer I know even to this
+
+139
+00:04:29,160 --> 00:04:32,560
+day Gil and I knew each other from
+
+140
+00:04:30,720 --> 00:04:33,960
+freshman year of college we met in
+
+141
+00:04:32,560 --> 00:04:35,320
+orientation and then we were in all the
+
+142
+00:04:33,960 --> 00:04:36,960
+same computer science class that's at
+
+143
+00:04:35,320 --> 00:04:38,680
+Columbia and so we knew each other
+
+144
+00:04:36,960 --> 00:04:40,520
+pretty well socially but we were also
+
+145
+00:04:38,680 --> 00:04:42,800
+fortunate enough to be on engineering
+
+146
+00:04:40,520 --> 00:04:44,680
+student council together in college and
+
+147
+00:04:42,800 --> 00:04:46,320
+that actually became a pretty helpful
+
+148
+00:04:44,680 --> 00:04:47,600
+proxy for what it would be like to work
+
+149
+00:04:46,320 --> 00:04:49,600
+together we were class president and
+
+150
+00:04:47,600 --> 00:04:51,680
+vice president our senior year and after
+
+151
+00:04:49,600 --> 00:04:53,720
+school we kept in contact and Gil and I
+
+152
+00:04:51,680 --> 00:04:55,720
+naturally just living our parallel lives
+
+153
+00:04:53,720 --> 00:04:57,960
+ended up getting skill sets that really
+
+154
+00:04:55,720 --> 00:05:00,000
+worked well together I'm kind of like a
+
+155
+00:04:57,960 --> 00:05:02,039
+master of none and I just I know a lot
+
+156
+00:05:00,000 --> 00:05:04,520
+of things I can code I can sell do
+
+157
+00:05:02,039 --> 00:05:06,000
+Financial forecasting but Gil is like
+
+158
+00:05:04,520 --> 00:05:08,240
+the best software engineer ever and he's
+
+159
+00:05:06,000 --> 00:05:09,520
+a great people leader and I felt like
+
+160
+00:05:08,240 --> 00:05:11,160
+the combination of the two would
+
+161
+00:05:09,520 --> 00:05:13,000
+actually be a really great pair the
+
+162
+00:05:11,160 --> 00:05:15,000
+advantages are it's just really fun
+
+163
+00:05:13,000 --> 00:05:17,000
+everyone that we've hired is so great we
+
+164
+00:05:15,000 --> 00:05:18,199
+have such a good time at work and a part
+
+165
+00:05:17,000 --> 00:05:19,520
+of that is because Gil and I are good
+
+166
+00:05:18,199 --> 00:05:21,360
+friends like we just really wanted to
+
+167
+00:05:19,520 --> 00:05:23,319
+make sure like the environment around us
+
+168
+00:05:21,360 --> 00:05:24,680
+replicated how much fun we had together
+
+169
+00:05:23,319 --> 00:05:25,880
+and it seems like so far we've been able
+
+170
+00:05:24,680 --> 00:05:28,000
+to scale that which is great
+
+171
+00:05:25,880 --> 00:05:30,120
+disadvantages are that your friendship
+
+172
+00:05:28,000 --> 00:05:32,360
+does change forever it's great because
+
+173
+00:05:30,120 --> 00:05:33,680
+it's more textured and it's deeper but
+
+174
+00:05:32,360 --> 00:05:35,080
+you probably don't want to hang out on
+
+175
+00:05:33,680 --> 00:05:37,199
+the weekends all the time together
+
+176
+00:05:35,080 --> 00:05:39,160
+because you're always together the
+
+177
+00:05:37,199 --> 00:05:40,800
+weekday you just end up like having a
+
+178
+00:05:39,160 --> 00:05:42,360
+friendship that's mostly just like okay
+
+179
+00:05:40,800 --> 00:05:43,800
+it's much more like you want to just
+
+180
+00:05:42,360 --> 00:05:45,360
+hang out you want to have a good time
+
+181
+00:05:43,800 --> 00:05:47,280
+but then now it's almost like you have
+
+182
+00:05:45,360 --> 00:05:48,479
+like a kid together and you always are
+
+183
+00:05:47,280 --> 00:05:50,400
+caring about this kid and you want to
+
+184
+00:05:48,479 --> 00:05:52,240
+talk about this kid together and that's
+
+185
+00:05:50,400 --> 00:05:55,479
+the company and a disadvantage of that
+
+186
+00:05:52,240 --> 00:05:55,479
+is just like your friendship completely
+
+187
+00:05:58,160 --> 00:06:02,280
+changes one thing that has helped a lot
+
+188
+00:06:00,680 --> 00:06:04,120
+with the really hard parts of being a
+
+189
+00:06:02,280 --> 00:06:06,080
+Founder is just making friends who are
+
+190
+00:06:04,120 --> 00:06:07,440
+peers I have a really great group of
+
+191
+00:06:06,080 --> 00:06:09,599
+female founder friends in New York City
+
+192
+00:06:07,440 --> 00:06:11,240
+that I made after I started merge and we
+
+193
+00:06:09,599 --> 00:06:13,520
+just talk about everything like
+
+194
+00:06:11,240 --> 00:06:15,680
+everything bad especially and it's
+
+195
+00:06:13,520 --> 00:06:16,759
+really hard to break that barrier with a
+
+196
+00:06:15,680 --> 00:06:17,720
+lot of Founders because people just
+
+197
+00:06:16,759 --> 00:06:20,000
+don't want to share that kind of
+
+198
+00:06:17,720 --> 00:06:20,960
+information it's very very sensitive
+
+199
+00:06:20,000 --> 00:06:22,120
+like you don't want to share your
+
+200
+00:06:20,960 --> 00:06:23,360
+numbers you don't want to share like
+
+201
+00:06:22,120 --> 00:06:24,599
+things that are going badly you don't
+
+202
+00:06:23,360 --> 00:06:25,759
+want to share about people who hate you
+
+203
+00:06:24,599 --> 00:06:27,560
+you don't want to share about customers
+
+204
+00:06:25,759 --> 00:06:29,599
+that hate you but like having people
+
+205
+00:06:27,560 --> 00:06:31,400
+that you can talk about that with really
+
+206
+00:06:29,599 --> 00:06:33,400
+makes it easier because everyone's going
+
+207
+00:06:31,400 --> 00:06:35,080
+through the same thing and everyone
+
+208
+00:06:33,400 --> 00:06:37,440
+hates their lives and I think just once
+
+209
+00:06:35,080 --> 00:06:39,720
+you realize that every founder journey
+
+210
+00:06:37,440 --> 00:06:41,800
+is really painful and that no one has it
+
+211
+00:06:39,720 --> 00:06:43,440
+easy it just makes it a lot it makes it
+
+212
+00:06:41,800 --> 00:06:45,560
+a lot better I think one thing that I've
+
+213
+00:06:43,440 --> 00:06:47,400
+learned is as I'm living through life
+
+214
+00:06:45,560 --> 00:06:49,800
+I'm not really grateful for the time
+
+215
+00:06:47,400 --> 00:06:51,639
+that I'm currently in but then as time
+
+216
+00:06:49,800 --> 00:06:53,160
+passes and I'm in the following year I
+
+217
+00:06:51,639 --> 00:06:55,160
+look back and I'm like wow that was such
+
+218
+00:06:53,160 --> 00:06:57,720
+a great time period and that actually
+
+219
+00:06:55,160 --> 00:06:59,919
+has consistently happened every year now
+
+220
+00:06:57,720 --> 00:07:02,199
+and so now I've realized like I'm
+
+221
+00:06:59,919 --> 00:07:04,319
+currently living in a time that I will
+
+222
+00:07:02,199 --> 00:07:05,840
+like look very fondly on in the future
+
+223
+00:07:04,319 --> 00:07:07,680
+and at some point like this journey with
+
+224
+00:07:05,840 --> 00:07:09,680
+merge will end and I'll be really really
+
+225
+00:07:07,680 --> 00:07:11,039
+sad about it so I think right now I'm
+
+226
+00:07:09,680 --> 00:07:15,039
+just really trying to like appreciate
+
+227
+00:07:11,039 --> 00:07:15,039
+every single day as much as possible
+
+228
+00:07:15,410 --> 00:07:26,149
+[Music]
+

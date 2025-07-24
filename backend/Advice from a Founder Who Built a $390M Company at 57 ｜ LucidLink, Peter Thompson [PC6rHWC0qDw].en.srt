@@ -1,0 +1,1608 @@
+1
+00:00:00,080 --> 00:00:05,560
+So were were there days when I regretted
+
+2
+00:00:03,040 --> 00:00:08,639
+taking the step to create our own
+
+3
+00:00:05,560 --> 00:00:10,880
+company? Yes, there were mainly nights
+
+4
+00:00:08,639 --> 00:00:13,679
+like dark nights when the demons come
+
+5
+00:00:10,880 --> 00:00:15,839
+out and things are really tough. No
+
+6
+00:00:13,679 --> 00:00:18,160
+funding, capital markets have dried up
+
+7
+00:00:15,839 --> 00:00:20,560
+and a short runway. I went out and I
+
+8
+00:00:18,160 --> 00:00:24,960
+started asking all my mentors and all of
+
+9
+00:00:20,560 --> 00:00:27,119
+the uh people for advice and they said,
+
+10
+00:00:24,960 --> 00:00:30,080
+"Lay off everybody you can except just
+
+11
+00:00:27,119 --> 00:00:32,160
+the core people. protect the IP, live to
+
+12
+00:00:30,080 --> 00:00:33,800
+fight another day. George and I looked
+
+13
+00:00:32,160 --> 00:00:36,399
+at each other and
+
+14
+00:00:33,800 --> 00:00:39,600
+said, "That doesn't really align with
+
+15
+00:00:36,399 --> 00:00:42,719
+the core values that we said we were all
+
+16
+00:00:39,600 --> 00:00:44,800
+about. And if we don't use our core
+
+17
+00:00:42,719 --> 00:00:46,440
+values to make the hardest decision of
+
+18
+00:00:44,800 --> 00:00:49,600
+our life, then they're not really our
+
+19
+00:00:46,440 --> 00:00:51,840
+values." So, we said, "All right, we're
+
+20
+00:00:49,600 --> 00:00:53,920
+not going to do that." Instead, we got
+
+21
+00:00:51,840 --> 00:00:56,399
+the entire team together, about 25
+
+22
+00:00:53,920 --> 00:00:59,600
+people at the time. Uh we told them
+
+23
+00:00:56,399 --> 00:01:02,079
+exactly the what was going on. We asked
+
+24
+00:00:59,600 --> 00:01:04,559
+everybody to take deep cuts to have a
+
+25
+00:01:02,079 --> 00:01:06,479
+belief in the company and us to feel
+
+26
+00:01:04,559 --> 00:01:09,119
+figure out how we're going to weather
+
+27
+00:01:06,479 --> 00:01:12,080
+this storm and we ended up keeping
+
+28
+00:01:09,119 --> 00:01:14,240
+everybody. I don't think I slept during
+
+29
+00:01:12,080 --> 00:01:16,240
+that period. I mean, yeah, I closed my
+
+30
+00:01:14,240 --> 00:01:18,240
+eyes at night, but you know, it was just
+
+31
+00:01:16,240 --> 00:01:20,560
+terrible. It wasn't just me anymore. It
+
+32
+00:01:18,240 --> 00:01:23,280
+was 25 people and their families who had
+
+33
+00:01:20,560 --> 00:01:25,439
+a belief in what we were doing. And
+
+34
+00:01:23,280 --> 00:01:28,240
+during that time, that's when we did
+
+35
+00:01:25,439 --> 00:01:30,400
+find our product market fit. It was
+
+36
+00:01:28,240 --> 00:01:33,840
+during that time we got the first call
+
+37
+00:01:30,400 --> 00:01:36,940
+from A&D networks and they said, "Can
+
+38
+00:01:33,840 --> 00:01:46,680
+you help us?" And we said,
+
+39
+00:01:36,940 --> 00:01:49,439
+[Music]
+
+40
+00:01:46,680 --> 00:01:52,640
+"Yeah." My name is Pete Thompson. I'm
+
+41
+00:01:49,439 --> 00:01:56,399
+co-founder and CEO of Lucid Link. Lucid
+
+42
+00:01:52,640 --> 00:01:59,600
+Link transforms cloud storage into an
+
+43
+00:01:56,399 --> 00:02:02,159
+unlimited high-performance drive that
+
+44
+00:01:59,600 --> 00:02:04,399
+can be accessed from anywhere and
+
+45
+00:02:02,159 --> 00:02:08,080
+collaborated on with your team without
+
+46
+00:02:04,399 --> 00:02:10,640
+having to synchronize, download or ship
+
+47
+00:02:08,080 --> 00:02:13,840
+files around. Lucid Link has over a
+
+48
+00:02:10,640 --> 00:02:16,319
+100,000 active users now and we've grown
+
+49
+00:02:13,840 --> 00:02:20,160
+the business over the last few years
+
+50
+00:02:16,319 --> 00:02:22,959
+from effectively zero to over 40 million
+
+51
+00:02:20,160 --> 00:02:29,800
+in ARR. Our next stage is we're focusing
+
+52
+00:02:22,959 --> 00:02:29,800
+on that 50 to 100 million ARR milestone.
+
+53
+00:02:33,400 --> 00:02:37,840
+Embracing
+
+54
+00:02:35,560 --> 00:02:40,319
+ambiguity. That was one of the things I
+
+55
+00:02:37,840 --> 00:02:43,200
+think I learned early on in my life. I
+
+56
+00:02:40,319 --> 00:02:45,599
+was in a program to become a doctor. I
+
+57
+00:02:43,200 --> 00:02:48,400
+was in a premed program. I thought
+
+58
+00:02:45,599 --> 00:02:50,720
+that's what my path was. And it was just
+
+59
+00:02:48,400 --> 00:02:54,000
+by chance that I had this opportunity to
+
+60
+00:02:50,720 --> 00:02:56,239
+go to Japan. And as it turned out, it it
+
+61
+00:02:54,000 --> 00:02:59,200
+changed the trajectory of my life. after
+
+62
+00:02:56,239 --> 00:03:01,840
+I had spent a year of uh university
+
+63
+00:02:59,200 --> 00:03:04,159
+studying in Japan and just realized that
+
+64
+00:03:01,840 --> 00:03:06,159
+I wanted to do something in my career
+
+65
+00:03:04,159 --> 00:03:09,280
+that involved Japanese that I had
+
+66
+00:03:06,159 --> 00:03:12,159
+learned. So I joined data core as uh
+
+67
+00:03:09,280 --> 00:03:15,760
+employee number 20. My role in dataore
+
+68
+00:03:12,159 --> 00:03:18,560
+was to help them establish their
+
+69
+00:03:15,760 --> 00:03:20,959
+business in Asia Pacific. But in doing
+
+70
+00:03:18,560 --> 00:03:22,959
+so, I spent a lot of time traveling to
+
+71
+00:03:20,959 --> 00:03:25,280
+these areas and speaking to people and I
+
+72
+00:03:22,959 --> 00:03:28,000
+had to speak to them as the
+
+73
+00:03:25,280 --> 00:03:29,920
+representative of data core as a storage
+
+74
+00:03:28,000 --> 00:03:32,000
+expert. But there was a problem. I
+
+75
+00:03:29,920 --> 00:03:34,959
+wasn't a storage expert at the time. I
+
+76
+00:03:32,000 --> 00:03:37,200
+needed to be able to gain their trust. I
+
+77
+00:03:34,959 --> 00:03:39,360
+couldn't lie to them. I couldn't pretend
+
+78
+00:03:37,200 --> 00:03:41,280
+that I knew things I didn't. So, there
+
+79
+00:03:39,360 --> 00:03:43,360
+were a lot of very uncomfortable moments
+
+80
+00:03:41,280 --> 00:03:46,000
+where I was kind of right on that edge.
+
+81
+00:03:43,360 --> 00:03:48,720
+I knew I was slightly out of my element,
+
+82
+00:03:46,000 --> 00:03:50,879
+but I was honest about it at but at the
+
+83
+00:03:48,720 --> 00:03:52,400
+same time they realized, okay, he's
+
+84
+00:03:50,879 --> 00:03:54,159
+still, you know, we can we can trust
+
+85
+00:03:52,400 --> 00:03:56,640
+what he's saying. And gradually over
+
+86
+00:03:54,159 --> 00:03:58,959
+time and through a lot of uncomfortable
+
+87
+00:03:56,640 --> 00:04:00,799
+moments, I just that's how you learn.
+
+88
+00:03:58,959 --> 00:04:03,599
+You know, you push yourself out of your
+
+89
+00:04:00,799 --> 00:04:04,799
+comfort zone and you gradually one day
+
+90
+00:04:03,599 --> 00:04:08,080
+you wake up and you realize, you know
+
+91
+00:04:04,799 --> 00:04:08,080
+what, I kind of am an expert.
+
+92
+00:04:09,280 --> 00:04:15,959
+At some point while I was working at
+
+93
+00:04:11,799 --> 00:04:19,840
+dataore I realized that my job was
+
+94
+00:04:15,959 --> 00:04:23,040
+becoming easy for me. It became a little
+
+95
+00:04:19,840 --> 00:04:24,880
+bit repetitive. I wasn't growing and I
+
+96
+00:04:23,040 --> 00:04:27,840
+didn't have that feeling of challenge
+
+97
+00:04:24,880 --> 00:04:29,840
+anymore. So all of this told me it's
+
+98
+00:04:27,840 --> 00:04:32,400
+just time to move on. But I wasn't sure
+
+99
+00:04:29,840 --> 00:04:34,639
+how to move on. But uh it was at this
+
+100
+00:04:32,400 --> 00:04:37,120
+time that a friend of mine had gone
+
+101
+00:04:34,639 --> 00:04:39,600
+through the same program uh the Sloan
+
+102
+00:04:37,120 --> 00:04:41,840
+Fellowship program at Stanford. Well,
+
+103
+00:04:39,600 --> 00:04:43,919
+Mike and I were fishing buddies. So,
+
+104
+00:04:41,840 --> 00:04:45,919
+while you're sitting out on the ocean, I
+
+105
+00:04:43,919 --> 00:04:47,600
+learned more about the time he spent at
+
+106
+00:04:45,919 --> 00:04:49,360
+Stanford. And he finally said, you know,
+
+107
+00:04:47,600 --> 00:04:51,440
+this was you should just go there, do
+
+108
+00:04:49,360 --> 00:04:53,520
+this program, find a figure out
+
+109
+00:04:51,440 --> 00:04:55,919
+something to do and start a company. And
+
+110
+00:04:53,520 --> 00:04:58,720
+I said, "Huh, yeah, maybe I should. Let
+
+111
+00:04:55,919 --> 00:05:00,720
+me try that." And so I I was accepted
+
+112
+00:04:58,720 --> 00:05:03,040
+into the program and I went into it with
+
+113
+00:05:00,720 --> 00:05:05,520
+that. I said, "Okay, I I'm I've got one
+
+114
+00:05:03,040 --> 00:05:07,759
+year here. I want to address some things
+
+115
+00:05:05,520 --> 00:05:10,000
+that I want about myself, challenge
+
+116
+00:05:07,759 --> 00:05:12,720
+myself in in some uncomfortable
+
+117
+00:05:10,000 --> 00:05:15,039
+situations and either come up with an
+
+118
+00:05:12,720 --> 00:05:17,600
+idea or meet some people who have an
+
+119
+00:05:15,039 --> 00:05:20,000
+idea that I can join and start a company
+
+120
+00:05:17,600 --> 00:05:23,840
+from scratch." How old was I when I made
+
+121
+00:05:20,000 --> 00:05:27,759
+that decision? Uh I was 48. I was the
+
+122
+00:05:23,840 --> 00:05:27,759
+oldest person in the program.
+
+123
+00:05:33,120 --> 00:05:36,720
+How did it feel to go back to graduate
+
+124
+00:05:35,039 --> 00:05:41,960
+school after such a long time in the
+
+125
+00:05:36,720 --> 00:05:45,440
+workforce? It felt really uncomfortable,
+
+126
+00:05:41,960 --> 00:05:47,520
+but also it was amazing. I was worried
+
+127
+00:05:45,440 --> 00:05:51,680
+that the time was going to go too fast.
+
+128
+00:05:47,520 --> 00:05:54,320
+I was worried that after a year maybe I
+
+129
+00:05:51,680 --> 00:05:57,440
+didn't know what that next thing was
+
+130
+00:05:54,320 --> 00:05:59,479
+going to be. I felt I have to make the
+
+131
+00:05:57,440 --> 00:06:02,720
+best use of this
+
+132
+00:05:59,479 --> 00:06:04,720
+time. I think it was October or November
+
+133
+00:06:02,720 --> 00:06:06,560
+when I was in in the program. I didn't
+
+134
+00:06:04,720 --> 00:06:08,479
+know what I was going to do, although I
+
+135
+00:06:06,560 --> 00:06:11,360
+was certain that it would have nothing
+
+136
+00:06:08,479 --> 00:06:13,039
+to do with storage. That was the last
+
+137
+00:06:11,360 --> 00:06:15,680
+thing I thought I was going to do. All
+
+138
+00:06:13,039 --> 00:06:17,840
+of a sudden, my co-founder George called
+
+139
+00:06:15,680 --> 00:06:20,240
+me up. We didn't work very closely at
+
+140
+00:06:17,840 --> 00:06:22,319
+Dataore, but I knew him well because he
+
+141
+00:06:20,240 --> 00:06:25,280
+was the first engineer that they hired.
+
+142
+00:06:22,319 --> 00:06:28,080
+He was known to be a brilliant engineer.
+
+143
+00:06:25,280 --> 00:06:29,840
+He called me up and he said, "Hey, Pete,
+
+144
+00:06:28,080 --> 00:06:32,240
+I don't know if you realize this, but I
+
+145
+00:06:29,840 --> 00:06:34,960
+left shortly after you did because I had
+
+146
+00:06:32,240 --> 00:06:37,680
+this idea in my head. I needed to get it
+
+147
+00:06:34,960 --> 00:06:39,360
+out of my brain and into code and see if
+
+148
+00:06:37,680 --> 00:06:41,759
+it had merit. Are you interested in
+
+149
+00:06:39,360 --> 00:06:44,479
+seeing what I built?" And I thought,
+
+150
+00:06:41,759 --> 00:06:47,120
+"Yeah, of course I am." He showed me a
+
+151
+00:06:44,479 --> 00:06:48,479
+demo that blew my mind after all those
+
+152
+00:06:47,120 --> 00:06:50,639
+years in storage. I said, "Wait a
+
+153
+00:06:48,479 --> 00:06:52,479
+minute. Is this just a demo or is this
+
+154
+00:06:50,639 --> 00:06:54,560
+actually happening live because this
+
+155
+00:06:52,479 --> 00:06:56,800
+shouldn't be possible? He said, "Look,
+
+156
+00:06:54,560 --> 00:06:59,599
+I'm I've got this idea. I'm looking for
+
+157
+00:06:56,800 --> 00:07:01,599
+some partners to help find investors to
+
+158
+00:06:59,599 --> 00:07:04,319
+grow the business, to do all of this,
+
+159
+00:07:01,599 --> 00:07:06,479
+and I'm at Stanford learning how to
+
+160
+00:07:04,319 --> 00:07:08,160
+start a business, get investors, know
+
+161
+00:07:06,479 --> 00:07:10,160
+how to build a business, and I'm looking
+
+162
+00:07:08,160 --> 00:07:13,199
+for an idea. This could be a perfect
+
+163
+00:07:10,160 --> 00:07:15,199
+combination. Tell you what, let's use
+
+164
+00:07:13,199 --> 00:07:18,319
+the rest of the time I have here at
+
+165
+00:07:15,199 --> 00:07:20,000
+Stanford and the resources, some of the
+
+166
+00:07:18,319 --> 00:07:21,840
+classes that are available to me to
+
+167
+00:07:20,000 --> 00:07:24,479
+really pressure test this idea. Let's
+
+168
+00:07:21,840 --> 00:07:26,880
+try to prove to ourselves that there's
+
+169
+00:07:24,479 --> 00:07:29,759
+nothing here. Let's try to disprove this
+
+170
+00:07:26,880 --> 00:07:31,759
+theory that there's a company in this
+
+171
+00:07:29,759 --> 00:07:34,560
+technology. The problem that we were
+
+172
+00:07:31,759 --> 00:07:36,639
+trying to solve was you've got large
+
+173
+00:07:34,560 --> 00:07:38,880
+sets of data and a whole bunch of people
+
+174
+00:07:36,639 --> 00:07:41,440
+that need to access it. Some of these
+
+175
+00:07:38,880 --> 00:07:43,280
+files within this data set are super big
+
+176
+00:07:41,440 --> 00:07:45,599
+and that makes it even more difficult.
+
+177
+00:07:43,280 --> 00:07:47,840
+Today you have two choices. You can move
+
+178
+00:07:45,599 --> 00:07:50,000
+the compute and the applications to
+
+179
+00:07:47,840 --> 00:07:51,919
+where the data is stored or you can move
+
+180
+00:07:50,000 --> 00:07:54,319
+the data and the files to where the
+
+181
+00:07:51,919 --> 00:07:57,280
+compute is running but they have to be
+
+182
+00:07:54,319 --> 00:07:59,440
+together. And most of the technology was
+
+183
+00:07:57,280 --> 00:08:02,960
+all based on either moving the data
+
+184
+00:07:59,440 --> 00:08:05,440
+faster or creating replicas of those
+
+185
+00:08:02,960 --> 00:08:07,440
+files so that they were next to the
+
+186
+00:08:05,440 --> 00:08:09,840
+applications. What we were doing was
+
+187
+00:08:07,440 --> 00:08:12,400
+something completely different. We said
+
+188
+00:08:09,840 --> 00:08:15,199
+keep the data stored where it is, keep
+
+189
+00:08:12,400 --> 00:08:18,160
+the compute running to where it is. We
+
+190
+00:08:15,199 --> 00:08:21,039
+will present it as if it is local and
+
+191
+00:08:18,160 --> 00:08:24,319
+our technology will solve the problems
+
+192
+00:08:21,039 --> 00:08:26,240
+around performance and collaboration. If
+
+193
+00:08:24,319 --> 00:08:30,080
+you can break that fundamental
+
+194
+00:08:26,240 --> 00:08:32,880
+difference or fundamental dependency on
+
+195
+00:08:30,080 --> 00:08:35,120
+an application requiring a file to be
+
+196
+00:08:32,880 --> 00:08:37,279
+right next to it, now you can make those
+
+197
+00:08:35,120 --> 00:08:39,680
+decisions separately. You can choose
+
+198
+00:08:37,279 --> 00:08:42,320
+where to store stuff based on place to
+
+199
+00:08:39,680 --> 00:08:45,040
+store it and you can choose where to run
+
+200
+00:08:42,320 --> 00:08:48,399
+your applications based on a separate
+
+201
+00:08:45,040 --> 00:08:50,800
+set of criteria. That unlocks all of the
+
+202
+00:08:48,399 --> 00:08:52,640
+productivity that we've been doing. But
+
+203
+00:08:50,800 --> 00:08:54,959
+first, we had to get funding. We knew
+
+204
+00:08:52,640 --> 00:08:57,440
+this was going to be a difficult and
+
+205
+00:08:54,959 --> 00:08:59,519
+highly technical product to build. So we
+
+206
+00:08:57,440 --> 00:09:01,760
+needed funding and we needed time. After
+
+207
+00:08:59,519 --> 00:09:04,760
+I graduated from Stanford, we began
+
+208
+00:09:01,760 --> 00:09:08,120
+pitching to VCs
+
+209
+00:09:04,760 --> 00:09:12,080
+and they all told us no. They all told
+
+210
+00:09:08,120 --> 00:09:14,399
+us it'll never work. It's a bad idea.
+
+211
+00:09:12,080 --> 00:09:16,880
+People won't pay for it. Even if you do
+
+212
+00:09:14,399 --> 00:09:20,160
+get build it, they won't care. There
+
+213
+00:09:16,880 --> 00:09:22,959
+were so many reasons not to invest in
+
+214
+00:09:20,160 --> 00:09:27,360
+it. And that was hard. Let me tell you,
+
+215
+00:09:22,959 --> 00:09:29,519
+venture capitalists are very smart. They
+
+216
+00:09:27,360 --> 00:09:32,959
+see a lot of great ideas. They have a
+
+217
+00:09:29,519 --> 00:09:34,880
+lot of success uh investing in
+
+218
+00:09:32,959 --> 00:09:37,839
+worldclass companies. So when they tell
+
+219
+00:09:34,880 --> 00:09:41,040
+you that your idea sucks, it's hard to
+
+220
+00:09:37,839 --> 00:09:42,800
+say you're wrong. But you have to you
+
+221
+00:09:41,040 --> 00:09:45,040
+have to believe you have to say that
+
+222
+00:09:42,800 --> 00:09:47,519
+there's something that they don't see.
+
+223
+00:09:45,040 --> 00:09:49,839
+There's something I know that they don't
+
+224
+00:09:47,519 --> 00:09:51,760
+know. They're a generalist. They see a
+
+225
+00:09:49,839 --> 00:09:54,399
+lot of things. I'm a specialist. I know
+
+226
+00:09:51,760 --> 00:09:56,880
+storage. I know this problem firsthand.
+
+227
+00:09:54,399 --> 00:09:58,720
+So, what was the problem? Maybe I'm not
+
+228
+00:09:56,880 --> 00:10:00,800
+uh pitching it correctly. Maybe I have
+
+229
+00:09:58,720 --> 00:10:02,880
+to change my story, you know. So, we
+
+230
+00:10:00,800 --> 00:10:07,200
+kept iterating on trying to figure this
+
+231
+00:10:02,880 --> 00:10:10,800
+out. Finally, after 33 rejections or 33
+
+232
+00:10:07,200 --> 00:10:12,720
+nos, we finally found an investor who
+
+233
+00:10:10,800 --> 00:10:15,200
+said, "I think there is something here."
+
+234
+00:10:12,720 --> 00:10:18,079
+And he was willing to invest in us. That
+
+235
+00:10:15,200 --> 00:10:20,800
+was Steve Anderson at Baseline Ventures.
+
+236
+00:10:18,079 --> 00:10:24,240
+He was well known for picking winners.
+
+237
+00:10:20,800 --> 00:10:27,720
+So the fact that he saw something here
+
+238
+00:10:24,240 --> 00:10:30,320
+really motivated us as well. So we got
+
+239
+00:10:27,720 --> 00:10:33,360
+funded and now we had to build the
+
+240
+00:10:30,320 --> 00:10:35,560
+product and it took 2 years to build
+
+241
+00:10:33,360 --> 00:10:37,399
+this
+
+242
+00:10:35,560 --> 00:10:40,959
+[Music]
+
+243
+00:10:37,399 --> 00:10:43,120
+product. From 2017 to 19 we were
+
+244
+00:10:40,959 --> 00:10:44,959
+building the product. From 2019 we
+
+245
+00:10:43,120 --> 00:10:46,880
+really had the product out and we were
+
+246
+00:10:44,959 --> 00:10:48,800
+trying to find the initial product
+
+247
+00:10:46,880 --> 00:10:52,079
+market fit. So we were getting close to
+
+248
+00:10:48,800 --> 00:10:54,240
+that in 2020. We had to go out and get
+
+249
+00:10:52,079 --> 00:10:56,399
+more funding. We weren't funding because
+
+250
+00:10:54,240 --> 00:10:58,079
+we had the metrics. We were funding
+
+251
+00:10:56,399 --> 00:11:00,320
+because we were running out of money.
+
+252
+00:10:58,079 --> 00:11:02,560
+Not a great position to be in. So we
+
+253
+00:11:00,320 --> 00:11:04,240
+knew that this was still going to be a
+
+254
+00:11:02,560 --> 00:11:06,640
+case where we are going to have to sell
+
+255
+00:11:04,240 --> 00:11:10,640
+vision. We were ready to to do that. We
+
+256
+00:11:06,640 --> 00:11:13,040
+got um a whole list of uh VC meetings
+
+257
+00:11:10,640 --> 00:11:16,079
+set up and on a Monday morning we were
+
+258
+00:11:13,040 --> 00:11:18,560
+driving up Sand Hill Road in early 2020
+
+259
+00:11:16,079 --> 00:11:20,320
+and suddenly we got a phone call and
+
+260
+00:11:18,560 --> 00:11:21,760
+they said, "Oh, hey, by the way, we're
+
+261
+00:11:20,320 --> 00:11:24,079
+going to have to cancel this meeting
+
+262
+00:11:21,760 --> 00:11:26,240
+today. Uh we're not allowed to take any
+
+263
+00:11:24,079 --> 00:11:29,440
+more in-person meetings. We're going to
+
+264
+00:11:26,240 --> 00:11:32,160
+put a pause on all new investments until
+
+265
+00:11:29,440 --> 00:11:34,160
+we kind of see how this CO thing is
+
+266
+00:11:32,160 --> 00:11:36,079
+going to shake out. It'll probably be
+
+267
+00:11:34,160 --> 00:11:38,360
+maybe two weeks or a month and then
+
+268
+00:11:36,079 --> 00:11:41,279
+we'll be back back to business as
+
+269
+00:11:38,360 --> 00:11:43,200
+normal. Well, we've got a couple hours
+
+270
+00:11:41,279 --> 00:11:45,680
+before our meeting in the afternoon.
+
+271
+00:11:43,200 --> 00:11:47,440
+Let's go to a coffee shop and work on
+
+272
+00:11:45,680 --> 00:11:50,079
+our pitch deck. So, we go to the coffee
+
+273
+00:11:47,440 --> 00:11:52,320
+shop and walk in and we get another call
+
+274
+00:11:50,079 --> 00:11:55,279
+the next meeting. Basically, the entire
+
+275
+00:11:52,320 --> 00:11:57,680
+week of VC meetings got wiped out in one
+
+276
+00:11:55,279 --> 00:12:00,800
+day. No funding. Capital markets have
+
+277
+00:11:57,680 --> 00:12:02,920
+dried up and a short runway. That was
+
+278
+00:12:00,800 --> 00:12:05,519
+kind of a moment we went,
+
+279
+00:12:02,920 --> 00:12:08,000
+"Uhoh, what have we done?" I went out
+
+280
+00:12:05,519 --> 00:12:11,399
+and I started asking all my mentors and
+
+281
+00:12:08,000 --> 00:12:14,639
+all of the uh people for advice and they
+
+282
+00:12:11,399 --> 00:12:17,680
+said, "Lay off everybody you can except
+
+283
+00:12:14,639 --> 00:12:19,760
+just a core people. Protect the IP. Live
+
+284
+00:12:17,680 --> 00:12:21,639
+to fight another day." George and I
+
+285
+00:12:19,760 --> 00:12:24,399
+looked at each other and said,
+
+286
+00:12:21,639 --> 00:12:27,360
+"Hm, that doesn't really align with the
+
+287
+00:12:24,399 --> 00:12:30,399
+core values that we said we were all
+
+288
+00:12:27,360 --> 00:12:32,480
+about. And if we don't use our core
+
+289
+00:12:30,399 --> 00:12:34,440
+values to make the hardest decision of
+
+290
+00:12:32,480 --> 00:12:38,480
+our life, then they're not really our
+
+291
+00:12:34,440 --> 00:12:40,959
+values. So we said, "All right, we're
+
+292
+00:12:38,480 --> 00:12:43,040
+not going to do that." Instead, we got
+
+293
+00:12:40,959 --> 00:12:45,200
+the entire team together, about 25
+
+294
+00:12:43,040 --> 00:12:47,680
+people at the time. We were very
+
+295
+00:12:45,200 --> 00:12:50,959
+transparent, which is one of our values.
+
+296
+00:12:47,680 --> 00:12:53,279
+Uh we told them exactly the what was
+
+297
+00:12:50,959 --> 00:12:55,920
+going on. We asked everybody to take
+
+298
+00:12:53,279 --> 00:12:58,000
+deep cuts to have a belief in the
+
+299
+00:12:55,920 --> 00:13:00,880
+company and us to feel figure out how
+
+300
+00:12:58,000 --> 00:13:03,040
+we're going to weather this storm and we
+
+301
+00:13:00,880 --> 00:13:05,839
+ended up keeping everybody. I don't
+
+302
+00:13:03,040 --> 00:13:07,680
+think I slept during that period. I
+
+303
+00:13:05,839 --> 00:13:10,160
+mean, yeah, I closed my eyes at night,
+
+304
+00:13:07,680 --> 00:13:12,560
+but you know, it was just terrible sleep
+
+305
+00:13:10,160 --> 00:13:14,720
+and there was a lot of pressure and it
+
+306
+00:13:12,560 --> 00:13:16,800
+wasn't just me anymore. It was 25 people
+
+307
+00:13:14,720 --> 00:13:19,279
+and their families who had a belief in
+
+308
+00:13:16,800 --> 00:13:21,920
+what we were doing. And during that
+
+309
+00:13:19,279 --> 00:13:24,160
+time, that's when we did find our
+
+310
+00:13:21,920 --> 00:13:27,639
+product market fit. It was during that
+
+311
+00:13:24,160 --> 00:13:32,160
+time we got the first call from A&D
+
+312
+00:13:27,639 --> 00:13:34,160
+Networks and they said, "So, we don't
+
+313
+00:13:32,160 --> 00:13:36,079
+know anything about your company, but
+
+314
+00:13:34,160 --> 00:13:39,600
+somebody over at Adobe said we should
+
+315
+00:13:36,079 --> 00:13:42,480
+call you. Um, we just sent home 80
+
+316
+00:13:39,600 --> 00:13:44,720
+engineers with a a laptop, a hard drive,
+
+317
+00:13:42,480 --> 00:13:46,320
+and a VPN connection, and that's
+
+318
+00:13:44,720 --> 00:13:48,160
+probably going to let us get through
+
+319
+00:13:46,320 --> 00:13:49,600
+about the next 2 weeks of production,
+
+320
+00:13:48,160 --> 00:13:52,560
+and then we're just not sure what we're
+
+321
+00:13:49,600 --> 00:13:55,519
+going to do. Can you help us? And we
+
+322
+00:13:52,560 --> 00:13:57,680
+said, "Yeah, yeah, that's exactly. We
+
+323
+00:13:55,519 --> 00:14:01,279
+can absolutely help you." So we set them
+
+324
+00:13:57,680 --> 00:14:04,399
+up on a P and they the P ended up
+
+325
+00:14:01,279 --> 00:14:08,360
+running from directly into production
+
+326
+00:14:04,399 --> 00:14:11,360
+and we closed them at nearly 100k ARR
+
+327
+00:14:08,360 --> 00:14:13,199
+contract. Now remember we our total ARR
+
+328
+00:14:11,360 --> 00:14:16,160
+at that time with 50 customers was
+
+329
+00:14:13,199 --> 00:14:17,760
+around 100K. So this was huge and it was
+
+330
+00:14:16,160 --> 00:14:20,959
+during that time that we got the next
+
+331
+00:14:17,760 --> 00:14:24,560
+call from Viacom CBS and then the third
+
+332
+00:14:20,959 --> 00:14:26,639
+call from Vice News. And all of them had
+
+333
+00:14:24,560 --> 00:14:29,120
+the same story, the same problem, the
+
+334
+00:14:26,639 --> 00:14:32,160
+same outcome. And at that point, we
+
+335
+00:14:29,120 --> 00:14:35,680
+said, "All right, we are no longer a
+
+336
+00:14:32,160 --> 00:14:38,639
+general file access platform. We are now
+
+337
+00:14:35,680 --> 00:14:42,480
+a creative content collaboration tool."
+
+338
+00:14:38,639 --> 00:14:44,639
+And that's when we went from 100K in ARR
+
+339
+00:14:42,480 --> 00:14:49,360
+to a million that first year and then
+
+340
+00:14:44,639 --> 00:14:52,880
+went from 1 to 5, 5 to 15, 15, 30, and
+
+341
+00:14:49,360 --> 00:14:54,639
+we're still going.
+
+342
+00:14:52,880 --> 00:14:57,920
+to people who haven't found their
+
+343
+00:14:54,639 --> 00:15:00,399
+product market fit or are trying to wait
+
+344
+00:14:57,920 --> 00:15:01,480
+for their opportunity to come. I guess
+
+345
+00:15:00,399 --> 00:15:05,279
+I'd say
+
+346
+00:15:01,480 --> 00:15:07,120
+believe. If you have done the work and
+
+347
+00:15:05,279 --> 00:15:08,560
+you know your product and you know the
+
+348
+00:15:07,120 --> 00:15:10,880
+market, you know there's something
+
+349
+00:15:08,560 --> 00:15:14,760
+there, you have to believe in it and you
+
+350
+00:15:10,880 --> 00:15:19,600
+just have to have the resilience and the
+
+351
+00:15:14,760 --> 00:15:21,279
+grit to to keep bringing it every day.
+
+352
+00:15:19,600 --> 00:15:23,680
+That's the hard thing about being an
+
+353
+00:15:21,279 --> 00:15:25,680
+entrepreneur. You've got to dig deep
+
+354
+00:15:23,680 --> 00:15:27,279
+when no one else believes and you have
+
+355
+00:15:25,680 --> 00:15:29,120
+to believe. Not only do you have to
+
+356
+00:15:27,279 --> 00:15:31,120
+believe, but you have to make sure that
+
+357
+00:15:29,120 --> 00:15:34,639
+your team believes. That would be my
+
+358
+00:15:31,120 --> 00:15:34,639
+advice. You just you can't give
+
+359
+00:15:38,839 --> 00:15:45,680
+up. I was worried that after a year
+
+360
+00:15:42,800 --> 00:15:48,720
+maybe I didn't know what that next thing
+
+361
+00:15:45,680 --> 00:15:52,320
+was going to be. I felt I have to make
+
+362
+00:15:48,720 --> 00:15:54,959
+the best use of this time. So, did you
+
+363
+00:15:52,320 --> 00:15:57,199
+make the best use of that time? I think
+
+364
+00:15:54,959 --> 00:15:59,920
+I made the best use of the time there. I
+
+365
+00:15:57,199 --> 00:16:02,959
+mean, the fact that I was able to start
+
+366
+00:15:59,920 --> 00:16:04,800
+Lucid Link and it's become such a an
+
+367
+00:16:02,959 --> 00:16:08,079
+important part of my life and an
+
+368
+00:16:04,800 --> 00:16:10,000
+important part of almost 200 people who
+
+369
+00:16:08,079 --> 00:16:14,079
+work for the company. It was absolutely
+
+370
+00:16:10,000 --> 00:16:16,800
+worth it. I think u I I can't imagine a
+
+371
+00:16:14,079 --> 00:16:20,320
+better outcome for me personally. How do
+
+372
+00:16:16,800 --> 00:16:22,560
+I think about uh the ability to nurture
+
+373
+00:16:20,320 --> 00:16:24,440
+instinct to challenge yourself or just
+
+374
+00:16:22,560 --> 00:16:27,120
+to put yourself in challenging
+
+375
+00:16:24,440 --> 00:16:29,600
+situations? I think this is something
+
+376
+00:16:27,120 --> 00:16:31,360
+you can nurture. People talk about
+
+377
+00:16:29,600 --> 00:16:34,240
+growth all the time. They say, "Oh, this
+
+378
+00:16:31,360 --> 00:16:36,959
+is amazing. We get this chance to grow."
+
+379
+00:16:34,240 --> 00:16:39,120
+Growth is hard. Growth is painful.
+
+380
+00:16:36,959 --> 00:16:42,320
+Growth kind of sucks sometimes. The
+
+381
+00:16:39,120 --> 00:16:44,959
+result of growth is awesome. The process
+
+382
+00:16:42,320 --> 00:16:47,440
+of growth kind of sucks. It's hard. How
+
+383
+00:16:44,959 --> 00:16:50,800
+you can do that? It's through habits.
+
+384
+00:16:47,440 --> 00:16:54,560
+It's through not taking those shortcuts.
+
+385
+00:16:50,800 --> 00:16:57,360
+It's through recognizing when you have a
+
+386
+00:16:54,560 --> 00:16:59,680
+a decision in front of you and doing
+
+387
+00:16:57,360 --> 00:17:01,759
+something that is right, not necessarily
+
+388
+00:16:59,680 --> 00:17:03,519
+easy. The more you do those, and those
+
+389
+00:17:01,759 --> 00:17:05,360
+can be small things. They can be small
+
+390
+00:17:03,519 --> 00:17:07,120
+things like waking up and being like,
+
+391
+00:17:05,360 --> 00:17:09,439
+"Yeah, I don't know. I don't have to go
+
+392
+00:17:07,120 --> 00:17:11,120
+to the gym." Or go to the gym and say,
+
+393
+00:17:09,439 --> 00:17:14,240
+you know, I'll just do one one set
+
+394
+00:17:11,120 --> 00:17:16,640
+instead of three. every time and no
+
+395
+00:17:14,240 --> 00:17:19,839
+matter how small or big those decisions
+
+396
+00:17:16,640 --> 00:17:23,120
+are that you take not the easy path but
+
+397
+00:17:19,839 --> 00:17:26,000
+the right path you're going to gradually
+
+398
+00:17:23,120 --> 00:17:29,440
+build that habit within yourself. You'll
+
+399
+00:17:26,000 --> 00:17:32,000
+build that muscle uh to be open to
+
+400
+00:17:29,440 --> 00:17:35,180
+challenging yourself. How you do one
+
+401
+00:17:32,000 --> 00:18:08,119
+thing is how you do everything.
+
+402
+00:17:35,180 --> 00:18:08,119
+[Music]
+

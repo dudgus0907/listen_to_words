@@ -1,0 +1,2826 @@
+{
+  "success": true,
+  "videoId": "9c3oNP8yiKs",
+  "videoTitle": "How I Built a $1.3B Startup by Pivoting Fast ｜ Windsurf, Varun Mohan, Co-Founder & CEO",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "I think startups are basically like"
+    },
+    {
+      "start": 1,
+      "text": "getting slapped in the face probably"
+    },
+    {
+      "start": 2,
+      "text": "over and over again. That's basically"
+    },
+    {
+      "start": 4,
+      "text": "it. I also, you know, interestingly, I I"
+    },
+    {
+      "start": 6,
+      "text": "actually like failures a lot. One of the"
+    },
+    {
+      "start": 8,
+      "text": "things I hate the most is doing"
+    },
+    {
+      "start": 9,
+      "text": "something and not knowing if it's"
+    },
+    {
+      "start": 11,
+      "text": "working or not. And it's actually very"
+    },
+    {
+      "start": 12,
+      "text": "it's very freeing to know when something"
+    },
+    {
+      "start": 14,
+      "text": "fails because that's very obvious. I"
+    },
+    {
+      "start": 16,
+      "text": "like when decisions are obvious. Like"
+    },
+    {
+      "start": 17,
+      "text": "when something fails, it's obvious you"
+    },
+    {
+      "start": 19,
+      "text": "need to do something new. And the faster"
+    },
+    {
+      "start": 20,
+      "text": "you fail, actually, the faster you can"
+    },
+    {
+      "start": 22,
+      "text": "decide to do something new. And I think"
+    },
+    {
+      "start": 23,
+      "text": "for a company like us, like we're at the"
+    },
+    {
+      "start": 25,
+      "text": "frontier of the technology, we should be"
+    },
+    {
+      "start": 27,
+      "text": "imagining we are failing at a lot of"
+    },
+    {
+      "start": 28,
+      "text": "initiatives. In fact, if everything is"
+    },
+    {
+      "start": 30,
+      "text": "working, we're operating at less than"
+    },
+    {
+      "start": 31,
+      "text": "potential of the company. We should be"
+    },
+    {
+      "start": 32,
+      "text": "failing. Like that probably means we're"
+    },
+    {
+      "start": 34,
+      "text": "not betting. We're not taking enough"
+    },
+    {
+      "start": 35,
+      "text": "bets if we're not failing enough. I I"
+    },
+    {
+      "start": 37,
+      "text": "think it's like a required part of a"
+    },
+    {
+      "start": 38,
+      "text": "company that you that you fail. I'd say"
+    },
+    {
+      "start": 40,
+      "text": "like be more humble about your ideas."
+    },
+    {
+      "start": 42,
+      "text": "And I wouldn't say that I was arrogant"
+    },
+    {
+      "start": 44,
+      "text": "at the time, but probably a lot more"
+    },
+    {
+      "start": 46,
+      "text": "idealistic about our ideas being"
+    },
+    {
+      "start": 48,
+      "text": "correct. And you need some amount of"
+    },
+    {
+      "start": 49,
+      "text": "idealism as I said before, but at the"
+    },
+    {
+      "start": 51,
+      "text": "same time, it's that there's no reason"
+    },
+    {
+      "start": 53,
+      "text": "why an idea is great if you haven't like"
+    },
+    {
+      "start": 55,
+      "text": "validated it. be honest with yourselves"
+    },
+    {
+      "start": 57,
+      "text": "about, you know, the viability of your"
+    },
+    {
+      "start": 59,
+      "text": "idea and be willing to pivot very"
+    },
+    {
+      "start": 60,
+      "text": "quickly. I feel like a lot of a lot of"
+    },
+    {
+      "start": 62,
+      "text": "founders hate the word pivot, but it's"
+    },
+    {
+      "start": 63,
+      "text": "it's awesome. Like, it's awesome. You"
+    },
+    {
+      "start": 65,
+      "text": "know, what sucks more is like doing the"
+    },
+    {
+      "start": 67,
+      "text": "wrong thing and just failing. Even right"
+    },
+    {
+      "start": 68,
+      "text": "now, I would say one of my regrets is"
+    },
+    {
+      "start": 70,
+      "text": "probably not doing the pivot 3 months"
+    },
+    {
+      "start": 72,
+      "text": "earlier."
+    },
+    {
+      "start": 74,
+      "text": "Hey, I'm Verun, CEO and co-founder of"
+    },
+    {
+      "start": 76,
+      "text": "Windsurf. So, Windsurf is an AI powered"
+    },
+    {
+      "start": 78,
+      "text": "ID uh that provides agentic capabilities"
+    },
+    {
+      "start": 81,
+      "text": "that enables developers and"
+    },
+    {
+      "start": 82,
+      "text": "non-developers to build apps really"
+    },
+    {
+      "start": 85,
+      "text": "quickly and also modify existing"
+    },
+    {
+      "start": 87,
+      "text": "applications really quickly. A million"
+    },
+    {
+      "start": 88,
+      "text": "developers have actually used the"
+    },
+    {
+      "start": 90,
+      "text": "product. We have hundreds of thousands"
+    },
+    {
+      "start": 91,
+      "text": "of monthly active users on the on the"
+    },
+    {
+      "start": 93,
+      "text": "product right now and it's growing, you"
+    },
+    {
+      "start": 95,
+      "text": "know, exponentially faster with time."
+    },
+    {
+      "start": 97,
+      "text": "So, I graduated from MIT in 2017 and"
+    },
+    {
+      "start": 101,
+      "text": "after that I actually worked at an"
+    },
+    {
+      "start": 102,
+      "text": "autonomous vehicle company in Mountain"
+    },
+    {
+      "start": 104,
+      "text": "View called Nuro. there sort of got an"
+    },
+    {
+      "start": 106,
+      "text": "early taste of what deep learning could"
+    },
+    {
+      "start": 108,
+      "text": "do for other industries. Started the"
+    },
+    {
+      "start": 110,
+      "text": "company actually in 2021, so it's been 4"
+    },
+    {
+      "start": 112,
+      "text": "years. At the time, the company didn't"
+    },
+    {
+      "start": 114,
+      "text": "do anything relating to code AI. It"
+    },
+    {
+      "start": 116,
+      "text": "actually built out GPU virtualization"
+    },
+    {
+      "start": 118,
+      "text": "and compiler technology. We did that for"
+    },
+    {
+      "start": 121,
+      "text": "over a year and a half and were able to"
+    },
+    {
+      "start": 123,
+      "text": "get to a couple million in revenue. We"
+    },
+    {
+      "start": 124,
+      "text": "had eight employees at the time. One"
+    },
+    {
+      "start": 126,
+      "text": "thing changed very very materially in"
+    },
+    {
+      "start": 128,
+      "text": "that time. In the middle of 2022, GPT"
+    },
+    {
+      "start": 131,
+      "text": "3.5 came out at that point and we"
+    },
+    {
+      "start": 133,
+      "text": "thought that generative models would"
+    },
+    {
+      "start": 134,
+      "text": "fundamentally transform many different"
+    },
+    {
+      "start": 136,
+      "text": "industries and we needed to make kind of"
+    },
+    {
+      "start": 138,
+      "text": "a pretty big decision at that point to"
+    },
+    {
+      "start": 140,
+      "text": "pivot the company because we"
+    },
+    {
+      "start": 141,
+      "text": "fundamentally felt everyone was going to"
+    },
+    {
+      "start": 143,
+      "text": "run generative models for everything."
+    },
+    {
+      "start": 144,
+      "text": "And at that point we believed a lot of"
+    },
+    {
+      "start": 146,
+      "text": "the value would acrue to companies that"
+    },
+    {
+      "start": 148,
+      "text": "were applications almost like in the"
+    },
+    {
+      "start": 151,
+      "text": "early days of the internet the companies"
+    },
+    {
+      "start": 152,
+      "text": "that proved to be very valuable were"
+    },
+    {
+      "start": 154,
+      "text": "companies like Google and Amazon and we"
+    },
+    {
+      "start": 156,
+      "text": "wanted to see what would it be like if"
+    },
+    {
+      "start": 158,
+      "text": "we could build the next Google or"
+    },
+    {
+      "start": 159,
+      "text": "Amazon. We were early adopters of a"
+    },
+    {
+      "start": 161,
+      "text": "product called GitHub Copilot and from"
+    },
+    {
+      "start": 163,
+      "text": "there we actually built out a product"
+    },
+    {
+      "start": 164,
+      "text": "called Kodium which was an extension"
+    },
+    {
+      "start": 166,
+      "text": "that lived in all the major IDEs and we"
+    },
+    {
+      "start": 169,
+      "text": "were able to get that to over a million"
+    },
+    {
+      "start": 170,
+      "text": "users as well. Um, and we ended up"
+    },
+    {
+      "start": 173,
+      "text": "serving some of the world's largest"
+    },
+    {
+      "start": 174,
+      "text": "enterprises, companies like JP Morgan"
+    },
+    {
+      "start": 176,
+      "text": "Chase. Very quickly though, sort of"
+    },
+    {
+      "start": 178,
+      "text": "middle of last year, we realized that we"
+    },
+    {
+      "start": 180,
+      "text": "needed to control more of the"
+    },
+    {
+      "start": 181,
+      "text": "experience, especially as these models"
+    },
+    {
+      "start": 182,
+      "text": "became more and more agentic. And that"
+    },
+    {
+      "start": 184,
+      "text": "was why we decided to build our own ID,"
+    },
+    {
+      "start": 186,
+      "text": "which was Windsurf. That has taken off"
+    },
+    {
+      "start": 188,
+      "text": "very quickly as well."
+    },
+    {
+      "start": 191,
+      "text": "[Music]"
+    },
+    {
+      "start": 195,
+      "text": "It's actually kind of interesting. I"
+    },
+    {
+      "start": 196,
+      "text": "think MIT is very different than"
+    },
+    {
+      "start": 198,
+      "text": "Stanford. I think most people don't go"
+    },
+    {
+      "start": 200,
+      "text": "to MIT to kind of immediately start a"
+    },
+    {
+      "start": 202,
+      "text": "company. I don't think my aspirations"
+    },
+    {
+      "start": 204,
+      "text": "were to start a company. I did"
+    },
+    {
+      "start": 205,
+      "text": "progressively intern at smaller and"
+    },
+    {
+      "start": 207,
+      "text": "smaller companies. So I first interned"
+    },
+    {
+      "start": 210,
+      "text": "at LinkedIn, then after that Quora uh"
+    },
+    {
+      "start": 212,
+      "text": "and then data bricks. Data bricks at"
+    },
+    {
+      "start": 214,
+      "text": "that time was a very small engineering"
+    },
+    {
+      "start": 215,
+      "text": "team. They were not even a unicorn at"
+    },
+    {
+      "start": 217,
+      "text": "that time. But I think I didn't actually"
+    },
+    {
+      "start": 219,
+      "text": "end up working at any of these companies"
+    },
+    {
+      "start": 220,
+      "text": "because I think the thing that motivated"
+    },
+    {
+      "start": 222,
+      "text": "me was can I be a meaningful part of a"
+    },
+    {
+      "start": 224,
+      "text": "visionary company working with motivated"
+    },
+    {
+      "start": 226,
+      "text": "people. That's always been what's driven"
+    },
+    {
+      "start": 228,
+      "text": "me and that's sort of why immediately"
+    },
+    {
+      "start": 229,
+      "text": "after MIT I decided to go work at an"
+    },
+    {
+      "start": 231,
+      "text": "autonomous vehicle company. I thought"
+    },
+    {
+      "start": 232,
+      "text": "that could be the future of where just"
+    },
+    {
+      "start": 235,
+      "text": "robotics was going to go and I think for"
+    },
+    {
+      "start": 237,
+      "text": "me and probably the other people at the"
+    },
+    {
+      "start": 239,
+      "text": "company we want to work on the future of"
+    },
+    {
+      "start": 241,
+      "text": "technology and that's what truly"
+    },
+    {
+      "start": 242,
+      "text": "motivates us. I think the motiv is just"
+    },
+    {
+      "start": 245,
+      "text": "how do you build products in hard"
+    },
+    {
+      "start": 247,
+      "text": "technology spaces where the technology"
+    },
+    {
+      "start": 249,
+      "text": "is not there yet. You know I I'll give"
+    },
+    {
+      "start": 250,
+      "text": "like a quick just some interesting"
+    },
+    {
+      "start": 252,
+      "text": "numbers. You know, when we started,"
+    },
+    {
+      "start": 254,
+      "text": "obviously, deep learning was was pretty"
+    },
+    {
+      "start": 256,
+      "text": "popular. Uh, but the amount of compute"
+    },
+    {
+      "start": 258,
+      "text": "that these models had access to grew"
+    },
+    {
+      "start": 260,
+      "text": "exponentially year-over-year. You know,"
+    },
+    {
+      "start": 262,
+      "text": "just some numbers here. In 2017, the"
+    },
+    {
+      "start": 264,
+      "text": "number of teraflops on a consumer grade"
+    },
+    {
+      "start": 266,
+      "text": "GPU was 10. By the end of 2022, it was"
+    },
+    {
+      "start": 268,
+      "text": "actually 700. So, it's a massive"
+    },
+    {
+      "start": 271,
+      "text": "increase of in compute that happened."
+    },
+    {
+      "start": 273,
+      "text": "And I think what we learned was machine"
+    },
+    {
+      "start": 275,
+      "text": "learning models were going to get more"
+    },
+    {
+      "start": 277,
+      "text": "capable very quickly. And you should not"
+    },
+    {
+      "start": 279,
+      "text": "bet on where the technology is today,"
+    },
+    {
+      "start": 281,
+      "text": "but where it could be a couple years"
+    },
+    {
+      "start": 282,
+      "text": "from now, right? And if all you're doing"
+    },
+    {
+      "start": 284,
+      "text": "is working on products that work today,"
+    },
+    {
+      "start": 286,
+      "text": "you're going to be quickly irrelevant a"
+    },
+    {
+      "start": 287,
+      "text": "year from now. And that was like a very"
+    },
+    {
+      "start": 289,
+      "text": "important lesson that we I think a lot"
+    },
+    {
+      "start": 291,
+      "text": "of a lot of people that were in the"
+    },
+    {
+      "start": 292,
+      "text": "autonomous vehicle space kind of"
+    },
+    {
+      "start": 294,
+      "text": "learned, which is now if you were to"
+    },
+    {
+      "start": 295,
+      "text": "look at autonomous vehicles, they're"
+    },
+    {
+      "start": 297,
+      "text": "much more machine learning based than"
+    },
+    {
+      "start": 298,
+      "text": "they were probably 5 or 6 years ago."
+    },
+    {
+      "start": 300,
+      "text": "Originally, we started out the name of"
+    },
+    {
+      "start": 302,
+      "text": "the company was Exaf Function. Part of"
+    },
+    {
+      "start": 303,
+      "text": "the reason why we called it exunction"
+    },
+    {
+      "start": 305,
+      "text": "was our goal was to virtualize GPU"
+    },
+    {
+      "start": 307,
+      "text": "computations to make it easier to run"
+    },
+    {
+      "start": 309,
+      "text": "things on GPUs. And the the term exa"
+    },
+    {
+      "start": 311,
+      "text": "function means we want to run an exa"
+    },
+    {
+      "start": 313,
+      "text": "number of functions which is 10 to the"
+    },
+    {
+      "start": 314,
+      "text": "18 functions. I think the biggest"
+    },
+    {
+      "start": 316,
+      "text": "learning lesson for us was at the time"
+    },
+    {
+      "start": 319,
+      "text": "was even if we were succeeding by some"
+    },
+    {
+      "start": 321,
+      "text": "metrics we were making some revenue just"
+    },
+    {
+      "start": 323,
+      "text": "accepting that hey like the business"
+    },
+    {
+      "start": 326,
+      "text": "might not be the best business and we"
+    },
+    {
+      "start": 327,
+      "text": "need to go pivot was a very hard thing"
+    },
+    {
+      "start": 329,
+      "text": "to do I would say right it's very hard"
+    },
+    {
+      "start": 331,
+      "text": "when you have like employees you know"
+    },
+    {
+      "start": 333,
+      "text": "you've already raised some amount of"
+    },
+    {
+      "start": 334,
+      "text": "funding I think at the time we had"
+    },
+    {
+      "start": 335,
+      "text": "raised over $28 million of funding to"
+    },
+    {
+      "start": 337,
+      "text": "basically start from scratch overnight"
+    },
+    {
+      "start": 339,
+      "text": "uh but one of the learning lessons that"
+    },
+    {
+      "start": 341,
+      "text": "I've sort of had and probably the other"
+    },
+    {
+      "start": 342,
+      "text": "people at the company is every time you"
+    },
+    {
+      "start": 344,
+      "text": "do a pivot you have an opport"
+    },
+    {
+      "start": 345,
+      "text": "opportunity to maybe 10x the size of the"
+    },
+    {
+      "start": 347,
+      "text": "company. And uh usually when you have an"
+    },
+    {
+      "start": 348,
+      "text": "idea that you don't believe in and the"
+    },
+    {
+      "start": 350,
+      "text": "ceiling is low, it's actually better to"
+    },
+    {
+      "start": 352,
+      "text": "just scrap the entire thing than to like"
+    },
+    {
+      "start": 353,
+      "text": "try to incrementally claw and you know"
+    },
+    {
+      "start": 355,
+      "text": "increase the value of what you're doing"
+    },
+    {
+      "start": 356,
+      "text": "by like you know 20 30%. It's not going"
+    },
+    {
+      "start": 359,
+      "text": "to matter in the grand scheme of things."
+    },
+    {
+      "start": 360,
+      "text": "So we had gone to a couple million in"
+    },
+    {
+      "start": 362,
+      "text": "revenue at that time. I think the hard"
+    },
+    {
+      "start": 364,
+      "text": "part for us was it felt very ad hoc how"
+    },
+    {
+      "start": 367,
+      "text": "we were adding revenue to the business."
+    },
+    {
+      "start": 369,
+      "text": "It also felt like with the advent of"
+    },
+    {
+      "start": 371,
+      "text": "these generative models, a lot of the"
+    },
+    {
+      "start": 373,
+      "text": "complexity of running models would"
+    },
+    {
+      "start": 374,
+      "text": "become commoditized. If everyone is"
+    },
+    {
+      "start": 377,
+      "text": "going to run transformers, uh the"
+    },
+    {
+      "start": 378,
+      "text": "transformer model architecture, what is"
+    },
+    {
+      "start": 380,
+      "text": "the reason for us to have a platform"
+    },
+    {
+      "start": 382,
+      "text": "that virtualizes arbitrary GPU"
+    },
+    {
+      "start": 384,
+      "text": "computations? It's not as important"
+    },
+    {
+      "start": 385,
+      "text": "anymore. So, it's a factor of two"
+    },
+    {
+      "start": 387,
+      "text": "things. We didn't understand how we"
+    },
+    {
+      "start": 389,
+      "text": "could 10 or 100x sales, right? I think"
+    },
+    {
+      "start": 391,
+      "text": "you build a company not to make a couple"
+    },
+    {
+      "start": 393,
+      "text": "million in revenue, but billions of"
+    },
+    {
+      "start": 395,
+      "text": "dollars in revenue. So we didn't"
+    },
+    {
+      "start": 396,
+      "text": "understand how to even get within an"
+    },
+    {
+      "start": 398,
+      "text": "order of magnitude of that right that"
+    },
+    {
+      "start": 400,
+      "text": "was one and two we also felt that the"
+    },
+    {
+      "start": 401,
+      "text": "problem we were solving with the advent"
+    },
+    {
+      "start": 403,
+      "text": "of the generative models was going to"
+    },
+    {
+      "start": 404,
+      "text": "get commoditized. So at that point it's"
+    },
+    {
+      "start": 406,
+      "text": "kind of an easy thing once you believe"
+    },
+    {
+      "start": 407,
+      "text": "that something is not going to be big"
+    },
+    {
+      "start": 409,
+      "text": "you have no other option but to change"
+    },
+    {
+      "start": 410,
+      "text": "your mind and do something new that is"
+    },
+    {
+      "start": 412,
+      "text": "very painful because you did commit a"
+    },
+    {
+      "start": 414,
+      "text": "lot of time and a lot of energy and"
+    },
+    {
+      "start": 416,
+      "text": "passion to one thing. You don't win an"
+    },
+    {
+      "start": 418,
+      "text": "award for doing the wrong thing for"
+    },
+    {
+      "start": 420,
+      "text": "longer. I guess me and my co-founder did"
+    },
+    {
+      "start": 421,
+      "text": "a walk over a weekend and I guess we"
+    },
+    {
+      "start": 423,
+      "text": "decided over a weekend and we told the"
+    },
+    {
+      "start": 425,
+      "text": "team on Monday. Um and then everyone"
+    },
+    {
+      "start": 426,
+      "text": "started working on the new thing"
+    },
+    {
+      "start": 428,
+      "text": "starting Monday. Uh yeah, I guess we"
+    },
+    {
+      "start": 429,
+      "text": "just you know one of the core beliefs"
+    },
+    {
+      "start": 431,
+      "text": "that we have about startups is startups"
+    },
+    {
+      "start": 433,
+      "text": "can if they're lucky do one thing really"
+    },
+    {
+      "start": 435,
+      "text": "well. We could not afford to have the"
+    },
+    {
+      "start": 437,
+      "text": "company believe two things were"
+    },
+    {
+      "start": 438,
+      "text": "important. So we would need to rip the"
+    },
+    {
+      "start": 440,
+      "text": "band-aid off and actually make it very"
+    },
+    {
+      "start": 442,
+      "text": "clear to the rest of the company that"
+    },
+    {
+      "start": 443,
+      "text": "the new thing was where we thought the"
+    },
+    {
+      "start": 445,
+      "text": "future was. You know, it's interesting."
+    },
+    {
+      "start": 446,
+      "text": "I would we were not worried at all when"
+    },
+    {
+      "start": 448,
+      "text": "we did the pivot. We had basically"
+    },
+    {
+      "start": 449,
+      "text": "written off the company is going to be a"
+    },
+    {
+      "start": 451,
+      "text": "zero and at that point anything is"
+    },
+    {
+      "start": 453,
+      "text": "greater than zero. Ship whatever you can"
+    },
+    {
+      "start": 455,
+      "text": "if it sucks you're in the same place"
+    },
+    {
+      "start": 457,
+      "text": "that you are. If it doesn't suck like"
+    },
+    {
+      "start": 459,
+      "text": "great awesome only upside just honesty,"
+    },
+    {
+      "start": 462,
+      "text": "transparency and int like intellectual"
+    },
+    {
+      "start": 464,
+      "text": "honesty with the team is maybe a core"
+    },
+    {
+      "start": 466,
+      "text": "tenant of the company. We don't do"
+    },
+    {
+      "start": 468,
+      "text": "things unless we like truly believe they"
+    },
+    {
+      "start": 470,
+      "text": "are the right thing to do. even if it"
+    },
+    {
+      "start": 471,
+      "text": "like fits some narrative that the rest"
+    },
+    {
+      "start": 473,
+      "text": "of the industry or our investors or"
+    },
+    {
+      "start": 476,
+      "text": "convenient belief we believe things if"
+    },
+    {
+      "start": 478,
+      "text": "from first principles they're correct"
+    },
+    {
+      "start": 480,
+      "text": "and you know I guess one true fact was"
+    },
+    {
+      "start": 483,
+      "text": "after telling our employees there's a"
+    },
+    {
+      "start": 484,
+      "text": "real chance that some of them would"
+    },
+    {
+      "start": 486,
+      "text": "leave but I think like when you build a"
+    },
+    {
+      "start": 488,
+      "text": "highquality culture where the people are"
+    },
+    {
+      "start": 490,
+      "text": "are intellectually honest um good people"
+    },
+    {
+      "start": 492,
+      "text": "don't want to leave if you if you chart"
+    },
+    {
+      "start": 494,
+      "text": "a path for what the thing that does work"
+    },
+    {
+      "start": 497,
+      "text": "is right because you know one"
+    },
+    {
+      "start": 498,
+      "text": "interesting thing about startups is"
+    },
+    {
+      "start": 500,
+      "text": "people talk a lot about moes. What's the"
+    },
+    {
+      "start": 502,
+      "text": "mode of a company? But really, what is"
+    },
+    {
+      "start": 503,
+      "text": "the mode of a company that has 10"
+    },
+    {
+      "start": 505,
+      "text": "people? You know, if you do have a moat,"
+    },
+    {
+      "start": 507,
+      "text": "it's very shallow at best, right? The"
+    },
+    {
+      "start": 508,
+      "text": "number of engineering years that went"
+    },
+    {
+      "start": 510,
+      "text": "into your product is already very small."
+    },
+    {
+      "start": 512,
+      "text": "So, the real moat is you work on the"
+    },
+    {
+      "start": 514,
+      "text": "right thing with enough people for long"
+    },
+    {
+      "start": 516,
+      "text": "enough. That's like the only moat a"
+    },
+    {
+      "start": 517,
+      "text": "startup ultimately has. And that's like"
+    },
+    {
+      "start": 519,
+      "text": "why you believe in a team. Obviously,"
+    },
+    {
+      "start": 521,
+      "text": "when a company becomes thousands of"
+    },
+    {
+      "start": 522,
+      "text": "people, hopefully the moat is not the"
+    },
+    {
+      "start": 524,
+      "text": "current business. It would be sad if the"
+    },
+    {
+      "start": 525,
+      "text": "moat was the company can just pivot and"
+    },
+    {
+      "start": 527,
+      "text": "do the next thing. In that regard, I"
+    },
+    {
+      "start": 529,
+      "text": "think if you genuinely believe the"
+    },
+    {
+      "start": 531,
+      "text": "motive of a of a company is betting on"
+    },
+    {
+      "start": 533,
+      "text": "the right things and and hiring a great"
+    },
+    {
+      "start": 536,
+      "text": "group of people, then if you are"
+    },
+    {
+      "start": 538,
+      "text": "intellectually honest with your team and"
+    },
+    {
+      "start": 539,
+      "text": "tell them we don't believe in the"
+    },
+    {
+      "start": 540,
+      "text": "strategy we just had, it's should be"
+    },
+    {
+      "start": 542,
+      "text": "totally fine with everyone."
+    },
+    {
+      "start": 546,
+      "text": "This episode is sponsored by Atio, the"
+    },
+    {
+      "start": 548,
+      "text": "AI native CRM for the next era of"
+    },
+    {
+      "start": 550,
+      "text": "companies. Connect your email and ATIO"
+    },
+    {
+      "start": 553,
+      "text": "instantly builds your CRM right before"
+    },
+    {
+      "start": 555,
+      "text": "your eye with every company, contact,"
+    },
+    {
+      "start": 557,
+      "text": "and interaction you've ever had enriched"
+    },
+    {
+      "start": 559,
+      "text": "and organized. That's ATIO. And here's"
+    },
+    {
+      "start": 562,
+      "text": "what makes it even more game-changing."
+    },
+    {
+      "start": 564,
+      "text": "You can build AI powered automations and"
+    },
+    {
+      "start": 566,
+      "text": "use its research agents to tackle some"
+    },
+    {
+      "start": 568,
+      "text": "of your most complex business processes,"
+    },
+    {
+      "start": 571,
+      "text": "freeing you to focus on what matters"
+    },
+    {
+      "start": 572,
+      "text": "most, building your company. Join"
+    },
+    {
+      "start": 575,
+      "text": "thousands of companies who are already"
+    },
+    {
+      "start": 577,
+      "text": "using to power their businesses. Visit"
+    },
+    {
+      "start": 580,
+      "text": "the link in the description to begin"
+    },
+    {
+      "start": 581,
+      "text": "your twoe free trial with Atio."
+    },
+    {
+      "start": 589,
+      "text": "I think we were early adopters of a"
+    },
+    {
+      "start": 591,
+      "text": "product like GitHub copilot. So we and"
+    },
+    {
+      "start": 594,
+      "text": "we were we actually built a lot of"
+    },
+    {
+      "start": 596,
+      "text": "infrastructure. So at the time we"
+    },
+    {
+      "start": 597,
+      "text": "thought that was the tip of the iceberg"
+    },
+    {
+      "start": 599,
+      "text": "of what the technology could actually"
+    },
+    {
+      "start": 600,
+      "text": "build. We thought a lot more could be"
+    },
+    {
+      "start": 602,
+      "text": "built in this category. Right? If all"
+    },
+    {
+      "start": 604,
+      "text": "people were doing was autocompleting, we"
+    },
+    {
+      "start": 606,
+      "text": "could potentially see a world in which"
+    },
+    {
+      "start": 608,
+      "text": "entire PRs would get generated. And at"
+    },
+    {
+      "start": 610,
+      "text": "that time, we were like, okay, the time"
+    },
+    {
+      "start": 612,
+      "text": "it takes to build applications probably"
+    },
+    {
+      "start": 613,
+      "text": "has gone down by a double digit percent."
+    },
+    {
+      "start": 615,
+      "text": "Why don't we set the goal of the company"
+    },
+    {
+      "start": 616,
+      "text": "to reduce the time it takes to build"
+    },
+    {
+      "start": 618,
+      "text": "technology by 99%. It's a very ambitious"
+    },
+    {
+      "start": 620,
+      "text": "goal, not something we'd be able to do"
+    },
+    {
+      "start": 621,
+      "text": "in the next year or two. But if we set a"
+    },
+    {
+      "start": 624,
+      "text": "very ambitious goal, there's probably a"
+    },
+    {
+      "start": 625,
+      "text": "lot of work to be done in this space. We"
+    },
+    {
+      "start": 627,
+      "text": "believe that technology is always going"
+    },
+    {
+      "start": 628,
+      "text": "to get better. We believe the models are"
+    },
+    {
+      "start": 630,
+      "text": "going to get better. Because of that, we"
+    },
+    {
+      "start": 632,
+      "text": "just believed there was a lot of"
+    },
+    {
+      "start": 633,
+      "text": "opportunity here. Because we were also"
+    },
+    {
+      "start": 634,
+      "text": "an infrastructure company at the time,"
+    },
+    {
+      "start": 636,
+      "text": "we were able to train our own models and"
+    },
+    {
+      "start": 637,
+      "text": "run models ourselves, which enabled us"
+    },
+    {
+      "start": 639,
+      "text": "to build an extension that was entirely"
+    },
+    {
+      "start": 641,
+      "text": "free in all the major IDs. And uh that"
+    },
+    {
+      "start": 644,
+      "text": "was able to very quickly get to hundreds"
+    },
+    {
+      "start": 645,
+      "text": "of thousands of users. It was a"
+    },
+    {
+      "start": 647,
+      "text": "combination of what our skill set was,"
+    },
+    {
+      "start": 648,
+      "text": "also a belief of where we thought the"
+    },
+    {
+      "start": 650,
+      "text": "future was going. I think it took us"
+    },
+    {
+      "start": 652,
+      "text": "less than 2 months to build the MVP and"
+    },
+    {
+      "start": 654,
+      "text": "ship it out. I think as a company we're"
+    },
+    {
+      "start": 656,
+      "text": "probably more of the opinion of if you"
+    },
+    {
+      "start": 658,
+      "text": "are going to do something hard um it is"
+    },
+    {
+      "start": 660,
+      "text": "actually important to have intermediate"
+    },
+    {
+      "start": 662,
+      "text": "goals that you can actually give to"
+    },
+    {
+      "start": 664,
+      "text": "other people to validate your"
+    },
+    {
+      "start": 665,
+      "text": "hypothesis. That's maybe something that"
+    },
+    {
+      "start": 667,
+      "text": "we learned a lot of us at the company"
+    },
+    {
+      "start": 668,
+      "text": "were previously from autonomous vehicles"
+    },
+    {
+      "start": 670,
+      "text": "and I think one of the biggest mistakes"
+    },
+    {
+      "start": 672,
+      "text": "that autonomous vehicle companies might"
+    },
+    {
+      "start": 674,
+      "text": "have made is maybe to no fault of their"
+    },
+    {
+      "start": 676,
+      "text": "own was they built a hard technology"
+    },
+    {
+      "start": 679,
+      "text": "where it's very hard to validate if the"
+    },
+    {
+      "start": 680,
+      "text": "technology is good in the middle. Right?"
+    },
+    {
+      "start": 682,
+      "text": "So for us it's always been it is"
+    },
+    {
+      "start": 684,
+      "text": "actually a feature if you can have a"
+    },
+    {
+      "start": 686,
+      "text": "very very like visionary goal but have"
+    },
+    {
+      "start": 689,
+      "text": "very tractable intermediate steps and so"
+    },
+    {
+      "start": 691,
+      "text": "we actually picked a very tractable"
+    },
+    {
+      "start": 693,
+      "text": "intermediate step to deploy which was"
+    },
+    {
+      "start": 695,
+      "text": "can we build a basic VS code extension"
+    },
+    {
+      "start": 697,
+      "text": "that had autocomplete capabilities uh"
+    },
+    {
+      "start": 699,
+      "text": "with our own model and that was that was"
+    },
+    {
+      "start": 701,
+      "text": "the intermediate goal that we had and we"
+    },
+    {
+      "start": 703,
+      "text": "believed you know maybe it was like a"
+    },
+    {
+      "start": 705,
+      "text": "little bit of necessity we just pivoted"
+    },
+    {
+      "start": 706,
+      "text": "the company people were not working on"
+    },
+    {
+      "start": 708,
+      "text": "anything else there was an existential"
+    },
+    {
+      "start": 710,
+      "text": "dread what the value of the product was"
+    },
+    {
+      "start": 712,
+      "text": "so we very quickly built it. I think a"
+    },
+    {
+      "start": 715,
+      "text": "basic form of product market fit was"
+    },
+    {
+      "start": 716,
+      "text": "when our inbound for the product from"
+    },
+    {
+      "start": 718,
+      "text": "like companies was was more than like"
+    },
+    {
+      "start": 720,
+      "text": "any of us could handle and we did need"
+    },
+    {
+      "start": 722,
+      "text": "to hire a real go to market team. I"
+    },
+    {
+      "start": 724,
+      "text": "think at that point we realized hey"
+    },
+    {
+      "start": 725,
+      "text": "we're actually solving a real pain for"
+    },
+    {
+      "start": 727,
+      "text": "the market and we are providing a lot of"
+    },
+    {
+      "start": 729,
+      "text": "value. So that was that happened very"
+    },
+    {
+      "start": 731,
+      "text": "quickly like within months of the"
+    },
+    {
+      "start": 732,
+      "text": "product coming out we had a lot of"
+    },
+    {
+      "start": 734,
+      "text": "companies reaching out to how could they"
+    },
+    {
+      "start": 736,
+      "text": "run the product uh for themselves and"
+    },
+    {
+      "start": 737,
+      "text": "and use it for their large code bases."
+    },
+    {
+      "start": 740,
+      "text": "Yeah, I think the word product market"
+    },
+    {
+      "start": 741,
+      "text": "fit is probably something I don't like a"
+    },
+    {
+      "start": 743,
+      "text": "lot because it it creates a lot of like"
+    },
+    {
+      "start": 745,
+      "text": "overconfidence. I think what what you"
+    },
+    {
+      "start": 747,
+      "text": "have as product market fit in one day,"
+    },
+    {
+      "start": 748,
+      "text": "if you don't continue to innovate and"
+    },
+    {
+      "start": 750,
+      "text": "you have competitors, is very quickly"
+    },
+    {
+      "start": 751,
+      "text": "going to become a commodity where you"
+    },
+    {
+      "start": 753,
+      "text": "don't have product market fit. So, you"
+    },
+    {
+      "start": 754,
+      "text": "need to be very paranoid. I always like"
+    },
+    {
+      "start": 756,
+      "text": "to tell the company we're probably going"
+    },
+    {
+      "start": 758,
+      "text": "to fail. And I think the good thing"
+    },
+    {
+      "start": 759,
+      "text": "about telling the company we're probably"
+    },
+    {
+      "start": 761,
+      "text": "going to fail is it creates enough sort"
+    },
+    {
+      "start": 763,
+      "text": "of energy in the company to find the"
+    },
+    {
+      "start": 766,
+      "text": "next thing that keeps you as a"
+    },
+    {
+      "start": 768,
+      "text": "differentiated product and and survive"
+    },
+    {
+      "start": 770,
+      "text": "in a in a space. But I think in general"
+    },
+    {
+      "start": 772,
+      "text": "like product like I feel like if you"
+    },
+    {
+      "start": 774,
+      "text": "have pull from the market, it's very"
+    },
+    {
+      "start": 775,
+      "text": "hard to fake it. It's it's very obvious"
+    },
+    {
+      "start": 777,
+      "text": "when you have it and very obvious when"
+    },
+    {
+      "start": 779,
+      "text": "you don't. And I'll tell you this like"
+    },
+    {
+      "start": 781,
+      "text": "even when we were making a couple"
+    },
+    {
+      "start": 782,
+      "text": "million in revenue with the GPU"
+    },
+    {
+      "start": 784,
+      "text": "virtualization business is very obvious"
+    },
+    {
+      "start": 785,
+      "text": "we didn't have product market fit. It's"
+    },
+    {
+      "start": 787,
+      "text": "not a scalable company. you don't really"
+    },
+    {
+      "start": 788,
+      "text": "understand how you can grow revenue and"
+    },
+    {
+      "start": 790,
+      "text": "find find a way to like provide more"
+    },
+    {
+      "start": 792,
+      "text": "value at scale. So very quickly I think"
+    },
+    {
+      "start": 795,
+      "text": "a lot of large companies were starting"
+    },
+    {
+      "start": 796,
+      "text": "to reach out to us for a variety of"
+    },
+    {
+      "start": 798,
+      "text": "reasons for security reasons because we"
+    },
+    {
+      "start": 800,
+      "text": "were able to run models ourselves. We"
+    },
+    {
+      "start": 801,
+      "text": "were able to run it in a secure way. The"
+    },
+    {
+      "start": 803,
+      "text": "other thing is they wanted the systems"
+    },
+    {
+      "start": 805,
+      "text": "to work with their complicated sort of"
+    },
+    {
+      "start": 807,
+      "text": "code bases. Right? Their code bases are"
+    },
+    {
+      "start": 809,
+      "text": "not simple. Some of our customers have"
+    },
+    {
+      "start": 810,
+      "text": "tens of millions of lines of code in a"
+    },
+    {
+      "start": 812,
+      "text": "single codebase. and we started building"
+    },
+    {
+      "start": 814,
+      "text": "more and more technology to make it"
+    },
+    {
+      "start": 815,
+      "text": "possible that we would give very"
+    },
+    {
+      "start": 817,
+      "text": "personalized suggestions to them"
+    },
+    {
+      "start": 818,
+      "text": "regardless of where they stored their"
+    },
+    {
+      "start": 820,
+      "text": "code. I guess very quickly we started to"
+    },
+    {
+      "start": 822,
+      "text": "get to 100 customers. It went from going"
+    },
+    {
+      "start": 824,
+      "text": "from zero to 100 customers probably"
+    },
+    {
+      "start": 826,
+      "text": "within months um at the company. I think"
+    },
+    {
+      "start": 828,
+      "text": "the feedback that was kind of"
+    },
+    {
+      "start": 829,
+      "text": "interesting to us is how important just"
+    },
+    {
+      "start": 831,
+      "text": "small details were right to the entire"
+    },
+    {
+      "start": 833,
+      "text": "user experience. We started off as an"
+    },
+    {
+      "start": 835,
+      "text": "infrastructure company and we needed to"
+    },
+    {
+      "start": 836,
+      "text": "kind of become a product company which"
+    },
+    {
+      "start": 838,
+      "text": "is a big kind of change. You know basic"
+    },
+    {
+      "start": 840,
+      "text": "things like the latency of the product"
+    },
+    {
+      "start": 841,
+      "text": "how quickly we provide suggestions was"
+    },
+    {
+      "start": 843,
+      "text": "quite important. You know just basic"
+    },
+    {
+      "start": 844,
+      "text": "things if we do too much computation on"
+    },
+    {
+      "start": 846,
+      "text": "the user's machine and it kind of like"
+    },
+    {
+      "start": 848,
+      "text": "makes the machine too slow that's a"
+    },
+    {
+      "start": 850,
+      "text": "unacceptable user experience that is not"
+    },
+    {
+      "start": 852,
+      "text": "something we would think about if we"
+    },
+    {
+      "start": 853,
+      "text": "were purely a server-based application."
+    },
+    {
+      "start": 854,
+      "text": "So there were kind of new things as a"
+    },
+    {
+      "start": 856,
+      "text": "company we needed to learn because the"
+    },
+    {
+      "start": 858,
+      "text": "space we were operating in was"
+    },
+    {
+      "start": 859,
+      "text": "fundamentally different. I think"
+    },
+    {
+      "start": 861,
+      "text": "basically what happens is once a company"
+    },
+    {
+      "start": 863,
+      "text": "gets bigger it's possible that you start"
+    },
+    {
+      "start": 865,
+      "text": "losing the reason why you had a good"
+    },
+    {
+      "start": 867,
+      "text": "product to start with right you start"
+    },
+    {
+      "start": 869,
+      "text": "listening actually in some ways too much"
+    },
+    {
+      "start": 871,
+      "text": "customer obsession might be bad in that"
+    },
+    {
+      "start": 873,
+      "text": "if you do things that all of your"
+    },
+    {
+      "start": 875,
+      "text": "customers ask you to do sometimes you"
+    },
+    {
+      "start": 877,
+      "text": "might like incrementally iterate to"
+    },
+    {
+      "start": 879,
+      "text": "actually build a really bad product and"
+    },
+    {
+      "start": 881,
+      "text": "it's actually better off to completely"
+    },
+    {
+      "start": 882,
+      "text": "change the paradigm in a way that your"
+    },
+    {
+      "start": 884,
+      "text": "customers don't really ask for because"
+    },
+    {
+      "start": 886,
+      "text": "you you suspect it could be helpful. So"
+    },
+    {
+      "start": 888,
+      "text": "there's like a little bit of a healthy"
+    },
+    {
+      "start": 889,
+      "text": "amount of don't just listen to random"
+    },
+    {
+      "start": 891,
+      "text": "people about what you should build."
+    },
+    {
+      "start": 893,
+      "text": "Listen to your customers, but don't"
+    },
+    {
+      "start": 894,
+      "text": "listen to your customers in how you"
+    },
+    {
+      "start": 896,
+      "text": "should build it. There could be a way"
+    },
+    {
+      "start": 897,
+      "text": "you could build it in a way that is very"
+    },
+    {
+      "start": 899,
+      "text": "transformational, but not something that"
+    },
+    {
+      "start": 900,
+      "text": "they would even expect. One of the"
+    },
+    {
+      "start": 902,
+      "text": "things about our product is we have a"
+    },
+    {
+      "start": 903,
+      "text": "pretty large individual product and we"
+    },
+    {
+      "start": 905,
+      "text": "have ways in which our users can"
+    },
+    {
+      "start": 907,
+      "text": "communicate with us, you know, either"
+    },
+    {
+      "start": 908,
+      "text": "online on social media. Uh, and I guess"
+    },
+    {
+      "start": 911,
+      "text": "I I look through it fairly frequently to"
+    },
+    {
+      "start": 914,
+      "text": "understand what the pain points our"
+    },
+    {
+      "start": 915,
+      "text": "users have about the product. Also at"
+    },
+    {
+      "start": 917,
+      "text": "the same time I guess like everyone at"
+    },
+    {
+      "start": 918,
+      "text": "the company uses the product almost"
+    },
+    {
+      "start": 920,
+      "text": "day-to-day which is maybe a unique"
+    },
+    {
+      "start": 921,
+      "text": "aspect of the product right there are"
+    },
+    {
+      "start": 923,
+      "text": "probably a lot of AI tools out there but"
+    },
+    {
+      "start": 925,
+      "text": "the people building the tools are not"
+    },
+    {
+      "start": 927,
+      "text": "using them all the time whereas the"
+    },
+    {
+      "start": 928,
+      "text": "people that build our products literally"
+    },
+    {
+      "start": 930,
+      "text": "use our product to build the product"
+    },
+    {
+      "start": 931,
+      "text": "whether it be windsurf everyone builds"
+    },
+    {
+      "start": 934,
+      "text": "software on windsurf for windsurf which"
+    },
+    {
+      "start": 936,
+      "text": "is a unique way for us to actually get"
+    },
+    {
+      "start": 938,
+      "text": "feedback a lot of our feedback is"
+    },
+    {
+      "start": 940,
+      "text": "internal and if no one at the company"
+    },
+    {
+      "start": 941,
+      "text": "likes a part of the product it's"
+    },
+    {
+      "start": 943,
+      "text": "unlikely that a lot of people outside of"
+    },
+    {
+      "start": 945,
+      "text": "the company are going to like the"
+    },
+    {
+      "start": 950,
+      "text": "No, I I always try to run the company as"
+    },
+    {
+      "start": 953,
+      "text": "like the smallest company it can be. But"
+    },
+    {
+      "start": 955,
+      "text": "I think the goal of a company is not to"
+    },
+    {
+      "start": 956,
+      "text": "be a small company. I think the goal of"
+    },
+    {
+      "start": 958,
+      "text": "a company is to actually provide the"
+    },
+    {
+      "start": 960,
+      "text": "most value in a space. If the right way"
+    },
+    {
+      "start": 962,
+      "text": "to do that is be a bigger company. I"
+    },
+    {
+      "start": 964,
+      "text": "think that's like the right thing you"
+    },
+    {
+      "start": 965,
+      "text": "should sort of do. One of the operating"
+    },
+    {
+      "start": 966,
+      "text": "principles we sort of have at the"
+    },
+    {
+      "start": 968,
+      "text": "company is we try to run the company"
+    },
+    {
+      "start": 969,
+      "text": "fairly lean. And that doesn't mean we"
+    },
+    {
+      "start": 971,
+      "text": "have very few people. It just means that"
+    },
+    {
+      "start": 973,
+      "text": "for a given amount of ambition, we are"
+    },
+    {
+      "start": 975,
+      "text": "the smallest company we could possibly"
+    },
+    {
+      "start": 976,
+      "text": "be. And that means that people are"
+    },
+    {
+      "start": 978,
+      "text": "largely speaking underwater most of the"
+    },
+    {
+      "start": 980,
+      "text": "time. Hopefully like we don't have large"
+    },
+    {
+      "start": 982,
+      "text": "amounts of people that have too little"
+    },
+    {
+      "start": 984,
+      "text": "to do, right? The goal is everyone"
+    },
+    {
+      "start": 986,
+      "text": "should have too much to do. And because"
+    },
+    {
+      "start": 987,
+      "text": "of that, that forces rapid"
+    },
+    {
+      "start": 989,
+      "text": "prioritization inside the company with a"
+    },
+    {
+      "start": 991,
+      "text": "lot of urgency that triggers whether or"
+    },
+    {
+      "start": 993,
+      "text": "not we should hire people. And honestly,"
+    },
+    {
+      "start": 995,
+      "text": "that itself is a good forcing function"
+    },
+    {
+      "start": 996,
+      "text": "of how you should scale a company. You"
+    },
+    {
+      "start": 998,
+      "text": "scale a company when everyone is"
+    },
+    {
+      "start": 1000,
+      "text": "underwater and the moment people are no"
+    },
+    {
+      "start": 1002,
+      "text": "longer underwater, we don't scale the"
+    },
+    {
+      "start": 1004,
+      "text": "company anymore. I think in in terms of"
+    },
+    {
+      "start": 1006,
+      "text": "just some of the challenges obviously"
+    },
+    {
+      "start": 1008,
+      "text": "like as the company gets bigger,"
+    },
+    {
+      "start": 1009,
+      "text": "communication gets harder. So there are"
+    },
+    {
+      "start": 1011,
+      "text": "some processes in place in terms of you"
+    },
+    {
+      "start": 1013,
+      "text": "want to ship a feature, it's no longer"
+    },
+    {
+      "start": 1015,
+      "text": "just one person did everything end to"
+    },
+    {
+      "start": 1017,
+      "text": "end. There are like many different"
+    },
+    {
+      "start": 1018,
+      "text": "parties involved. Uh but I think we"
+    },
+    {
+      "start": 1021,
+      "text": "added more process in place to make sure"
+    },
+    {
+      "start": 1022,
+      "text": "that even that could happen much faster."
+    },
+    {
+      "start": 1024,
+      "text": "If you run the company in a way where"
+    },
+    {
+      "start": 1026,
+      "text": "everyone has their own set of"
+    },
+    {
+      "start": 1027,
+      "text": "priorities, I think it's it's cool."
+    },
+    {
+      "start": 1029,
+      "text": "Everyone's kind of having a good time."
+    },
+    {
+      "start": 1031,
+      "text": "But I think, you know, this boils down"
+    },
+    {
+      "start": 1032,
+      "text": "to why do companies work? I think they"
+    },
+    {
+      "start": 1034,
+      "text": "work if you do one or two things really"
+    },
+    {
+      "start": 1036,
+      "text": "well. Maybe even one. Forget about two,"
+    },
+    {
+      "start": 1038,
+      "text": "maybe even one. The problem is then"
+    },
+    {
+      "start": 1040,
+      "text": "actually if you were to imagine in a lot"
+    },
+    {
+      "start": 1043,
+      "text": "of cases, it's very hard to just have"
+    },
+    {
+      "start": 1045,
+      "text": "infinitely many people doing one thing"
+    },
+    {
+      "start": 1047,
+      "text": "really well. So that naturally reduces"
+    },
+    {
+      "start": 1048,
+      "text": "the number of people that you have at"
+    },
+    {
+      "start": 1050,
+      "text": "the company. Yeah. I guess I guess the"
+    },
+    {
+      "start": 1052,
+      "text": "the issue is naturally when you have"
+    },
+    {
+      "start": 1054,
+      "text": "more people, they're going to be more"
+    },
+    {
+      "start": 1055,
+      "text": "priorities, right? Like people are not"
+    },
+    {
+      "start": 1057,
+      "text": "malicious, but they want to have"
+    },
+    {
+      "start": 1059,
+      "text": "something to do. If there are enough"
+    },
+    {
+      "start": 1060,
+      "text": "people to do what the original intent of"
+    },
+    {
+      "start": 1062,
+      "text": "the company was, they're going to find"
+    },
+    {
+      "start": 1064,
+      "text": "other things to do and that's going to"
+    },
+    {
+      "start": 1065,
+      "text": "cause problems internally as well. One"
+    },
+    {
+      "start": 1067,
+      "text": "of the things that I've sort of done is"
+    },
+    {
+      "start": 1068,
+      "text": "I still interview everyone that joins"
+    },
+    {
+      "start": 1070,
+      "text": "the company, make sure that they go"
+    },
+    {
+      "start": 1072,
+      "text": "through a culture fit. I think that's"
+    },
+    {
+      "start": 1073,
+      "text": "actually like quite important to me to"
+    },
+    {
+      "start": 1075,
+      "text": "make sure that we are adding people that"
+    },
+    {
+      "start": 1077,
+      "text": "are going to like maintain and preserve"
+    },
+    {
+      "start": 1080,
+      "text": "and maybe even even just embrace the"
+    },
+    {
+      "start": 1082,
+      "text": "culture we have inside the company. So I"
+    },
+    {
+      "start": 1084,
+      "text": "think that's like honestly honestly like"
+    },
+    {
+      "start": 1085,
+      "text": "a very key thing that I've not given up"
+    },
+    {
+      "start": 1087,
+      "text": "even as the company has scaled you know"
+    },
+    {
+      "start": 1088,
+      "text": "close to 200 people. I I think actually"
+    },
+    {
+      "start": 1091,
+      "text": "it's the same principles that made the"
+    },
+    {
+      "start": 1092,
+      "text": "company work when it's small. I I think"
+    },
+    {
+      "start": 1094,
+      "text": "big companies are not that different"
+    },
+    {
+      "start": 1095,
+      "text": "than small companies. Maybe it's hard to"
+    },
+    {
+      "start": 1096,
+      "text": "operate like a small company when you're"
+    },
+    {
+      "start": 1098,
+      "text": "a big company but I think if you were to"
+    },
+    {
+      "start": 1099,
+      "text": "ask every big company they want to"
+    },
+    {
+      "start": 1100,
+      "text": "operate like a startup. I think the very"
+    },
+    {
+      "start": 1102,
+      "text": "hard thing is once again intellectual"
+    },
+    {
+      "start": 1103,
+      "text": "honesty. It's very hard as the company"
+    },
+    {
+      "start": 1105,
+      "text": "gets bigger for for a large group of"
+    },
+    {
+      "start": 1107,
+      "text": "people to analyze what they're doing and"
+    },
+    {
+      "start": 1109,
+      "text": "to say, \"Hey, we should stop working on"
+    },
+    {
+      "start": 1111,
+      "text": "this or should work on something else.\""
+    },
+    {
+      "start": 1112,
+      "text": "It gets very hard because people feel"
+    },
+    {
+      "start": 1114,
+      "text": "some sort of safety as the company gets"
+    },
+    {
+      "start": 1116,
+      "text": "bigger. But the reality is like no"
+    },
+    {
+      "start": 1118,
+      "text": "company is really safe regardless of the"
+    },
+    {
+      "start": 1120,
+      "text": "size. And that's how every company"
+    },
+    {
+      "start": 1121,
+      "text": "should be operating. They should be"
+    },
+    {
+      "start": 1122,
+      "text": "operating as if almost existential"
+    },
+    {
+      "start": 1124,
+      "text": "dread. Not in that it's causing"
+    },
+    {
+      "start": 1126,
+      "text": "paralysis, but in that it causes the"
+    },
+    {
+      "start": 1127,
+      "text": "agency to kind of figure out what the"
+    },
+    {
+      "start": 1129,
+      "text": "next thing to do is. Yeah. I think"
+    },
+    {
+      "start": 1131,
+      "text": "people get they feel safety,"
+    },
+    {
+      "start": 1133,
+      "text": "psychological safety by feeling that"
+    },
+    {
+      "start": 1136,
+      "text": "what they're working on is the most"
+    },
+    {
+      "start": 1137,
+      "text": "important thing, right? I think, you"
+    },
+    {
+      "start": 1139,
+      "text": "know, people it's very hard to keep in"
+    },
+    {
+      "start": 1140,
+      "text": "your head, hey, like let me go work hard"
+    },
+    {
+      "start": 1142,
+      "text": "on something, but all the while it may"
+    },
+    {
+      "start": 1143,
+      "text": "not be that useful for the company. And"
+    },
+    {
+      "start": 1144,
+      "text": "I think as a company gets bigger, it's"
+    },
+    {
+      "start": 1146,
+      "text": "very hard to have people that just still"
+    },
+    {
+      "start": 1148,
+      "text": "don't have the psychological safety."
+    },
+    {
+      "start": 1150,
+      "text": "Maybe one interesting thing about the"
+    },
+    {
+      "start": 1151,
+      "text": "company is I think companies have like"
+    },
+    {
+      "start": 1153,
+      "text": "two sides attached to them, which is"
+    },
+    {
+      "start": 1155,
+      "text": "that you need some form of irrational"
+    },
+    {
+      "start": 1156,
+      "text": "optimism. The reason why you need"
+    },
+    {
+      "start": 1158,
+      "text": "irrational optimism is without some"
+    },
+    {
+      "start": 1160,
+      "text": "amount of optimism, there's no reason a"
+    },
+    {
+      "start": 1162,
+      "text": "startup ever wins at anything. A big"
+    },
+    {
+      "start": 1164,
+      "text": "company has more capital, more"
+    },
+    {
+      "start": 1165,
+      "text": "resources, more distribution. So you"
+    },
+    {
+      "start": 1167,
+      "text": "need to believe you can do something"
+    },
+    {
+      "start": 1168,
+      "text": "better, right? With great people, uh you"
+    },
+    {
+      "start": 1170,
+      "text": "can somehow build something that's"
+    },
+    {
+      "start": 1172,
+      "text": "generational. You have to believe that."
+    },
+    {
+      "start": 1174,
+      "text": "Uh which is in most cases not true,"
+    },
+    {
+      "start": 1176,
+      "text": "right? So you somehow need to believe"
+    },
+    {
+      "start": 1177,
+      "text": "that. But also at the same time,"
+    },
+    {
+      "start": 1178,
+      "text": "sometimes that's just not going to be"
+    },
+    {
+      "start": 1179,
+      "text": "the case. And you need to be very"
+    },
+    {
+      "start": 1181,
+      "text": "realistic. And I think this comes with,"
+    },
+    {
+      "start": 1182,
+      "text": "you know, uncompromising realism. Like"
+    },
+    {
+      "start": 1184,
+      "text": "you need a healthy amount of both. You"
+    },
+    {
+      "start": 1186,
+      "text": "need you need the optimism to go out and"
+    },
+    {
+      "start": 1188,
+      "text": "do something when everyone else believes"
+    },
+    {
+      "start": 1190,
+      "text": "it's not that valuable because if"
+    },
+    {
+      "start": 1191,
+      "text": "everyone else believed it was valuable,"
+    },
+    {
+      "start": 1193,
+      "text": "the big company would do it and you"
+    },
+    {
+      "start": 1194,
+      "text": "would still lose. But all the while you"
+    },
+    {
+      "start": 1196,
+      "text": "also need to agree most ideas are bad"
+    },
+    {
+      "start": 1198,
+      "text": "ideas and you need to kill your ideas"
+    },
+    {
+      "start": 1199,
+      "text": "fairly quickly as well. This is this is"
+    },
+    {
+      "start": 1201,
+      "text": "like this tension that a company is"
+    },
+    {
+      "start": 1202,
+      "text": "always going through. It progressively"
+    },
+    {
+      "start": 1204,
+      "text": "gets harder and harder. The company gets"
+    },
+    {
+      "start": 1205,
+      "text": "bigger. Uh but I think it's a strength"
+    },
+    {
+      "start": 1206,
+      "text": "if a company can do that regardless of"
+    },
+    {
+      "start": 1208,
+      "text": "what size it is."
+    },
+    {
+      "start": 1210,
+      "text": "Yeah. I think the only thing is that I"
+    },
+    {
+      "start": 1213,
+      "text": "would sort of like to say is build for"
+    },
+    {
+      "start": 1214,
+      "text": "where you think the technology is going,"
+    },
+    {
+      "start": 1216,
+      "text": "not for today, right? And don't build"
+    },
+    {
+      "start": 1218,
+      "text": "probably technologies in places that"
+    },
+    {
+      "start": 1220,
+      "text": "like are as good as they will be given"
+    },
+    {
+      "start": 1222,
+      "text": "where the technology is today. It feels"
+    },
+    {
+      "start": 1224,
+      "text": "like it's going to be very hard to"
+    },
+    {
+      "start": 1225,
+      "text": "differentiate in the long term. And"
+    },
+    {
+      "start": 1226,
+      "text": "that's a hard thing to do, right? Uh"
+    },
+    {
+      "start": 1228,
+      "text": "that means you you you actually need to"
+    },
+    {
+      "start": 1230,
+      "text": "be willing to work on something that"
+    },
+    {
+      "start": 1231,
+      "text": "doesn't feel like it's working for"
+    },
+    {
+      "start": 1232,
+      "text": "maybe, you know, an indeterminate period"
+    },
+    {
+      "start": 1234,
+      "text": "of time. I think what this means is"
+    },
+    {
+      "start": 1235,
+      "text": "these kind of short-term heristics that"
+    },
+    {
+      "start": 1237,
+      "text": "you invest deeply in that make a model"
+    },
+    {
+      "start": 1239,
+      "text": "today work are probably actually have"
+    },
+    {
+      "start": 1241,
+      "text": "massive diminishing returns because the"
+    },
+    {
+      "start": 1243,
+      "text": "next model is going to be much better"
+    },
+    {
+      "start": 1244,
+      "text": "and the heristics are going to be"
+    },
+    {
+      "start": 1245,
+      "text": "unnecessary. I think the things that are"
+    },
+    {
+      "start": 1247,
+      "text": "important are how do you actually take"
+    },
+    {
+      "start": 1250,
+      "text": "advantage of the fact that you do have a"
+    },
+    {
+      "start": 1251,
+      "text": "lot of users and build better"
+    },
+    {
+      "start": 1252,
+      "text": "experiences for them and actually"
+    },
+    {
+      "start": 1254,
+      "text": "because they are using your product"
+    },
+    {
+      "start": 1255,
+      "text": "you're able to build better and better"
+    },
+    {
+      "start": 1257,
+      "text": "experiences for them and these"
+    },
+    {
+      "start": 1258,
+      "text": "experiences are better and learned in a"
+    },
+    {
+      "start": 1261,
+      "text": "way they're actually learned from the"
+    },
+    {
+      "start": 1262,
+      "text": "way people use the product and I think"
+    },
+    {
+      "start": 1264,
+      "text": "you should be focusing on that not on"
+    },
+    {
+      "start": 1265,
+      "text": "kind of cosmetic things that make a"
+    },
+    {
+      "start": 1268,
+      "text": "model kind of magically do something"
+    },
+    {
+      "start": 1270,
+      "text": "that probably is going to happen anyways"
+    },
+    {
+      "start": 1272,
+      "text": "in 6 months."
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 704,
+  "timestamp": "2025-07-24T08:16:52.922Z"
+}

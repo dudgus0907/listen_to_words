@@ -1,0 +1,1914 @@
+{
+  "success": true,
+  "videoId": "249tl3G2WIM",
+  "videoTitle": "Building the Most Loved Analytics Tool ($1.05B, $100M ARR, 60+ NPS) ｜ Mixpanel, Amir Movafaghi",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "at one point mixpanel we were turning"
+    },
+    {
+      "start": 2,
+      "text": "almost half of our customers every year"
+    },
+    {
+      "start": 5,
+      "text": "and it was this place where as a company"
+    },
+    {
+      "start": 8,
+      "text": "that's growing fast you know in some"
+    },
+    {
+      "start": 10,
+      "text": "ways that can that metric can be"
+    },
+    {
+      "start": 11,
+      "text": "overlooked but in many ways it was a"
+    },
+    {
+      "start": 14,
+      "text": "time where we really came together and"
+    },
+    {
+      "start": 17,
+      "text": "said look turning half the customers is"
+    },
+    {
+      "start": 20,
+      "text": "a major major problem in that we are"
+    },
+    {
+      "start": 22,
+      "text": "clearly not driving and delivering the"
+    },
+    {
+      "start": 25,
+      "text": "value as a company that we need to and"
+    },
+    {
+      "start": 27,
+      "text": "even though you know we we're still"
+    },
+    {
+      "start": 29,
+      "text": "growing we have to go back and address"
+    },
+    {
+      "start": 30,
+      "text": "churn but the reality was much more"
+    },
+    {
+      "start": 33,
+      "text": "complicated and nuanced it so happened"
+    },
+    {
+      "start": 35,
+      "text": "that there wasn't one answer you it"
+    },
+    {
+      "start": 38,
+      "text": "wasn't one thing it was a set of a bunch"
+    },
+    {
+      "start": 40,
+      "text": "of different things that we needed to do"
+    },
+    {
+      "start": 42,
+      "text": "and so that's where our journey began"
+    },
+    {
+      "start": 44,
+      "text": "and we literally made a you know a"
+    },
+    {
+      "start": 46,
+      "text": "series of categories of different"
+    },
+    {
+      "start": 48,
+      "text": "priorities we had a series of things"
+    },
+    {
+      "start": 50,
+      "text": "that we were going to go out and and"
+    },
+    {
+      "start": 51,
+      "text": "Tackle uh and everyone the company from"
+    },
+    {
+      "start": 54,
+      "text": "go to market to epd sort of had this"
+    },
+    {
+      "start": 57,
+      "text": "core mission to go out and get this done"
+    },
+    {
+      "start": 60,
+      "text": "and the result was really incredible and"
+    },
+    {
+      "start": 64,
+      "text": "by the time we did our series C we were"
+    },
+    {
+      "start": 65,
+      "text": "at 50 and this past spring we almost"
+    },
+    {
+      "start": 68,
+      "text": "touched 60 which is really like now kind"
+    },
+    {
+      "start": 71,
+      "text": "of consumer grade category and then"
+    },
+    {
+      "start": 73,
+      "text": "retention went from you know 50 to close"
+    },
+    {
+      "start": 75,
+      "text": "to"
+    },
+    {
+      "start": 76,
+      "text": "90% hello my name is uh Amir moaf fagi"
+    },
+    {
+      "start": 80,
+      "text": "I'm the CEO here at mixpanel we are an"
+    },
+    {
+      "start": 82,
+      "text": "event-based analytics company currently"
+    },
+    {
+      "start": 85,
+      "text": "have 9,000 customers globally"
+    },
+    {
+      "start": 87,
+      "text": "distributed company crossed the 100"
+    },
+    {
+      "start": 89,
+      "text": "million in Revenue a little less than a"
+    },
+    {
+      "start": 91,
+      "text": "couple of years ago we're super proud to"
+    },
+    {
+      "start": 94,
+      "text": "have our uh one other metric that we"
+    },
+    {
+      "start": 96,
+      "text": "disclos in our customer MPS being almost"
+    },
+    {
+      "start": 98,
+      "text": "a consumer grade approaching"
+    },
+    {
+      "start": 102,
+      "text": "[Music]"
+    },
+    {
+      "start": 107,
+      "text": "60 I was born in uh in tan in Iran I"
+    },
+    {
+      "start": 111,
+      "text": "spent 7even years in Istanbul Turkey so"
+    },
+    {
+      "start": 114,
+      "text": "I spent a good number of years there we"
+    },
+    {
+      "start": 115,
+      "text": "moved there when I was about eight and"
+    },
+    {
+      "start": 116,
+      "text": "then I came to United States when I was"
+    },
+    {
+      "start": 118,
+      "text": "15 when I was uh going through graduate"
+    },
+    {
+      "start": 122,
+      "text": "school it was a time when financial"
+    },
+    {
+      "start": 124,
+      "text": "crisis had hit in New York it was right"
+    },
+    {
+      "start": 127,
+      "text": "at the the beginning of where social"
+    },
+    {
+      "start": 129,
+      "text": "platforms were coming online and"
+    },
+    {
+      "start": 132,
+      "text": "Uprising uh in Iran I couldn't get a"
+    },
+    {
+      "start": 134,
+      "text": "hold of my parents because all the phone"
+    },
+    {
+      "start": 137,
+      "text": "lines were were shut down and you know"
+    },
+    {
+      "start": 139,
+      "text": "email was not working and at the time"
+    },
+    {
+      "start": 141,
+      "text": "Twitter was the only uh uh platform that"
+    },
+    {
+      "start": 144,
+      "text": "was uh really reporting what was"
+    },
+    {
+      "start": 146,
+      "text": "happening on the ground in ton and it"
+    },
+    {
+      "start": 149,
+      "text": "was this sort of like incredible moment"
+    },
+    {
+      "start": 151,
+      "text": "of realizing just how powerful the"
+    },
+    {
+      "start": 153,
+      "text": "social platforms were becoming at that"
+    },
+    {
+      "start": 155,
+      "text": "point it was such a personal attachment"
+    },
+    {
+      "start": 157,
+      "text": "to the product that was my lead in to"
+    },
+    {
+      "start": 159,
+      "text": "Tech so I joined Twitter in 2010 when I"
+    },
+    {
+      "start": 162,
+      "text": "joined a company we were about a little"
+    },
+    {
+      "start": 165,
+      "text": "over 100 employees we were pre-ad"
+    },
+    {
+      "start": 168,
+      "text": "Revenue it was a extraordinarily"
+    },
+    {
+      "start": 171,
+      "text": "exciting time even Twitter at its height"
+    },
+    {
+      "start": 173,
+      "text": "of success every 6 months was like a"
+    },
+    {
+      "start": 175,
+      "text": "completely different company you had"
+    },
+    {
+      "start": 177,
+      "text": "this company that you would wake up you"
+    },
+    {
+      "start": 179,
+      "text": "all of a sudden had an ad product that"
+    },
+    {
+      "start": 181,
+      "text": "failed you kind of had a moment of"
+    },
+    {
+      "start": 183,
+      "text": "having to really kind of have these"
+    },
+    {
+      "start": 184,
+      "text": "moments of existential crisis right hey"
+    },
+    {
+      "start": 186,
+      "text": "are we going to have you are we going to"
+    },
+    {
+      "start": 188,
+      "text": "have a company you know in 6 months is"
+    },
+    {
+      "start": 189,
+      "text": "there going to be are we going to be"
+    },
+    {
+      "start": 190,
+      "text": "able to make it to the other side in a"
+    },
+    {
+      "start": 192,
+      "text": "lot of ways the way that we go through"
+    },
+    {
+      "start": 195,
+      "text": "and fix things together as a team is"
+    },
+    {
+      "start": 197,
+      "text": "this ability to really come together on"
+    },
+    {
+      "start": 200,
+      "text": "a core problem and we understand why we"
+    },
+    {
+      "start": 203,
+      "text": "are focusing on what we're focusing we"
+    },
+    {
+      "start": 205,
+      "text": "have Clarity around what objective and"
+    },
+    {
+      "start": 207,
+      "text": "what outcome we're trying to get to and"
+    },
+    {
+      "start": 208,
+      "text": "then we're flexible about the how right"
+    },
+    {
+      "start": 211,
+      "text": "and we're able to take feedback along"
+    },
+    {
+      "start": 212,
+      "text": "the way from our customers from our"
+    },
+    {
+      "start": 214,
+      "text": "peers from our board you know from"
+    },
+    {
+      "start": 216,
+      "text": "everybody investors like we are able to"
+    },
+    {
+      "start": 219,
+      "text": "learn and understand and then iterate"
+    },
+    {
+      "start": 221,
+      "text": "and then hold ourselves accountable to"
+    },
+    {
+      "start": 223,
+      "text": "these outcomes so I think fixing"
+    },
+    {
+      "start": 225,
+      "text": "problems at its core comes down to First"
+    },
+    {
+      "start": 228,
+      "text": "really centering oursel on why this"
+    },
+    {
+      "start": 230,
+      "text": "matters why it takes precedent priority"
+    },
+    {
+      "start": 232,
+      "text": "over the 99 other problems you have and"
+    },
+    {
+      "start": 235,
+      "text": "then rallying and inspiring people to"
+    },
+    {
+      "start": 237,
+      "text": "really get in have Clarity on how they"
+    },
+    {
+      "start": 239,
+      "text": "can make an impact and difference on"
+    },
+    {
+      "start": 241,
+      "text": "that Journey when I left Twitter we had"
+    },
+    {
+      "start": 244,
+      "text": "grown from nearly 100 employees to 4,500"
+    },
+    {
+      "start": 248,
+      "text": "employees it was from close to zero to"
+    },
+    {
+      "start": 252,
+      "text": "you 2 billion in Revenue it was um"
+    },
+    {
+      "start": 254,
+      "text": "phenomenal incredible growth that"
+    },
+    {
+      "start": 257,
+      "text": "happened during that time biggest lesson"
+    },
+    {
+      "start": 259,
+      "text": "was the impact that user experience had"
+    },
+    {
+      "start": 264,
+      "text": "on the success of the company and this"
+    },
+    {
+      "start": 266,
+      "text": "Obsession around delivering a better"
+    },
+    {
+      "start": 268,
+      "text": "product a better user experience and"
+    },
+    {
+      "start": 271,
+      "text": "sort of like a in a way having that as a"
+    },
+    {
+      "start": 274,
+      "text": "leading path into better monetization"
+    },
+    {
+      "start": 277,
+      "text": "and better growth companies in"
+    },
+    {
+      "start": 279,
+      "text": "Enterprise software have invested quite"
+    },
+    {
+      "start": 282,
+      "text": "a bit on technology you know better"
+    },
+    {
+      "start": 284,
+      "text": "utility building a better technology as"
+    },
+    {
+      "start": 287,
+      "text": "like a first order of business being"
+    },
+    {
+      "start": 290,
+      "text": "part of Twitter it was getting a lot"
+    },
+    {
+      "start": 292,
+      "text": "more closer to just how much the"
+    },
+    {
+      "start": 294,
+      "text": "significance of making sure that you're"
+    },
+    {
+      "start": 297,
+      "text": "always thinking of the user the customer"
+    },
+    {
+      "start": 299,
+      "text": "first before you go figure out"
+    },
+    {
+      "start": 302,
+      "text": "everything else because without the"
+    },
+    {
+      "start": 303,
+      "text": "value without that Ultimate Experience"
+    },
+    {
+      "start": 306,
+      "text": "that you're delivering that's creating"
+    },
+    {
+      "start": 307,
+      "text": "value everything else can feel much more"
+    },
+    {
+      "start": 310,
+      "text": "femoral and much weaker"
+    },
+    {
+      "start": 312,
+      "text": "Foundation I think you know in many ways"
+    },
+    {
+      "start": 315,
+      "text": "when you're part of a in in a great"
+    },
+    {
+      "start": 318,
+      "text": "company that's has a number of different"
+    },
+    {
+      "start": 320,
+      "text": "opportunities to make an impact and"
+    },
+    {
+      "start": 322,
+      "text": "connect and grow with in many ways you"
+    },
+    {
+      "start": 325,
+      "text": "want to make sure that your skill set is"
+    },
+    {
+      "start": 328,
+      "text": "You Know Rich enough and mature enough"
+    },
+    {
+      "start": 330,
+      "text": "to be able to deliver a bunch of impact"
+    },
+    {
+      "start": 332,
+      "text": "but hopefully if you're in the right"
+    },
+    {
+      "start": 333,
+      "text": "position you're also gaining a bunch of"
+    },
+    {
+      "start": 335,
+      "text": "new knowledge and new tools I think in"
+    },
+    {
+      "start": 337,
+      "text": "many ways the the growth comes from just"
+    },
+    {
+      "start": 340,
+      "text": "having that sheer intellectual curiosity"
+    },
+    {
+      "start": 343,
+      "text": "and a desire to make sure that you're"
+    },
+    {
+      "start": 345,
+      "text": "influencing and impacting things that"
+    },
+    {
+      "start": 347,
+      "text": "matter and so biggest one is this"
+    },
+    {
+      "start": 350,
+      "text": "constant ability to ask am I doing the"
+    },
+    {
+      "start": 352,
+      "text": "thing that is the highest impact uh work"
+    },
+    {
+      "start": 354,
+      "text": "that I could be doing am I focusing on"
+    },
+    {
+      "start": 356,
+      "text": "things that actually will drive and make"
+    },
+    {
+      "start": 358,
+      "text": "a difference and then usually if you're"
+    },
+    {
+      "start": 361,
+      "text": "in the right role and you have the right"
+    },
+    {
+      "start": 363,
+      "text": "foundational skill set then the rest of"
+    },
+    {
+      "start": 365,
+      "text": "it will take care of itself you'll"
+    },
+    {
+      "start": 366,
+      "text": "figure out resources and who to tap into"
+    },
+    {
+      "start": 369,
+      "text": "it's one of the best parts of being in"
+    },
+    {
+      "start": 371,
+      "text": "Silicon Valley is you pick up the phone"
+    },
+    {
+      "start": 373,
+      "text": "and you can call so many people around"
+    },
+    {
+      "start": 375,
+      "text": "us that have either experienced that"
+    },
+    {
+      "start": 378,
+      "text": "exact same situation that you're in one"
+    },
+    {
+      "start": 380,
+      "text": "of the things that I always mention"
+    },
+    {
+      "start": 382,
+      "text": "people talk about like hey what's so"
+    },
+    {
+      "start": 384,
+      "text": "special about Silicon Valley why you"
+    },
+    {
+      "start": 386,
+      "text": "know would I move my company there why"
+    },
+    {
+      "start": 388,
+      "text": "would we you know start a company you"
+    },
+    {
+      "start": 390,
+      "text": "know in Silicon Valley instead of"
+    },
+    {
+      "start": 391,
+      "text": "somewhere else the and the answer I give"
+    },
+    {
+      "start": 393,
+      "text": "is when I started at Twitter we were"
+    },
+    {
+      "start": 395,
+      "text": "going through a bunch of newish problems"
+    },
+    {
+      "start": 399,
+      "text": "that we were experiencing and at that"
+    },
+    {
+      "start": 401,
+      "text": "time I remember just through networking"
+    },
+    {
+      "start": 404,
+      "text": "finding out experts that were you know"
+    },
+    {
+      "start": 407,
+      "text": "at Facebook or at LinkedIn or at Google"
+    },
+    {
+      "start": 409,
+      "text": "and you would reach out in every single"
+    },
+    {
+      "start": 411,
+      "text": "time almost 100% of the time there were"
+    },
+    {
+      "start": 413,
+      "text": "willing to jump on a call and they were"
+    },
+    {
+      "start": 415,
+      "text": "willing to collaborate and they were"
+    },
+    {
+      "start": 416,
+      "text": "willing to give advice and I think that"
+    },
+    {
+      "start": 418,
+      "text": "was such a a phenomenal sort of"
+    },
+    {
+      "start": 421,
+      "text": "validation of just how important it is"
+    },
+    {
+      "start": 424,
+      "text": "to be in an environment where people are"
+    },
+    {
+      "start": 427,
+      "text": "experiencing that same set of growth"
+    },
+    {
+      "start": 429,
+      "text": "ambition and experiences that they can"
+    },
+    {
+      "start": 432,
+      "text": "impart and and give to you as you're"
+    },
+    {
+      "start": 434,
+      "text": "solving your your problems in your"
+    },
+    {
+      "start": 438,
+      "text": "company do you use Ken Lee to book calls"
+    },
+    {
+      "start": 441,
+      "text": "Tod do is to manage tasks trell to keep"
+    },
+    {
+      "start": 444,
+      "text": "track of projects what if I told you"
+    },
+    {
+      "start": 446,
+      "text": "that you could do all these with one"
+    },
+    {
+      "start": 447,
+      "text": "tool but then it also integrates with"
+    },
+    {
+      "start": 450,
+      "text": "all of the tools that I just mentioned"
+    },
+    {
+      "start": 452,
+      "text": "hi everyone I'm Hannah from the EO team"
+    },
+    {
+      "start": 454,
+      "text": "and I'm here to introduce the"
+    },
+    {
+      "start": 455,
+      "text": "gamechanging productivity tool akif flow"
+    },
+    {
+      "start": 458,
+      "text": "it's basically a smart combination of"
+    },
+    {
+      "start": 460,
+      "text": "all the essential productivity features"
+    },
+    {
+      "start": 462,
+      "text": "I need on the daily first is the"
+    },
+    {
+      "start": 464,
+      "text": "beautiful marriage of task management"
+    },
+    {
+      "start": 467,
+      "text": "and time blocking akif flow has this"
+    },
+    {
+      "start": 469,
+      "text": "interface where you can create a to-do"
+    },
+    {
+      "start": 471,
+      "text": "list just as you would in any task"
+    },
+    {
+      "start": 473,
+      "text": "management tools but you can also drag"
+    },
+    {
+      "start": 476,
+      "text": "these certain tasks right into your"
+    },
+    {
+      "start": 478,
+      "text": "calendar to the exact time of day I find"
+    },
+    {
+      "start": 480,
+      "text": "this particular visualization of two dos"
+    },
+    {
+      "start": 483,
+      "text": "and schedules side by side very helpful"
+    },
+    {
+      "start": 485,
+      "text": "in prioritizing my work carving out"
+    },
+    {
+      "start": 487,
+      "text": "chunks of focus time needed for video"
+    },
+    {
+      "start": 490,
+      "text": "editing blocking time here syncs with"
+    },
+    {
+      "start": 492,
+      "text": "all of my other connected apps such as"
+    },
+    {
+      "start": 494,
+      "text": "slack Ken Le and more secondly it's the"
+    },
+    {
+      "start": 497,
+      "text": "magical command bar the go-to shortcut"
+    },
+    {
+      "start": 500,
+      "text": "for all features within aif flow instead"
+    },
+    {
+      "start": 502,
+      "text": "of navigating the app manually I simply"
+    },
+    {
+      "start": 504,
+      "text": "click on the command bar to command what"
+    },
+    {
+      "start": 506,
+      "text": "I wish to perform for example let's just"
+    },
+    {
+      "start": 509,
+      "text": "say that we confirmed an interview"
+    },
+    {
+      "start": 511,
+      "text": "filming and I want to put that in my"
+    },
+    {
+      "start": 512,
+      "text": "calendar I could just set that up"
+    },
+    {
+      "start": 514,
+      "text": "manually on the Google Calendar or I"
+    },
+    {
+      "start": 517,
+      "text": "could simply go ahead and type akif flow"
+    },
+    {
+      "start": 519,
+      "text": "founder interview filming on October"
+    },
+    {
+      "start": 521,
+      "text": "28th from 12:00 p.m. to 3: p.m. and"
+    },
+    {
+      "start": 524,
+      "text": "there's my schedule we've been using it"
+    },
+    {
+      "start": 526,
+      "text": "to keep track of our hectic filming and"
+    },
+    {
+      "start": 528,
+      "text": "traveling schedules every"
+    },
+    {
+      "start": 533,
+      "text": "day okay at one point mpanel we were"
+    },
+    {
+      "start": 536,
+      "text": "turning almost half of our customers"
+    },
+    {
+      "start": 539,
+      "text": "every year and it was this place where"
+    },
+    {
+      "start": 541,
+      "text": "as a company that's growing fast you"
+    },
+    {
+      "start": 544,
+      "text": "know in some ways that can that metric"
+    },
+    {
+      "start": 546,
+      "text": "can be overlooked you're like Hey we're"
+    },
+    {
+      "start": 547,
+      "text": "still we're still growing things are"
+    },
+    {
+      "start": 549,
+      "text": "still great and you know you would show"
+    },
+    {
+      "start": 551,
+      "text": "up and and look at these numbers and you"
+    },
+    {
+      "start": 553,
+      "text": "wouldn't even blink you're like yeah we"
+    },
+    {
+      "start": 555,
+      "text": "just had like half of our customers like"
+    },
+    {
+      "start": 556,
+      "text": "walk out the door but it's not a big"
+    },
+    {
+      "start": 558,
+      "text": "deal cuz we're getting so much more and"
+    },
+    {
+      "start": 560,
+      "text": "we're still growing but in many ways it"
+    },
+    {
+      "start": 562,
+      "text": "was a time where we really came together"
+    },
+    {
+      "start": 566,
+      "text": "and said look turning half the customers"
+    },
+    {
+      "start": 568,
+      "text": "is a major your major problem in that we"
+    },
+    {
+      "start": 571,
+      "text": "are clearly not driving and delivering"
+    },
+    {
+      "start": 573,
+      "text": "the value as a company that we need to"
+    },
+    {
+      "start": 575,
+      "text": "and even though you know we we're still"
+    },
+    {
+      "start": 577,
+      "text": "growing we have to go back and address"
+    },
+    {
+      "start": 579,
+      "text": "churn as a way of making sure we have"
+    },
+    {
+      "start": 581,
+      "text": "sustainable growth over time and that"
+    },
+    {
+      "start": 583,
+      "text": "product needs to kind of get to this"
+    },
+    {
+      "start": 584,
+      "text": "level of maturity over time and you know"
+    },
+    {
+      "start": 587,
+      "text": "the problem is actually this one was"
+    },
+    {
+      "start": 588,
+      "text": "quite difficult cuz we were initially"
+    },
+    {
+      "start": 591,
+      "text": "just trying to find like easy answers"
+    },
+    {
+      "start": 593,
+      "text": "you know maybe this is a segment problem"
+    },
+    {
+      "start": 594,
+      "text": "like SMB has higher turn maybe we just"
+    },
+    {
+      "start": 597,
+      "text": "need to go to Enterprise and that'll be"
+    },
+    {
+      "start": 598,
+      "text": "the fix all of our problems but the"
+    },
+    {
+      "start": 600,
+      "text": "reality was much more complicated and"
+    },
+    {
+      "start": 603,
+      "text": "nuanced and what it required was a very"
+    },
+    {
+      "start": 606,
+      "text": "very diligent way of again segmenting"
+    },
+    {
+      "start": 610,
+      "text": "and understanding the behavior from a"
+    },
+    {
+      "start": 611,
+      "text": "different customers in different"
+    },
+    {
+      "start": 613,
+      "text": "segments and then being able to really"
+    },
+    {
+      "start": 614,
+      "text": "narrow in on the reasons it it so"
+    },
+    {
+      "start": 617,
+      "text": "happened that there wasn't one answer"
+    },
+    {
+      "start": 620,
+      "text": "you know it wasn't one thing it was a"
+    },
+    {
+      "start": 621,
+      "text": "set of a bunch of different things that"
+    },
+    {
+      "start": 623,
+      "text": "we needed to do and the list was quite"
+    },
+    {
+      "start": 625,
+      "text": "overwhelming the way that we came at it"
+    },
+    {
+      "start": 628,
+      "text": "was instead of putting some crazy insane"
+    },
+    {
+      "start": 631,
+      "text": "kind of goal for where we wanted to be"
+    },
+    {
+      "start": 633,
+      "text": "in a in in a year time we acknowledge"
+    },
+    {
+      "start": 636,
+      "text": "that retention was a lagging indicator"
+    },
+    {
+      "start": 638,
+      "text": "that it would take time for us to really"
+    },
+    {
+      "start": 640,
+      "text": "move it and so instead we said what is"
+    },
+    {
+      "start": 642,
+      "text": "the single kind of proxy leading"
+    },
+    {
+      "start": 643,
+      "text": "indicator we can grab that would Inspire"
+    },
+    {
+      "start": 646,
+      "text": "the team get them excited about making"
+    },
+    {
+      "start": 649,
+      "text": "the right set of improvements um in"
+    },
+    {
+      "start": 651,
+      "text": "moving retention in the right direction"
+    },
+    {
+      "start": 653,
+      "text": "and then we shifted our Focus to NPS"
+    },
+    {
+      "start": 655,
+      "text": "user NPS we said look if we are able to"
+    },
+    {
+      "start": 658,
+      "text": "improve Pro user sentiment that's a much"
+    },
+    {
+      "start": 661,
+      "text": "faster in product signal we're going to"
+    },
+    {
+      "start": 663,
+      "text": "get from our users that starts going up"
+    },
+    {
+      "start": 666,
+      "text": "then we know we can kind of move the"
+    },
+    {
+      "start": 667,
+      "text": "dial on on retention over time and so"
+    },
+    {
+      "start": 669,
+      "text": "that's where our journey began and we"
+    },
+    {
+      "start": 671,
+      "text": "literally made a you know a series of"
+    },
+    {
+      "start": 673,
+      "text": "categories of different priorities we"
+    },
+    {
+      "start": 675,
+      "text": "had a series of things that we were"
+    },
+    {
+      "start": 677,
+      "text": "going to go out and and Tackle uh and"
+    },
+    {
+      "start": 679,
+      "text": "everyone the company from go to market"
+    },
+    {
+      "start": 682,
+      "text": "to epd sort of had this core mission to"
+    },
+    {
+      "start": 685,
+      "text": "go out and get this done and the result"
+    },
+    {
+      "start": 688,
+      "text": "was really incredible we were in single"
+    },
+    {
+      "start": 691,
+      "text": "digits uh MPS at the time and we were"
+    },
+    {
+      "start": 694,
+      "text": "able to move that 10 points every single"
+    },
+    {
+      "start": 698,
+      "text": "year and by the time we did our series C"
+    },
+    {
+      "start": 700,
+      "text": "we were at 50 and this past spring we"
+    },
+    {
+      "start": 703,
+      "text": "almost touched 60 which is really like"
+    },
+    {
+      "start": 705,
+      "text": "now kind of consumer grade category and"
+    },
+    {
+      "start": 708,
+      "text": "then retention went from you know 50 to"
+    },
+    {
+      "start": 710,
+      "text": "close to 90% as a result which I think"
+    },
+    {
+      "start": 713,
+      "text": "again speaks to this ability to"
+    },
+    {
+      "start": 716,
+      "text": "establish real feedback loops that allow"
+    },
+    {
+      "start": 719,
+      "text": "you to understand whether you're the"
+    },
+    {
+      "start": 722,
+      "text": "things you're doing are moving the"
+    },
+    {
+      "start": 723,
+      "text": "needle and then having this kind of"
+    },
+    {
+      "start": 725,
+      "text": "combination of leading lagging"
+    },
+    {
+      "start": 726,
+      "text": "indicators so that you have things to"
+    },
+    {
+      "start": 729,
+      "text": "inspire get inspired along the way in"
+    },
+    {
+      "start": 731,
+      "text": "your journey of execution rather than"
+    },
+    {
+      "start": 733,
+      "text": "having to wait you know a year to find"
+    },
+    {
+      "start": 735,
+      "text": "out if something was"
+    },
+    {
+      "start": 737,
+      "text": "working companies go through very very"
+    },
+    {
+      "start": 741,
+      "text": "different stages and challenges as"
+    },
+    {
+      "start": 743,
+      "text": "they're going from no Revenue to the"
+    },
+    {
+      "start": 747,
+      "text": "initial uh signals that there's demand"
+    },
+    {
+      "start": 749,
+      "text": "and there's a need for their product to"
+    },
+    {
+      "start": 751,
+      "text": "get 10 million Milestone they get the 50"
+    },
+    {
+      "start": 753,
+      "text": "million Milestone and there's huge drop"
+    },
+    {
+      "start": 756,
+      "text": "offs from each of these stages learning"
+    },
+    {
+      "start": 758,
+      "text": "an experience that at least we've taken"
+    },
+    {
+      "start": 760,
+      "text": "here at mix spanel is the ability to"
+    },
+    {
+      "start": 764,
+      "text": "really have a very rich signal coming in"
+    },
+    {
+      "start": 768,
+      "text": "from the pool of customers that you"
+    },
+    {
+      "start": 770,
+      "text": "don't have right because so much of your"
+    },
+    {
+      "start": 772,
+      "text": "signal and constant uh feedback loop is"
+    },
+    {
+      "start": 775,
+      "text": "around the core Market that you're"
+    },
+    {
+      "start": 778,
+      "text": "addressing and your core set of"
+    },
+    {
+      "start": 780,
+      "text": "customers that are paying you today a"
+    },
+    {
+      "start": 782,
+      "text": "lot of your signals are coming from"
+    },
+    {
+      "start": 784,
+      "text": "existing customers and so along the way"
+    },
+    {
+      "start": 787,
+      "text": "as company's maturing you want to make"
+    },
+    {
+      "start": 789,
+      "text": "sure you always have in the initial"
+    },
+    {
+      "start": 791,
+      "text": "phase you you you just you want to get"
+    },
+    {
+      "start": 793,
+      "text": "as small as possible solve the problem"
+    },
+    {
+      "start": 796,
+      "text": "for the smallest audience that is uh"
+    },
+    {
+      "start": 799,
+      "text": "able to get value and pay you for for"
+    },
+    {
+      "start": 801,
+      "text": "your product um but as you're scaling"
+    },
+    {
+      "start": 803,
+      "text": "and getting to 50 100 million plus then"
+    },
+    {
+      "start": 805,
+      "text": "you're really trying to also make sure"
+    },
+    {
+      "start": 807,
+      "text": "you have a lens toward"
+    },
+    {
+      "start": 809,
+      "text": "the set of the part of the market that"
+    },
+    {
+      "start": 811,
+      "text": "you don't own that you don't have and"
+    },
+    {
+      "start": 813,
+      "text": "make sure that you understand what"
+    },
+    {
+      "start": 814,
+      "text": "opportunities you have to grow and"
+    },
+    {
+      "start": 816,
+      "text": "continue to expand your offering and and"
+    },
+    {
+      "start": 819,
+      "text": "creating more value for a bigger part of"
+    },
+    {
+      "start": 820,
+      "text": "the market I think Beyond product and"
+    },
+    {
+      "start": 823,
+      "text": "and signal from customers the other"
+    },
+    {
+      "start": 825,
+      "text": "dimension that's really critical as"
+    },
+    {
+      "start": 827,
+      "text": "you're scaling is way that teams operate"
+    },
+    {
+      "start": 830,
+      "text": "internally how and the the way that your"
+    },
+    {
+      "start": 833,
+      "text": "executive team and you as a CEO need to"
+    },
+    {
+      "start": 836,
+      "text": "operate is going to change completely"
+    },
+    {
+      "start": 838,
+      "text": "right as a 10 person startup you're in a"
+    },
+    {
+      "start": 841,
+      "text": "very different capacity everybody's"
+    },
+    {
+      "start": 844,
+      "text": "everybody's doing everything and then"
+    },
+    {
+      "start": 846,
+      "text": "you're you're need to then go create"
+    },
+    {
+      "start": 848,
+      "text": "leverage really create autonomy and"
+    },
+    {
+      "start": 850,
+      "text": "ownership modularity within the"
+    },
+    {
+      "start": 852,
+      "text": "organization is going to be key uh in"
+    },
+    {
+      "start": 854,
+      "text": "driving kind of growth and success you"
+    },
+    {
+      "start": 856,
+      "text": "need past a certain"
+    },
+    {
+      "start": 861,
+      "text": "scale I think product L growth is is"
+    },
+    {
+      "start": 863,
+      "text": "really important and I think sometimes"
+    },
+    {
+      "start": 866,
+      "text": "we oversimplify what it means even expel"
+    },
+    {
+      "start": 869,
+      "text": "we've we've had quite a bit of a journey"
+    },
+    {
+      "start": 871,
+      "text": "in terms of understanding the nuances of"
+    },
+    {
+      "start": 874,
+      "text": "you know what it entails what works"
+    },
+    {
+      "start": 875,
+      "text": "within product L growth and what you"
+    },
+    {
+      "start": 877,
+      "text": "need to augment and layer on the the"
+    },
+    {
+      "start": 879,
+      "text": "fact of the matter is what's really"
+    },
+    {
+      "start": 881,
+      "text": "awesome about product L growth and"
+    },
+    {
+      "start": 883,
+      "text": "what's so good about so many of the"
+    },
+    {
+      "start": 884,
+      "text": "startups and different you know growth"
+    },
+    {
+      "start": 886,
+      "text": "companies really leaning into to this at"
+    },
+    {
+      "start": 889,
+      "text": "its heart the principle is we have we"
+    },
+    {
+      "start": 891,
+      "text": "need to have a really amazing product"
+    },
+    {
+      "start": 893,
+      "text": "that's self- servable that can people"
+    },
+    {
+      "start": 895,
+      "text": "can get value out of right away that"
+    },
+    {
+      "start": 897,
+      "text": "sort of speaks for itself"
+    },
+    {
+      "start": 899,
+      "text": "uh you barely need to sell you know"
+    },
+    {
+      "start": 902,
+      "text": "that's kind of like the the the end all"
+    },
+    {
+      "start": 904,
+      "text": "sort of uh goal of product lead and"
+    },
+    {
+      "start": 907,
+      "text": "that's awesome but there is so much more"
+    },
+    {
+      "start": 910,
+      "text": "to being able to leveraging product L"
+    },
+    {
+      "start": 913,
+      "text": "growth and actually creating sustainable"
+    },
+    {
+      "start": 915,
+      "text": "growth over time and a big part of that"
+    },
+    {
+      "start": 918,
+      "text": "is this element of you know Market"
+    },
+    {
+      "start": 920,
+      "text": "education everyone is going to come in"
+    },
+    {
+      "start": 922,
+      "text": "to your product with a very different"
+    },
+    {
+      "start": 925,
+      "text": "set of maturity right they may be at a"
+    },
+    {
+      "start": 927,
+      "text": "different part of the company"
+    },
+    {
+      "start": 929,
+      "text": "understanding of the problem that you're"
+    },
+    {
+      "start": 931,
+      "text": "trying to solve as a company being very"
+    },
+    {
+      "start": 933,
+      "text": "intellectually honest about truly"
+    },
+    {
+      "start": 936,
+      "text": "segmenting and understanding where you"
+    },
+    {
+      "start": 938,
+      "text": "have an opportunity to actually go drive"
+    },
+    {
+      "start": 940,
+      "text": "product Le growth where you can deliver"
+    },
+    {
+      "start": 943,
+      "text": "a self- serve for the most part a self-"
+    },
+    {
+      "start": 945,
+      "text": "serve experience that's really key"
+    },
+    {
+      "start": 948,
+      "text": "acknowledging that there's this space"
+    },
+    {
+      "start": 950,
+      "text": "and there's absolutely an opportunity to"
+    },
+    {
+      "start": 953,
+      "text": "be very sales l and a way that you drive"
+    },
+    {
+      "start": 956,
+      "text": "augmenting that product Le growth"
+    },
+    {
+      "start": 958,
+      "text": "knowing that you can always rely and"
+    },
+    {
+      "start": 960,
+      "text": "fall back on the fact that you have an"
+    },
+    {
+      "start": 961,
+      "text": "incredible product that once you get to"
+    },
+    {
+      "start": 963,
+      "text": "a right level of Market education when"
+    },
+    {
+      "start": 966,
+      "text": "you get to the right level of getting a"
+    },
+    {
+      "start": 968,
+      "text": "customer to the same spot then your"
+    },
+    {
+      "start": 970,
+      "text": "product will take care of the rest it's"
+    },
+    {
+      "start": 972,
+      "text": "just this kind of core appreciation that"
+    },
+    {
+      "start": 975,
+      "text": "initially product L growth is really"
+    },
+    {
+      "start": 978,
+      "text": "awesome because of its unit economics"
+    },
+    {
+      "start": 979,
+      "text": "it's like the fastest the most"
+    },
+    {
+      "start": 981,
+      "text": "affordable the best way you can possibly"
+    },
+    {
+      "start": 983,
+      "text": "grow but it's kind of core at its core"
+    },
+    {
+      "start": 985,
+      "text": "uh it requires a really deep"
+    },
+    {
+      "start": 987,
+      "text": "segmentation Focus for it to to"
+    },
+    {
+      "start": 992,
+      "text": "work first one is about being open and"
+    },
+    {
+      "start": 995,
+      "text": "being open to feedback you know we as"
+    },
+    {
+      "start": 998,
+      "text": "people get attached emotionally to our"
+    },
+    {
+      "start": 1000,
+      "text": "decisions about how to go from point A"
+    },
+    {
+      "start": 1002,
+      "text": "to point B and just knowing that uh"
+    },
+    {
+      "start": 1004,
+      "text": "having qualitative quantitative feedback"
+    },
+    {
+      "start": 1006,
+      "text": "will let your course correct and make"
+    },
+    {
+      "start": 1008,
+      "text": "sure you get to the destination on time"
+    },
+    {
+      "start": 1010,
+      "text": "um and then the second one is about"
+    },
+    {
+      "start": 1013,
+      "text": "being able to lead change and Lead"
+    },
+    {
+      "start": 1015,
+      "text": "change has the element that Nick spanel"
+    },
+    {
+      "start": 1018,
+      "text": "every months is going to be a"
+    },
+    {
+      "start": 1019,
+      "text": "fundamentally different company and we"
+    },
+    {
+      "start": 1021,
+      "text": "want not only individuals to you know be"
+    },
+    {
+      "start": 1024,
+      "text": "okay with change or support it but we"
+    },
+    {
+      "start": 1026,
+      "text": "want them to lead it we want them to"
+    },
+    {
+      "start": 1028,
+      "text": "know that we're going to need to explore"
+    },
+    {
+      "start": 1030,
+      "text": "and find ways to go out and create ways"
+    },
+    {
+      "start": 1032,
+      "text": "that we can create more value in the"
+    },
+    {
+      "start": 1033,
+      "text": "marketplace third is uh a customer focus"
+    },
+    {
+      "start": 1036,
+      "text": "which at the end of the day we're only"
+    },
+    {
+      "start": 1038,
+      "text": "successful if our customers are getting"
+    },
+    {
+      "start": 1040,
+      "text": "value and so any decision we make around"
+    },
+    {
+      "start": 1042,
+      "text": "what product we prioritize How We Do"
+    },
+    {
+      "start": 1044,
+      "text": "pricing and packaging right how we"
+    },
+    {
+      "start": 1046,
+      "text": "evolve our support organization is"
+    },
+    {
+      "start": 1048,
+      "text": "around this kind of long-term value that"
+    },
+    {
+      "start": 1050,
+      "text": "we're creating for our customers the"
+    },
+    {
+      "start": 1051,
+      "text": "fourth one is results oriented which"
+    },
+    {
+      "start": 1054,
+      "text": "acknowledges that you know the single"
+    },
+    {
+      "start": 1056,
+      "text": "best way for us to keep ourselves"
+    },
+    {
+      "start": 1057,
+      "text": "accountable on whether we're moving"
+    },
+    {
+      "start": 1059,
+      "text": "toward fulfilling our mission as a"
+    },
+    {
+      "start": 1061,
+      "text": "company to help the world learn from its"
+    },
+    {
+      "start": 1062,
+      "text": "data is uh people's willingness to pay"
+    },
+    {
+      "start": 1065,
+      "text": "us money to to solve that problem and so"
+    },
+    {
+      "start": 1067,
+      "text": "Topline a growth are we uh driving that"
+    },
+    {
+      "start": 1070,
+      "text": "in a sustainable fashion through the"
+    },
+    {
+      "start": 1073,
+      "text": "right margin profile and then finally is"
+    },
+    {
+      "start": 1075,
+      "text": "the one team which really emphasizes the"
+    },
+    {
+      "start": 1078,
+      "text": "import importance of establishing"
+    },
+    {
+      "start": 1080,
+      "text": "meaningful connections among employees"
+    },
+    {
+      "start": 1082,
+      "text": "to move beyond the transactional zoom"
+    },
+    {
+      "start": 1084,
+      "text": "interactions into a place where they"
+    },
+    {
+      "start": 1085,
+      "text": "know each other they can trust one"
+    },
+    {
+      "start": 1087,
+      "text": "another so when they do get into a"
+    },
+    {
+      "start": 1089,
+      "text": "position of conflict there's a"
+    },
+    {
+      "start": 1090,
+      "text": "foundational trust and safety that"
+    },
+    {
+      "start": 1092,
+      "text": "allows them to work through those things"
+    },
+    {
+      "start": 1094,
+      "text": "productively"
+    },
+    {
+      "start": 1096,
+      "text": "[Music]"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 476,
+  "timestamp": "2025-07-24T08:25:15.736Z"
+}

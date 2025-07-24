@@ -1,0 +1,1780 @@
+1
+00:00:00,000 --> 00:00:05,200
+Right. That doesn't sound like an AI
+
+2
+00:00:01,439 --> 00:00:07,440
+recommendation, but because they told us
+
+3
+00:00:05,200 --> 00:00:09,360
+they all the pitches talked something
+
+4
+00:00:07,440 --> 00:00:11,200
+about AI. To be honest, like many of
+
+5
+00:00:09,360 --> 00:00:12,639
+these these are more of like a buzz
+
+6
+00:00:11,200 --> 00:00:15,519
+word. They are using it more like a buzz
+
+7
+00:00:12,639 --> 00:00:18,000
+word. Hi, I'm John Willie. Uh I'm a
+
+8
+00:00:15,519 --> 00:00:19,920
+three-time founder. I graduated from MIT
+
+9
+00:00:18,000 --> 00:00:22,000
+and from Stanford. I I won the best
+
+10
+00:00:19,920 --> 00:00:24,160
+thesis award at Stanford. Had multiple
+
+11
+00:00:22,000 --> 00:00:26,720
+exits so far. also started Inception
+
+12
+00:00:24,160 --> 00:00:29,599
+Studio which is now the top accelerator
+
+13
+00:00:26,720 --> 00:00:31,439
+program for early stage AI founders here
+
+14
+00:00:29,599 --> 00:00:33,200
+in Silicon Valley. You know I've I've
+
+15
+00:00:31,439 --> 00:00:35,200
+been an engineer since I was 5 years old
+
+16
+00:00:33,200 --> 00:00:37,280
+when I start started programming. I won
+
+17
+00:00:35,200 --> 00:00:39,280
+the USA computer olympiad as one of the
+
+18
+00:00:37,280 --> 00:00:41,040
+top 15 programmers in the US. As an
+
+19
+00:00:39,280 --> 00:00:42,320
+investor I'm looking for venture scale
+
+20
+00:00:41,040 --> 00:00:43,840
+opportunities where I can put in a
+
+21
+00:00:42,320 --> 00:00:46,000
+million dollars and then I have an
+
+22
+00:00:43,840 --> 00:00:48,079
+opportunity for at least 100x return you
+
+23
+00:00:46,000 --> 00:00:51,280
+know coming back to me within you know 5
+
+24
+00:00:48,079 --> 00:00:53,120
+to 7 to 10 years. Pitch.te Tech is where
+
+25
+00:00:51,280 --> 00:00:55,840
+bold startups on tech domains get
+
+26
+00:00:53,120 --> 00:00:57,440
+game-changing insights from top VCs.te
+
+27
+00:00:55,840 --> 00:00:59,840
+domain instantly signals you're all
+
+28
+00:00:57,440 --> 00:01:02,160
+about cutting edge tech and innovation.
+
+29
+00:00:59,840 --> 00:01:05,160
+Building a tech startup build it on
+
+30
+00:01:02,160 --> 00:01:05,160
+tech.
+
+31
+00:01:05,280 --> 00:01:10,880
+So we are raising around our preed round
+
+32
+00:01:07,840 --> 00:01:13,200
+of 1.5 million. The goal of today is to
+
+33
+00:01:10,880 --> 00:01:16,080
+meet investors and potentially close our
+
+34
+00:01:13,200 --> 00:01:18,159
+round. Let's go. My name is Laurana. Uh
+
+35
+00:01:16,080 --> 00:01:20,560
+I'm a co-founder and the CEO of Rexalto.
+
+36
+00:01:18,159 --> 00:01:22,799
+We have developed and introduced an AI
+
+37
+00:01:20,560 --> 00:01:24,880
+dynamic pricing engine. We previously
+
+38
+00:01:22,799 --> 00:01:26,799
+co-ounded one of the largest European
+
+39
+00:01:24,880 --> 00:01:30,000
+car sharing companies. Company generated
+
+40
+00:01:26,799 --> 00:01:31,520
+75 million uh annual revenue and what's
+
+41
+00:01:30,000 --> 00:01:33,759
+more important it was cash flow
+
+42
+00:01:31,520 --> 00:01:35,680
+positive. What's happening now in the
+
+43
+00:01:33,759 --> 00:01:38,400
+car rental industry? Increasing prices
+
+44
+00:01:35,680 --> 00:01:39,920
+of uh vehicles, uncertain residual
+
+45
+00:01:38,400 --> 00:01:42,479
+values, and growing percentage of
+
+46
+00:01:39,920 --> 00:01:44,720
+electric vehicles are forcing car rental
+
+47
+00:01:42,479 --> 00:01:46,880
+and mobility companies to put more focus
+
+48
+00:01:44,720 --> 00:01:48,880
+on not just reselling cars as they used
+
+49
+00:01:46,880 --> 00:01:50,159
+to do before, but actually making sure
+
+50
+00:01:48,880 --> 00:01:52,079
+that they do money on their
+
+51
+00:01:50,159 --> 00:01:54,000
+cooperations. On top of that, for
+
+52
+00:01:52,079 --> 00:01:57,119
+mobility companies especially, they
+
+53
+00:01:54,000 --> 00:02:00,479
+strive to increase their utilization to
+
+54
+00:01:57,119 --> 00:02:02,240
+improve uh fleet distribution and all of
+
+55
+00:02:00,479 --> 00:02:04,240
+that can be done with the correct
+
+56
+00:02:02,240 --> 00:02:06,399
+pricing. Taking all of that into
+
+57
+00:02:04,240 --> 00:02:08,560
+account, we have engineered an AI
+
+58
+00:02:06,399 --> 00:02:10,720
+dynamic pricing engine that basically
+
+59
+00:02:08,560 --> 00:02:12,560
+sets the right price at any given time.
+
+60
+00:02:10,720 --> 00:02:14,959
+First class of economics, bringing
+
+61
+00:02:12,560 --> 00:02:17,599
+supply and demand into equilibrium. So
+
+62
+00:02:14,959 --> 00:02:19,599
+the way it works is we look into the
+
+63
+00:02:17,599 --> 00:02:22,400
+company's historical data, market
+
+64
+00:02:19,599 --> 00:02:24,879
+historical data, competitors prices, and
+
+65
+00:02:22,400 --> 00:02:26,720
+many other factors that help us forecast
+
+66
+00:02:24,879 --> 00:02:28,959
+demand. Things like weather forecast,
+
+67
+00:02:26,720 --> 00:02:30,959
+flight information, booking information.
+
+68
+00:02:28,959 --> 00:02:33,680
+We not only set the price for the for
+
+69
+00:02:30,959 --> 00:02:35,200
+our customers but we also push it back
+
+70
+00:02:33,680 --> 00:02:37,680
+either into their fleet management
+
+71
+00:02:35,200 --> 00:02:39,599
+system or to the OTAAS the aggregators
+
+72
+00:02:37,680 --> 00:02:42,480
+where they get rents from. We currently
+
+73
+00:02:39,599 --> 00:02:44,080
+focus on the North American, Europe and
+
+74
+00:02:42,480 --> 00:02:46,160
+the Middle East. The segments that we
+
+75
+00:02:44,080 --> 00:02:48,640
+look at and work with are either small
+
+76
+00:02:46,160 --> 00:02:51,680
+companies or large enterprise companies.
+
+77
+00:02:48,640 --> 00:02:53,680
+What differentiates us is that we uh
+
+78
+00:02:51,680 --> 00:02:56,080
+work not only with car rental industry
+
+79
+00:02:53,680 --> 00:02:57,519
+but with mobility industry and of the
+
+80
+00:02:56,080 --> 00:03:00,560
+technology because for mobility
+
+81
+00:02:57,519 --> 00:03:03,040
+companies we use up to 500 data points
+
+82
+00:03:00,560 --> 00:03:05,680
+for car rental companies it's about 20
+
+83
+00:03:03,040 --> 00:03:07,680
+30 maybe 40. We offer three pricing as a
+
+84
+00:03:05,680 --> 00:03:10,640
+service for our traction. We currently
+
+85
+00:03:07,680 --> 00:03:12,319
+have uh 20 customers paying customers
+
+86
+00:03:10,640 --> 00:03:15,519
+plus piloting customers. We have
+
+87
+00:03:12,319 --> 00:03:19,120
+integrated six uh reseller solution. We
+
+88
+00:03:15,519 --> 00:03:21,680
+uh generated about 200,000 uh annual
+
+89
+00:03:19,120 --> 00:03:25,120
+revenue. Uh this year we are raising a
+
+90
+00:03:21,680 --> 00:03:28,720
+round of 1.5 million. We closed 950.
+
+91
+00:03:25,120 --> 00:03:31,120
+We're now closing the remaining 550.
+
+92
+00:03:28,720 --> 00:03:32,879
+Thank you very much. You mentioned kind
+
+93
+00:03:31,120 --> 00:03:34,640
+of in the presentation. Okay. Like you
+
+94
+00:03:32,879 --> 00:03:37,040
+have uh some of your customers are using
+
+95
+00:03:34,640 --> 00:03:38,720
+this for kind of rental car rental car
+
+96
+00:03:37,040 --> 00:03:40,000
+rates. Are there other kind of things in
+
+97
+00:03:38,720 --> 00:03:42,799
+the automotive space that you're using
+
+98
+00:03:40,000 --> 00:03:45,120
+for that dynamic pricing today or is it
+
+99
+00:03:42,799 --> 00:03:47,440
+a lot of companies in mobility are using
+
+100
+00:03:45,120 --> 00:03:49,360
+that. Look at Uber, Lift, other mobility
+
+101
+00:03:47,440 --> 00:03:51,840
+companies. It depends because you have a
+
+102
+00:03:49,360 --> 00:03:53,840
+lot of smaller players players for
+
+103
+00:03:51,840 --> 00:03:55,280
+micromobility for instance and they use
+
+104
+00:03:53,840 --> 00:03:57,040
+third party solution. They don't have
+
+105
+00:03:55,280 --> 00:03:59,040
+their proprietary software and this is
+
+106
+00:03:57,040 --> 00:04:00,959
+for us they are resellers because we
+
+107
+00:03:59,040 --> 00:04:03,040
+integrate into their platform and they
+
+108
+00:04:00,959 --> 00:04:04,959
+sell us to their uh to their customers.
+
+109
+00:04:03,040 --> 00:04:06,560
+you know, for any tech enabled platform.
+
+110
+00:04:04,959 --> 00:04:08,080
+I mean, I imagine like they're already
+
+111
+00:04:06,560 --> 00:04:10,239
+doing something like this or they're
+
+112
+00:04:08,080 --> 00:04:11,760
+doing some version of this where they
+
+113
+00:04:10,239 --> 00:04:13,120
+have they're going to have some pricing
+
+114
+00:04:11,760 --> 00:04:14,799
+engine. They're going to be able to like
+
+115
+00:04:13,120 --> 00:04:15,920
+determine prices like this is kind of a
+
+116
+00:04:14,799 --> 00:04:17,919
+common thing. I mean, you mentioned Uber
+
+117
+00:04:15,920 --> 00:04:20,000
+and Lift, they obviously do all of that,
+
+118
+00:04:17,919 --> 00:04:22,160
+but then now I mean everything from
+
+119
+00:04:20,000 --> 00:04:24,560
+concert tickets to, you know, things
+
+120
+00:04:22,160 --> 00:04:26,560
+anything e-commerce kind of often doing
+
+121
+00:04:24,560 --> 00:04:28,400
+this type of this type of dynamic
+
+122
+00:04:26,560 --> 00:04:30,000
+pricing, this might be like core to
+
+123
+00:04:28,400 --> 00:04:31,840
+their business, very important. So, like
+
+124
+00:04:30,000 --> 00:04:33,120
+they may want to like develop that
+
+125
+00:04:31,840 --> 00:04:35,520
+themselves. they have all the data about
+
+126
+00:04:33,120 --> 00:04:37,680
+it like what type of customer would use
+
+127
+00:04:35,520 --> 00:04:39,280
+like a service like yours uh versus like
+
+128
+00:04:37,680 --> 00:04:42,560
+hey we're going to de we either develop
+
+129
+00:04:39,280 --> 00:04:44,639
+this in our own inhouse or like use some
+
+130
+00:04:42,560 --> 00:04:46,240
+other very good good question first I'll
+
+131
+00:04:44,639 --> 00:04:48,800
+answer who are the companies that
+
+132
+00:04:46,240 --> 00:04:51,040
+develop their own like I talked to head
+
+133
+00:04:48,800 --> 00:04:54,080
+of revenue management of get get around
+
+134
+00:04:51,040 --> 00:04:56,720
+they spent a lot of money and many years
+
+135
+00:04:54,080 --> 00:04:59,040
+developing the dynamic pricing and it
+
+136
+00:04:56,720 --> 00:05:00,960
+didn't work it's not that simple right
+
+137
+00:04:59,040 --> 00:05:04,560
+because you need to know how to do it
+
+138
+00:05:00,960 --> 00:05:05,919
+not to reduce your re revenue even by 1%
+
+139
+00:05:04,560 --> 00:05:08,160
+right because if you do that you're
+
+140
+00:05:05,919 --> 00:05:10,320
+fired. So they said we cannot just use
+
+141
+00:05:08,160 --> 00:05:12,240
+your service software because we need to
+
+142
+00:05:10,320 --> 00:05:14,639
+make sure our work so we'll keep on
+
+143
+00:05:12,240 --> 00:05:16,240
+advancing our technology and use it at
+
+144
+00:05:14,639 --> 00:05:18,240
+the end of the day. Who answering your
+
+145
+00:05:16,240 --> 00:05:20,880
+question who are our customers? We have
+
+146
+00:05:18,240 --> 00:05:23,320
+either very small companies that have 50
+
+147
+00:05:20,880 --> 00:05:25,280
+hundred of cars. They don't have their
+
+148
+00:05:23,320 --> 00:05:26,720
+proprietary basically their fleet
+
+149
+00:05:25,280 --> 00:05:28,160
+managers right they're operating their
+
+150
+00:05:26,720 --> 00:05:30,400
+fleet and they want to do it in the most
+
+151
+00:05:28,160 --> 00:05:32,720
+effective way. they have a third-party
+
+152
+00:05:30,400 --> 00:05:35,520
+software solution and they compete with
+
+153
+00:05:32,720 --> 00:05:38,000
+a budget enterprise etc. So they need to
+
+154
+00:05:35,520 --> 00:05:39,680
+make sure that they somehow stand out.
+
+155
+00:05:38,000 --> 00:05:41,440
+So these are our customers and they use
+
+156
+00:05:39,680 --> 00:05:43,600
+our standard dashboard self-service
+
+157
+00:05:41,440 --> 00:05:46,160
+dashboard. Then we work with large
+
+158
+00:05:43,600 --> 00:05:48,320
+companies and these companies are not as
+
+159
+00:05:46,160 --> 00:05:50,160
+big as enterprise herds but they have
+
+160
+00:05:48,320 --> 00:05:52,639
+hundreds of thousands of cars still
+
+161
+00:05:50,160 --> 00:05:54,479
+huge. They basically manage their
+
+162
+00:05:52,639 --> 00:05:56,320
+franchises. So they need to make sure
+
+163
+00:05:54,479 --> 00:05:58,639
+that their pricing is consistent
+
+164
+00:05:56,320 --> 00:06:00,800
+throughout their uh network that they
+
+165
+00:05:58,639 --> 00:06:03,280
+offer the same quality of service and
+
+166
+00:06:00,800 --> 00:06:04,960
+that they actually their franchises do
+
+167
+00:06:03,280 --> 00:06:07,520
+well because they get a percentage of
+
+168
+00:06:04,960 --> 00:06:10,080
+the what franchises earn. So that's our
+
+169
+00:06:07,520 --> 00:06:12,479
+second type of customers big groups and
+
+170
+00:06:10,080 --> 00:06:14,960
+enterprise companies that manage
+
+171
+00:06:12,479 --> 00:06:17,120
+franchises. What what makes your dynamic
+
+172
+00:06:14,960 --> 00:06:19,280
+pricing engine better than the
+
+173
+00:06:17,120 --> 00:06:22,160
+competition? First, as I said, like it's
+
+174
+00:06:19,280 --> 00:06:24,800
+it's the number of uh data points that
+
+175
+00:06:22,160 --> 00:06:26,560
+our engine can absorb and make this
+
+176
+00:06:24,800 --> 00:06:28,639
+decision and judgment. You saw that we
+
+177
+00:06:26,560 --> 00:06:29,880
+have an AI in the beginning of of this.
+
+178
+00:06:28,639 --> 00:06:33,199
+Every company
+
+179
+00:06:29,880 --> 00:06:35,280
+now flexing internet. Yeah. But I'll
+
+180
+00:06:33,199 --> 00:06:37,919
+tell you where the AI comes. Uh so it's
+
+181
+00:06:35,280 --> 00:06:39,759
+it's it's it's a bunch of ML models that
+
+182
+00:06:37,919 --> 00:06:41,680
+work together, right? So that's not
+
+183
+00:06:39,759 --> 00:06:45,360
+there's this is this is not AI but where
+
+184
+00:06:41,680 --> 00:06:47,360
+the AI comes is that we every time our
+
+185
+00:06:45,360 --> 00:06:50,240
+model works in a certain location for a
+
+186
+00:06:47,360 --> 00:06:52,400
+certain customer it learns from its past
+
+187
+00:06:50,240 --> 00:06:53,840
+uh performance and next time makes
+
+188
+00:06:52,400 --> 00:06:56,000
+better predictions make better
+
+189
+00:06:53,840 --> 00:06:57,759
+assumptions and improves the quality. I
+
+190
+00:06:56,000 --> 00:06:59,280
+mean, and and on that topic, I noticed
+
+191
+00:06:57,759 --> 00:07:01,280
+your pricing model is that you're
+
+192
+00:06:59,280 --> 00:07:02,960
+charging like per car, you know? I mean,
+
+193
+00:07:01,280 --> 00:07:05,120
+and if if you actually are really
+
+194
+00:07:02,960 --> 00:07:06,560
+confident about, hey, we're gonna have
+
+195
+00:07:05,120 --> 00:07:08,400
+this R this is the ROI that we're going
+
+196
+00:07:06,560 --> 00:07:10,240
+to get. Like, why are you not like
+
+197
+00:07:08,400 --> 00:07:12,000
+saying, hey, well, you get you're going
+
+198
+00:07:10,240 --> 00:07:15,280
+to have 90% of the up and we'll just
+
+199
+00:07:12,000 --> 00:07:17,039
+take 10% of the of the one customer with
+
+200
+00:07:15,280 --> 00:07:18,560
+who did that. And that was the I was
+
+201
+00:07:17,039 --> 00:07:20,960
+like telling my team like, let's move
+
+202
+00:07:18,560 --> 00:07:22,560
+into that like we will make sure our
+
+203
+00:07:20,960 --> 00:07:24,720
+customers do better and we'll do better.
+
+204
+00:07:22,560 --> 00:07:26,080
+It didn't work. uh we we still have one
+
+205
+00:07:24,720 --> 00:07:28,560
+customer on that contract and I'm just
+
+206
+00:07:26,080 --> 00:07:30,400
+waiting for the contract to renew to get
+
+207
+00:07:28,560 --> 00:07:31,759
+get away from the the reason why you
+
+208
+00:07:30,400 --> 00:07:33,599
+always have to you need to have a
+
+209
+00:07:31,759 --> 00:07:36,160
+baseline. So what are you comparing to?
+
+210
+00:07:33,599 --> 00:07:37,840
+So usually you would oranges to oranges
+
+211
+00:07:36,160 --> 00:07:40,880
+December to December, January to
+
+212
+00:07:37,840 --> 00:07:44,240
+January. But then when things like
+
+213
+00:07:40,880 --> 00:07:46,000
+Easter or Ramadan happens, they move
+
+214
+00:07:44,240 --> 00:07:47,360
+from one month to another. Then they
+
+215
+00:07:46,000 --> 00:07:48,960
+like yeah but the increase was not
+
+216
+00:07:47,360 --> 00:07:50,960
+because of your pricing model but
+
+217
+00:07:48,960 --> 00:07:52,160
+because it was uh Easter was in this
+
+218
+00:07:50,960 --> 00:07:54,720
+month and last year it was in a
+
+219
+00:07:52,160 --> 00:07:56,560
+different month. So much time is spent
+
+220
+00:07:54,720 --> 00:07:57,840
+on actually this argument because they
+
+221
+00:07:56,560 --> 00:07:59,599
+don't want to pay you more, they want to
+
+222
+00:07:57,840 --> 00:08:01,840
+pay you less. And we said like at this
+
+223
+00:07:59,599 --> 00:08:04,960
+point we cannot do this. It's it's it's
+
+224
+00:08:01,840 --> 00:08:07,199
+crazy. So we said we want to be uh clear
+
+225
+00:08:04,960 --> 00:08:09,759
+and straightforward. We'll do uh
+
+226
+00:08:07,199 --> 00:08:11,680
+standard pricing per car per month and
+
+227
+00:08:09,759 --> 00:08:14,080
+that's that's good enough. Yeah. I mean
+
+228
+00:08:11,680 --> 00:08:15,280
+but that that also I mean you point to
+
+229
+00:08:14,080 --> 00:08:17,360
+like kind of fundamental problem which
+
+230
+00:08:15,280 --> 00:08:18,960
+is like that is like measuring like the
+
+231
+00:08:17,360 --> 00:08:20,560
+the improvement in lift that you're
+
+232
+00:08:18,960 --> 00:08:22,160
+going to have like from this because
+
+233
+00:08:20,560 --> 00:08:24,080
+Yeah. I mean, how do you compare apple
+
+234
+00:08:22,160 --> 00:08:25,680
+to apples like when you're kind of
+
+235
+00:08:24,080 --> 00:08:27,680
+revenue over time? still compare. We
+
+236
+00:08:25,680 --> 00:08:29,680
+still they have dashboards. They see how
+
+237
+00:08:27,680 --> 00:08:32,240
+their pricing increase over a longer
+
+238
+00:08:29,680 --> 00:08:34,000
+period of time. Like okay, maybe one
+
+239
+00:08:32,240 --> 00:08:36,640
+month to another might be tricky. But
+
+240
+00:08:34,000 --> 00:08:38,080
+then if you look on a year scale, you
+
+241
+00:08:36,640 --> 00:08:40,560
+still see the increase. Do your
+
+242
+00:08:38,080 --> 00:08:43,519
+customers do AB testing. They can run
+
+243
+00:08:40,560 --> 00:08:46,080
+two side by side. We usually start with
+
+244
+00:08:43,519 --> 00:08:47,920
+AB testing especially with big uh
+
+245
+00:08:46,080 --> 00:08:49,360
+customers but we don't do it within one
+
+246
+00:08:47,920 --> 00:08:51,200
+city because you can't you cannot do it
+
+247
+00:08:49,360 --> 00:08:52,720
+in with one location. The customer will
+
+248
+00:08:51,200 --> 00:08:54,560
+choose what is cheaper. So you have to
+
+249
+00:08:52,720 --> 00:08:56,480
+do it different locations. So we would
+
+250
+00:08:54,560 --> 00:08:59,440
+choose few selected location usually the
+
+251
+00:08:56,480 --> 00:09:01,040
+way our pilot works two three locations
+
+252
+00:08:59,440 --> 00:09:02,959
+one would be maybe the top location
+
+253
+00:09:01,040 --> 00:09:05,200
+another one would be midsize location
+
+254
+00:09:02,959 --> 00:09:07,120
+and third would be like the small
+
+255
+00:09:05,200 --> 00:09:09,519
+location and then we will see the
+
+256
+00:09:07,120 --> 00:09:11,680
+results in those those and what has been
+
+257
+00:09:09,519 --> 00:09:14,080
+the result worst result that we had was
+
+258
+00:09:11,680 --> 00:09:16,800
+plus 5% of revenue increase. Our best
+
+259
+00:09:14,080 --> 00:09:19,440
+was it was six times but that was a very
+
+260
+00:09:16,800 --> 00:09:22,000
+particular case a luxury uh car rental
+
+261
+00:09:19,440 --> 00:09:24,720
+company that was staying within within
+
+262
+00:09:22,000 --> 00:09:27,519
+its boundaries. We analyze also the
+
+263
+00:09:24,720 --> 00:09:29,279
+supply and we said it's Dubai end of
+
+264
+00:09:27,519 --> 00:09:31,200
+December there are two Lamborghinis
+
+265
+00:09:29,279 --> 00:09:33,440
+available and there is a demand for 100
+
+266
+00:09:31,200 --> 00:09:34,720
+you can put whatever price you want you
+
+267
+00:09:33,440 --> 00:09:36,560
+will still sell it right that doesn't
+
+268
+00:09:34,720 --> 00:09:38,320
+sound like an AI recommendation no that
+
+269
+00:09:36,560 --> 00:09:39,760
+I mean like that because they was cap
+
+270
+00:09:38,320 --> 00:09:41,760
+they called us because they called me
+
+271
+00:09:39,760 --> 00:09:44,160
+they were like a brilliant your system
+
+272
+00:09:41,760 --> 00:09:45,600
+is crazy that tells me to put I don't
+
+273
+00:09:44,160 --> 00:09:47,519
+remember the price something is wrong
+
+274
+00:09:45,600 --> 00:09:49,279
+with that I was like hold on let me uh
+
+275
+00:09:47,519 --> 00:09:50,880
+look into this so I looked into this and
+
+276
+00:09:49,279 --> 00:09:53,200
+then we said like that's what you should
+
+277
+00:09:50,880 --> 00:09:54,959
+put customers don't like dynamic pricing
+
+278
+00:09:53,200 --> 00:09:57,360
+because it's like wait a second. Oh, you
+
+279
+00:09:54,959 --> 00:09:59,920
+got you got a different price than I got
+
+280
+00:09:57,360 --> 00:10:02,560
+when I like when I went you know went to
+
+281
+00:09:59,920 --> 00:10:04,640
+for this or like it's you know there's a
+
+282
+00:10:02,560 --> 00:10:06,720
+lot of backlash around pricing and like
+
+283
+00:10:04,640 --> 00:10:08,560
+these these sorts of things which
+
+284
+00:10:06,720 --> 00:10:10,560
+ultimately ends up kind of a brand risk
+
+285
+00:10:08,560 --> 00:10:12,560
+there which is like why sometimes like
+
+286
+00:10:10,560 --> 00:10:14,240
+even though they can you know they could
+
+287
+00:10:12,560 --> 00:10:15,279
+potentially uh you know try to do this
+
+288
+00:10:14,240 --> 00:10:17,120
+like kind of they're they're careful
+
+289
+00:10:15,279 --> 00:10:18,399
+about time to do this. So what what are
+
+290
+00:10:17,120 --> 00:10:21,440
+your thoughts on that side? First of
+
+291
+00:10:18,399 --> 00:10:24,000
+all, uh revenue is not the only KPI why
+
+292
+00:10:21,440 --> 00:10:26,800
+our customers use us. In many cases is
+
+293
+00:10:24,000 --> 00:10:28,959
+they want to avoid human mistake. Many
+
+294
+00:10:26,800 --> 00:10:30,640
+most of them they do uh they look at
+
+295
+00:10:28,959 --> 00:10:32,160
+competitors prices and they do their
+
+296
+00:10:30,640 --> 00:10:35,360
+manual and I mean the level of
+
+297
+00:10:32,160 --> 00:10:37,440
+complexity you have different codes zip
+
+298
+00:10:35,360 --> 00:10:39,600
+codes like cars are divided into codes.
+
+299
+00:10:37,440 --> 00:10:42,079
+You have different lengths of rental one
+
+300
+00:10:39,600 --> 00:10:43,839
+day, two days, three days etc etc. You
+
+301
+00:10:42,079 --> 00:10:47,120
+have different locations. So actually
+
+302
+00:10:43,839 --> 00:10:49,360
+the number of price points you have to
+
+303
+00:10:47,120 --> 00:10:51,920
+change every day sometimes even every
+
+304
+00:10:49,360 --> 00:10:54,000
+hour it's tremendous. So if you do it
+
+305
+00:10:51,920 --> 00:10:55,600
+all manually you do mistakes and this
+
+306
+00:10:54,000 --> 00:10:57,360
+this is what our top managers of the
+
+307
+00:10:55,600 --> 00:10:58,120
+companies tell us. We know that this is
+
+308
+00:10:57,360 --> 00:11:01,120
+not
+
+309
+00:10:58,120 --> 00:11:03,519
+ideal or we often have to actually cut
+
+310
+00:11:01,120 --> 00:11:05,279
+cut cut the road. So like okay we'll
+
+311
+00:11:03,519 --> 00:11:06,959
+like not put too much effort here
+
+312
+00:11:05,279 --> 00:11:08,959
+because just too much. So we'll make an
+
+313
+00:11:06,959 --> 00:11:11,519
+assumption. So without basing their
+
+314
+00:11:08,959 --> 00:11:14,000
+assumptions on data. So automatization
+
+315
+00:11:11,519 --> 00:11:17,040
+of the process and pushing it back into
+
+316
+00:11:14,000 --> 00:11:19,680
+the system is number one KPI for many of
+
+317
+00:11:17,040 --> 00:11:21,360
+our large companies. Secondly, we don't
+
+318
+00:11:19,680 --> 00:11:23,360
+change the price depending on the
+
+319
+00:11:21,360 --> 00:11:24,959
+customer. So this is up to the company
+
+320
+00:11:23,360 --> 00:11:26,880
+whether they want to charge C different
+
+321
+00:11:24,959 --> 00:11:28,880
+customers have their loyalty programs
+
+322
+00:11:26,880 --> 00:11:30,800
+for mobility companies. We do we don't
+
+323
+00:11:28,880 --> 00:11:32,959
+look at a particular customer because we
+
+324
+00:11:30,800 --> 00:11:34,560
+don't have the data but we cluster them.
+
+325
+00:11:32,959 --> 00:11:36,160
+So we understand that this customer
+
+326
+00:11:34,560 --> 00:11:37,760
+falls into this cluster at this and so
+
+327
+00:11:36,160 --> 00:11:39,920
+there's a different coefficient but
+
+328
+00:11:37,760 --> 00:11:42,320
+that's what all mobility companies are
+
+329
+00:11:39,920 --> 00:11:44,720
+famous for because they uh they give the
+
+330
+00:11:42,320 --> 00:11:46,000
+car to to different audiences. This is
+
+331
+00:11:44,720 --> 00:11:47,680
+very interesting because I mean I went
+
+332
+00:11:46,000 --> 00:11:49,360
+to your website actually to very nice
+
+333
+00:11:47,680 --> 00:11:50,959
+looking website uh to be honest looking
+
+334
+00:11:49,360 --> 00:11:53,839
+at your website I had no clue what you
+
+335
+00:11:50,959 --> 00:11:55,760
+guys did. Uh, so like this is uh like uh
+
+336
+00:11:53,839 --> 00:11:57,760
+hearing the pitch is like actually like
+
+337
+00:11:55,760 --> 00:11:59,920
+now I have a much better idea of like uh
+
+338
+00:11:57,760 --> 00:12:01,360
+what what you're doing because like I
+
+339
+00:11:59,920 --> 00:12:03,040
+think it just at least in terms of like
+
+340
+00:12:01,360 --> 00:12:05,200
+the copy that was on the website they
+
+341
+00:12:03,040 --> 00:12:06,720
+didn't it didn't come across like on on
+
+342
+00:12:05,200 --> 00:12:09,839
+there. You you cover the team extremely
+
+343
+00:12:06,720 --> 00:12:11,600
+early. Um which to be honest like before
+
+344
+00:12:09,839 --> 00:12:13,600
+I know what problem you're solving it's
+
+345
+00:12:11,600 --> 00:12:15,360
+hard to be able to judge wait is this
+
+346
+00:12:13,600 --> 00:12:17,120
+the right team that sort of thing right?
+
+347
+00:12:15,360 --> 00:12:19,279
+Um, so like you know sometimes better
+
+348
+00:12:17,120 --> 00:12:20,720
+like say that later like after oh and by
+
+349
+00:12:19,279 --> 00:12:22,399
+the way this is why the this is here's
+
+350
+00:12:20,720 --> 00:12:24,240
+the evidence is why we're the right team
+
+351
+00:12:22,399 --> 00:12:27,200
+to do this right and so like what is
+
+352
+00:12:24,240 --> 00:12:28,639
+your connection to this problem this
+
+353
+00:12:27,200 --> 00:12:30,800
+space and like how about the rest of the
+
+354
+00:12:28,639 --> 00:12:33,040
+team like how like why are you uniquely
+
+355
+00:12:30,800 --> 00:12:34,480
+suited to be like you're the ones in the
+
+356
+00:12:33,040 --> 00:12:35,920
+world to solve this problem. So that
+
+357
+00:12:34,480 --> 00:12:37,519
+yeah the actually the reason why I
+
+358
+00:12:35,920 --> 00:12:39,839
+showed it in the beginning is that in
+
+359
+00:12:37,519 --> 00:12:41,920
+our past company when we exited and
+
+360
+00:12:39,839 --> 00:12:43,680
+decided to do something else together we
+
+361
+00:12:41,920 --> 00:12:45,040
+started thinking okay let's share our
+
+362
+00:12:43,680 --> 00:12:46,560
+knowledge with other companies we
+
+363
+00:12:45,040 --> 00:12:48,160
+definitely decided not to build another
+
+364
+00:12:46,560 --> 00:12:50,160
+car a car car sharing company anywhere
+
+365
+00:12:48,160 --> 00:12:51,920
+in the world it's very operationally
+
+366
+00:12:50,160 --> 00:12:53,839
+intense business and then we thought
+
+367
+00:12:51,920 --> 00:12:55,680
+maybe we do consultancy maybe we do that
+
+368
+00:12:53,839 --> 00:12:58,480
+that that we said listen let's do what
+
+369
+00:12:55,680 --> 00:13:01,440
+we did best and we really were best on
+
+370
+00:12:58,480 --> 00:13:04,040
+the market in terms of pricing correctly
+
+371
+00:13:01,440 --> 00:13:07,600
+distributing the fleet pricing
+
+372
+00:13:04,040 --> 00:13:09,360
+uh being considered to be the low coster
+
+373
+00:13:07,600 --> 00:13:11,519
+and yet making more revenue than our
+
+374
+00:13:09,360 --> 00:13:13,440
+customers competitors. So that's what we
+
+375
+00:13:11,519 --> 00:13:15,600
+did and we said let's try to replicate
+
+376
+00:13:13,440 --> 00:13:18,000
+it uh for other companies. So we started
+
+377
+00:13:15,600 --> 00:13:19,760
+initially with car car sharing and
+
+378
+00:13:18,000 --> 00:13:22,320
+mobility companies but then we said
+
+379
+00:13:19,760 --> 00:13:24,800
+listen there's a much bigger market here
+
+380
+00:13:22,320 --> 00:13:26,399
+car rental which has it's a dinosaur
+
+381
+00:13:24,800 --> 00:13:28,880
+industry. So we started looking into
+
+382
+00:13:26,399 --> 00:13:31,040
+that talking to potential customers and
+
+383
+00:13:28,880 --> 00:13:33,839
+that's how it all started. Thank you.
+
+384
+00:13:31,040 --> 00:13:35,760
+Thank you very much. I grew up in a very
+
+385
+00:13:33,839 --> 00:13:38,480
+international environment. I'm half
+
+386
+00:13:35,760 --> 00:13:40,639
+Russian, half Indian. So I was always
+
+387
+00:13:38,480 --> 00:13:43,519
+exposed to different cultures. I
+
+388
+00:13:40,639 --> 00:13:46,160
+graduated from two US universities, both
+
+389
+00:13:43,519 --> 00:13:48,639
+in Russia. Then I traveled abroad. So I
+
+390
+00:13:46,160 --> 00:13:49,920
+started my previous uh together with my
+
+391
+00:13:48,639 --> 00:13:53,519
+co-founders. We started the previous
+
+392
+00:13:49,920 --> 00:13:56,320
+company back in 2014 and we were running
+
+393
+00:13:53,519 --> 00:13:59,680
+the business for 8 years. I left the
+
+394
+00:13:56,320 --> 00:14:01,839
+country in 2022 for for the war reasons
+
+395
+00:13:59,680 --> 00:14:04,160
+and it was one of the most difficult
+
+396
+00:14:01,839 --> 00:14:06,959
+moments of my life was very stressful
+
+397
+00:14:04,160 --> 00:14:08,639
+was very uncertain and we came here to
+
+398
+00:14:06,959 --> 00:14:11,440
+US together with my family with my
+
+399
+00:14:08,639 --> 00:14:13,440
+husband after maybe half a year I said I
+
+400
+00:14:11,440 --> 00:14:16,560
+want to build something new together
+
+401
+00:14:13,440 --> 00:14:18,399
+something new here we wanted to use our
+
+402
+00:14:16,560 --> 00:14:20,240
+knowledge that we gained in our previous
+
+403
+00:14:18,399 --> 00:14:22,079
+company and the experience that we had
+
+404
+00:14:20,240 --> 00:14:24,959
+and the understanding of the market and
+
+405
+00:14:22,079 --> 00:14:26,959
+share it with other companies not only
+
+406
+00:14:24,959 --> 00:14:29,440
+cautious sharing companies but mobility
+
+407
+00:14:26,959 --> 00:14:32,399
+companies and also car rental companies.
+
+408
+00:14:29,440 --> 00:14:35,920
+The thing I like about Rick Alto is is
+
+409
+00:14:32,399 --> 00:14:37,839
+that uh she is a successful founder that
+
+410
+00:14:35,920 --> 00:14:40,720
+she built a very successful business
+
+411
+00:14:37,839 --> 00:14:43,199
+before and based on that experience has
+
+412
+00:14:40,720 --> 00:14:45,839
+come up to solve this problem in a
+
+413
+00:14:43,199 --> 00:14:49,440
+compelling manner. What would been great
+
+414
+00:14:45,839 --> 00:14:52,079
+for me that I would like is uh uh fairly
+
+415
+00:14:49,440 --> 00:14:54,720
+early on that once she explains that
+
+416
+00:14:52,079 --> 00:14:56,959
+this is her product is to have a slide
+
+417
+00:14:54,720 --> 00:14:58,639
+that first says I have six customers
+
+418
+00:14:56,959 --> 00:15:01,279
+right now because in the beginning I'm
+
+419
+00:14:58,639 --> 00:15:03,360
+wondering is this an idea? Does she have
+
+420
+00:15:01,279 --> 00:15:05,360
+customers? Does it work? All these
+
+421
+00:15:03,360 --> 00:15:07,519
+things. But if I know she's got like six
+
+422
+00:15:05,360 --> 00:15:10,560
+customers that like it then I know this
+
+423
+00:15:07,519 --> 00:15:13,920
+is great. And then the next is uh in the
+
+424
+00:15:10,560 --> 00:15:16,399
+same slide is to show in one year I'll
+
+425
+00:15:13,920 --> 00:15:18,560
+have 20 customers and these are the
+
+426
+00:15:16,399 --> 00:15:21,040
+customers that I'm working on. And then
+
+427
+00:15:18,560 --> 00:15:23,839
+maybe 5 years from now this is what I
+
+428
+00:15:21,040 --> 00:15:25,920
+want 1,000 customers. All the pitches
+
+429
+00:15:23,839 --> 00:15:27,760
+talked something about AI. To be honest
+
+430
+00:15:25,920 --> 00:15:29,360
+like many of these are these are more of
+
+431
+00:15:27,760 --> 00:15:31,040
+like a buzz word. They using it more
+
+432
+00:15:29,360 --> 00:15:34,160
+like a buzz word. I know we need to talk
+
+433
+00:15:31,040 --> 00:15:36,959
+about AI so let's like try to craft an
+
+434
+00:15:34,160 --> 00:15:39,360
+AI story like on onto our business.
+
+435
+00:15:36,959 --> 00:15:41,760
+didn't really talk about why is a why
+
+436
+00:15:39,360 --> 00:15:44,320
+using AI, why is this important, why we
+
+437
+00:15:41,760 --> 00:15:46,639
+have a tech domain. I think the domain
+
+438
+00:15:44,320 --> 00:15:48,880
+that you choose it should reflect what
+
+439
+00:15:46,639 --> 00:15:50,880
+you're doing, right? I like the idea of
+
+440
+00:15:48,880 --> 00:15:53,759
+highlighting that it's a tech company,
+
+441
+00:15:50,880 --> 00:15:56,480
+it's a tech product. And I think it also
+
+442
+00:15:53,759 --> 00:15:59,120
+we stand out uh to our competitors
+
+443
+00:15:56,480 --> 00:16:01,390
+because it we highlight uh highlight
+
+444
+00:15:59,120 --> 00:16:07,750
+this point.
+
+445
+00:16:01,390 --> 00:16:07,750
+[Music]
+

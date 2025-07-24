@@ -1,0 +1,2142 @@
+{
+  "success": true,
+  "videoId": "5UhnQ2h-5BY",
+  "videoTitle": "＂Don’t Learn to Code＂ Is WRONG ｜ GitHub CEO Thomas Dohmke",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "I first of all I strongly believe that"
+    },
+    {
+      "start": 2,
+      "text": "every kid uh every child should learn"
+    },
+    {
+      "start": 4,
+      "text": "coding. We should actually teach them"
+    },
+    {
+      "start": 6,
+      "text": "coding in school in the same way that we"
+    },
+    {
+      "start": 7,
+      "text": "teach them physics and geography and uh"
+    },
+    {
+      "start": 10,
+      "text": "you know literacy and math and whatn"
+    },
+    {
+      "start": 11,
+      "text": "not. Those are all fundamental skills."
+    },
+    {
+      "start": 13,
+      "text": "Coding is one such skill because"
+    },
+    {
+      "start": 15,
+      "text": "software is everywhere and in fact our"
+    },
+    {
+      "start": 17,
+      "text": "day-to-day is dominated by software"
+    },
+    {
+      "start": 18,
+      "text": "already. You can't really live your life"
+    },
+    {
+      "start": 20,
+      "text": "travel um wake up in the morning without"
+    },
+    {
+      "start": 23,
+      "text": "software anymore. And I think as as"
+    },
+    {
+      "start": 24,
+      "text": "humans it is crucial to not only be in"
+    },
+    {
+      "start": 27,
+      "text": "readonly mode but also be able to create"
+    },
+    {
+      "start": 30,
+      "text": "uh things ourselves or at least"
+    },
+    {
+      "start": 31,
+      "text": "understand how how creation is done on"
+    },
+    {
+      "start": 33,
+      "text": "these devices. My name is Thomas and I'm"
+    },
+    {
+      "start": 34,
+      "text": "a developer. I've been developing uh"
+    },
+    {
+      "start": 37,
+      "text": "software since the early 1990s and today"
+    },
+    {
+      "start": 39,
+      "text": "my role is mostly being the GitHub CEO"
+    },
+    {
+      "start": 42,
+      "text": "leading uh the largest developer"
+    },
+    {
+      "start": 43,
+      "text": "platform uh on this planet."
+    },
+    {
+      "start": 48,
+      "text": "I was born in uh 1978 in East Berlin"
+    },
+    {
+      "start": 51,
+      "text": "when Germany was divided into two"
+    },
+    {
+      "start": 53,
+      "text": "countries. So I was on the on the"
+    },
+    {
+      "start": 55,
+      "text": "eastern side uh in Berlin in in a suburb"
+    },
+    {
+      "start": 57,
+      "text": "called Matsan. I grew you know had a"
+    },
+    {
+      "start": 59,
+      "text": "normal childhood um but was fascinated"
+    },
+    {
+      "start": 62,
+      "text": "by technology remote control cars uh uh"
+    },
+    {
+      "start": 64,
+      "text": "you know little computer games. Uh in"
+    },
+    {
+      "start": 66,
+      "text": "1989 the wall fell and and that opened"
+    },
+    {
+      "start": 69,
+      "text": "up you know a whole new world to me as"
+    },
+    {
+      "start": 70,
+      "text": "an 11year-old. um obviously from from a"
+    },
+    {
+      "start": 73,
+      "text": "toy perspective um getting access to to"
+    },
+    {
+      "start": 75,
+      "text": "Lego and and Mickey Mouse but also uh to"
+    },
+    {
+      "start": 78,
+      "text": "uh to computers and so in the early 90s"
+    },
+    {
+      "start": 80,
+      "text": "um I bought my first computer uh 64 and"
+    },
+    {
+      "start": 83,
+      "text": "after um university um I went to"
+    },
+    {
+      "start": 86,
+      "text": "technical university in Berlin I"
+    },
+    {
+      "start": 88,
+      "text": "actually uh went into the automotive"
+    },
+    {
+      "start": 90,
+      "text": "industry uh I started working at uh"
+    },
+    {
+      "start": 92,
+      "text": "Mercedes back then it was called Dameler"
+    },
+    {
+      "start": 94,
+      "text": "Chrysler working on driver assistance"
+    },
+    {
+      "start": 96,
+      "text": "system uh for for the S-Class and I did"
+    },
+    {
+      "start": 98,
+      "text": "that uh for a while and then switched to"
+    },
+    {
+      "start": 100,
+      "text": "the supplier side to Bosch uh uh which"
+    },
+    {
+      "start": 103,
+      "text": "is you know a large automotive supplier"
+    },
+    {
+      "start": 105,
+      "text": "amongst amongst other things and and"
+    },
+    {
+      "start": 106,
+      "text": "there uh worked you know on parking"
+    },
+    {
+      "start": 109,
+      "text": "systems and it was in 2008 uh that two"
+    },
+    {
+      "start": 112,
+      "text": "things happened. One is I finished my"
+    },
+    {
+      "start": 113,
+      "text": "PhD thesis but also Steve Jobs showed"
+    },
+    {
+      "start": 116,
+      "text": "the iPhone SDK. Everybody wanted to"
+    },
+    {
+      "start": 118,
+      "text": "build apps um and and at the time only"
+    },
+    {
+      "start": 121,
+      "text": "Apple could build native apps and I"
+    },
+    {
+      "start": 123,
+      "text": "thought this is this is cool. I got to,"
+    },
+    {
+      "start": 125,
+      "text": "you know, build apps myself and I got to"
+    },
+    {
+      "start": 126,
+      "text": "get into that space. And so I quit my"
+    },
+    {
+      "start": 128,
+      "text": "job at Bosch uh at the height of the"
+    },
+    {
+      "start": 130,
+      "text": "financial crisis amongst all things uh"
+    },
+    {
+      "start": 132,
+      "text": "in late 2008 and um reconnected with a"
+    },
+    {
+      "start": 135,
+      "text": "friend um from from university and um we"
+    },
+    {
+      "start": 138,
+      "text": "just became you know two freelance"
+    },
+    {
+      "start": 139,
+      "text": "developers building apps uh for the"
+    },
+    {
+      "start": 142,
+      "text": "German market. So mostly agency work or"
+    },
+    {
+      "start": 144,
+      "text": "or subcontractor for for larger app"
+    },
+    {
+      "start": 146,
+      "text": "projects. I think in in 2009 and 10 we"
+    },
+    {
+      "start": 149,
+      "text": "built around 30 apps. That work on"
+    },
+    {
+      "start": 151,
+      "text": "building apps um for for for mostly"
+    },
+    {
+      "start": 153,
+      "text": "German customers um German enterprise"
+    },
+    {
+      "start": 155,
+      "text": "customers media and and automotive and"
+    },
+    {
+      "start": 156,
+      "text": "so on got us the idea of of building a"
+    },
+    {
+      "start": 159,
+      "text": "platform for mobile app developers. And"
+    },
+    {
+      "start": 162,
+      "text": "so we um together with three friends"
+    },
+    {
+      "start": 164,
+      "text": "Stefan Andreas and and Michael we"
+    },
+    {
+      "start": 166,
+      "text": "founded a company called Hockey App"
+    },
+    {
+      "start": 168,
+      "text": "which was a platform for mobile app"
+    },
+    {
+      "start": 169,
+      "text": "developers. you could distribute your"
+    },
+    {
+      "start": 171,
+      "text": "beta builds and um collect uh error"
+    },
+    {
+      "start": 174,
+      "text": "reports, crash reports and feedback and"
+    },
+    {
+      "start": 176,
+      "text": "those kind of things. And so we built"
+    },
+    {
+      "start": 178,
+      "text": "that startup you know the platform for"
+    },
+    {
+      "start": 180,
+      "text": "our own you know freelance business"
+    },
+    {
+      "start": 182,
+      "text": "because we had that painoint that we"
+    },
+    {
+      "start": 184,
+      "text": "wanted to solve uh for ourselves. Um"
+    },
+    {
+      "start": 186,
+      "text": "because it was before that you would"
+    },
+    {
+      "start": 188,
+      "text": "send you know a build uh over email you"
+    },
+    {
+      "start": 190,
+      "text": "know to to a project manager um in"
+    },
+    {
+      "start": 193,
+      "text": "Berlin or so and then the project"
+    },
+    {
+      "start": 195,
+      "text": "manager would take that build and send"
+    },
+    {
+      "start": 196,
+      "text": "it to the customer and explain to them"
+    },
+    {
+      "start": 198,
+      "text": "or you have to you know drag and drop"
+    },
+    {
+      "start": 200,
+      "text": "that into iTunes and connect you know uh"
+    },
+    {
+      "start": 202,
+      "text": "uh the dock cable and and all these kind"
+    },
+    {
+      "start": 204,
+      "text": "of things. since we made that way easier"
+    },
+    {
+      "start": 206,
+      "text": "which made our own life easier and I"
+    },
+    {
+      "start": 208,
+      "text": "think those are some of the greatest"
+    },
+    {
+      "start": 210,
+      "text": "startup ideas when you're using it"
+    },
+    {
+      "start": 211,
+      "text": "yourself uh uh day in day out and then"
+    },
+    {
+      "start": 214,
+      "text": "improving it um based on the feedback"
+    },
+    {
+      "start": 216,
+      "text": "that you're getting from your own"
+    },
+    {
+      "start": 217,
+      "text": "customers. So we basically started"
+    },
+    {
+      "start": 218,
+      "text": "building out the the hockey app business"
+    },
+    {
+      "start": 220,
+      "text": "while we had the the contracting"
+    },
+    {
+      "start": 222,
+      "text": "business and they were companies um both"
+    },
+    {
+      "start": 225,
+      "text": "about the same size and um when"
+    },
+    {
+      "start": 227,
+      "text": "Microsoft came in in 2014, we thought"
+    },
+    {
+      "start": 230,
+      "text": "they would only buy the hockey air"
+    },
+    {
+      "start": 232,
+      "text": "platform and the product business and"
+    },
+    {
+      "start": 233,
+      "text": "and leave the contracting business alone"
+    },
+    {
+      "start": 235,
+      "text": "uh given there were existing customer uh"
+    },
+    {
+      "start": 238,
+      "text": "contracts and and what have you. uh but"
+    },
+    {
+      "start": 240,
+      "text": "in fact Microsoft bought both companies"
+    },
+    {
+      "start": 242,
+      "text": "uh the the subsidiary the product"
+    },
+    {
+      "start": 244,
+      "text": "company and the the mothership the the"
+    },
+    {
+      "start": 246,
+      "text": "contracting company because the"
+    },
+    {
+      "start": 248,
+      "text": "contracting company had a number of iOS"
+    },
+    {
+      "start": 250,
+      "text": "and Android developers uh that were a"
+    },
+    {
+      "start": 252,
+      "text": "hot commodity uh in 2014 and and hard to"
+    },
+    {
+      "start": 255,
+      "text": "hire um certainly you know at at startup"
+    },
+    {
+      "start": 258,
+      "text": "rates and so Microsoft actually took"
+    },
+    {
+      "start": 260,
+      "text": "over both of those companies and uh a"
+    },
+    {
+      "start": 262,
+      "text": "fun funny story is today of these 11"
+    },
+    {
+      "start": 265,
+      "text": "employees seven including myself work"
+    },
+    {
+      "start": 268,
+      "text": "for GitHub and so different paths Um uh"
+    },
+    {
+      "start": 270,
+      "text": "they all got to Microsoft and then from"
+    },
+    {
+      "start": 272,
+      "text": "Microsoft into GitHub. You know coming"
+    },
+    {
+      "start": 274,
+      "text": "from a small company of of our size"
+    },
+    {
+      "start": 277,
+      "text": "based in Germany in Stutka Germany,"
+    },
+    {
+      "start": 279,
+      "text": "southwest Germany. Uh moving you know"
+    },
+    {
+      "start": 282,
+      "text": "halfway around the world I moved with my"
+    },
+    {
+      "start": 284,
+      "text": "wife and back then two very young kids"
+    },
+    {
+      "start": 286,
+      "text": "uh to Seattle that alone was a big"
+    },
+    {
+      "start": 289,
+      "text": "change. And looking back now um 10 years"
+    },
+    {
+      "start": 291,
+      "text": "later and we moved we moved in in early"
+    },
+    {
+      "start": 294,
+      "text": "2015 it feels all like a blur like"
+    },
+    {
+      "start": 297,
+      "text": "things moved so fast and sometimes I"
+    },
+    {
+      "start": 299,
+      "text": "don't even realize how we did all that."
+    },
+    {
+      "start": 301,
+      "text": "Our startup was very small and"
+    },
+    {
+      "start": 302,
+      "text": "bootstrapped um for the whole time. So"
+    },
+    {
+      "start": 304,
+      "text": "we never took any outside investment uh"
+    },
+    {
+      "start": 306,
+      "text": "until Microsoft acquired us and at that"
+    },
+    {
+      "start": 309,
+      "text": "point in time I think it was about 11 or"
+    },
+    {
+      "start": 311,
+      "text": "or 12 employees. a still very small"
+    },
+    {
+      "start": 313,
+      "text": "team. all of all of engineers, you know,"
+    },
+    {
+      "start": 316,
+      "text": "building building the product together"
+    },
+    {
+      "start": 317,
+      "text": "and in some ways you know my role today"
+    },
+    {
+      "start": 320,
+      "text": "as GitHub CEO um is very similar uh in"
+    },
+    {
+      "start": 324,
+      "text": "that you know um my developer skills uh"
+    },
+    {
+      "start": 327,
+      "text": "my understanding of code my um you know"
+    },
+    {
+      "start": 330,
+      "text": "empathy for for how software developers"
+    },
+    {
+      "start": 332,
+      "text": "work helped me both with my you know"
+    },
+    {
+      "start": 335,
+      "text": "internal team of about a thousand uh"
+    },
+    {
+      "start": 337,
+      "text": "engineers and with our customer base"
+    },
+    {
+      "start": 339,
+      "text": "which are also all software developers"
+    },
+    {
+      "start": 341,
+      "text": "or those that aspire to become software"
+    },
+    {
+      "start": 343,
+      "text": "developer And so I think you know a lot"
+    },
+    {
+      "start": 345,
+      "text": "of the you know my passion for software"
+    },
+    {
+      "start": 347,
+      "text": "development is actually perfect you know"
+    },
+    {
+      "start": 350,
+      "text": "for me being being the GitHub"
+    },
+    {
+      "start": 355,
+      "text": "CEO I don't think I've seen anything"
+    },
+    {
+      "start": 358,
+      "text": "more exciting and and and changing how"
+    },
+    {
+      "start": 360,
+      "text": "uh we think about software development"
+    },
+    {
+      "start": 362,
+      "text": "in my in my 30 plus year career as a"
+    },
+    {
+      "start": 365,
+      "text": "software developer. You know, when I"
+    },
+    {
+      "start": 367,
+      "text": "started coding in the early 1990s, uh"
+    },
+    {
+      "start": 370,
+      "text": "there wasn't even the internet or I I"
+    },
+    {
+      "start": 372,
+      "text": "certainly had no internet access and so"
+    },
+    {
+      "start": 373,
+      "text": "I had to figure it all out all out all"
+    },
+    {
+      "start": 375,
+      "text": "by myself with with books, with"
+    },
+    {
+      "start": 377,
+      "text": "magazines, um going to computer club in"
+    },
+    {
+      "start": 380,
+      "text": "the community center kind of hoping that"
+    },
+    {
+      "start": 382,
+      "text": "somebody will be there. Um if we fast"
+    },
+    {
+      "start": 384,
+      "text": "forward to where we are now is that it's"
+    },
+    {
+      "start": 386,
+      "text": "so much easier to get into into software"
+    },
+    {
+      "start": 388,
+      "text": "development. you can, you know, just"
+    },
+    {
+      "start": 390,
+      "text": "write a prompt into Copilot or or Chat"
+    },
+    {
+      "start": 392,
+      "text": "GPT or or similar tools and it uh will"
+    },
+    {
+      "start": 395,
+      "text": "likely write you um um you know, a basic"
+    },
+    {
+      "start": 398,
+      "text": "web page um or a small uh application, a"
+    },
+    {
+      "start": 401,
+      "text": "game uh in Python. And so AI makes"
+    },
+    {
+      "start": 405,
+      "text": "software development uh so much more"
+    },
+    {
+      "start": 406,
+      "text": "accessible um for anyone who wants to"
+    },
+    {
+      "start": 408,
+      "text": "learn coding. And on the other side of"
+    },
+    {
+      "start": 410,
+      "text": "the spectrum, it makes developers so"
+    },
+    {
+      "start": 411,
+      "text": "much more productive. Most uh developers"
+    },
+    {
+      "start": 414,
+      "text": "that uh work on a project have way uh"
+    },
+    {
+      "start": 417,
+      "text": "too much work to do. uh they have long"
+    },
+    {
+      "start": 419,
+      "text": "backlogs um of their own ideas of"
+    },
+    {
+      "start": 421,
+      "text": "customer feedback, you know, uh things"
+    },
+    {
+      "start": 423,
+      "text": "that they're hearing from their managers"
+    },
+    {
+      "start": 424,
+      "text": "or from the market or what they're"
+    },
+    {
+      "start": 427,
+      "text": "seeing at competitors. And so almost any"
+    },
+    {
+      "start": 430,
+      "text": "software project that has a certain, you"
+    },
+    {
+      "start": 432,
+      "text": "know, age um has way too much work on"
+    },
+    {
+      "start": 434,
+      "text": "the innovation side, but they also have"
+    },
+    {
+      "start": 436,
+      "text": "what we call technical debt. Uh you"
+    },
+    {
+      "start": 438,
+      "text": "know, legacy code, things that have, you"
+    },
+    {
+      "start": 440,
+      "text": "know, been created over over months or"
+    },
+    {
+      "start": 442,
+      "text": "years that need a cleanup, that need"
+    },
+    {
+      "start": 444,
+      "text": "what we call refactoring. And so"
+    },
+    {
+      "start": 446,
+      "text": "engineers constantly balance those two"
+    },
+    {
+      "start": 448,
+      "text": "backlogs. So having something that"
+    },
+    {
+      "start": 449,
+      "text": "brings the effort down and makes them"
+    },
+    {
+      "start": 451,
+      "text": "you know 10% 20% maybe even 50% more"
+    },
+    {
+      "start": 454,
+      "text": "productive is is completely changing uh"
+    },
+    {
+      "start": 457,
+      "text": "how software developers work. the role"
+    },
+    {
+      "start": 459,
+      "text": "of GitHub you know in this in the first"
+    },
+    {
+      "start": 461,
+      "text": "uh let's say you know five years of the"
+    },
+    {
+      "start": 463,
+      "text": "age of AI um given that we started"
+    },
+    {
+      "start": 465,
+      "text": "working on GitHub copilot in uh June"
+    },
+    {
+      "start": 467,
+      "text": "2020 right after uh GP3 uh uh was was"
+    },
+    {
+      "start": 471,
+      "text": "first shown to the world is that we want"
+    },
+    {
+      "start": 473,
+      "text": "to be you know on the forefront um of uh"
+    },
+    {
+      "start": 475,
+      "text": "AI code generation we want to provide um"
+    },
+    {
+      "start": 478,
+      "text": "tools to developer to be more productive"
+    },
+    {
+      "start": 481,
+      "text": "and more happy uh when when writing code"
+    },
+    {
+      "start": 483,
+      "text": "because the reality is the dream I think"
+    },
+    {
+      "start": 485,
+      "text": "for most developers that start their"
+    },
+    {
+      "start": 488,
+      "text": "their journey um uh as a programmer is"
+    },
+    {
+      "start": 491,
+      "text": "that they have an idea in their head and"
+    },
+    {
+      "start": 493,
+      "text": "they're trying to find a way how they"
+    },
+    {
+      "start": 495,
+      "text": "can can get the fastest from that idea"
+    },
+    {
+      "start": 497,
+      "text": "to an app or or web page or service,"
+    },
+    {
+      "start": 499,
+      "text": "right? Like the challenge is not that"
+    },
+    {
+      "start": 501,
+      "text": "developers uh uh don't have enough"
+    },
+    {
+      "start": 503,
+      "text": "ideas. The challenge is that you take"
+    },
+    {
+      "start": 505,
+      "text": "that big idea and you have to break it"
+    },
+    {
+      "start": 507,
+      "text": "down into small building blocks. And as"
+    },
+    {
+      "start": 508,
+      "text": "you're working on the first block or the"
+    },
+    {
+      "start": 510,
+      "text": "first module or the first class or uh"
+    },
+    {
+      "start": 513,
+      "text": "micros service, whatever it is, you're"
+    },
+    {
+      "start": 514,
+      "text": "you're realizing that this this idea"
+    },
+    {
+      "start": 516,
+      "text": "that you have is so much more complex to"
+    },
+    {
+      "start": 519,
+      "text": "implement than than you thought. And so"
+    },
+    {
+      "start": 521,
+      "text": "from what became a weekend project, it"
+    },
+    {
+      "start": 523,
+      "text": "becomes a month-long or sometimes"
+    },
+    {
+      "start": 524,
+      "text": "year-long project. And many, you know,"
+    },
+    {
+      "start": 526,
+      "text": "apps that, uh, I wrote as a teenager and"
+    },
+    {
+      "start": 529,
+      "text": "I know, you know, many of my friends and"
+    },
+    {
+      "start": 531,
+      "text": "and my employees wrote never get"
+    },
+    {
+      "start": 533,
+      "text": "anywhere because you you ultimately"
+    },
+    {
+      "start": 534,
+      "text": "realize it's much more complex than you"
+    },
+    {
+      "start": 536,
+      "text": "thought and it's not worth spending the"
+    },
+    {
+      "start": 537,
+      "text": "time on it. And in in the world that we"
+    },
+    {
+      "start": 539,
+      "text": "live today, you can always, you know,"
+    },
+    {
+      "start": 541,
+      "text": "download an app from the app store or"
+    },
+    {
+      "start": 542,
+      "text": "find, you know, some online service that"
+    },
+    {
+      "start": 544,
+      "text": "does the same thing. So, I think AI"
+    },
+    {
+      "start": 546,
+      "text": "helps us, you know, to realize the dream"
+    },
+    {
+      "start": 548,
+      "text": "of taking an idea and implementing it"
+    },
+    {
+      "start": 550,
+      "text": "much faster. And you see um some of the"
+    },
+    {
+      "start": 552,
+      "text": "early signs of that where very small"
+    },
+    {
+      "start": 554,
+      "text": "startups sometimes you know five"
+    },
+    {
+      "start": 556,
+      "text": "developers um and some of them actually"
+    },
+    {
+      "start": 558,
+      "text": "only one developers uh uh believe they"
+    },
+    {
+      "start": 560,
+      "text": "can become million uh if not billion"
+    },
+    {
+      "start": 562,
+      "text": "dollar businesses by leveraging all the"
+    },
+    {
+      "start": 565,
+      "text": "AI agents uh that are available to them"
+    },
+    {
+      "start": 567,
+      "text": "and maybe building their own uh to to"
+    },
+    {
+      "start": 569,
+      "text": "write code uh to write software much"
+    },
+    {
+      "start": 571,
+      "text": "faster. Now the flip side of that is"
+    },
+    {
+      "start": 573,
+      "text": "that you know uh I don't think we're"
+    },
+    {
+      "start": 575,
+      "text": "anywhere close to a world where you can"
+    },
+    {
+      "start": 576,
+      "text": "just write a single prompt and say build"
+    },
+    {
+      "start": 578,
+      "text": "GitHub and then an AI agent builds all"
+    },
+    {
+      "start": 581,
+      "text": "of the features of GitHub um or even"
+    },
+    {
+      "start": 583,
+      "text": "just the very basic primitives like"
+    },
+    {
+      "start": 585,
+      "text": "repository storage you know git storage"
+    },
+    {
+      "start": 587,
+      "text": "and uh issue tracking um because the the"
+    },
+    {
+      "start": 590,
+      "text": "decisions um that we as developers as"
+    },
+    {
+      "start": 593,
+      "text": "engineers as product managers have to"
+    },
+    {
+      "start": 595,
+      "text": "make to build a complex system like"
+    },
+    {
+      "start": 597,
+      "text": "GitHub you know thousands if not tens of"
+    },
+    {
+      "start": 599,
+      "text": "thousands decisions um there's the"
+    },
+    {
+      "start": 601,
+      "text": "simple ones, right? Like which"
+    },
+    {
+      "start": 602,
+      "text": "programming language, which which open"
+    },
+    {
+      "start": 604,
+      "text": "source framework, which cloud to use or"
+    },
+    {
+      "start": 606,
+      "text": "do we even use a cloud, which operating"
+    },
+    {
+      "start": 608,
+      "text": "system and and so on. But there's the"
+    },
+    {
+      "start": 610,
+      "text": "much more complex decisions of how you"
+    },
+    {
+      "start": 612,
+      "text": "architect the system, you know, are you"
+    },
+    {
+      "start": 614,
+      "text": "building a monolith and or you building"
+    },
+    {
+      "start": 616,
+      "text": "microservices? And getting to a point"
+    },
+    {
+      "start": 618,
+      "text": "where agents can make all these"
+    },
+    {
+      "start": 619,
+      "text": "decisions and write an app that actually"
+    },
+    {
+      "start": 622,
+      "text": "is a viable business, you know, finds"
+    },
+    {
+      "start": 623,
+      "text": "product market fit, has a great user"
+    },
+    {
+      "start": 625,
+      "text": "experience, and and ultimately generates"
+    },
+    {
+      "start": 627,
+      "text": "both revenue and profit. uh because any"
+    },
+    {
+      "start": 630,
+      "text": "business at some point has to get to the"
+    },
+    {
+      "start": 631,
+      "text": "place where they're making profit and"
+    },
+    {
+      "start": 632,
+      "text": "and return that profit to the to the"
+    },
+    {
+      "start": 634,
+      "text": "founders or shareholders that I think"
+    },
+    {
+      "start": 636,
+      "text": "we're we're quite far away and so we"
+    },
+    {
+      "start": 637,
+      "text": "need uh engineers uh to do engineering"
+    },
+    {
+      "start": 640,
+      "text": "stuff. They they need to exercise their"
+    },
+    {
+      "start": 642,
+      "text": "craft and uh apply systems thinking and"
+    },
+    {
+      "start": 645,
+      "text": "design and and and build really great"
+    },
+    {
+      "start": 647,
+      "text": "applications."
+    },
+    {
+      "start": 651,
+      "text": "I think the unique thing about GitHub is"
+    },
+    {
+      "start": 653,
+      "text": "its size and both the love uh that"
+    },
+    {
+      "start": 656,
+      "text": "developers have for you know our brand"
+    },
+    {
+      "start": 658,
+      "text": "um for our mascot um the octoat or we"
+    },
+    {
+      "start": 661,
+      "text": "call it internally Mona um and um the"
+    },
+    {
+      "start": 664,
+      "text": "reputation uh that GitHub has created"
+    },
+    {
+      "start": 667,
+      "text": "for itself um since the very early days"
+    },
+    {
+      "start": 669,
+      "text": "since the I remember the early launch of"
+    },
+    {
+      "start": 671,
+      "text": "GitHub and and meeting um or seeing um"
+    },
+    {
+      "start": 673,
+      "text": "Chris one of the founders speaking at"
+    },
+    {
+      "start": 676,
+      "text": "RailsCon in in Las Vegas in in 2009 and"
+    },
+    {
+      "start": 679,
+      "text": "then signing up for my own account and"
+    },
+    {
+      "start": 680,
+      "text": "and started using it. I I was excited"
+    },
+    {
+      "start": 683,
+      "text": "about using GitHub and now we are in in"
+    },
+    {
+      "start": 686,
+      "text": "2025 and there are still many people"
+    },
+    {
+      "start": 687,
+      "text": "that uh love GitHub but you know what"
+    },
+    {
+      "start": 690,
+      "text": "what comes with love is also that you're"
+    },
+    {
+      "start": 692,
+      "text": "not holding back your criticism and that"
+    },
+    {
+      "start": 694,
+      "text": "we have 150 million users and uh on the"
+    },
+    {
+      "start": 697,
+      "text": "platform and so there's at least you"
+    },
+    {
+      "start": 700,
+      "text": "know a million opinions of what are the"
+    },
+    {
+      "start": 702,
+      "text": "things we should invest on and what's"
+    },
+    {
+      "start": 704,
+      "text": "working well and and what's not working"
+    },
+    {
+      "start": 705,
+      "text": "well and what's the one feature that is"
+    },
+    {
+      "start": 707,
+      "text": "important you know to that set of users"
+    },
+    {
+      "start": 710,
+      "text": "while it's not important uh to to me and"
+    },
+    {
+      "start": 712,
+      "text": "and my product leadership team because"
+    },
+    {
+      "start": 714,
+      "text": "we have you know our own uh strategy and"
+    },
+    {
+      "start": 716,
+      "text": "decisions to make. So filtering out the"
+    },
+    {
+      "start": 718,
+      "text": "signal from the noise and I don't mean"
+    },
+    {
+      "start": 720,
+      "text": "noise in any negative way just so much"
+    },
+    {
+      "start": 723,
+      "text": "feedback that we're getting. I remember"
+    },
+    {
+      "start": 725,
+      "text": "when we when we did the acquisition in"
+    },
+    {
+      "start": 727,
+      "text": "2018 and I joined GitHub and afterwards"
+    },
+    {
+      "start": 729,
+      "text": "um we sent an email to 10 GitHub users"
+    },
+    {
+      "start": 731,
+      "text": "and say hey we we're looking into a new"
+    },
+    {
+      "start": 732,
+      "text": "project we would love your feedback. I"
+    },
+    {
+      "start": 734,
+      "text": "think we got nine responses of exciting"
+    },
+    {
+      "start": 736,
+      "text": "users saying if you want to I want to"
+    },
+    {
+      "start": 737,
+      "text": "provide feedback. If you do that in many"
+    },
+    {
+      "start": 740,
+      "text": "other companies and startups you get one"
+    },
+    {
+      "start": 741,
+      "text": "response and the one response is kind of"
+    },
+    {
+      "start": 743,
+      "text": "like well I have like 10 minutes time to"
+    },
+    {
+      "start": 745,
+      "text": "to give you some feedback. There's just"
+    },
+    {
+      "start": 747,
+      "text": "so much um uh uh information that's"
+    },
+    {
+      "start": 749,
+      "text": "that's coming back to us um on on social"
+    },
+    {
+      "start": 752,
+      "text": "media and our platform in email and"
+    },
+    {
+      "start": 754,
+      "text": "support tickets and so on. The second"
+    },
+    {
+      "start": 755,
+      "text": "piece you know that comes to mind is"
+    },
+    {
+      "start": 757,
+      "text": "that GitHub um for the longest time has"
+    },
+    {
+      "start": 759,
+      "text": "been a company with a very strong remote"
+    },
+    {
+      "start": 761,
+      "text": "culture like long before co uh the"
+    },
+    {
+      "start": 763,
+      "text": "GitHub founders started hiring um"
+    },
+    {
+      "start": 766,
+      "text": "developers uh sales folks support folks"
+    },
+    {
+      "start": 768,
+      "text": "all over the world and today I think"
+    },
+    {
+      "start": 770,
+      "text": "we're one of the largest remote only"
+    },
+    {
+      "start": 773,
+      "text": "companies where all work you know from"
+    },
+    {
+      "start": 774,
+      "text": "our homes or from you know hotel in in"
+    },
+    {
+      "start": 778,
+      "text": "soul um or from from wherever we are and"
+    },
+    {
+      "start": 780,
+      "text": "so a lot of um our culture is focused"
+    },
+    {
+      "start": 783,
+      "text": "around GitHub as a platform form which"
+    },
+    {
+      "start": 785,
+      "text": "obviously through open source encourages"
+    },
+    {
+      "start": 787,
+      "text": "um uh asynchronous uh collaboration uh"
+    },
+    {
+      "start": 791,
+      "text": "and then tools like Slack um um and and"
+    },
+    {
+      "start": 794,
+      "text": "video video calls um uh that we use much"
+    },
+    {
+      "start": 797,
+      "text": "more heavily internally than we're using"
+    },
+    {
+      "start": 800,
+      "text": "email like like old school uh companies"
+    },
+    {
+      "start": 802,
+      "text": "do. And so when I wake up in the morning"
+    },
+    {
+      "start": 804,
+      "text": "especially here you know in Seoul uh"
+    },
+    {
+      "start": 806,
+      "text": "which is like lots of time zones away uh"
+    },
+    {
+      "start": 808,
+      "text": "from from the US uh where about 80% of"
+    },
+    {
+      "start": 811,
+      "text": "our employee population is is that I"
+    },
+    {
+      "start": 813,
+      "text": "wake up to 30 40 Slack messages plus you"
+    },
+    {
+      "start": 816,
+      "text": "know uh uh hundreds of channels uh with"
+    },
+    {
+      "start": 818,
+      "text": "with conversation and then figuring out"
+    },
+    {
+      "start": 820,
+      "text": "you know what is actually important for"
+    },
+    {
+      "start": 821,
+      "text": "me as CEO what what to react to what can"
+    },
+    {
+      "start": 824,
+      "text": "I snooze uh for a while and what can I"
+    },
+    {
+      "start": 826,
+      "text": "just ignore that that's the you know a"
+    },
+    {
+      "start": 829,
+      "text": "big part of my job but it's also so"
+    },
+    {
+      "start": 830,
+      "text": "exciting because you know, I can be here"
+    },
+    {
+      "start": 833,
+      "text": "in South Korea um at at this event and"
+    },
+    {
+      "start": 835,
+      "text": "and still still run the company. And a"
+    },
+    {
+      "start": 838,
+      "text": "lot of, you know, what we do on a"
+    },
+    {
+      "start": 839,
+      "text": "day-to-day basis doesn't actually matter"
+    },
+    {
+      "start": 841,
+      "text": "whether I'm here in Seoul, or whether"
+    },
+    {
+      "start": 842,
+      "text": "I'm in Berlin or whether in I'm in New"
+    },
+    {
+      "start": 844,
+      "text": "York or anywhere else in the world. And"
+    },
+    {
+      "start": 846,
+      "text": "and I think that's for for many hubbers,"
+    },
+    {
+      "start": 848,
+      "text": "how we call our employees. A really"
+    },
+    {
+      "start": 850,
+      "text": "strong part of our culture that we are"
+    },
+    {
+      "start": 852,
+      "text": "remote company. Uh it's not related to"
+    },
+    {
+      "start": 854,
+      "text": "the pandemic. It's a choice that we made"
+    },
+    {
+      "start": 857,
+      "text": "of how we want to run the company. you"
+    },
+    {
+      "start": 859,
+      "text": "know how we select GitHub as an employer"
+    },
+    {
+      "start": 861,
+      "text": "and ultimately how we believe we can be"
+    },
+    {
+      "start": 866,
+      "text": "successful. I first of all I strongly"
+    },
+    {
+      "start": 868,
+      "text": "believe that every kid uh every child"
+    },
+    {
+      "start": 871,
+      "text": "should learn coding and we should"
+    },
+    {
+      "start": 873,
+      "text": "actually teach them coding in school in"
+    },
+    {
+      "start": 874,
+      "text": "the same way that we teach them physics"
+    },
+    {
+      "start": 876,
+      "text": "and geography and uh you know literacy"
+    },
+    {
+      "start": 878,
+      "text": "and math and whatnot. Those are all"
+    },
+    {
+      "start": 880,
+      "text": "fundamental skills. Coding is one such"
+    },
+    {
+      "start": 882,
+      "text": "skill and it just has taken us too long"
+    },
+    {
+      "start": 884,
+      "text": "to actually realize that because"
+    },
+    {
+      "start": 886,
+      "text": "software is everywhere. Um hardware is"
+    },
+    {
+      "start": 888,
+      "text": "also everywhere. We carry we carry both"
+    },
+    {
+      "start": 890,
+      "text": "software and hardware with us uh through"
+    },
+    {
+      "start": 891,
+      "text": "our day. And in fact our day-to-day is"
+    },
+    {
+      "start": 893,
+      "text": "dominated by software already. You can't"
+    },
+    {
+      "start": 895,
+      "text": "really uh live your life uh travel um"
+    },
+    {
+      "start": 898,
+      "text": "wake up in the morning without software"
+    },
+    {
+      "start": 899,
+      "text": "anymore. And I think as as humans it is"
+    },
+    {
+      "start": 902,
+      "text": "crucial to not only be in read only mode"
+    },
+    {
+      "start": 904,
+      "text": "but also be able to create uh things"
+    },
+    {
+      "start": 907,
+      "text": "ourselves or at least understand how how"
+    },
+    {
+      "start": 909,
+      "text": "creation is done on these devices. That"
+    },
+    {
+      "start": 911,
+      "text": "doesn't mean that every you know 18"
+    },
+    {
+      "start": 912,
+      "text": "19year-old when they leave high school"
+    },
+    {
+      "start": 914,
+      "text": "become a software developer. In the same"
+    },
+    {
+      "start": 916,
+      "text": "way that not every uh uh kid that learns"
+    },
+    {
+      "start": 918,
+      "text": "physics or or chemistry in school"
+    },
+    {
+      "start": 920,
+      "text": "becomes a physicist, right? Just because"
+    },
+    {
+      "start": 921,
+      "text": "you learn those fundamental skills"
+    },
+    {
+      "start": 923,
+      "text": "doesn't mean that you decide for"
+    },
+    {
+      "start": 924,
+      "text": "yourself that that's the career path to"
+    },
+    {
+      "start": 926,
+      "text": "take. So that's number one. You you got"
+    },
+    {
+      "start": 927,
+      "text": "to you got to learn coding. I think"
+    },
+    {
+      "start": 929,
+      "text": "number number two is you got to use AI"
+    },
+    {
+      "start": 931,
+      "text": "to do that. And and you know whether"
+    },
+    {
+      "start": 934,
+      "text": "it's here in Korea or in Germany uh most"
+    },
+    {
+      "start": 936,
+      "text": "kids um uh and in fact you know most"
+    },
+    {
+      "start": 939,
+      "text": "most people don't speak fluent English"
+    },
+    {
+      "start": 941,
+      "text": "um which is the primary language of"
+    },
+    {
+      "start": 942,
+      "text": "software development. And so it"
+    },
+    {
+      "start": 944,
+      "text": "democratizes access to technology and"
+    },
+    {
+      "start": 946,
+      "text": "that's true for many other uh things in"
+    },
+    {
+      "start": 947,
+      "text": "the world. And so having uh an agent"
+    },
+    {
+      "start": 950,
+      "text": "available uh that answers you any"
+    },
+    {
+      "start": 952,
+      "text": "question but also lets you you know"
+    },
+    {
+      "start": 954,
+      "text": "realize your dream building your dream"
+    },
+    {
+      "start": 956,
+      "text": "uh is incredibly exciting. And then the"
+    },
+    {
+      "start": 957,
+      "text": "third thing you know for anyone who is"
+    },
+    {
+      "start": 959,
+      "text": "already a software developer or wants to"
+    },
+    {
+      "start": 961,
+      "text": "you know develop their craft is you got"
+    },
+    {
+      "start": 963,
+      "text": "to keep you got to keep rehearsing. You"
+    },
+    {
+      "start": 964,
+      "text": "got to keep training. Yeah. You got to"
+    },
+    {
+      "start": 966,
+      "text": "keep learning. There's you're never done"
+    },
+    {
+      "start": 968,
+      "text": "with learning. If I look back 30 years"
+    },
+    {
+      "start": 970,
+      "text": "of what development looked like back"
+    },
+    {
+      "start": 971,
+      "text": "then and what it looks like now, um I"
+    },
+    {
+      "start": 973,
+      "text": "would have been, you know, um very"
+    },
+    {
+      "start": 975,
+      "text": "behind if I hadn't constantly read blog"
+    },
+    {
+      "start": 977,
+      "text": "posts, um uh literature and and tried"
+    },
+    {
+      "start": 980,
+      "text": "out things myself. So I think those are"
+    },
+    {
+      "start": 982,
+      "text": "uh as as crucial as they were in the '"
+    },
+    {
+      "start": 984,
+      "text": "90s, they are still crucial in 2025. You"
+    },
+    {
+      "start": 986,
+      "text": "just have so much more access to"
+    },
+    {
+      "start": 987,
+      "text": "information uh to become, you know, top"
+    },
+    {
+      "start": 990,
+      "text": "of the"
+    },
+    {
+      "start": 992,
+      "text": "field. The obvious answer is that I most"
+    },
+    {
+      "start": 995,
+      "text": "enjoy using GitHub Copi, right? like"
+    },
+    {
+      "start": 997,
+      "text": "that's our product. Uh it's our baby. Uh"
+    },
+    {
+      "start": 1000,
+      "text": "we're working on this day in day out. I"
+    },
+    {
+      "start": 1002,
+      "text": "often, you know, uh see features long"
+    },
+    {
+      "start": 1004,
+      "text": "before the world sees that. And and the"
+    },
+    {
+      "start": 1006,
+      "text": "flip side is also true that I often"
+    },
+    {
+      "start": 1008,
+      "text": "don't actually know what's shipped"
+    },
+    {
+      "start": 1010,
+      "text": "versus what is, you know, in in preview"
+    },
+    {
+      "start": 1011,
+      "text": "or in in internal ships. And so I'm"
+    },
+    {
+      "start": 1014,
+      "text": "daily excited about what we're building"
+    },
+    {
+      "start": 1016,
+      "text": "there and I'm using a lot of that myself"
+    },
+    {
+      "start": 1017,
+      "text": "as I am at heart a developer. And"
+    },
+    {
+      "start": 1020,
+      "text": "sometimes it's very simple, you know,"
+    },
+    {
+      "start": 1021,
+      "text": "asking it to to write me a quick script"
+    },
+    {
+      "start": 1024,
+      "text": "that that downloads, you know, ids of"
+    },
+    {
+      "start": 1025,
+      "text": "all our repositories um from our API."
+    },
+    {
+      "start": 1028,
+      "text": "And in the past, I would have gone, you"
+    },
+    {
+      "start": 1030,
+      "text": "know, to our API documentation and"
+    },
+    {
+      "start": 1031,
+      "text": "figure that out all myself and probably"
+    },
+    {
+      "start": 1033,
+      "text": "would have taken me like half an hour to"
+    },
+    {
+      "start": 1035,
+      "text": "to get to, you know, a shell script that"
+    },
+    {
+      "start": 1038,
+      "text": "does that. Today, I just ask Copil and"
+    },
+    {
+      "start": 1040,
+      "text": "it writes me the script and it works"
+    },
+    {
+      "start": 1042,
+      "text": "within within minutes. Um, and I think"
+    },
+    {
+      "start": 1044,
+      "text": "actually that's the one of the true"
+    },
+    {
+      "start": 1045,
+      "text": "superpowers of AI. Whether that's"
+    },
+    {
+      "start": 1047,
+      "text": "learning to code or exploring the world,"
+    },
+    {
+      "start": 1049,
+      "text": "you have um an assistant available to"
+    },
+    {
+      "start": 1052,
+      "text": "you that has infinite patience. You"
+    },
+    {
+      "start": 1053,
+      "text": "know, it doesn't judge you. Um, it will,"
+    },
+    {
+      "start": 1055,
+      "text": "you know, chat GPT or co-pilot never"
+    },
+    {
+      "start": 1057,
+      "text": "tells you what what a stupid question"
+    },
+    {
+      "start": 1059,
+      "text": "is. It always gives you an answer and it"
+    },
+    {
+      "start": 1060,
+      "text": "even accepts when you tell it it's wrong"
+    },
+    {
+      "start": 1062,
+      "text": "or it needs to, you know, explore the"
+    },
+    {
+      "start": 1064,
+      "text": "topic a little bit further. You know,"
+    },
+    {
+      "start": 1066,
+      "text": "you have seen uh the prompt examples"
+    },
+    {
+      "start": 1068,
+      "text": "where by telling it to outline its"
+    },
+    {
+      "start": 1070,
+      "text": "thought process, it actually gets to a"
+    },
+    {
+      "start": 1072,
+      "text": "better answer. I love using it for my"
+    },
+    {
+      "start": 1074,
+      "text": "blog posts and PowerPoint presentation"
+    },
+    {
+      "start": 1076,
+      "text": "to just uh generate some images and and"
+    },
+    {
+      "start": 1079,
+      "text": "play with that. Um I'm I'm really bad at"
+    },
+    {
+      "start": 1082,
+      "text": "using Photoshop and and and drawing"
+    },
+    {
+      "start": 1084,
+      "text": "myself, but I'm I'm really creative and"
+    },
+    {
+      "start": 1086,
+      "text": "I can write prompts and and figure out"
+    },
+    {
+      "start": 1088,
+      "text": "how to rewrite the prompt to make the"
+    },
+    {
+      "start": 1090,
+      "text": "image look more than uh more more"
+    },
+    {
+      "start": 1092,
+      "text": "closely to what I had in my head."
+    },
+    {
+      "start": 1094,
+      "text": "There's, you know, tools that we're"
+    },
+    {
+      "start": 1095,
+      "text": "using like teams copilot to summarize"
+    },
+    {
+      "start": 1097,
+      "text": "meetings, especially when I I'm on"
+    },
+    {
+      "start": 1098,
+      "text": "business trips like that. Um, where I"
+    },
+    {
+      "start": 1100,
+      "text": "miss a lot of the meetings that happen"
+    },
+    {
+      "start": 1102,
+      "text": "uh in on the west coast and west coast"
+    },
+    {
+      "start": 1104,
+      "text": "time zone. Just getting a summary,"
+    },
+    {
+      "start": 1106,
+      "text": "figuring out other action items for me."
+    },
+    {
+      "start": 1108,
+      "text": "Uh, same for summarizing emails. Um, uh,"
+    },
+    {
+      "start": 1110,
+      "text": "you know, using something like reclaim"
+    },
+    {
+      "start": 1112,
+      "text": "AI to to manage my calendar. Those"
+    },
+    {
+      "start": 1114,
+      "text": "things are making me more productive."
+    },
+    {
+      "start": 1115,
+      "text": "And I think the really exciting thing is"
+    },
+    {
+      "start": 1117,
+      "text": "that there's always a new tool to try"
+    },
+    {
+      "start": 1119,
+      "text": "out and see is that how far along that"
+    },
+    {
+      "start": 1122,
+      "text": "journey is AI and how much more do we"
+    },
+    {
+      "start": 1124,
+      "text": "still have to do as an industry to"
+    },
+    {
+      "start": 1126,
+      "text": "actually get to that to that dream of of"
+    },
+    {
+      "start": 1128,
+      "text": "having an orchestra of agent uh that"
+    },
+    {
+      "start": 1130,
+      "text": "that we're controlling during our"
+    },
+    {
+      "start": 1131,
+      "text": "personal and in our professional lives."
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 533,
+  "timestamp": "2025-07-24T08:16:52.974Z"
+}

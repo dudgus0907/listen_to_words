@@ -1,0 +1,1068 @@
+1
+00:00:00,240 --> 00:00:03,439
+throw out a big number, see what
+
+2
+00:00:01,360 --> 00:00:04,799
+happens. If somebody bulks at it and
+
+3
+00:00:03,439 --> 00:00:06,080
+says that's way too high, you know,
+
+4
+00:00:04,799 --> 00:00:07,520
+you've at least done the right thing and
+
+5
+00:00:06,080 --> 00:00:10,160
+figured out what the top of the market
+
+6
+00:00:07,520 --> 00:00:11,840
+might be. Most founders are shocked at
+
+7
+00:00:10,160 --> 00:00:13,440
+the market uh will pay for their
+
+8
+00:00:11,840 --> 00:00:15,440
+product. And especially if you're a
+
+9
+00:00:13,440 --> 00:00:18,080
+first-time founder, you almost feel like
+
+10
+00:00:15,440 --> 00:00:20,640
+guilty or greedy asking for certain
+
+11
+00:00:18,080 --> 00:00:23,279
+numbers, but ultimately for pricing, you
+
+12
+00:00:20,640 --> 00:00:25,920
+really have to understand the business
+
+13
+00:00:23,279 --> 00:00:29,160
+value that a company is getting by using
+
+14
+00:00:25,920 --> 00:00:29,160
+your product.
+
+15
+00:00:30,800 --> 00:00:34,719
+So, I'm Ben Brookke. I'm the co-founder
+
+16
+00:00:32,640 --> 00:00:36,880
+and CEO of Transcend. We are a data
+
+17
+00:00:34,719 --> 00:00:39,680
+privacy infrastructure company. We help
+
+18
+00:00:36,880 --> 00:00:41,840
+other businesses uh encode privacy rules
+
+19
+00:00:39,680 --> 00:00:44,320
+across all of their technology. We're
+
+20
+00:00:41,840 --> 00:00:46,160
+helping them comply with privacy laws
+
+21
+00:00:44,320 --> 00:00:48,480
+and really adopting the spirit of
+
+22
+00:00:46,160 --> 00:00:50,320
+privacy and giving consumers far better
+
+23
+00:00:48,480 --> 00:00:53,840
+control over their personal data. We're
+
+24
+00:00:50,320 --> 00:00:57,559
+backed by uh Excel Index. We're now a
+
+25
+00:00:53,840 --> 00:00:57,559
+series B startup.
+
+26
+00:00:58,559 --> 00:01:03,520
+I think the biggest challenge for us um
+
+27
+00:01:01,039 --> 00:01:06,240
+like many founders were finding that
+
+28
+00:01:03,520 --> 00:01:08,000
+first product market fit. As a founder
+
+29
+00:01:06,240 --> 00:01:09,520
+in the weeds, you're like so excited
+
+30
+00:01:08,000 --> 00:01:11,520
+about this thing and you think like
+
+31
+00:01:09,520 --> 00:01:12,960
+we've got it. This is going to land.
+
+32
+00:01:11,520 --> 00:01:15,600
+People are going to love it. Nobody
+
+33
+00:01:12,960 --> 00:01:19,200
+wants to buy it. And then like really
+
+34
+00:01:15,600 --> 00:01:21,759
+kind of learning to trust the data and
+
+35
+00:01:19,200 --> 00:01:24,000
+test understand what the customer really
+
+36
+00:01:21,759 --> 00:01:25,840
+needs. like you can't stress enough when
+
+37
+00:01:24,000 --> 00:01:27,680
+you're building a product to like really
+
+38
+00:01:25,840 --> 00:01:31,280
+understand your customer. What we ended
+
+39
+00:01:27,680 --> 00:01:33,200
+up doing was we found a few early
+
+40
+00:01:31,280 --> 00:01:34,799
+customers. We basically just said like
+
+41
+00:01:33,200 --> 00:01:36,720
+what if we just automated this for you?
+
+42
+00:01:34,799 --> 00:01:39,280
+We'll be like your extended privacy
+
+43
+00:01:36,720 --> 00:01:41,200
+engineering team. Let us build the
+
+44
+00:01:39,280 --> 00:01:43,759
+solution and kind of just like help us
+
+45
+00:01:41,200 --> 00:01:45,600
+understand every aspect of it. It was
+
+46
+00:01:43,759 --> 00:01:47,680
+actually a fairly consultative
+
+47
+00:01:45,600 --> 00:01:50,640
+engagement with the first two or three
+
+48
+00:01:47,680 --> 00:01:52,079
+customers and we made sure that like
+
+49
+00:01:50,640 --> 00:01:53,680
+they were aligned to the fact that yes
+
+50
+00:01:52,079 --> 00:01:54,960
+we are going to build a product here but
+
+51
+00:01:53,680 --> 00:01:57,200
+that was how we approached it. So
+
+52
+00:01:54,960 --> 00:01:58,320
+especially when it's in I think like a
+
+53
+00:01:57,200 --> 00:02:00,399
+little bit more toward like the
+
+54
+00:01:58,320 --> 00:02:01,840
+enterprise software motion I think
+
+55
+00:02:00,399 --> 00:02:03,759
+that's like absolutely a path you can
+
+56
+00:02:01,840 --> 00:02:06,479
+take where you just kind of let
+
+57
+00:02:03,759 --> 00:02:08,399
+customers vent their problems and offer
+
+58
+00:02:06,479 --> 00:02:10,879
+to just find a way to fix them. As for
+
+59
+00:02:08,399 --> 00:02:13,599
+scaling from you know 10 to 100
+
+60
+00:02:10,879 --> 00:02:16,000
+customers in enterprise this is when you
+
+61
+00:02:13,599 --> 00:02:17,760
+need to have your first sellers.
+
+62
+00:02:16,000 --> 00:02:21,200
+Typically, you can do founderled sales
+
+63
+00:02:17,760 --> 00:02:24,160
+for the first call it 20, 30 customers,
+
+64
+00:02:21,200 --> 00:02:25,520
+but not only should you start handing
+
+65
+00:02:24,160 --> 00:02:27,599
+that off, but also like it's an
+
+66
+00:02:25,520 --> 00:02:29,840
+important part of proving that you're
+
+67
+00:02:27,599 --> 00:02:31,760
+able to scale the business past yourself
+
+68
+00:02:29,840 --> 00:02:32,879
+who knows every nook and cranny of the
+
+69
+00:02:31,760 --> 00:02:34,720
+product and you've been thinking about
+
+70
+00:02:32,879 --> 00:02:36,720
+this problem for like, you know, 5 years
+
+71
+00:02:34,720 --> 00:02:38,319
+or whatever. To be able to have a seller
+
+72
+00:02:36,720 --> 00:02:40,319
+become successful in selling your
+
+73
+00:02:38,319 --> 00:02:43,280
+product is an important first milestone.
+
+74
+00:02:40,319 --> 00:02:45,680
+And we we really spent the time to find
+
+75
+00:02:43,280 --> 00:02:47,280
+that right sort of first seller. And the
+
+76
+00:02:45,680 --> 00:02:49,200
+first seller is completely different
+
+77
+00:02:47,280 --> 00:02:51,519
+from like the latest stage seller where
+
+78
+00:02:49,200 --> 00:02:54,720
+they're super creative. They kind of do
+
+79
+00:02:51,519 --> 00:02:57,040
+every sales role alone which includes
+
+80
+00:02:54,720 --> 00:02:59,200
+generating pipeline, you know, actually
+
+81
+00:02:57,040 --> 00:03:00,879
+running the deal with as an account
+
+82
+00:02:59,200 --> 00:03:03,280
+executive would and then even a lot of
+
+83
+00:03:00,879 --> 00:03:05,760
+like sales engineering in some cases
+
+84
+00:03:03,280 --> 00:03:08,959
+probably contracting all of the sort of
+
+85
+00:03:05,760 --> 00:03:10,640
+the full endto-end sales process. And we
+
+86
+00:03:08,959 --> 00:03:12,159
+found somebody who's just incredible at
+
+87
+00:03:10,640 --> 00:03:13,680
+this. I I really believe there's nothing
+
+88
+00:03:12,159 --> 00:03:15,840
+more important than like finding the
+
+89
+00:03:13,680 --> 00:03:18,080
+best hire. If you need to slow down to
+
+90
+00:03:15,840 --> 00:03:20,319
+get it right, it's 100% worth it. And
+
+91
+00:03:18,080 --> 00:03:22,879
+then after that, depending on what your
+
+92
+00:03:20,319 --> 00:03:24,239
+sort of AR is at around 100 customers,
+
+93
+00:03:22,879 --> 00:03:26,560
+you either need to scale your sales team
+
+94
+00:03:24,239 --> 00:03:28,480
+or you probably like if it's way up
+
+95
+00:03:26,560 --> 00:03:30,400
+market, you probably already have. But
+
+96
+00:03:28,480 --> 00:03:32,879
+in any case, being able to scale a sales
+
+97
+00:03:30,400 --> 00:03:34,319
+team really is about if you don't have a
+
+98
+00:03:32,879 --> 00:03:37,280
+sales background, like you should find a
+
+99
+00:03:34,319 --> 00:03:39,840
+sales leader. It is such a huge subject
+
+100
+00:03:37,280 --> 00:03:41,280
+with so much expertise that it is one of
+
+101
+00:03:39,840 --> 00:03:43,680
+the things where you just you need to
+
+102
+00:03:41,280 --> 00:03:45,440
+find a great leader who can do all of
+
+103
+00:03:43,680 --> 00:03:47,120
+the right pieces of like building
+
+104
+00:03:45,440 --> 00:03:49,120
+playbooks, breaking out the sales
+
+105
+00:03:47,120 --> 00:03:51,200
+process with like uh sales development
+
+106
+00:03:49,120 --> 00:03:53,280
+representatives, account executives,
+
+107
+00:03:51,200 --> 00:03:54,480
+sales engineering, revenue operations
+
+108
+00:03:53,280 --> 00:03:56,400
+and so forth. There's a whole
+
+109
+00:03:54,480 --> 00:03:58,400
+organization and that sort of meta
+
+110
+00:03:56,400 --> 00:03:59,760
+process is very playooked but not
+
+111
+00:03:58,400 --> 00:04:02,319
+something a founder should do. They
+
+112
+00:03:59,760 --> 00:04:04,080
+should absolutely find the the best
+
+113
+00:04:02,319 --> 00:04:08,959
+leader that they can. That's really the
+
+114
+00:04:04,080 --> 00:04:08,959
+sort of like 0 to 10, 10 to 100 and
+
+115
+00:04:11,000 --> 00:04:14,959
+beyond. There's a few things I'll say
+
+116
+00:04:13,040 --> 00:04:16,639
+about pricing. The first is make it
+
+117
+00:04:14,959 --> 00:04:18,639
+super iterative. You really need to
+
+118
+00:04:16,639 --> 00:04:21,120
+adapt it and change it until you find
+
+119
+00:04:18,639 --> 00:04:22,880
+your price point. Even then, like it's
+
+120
+00:04:21,120 --> 00:04:24,400
+only going to last for maybe a year, a
+
+121
+00:04:22,880 --> 00:04:26,639
+year and a half before you have gotten
+
+122
+00:04:24,400 --> 00:04:28,160
+enough data to say certain parts of this
+
+123
+00:04:26,639 --> 00:04:29,520
+are stupid. We need to change it. The
+
+124
+00:04:28,160 --> 00:04:32,320
+second is you should start as high as
+
+125
+00:04:29,520 --> 00:04:34,960
+pro possible because most founders are
+
+126
+00:04:32,320 --> 00:04:36,720
+shocked at the market uh will pay for
+
+127
+00:04:34,960 --> 00:04:38,960
+their product and especially if you're a
+
+128
+00:04:36,720 --> 00:04:41,680
+first-time founder you almost feel like
+
+129
+00:04:38,960 --> 00:04:44,880
+guilty or greedy asking for certain
+
+130
+00:04:41,680 --> 00:04:47,520
+numbers but ultimately for pricing you
+
+131
+00:04:44,880 --> 00:04:50,720
+really have to understand the business
+
+132
+00:04:47,520 --> 00:04:53,520
+value that a company is getting by using
+
+133
+00:04:50,720 --> 00:04:56,160
+your product. And it kind of sounds like
+
+134
+00:04:53,520 --> 00:04:58,320
+just corporate jargon, but this is
+
+135
+00:04:56,160 --> 00:05:00,320
+actually how companies buy. And so if
+
+136
+00:04:58,320 --> 00:05:02,160
+you're not articulating the actual
+
+137
+00:05:00,320 --> 00:05:03,840
+dollar value of your product or if you
+
+138
+00:05:02,160 --> 00:05:05,440
+have no idea how to even start, the
+
+139
+00:05:03,840 --> 00:05:07,440
+person who's buying your product is
+
+140
+00:05:05,440 --> 00:05:09,280
+going to try to create that assessment
+
+141
+00:05:07,440 --> 00:05:11,759
+themselves so that they can take it to
+
+142
+00:05:09,280 --> 00:05:13,280
+the CFO and get it approved. And so it's
+
+143
+00:05:11,759 --> 00:05:14,800
+the the real answer is like, do you want
+
+144
+00:05:13,280 --> 00:05:16,320
+to be involved in that process or do you
+
+145
+00:05:14,800 --> 00:05:17,759
+not? If it's going to get approved, you
+
+146
+00:05:16,320 --> 00:05:19,280
+better be involved in that process. So
+
+147
+00:05:17,759 --> 00:05:20,639
+you actually do have to articulate if
+
+148
+00:05:19,280 --> 00:05:22,160
+you're going to drive revenue in the
+
+149
+00:05:20,639 --> 00:05:23,840
+company, how much can you drive? If
+
+150
+00:05:22,160 --> 00:05:25,280
+you're going to decrease cost, how much
+
+151
+00:05:23,840 --> 00:05:27,360
+can you decrease cost? Can you actually
+
+152
+00:05:25,280 --> 00:05:29,680
+articulate what we call value drivers
+
+153
+00:05:27,360 --> 00:05:31,199
+and educate the person who's trying to
+
+154
+00:05:29,680 --> 00:05:32,880
+buy your product who's interested in it
+
+155
+00:05:31,199 --> 00:05:34,720
+and work with them to sort of build this
+
+156
+00:05:32,880 --> 00:05:36,400
+value case together? And then whatever
+
+157
+00:05:34,720 --> 00:05:39,120
+that value is, your price should be
+
+158
+00:05:36,400 --> 00:05:41,280
+about a quarter, two or one/3 of that so
+
+159
+00:05:39,120 --> 00:05:45,000
+that they get the ROI number on top for
+
+160
+00:05:41,280 --> 00:05:45,000
+the remaining three quarters.
+
+161
+00:05:45,360 --> 00:05:51,759
+The real sort of key to our series B was
+
+162
+00:05:48,560 --> 00:05:54,400
+proving that we could repeatably switch
+
+163
+00:05:51,759 --> 00:05:57,360
+customers off of the status quo in
+
+164
+00:05:54,400 --> 00:06:00,320
+privacy, which is incredibly manual
+
+165
+00:05:57,360 --> 00:06:02,880
+operational work where data owners are
+
+166
+00:06:00,320 --> 00:06:05,520
+consistently being interviewed, asked to
+
+167
+00:06:02,880 --> 00:06:07,360
+manually operate on one individual's
+
+168
+00:06:05,520 --> 00:06:10,000
+data when that individual asks to be
+
+169
+00:06:07,360 --> 00:06:13,199
+deleted. And that is the status quo sort
+
+170
+00:06:10,000 --> 00:06:15,440
+of encoded by legacy incumbent software.
+
+171
+00:06:13,199 --> 00:06:18,720
+The real bet at our series A was like,
+
+172
+00:06:15,440 --> 00:06:20,319
+can we repeatably show that we can take
+
+173
+00:06:18,720 --> 00:06:22,720
+market share? Is there a long-term
+
+174
+00:06:20,319 --> 00:06:24,960
+outcome where transcend takes that sort
+
+175
+00:06:22,720 --> 00:06:27,120
+of top spot in the market? And so our
+
+176
+00:06:24,960 --> 00:06:29,199
+series A to our series B was really all
+
+177
+00:06:27,120 --> 00:06:31,919
+about building our sales team, scaling
+
+178
+00:06:29,199 --> 00:06:33,840
+up marketing operation, and really like
+
+179
+00:06:31,919 --> 00:06:36,160
+delivering a customer experience that
+
+180
+00:06:33,840 --> 00:06:38,400
+customers would be happy to sort of like
+
+181
+00:06:36,160 --> 00:06:39,919
+do case studies and and sort of shout
+
+182
+00:06:38,400 --> 00:06:41,360
+shout about us from the rooftops and
+
+183
+00:06:39,919 --> 00:06:43,199
+tell their friends to switch as well.
+
+184
+00:06:41,360 --> 00:06:45,680
+And so we we we really tracked like
+
+185
+00:06:43,199 --> 00:06:48,240
+milestones around like uh our win rate
+
+186
+00:06:45,680 --> 00:06:49,600
+against uh the incumbent competitor and
+
+187
+00:06:48,240 --> 00:06:50,960
+if we could get it to a certain number
+
+188
+00:06:49,600 --> 00:06:53,039
+we thought that would be really critical
+
+189
+00:06:50,960 --> 00:06:54,960
+for our series B story and ultimately
+
+190
+00:06:53,039 --> 00:06:56,400
+kind of like help unstick the market
+
+191
+00:06:54,960 --> 00:06:58,240
+that felt like it was kind of like
+
+192
+00:06:56,400 --> 00:07:00,800
+turning into a bit of a cottage industry
+
+193
+00:06:58,240 --> 00:07:02,560
+around this this sort of status quo way
+
+194
+00:07:00,800 --> 00:07:05,120
+of doing things. And so we we really
+
+195
+00:07:02,560 --> 00:07:08,560
+kind of like had a metric driven process
+
+196
+00:07:05,120 --> 00:07:10,960
+against that and just executed really
+
+197
+00:07:08,560 --> 00:07:12,880
+really well on that plan. So that at the
+
+198
+00:07:10,960 --> 00:07:15,520
+series B we could tell the full story of
+
+199
+00:07:12,880 --> 00:07:18,080
+customers are making this like mass
+
+200
+00:07:15,520 --> 00:07:18,080
+migration
+
+201
+00:07:19,800 --> 00:07:26,080
+switch. The current trend in privacy
+
+202
+00:07:22,639 --> 00:07:29,280
+right now is first governance of AI
+
+203
+00:07:26,080 --> 00:07:31,360
+systems. There is a sort of mad dash
+
+204
+00:07:29,280 --> 00:07:35,199
+inside every business right now to adopt
+
+205
+00:07:31,360 --> 00:07:38,720
+AI and part of that is uh compiling all
+
+206
+00:07:35,199 --> 00:07:40,960
+of the data into a format uh that can be
+
+207
+00:07:38,720 --> 00:07:42,479
+leveraged for the purpose of AI for the
+
+208
+00:07:40,960 --> 00:07:44,880
+those who are technical these are like
+
+209
+00:07:42,479 --> 00:07:47,680
+vector databases and building embeddings
+
+210
+00:07:44,880 --> 00:07:50,080
+but there are very few guard rails
+
+211
+00:07:47,680 --> 00:07:51,599
+around any of these systems and the way
+
+212
+00:07:50,080 --> 00:07:54,479
+that you know perhaps personal
+
+213
+00:07:51,599 --> 00:07:57,520
+information may be processed on one hand
+
+214
+00:07:54,479 --> 00:08:00,160
+there's the way that personal data is
+
+215
+00:07:57,520 --> 00:08:02,240
+being used uh in AI systems and then on
+
+216
+00:08:00,160 --> 00:08:05,199
+the other there's the way that AI
+
+217
+00:08:02,240 --> 00:08:08,160
+systems may be impacting individuals so
+
+218
+00:08:05,199 --> 00:08:10,000
+like bias and harm fairness uh
+
+219
+00:08:08,160 --> 00:08:12,720
+particularly when AI systems are being
+
+220
+00:08:10,000 --> 00:08:16,400
+used for decision-m and so the most
+
+221
+00:08:12,720 --> 00:08:19,599
+recent kind of landmark regulation was
+
+222
+00:08:16,400 --> 00:08:21,840
+the AI act in Europe many businesses are
+
+223
+00:08:19,599 --> 00:08:24,560
+trying to understand how they're using
+
+224
+00:08:21,840 --> 00:08:26,800
+AI put processes in place around
+
+225
+00:08:24,560 --> 00:08:29,120
+ensuring that the guard rails are in
+
+226
+00:08:26,800 --> 00:08:32,240
+place or that they've appropriately
+
+227
+00:08:29,120 --> 00:08:34,320
+assessed the impacts of using that AI.
+
+228
+00:08:32,240 --> 00:08:37,680
+And so that's certainly a current trend
+
+229
+00:08:34,320 --> 00:08:40,560
+in uh privacy today. And one of the
+
+230
+00:08:37,680 --> 00:08:42,800
+effects of that a lot of the people who
+
+231
+00:08:40,560 --> 00:08:45,920
+became like the chief privacy officer
+
+232
+00:08:42,800 --> 00:08:48,880
+are going through a title change uh and
+
+233
+00:08:45,920 --> 00:08:52,560
+sort of role and scope change to also be
+
+234
+00:08:48,880 --> 00:08:53,680
+the owner of AI governance. Uh and a lot
+
+235
+00:08:52,560 --> 00:08:55,600
+of companies are saying kind of like
+
+236
+00:08:53,680 --> 00:08:57,600
+while we're at it, let's make it like
+
+237
+00:08:55,600 --> 00:09:00,959
+everything digital governance, all
+
+238
+00:08:57,600 --> 00:09:04,320
+regulatory policy, all governance of our
+
+239
+00:09:00,959 --> 00:09:06,560
+systems short of security. And that has
+
+240
+00:09:04,320 --> 00:09:08,320
+been like a big sort of industry shift.
+
+241
+00:09:06,560 --> 00:09:10,240
+The customers and the buyer, the the
+
+242
+00:09:08,320 --> 00:09:12,080
+people that we sell to are undergoing
+
+243
+00:09:10,240 --> 00:09:13,600
+just a massive sort of change in scope.
+
+244
+00:09:12,080 --> 00:09:16,480
+And so that's that's a really important
+
+245
+00:09:13,600 --> 00:09:19,120
+trend right now. And then like every day
+
+246
+00:09:16,480 --> 00:09:21,200
+there's something with in privacy that's
+
+247
+00:09:19,120 --> 00:09:22,880
+like wow that's a really creepy thing
+
+248
+00:09:21,200 --> 00:09:24,560
+and like or there'll be a data breach or
+
+249
+00:09:22,880 --> 00:09:26,640
+there'll be you know something that is
+
+250
+00:09:24,560 --> 00:09:30,320
+like always driving the news you know
+
+251
+00:09:26,640 --> 00:09:32,720
+the news meta sunglasses for example um
+
+252
+00:09:30,320 --> 00:09:35,760
+it took about like 3 days for someone at
+
+253
+00:09:32,720 --> 00:09:37,760
+uh some two kids at Harvard uh turn that
+
+254
+00:09:35,760 --> 00:09:40,160
+into a system which can like literally
+
+255
+00:09:37,760 --> 00:09:41,519
+just tell like find people's online
+
+256
+00:09:40,160 --> 00:09:43,680
+profiles as you walk down the street.
+
+257
+00:09:41,519 --> 00:09:45,760
+it's just like overlaying their like
+
+258
+00:09:43,680 --> 00:09:47,600
+name, LinkedIn, job title, just by
+
+259
+00:09:45,760 --> 00:09:50,080
+facial recognition. So there's like all
+
+260
+00:09:47,600 --> 00:09:52,800
+kinds of crazy stuff um just like in the
+
+261
+00:09:50,080 --> 00:09:56,800
+the the daily news. But categorically
+
+262
+00:09:52,800 --> 00:09:58,800
+the shift toward u AI governance and
+
+263
+00:09:56,800 --> 00:10:00,820
+this broadening sort of supererset of
+
+264
+00:09:58,800 --> 00:10:18,480
+privacy.
+
+265
+00:10:00,820 --> 00:10:19,880
+[Music]
+
+266
+00:10:18,480 --> 00:10:31,169
+What's up?
+
+267
+00:10:19,880 --> 00:10:31,169
+[Music]
+

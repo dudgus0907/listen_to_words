@@ -1,0 +1,1144 @@
+1
+00:00:00,040 --> 00:00:04,640
+too many of the same projects doing the
+
+2
+00:00:02,360 --> 00:00:07,439
+same thing just about money just about
+
+3
+00:00:04,640 --> 00:00:09,719
+Finance I think myself and my team wish
+
+4
+00:00:07,439 --> 00:00:11,519
+we didn't have to be associated with
+
+5
+00:00:09,719 --> 00:00:13,639
+most of the people in the industry what
+
+6
+00:00:11,519 --> 00:00:15,440
+you see when you go to conferences most
+
+7
+00:00:13,639 --> 00:00:17,600
+of what people are talking about is
+
+8
+00:00:15,440 --> 00:00:19,400
+either nonon or incredibly dull
+
+9
+00:00:17,600 --> 00:00:21,800
+development dollars could have been
+
+10
+00:00:19,400 --> 00:00:24,199
+better spent on improving the technology
+
+11
+00:00:21,800 --> 00:00:26,720
+blockchains need the ability to handle
+
+12
+00:00:24,199 --> 00:00:28,920
+much more data and more computation this
+
+13
+00:00:26,720 --> 00:00:30,679
+means that people can build rules that
+
+14
+00:00:28,920 --> 00:00:33,320
+say you wanted to create a truly
+
+15
+00:00:30,679 --> 00:00:35,160
+uncensorable Twitter a way to do this
+
+16
+00:00:33,320 --> 00:00:37,719
+would be using a blockchain but you
+
+17
+00:00:35,160 --> 00:00:39,920
+couldn't handle all of the users and
+
+18
+00:00:37,719 --> 00:00:41,920
+data so you need to take that do that
+
+19
+00:00:39,920 --> 00:00:44,360
+computation somewhere else if I could
+
+20
+00:00:41,920 --> 00:00:46,480
+Truly find the score of a two-player
+
+21
+00:00:44,360 --> 00:00:48,440
+matchup I can create a betting Market
+
+22
+00:00:46,480 --> 00:00:50,360
+between the world's largest Gamers
+
+23
+00:00:48,440 --> 00:00:52,879
+people started using Bitcoin in places
+
+24
+00:00:50,360 --> 00:00:54,399
+like Venezuela to hedge out insane
+
+25
+00:00:52,879 --> 00:00:55,960
+inflation there's not too much you want
+
+26
+00:00:54,399 --> 00:00:57,440
+to do actually on the blockchain there's
+
+27
+00:00:55,960 --> 00:00:59,239
+not too much you can do on the
+
+28
+00:00:57,440 --> 00:01:01,920
+blockchain hi my name is Hugo fillian
+
+29
+00:00:59,239 --> 00:01:04,320
+and a co- and CEO of flair Flair really
+
+30
+00:01:01,920 --> 00:01:07,080
+is the only blockchain which we describe
+
+31
+00:01:04,320 --> 00:01:08,920
+as third generation it enshrines data
+
+32
+00:01:07,080 --> 00:01:11,200
+directly into the chain first generation
+
+33
+00:01:08,920 --> 00:01:13,159
+being Bitcoin simple transactions second
+
+34
+00:01:11,200 --> 00:01:15,200
+generation being ethereum adding logic
+
+35
+00:01:13,159 --> 00:01:17,720
+to those transactions third generation
+
+36
+00:01:15,200 --> 00:01:20,079
+flare adding data to the logic has just
+
+37
+00:01:17,720 --> 00:01:22,600
+hit about a million wallet 100 to
+
+38
+00:01:20,079 --> 00:01:24,640
+150,000 daily active users so they're
+
+39
+00:01:22,600 --> 00:01:27,439
+bringing value from other blockchain
+
+40
+00:01:24,640 --> 00:01:29,159
+ecosystems to flare to be used on flare
+
+41
+00:01:27,439 --> 00:01:31,360
+with the data provision services that
+
+42
+00:01:29,159 --> 00:01:32,840
+are provided by FL within the blockchain
+
+43
+00:01:31,360 --> 00:01:34,640
+environment you shouldn't be doing
+
+44
+00:01:32,840 --> 00:01:36,399
+anything based on trust because you
+
+45
+00:01:34,640 --> 00:01:38,799
+don't know the counterparty and you
+
+46
+00:01:36,399 --> 00:01:40,799
+don't have any legal recourse
+
+47
+00:01:38,799 --> 00:01:43,119
+essentially what defi is doing today is
+
+48
+00:01:40,799 --> 00:01:45,479
+it's using a trust-based model which is
+
+49
+00:01:43,119 --> 00:01:48,040
+very similar to trafi except is that
+
+50
+00:01:45,479 --> 00:01:51,280
+trafy are bound by laws whereas an
+
+51
+00:01:48,040 --> 00:01:53,479
+oracle provider has no laws in order for
+
+52
+00:01:51,280 --> 00:01:55,759
+defi or any other application that
+
+53
+00:01:53,479 --> 00:01:58,560
+relies on data to be valid you need to
+
+54
+00:01:55,759 --> 00:02:01,479
+have a way to secure those oracles that
+
+55
+00:01:58,560 --> 00:02:03,960
+is clear open and provides a similar
+
+56
+00:02:01,479 --> 00:02:06,119
+sort of safety as the blockchain itself
+
+57
+00:02:03,960 --> 00:02:09,039
+we think the best way to do that is to
+
+58
+00:02:06,119 --> 00:02:13,599
+put the oracles fundamentally into the
+
+59
+00:02:09,039 --> 00:02:13,599
+chain bring defi actually
+
+60
+00:02:14,400 --> 00:02:18,800
+decentralized I grew up in London which
+
+61
+00:02:16,879 --> 00:02:21,239
+is pretty much the world's Financial
+
+62
+00:02:18,800 --> 00:02:24,040
+Center at the time when I was growing up
+
+63
+00:02:21,239 --> 00:02:25,959
+very small startup Community very little
+
+64
+00:02:24,040 --> 00:02:28,440
+technology Community the financial
+
+65
+00:02:25,959 --> 00:02:30,440
+markets were the only choice and
+
+66
+00:02:28,440 --> 00:02:32,160
+obviously a place where one could
+
+67
+00:02:30,440 --> 00:02:34,239
+potentially make large amounts of money
+
+68
+00:02:32,160 --> 00:02:36,400
+which is very interesting to think about
+
+69
+00:02:34,239 --> 00:02:38,440
+when you're 17 I suppose the
+
+70
+00:02:36,400 --> 00:02:40,280
+macroeconomic and that's always been a
+
+71
+00:02:38,440 --> 00:02:43,080
+things I like to think about so I
+
+72
+00:02:40,280 --> 00:02:45,000
+studied risk and financial engineering
+
+73
+00:02:43,080 --> 00:02:47,080
+worked at a number of hedge funds in
+
+74
+00:02:45,000 --> 00:02:48,840
+London after about 7 years I decided
+
+75
+00:02:47,080 --> 00:02:51,440
+that I was just trying to eek out
+
+76
+00:02:48,840 --> 00:02:53,920
+Financial returns in order to make uh
+
+77
+00:02:51,440 --> 00:02:56,120
+essentially myself richer so I left
+
+78
+00:02:53,920 --> 00:02:58,519
+Finance went studying machine learning
+
+79
+00:02:56,120 --> 00:03:00,239
+at UCL in London and that's where I met
+
+80
+00:02:58,519 --> 00:03:02,920
+my two co-founders and I knew knew I
+
+81
+00:03:00,239 --> 00:03:05,239
+probably wanted to be a founder and when
+
+82
+00:03:02,920 --> 00:03:07,640
+looking at machine learning it's heavily
+
+83
+00:03:05,239 --> 00:03:09,959
+dominated by very large companies and
+
+84
+00:03:07,640 --> 00:03:12,680
+therefore gives you no opportunity
+
+85
+00:03:09,959 --> 00:03:14,640
+really if you look at open AI he ran y
+
+86
+00:03:12,680 --> 00:03:17,519
+combinator I certainly didn't have
+
+87
+00:03:14,640 --> 00:03:19,200
+anywhere near his Network to do anything
+
+88
+00:03:17,519 --> 00:03:21,239
+in machine learning one of our
+
+89
+00:03:19,200 --> 00:03:23,519
+co-founders had built inter vehicle
+
+90
+00:03:21,239 --> 00:03:25,319
+Communications based on a distributed
+
+91
+00:03:23,519 --> 00:03:27,440
+Network like Bitcoin and I'd had some
+
+92
+00:03:25,319 --> 00:03:29,360
+exposure to blockchain from people I
+
+93
+00:03:27,440 --> 00:03:31,519
+knew in the financial Community
+
+94
+00:03:29,360 --> 00:03:34,159
+ultimately it was a very interesting
+
+95
+00:03:31,519 --> 00:03:36,040
+idea to me that we could do everything
+
+96
+00:03:34,159 --> 00:03:38,760
+especially Financial things without
+
+97
+00:03:36,040 --> 00:03:39,760
+having to care about the counterparty
+
+98
+00:03:38,760 --> 00:03:42,239
+and I think that was one of the
+
+99
+00:03:39,760 --> 00:03:44,439
+fundamental reasons why blockchain at
+
+100
+00:03:42,239 --> 00:03:47,480
+the time and still does promising
+
+101
+00:03:44,439 --> 00:03:49,920
+technology so we started flare in 2018
+
+102
+00:03:47,480 --> 00:03:53,159
+and we had a very small office in the
+
+103
+00:03:49,920 --> 00:03:55,079
+basement someone's photography studio
+
+104
+00:03:53,159 --> 00:03:57,519
+but as we were a team of three I think
+
+105
+00:03:55,079 --> 00:03:59,920
+one and a half desks at the time they
+
+106
+00:03:57,519 --> 00:04:01,599
+didn't enjoy the benefit on ethereum of
+
+107
+00:03:59,920 --> 00:04:03,879
+smart contract essentially the largest
+
+108
+00:04:01,599 --> 00:04:05,680
+source of Bitcoin was know as wrapped
+
+109
+00:04:03,879 --> 00:04:08,280
+Bitcoin which is managed through a
+
+110
+00:04:05,680 --> 00:04:10,239
+custodian essentially antithetical to
+
+111
+00:04:08,280 --> 00:04:12,280
+the concept of Bitcoin meaning you're
+
+112
+00:04:10,239 --> 00:04:13,879
+relying on a middleman in order to use
+
+113
+00:04:12,280 --> 00:04:16,239
+your Bitcoin on a smart contract
+
+114
+00:04:13,879 --> 00:04:19,079
+platform we started looking at okay well
+
+115
+00:04:16,239 --> 00:04:21,079
+how can we get the data around Bitcoin
+
+116
+00:04:19,079 --> 00:04:23,280
+we devised the protocols to be able to
+
+117
+00:04:21,079 --> 00:04:25,560
+get that data from Bitcoin to build a
+
+118
+00:04:23,280 --> 00:04:28,560
+bridge that is over collateralized
+
+119
+00:04:25,560 --> 00:04:31,039
+meaning it has more value securing it
+
+120
+00:04:28,560 --> 00:04:33,120
+than than the amount of Bitcoin that has
+
+121
+00:04:31,039 --> 00:04:34,919
+been bridged using that bridge and in
+
+122
+00:04:33,120 --> 00:04:37,120
+order to do that we needed price so we
+
+123
+00:04:34,919 --> 00:04:39,039
+ended up with these two data protocols
+
+124
+00:04:37,120 --> 00:04:41,440
+the first being a protocol that allows
+
+125
+00:04:39,039 --> 00:04:43,479
+you to quickly and securely get data
+
+126
+00:04:41,440 --> 00:04:45,280
+from another blockchain and also to be
+
+127
+00:04:43,479 --> 00:04:47,160
+able to prove that a particular thing
+
+128
+00:04:45,280 --> 00:04:49,800
+hasn't happened on that blockchain and
+
+129
+00:04:47,160 --> 00:04:49,800
+that's pretty
+
+130
+00:04:52,080 --> 00:04:56,720
+key so originally we designed the data
+
+131
+00:04:55,080 --> 00:04:58,600
+protocol just to be able to build this
+
+132
+00:04:56,720 --> 00:05:00,240
+bridge for Bitcoin ultimately we very
+
+133
+00:04:58,600 --> 00:05:01,680
+quickly realize that there those data
+
+134
+00:05:00,240 --> 00:05:03,360
+Protocols are much more interesting that
+
+135
+00:05:01,680 --> 00:05:05,800
+we could bring in data from any open
+
+136
+00:05:03,360 --> 00:05:07,600
+system pretty much any system in a
+
+137
+00:05:05,800 --> 00:05:09,720
+decentralized way that's the key point
+
+138
+00:05:07,600 --> 00:05:10,960
+it's decentralized and it has security
+
+139
+00:05:09,720 --> 00:05:12,960
+so this allows you to do everything you
+
+140
+00:05:10,960 --> 00:05:14,639
+can do in defi today but with Flare
+
+141
+00:05:12,960 --> 00:05:16,440
+that's just the first step what really
+
+142
+00:05:14,639 --> 00:05:18,440
+interests me is then okay what can we
+
+143
+00:05:16,440 --> 00:05:21,039
+build with that this means that people
+
+144
+00:05:18,440 --> 00:05:22,960
+can build rules of an application
+
+145
+00:05:21,039 --> 00:05:25,520
+they're building second aspect is then
+
+146
+00:05:22,960 --> 00:05:27,840
+for us off chain compute far more data
+
+147
+00:05:25,520 --> 00:05:29,160
+from other sources than can be used by
+
+148
+00:05:27,840 --> 00:05:31,479
+the chain so where are you going to use
+
+149
+00:05:29,160 --> 00:05:32,840
+that very very large amounts of data
+
+150
+00:05:31,479 --> 00:05:34,960
+that you need to be able to use that off
+
+151
+00:05:32,840 --> 00:05:36,680
+chain in order to build applications so
+
+152
+00:05:34,960 --> 00:05:38,720
+I think the blockchain today is at the
+
+153
+00:05:36,680 --> 00:05:40,639
+limit more or less of what can be built
+
+154
+00:05:38,720 --> 00:05:41,960
+until you add in further compute and
+
+155
+00:05:40,639 --> 00:05:43,720
+that's when we can start building
+
+156
+00:05:41,960 --> 00:05:46,520
+applications that people actually want
+
+157
+00:05:43,720 --> 00:05:48,960
+to use so for me the first and most
+
+158
+00:05:46,520 --> 00:05:51,880
+interesting thing to do is genuinely
+
+159
+00:05:48,960 --> 00:05:54,639
+decentralize and make uncensorable
+
+160
+00:05:51,880 --> 00:05:57,280
+social media or news platforms or video
+
+161
+00:05:54,639 --> 00:05:59,720
+platforms we see an increasing set of
+
+162
+00:05:57,280 --> 00:06:01,680
+issues in the world where there is very
+
+163
+00:05:59,720 --> 00:06:04,039
+High censorship where people are
+
+164
+00:06:01,680 --> 00:06:06,039
+struggling to express their opinion
+
+165
+00:06:04,039 --> 00:06:07,880
+another set of application is around
+
+166
+00:06:06,039 --> 00:06:09,440
+gaming ultimately the experience the
+
+167
+00:06:07,880 --> 00:06:13,000
+blockchain has offered to gaming has
+
+168
+00:06:09,440 --> 00:06:15,280
+been so inferior to the web 2 or
+
+169
+00:06:13,000 --> 00:06:17,800
+existing gaming product it really hasn't
+
+170
+00:06:15,280 --> 00:06:19,840
+taken a tool but there are interesting
+
+171
+00:06:17,800 --> 00:06:22,160
+things you can do when you essentially
+
+172
+00:06:19,840 --> 00:06:24,160
+financialized components around gaming
+
+173
+00:06:22,160 --> 00:06:26,680
+if I can truly understand what has
+
+174
+00:06:24,160 --> 00:06:29,800
+happened at in each computational step
+
+175
+00:06:26,680 --> 00:06:32,360
+of a game then I can give people skins I
+
+176
+00:06:29,800 --> 00:06:34,120
+can give people asset based on exactly
+
+177
+00:06:32,360 --> 00:06:36,479
+what they've done and those assets can
+
+178
+00:06:34,120 --> 00:06:38,840
+be real and tradable as opposed to
+
+179
+00:06:36,479 --> 00:06:41,280
+Simply ingame I do have a third thing
+
+180
+00:06:38,840 --> 00:06:43,919
+there suppose the last area that really
+
+181
+00:06:41,280 --> 00:06:45,919
+interests us as a team uh is probably
+
+182
+00:06:43,919 --> 00:06:47,840
+machine learning or as most people call
+
+183
+00:06:45,919 --> 00:06:50,560
+it artificial intelligent there are some
+
+184
+00:06:47,840 --> 00:06:52,800
+very interesting things you can do with
+
+185
+00:06:50,560 --> 00:06:54,000
+distribution of users again there's a
+
+186
+00:06:52,800 --> 00:06:55,400
+there's not too much you want to do
+
+187
+00:06:54,000 --> 00:06:57,520
+actually on the blockchain there's not
+
+188
+00:06:55,400 --> 00:06:59,720
+too much you can do on the blockchain I
+
+189
+00:06:57,520 --> 00:07:02,240
+suppos the decentralized and
+
+190
+00:06:59,720 --> 00:07:04,479
+economically secure substrate of a
+
+191
+00:07:02,240 --> 00:07:06,919
+blockchain provides a very interesting
+
+192
+00:07:04,479 --> 00:07:09,759
+place for machine learning to be
+
+193
+00:07:06,919 --> 00:07:12,919
+expanded and to be made safer through
+
+194
+00:07:09,759 --> 00:07:12,919
+having multiple
+
+195
+00:07:15,680 --> 00:07:21,000
+participants some people may believe
+
+196
+00:07:18,039 --> 00:07:23,280
+that Bitcoin shouldn't have value and I
+
+197
+00:07:21,000 --> 00:07:25,120
+understand that mentality you have to
+
+198
+00:07:23,280 --> 00:07:27,000
+differentiate between the technology and
+
+199
+00:07:25,120 --> 00:07:29,360
+the value it has some logic to it
+
+200
+00:07:27,000 --> 00:07:32,440
+Bitcoin is only backed by hashing power
+
+201
+00:07:29,360 --> 00:07:35,039
+in it's not by the ability to Levy taxes
+
+202
+00:07:32,440 --> 00:07:37,120
+nor is it backed by the ability to force
+
+203
+00:07:35,039 --> 00:07:39,160
+other people to use your medium of
+
+204
+00:07:37,120 --> 00:07:41,199
+exchange Bitcoin doesn't have either of
+
+205
+00:07:39,160 --> 00:07:43,039
+those two things but perhaps it has one
+
+206
+00:07:41,199 --> 00:07:45,000
+other thing rather than forcing people
+
+207
+00:07:43,039 --> 00:07:47,479
+to use your medium of exchange but to
+
+208
+00:07:45,000 --> 00:07:48,840
+get them to voluntarily use it and
+
+209
+00:07:47,479 --> 00:07:50,520
+that's interesting but you'll never
+
+210
+00:07:48,840 --> 00:07:52,440
+convinc people that don't want to be
+
+211
+00:07:50,520 --> 00:07:54,879
+convinced especially as an awful lot of
+
+212
+00:07:52,440 --> 00:07:57,240
+people have a reason a financial reason
+
+213
+00:07:54,879 --> 00:07:59,680
+not to be convinced about that thing if
+
+214
+00:07:57,240 --> 00:08:02,199
+you take away the it's a monetary asset
+
+215
+00:07:59,680 --> 00:08:04,240
+side of the equation it's fairly nent
+
+216
+00:08:02,199 --> 00:08:07,000
+technology I think being able to
+
+217
+00:08:04,240 --> 00:08:09,400
+distribute computation and consensus
+
+218
+00:08:07,000 --> 00:08:12,039
+will become more and more useful over
+
+219
+00:08:09,400 --> 00:08:15,240
+time essentially there is value in being
+
+220
+00:08:12,039 --> 00:08:17,639
+able to come to consensus cross some
+
+221
+00:08:15,240 --> 00:08:19,960
+item of data across various different
+
+222
+00:08:17,639 --> 00:08:21,440
+vertical you know our biggest space the
+
+223
+00:08:19,960 --> 00:08:23,560
+space we're most interested in
+
+224
+00:08:21,440 --> 00:08:25,879
+researching thinking about is around the
+
+225
+00:08:23,560 --> 00:08:28,879
+outputs of machine learning models
+
+226
+00:08:25,879 --> 00:08:33,120
+probably provides the answer to what is
+
+227
+00:08:28,879 --> 00:08:35,760
+blockchain useful for my exposure to
+
+228
+00:08:33,120 --> 00:08:38,320
+finance was really post the large
+
+229
+00:08:35,760 --> 00:08:41,240
+financial crisis the ideas around what
+
+230
+00:08:38,320 --> 00:08:43,680
+something is worth fall apart when
+
+231
+00:08:41,240 --> 00:08:46,360
+currency is printed people were making
+
+232
+00:08:43,680 --> 00:08:48,959
+trades based on an expectation of
+
+233
+00:08:46,360 --> 00:08:51,560
+government action rather than based on
+
+234
+00:08:48,959 --> 00:08:54,680
+any fundamental strength in the economy
+
+235
+00:08:51,560 --> 00:08:57,920
+the sort of large excess of capital that
+
+236
+00:08:54,680 --> 00:08:59,680
+was put into the markets host the GFC
+
+237
+00:08:57,920 --> 00:09:02,120
+really led to a position where where
+
+238
+00:08:59,680 --> 00:09:03,720
+valuations were massively out of whack
+
+239
+00:09:02,120 --> 00:09:07,640
+and so when you spend your days thinking
+
+240
+00:09:03,720 --> 00:09:10,040
+about the idea of taking the fundamental
+
+241
+00:09:07,640 --> 00:09:11,839
+thing that values assets is a very
+
+242
+00:09:10,040 --> 00:09:14,240
+interesting thing because it removes
+
+243
+00:09:11,839 --> 00:09:16,279
+that ability of a group of people to
+
+244
+00:09:14,240 --> 00:09:18,920
+pervert essentially the entire
+
+245
+00:09:16,279 --> 00:09:21,040
+transmission mechanisms of all financial
+
+246
+00:09:18,920 --> 00:09:23,200
+markets and that's what has happened the
+
+247
+00:09:21,040 --> 00:09:26,200
+idea that could be a technology that
+
+248
+00:09:23,200 --> 00:09:28,040
+removes that from the equation is very
+
+249
+00:09:26,200 --> 00:09:30,160
+very appealing people started using
+
+250
+00:09:28,040 --> 00:09:32,680
+Bitcoin in places like Venezuela to
+
+251
+00:09:30,160 --> 00:09:35,360
+hedge out insane inflation that was
+
+252
+00:09:32,680 --> 00:09:37,519
+collapsing their currency crypto broadly
+
+253
+00:09:35,360 --> 00:09:39,519
+has solved the question of how can I
+
+254
+00:09:37,519 --> 00:09:42,040
+move dollars across the world really
+
+255
+00:09:39,519 --> 00:09:44,640
+quickly and easily without having to
+
+256
+00:09:42,040 --> 00:09:46,480
+enter an iban the defi that is built
+
+257
+00:09:44,640 --> 00:09:48,640
+fundamentally around essentially a
+
+258
+00:09:46,480 --> 00:09:50,800
+dollar based stable coin system and
+
+259
+00:09:48,640 --> 00:09:52,399
+Native tokens because that's essentially
+
+260
+00:09:50,800 --> 00:09:55,800
+what defi is and I think that could
+
+261
+00:09:52,399 --> 00:09:58,360
+expand as people use crypto tokens more
+
+262
+00:09:55,800 --> 00:10:01,519
+whether it be stable coins or the native
+
+263
+00:09:58,360 --> 00:10:04,160
+so if we're lucky flare will be one of
+
+264
+00:10:01,519 --> 00:10:06,680
+the key components in how people use
+
+265
+00:10:04,160 --> 00:10:08,920
+data on blockchains that's what we're
+
+266
+00:10:06,680 --> 00:10:11,800
+building that's essentially where we're
+
+267
+00:10:08,920 --> 00:10:14,279
+going we're not a smart contract project
+
+268
+00:10:11,800 --> 00:10:16,480
+focused on Ripple we have a much much
+
+269
+00:10:14,279 --> 00:10:19,200
+larger ambition and that ambition
+
+270
+00:10:16,480 --> 00:10:22,120
+revolves around data and offchain comput
+
+271
+00:10:19,200 --> 00:10:25,000
+so in 5 years time I'd like to see a
+
+272
+00:10:22,120 --> 00:10:27,720
+non-trivial percentage of the data that
+
+273
+00:10:25,000 --> 00:10:29,680
+is used in blockchain being sourced from
+
+274
+00:10:27,720 --> 00:10:31,680
+Flair regardless of whether it's being
+
+275
+00:10:29,680 --> 00:10:33,560
+used on flare as a chain or whether it's
+
+276
+00:10:31,680 --> 00:10:35,720
+being used on ethereum or any other new
+
+277
+00:10:33,560 --> 00:10:38,399
+chain that comes up success to me would
+
+278
+00:10:35,720 --> 00:10:42,120
+be that the data came from flare moved
+
+279
+00:10:38,399 --> 00:10:44,760
+from flare in 5 years it's feasible that
+
+280
+00:10:42,120 --> 00:10:47,560
+our offchain compute strategy could
+
+281
+00:10:44,760 --> 00:10:50,959
+result in applications that go Way
+
+282
+00:10:47,560 --> 00:10:53,399
+Beyond defi Way Beyond having value for
+
+283
+00:10:50,959 --> 00:10:56,040
+speculative reasons and much more
+
+284
+00:10:53,399 --> 00:10:58,440
+involved in people's daytoday lives
+
+285
+00:10:56,040 --> 00:11:02,279
+because it's a valuable application in
+
+286
+00:10:58,440 --> 00:11:02,279
+and of itself for
+

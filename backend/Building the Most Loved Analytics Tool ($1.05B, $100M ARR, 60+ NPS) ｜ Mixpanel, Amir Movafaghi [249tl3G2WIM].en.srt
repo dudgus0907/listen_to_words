@@ -1,0 +1,1904 @@
+1
+00:00:00,080 --> 00:00:05,080
+at one point mixpanel we were turning
+
+2
+00:00:02,760 --> 00:00:08,120
+almost half of our customers every year
+
+3
+00:00:05,080 --> 00:00:10,240
+and it was this place where as a company
+
+4
+00:00:08,120 --> 00:00:11,799
+that's growing fast you know in some
+
+5
+00:00:10,240 --> 00:00:14,920
+ways that can that metric can be
+
+6
+00:00:11,799 --> 00:00:17,680
+overlooked but in many ways it was a
+
+7
+00:00:14,920 --> 00:00:20,279
+time where we really came together and
+
+8
+00:00:17,680 --> 00:00:22,960
+said look turning half the customers is
+
+9
+00:00:20,279 --> 00:00:25,320
+a major major problem in that we are
+
+10
+00:00:22,960 --> 00:00:27,519
+clearly not driving and delivering the
+
+11
+00:00:25,320 --> 00:00:29,039
+value as a company that we need to and
+
+12
+00:00:27,519 --> 00:00:30,920
+even though you know we we're still
+
+13
+00:00:29,039 --> 00:00:33,280
+growing we have to go back and address
+
+14
+00:00:30,920 --> 00:00:35,840
+churn but the reality was much more
+
+15
+00:00:33,280 --> 00:00:38,160
+complicated and nuanced it so happened
+
+16
+00:00:35,840 --> 00:00:40,800
+that there wasn't one answer you it
+
+17
+00:00:38,160 --> 00:00:42,600
+wasn't one thing it was a set of a bunch
+
+18
+00:00:40,800 --> 00:00:44,120
+of different things that we needed to do
+
+19
+00:00:42,600 --> 00:00:46,320
+and so that's where our journey began
+
+20
+00:00:44,120 --> 00:00:48,120
+and we literally made a you know a
+
+21
+00:00:46,320 --> 00:00:50,160
+series of categories of different
+
+22
+00:00:48,120 --> 00:00:51,520
+priorities we had a series of things
+
+23
+00:00:50,160 --> 00:00:54,559
+that we were going to go out and and
+
+24
+00:00:51,520 --> 00:00:57,480
+Tackle uh and everyone the company from
+
+25
+00:00:54,559 --> 00:01:00,800
+go to market to epd sort of had this
+
+26
+00:00:57,480 --> 00:01:04,159
+core mission to go out and get this done
+
+27
+00:01:00,800 --> 00:01:05,960
+and the result was really incredible and
+
+28
+00:01:04,159 --> 00:01:08,200
+by the time we did our series C we were
+
+29
+00:01:05,960 --> 00:01:11,000
+at 50 and this past spring we almost
+
+30
+00:01:08,200 --> 00:01:13,280
+touched 60 which is really like now kind
+
+31
+00:01:11,000 --> 00:01:15,520
+of consumer grade category and then
+
+32
+00:01:13,280 --> 00:01:16,840
+retention went from you know 50 to close
+
+33
+00:01:15,520 --> 00:01:20,200
+to
+
+34
+00:01:16,840 --> 00:01:22,920
+90% hello my name is uh Amir moaf fagi
+
+35
+00:01:20,200 --> 00:01:25,079
+I'm the CEO here at mixpanel we are an
+
+36
+00:01:22,920 --> 00:01:27,439
+event-based analytics company currently
+
+37
+00:01:25,079 --> 00:01:29,640
+have 9,000 customers globally
+
+38
+00:01:27,439 --> 00:01:31,799
+distributed company crossed the 100
+
+39
+00:01:29,640 --> 00:01:34,000
+million in Revenue a little less than a
+
+40
+00:01:31,799 --> 00:01:36,200
+couple of years ago we're super proud to
+
+41
+00:01:34,000 --> 00:01:38,759
+have our uh one other metric that we
+
+42
+00:01:36,200 --> 00:01:42,439
+disclos in our customer MPS being almost
+
+43
+00:01:38,759 --> 00:01:42,439
+a consumer grade approaching
+
+44
+00:01:42,490 --> 00:01:45,670
+[Music]
+
+45
+00:01:47,719 --> 00:01:54,000
+60 I was born in uh in tan in Iran I
+
+46
+00:01:51,360 --> 00:01:55,479
+spent 7even years in Istanbul Turkey so
+
+47
+00:01:54,000 --> 00:01:56,880
+I spent a good number of years there we
+
+48
+00:01:55,479 --> 00:01:58,600
+moved there when I was about eight and
+
+49
+00:01:56,880 --> 00:02:02,000
+then I came to United States when I was
+
+50
+00:01:58,600 --> 00:02:04,560
+15 when I was uh going through graduate
+
+51
+00:02:02,000 --> 00:02:07,280
+school it was a time when financial
+
+52
+00:02:04,560 --> 00:02:09,840
+crisis had hit in New York it was right
+
+53
+00:02:07,280 --> 00:02:12,040
+at the the beginning of where social
+
+54
+00:02:09,840 --> 00:02:14,680
+platforms were coming online and
+
+55
+00:02:12,040 --> 00:02:17,280
+Uprising uh in Iran I couldn't get a
+
+56
+00:02:14,680 --> 00:02:19,280
+hold of my parents because all the phone
+
+57
+00:02:17,280 --> 00:02:21,519
+lines were were shut down and you know
+
+58
+00:02:19,280 --> 00:02:24,959
+email was not working and at the time
+
+59
+00:02:21,519 --> 00:02:26,720
+Twitter was the only uh uh platform that
+
+60
+00:02:24,959 --> 00:02:29,120
+was uh really reporting what was
+
+61
+00:02:26,720 --> 00:02:31,120
+happening on the ground in ton and it
+
+62
+00:02:29,120 --> 00:02:33,239
+was this sort of like incredible moment
+
+63
+00:02:31,120 --> 00:02:35,400
+of realizing just how powerful the
+
+64
+00:02:33,239 --> 00:02:37,360
+social platforms were becoming at that
+
+65
+00:02:35,400 --> 00:02:39,720
+point it was such a personal attachment
+
+66
+00:02:37,360 --> 00:02:42,959
+to the product that was my lead in to
+
+67
+00:02:39,720 --> 00:02:45,519
+Tech so I joined Twitter in 2010 when I
+
+68
+00:02:42,959 --> 00:02:48,239
+joined a company we were about a little
+
+69
+00:02:45,519 --> 00:02:51,200
+over 100 employees we were pre-ad
+
+70
+00:02:48,239 --> 00:02:53,720
+Revenue it was a extraordinarily
+
+71
+00:02:51,200 --> 00:02:55,920
+exciting time even Twitter at its height
+
+72
+00:02:53,720 --> 00:02:57,480
+of success every 6 months was like a
+
+73
+00:02:55,920 --> 00:02:59,280
+completely different company you had
+
+74
+00:02:57,480 --> 00:03:01,040
+this company that you would wake up you
+
+75
+00:02:59,280 --> 00:03:03,000
+all of a sudden had an ad product that
+
+76
+00:03:01,040 --> 00:03:04,440
+failed you kind of had a moment of
+
+77
+00:03:03,000 --> 00:03:06,720
+having to really kind of have these
+
+78
+00:03:04,440 --> 00:03:08,200
+moments of existential crisis right hey
+
+79
+00:03:06,720 --> 00:03:09,840
+are we going to have you are we going to
+
+80
+00:03:08,200 --> 00:03:10,920
+have a company you know in 6 months is
+
+81
+00:03:09,840 --> 00:03:12,760
+there going to be are we going to be
+
+82
+00:03:10,920 --> 00:03:15,560
+able to make it to the other side in a
+
+83
+00:03:12,760 --> 00:03:17,799
+lot of ways the way that we go through
+
+84
+00:03:15,560 --> 00:03:20,400
+and fix things together as a team is
+
+85
+00:03:17,799 --> 00:03:23,120
+this ability to really come together on
+
+86
+00:03:20,400 --> 00:03:25,000
+a core problem and we understand why we
+
+87
+00:03:23,120 --> 00:03:27,080
+are focusing on what we're focusing we
+
+88
+00:03:25,000 --> 00:03:28,840
+have Clarity around what objective and
+
+89
+00:03:27,080 --> 00:03:31,239
+what outcome we're trying to get to and
+
+90
+00:03:28,840 --> 00:03:32,959
+then we're flexible about the how right
+
+91
+00:03:31,239 --> 00:03:34,959
+and we're able to take feedback along
+
+92
+00:03:32,959 --> 00:03:36,840
+the way from our customers from our
+
+93
+00:03:34,959 --> 00:03:39,040
+peers from our board you know from
+
+94
+00:03:36,840 --> 00:03:41,400
+everybody investors like we are able to
+
+95
+00:03:39,040 --> 00:03:43,480
+learn and understand and then iterate
+
+96
+00:03:41,400 --> 00:03:45,360
+and then hold ourselves accountable to
+
+97
+00:03:43,480 --> 00:03:48,239
+these outcomes so I think fixing
+
+98
+00:03:45,360 --> 00:03:50,319
+problems at its core comes down to First
+
+99
+00:03:48,239 --> 00:03:52,760
+really centering oursel on why this
+
+100
+00:03:50,319 --> 00:03:55,360
+matters why it takes precedent priority
+
+101
+00:03:52,760 --> 00:03:57,760
+over the 99 other problems you have and
+
+102
+00:03:55,360 --> 00:03:59,599
+then rallying and inspiring people to
+
+103
+00:03:57,760 --> 00:04:01,319
+really get in have Clarity on how they
+
+104
+00:03:59,599 --> 00:04:04,760
+can make an impact and difference on
+
+105
+00:04:01,319 --> 00:04:08,959
+that Journey when I left Twitter we had
+
+106
+00:04:04,760 --> 00:04:12,319
+grown from nearly 100 employees to 4,500
+
+107
+00:04:08,959 --> 00:04:14,959
+employees it was from close to zero to
+
+108
+00:04:12,319 --> 00:04:17,239
+you 2 billion in Revenue it was um
+
+109
+00:04:14,959 --> 00:04:19,880
+phenomenal incredible growth that
+
+110
+00:04:17,239 --> 00:04:24,000
+happened during that time biggest lesson
+
+111
+00:04:19,880 --> 00:04:26,160
+was the impact that user experience had
+
+112
+00:04:24,000 --> 00:04:28,960
+on the success of the company and this
+
+113
+00:04:26,160 --> 00:04:31,400
+Obsession around delivering a better
+
+114
+00:04:28,960 --> 00:04:34,639
+product a better user experience and
+
+115
+00:04:31,400 --> 00:04:37,360
+sort of like a in a way having that as a
+
+116
+00:04:34,639 --> 00:04:39,120
+leading path into better monetization
+
+117
+00:04:37,360 --> 00:04:42,000
+and better growth companies in
+
+118
+00:04:39,120 --> 00:04:44,400
+Enterprise software have invested quite
+
+119
+00:04:42,000 --> 00:04:47,280
+a bit on technology you know better
+
+120
+00:04:44,400 --> 00:04:50,199
+utility building a better technology as
+
+121
+00:04:47,280 --> 00:04:52,400
+like a first order of business being
+
+122
+00:04:50,199 --> 00:04:54,919
+part of Twitter it was getting a lot
+
+123
+00:04:52,400 --> 00:04:57,440
+more closer to just how much the
+
+124
+00:04:54,919 --> 00:04:59,960
+significance of making sure that you're
+
+125
+00:04:57,440 --> 00:05:02,039
+always thinking of the user the customer
+
+126
+00:04:59,960 --> 00:05:03,960
+first before you go figure out
+
+127
+00:05:02,039 --> 00:05:06,560
+everything else because without the
+
+128
+00:05:03,960 --> 00:05:07,880
+value without that Ultimate Experience
+
+129
+00:05:06,560 --> 00:05:10,039
+that you're delivering that's creating
+
+130
+00:05:07,880 --> 00:05:12,960
+value everything else can feel much more
+
+131
+00:05:10,039 --> 00:05:15,840
+femoral and much weaker
+
+132
+00:05:12,960 --> 00:05:18,120
+Foundation I think you know in many ways
+
+133
+00:05:15,840 --> 00:05:20,680
+when you're part of a in in a great
+
+134
+00:05:18,120 --> 00:05:22,639
+company that's has a number of different
+
+135
+00:05:20,680 --> 00:05:25,319
+opportunities to make an impact and
+
+136
+00:05:22,639 --> 00:05:28,600
+connect and grow with in many ways you
+
+137
+00:05:25,319 --> 00:05:30,639
+want to make sure that your skill set is
+
+138
+00:05:28,600 --> 00:05:32,400
+You Know Rich enough and mature enough
+
+139
+00:05:30,639 --> 00:05:33,720
+to be able to deliver a bunch of impact
+
+140
+00:05:32,400 --> 00:05:35,560
+but hopefully if you're in the right
+
+141
+00:05:33,720 --> 00:05:37,400
+position you're also gaining a bunch of
+
+142
+00:05:35,560 --> 00:05:40,199
+new knowledge and new tools I think in
+
+143
+00:05:37,400 --> 00:05:43,240
+many ways the the growth comes from just
+
+144
+00:05:40,199 --> 00:05:45,560
+having that sheer intellectual curiosity
+
+145
+00:05:43,240 --> 00:05:47,240
+and a desire to make sure that you're
+
+146
+00:05:45,560 --> 00:05:50,000
+influencing and impacting things that
+
+147
+00:05:47,240 --> 00:05:52,479
+matter and so biggest one is this
+
+148
+00:05:50,000 --> 00:05:54,520
+constant ability to ask am I doing the
+
+149
+00:05:52,479 --> 00:05:56,639
+thing that is the highest impact uh work
+
+150
+00:05:54,520 --> 00:05:58,319
+that I could be doing am I focusing on
+
+151
+00:05:56,639 --> 00:06:01,240
+things that actually will drive and make
+
+152
+00:05:58,319 --> 00:06:03,400
+a difference and then usually if you're
+
+153
+00:06:01,240 --> 00:06:05,680
+in the right role and you have the right
+
+154
+00:06:03,400 --> 00:06:06,919
+foundational skill set then the rest of
+
+155
+00:06:05,680 --> 00:06:09,280
+it will take care of itself you'll
+
+156
+00:06:06,919 --> 00:06:11,000
+figure out resources and who to tap into
+
+157
+00:06:09,280 --> 00:06:13,520
+it's one of the best parts of being in
+
+158
+00:06:11,000 --> 00:06:15,759
+Silicon Valley is you pick up the phone
+
+159
+00:06:13,520 --> 00:06:18,000
+and you can call so many people around
+
+160
+00:06:15,759 --> 00:06:20,240
+us that have either experienced that
+
+161
+00:06:18,000 --> 00:06:22,280
+exact same situation that you're in one
+
+162
+00:06:20,240 --> 00:06:24,160
+of the things that I always mention
+
+163
+00:06:22,280 --> 00:06:26,520
+people talk about like hey what's so
+
+164
+00:06:24,160 --> 00:06:28,240
+special about Silicon Valley why you
+
+165
+00:06:26,520 --> 00:06:30,080
+know would I move my company there why
+
+166
+00:06:28,240 --> 00:06:31,479
+would we you know start a company you
+
+167
+00:06:30,080 --> 00:06:33,280
+know in Silicon Valley instead of
+
+168
+00:06:31,479 --> 00:06:35,440
+somewhere else the and the answer I give
+
+169
+00:06:33,280 --> 00:06:39,280
+is when I started at Twitter we were
+
+170
+00:06:35,440 --> 00:06:41,280
+going through a bunch of newish problems
+
+171
+00:06:39,280 --> 00:06:44,639
+that we were experiencing and at that
+
+172
+00:06:41,280 --> 00:06:47,199
+time I remember just through networking
+
+173
+00:06:44,639 --> 00:06:49,560
+finding out experts that were you know
+
+174
+00:06:47,199 --> 00:06:51,520
+at Facebook or at LinkedIn or at Google
+
+175
+00:06:49,560 --> 00:06:53,560
+and you would reach out in every single
+
+176
+00:06:51,520 --> 00:06:55,039
+time almost 100% of the time there were
+
+177
+00:06:53,560 --> 00:06:56,479
+willing to jump on a call and they were
+
+178
+00:06:55,039 --> 00:06:58,199
+willing to collaborate and they were
+
+179
+00:06:56,479 --> 00:07:01,280
+willing to give advice and I think that
+
+180
+00:06:58,199 --> 00:07:04,000
+was such a a phenomenal sort of
+
+181
+00:07:01,280 --> 00:07:07,199
+validation of just how important it is
+
+182
+00:07:04,000 --> 00:07:09,440
+to be in an environment where people are
+
+183
+00:07:07,199 --> 00:07:12,080
+experiencing that same set of growth
+
+184
+00:07:09,440 --> 00:07:14,319
+ambition and experiences that they can
+
+185
+00:07:12,080 --> 00:07:18,240
+impart and and give to you as you're
+
+186
+00:07:14,319 --> 00:07:18,240
+solving your your problems in your
+
+187
+00:07:18,639 --> 00:07:24,280
+company do you use Ken Lee to book calls
+
+188
+00:07:21,840 --> 00:07:26,199
+Tod do is to manage tasks trell to keep
+
+189
+00:07:24,280 --> 00:07:27,919
+track of projects what if I told you
+
+190
+00:07:26,199 --> 00:07:30,319
+that you could do all these with one
+
+191
+00:07:27,919 --> 00:07:32,199
+tool but then it also integrates with
+
+192
+00:07:30,319 --> 00:07:34,440
+all of the tools that I just mentioned
+
+193
+00:07:32,199 --> 00:07:35,800
+hi everyone I'm Hannah from the EO team
+
+194
+00:07:34,440 --> 00:07:38,520
+and I'm here to introduce the
+
+195
+00:07:35,800 --> 00:07:40,639
+gamechanging productivity tool akif flow
+
+196
+00:07:38,520 --> 00:07:42,560
+it's basically a smart combination of
+
+197
+00:07:40,639 --> 00:07:44,680
+all the essential productivity features
+
+198
+00:07:42,560 --> 00:07:47,080
+I need on the daily first is the
+
+199
+00:07:44,680 --> 00:07:49,680
+beautiful marriage of task management
+
+200
+00:07:47,080 --> 00:07:51,560
+and time blocking akif flow has this
+
+201
+00:07:49,680 --> 00:07:53,560
+interface where you can create a to-do
+
+202
+00:07:51,560 --> 00:07:56,120
+list just as you would in any task
+
+203
+00:07:53,560 --> 00:07:58,000
+management tools but you can also drag
+
+204
+00:07:56,120 --> 00:08:00,599
+these certain tasks right into your
+
+205
+00:07:58,000 --> 00:08:03,240
+calendar to the exact time of day I find
+
+206
+00:08:00,599 --> 00:08:05,639
+this particular visualization of two dos
+
+207
+00:08:03,240 --> 00:08:07,919
+and schedules side by side very helpful
+
+208
+00:08:05,639 --> 00:08:10,000
+in prioritizing my work carving out
+
+209
+00:08:07,919 --> 00:08:12,479
+chunks of focus time needed for video
+
+210
+00:08:10,000 --> 00:08:14,360
+editing blocking time here syncs with
+
+211
+00:08:12,479 --> 00:08:17,720
+all of my other connected apps such as
+
+212
+00:08:14,360 --> 00:08:20,400
+slack Ken Le and more secondly it's the
+
+213
+00:08:17,720 --> 00:08:22,639
+magical command bar the go-to shortcut
+
+214
+00:08:20,400 --> 00:08:24,800
+for all features within aif flow instead
+
+215
+00:08:22,639 --> 00:08:26,879
+of navigating the app manually I simply
+
+216
+00:08:24,800 --> 00:08:29,159
+click on the command bar to command what
+
+217
+00:08:26,879 --> 00:08:31,199
+I wish to perform for example let's just
+
+218
+00:08:29,159 --> 00:08:32,640
+say that we confirmed an interview
+
+219
+00:08:31,199 --> 00:08:34,640
+filming and I want to put that in my
+
+220
+00:08:32,640 --> 00:08:37,519
+calendar I could just set that up
+
+221
+00:08:34,640 --> 00:08:39,760
+manually on the Google Calendar or I
+
+222
+00:08:37,519 --> 00:08:41,680
+could simply go ahead and type akif flow
+
+223
+00:08:39,760 --> 00:08:44,720
+founder interview filming on October
+
+224
+00:08:41,680 --> 00:08:46,640
+28th from 12:00 p.m. to 3: p.m. and
+
+225
+00:08:44,720 --> 00:08:48,480
+there's my schedule we've been using it
+
+226
+00:08:46,640 --> 00:08:51,600
+to keep track of our hectic filming and
+
+227
+00:08:48,480 --> 00:08:51,600
+traveling schedules every
+
+228
+00:08:53,320 --> 00:08:59,040
+day okay at one point mpanel we were
+
+229
+00:08:56,920 --> 00:09:01,720
+turning almost half of our customers
+
+230
+00:08:59,040 --> 00:09:04,279
+every year and it was this place where
+
+231
+00:09:01,720 --> 00:09:06,160
+as a company that's growing fast you
+
+232
+00:09:04,279 --> 00:09:07,800
+know in some ways that can that metric
+
+233
+00:09:06,160 --> 00:09:09,360
+can be overlooked you're like Hey we're
+
+234
+00:09:07,800 --> 00:09:11,120
+still we're still growing things are
+
+235
+00:09:09,360 --> 00:09:13,440
+still great and you know you would show
+
+236
+00:09:11,120 --> 00:09:15,160
+up and and look at these numbers and you
+
+237
+00:09:13,440 --> 00:09:16,959
+wouldn't even blink you're like yeah we
+
+238
+00:09:15,160 --> 00:09:18,600
+just had like half of our customers like
+
+239
+00:09:16,959 --> 00:09:20,079
+walk out the door but it's not a big
+
+240
+00:09:18,600 --> 00:09:22,519
+deal cuz we're getting so much more and
+
+241
+00:09:20,079 --> 00:09:26,120
+we're still growing but in many ways it
+
+242
+00:09:22,519 --> 00:09:28,720
+was a time where we really came together
+
+243
+00:09:26,120 --> 00:09:31,200
+and said look turning half the customers
+
+244
+00:09:28,720 --> 00:09:33,680
+is a major your major problem in that we
+
+245
+00:09:31,200 --> 00:09:35,839
+are clearly not driving and delivering
+
+246
+00:09:33,680 --> 00:09:37,600
+the value as a company that we need to
+
+247
+00:09:35,839 --> 00:09:39,480
+and even though you know we we're still
+
+248
+00:09:37,600 --> 00:09:41,519
+growing we have to go back and address
+
+249
+00:09:39,480 --> 00:09:43,560
+churn as a way of making sure we have
+
+250
+00:09:41,519 --> 00:09:44,920
+sustainable growth over time and that
+
+251
+00:09:43,560 --> 00:09:47,120
+product needs to kind of get to this
+
+252
+00:09:44,920 --> 00:09:48,959
+level of maturity over time and you know
+
+253
+00:09:47,120 --> 00:09:51,079
+the problem is actually this one was
+
+254
+00:09:48,959 --> 00:09:53,040
+quite difficult cuz we were initially
+
+255
+00:09:51,079 --> 00:09:54,800
+just trying to find like easy answers
+
+256
+00:09:53,040 --> 00:09:57,040
+you know maybe this is a segment problem
+
+257
+00:09:54,800 --> 00:09:58,680
+like SMB has higher turn maybe we just
+
+258
+00:09:57,040 --> 00:10:00,680
+need to go to Enterprise and that'll be
+
+259
+00:09:58,680 --> 00:10:03,040
+the fix all of our problems but the
+
+260
+00:10:00,680 --> 00:10:06,079
+reality was much more complicated and
+
+261
+00:10:03,040 --> 00:10:10,000
+nuanced and what it required was a very
+
+262
+00:10:06,079 --> 00:10:11,839
+very diligent way of again segmenting
+
+263
+00:10:10,000 --> 00:10:13,040
+and understanding the behavior from a
+
+264
+00:10:11,839 --> 00:10:14,760
+different customers in different
+
+265
+00:10:13,040 --> 00:10:17,760
+segments and then being able to really
+
+266
+00:10:14,760 --> 00:10:20,120
+narrow in on the reasons it it so
+
+267
+00:10:17,760 --> 00:10:21,920
+happened that there wasn't one answer
+
+268
+00:10:20,120 --> 00:10:23,959
+you know it wasn't one thing it was a
+
+269
+00:10:21,920 --> 00:10:25,839
+set of a bunch of different things that
+
+270
+00:10:23,959 --> 00:10:28,040
+we needed to do and the list was quite
+
+271
+00:10:25,839 --> 00:10:31,519
+overwhelming the way that we came at it
+
+272
+00:10:28,040 --> 00:10:33,720
+was instead of putting some crazy insane
+
+273
+00:10:31,519 --> 00:10:36,040
+kind of goal for where we wanted to be
+
+274
+00:10:33,720 --> 00:10:38,560
+in a in in a year time we acknowledge
+
+275
+00:10:36,040 --> 00:10:40,040
+that retention was a lagging indicator
+
+276
+00:10:38,560 --> 00:10:42,279
+that it would take time for us to really
+
+277
+00:10:40,040 --> 00:10:43,959
+move it and so instead we said what is
+
+278
+00:10:42,279 --> 00:10:46,839
+the single kind of proxy leading
+
+279
+00:10:43,959 --> 00:10:49,079
+indicator we can grab that would Inspire
+
+280
+00:10:46,839 --> 00:10:51,200
+the team get them excited about making
+
+281
+00:10:49,079 --> 00:10:53,440
+the right set of improvements um in
+
+282
+00:10:51,200 --> 00:10:55,920
+moving retention in the right direction
+
+283
+00:10:53,440 --> 00:10:58,920
+and then we shifted our Focus to NPS
+
+284
+00:10:55,920 --> 00:11:01,320
+user NPS we said look if we are able to
+
+285
+00:10:58,920 --> 00:11:03,440
+improve Pro user sentiment that's a much
+
+286
+00:11:01,320 --> 00:11:06,040
+faster in product signal we're going to
+
+287
+00:11:03,440 --> 00:11:07,480
+get from our users that starts going up
+
+288
+00:11:06,040 --> 00:11:09,720
+then we know we can kind of move the
+
+289
+00:11:07,480 --> 00:11:11,279
+dial on on retention over time and so
+
+290
+00:11:09,720 --> 00:11:13,920
+that's where our journey began and we
+
+291
+00:11:11,279 --> 00:11:15,720
+literally made a you know a series of
+
+292
+00:11:13,920 --> 00:11:17,320
+categories of different priorities we
+
+293
+00:11:15,720 --> 00:11:19,720
+had a series of things that we were
+
+294
+00:11:17,320 --> 00:11:22,200
+going to go out and and Tackle uh and
+
+295
+00:11:19,720 --> 00:11:25,680
+everyone the company from go to market
+
+296
+00:11:22,200 --> 00:11:28,399
+to epd sort of had this core mission to
+
+297
+00:11:25,680 --> 00:11:31,399
+go out and get this done and the result
+
+298
+00:11:28,399 --> 00:11:34,839
+was really incredible we were in single
+
+299
+00:11:31,399 --> 00:11:38,200
+digits uh MPS at the time and we were
+
+300
+00:11:34,839 --> 00:11:40,839
+able to move that 10 points every single
+
+301
+00:11:38,200 --> 00:11:43,040
+year and by the time we did our series C
+
+302
+00:11:40,839 --> 00:11:45,680
+we were at 50 and this past spring we
+
+303
+00:11:43,040 --> 00:11:48,279
+almost touched 60 which is really like
+
+304
+00:11:45,680 --> 00:11:50,440
+now kind of consumer grade category and
+
+305
+00:11:48,279 --> 00:11:53,639
+then retention went from you know 50 to
+
+306
+00:11:50,440 --> 00:11:56,680
+close to 90% as a result which I think
+
+307
+00:11:53,639 --> 00:11:59,880
+again speaks to this ability to
+
+308
+00:11:56,680 --> 00:12:02,160
+establish real feedback loops that allow
+
+309
+00:11:59,880 --> 00:12:03,440
+you to understand whether you're the
+
+310
+00:12:02,160 --> 00:12:05,200
+things you're doing are moving the
+
+311
+00:12:03,440 --> 00:12:06,639
+needle and then having this kind of
+
+312
+00:12:05,200 --> 00:12:09,160
+combination of leading lagging
+
+313
+00:12:06,639 --> 00:12:11,480
+indicators so that you have things to
+
+314
+00:12:09,160 --> 00:12:13,959
+inspire get inspired along the way in
+
+315
+00:12:11,480 --> 00:12:15,480
+your journey of execution rather than
+
+316
+00:12:13,959 --> 00:12:17,639
+having to wait you know a year to find
+
+317
+00:12:15,480 --> 00:12:21,120
+out if something was
+
+318
+00:12:17,639 --> 00:12:23,680
+working companies go through very very
+
+319
+00:12:21,120 --> 00:12:27,079
+different stages and challenges as
+
+320
+00:12:23,680 --> 00:12:29,800
+they're going from no Revenue to the
+
+321
+00:12:27,079 --> 00:12:31,519
+initial uh signals that there's demand
+
+322
+00:12:29,800 --> 00:12:33,880
+and there's a need for their product to
+
+323
+00:12:31,519 --> 00:12:36,000
+get 10 million Milestone they get the 50
+
+324
+00:12:33,880 --> 00:12:38,240
+million Milestone and there's huge drop
+
+325
+00:12:36,000 --> 00:12:40,240
+offs from each of these stages learning
+
+326
+00:12:38,240 --> 00:12:44,079
+an experience that at least we've taken
+
+327
+00:12:40,240 --> 00:12:48,320
+here at mix spanel is the ability to
+
+328
+00:12:44,079 --> 00:12:50,160
+really have a very rich signal coming in
+
+329
+00:12:48,320 --> 00:12:52,519
+from the pool of customers that you
+
+330
+00:12:50,160 --> 00:12:55,720
+don't have right because so much of your
+
+331
+00:12:52,519 --> 00:12:58,600
+signal and constant uh feedback loop is
+
+332
+00:12:55,720 --> 00:13:00,279
+around the core Market that you're
+
+333
+00:12:58,600 --> 00:13:02,560
+addressing and your core set of
+
+334
+00:13:00,279 --> 00:13:04,519
+customers that are paying you today a
+
+335
+00:13:02,560 --> 00:13:07,320
+lot of your signals are coming from
+
+336
+00:13:04,519 --> 00:13:09,240
+existing customers and so along the way
+
+337
+00:13:07,320 --> 00:13:11,639
+as company's maturing you want to make
+
+338
+00:13:09,240 --> 00:13:13,880
+sure you always have in the initial
+
+339
+00:13:11,639 --> 00:13:16,279
+phase you you you just you want to get
+
+340
+00:13:13,880 --> 00:13:19,160
+as small as possible solve the problem
+
+341
+00:13:16,279 --> 00:13:21,480
+for the smallest audience that is uh
+
+342
+00:13:19,160 --> 00:13:23,360
+able to get value and pay you for for
+
+343
+00:13:21,480 --> 00:13:25,959
+your product um but as you're scaling
+
+344
+00:13:23,360 --> 00:13:27,800
+and getting to 50 100 million plus then
+
+345
+00:13:25,959 --> 00:13:29,639
+you're really trying to also make sure
+
+346
+00:13:27,800 --> 00:13:31,360
+you have a lens toward
+
+347
+00:13:29,639 --> 00:13:33,279
+the set of the part of the market that
+
+348
+00:13:31,360 --> 00:13:34,720
+you don't own that you don't have and
+
+349
+00:13:33,279 --> 00:13:36,560
+make sure that you understand what
+
+350
+00:13:34,720 --> 00:13:39,040
+opportunities you have to grow and
+
+351
+00:13:36,560 --> 00:13:40,760
+continue to expand your offering and and
+
+352
+00:13:39,040 --> 00:13:43,360
+creating more value for a bigger part of
+
+353
+00:13:40,760 --> 00:13:45,360
+the market I think Beyond product and
+
+354
+00:13:43,360 --> 00:13:47,399
+and signal from customers the other
+
+355
+00:13:45,360 --> 00:13:50,639
+dimension that's really critical as
+
+356
+00:13:47,399 --> 00:13:53,680
+you're scaling is way that teams operate
+
+357
+00:13:50,639 --> 00:13:56,560
+internally how and the the way that your
+
+358
+00:13:53,680 --> 00:13:58,920
+executive team and you as a CEO need to
+
+359
+00:13:56,560 --> 00:14:01,480
+operate is going to change completely
+
+360
+00:13:58,920 --> 00:14:04,240
+right as a 10 person startup you're in a
+
+361
+00:14:01,480 --> 00:14:06,360
+very different capacity everybody's
+
+362
+00:14:04,240 --> 00:14:08,800
+everybody's doing everything and then
+
+363
+00:14:06,360 --> 00:14:10,959
+you're you're need to then go create
+
+364
+00:14:08,800 --> 00:14:12,600
+leverage really create autonomy and
+
+365
+00:14:10,959 --> 00:14:14,759
+ownership modularity within the
+
+366
+00:14:12,600 --> 00:14:16,720
+organization is going to be key uh in
+
+367
+00:14:14,759 --> 00:14:19,720
+driving kind of growth and success you
+
+368
+00:14:16,720 --> 00:14:19,720
+need past a certain
+
+369
+00:14:21,040 --> 00:14:26,360
+scale I think product L growth is is
+
+370
+00:14:23,959 --> 00:14:29,600
+really important and I think sometimes
+
+371
+00:14:26,360 --> 00:14:31,279
+we oversimplify what it means even expel
+
+372
+00:14:29,600 --> 00:14:34,000
+we've we've had quite a bit of a journey
+
+373
+00:14:31,279 --> 00:14:35,839
+in terms of understanding the nuances of
+
+374
+00:14:34,000 --> 00:14:37,440
+you know what it entails what works
+
+375
+00:14:35,839 --> 00:14:39,639
+within product L growth and what you
+
+376
+00:14:37,440 --> 00:14:41,399
+need to augment and layer on the the
+
+377
+00:14:39,639 --> 00:14:43,079
+fact of the matter is what's really
+
+378
+00:14:41,399 --> 00:14:44,720
+awesome about product L growth and
+
+379
+00:14:43,079 --> 00:14:46,560
+what's so good about so many of the
+
+380
+00:14:44,720 --> 00:14:49,160
+startups and different you know growth
+
+381
+00:14:46,560 --> 00:14:51,279
+companies really leaning into to this at
+
+382
+00:14:49,160 --> 00:14:53,360
+its heart the principle is we have we
+
+383
+00:14:51,279 --> 00:14:55,480
+need to have a really amazing product
+
+384
+00:14:53,360 --> 00:14:57,839
+that's self- servable that can people
+
+385
+00:14:55,480 --> 00:14:59,800
+can get value out of right away that
+
+386
+00:14:57,839 --> 00:15:02,759
+sort of speaks for itself
+
+387
+00:14:59,800 --> 00:15:04,959
+uh you barely need to sell you know
+
+388
+00:15:02,759 --> 00:15:07,279
+that's kind of like the the the end all
+
+389
+00:15:04,959 --> 00:15:10,279
+sort of uh goal of product lead and
+
+390
+00:15:07,279 --> 00:15:13,440
+that's awesome but there is so much more
+
+391
+00:15:10,279 --> 00:15:15,880
+to being able to leveraging product L
+
+392
+00:15:13,440 --> 00:15:18,360
+growth and actually creating sustainable
+
+393
+00:15:15,880 --> 00:15:20,279
+growth over time and a big part of that
+
+394
+00:15:18,360 --> 00:15:22,680
+is this element of you know Market
+
+395
+00:15:20,279 --> 00:15:25,120
+education everyone is going to come in
+
+396
+00:15:22,680 --> 00:15:27,320
+to your product with a very different
+
+397
+00:15:25,120 --> 00:15:29,800
+set of maturity right they may be at a
+
+398
+00:15:27,320 --> 00:15:31,240
+different part of the company
+
+399
+00:15:29,800 --> 00:15:33,680
+understanding of the problem that you're
+
+400
+00:15:31,240 --> 00:15:36,000
+trying to solve as a company being very
+
+401
+00:15:33,680 --> 00:15:38,680
+intellectually honest about truly
+
+402
+00:15:36,000 --> 00:15:40,920
+segmenting and understanding where you
+
+403
+00:15:38,680 --> 00:15:43,279
+have an opportunity to actually go drive
+
+404
+00:15:40,920 --> 00:15:45,800
+product Le growth where you can deliver
+
+405
+00:15:43,279 --> 00:15:48,720
+a self- serve for the most part a self-
+
+406
+00:15:45,800 --> 00:15:50,920
+serve experience that's really key
+
+407
+00:15:48,720 --> 00:15:53,399
+acknowledging that there's this space
+
+408
+00:15:50,920 --> 00:15:56,360
+and there's absolutely an opportunity to
+
+409
+00:15:53,399 --> 00:15:58,399
+be very sales l and a way that you drive
+
+410
+00:15:56,360 --> 00:16:00,120
+augmenting that product Le growth
+
+411
+00:15:58,399 --> 00:16:01,680
+knowing that you can always rely and
+
+412
+00:16:00,120 --> 00:16:03,560
+fall back on the fact that you have an
+
+413
+00:16:01,680 --> 00:16:06,120
+incredible product that once you get to
+
+414
+00:16:03,560 --> 00:16:08,440
+a right level of Market education when
+
+415
+00:16:06,120 --> 00:16:10,680
+you get to the right level of getting a
+
+416
+00:16:08,440 --> 00:16:12,519
+customer to the same spot then your
+
+417
+00:16:10,680 --> 00:16:15,720
+product will take care of the rest it's
+
+418
+00:16:12,519 --> 00:16:18,000
+just this kind of core appreciation that
+
+419
+00:16:15,720 --> 00:16:19,839
+initially product L growth is really
+
+420
+00:16:18,000 --> 00:16:21,199
+awesome because of its unit economics
+
+421
+00:16:19,839 --> 00:16:23,079
+it's like the fastest the most
+
+422
+00:16:21,199 --> 00:16:25,920
+affordable the best way you can possibly
+
+423
+00:16:23,079 --> 00:16:27,440
+grow but it's kind of core at its core
+
+424
+00:16:25,920 --> 00:16:31,040
+uh it requires a really deep
+
+425
+00:16:27,440 --> 00:16:31,040
+segmentation Focus for it to to
+
+426
+00:16:32,959 --> 00:16:38,560
+work first one is about being open and
+
+427
+00:16:35,839 --> 00:16:40,440
+being open to feedback you know we as
+
+428
+00:16:38,560 --> 00:16:42,240
+people get attached emotionally to our
+
+429
+00:16:40,440 --> 00:16:44,560
+decisions about how to go from point A
+
+430
+00:16:42,240 --> 00:16:46,560
+to point B and just knowing that uh
+
+431
+00:16:44,560 --> 00:16:48,079
+having qualitative quantitative feedback
+
+432
+00:16:46,560 --> 00:16:50,360
+will let your course correct and make
+
+433
+00:16:48,079 --> 00:16:53,240
+sure you get to the destination on time
+
+434
+00:16:50,360 --> 00:16:55,639
+um and then the second one is about
+
+435
+00:16:53,240 --> 00:16:58,519
+being able to lead change and Lead
+
+436
+00:16:55,639 --> 00:16:59,759
+change has the element that Nick spanel
+
+437
+00:16:58,519 --> 00:17:01,880
+every months is going to be a
+
+438
+00:16:59,759 --> 00:17:04,959
+fundamentally different company and we
+
+439
+00:17:01,880 --> 00:17:06,880
+want not only individuals to you know be
+
+440
+00:17:04,959 --> 00:17:08,199
+okay with change or support it but we
+
+441
+00:17:06,880 --> 00:17:10,039
+want them to lead it we want them to
+
+442
+00:17:08,199 --> 00:17:12,480
+know that we're going to need to explore
+
+443
+00:17:10,039 --> 00:17:13,959
+and find ways to go out and create ways
+
+444
+00:17:12,480 --> 00:17:16,720
+that we can create more value in the
+
+445
+00:17:13,959 --> 00:17:18,679
+marketplace third is uh a customer focus
+
+446
+00:17:16,720 --> 00:17:20,559
+which at the end of the day we're only
+
+447
+00:17:18,679 --> 00:17:22,799
+successful if our customers are getting
+
+448
+00:17:20,559 --> 00:17:24,600
+value and so any decision we make around
+
+449
+00:17:22,799 --> 00:17:26,559
+what product we prioritize How We Do
+
+450
+00:17:24,600 --> 00:17:28,319
+pricing and packaging right how we
+
+451
+00:17:26,559 --> 00:17:30,200
+evolve our support organization is
+
+452
+00:17:28,319 --> 00:17:31,880
+around this kind of long-term value that
+
+453
+00:17:30,200 --> 00:17:34,120
+we're creating for our customers the
+
+454
+00:17:31,880 --> 00:17:36,000
+fourth one is results oriented which
+
+455
+00:17:34,120 --> 00:17:37,440
+acknowledges that you know the single
+
+456
+00:17:36,000 --> 00:17:39,480
+best way for us to keep ourselves
+
+457
+00:17:37,440 --> 00:17:41,080
+accountable on whether we're moving
+
+458
+00:17:39,480 --> 00:17:42,840
+toward fulfilling our mission as a
+
+459
+00:17:41,080 --> 00:17:45,120
+company to help the world learn from its
+
+460
+00:17:42,840 --> 00:17:47,919
+data is uh people's willingness to pay
+
+461
+00:17:45,120 --> 00:17:50,960
+us money to to solve that problem and so
+
+462
+00:17:47,919 --> 00:17:53,480
+Topline a growth are we uh driving that
+
+463
+00:17:50,960 --> 00:17:55,600
+in a sustainable fashion through the
+
+464
+00:17:53,480 --> 00:17:58,480
+right margin profile and then finally is
+
+465
+00:17:55,600 --> 00:18:00,000
+the one team which really emphasizes the
+
+466
+00:17:58,480 --> 00:18:02,120
+import importance of establishing
+
+467
+00:18:00,000 --> 00:18:04,240
+meaningful connections among employees
+
+468
+00:18:02,120 --> 00:18:05,960
+to move beyond the transactional zoom
+
+469
+00:18:04,240 --> 00:18:07,600
+interactions into a place where they
+
+470
+00:18:05,960 --> 00:18:09,280
+know each other they can trust one
+
+471
+00:18:07,600 --> 00:18:10,679
+another so when they do get into a
+
+472
+00:18:09,280 --> 00:18:12,679
+position of conflict there's a
+
+473
+00:18:10,679 --> 00:18:14,240
+foundational trust and safety that
+
+474
+00:18:12,679 --> 00:18:16,780
+allows them to work through those things
+
+475
+00:18:14,240 --> 00:18:27,069
+productively
+
+476
+00:18:16,780 --> 00:18:27,069
+[Music]
+

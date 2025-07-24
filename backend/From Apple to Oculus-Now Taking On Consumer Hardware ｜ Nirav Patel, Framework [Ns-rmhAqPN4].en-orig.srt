@@ -1,0 +1,1696 @@
+1
+00:00:00,160 --> 00:00:05,120
+So ultimately, fundamentally, I am a
+
+2
+00:00:02,720 --> 00:00:06,799
+hardware person. There's like screws
+
+3
+00:00:05,120 --> 00:00:08,639
+flowing through my blood or something in
+
+4
+00:00:06,799 --> 00:00:10,160
+there somewhere. My parents would
+
+5
+00:00:08,639 --> 00:00:12,559
+occasionally complain when I would take
+
+6
+00:00:10,160 --> 00:00:14,080
+stuff apart in the house, but usually I
+
+7
+00:00:12,559 --> 00:00:16,400
+was able to successfully put it back
+
+8
+00:00:14,080 --> 00:00:17,680
+together, so it ended up being okay. I
+
+9
+00:00:16,400 --> 00:00:20,480
+want to build the best laptop. I want to
+
+10
+00:00:17,680 --> 00:00:22,640
+build a laptop company. framework is a
+
+11
+00:00:20,480 --> 00:00:24,960
+company that builds longerlasting
+
+12
+00:00:22,640 --> 00:00:26,640
+consumer electronics products so that if
+
+13
+00:00:24,960 --> 00:00:28,400
+anything ever happens to the product,
+
+14
+00:00:26,640 --> 00:00:30,119
+something breaks or you just need more
+
+15
+00:00:28,400 --> 00:00:32,800
+out of it, more performance or more
+
+16
+00:00:30,119 --> 00:00:35,120
+capability, you can actually just open
+
+17
+00:00:32,800 --> 00:00:38,160
+it up very easily using the screwdriver
+
+18
+00:00:35,120 --> 00:00:38,160
+that we include in the
+
+19
+00:00:38,840 --> 00:00:43,680
+box, swap out a part and keep using it
+
+20
+00:00:41,680 --> 00:00:45,440
+for longer. growing more than double
+
+21
+00:00:43,680 --> 00:00:47,440
+revenue year-over-year for the last
+
+22
+00:00:45,440 --> 00:00:49,200
+couple of years, which is pretty unusual
+
+23
+00:00:47,440 --> 00:00:50,320
+for a consumer electronics startup,
+
+24
+00:00:49,200 --> 00:00:52,640
+especially in a pretty tough
+
+25
+00:00:50,320 --> 00:00:55,840
+environment. Fundamentally, the mission
+
+26
+00:00:52,640 --> 00:00:58,079
+is about empowering the enduser of the
+
+27
+00:00:55,840 --> 00:00:59,920
+product, making it clear that this is
+
+28
+00:00:58,079 --> 00:01:01,440
+their product, not our product. One of
+
+29
+00:00:59,920 --> 00:01:03,520
+the problems that I thought was most
+
+30
+00:01:01,440 --> 00:01:06,080
+important to solve was just how hard it
+
+31
+00:01:03,520 --> 00:01:08,240
+was for consumer electronics startups to
+
+32
+00:01:06,080 --> 00:01:09,920
+be successful. But looking across
+
+33
+00:01:08,240 --> 00:01:12,159
+consumer electronics across the entire
+
+34
+00:01:09,920 --> 00:01:14,400
+startup space, it was clear that there
+
+35
+00:01:12,159 --> 00:01:16,320
+were a number of companies that had
+
+36
+00:01:14,400 --> 00:01:18,720
+really interesting and really excellent
+
+37
+00:01:16,320 --> 00:01:20,320
+products but failed. Anyway, the thing I
+
+38
+00:01:18,720 --> 00:01:21,840
+needed to do is prove that there's a
+
+39
+00:01:20,320 --> 00:01:23,840
+better business model for consumer
+
+40
+00:01:21,840 --> 00:01:26,640
+electronics. One of the secrets to
+
+41
+00:01:23,840 --> 00:01:30,159
+building a successful startup is that
+
+42
+00:01:26,640 --> 00:01:30,159
+the CEO needs to
+
+43
+00:01:34,680 --> 00:01:41,040
+be in school and actually I graduated
+
+44
+00:01:37,920 --> 00:01:43,840
+from university in 2009. That was a
+
+45
+00:01:41,040 --> 00:01:45,439
+period of great economic uncertainty. it
+
+46
+00:01:43,840 --> 00:01:46,960
+was uh the start of a pretty heavy
+
+47
+00:01:45,439 --> 00:01:49,840
+recession and so actually there weren't
+
+48
+00:01:46,960 --> 00:01:52,479
+a lot of jobs available and there was
+
+49
+00:01:49,840 --> 00:01:54,479
+not a single hardware company hiring. Um
+
+50
+00:01:52,479 --> 00:01:56,960
+but it turned out that Apple in one of
+
+51
+00:01:54,479 --> 00:01:59,520
+their software organizations did have
+
+52
+00:01:56,960 --> 00:02:01,439
+this role open that I was able to jump
+
+53
+00:01:59,520 --> 00:02:03,920
+into right out of school. And so I ended
+
+54
+00:02:01,439 --> 00:02:06,000
+up at Apple for a little over 3 years
+
+55
+00:02:03,920 --> 00:02:09,039
+working on software of all things. Apple
+
+56
+00:02:06,000 --> 00:02:11,280
+had just released the iPhone 3GS. This
+
+57
+00:02:09,039 --> 00:02:13,920
+was like right still at the dawn of
+
+58
+00:02:11,280 --> 00:02:15,360
+smartphones becoming the default mode of
+
+59
+00:02:13,920 --> 00:02:17,360
+interaction and actually kind of the
+
+60
+00:02:15,360 --> 00:02:20,480
+default mode of computing. So I was
+
+61
+00:02:17,360 --> 00:02:21,840
+working on FaceTime and uh Game Kit and
+
+62
+00:02:20,480 --> 00:02:24,239
+Game Center which was this kind of
+
+63
+00:02:21,840 --> 00:02:25,599
+multiplayer games framework that Apple
+
+64
+00:02:24,239 --> 00:02:28,160
+was developing from a software
+
+65
+00:02:25,599 --> 00:02:30,239
+perspective. And mostly what that
+
+66
+00:02:28,160 --> 00:02:31,840
+experience taught me was that I didn't
+
+67
+00:02:30,239 --> 00:02:34,319
+really want to work in a company like
+
+68
+00:02:31,840 --> 00:02:36,720
+Apple. Um one of the challenges at Apple
+
+69
+00:02:34,319 --> 00:02:38,400
+is that it is a very very siloed
+
+70
+00:02:36,720 --> 00:02:39,920
+company. as an engineer there, it was
+
+71
+00:02:38,400 --> 00:02:41,440
+actually quite frustrating that I would
+
+72
+00:02:39,920 --> 00:02:43,840
+see all this cool hardware or see all
+
+73
+00:02:41,440 --> 00:02:45,840
+this cool software but have no real
+
+74
+00:02:43,840 --> 00:02:47,760
+ability to either influence or even
+
+75
+00:02:45,840 --> 00:02:50,319
+understand or speak to the people who
+
+76
+00:02:47,760 --> 00:02:52,239
+were building it. So I was working a
+
+77
+00:02:50,319 --> 00:02:54,800
+relatively normal number of hours a
+
+78
+00:02:52,239 --> 00:02:56,959
+week. So like say like 40 to 50 hours a
+
+79
+00:02:54,800 --> 00:02:59,360
+week, a normal number of hours. And I
+
+80
+00:02:56,959 --> 00:03:02,400
+would spend another 40 to 50 hours a
+
+81
+00:02:59,360 --> 00:03:04,560
+week actually tinkering on mostly VR
+
+82
+00:03:02,400 --> 00:03:07,599
+stuff. And this was before VR was like
+
+83
+00:03:04,560 --> 00:03:10,239
+actually really a thing. building these
+
+84
+00:03:07,599 --> 00:03:11,599
+little gadgets and tools and toys to
+
+85
+00:03:10,239 --> 00:03:14,720
+basically just see what was even
+
+86
+00:03:11,599 --> 00:03:16,959
+possible and doing it within a community
+
+87
+00:03:14,720 --> 00:03:18,640
+of other people who were like-minded.
+
+88
+00:03:16,959 --> 00:03:20,080
+And so one of the other people in that
+
+89
+00:03:18,640 --> 00:03:21,599
+community was probably the farthest
+
+90
+00:03:20,080 --> 00:03:23,920
+along in that community was someone
+
+91
+00:03:21,599 --> 00:03:26,959
+named Palmer Lucky who of course ended
+
+92
+00:03:23,920 --> 00:03:28,319
+up founding Oculus. My name is Palmer
+
+93
+00:03:26,959 --> 00:03:30,400
+Lucky and I'm a virtual reality
+
+94
+00:03:28,319 --> 00:03:31,920
+enthusiast and the designer of the Rift.
+
+95
+00:03:30,400 --> 00:03:33,319
+Where this all started was in my
+
+96
+00:03:31,920 --> 00:03:35,519
+parents' garage in Long Beach,
+
+97
+00:03:33,319 --> 00:03:37,440
+California. And I was interested in
+
+98
+00:03:35,519 --> 00:03:39,280
+stereoscopic displays. I was interested
+
+99
+00:03:37,440 --> 00:03:40,959
+in headmounts. And the problem was there
+
+100
+00:03:39,280 --> 00:03:43,120
+was nothing that gave me the experience
+
+101
+00:03:40,959 --> 00:03:45,120
+that I wanted, the Matrix, where I can
+
+102
+00:03:43,120 --> 00:03:46,560
+plug in and actually be in the game. And
+
+103
+00:03:45,120 --> 00:03:48,239
+I was sure that somewhere out there
+
+104
+00:03:46,560 --> 00:03:50,480
+there was something that I could buy.
+
+105
+00:03:48,239 --> 00:03:52,080
+And the reality is there's nothing. I
+
+106
+00:03:50,480 --> 00:03:53,680
+set out to change that with the Oculus
+
+107
+00:03:52,080 --> 00:03:55,599
+Rift.
+
+108
+00:03:53,680 --> 00:03:58,879
+And at the time that he founded Oculus
+
+109
+00:03:55,599 --> 00:04:01,680
+back in 2012, there was just one piece
+
+110
+00:03:58,879 --> 00:04:04,080
+of the headset that was missing, which
+
+111
+00:04:01,680 --> 00:04:07,680
+was motion tracking. And motion tracking
+
+112
+00:04:04,080 --> 00:04:09,760
+happened to be the one gadget that I was
+
+113
+00:04:07,680 --> 00:04:12,319
+personally the furthest along on. And I
+
+114
+00:04:09,760 --> 00:04:14,799
+had sent one of two prototypes of motion
+
+115
+00:04:12,319 --> 00:04:16,160
+track that I'd built to Palmer a few
+
+116
+00:04:14,799 --> 00:04:18,000
+months earlier just to get his thoughts
+
+117
+00:04:16,160 --> 00:04:21,759
+on it and see see if it would be useful
+
+118
+00:04:18,000 --> 00:04:23,120
+to him. And so in mid 2012, Palmer
+
+119
+00:04:21,759 --> 00:04:25,759
+reached out to me and asked if I wanted
+
+120
+00:04:23,120 --> 00:04:27,440
+a demo of this VR headset that he'd been
+
+121
+00:04:25,759 --> 00:04:29,360
+building up and said, "Of course, of
+
+122
+00:04:27,440 --> 00:04:31,759
+course I want a demo of it." And I ended
+
+123
+00:04:29,360 --> 00:04:33,280
+up meeting with him and the rest of the
+
+124
+00:04:31,759 --> 00:04:35,120
+early team, the rest of the founding
+
+125
+00:04:33,280 --> 00:04:37,840
+team there. And what I thought was going
+
+126
+00:04:35,120 --> 00:04:39,919
+to be a demo turned into a job offer.
+
+127
+00:04:37,840 --> 00:04:42,000
+And they said, "Uh, you have to leave
+
+128
+00:04:39,919 --> 00:04:43,520
+Apple and join us within a week cuz we
+
+129
+00:04:42,000 --> 00:04:45,840
+really need your motion tracker." And
+
+130
+00:04:43,520 --> 00:04:47,120
+that was just an very obvious choice for
+
+131
+00:04:45,840 --> 00:04:48,720
+me of like, yeah, I don't want to be at
+
+132
+00:04:47,120 --> 00:04:50,400
+Apple. I want to be working on this cool
+
+133
+00:04:48,720 --> 00:04:52,639
+stuff here. VR, let's do it. But
+
+134
+00:04:50,400 --> 00:04:54,800
+actually, the move from Apple to Oculus
+
+135
+00:04:52,639 --> 00:04:56,320
+was a bit more a bit more of a jump
+
+136
+00:04:54,800 --> 00:04:59,600
+because at that point, of course, Apple
+
+137
+00:04:56,320 --> 00:05:02,240
+was on its very rapid growth trajectory
+
+138
+00:04:59,600 --> 00:05:04,720
+and to leave that very rapidly growing
+
+139
+00:05:02,240 --> 00:05:07,280
+company and join this scrappy startup of
+
+140
+00:05:04,720 --> 00:05:08,960
+people trying to build VR on on its
+
+141
+00:05:07,280 --> 00:05:10,880
+surface seemed crazy. And I think my
+
+142
+00:05:08,960 --> 00:05:12,639
+parents at first were like, "Oh, are you
+
+143
+00:05:10,880 --> 00:05:15,280
+sure? This doesn't seem like a good
+
+144
+00:05:12,639 --> 00:05:16,720
+idea." Um, but I was convinced. I I knew
+
+145
+00:05:15,280 --> 00:05:18,479
+that that it was the right team of
+
+146
+00:05:16,720 --> 00:05:20,400
+people. I knew it was the right
+
+147
+00:05:18,479 --> 00:05:22,320
+technology space to explore at that time
+
+148
+00:05:20,400 --> 00:05:24,639
+and of course ended up being a good bet
+
+149
+00:05:22,320 --> 00:05:24,639
+to have
+
+150
+00:05:25,160 --> 00:05:30,560
+taken. This episode is sponsored by
+
+151
+00:05:27,600 --> 00:05:32,560
+ATIO, the AI native CRM for the next era
+
+152
+00:05:30,560 --> 00:05:35,039
+of companies. Connect your email and
+
+153
+00:05:32,560 --> 00:05:37,120
+ATIO instantly builds your CRM right
+
+154
+00:05:35,039 --> 00:05:39,199
+before your eyes with every company
+
+155
+00:05:37,120 --> 00:05:41,919
+contact and interaction you've ever had
+
+156
+00:05:39,199 --> 00:05:43,320
+enriched and organized. That's atio. And
+
+157
+00:05:41,919 --> 00:05:45,680
+here's what makes it even more
+
+158
+00:05:43,320 --> 00:05:47,840
+game-changing. You can build AI powered
+
+159
+00:05:45,680 --> 00:05:49,600
+automations and use its research agents
+
+160
+00:05:47,840 --> 00:05:51,919
+to tackle some of your most complex
+
+161
+00:05:49,600 --> 00:05:54,039
+business processes, freeing you to focus
+
+162
+00:05:51,919 --> 00:05:56,479
+on what matters most, building your
+
+163
+00:05:54,039 --> 00:05:58,560
+company. Join thousands of companies who
+
+164
+00:05:56,479 --> 00:06:00,560
+are already using Atio to power their
+
+165
+00:05:58,560 --> 00:06:02,800
+businesses. Visit the link in the
+
+166
+00:06:00,560 --> 00:06:06,039
+description to begin your 2e free trial
+
+167
+00:06:02,800 --> 00:06:06,039
+with Atio.
+
+168
+00:06:09,600 --> 00:06:14,479
+The first two years of Oculus. So from
+
+169
+00:06:11,680 --> 00:06:17,600
+2012 until we got acquired in 2014,
+
+170
+00:06:14,479 --> 00:06:21,360
+literally every month was some new
+
+171
+00:06:17,600 --> 00:06:22,880
+insane occurrence and insane change,
+
+172
+00:06:21,360 --> 00:06:24,720
+insane learning. Like the pace of
+
+173
+00:06:22,880 --> 00:06:26,720
+iteration that we had across those two
+
+174
+00:06:24,720 --> 00:06:30,160
+years, I look back on and think like how
+
+175
+00:06:26,720 --> 00:06:32,720
+did we even do that? A normal hardware
+
+176
+00:06:30,160 --> 00:06:36,639
+product, a consumer hardware product, it
+
+177
+00:06:32,720 --> 00:06:39,039
+takes somewhere between 12 to 24 months
+
+178
+00:06:36,639 --> 00:06:40,720
+to go from initial idea of like, oh,
+
+179
+00:06:39,039 --> 00:06:44,240
+this is a product I think I want to
+
+180
+00:06:40,720 --> 00:06:46,240
+build to being able to do development
+
+181
+00:06:44,240 --> 00:06:48,800
+cycles on it, ramp up production, and
+
+182
+00:06:46,240 --> 00:06:51,440
+getting it into a customer's hands. the
+
+183
+00:06:48,800 --> 00:06:54,800
+Oculus Rift dev kit, the first dev kit,
+
+184
+00:06:51,440 --> 00:06:56,960
+we went from the company forming to
+
+185
+00:06:54,800 --> 00:07:00,080
+getting it into customers hands I think
+
+186
+00:06:56,960 --> 00:07:02,599
+in six months, which is not not normal.
+
+187
+00:07:00,080 --> 00:07:04,720
+That's not how you build build hardware
+
+188
+00:07:02,599 --> 00:07:05,759
+normally. Working with devs to get all
+
+189
+00:07:04,720 --> 00:07:07,280
+this going. There's some really
+
+190
+00:07:05,759 --> 00:07:08,880
+incredible and interesting stories
+
+191
+00:07:07,280 --> 00:07:10,400
+around that. But that's not what this
+
+192
+00:07:08,880 --> 00:07:12,800
+talk is about. This talk is only about
+
+193
+00:07:10,400 --> 00:07:14,720
+the hardware side of the story. We
+
+194
+00:07:12,800 --> 00:07:17,440
+decided to take a different optimization
+
+195
+00:07:14,720 --> 00:07:19,759
+and optimize for getting the virtual
+
+196
+00:07:17,440 --> 00:07:21,280
+reality ecosystem seated as quickly as
+
+197
+00:07:19,759 --> 00:07:23,120
+possible for the sake of figuring out
+
+198
+00:07:21,280 --> 00:07:24,880
+what is VR, what works and what doesn't
+
+199
+00:07:23,120 --> 00:07:27,360
+work in VR. And for that we needed help
+
+200
+00:07:24,880 --> 00:07:29,360
+from all of you which required us to
+
+201
+00:07:27,360 --> 00:07:31,319
+take the risk and build a product really
+
+202
+00:07:29,360 --> 00:07:33,360
+really
+
+203
+00:07:31,319 --> 00:07:35,280
+quickly. And one of the challenging
+
+204
+00:07:33,360 --> 00:07:37,280
+things here, one of the the biggest like
+
+205
+00:07:35,280 --> 00:07:38,880
+mistakes maybe that we made is that
+
+206
+00:07:37,280 --> 00:07:40,319
+obviously we were a startup. We're on a
+
+207
+00:07:38,880 --> 00:07:41,759
+shoestring budget. We were being
+
+208
+00:07:40,319 --> 00:07:43,440
+incredibly efficient. We're going as
+
+209
+00:07:41,759 --> 00:07:44,960
+fast as we can because we knew we needed
+
+210
+00:07:43,440 --> 00:07:47,199
+to make progress before running out of
+
+211
+00:07:44,960 --> 00:07:49,880
+money basically. And as soon as we got
+
+212
+00:07:47,199 --> 00:07:53,000
+acquired by Facebook 2 years in, we had
+
+213
+00:07:49,880 --> 00:07:55,280
+effectively unlimited money and
+
+214
+00:07:53,000 --> 00:07:56,960
+unlimited resource and we could hire
+
+215
+00:07:55,280 --> 00:07:59,360
+literally as many people as we wanted
+
+216
+00:07:56,960 --> 00:08:00,960
+to. There were actually no limits aside
+
+217
+00:07:59,360 --> 00:08:03,120
+from how quickly we could physically
+
+218
+00:08:00,960 --> 00:08:05,280
+onboard people to how quickly we could
+
+219
+00:08:03,120 --> 00:08:08,160
+hire. It actually slowed us down. It
+
+220
+00:08:05,280 --> 00:08:10,720
+slowed us to a total halt. basically
+
+221
+00:08:08,160 --> 00:08:13,280
+went from iterating on a new version of
+
+222
+00:08:10,720 --> 00:08:15,199
+VR headsets essentially every few months
+
+223
+00:08:13,280 --> 00:08:18,319
+to not being able to ship another
+
+224
+00:08:15,199 --> 00:08:21,039
+product for about 3 years. And so we
+
+225
+00:08:18,319 --> 00:08:23,199
+lost the massive iteration velocity that
+
+226
+00:08:21,039 --> 00:08:25,039
+we had. And it meant that that
+
+227
+00:08:23,199 --> 00:08:27,840
+three-year bet instead of the six-month
+
+228
+00:08:25,039 --> 00:08:29,919
+bet had to be so perfectly right
+
+229
+00:08:27,840 --> 00:08:32,000
+otherwise the opportunity cost of
+
+230
+00:08:29,919 --> 00:08:34,399
+missing those three years would end up
+
+231
+00:08:32,000 --> 00:08:35,839
+destroying us. And we kind of got it a
+
+232
+00:08:34,399 --> 00:08:38,159
+little bit right, maybe not as right as
+
+233
+00:08:35,839 --> 00:08:41,440
+we needed to, but looking back on it
+
+234
+00:08:38,159 --> 00:08:43,599
+now, those early years in Facebook, what
+
+235
+00:08:41,440 --> 00:08:46,640
+we really needed to be focused on was
+
+236
+00:08:43,599 --> 00:08:48,880
+iteration speed, not trying to build a
+
+237
+00:08:46,640 --> 00:08:50,720
+big team and build a big consumer
+
+238
+00:08:48,880 --> 00:08:53,600
+polished product. And so that's what
+
+239
+00:08:50,720 --> 00:08:55,760
+brought me to then start up framework
+
+240
+00:08:53,600 --> 00:08:58,480
+and then build an even more incredible
+
+241
+00:08:55,760 --> 00:09:00,640
+team, but a very small focused team
+
+242
+00:08:58,480 --> 00:09:02,399
+where we have this clear mission, clear
+
+243
+00:09:00,640 --> 00:09:05,800
+vision, clear roadmap that we're able to
+
+244
+00:09:02,399 --> 00:09:05,800
+execute on.
+
+245
+00:09:14,000 --> 00:09:18,480
+One of the things that works really well
+
+246
+00:09:15,600 --> 00:09:19,760
+for us is that the market that we're
+
+247
+00:09:18,480 --> 00:09:21,360
+entering, the categories that we're
+
+248
+00:09:19,760 --> 00:09:23,680
+entering in each of our products,
+
+249
+00:09:21,360 --> 00:09:26,640
+they're just colossal. So for us, we
+
+250
+00:09:23,680 --> 00:09:29,200
+look at $200 billion notebook market and
+
+251
+00:09:26,640 --> 00:09:31,360
+we see massive, massive headroom to
+
+252
+00:09:29,200 --> 00:09:32,720
+continue to grow and succeed in this
+
+253
+00:09:31,360 --> 00:09:35,680
+business model that's focused on
+
+254
+00:09:32,720 --> 00:09:37,680
+longevity. It actually means that the
+
+255
+00:09:35,680 --> 00:09:39,839
+more we grow as a company, the more
+
+256
+00:09:37,680 --> 00:09:41,600
+market share we capture, we're actually
+
+257
+00:09:39,839 --> 00:09:44,080
+shrinking the size of the notebook
+
+258
+00:09:41,600 --> 00:09:46,240
+industry because we're going from a mode
+
+259
+00:09:44,080 --> 00:09:48,080
+where consumers and businesses are
+
+260
+00:09:46,240 --> 00:09:50,480
+defaulting to replacing a product, let's
+
+261
+00:09:48,080 --> 00:09:52,160
+say, every 3 to 5 years to a mode where
+
+262
+00:09:50,480 --> 00:09:53,839
+they're using the products for longer.
+
+263
+00:09:52,160 --> 00:09:55,760
+And so that's actually a win condition
+
+264
+00:09:53,839 --> 00:09:59,040
+for us that we're converting an industry
+
+265
+00:09:55,760 --> 00:10:02,160
+from one that is shorter lived to one
+
+266
+00:09:59,040 --> 00:10:04,640
+that's more efficient and longer lived.
+
+267
+00:10:02,160 --> 00:10:06,880
+And as a startup, of course, we have an
+
+268
+00:10:04,640 --> 00:10:08,880
+immense amount of headroom and a ceiling
+
+269
+00:10:06,880 --> 00:10:11,760
+that's very very far away that we can
+
+270
+00:10:08,880 --> 00:10:13,600
+continue to grow within. But even as we
+
+271
+00:10:11,760 --> 00:10:15,360
+capture more and more of that pie, that
+
+272
+00:10:13,600 --> 00:10:17,600
+doesn't mean that we would need to then
+
+273
+00:10:15,360 --> 00:10:19,839
+change our business model to go back
+
+274
+00:10:17,600 --> 00:10:21,680
+into that transactional model that other
+
+275
+00:10:19,839 --> 00:10:23,600
+companies are taking today. It means
+
+276
+00:10:21,680 --> 00:10:25,920
+that we've grown in an install base
+
+277
+00:10:23,600 --> 00:10:28,040
+that's large enough that this network
+
+278
+00:10:25,920 --> 00:10:30,560
+effects based re-engagementbased
+
+279
+00:10:28,040 --> 00:10:32,480
+business is a massive business in
+
+280
+00:10:30,560 --> 00:10:34,480
+itself. And of course, as a company,
+
+281
+00:10:32,480 --> 00:10:36,240
+we're not only limiting ourselves to
+
+282
+00:10:34,480 --> 00:10:38,640
+notebooks. It's that we're taking the
+
+283
+00:10:36,240 --> 00:10:40,800
+success that we've had with notebooks
+
+284
+00:10:38,640 --> 00:10:42,800
+and bringing that category by category
+
+285
+00:10:40,800 --> 00:10:45,440
+across this just huge consumer
+
+286
+00:10:42,800 --> 00:10:45,440
+electronics
+
+287
+00:10:50,600 --> 00:10:56,880
+industry. You're really thinking about
+
+288
+00:10:53,839 --> 00:10:58,399
+the audiences that you're going after.
+
+289
+00:10:56,880 --> 00:11:01,279
+We actually have this concept that we
+
+290
+00:10:58,399 --> 00:11:03,279
+call terminal audiences. this idea that
+
+291
+00:11:01,279 --> 00:11:06,000
+we enter a new product category and we
+
+292
+00:11:03,279 --> 00:11:08,560
+lock in an industrial design and a form
+
+293
+00:11:06,000 --> 00:11:10,320
+factor and set of features that we're
+
+294
+00:11:08,560 --> 00:11:12,079
+defining both the initial set of
+
+295
+00:11:10,320 --> 00:11:14,800
+audiences that we can win with most
+
+296
+00:11:12,079 --> 00:11:17,120
+efficiently but then also the terminal
+
+297
+00:11:14,800 --> 00:11:18,959
+audience basically the broadest furthest
+
+298
+00:11:17,120 --> 00:11:20,480
+away audience we think we could still
+
+299
+00:11:18,959 --> 00:11:22,480
+win with this product and we make sure
+
+300
+00:11:20,480 --> 00:11:25,760
+that we know what those bounds are when
+
+301
+00:11:22,480 --> 00:11:28,160
+we reach and build new products for
+
+302
+00:11:25,760 --> 00:11:30,560
+example a framework laptop 12 that gives
+
+303
+00:11:28,160 --> 00:11:32,720
+us a moment of reset of this is is a new
+
+304
+00:11:30,560 --> 00:11:34,560
+category. We're renting a new segment.
+
+305
+00:11:32,720 --> 00:11:36,800
+We have to figure out now who are our
+
+306
+00:11:34,560 --> 00:11:38,640
+initial audiences for this product which
+
+307
+00:11:36,800 --> 00:11:41,200
+actually start from the same core
+
+308
+00:11:38,640 --> 00:11:43,279
+audiences as our other products. But
+
+309
+00:11:41,200 --> 00:11:44,480
+then who are the terminal audiences? And
+
+310
+00:11:43,279 --> 00:11:47,200
+one thing we were deliberate on with
+
+311
+00:11:44,480 --> 00:11:50,000
+this new product is we made it simpler.
+
+312
+00:11:47,200 --> 00:11:52,240
+We made it much much lower cost and we
+
+313
+00:11:50,000 --> 00:11:54,000
+made it more generally appealing to
+
+314
+00:11:52,240 --> 00:11:56,000
+people who are not necessarily tech
+
+315
+00:11:54,000 --> 00:11:58,399
+enthusiasts. And so as we think about
+
+316
+00:11:56,000 --> 00:12:00,800
+this product, the core tech enthusiast
+
+317
+00:11:58,399 --> 00:12:02,640
+is still there as an initial audience,
+
+318
+00:12:00,800 --> 00:12:05,760
+but our terminal audience is a lot
+
+319
+00:12:02,640 --> 00:12:05,760
+bigger and a lot further
+
+320
+00:12:10,279 --> 00:12:17,279
+away. Audience expansion is definitely
+
+321
+00:12:13,920 --> 00:12:20,079
+the key to success in consumer startups
+
+322
+00:12:17,279 --> 00:12:22,480
+in general. We have a set of core
+
+323
+00:12:20,079 --> 00:12:25,279
+audiences that we kind of layer outwards
+
+324
+00:12:22,480 --> 00:12:27,279
+on top of one by one as we go. And of
+
+325
+00:12:25,279 --> 00:12:29,440
+course like it's easy to come up with
+
+326
+00:12:27,279 --> 00:12:32,240
+personas like define these discrete
+
+327
+00:12:29,440 --> 00:12:34,800
+personas of like DIYer and we have Linux
+
+328
+00:12:32,240 --> 00:12:36,560
+user and we have like IT manager and we
+
+329
+00:12:34,800 --> 00:12:38,560
+have environmentally conscious consumer.
+
+330
+00:12:36,560 --> 00:12:39,920
+We have these very clear personas. But
+
+331
+00:12:38,560 --> 00:12:41,680
+obviously in real life people are more
+
+332
+00:12:39,920 --> 00:12:43,600
+complex than that. Like everyone is some
+
+333
+00:12:41,680 --> 00:12:45,279
+combination of a million different
+
+334
+00:12:43,600 --> 00:12:47,040
+things. And so it's not that we
+
+335
+00:12:45,279 --> 00:12:49,200
+necessarily have this like clear set of
+
+336
+00:12:47,040 --> 00:12:50,959
+like layers where it's like a discrete
+
+337
+00:12:49,200 --> 00:12:53,920
+layer, discreet layer, discreet layer.
+
+338
+00:12:50,959 --> 00:12:56,320
+It's that we're slowly growing the reach
+
+339
+00:12:53,920 --> 00:12:58,399
+and awareness and credibility of what
+
+340
+00:12:56,320 --> 00:13:01,839
+we're doing as we go and then pulling in
+
+341
+00:12:58,399 --> 00:13:03,680
+those people whose personas match to the
+
+342
+00:13:01,839 --> 00:13:06,160
+things that we're delivering value or
+
+343
+00:13:03,680 --> 00:13:09,040
+interest around. So we took that tech
+
+344
+00:13:06,160 --> 00:13:10,639
+enthusiast gamer persona and the various
+
+345
+00:13:09,040 --> 00:13:12,160
+subpersonas within it and thought like,
+
+346
+00:13:10,639 --> 00:13:13,760
+okay, how do we win that audience? And
+
+347
+00:13:12,160 --> 00:13:15,760
+we thought they want latest and greatest
+
+348
+00:13:13,760 --> 00:13:17,519
+graphics. Like graphics upgradability is
+
+349
+00:13:15,760 --> 00:13:19,440
+huge for the audience and they just
+
+350
+00:13:17,519 --> 00:13:22,320
+can't get it out of a laptop. And so we
+
+351
+00:13:19,440 --> 00:13:24,160
+thought, okay, when we build our next
+
+352
+00:13:22,320 --> 00:13:26,959
+laptop form factor, the thing we should
+
+353
+00:13:24,160 --> 00:13:29,120
+prioritize is graphics upgradability so
+
+354
+00:13:26,959 --> 00:13:32,639
+we can go win that audience. And so this
+
+355
+00:13:29,120 --> 00:13:34,800
+goes back to fulfilling our mission. We
+
+356
+00:13:32,639 --> 00:13:37,040
+have this long lasting repairable
+
+357
+00:13:34,800 --> 00:13:39,600
+upgradeable product but doing it in a
+
+358
+00:13:37,040 --> 00:13:41,839
+way that also expands our audience reach
+
+359
+00:13:39,600 --> 00:13:44,320
+by being not just a new version of our
+
+360
+00:13:41,839 --> 00:13:46,160
+laptop in a different form factor but
+
+361
+00:13:44,320 --> 00:13:48,320
+enables this functionality that is
+
+362
+00:13:46,160 --> 00:13:50,560
+actually the key thing that was holding
+
+363
+00:13:48,320 --> 00:13:54,040
+back a specific set of consumers out
+
+364
+00:13:50,560 --> 00:13:54,040
+there in the world.
+
+365
+00:13:55,920 --> 00:14:00,079
+One of the biggest things that I've
+
+366
+00:13:58,399 --> 00:14:01,680
+learned actually and I've actually tried
+
+367
+00:14:00,079 --> 00:14:04,760
+to share with other people starting
+
+368
+00:14:01,680 --> 00:14:08,320
+consumer hardware startups is that
+
+369
+00:14:04,760 --> 00:14:09,920
+critical fundraising roadmap. And of
+
+370
+00:14:08,320 --> 00:14:13,920
+course, if you're building hardware,
+
+371
+00:14:09,920 --> 00:14:15,600
+there's typically a 2-year ramp from
+
+372
+00:14:13,920 --> 00:14:18,399
+coming up with the product you want to
+
+373
+00:14:15,600 --> 00:14:20,079
+build to being able to ship the first
+
+374
+00:14:18,399 --> 00:14:22,639
+version of it and collect revenue for
+
+375
+00:14:20,079 --> 00:14:26,800
+the first time. If you can't fund your
+
+376
+00:14:22,639 --> 00:14:28,959
+way to escape velocity, you're going to
+
+377
+00:14:26,800 --> 00:14:30,880
+fail anyway. So, what you need to do is
+
+378
+00:14:28,959 --> 00:14:33,040
+think through what is that path? What's
+
+379
+00:14:30,880 --> 00:14:34,800
+the high assurance path that you have as
+
+380
+00:14:33,040 --> 00:14:36,480
+a company with the product and business
+
+381
+00:14:34,800 --> 00:14:38,720
+model you're building and the audiences
+
+382
+00:14:36,480 --> 00:14:40,320
+that you're going after to reach escape
+
+383
+00:14:38,720 --> 00:14:42,880
+velocity? Meaning the point in time
+
+384
+00:14:40,320 --> 00:14:44,959
+where you're able to self-fund your own
+
+385
+00:14:42,880 --> 00:14:46,880
+product roadmap and your own growth. And
+
+386
+00:14:44,959 --> 00:14:48,639
+so one of the most important things for
+
+387
+00:14:46,880 --> 00:14:51,120
+consumer hardware especially because
+
+388
+00:14:48,639 --> 00:14:54,000
+those development timelines are so long
+
+389
+00:14:51,120 --> 00:14:56,320
+is to make sure that you have funding in
+
+390
+00:14:54,000 --> 00:14:58,880
+the loop almost this idea that you're
+
+391
+00:14:56,320 --> 00:15:01,120
+talking to investors very early and very
+
+392
+00:14:58,880 --> 00:15:03,120
+regularly to make sure that at the right
+
+393
+00:15:01,120 --> 00:15:04,959
+points in time when you're going to need
+
+394
+00:15:03,120 --> 00:15:07,199
+funding that you're going to be able to
+
+395
+00:15:04,959 --> 00:15:09,120
+show the right kinds of traction and the
+
+396
+00:15:07,199 --> 00:15:10,880
+right kinds of metrics for those
+
+397
+00:15:09,120 --> 00:15:12,399
+investors to see the signals that
+
+398
+00:15:10,880 --> 00:15:14,240
+they'll need to see to be able to put
+
+399
+00:15:12,399 --> 00:15:16,320
+funding into you. that even though we
+
+400
+00:15:14,240 --> 00:15:18,399
+have a product time horizon that's two
+
+401
+00:15:16,320 --> 00:15:21,680
+years away, we have a vision time
+
+402
+00:15:18,399 --> 00:15:24,480
+horizon that's 20 years away, that we we
+
+403
+00:15:21,680 --> 00:15:26,959
+look out 20 years and we see a world and
+
+404
+00:15:24,480 --> 00:15:28,320
+a consumer electronics industry that's
+
+405
+00:15:26,959 --> 00:15:30,399
+fundamentally different. That this
+
+406
+00:15:28,320 --> 00:15:32,800
+business model that we've adopted at
+
+407
+00:15:30,399 --> 00:15:34,320
+scale is just so fundamentally more
+
+408
+00:15:32,800 --> 00:15:37,519
+efficient than the traditional business
+
+409
+00:15:34,320 --> 00:15:39,600
+model and so much better as a model for
+
+410
+00:15:37,519 --> 00:15:41,360
+both us as a company and for the
+
+411
+00:15:39,600 --> 00:15:43,120
+customers buying the product that we
+
+412
+00:15:41,360 --> 00:15:47,199
+know it's a winning model. And so we see
+
+413
+00:15:43,120 --> 00:15:49,519
+that as this north star for us that we
+
+414
+00:15:47,199 --> 00:15:52,519
+continuously move ourselves towards as
+
+415
+00:15:49,519 --> 00:15:56,480
+we go down this road
+
+416
+00:15:52,519 --> 00:15:58,959
+map. The key lesson is don't give up.
+
+417
+00:15:56,480 --> 00:16:01,199
+That resiliency is the single most
+
+418
+00:15:58,959 --> 00:16:04,320
+important trait and you're going to have
+
+419
+00:16:01,199 --> 00:16:07,279
+to pull rabbits out of hats over and
+
+420
+00:16:04,320 --> 00:16:09,920
+over again in a startup. And as long as
+
+421
+00:16:07,279 --> 00:16:11,839
+you are still willing to reach your hand
+
+422
+00:16:09,920 --> 00:16:15,480
+into the hat and find another rabbit,
+
+423
+00:16:11,839 --> 00:16:15,480
+you should keep going.
+
+424
+00:16:21,500 --> 00:16:24,820
+[Music]
+

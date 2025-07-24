@@ -1,0 +1,1614 @@
+{
+  "success": true,
+  "videoId": "uB-u2__tkHQ",
+  "videoTitle": "The Journey from India to Building a $500M AI Video Product ｜ Gaurav Misra, Captions",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "I grew up in India. I had no idea or no"
+    },
+    {
+      "start": 2,
+      "text": "concept of like what is Boston? What is"
+    },
+    {
+      "start": 4,
+      "text": "New York? I hadn't been to any of these"
+    },
+    {
+      "start": 5,
+      "text": "places. Boston generally is a very"
+    },
+    {
+      "start": 6,
+      "text": "multicultural environment. People come"
+    },
+    {
+      "start": 8,
+      "text": "there from a lot of different countries"
+    },
+    {
+      "start": 9,
+      "text": "and I went to Boston University where"
+    },
+    {
+      "start": 11,
+      "text": "that's especially the case. After"
+    },
+    {
+      "start": 13,
+      "text": "graduating from college, I actually"
+    },
+    {
+      "start": 14,
+      "text": "started a PhD in machine learning which"
+    },
+    {
+      "start": 16,
+      "text": "I actually dropped out of. I left my PhD"
+    },
+    {
+      "start": 18,
+      "text": "program and I joined a startup. People"
+    },
+    {
+      "start": 20,
+      "text": "thought I was crazy that I would just"
+    },
+    {
+      "start": 22,
+      "text": "drop out of it and get kind of go join"
+    },
+    {
+      "start": 24,
+      "text": "some startup, right? But I think it was"
+    },
+    {
+      "start": 25,
+      "text": "the right decision looking back at it."
+    },
+    {
+      "start": 27,
+      "text": "It was a very high-risisk decision, but"
+    },
+    {
+      "start": 29,
+      "text": "it worked out. Especially in the US, and"
+    },
+    {
+      "start": 30,
+      "text": "I think that's what makes the US such a"
+    },
+    {
+      "start": 32,
+      "text": "special place. There's definitely so"
+    },
+    {
+      "start": 34,
+      "text": "much opportunity that I think it's"
+    },
+    {
+      "start": 36,
+      "text": "better to be a little bit more of a"
+    },
+    {
+      "start": 38,
+      "text": "risk-taker. Most of the time, you can"
+    },
+    {
+      "start": 39,
+      "text": "take a risk and actually get rewarded"
+    },
+    {
+      "start": 41,
+      "text": "for it. I think people don't bias enough"
+    },
+    {
+      "start": 44,
+      "text": "towards taking risks. If you just do"
+    },
+    {
+      "start": 45,
+      "text": "what everybody else is doing, then"
+    },
+    {
+      "start": 47,
+      "text": "you'll just end up wherever everybody"
+    },
+    {
+      "start": 48,
+      "text": "else is going, right?"
+    },
+    {
+      "start": 53,
+      "text": "My name is Goraf and I am the co-founder"
+    },
+    {
+      "start": 55,
+      "text": "and CEO of Captions. Captions is a video"
+    },
+    {
+      "start": 58,
+      "text": "creation company. Our goal is to make it"
+    },
+    {
+      "start": 60,
+      "text": "easy for anybody anywhere to be able to"
+    },
+    {
+      "start": 62,
+      "text": "tell their story through video without"
+    },
+    {
+      "start": 64,
+      "text": "actually going through the physical"
+    },
+    {
+      "start": 65,
+      "text": "process of recording or editing a video."
+    },
+    {
+      "start": 68,
+      "text": "We've raised over $und00 million in"
+    },
+    {
+      "start": 70,
+      "text": "funding. It's gotten to tens of millions"
+    },
+    {
+      "start": 72,
+      "text": "of users and over 100,000 plus users"
+    },
+    {
+      "start": 76,
+      "text": "daily."
+    },
+    {
+      "start": 82,
+      "text": "I was in the US for the first four years"
+    },
+    {
+      "start": 84,
+      "text": "of my life and my parents moved to"
+    },
+    {
+      "start": 86,
+      "text": "India. I grew up in India. Moving back"
+    },
+    {
+      "start": 88,
+      "text": "to the US like I had no idea or no"
+    },
+    {
+      "start": 90,
+      "text": "concept of like what it would be like."
+    },
+    {
+      "start": 93,
+      "text": "What is Boston? What is New York? Like I"
+    },
+    {
+      "start": 94,
+      "text": "hadn't been to any of these places. My"
+    },
+    {
+      "start": 96,
+      "text": "parents were like Boston's great you"
+    },
+    {
+      "start": 98,
+      "text": "should go there. And I was like sounds"
+    },
+    {
+      "start": 99,
+      "text": "great. Let me do that. So at Boston"
+    },
+    {
+      "start": 101,
+      "text": "University it was an interesting"
+    },
+    {
+      "start": 102,
+      "text": "situation because coming from India sort"
+    },
+    {
+      "start": 105,
+      "text": "of the curriculum there especially"
+    },
+    {
+      "start": 107,
+      "text": "around computer science is just very"
+    },
+    {
+      "start": 109,
+      "text": "advanced compared to the US and a lot of"
+    },
+    {
+      "start": 111,
+      "text": "the things that we actually were being"
+    },
+    {
+      "start": 113,
+      "text": "taught in college we had already covered"
+    },
+    {
+      "start": 115,
+      "text": "in high school for the most part. A lot"
+    },
+    {
+      "start": 116,
+      "text": "of college classes were essentially"
+    },
+    {
+      "start": 118,
+      "text": "repeating what I had already done in"
+    },
+    {
+      "start": 120,
+      "text": "high school. It probably was the case"
+    },
+    {
+      "start": 122,
+      "text": "for a lot of people from India I"
+    },
+    {
+      "start": 123,
+      "text": "imagine. I think that did give me a"
+    },
+    {
+      "start": 125,
+      "text": "chance to actually go and explore"
+    },
+    {
+      "start": 126,
+      "text": "outside of just that and kind of see"
+    },
+    {
+      "start": 129,
+      "text": "what else I can learn and what more I"
+    },
+    {
+      "start": 131,
+      "text": "can do. I did tons of projects. I like"
+    },
+    {
+      "start": 133,
+      "text": "worked on projects with my roommates. I"
+    },
+    {
+      "start": 135,
+      "text": "worked on a lot of different apps that"
+    },
+    {
+      "start": 137,
+      "text": "we launched and this was like in 2012"
+    },
+    {
+      "start": 139,
+      "text": "2011 when the app store was still early"
+    },
+    {
+      "start": 141,
+      "text": "in high school and going into college. I"
+    },
+    {
+      "start": 143,
+      "text": "had started a kind of a company in a"
+    },
+    {
+      "start": 145,
+      "text": "strange way. I say that because I"
+    },
+    {
+      "start": 147,
+      "text": "actually didn't realize it was a company"
+    },
+    {
+      "start": 149,
+      "text": "until much later. I was working on some"
+    },
+    {
+      "start": 151,
+      "text": "games and there was some need around"
+    },
+    {
+      "start": 153,
+      "text": "like security software for those games"
+    },
+    {
+      "start": 154,
+      "text": "and I decided to make it and the game"
+    },
+    {
+      "start": 156,
+      "text": "company decided to buy it for me not"
+    },
+    {
+      "start": 158,
+      "text": "knowing that I was like 16 years old and"
+    },
+    {
+      "start": 160,
+      "text": "I ended up selling it to a bunch of"
+    },
+    {
+      "start": 162,
+      "text": "other companies as well. I didn't"
+    },
+    {
+      "start": 163,
+      "text": "realize at that time that this is what a"
+    },
+    {
+      "start": 164,
+      "text": "company is is like you make a product"
+    },
+    {
+      "start": 166,
+      "text": "you sell it but much later I was like"
+    },
+    {
+      "start": 168,
+      "text": "wow that's kind of what it was. It was a"
+    },
+    {
+      "start": 170,
+      "text": "interesting sort of experience to go"
+    },
+    {
+      "start": 171,
+      "text": "through because it kind of transitioned"
+    },
+    {
+      "start": 173,
+      "text": "from generally games and gaming into"
+    },
+    {
+      "start": 175,
+      "text": "sort of more general skill set. I really"
+    },
+    {
+      "start": 178,
+      "text": "enjoy learning new things. How do you"
+    },
+    {
+      "start": 180,
+      "text": "learn things quickly and how do you"
+    },
+    {
+      "start": 182,
+      "text": "figure things out quickly? It's"
+    },
+    {
+      "start": 184,
+      "text": "something that not a lot of people talk"
+    },
+    {
+      "start": 185,
+      "text": "about, but it's like one of the most"
+    },
+    {
+      "start": 187,
+      "text": "important skills in my mind. Go to a new"
+    },
+    {
+      "start": 189,
+      "text": "domain, you know, go to a new area,"
+    },
+    {
+      "start": 191,
+      "text": "something that you haven't done before,"
+    },
+    {
+      "start": 193,
+      "text": "try for the first time, figure it out"
+    },
+    {
+      "start": 194,
+      "text": "quickly, and be actually useful and"
+    },
+    {
+      "start": 196,
+      "text": "productive in it is like it's a pretty"
+    },
+    {
+      "start": 198,
+      "text": "cool skill and it's pretty fun one to"
+    },
+    {
+      "start": 200,
+      "text": "work on because you get to try out a lot"
+    },
+    {
+      "start": 201,
+      "text": "of different things. You'll get to learn"
+    },
+    {
+      "start": 202,
+      "text": "a lot of different things and focus on"
+    },
+    {
+      "start": 204,
+      "text": "that as a skill in itself. Being able to"
+    },
+    {
+      "start": 206,
+      "text": "do all those different things and"
+    },
+    {
+      "start": 207,
+      "text": "figuring those things out is really"
+    },
+    {
+      "start": 209,
+      "text": "[Music]"
+    },
+    {
+      "start": 214,
+      "text": "important. Through the early part of my"
+    },
+    {
+      "start": 216,
+      "text": "career, I was really focused on machine"
+    },
+    {
+      "start": 218,
+      "text": "learning as a central aspect of what I"
+    },
+    {
+      "start": 221,
+      "text": "was doing. At Microsoft, I joined them"
+    },
+    {
+      "start": 223,
+      "text": "on this new team they were developing"
+    },
+    {
+      "start": 225,
+      "text": "called Azure Machine Learning. It's like"
+    },
+    {
+      "start": 227,
+      "text": "a machine learning platform they were"
+    },
+    {
+      "start": 228,
+      "text": "building. And then at Snapchat, there"
+    },
+    {
+      "start": 230,
+      "text": "was a bit of a difference. I got a"
+    },
+    {
+      "start": 232,
+      "text": "chance to really get more on the product"
+    },
+    {
+      "start": 234,
+      "text": "side and eventually ended up joining the"
+    },
+    {
+      "start": 236,
+      "text": "design team which was like a huge shift"
+    },
+    {
+      "start": 238,
+      "text": "from what I had done previously and the"
+    },
+    {
+      "start": 241,
+      "text": "idea of like connecting technology to"
+    },
+    {
+      "start": 242,
+      "text": "actual design and actual product made a"
+    },
+    {
+      "start": 245,
+      "text": "lot of sense. So I ended up starting a"
+    },
+    {
+      "start": 247,
+      "text": "team there called design engineering"
+    },
+    {
+      "start": 249,
+      "text": "which was like how do you bring together"
+    },
+    {
+      "start": 251,
+      "text": "great design and great engineering to"
+    },
+    {
+      "start": 252,
+      "text": "build amazing products right? One of the"
+    },
+    {
+      "start": 254,
+      "text": "things I learned at Snap, if you think"
+    },
+    {
+      "start": 256,
+      "text": "about Snap as a company, I think Snap"
+    },
+    {
+      "start": 258,
+      "text": "was one of the earliest companies to"
+    },
+    {
+      "start": 260,
+      "text": "actually get into video for consumer use"
+    },
+    {
+      "start": 262,
+      "text": "cases, especially short video. It did"
+    },
+    {
+      "start": 264,
+      "text": "get me very immersed into the space of"
+    },
+    {
+      "start": 268,
+      "text": "like video in general, especially video"
+    },
+    {
+      "start": 269,
+      "text": "for communication, short videos, and all"
+    },
+    {
+      "start": 271,
+      "text": "the challenges both technical and"
+    },
+    {
+      "start": 273,
+      "text": "product that are related to that. But I"
+    },
+    {
+      "start": 275,
+      "text": "think in general, one of the things that"
+    },
+    {
+      "start": 277,
+      "text": "I noticed was essentially a shift in the"
+    },
+    {
+      "start": 280,
+      "text": "way that people were communicating. A"
+    },
+    {
+      "start": 281,
+      "text": "lot of people thought Tik Tok was just,"
+    },
+    {
+      "start": 283,
+      "text": "oh, Tik Tok, that's like just people"
+    },
+    {
+      "start": 284,
+      "text": "dancing, right? It's for fun. But I"
+    },
+    {
+      "start": 287,
+      "text": "think the reality was that yes, there"
+    },
+    {
+      "start": 289,
+      "text": "were a bunch of people dancing, but"
+    },
+    {
+      "start": 290,
+      "text": "there was a lot of people talking and"
+    },
+    {
+      "start": 292,
+      "text": "there were a lot of people telling"
+    },
+    {
+      "start": 293,
+      "text": "stories and, you know, sometimes bad"
+    },
+    {
+      "start": 295,
+      "text": "things that happened to them, good"
+    },
+    {
+      "start": 296,
+      "text": "things that happened to them. People"
+    },
+    {
+      "start": 297,
+      "text": "were like talking about ideas and like"
+    },
+    {
+      "start": 299,
+      "text": "what could be done and what should be"
+    },
+    {
+      "start": 301,
+      "text": "done and people were arguing with each"
+    },
+    {
+      "start": 303,
+      "text": "other, right? And I think that was like"
+    },
+    {
+      "start": 305,
+      "text": "a shift in the way people communicated"
+    },
+    {
+      "start": 306,
+      "text": "from like that's the type of stuff that"
+    },
+    {
+      "start": 308,
+      "text": "would happen like on Twitter or like on"
+    },
+    {
+      "start": 310,
+      "text": "text beforehand, right? and it was now"
+    },
+    {
+      "start": 311,
+      "text": "happening on video for the first time."
+    },
+    {
+      "start": 313,
+      "text": "So, I got pretty familiar with all the"
+    },
+    {
+      "start": 316,
+      "text": "different ways that people are"
+    },
+    {
+      "start": 317,
+      "text": "communicating and kind of what works"
+    },
+    {
+      "start": 319,
+      "text": "better and what doesn't"
+    },
+    {
+      "start": 324,
+      "text": "work. When we started the company, we"
+    },
+    {
+      "start": 327,
+      "text": "were thinking about building a social"
+    },
+    {
+      "start": 328,
+      "text": "network and so we were thinking, okay,"
+    },
+    {
+      "start": 330,
+      "text": "there's like a distribution part and"
+    },
+    {
+      "start": 332,
+      "text": "then there's a creation part of the"
+    },
+    {
+      "start": 333,
+      "text": "social network. We thought, hey, let's"
+    },
+    {
+      "start": 335,
+      "text": "start with the creation first. So we"
+    },
+    {
+      "start": 337,
+      "text": "started off with the idea of literally"
+    },
+    {
+      "start": 339,
+      "text": "just adding captions to videos, text on"
+    },
+    {
+      "start": 342,
+      "text": "videos based on what people are saying."
+    },
+    {
+      "start": 343,
+      "text": "The reason we did this is because we saw"
+    },
+    {
+      "start": 345,
+      "text": "there was a big accessibility movement"
+    },
+    {
+      "start": 347,
+      "text": "at that time. There were a lot of people"
+    },
+    {
+      "start": 349,
+      "text": "sort of manually writing text on top of"
+    },
+    {
+      "start": 352,
+      "text": "their videos and it was spent an hour"
+    },
+    {
+      "start": 354,
+      "text": "like typing it all out. There wasn't"
+    },
+    {
+      "start": 356,
+      "text": "actually a solution for this that was in"
+    },
+    {
+      "start": 358,
+      "text": "the market at that time. So we were the"
+    },
+    {
+      "start": 360,
+      "text": "first ones to build it and the absolute"
+    },
+    {
+      "start": 362,
+      "text": "first project we built it in one weekend"
+    },
+    {
+      "start": 365,
+      "text": "just as like a test essentially and we"
+    },
+    {
+      "start": 368,
+      "text": "put it on the app store and the next day"
+    },
+    {
+      "start": 370,
+      "text": "we woke up and it was like 600 people"
+    },
+    {
+      "start": 373,
+      "text": "per minute using it basically it was"
+    },
+    {
+      "start": 374,
+      "text": "completely at the top of the app store"
+    },
+    {
+      "start": 376,
+      "text": "with no marketing no nothing done"
+    },
+    {
+      "start": 379,
+      "text": "essentially and I think that was like"
+    },
+    {
+      "start": 381,
+      "text": "the moment where it was like wow it"
+    },
+    {
+      "start": 382,
+      "text": "can't be this easy right like it really"
+    },
+    {
+      "start": 384,
+      "text": "can't be because we had been told right"
+    },
+    {
+      "start": 386,
+      "text": "like it's going to be a lot of work to"
+    },
+    {
+      "start": 388,
+      "text": "find product market fit and things like"
+    },
+    {
+      "start": 389,
+      "text": "that. But I think that being said, we"
+    },
+    {
+      "start": 392,
+      "text": "had just started the company and we had"
+    },
+    {
+      "start": 393,
+      "text": "this idea of a social network and things"
+    },
+    {
+      "start": 395,
+      "text": "like that. I think we were like, \"Okay,"
+    },
+    {
+      "start": 396,
+      "text": "this is working, but I wonder if we"
+    },
+    {
+      "start": 398,
+      "text": "should go back and like really think"
+    },
+    {
+      "start": 400,
+      "text": "about the social network aspect of"
+    },
+    {
+      "start": 401,
+      "text": "this.\" And so we tried to figure out how"
+    },
+    {
+      "start": 403,
+      "text": "to get people to post on the platform"
+    },
+    {
+      "start": 405,
+      "text": "and things like that until we"
+    },
+    {
+      "start": 407,
+      "text": "essentially rediscovered captions. And"
+    },
+    {
+      "start": 409,
+      "text": "this was a interesting moment where we"
+    },
+    {
+      "start": 411,
+      "text": "were working on another application"
+    },
+    {
+      "start": 412,
+      "text": "which was called Spam App. It was like a"
+    },
+    {
+      "start": 414,
+      "text": "photo sharing app. It was actually doing"
+    },
+    {
+      "start": 416,
+      "text": "really well. While we were working on"
+    },
+    {
+      "start": 417,
+      "text": "that, we're looking at the bills and"
+    },
+    {
+      "start": 419,
+      "text": "there was like a good $10,000 a month"
+    },
+    {
+      "start": 421,
+      "text": "going to captions. You know, I remember"
+    },
+    {
+      "start": 423,
+      "text": "talking to my co-founder and we were"
+    },
+    {
+      "start": 424,
+      "text": "like, \"Okay, let's just delete it"
+    },
+    {
+      "start": 426,
+      "text": "because we don't want to spend $120,000"
+    },
+    {
+      "start": 428,
+      "text": "a year on this, right?\" We decided to"
+    },
+    {
+      "start": 430,
+      "text": "delete it. I remember going back home"
+    },
+    {
+      "start": 432,
+      "text": "and on Saturday going through like, you"
+    },
+    {
+      "start": 436,
+      "text": "know, the UI to be like, \"Okay, I'm"
+    },
+    {
+      "start": 437,
+      "text": "going to press delete now.\" And while I"
+    },
+    {
+      "start": 439,
+      "text": "was going to press delete, I was just"
+    },
+    {
+      "start": 441,
+      "text": "thinking, \"Ah, but like we worked so"
+    },
+    {
+      "start": 444,
+      "text": "hard on this. Like I don't want to"
+    },
+    {
+      "start": 445,
+      "text": "delete this, right?\" Like it's like I"
+    },
+    {
+      "start": 447,
+      "text": "want to keep it for memories at least,"
+    },
+    {
+      "start": 448,
+      "text": "right? So I had an idea just in the"
+    },
+    {
+      "start": 451,
+      "text": "moment quickly design a little payw wall"
+    },
+    {
+      "start": 453,
+      "text": "where we ask people to pay for the app."
+    },
+    {
+      "start": 456,
+      "text": "If nobody pays for it then it's"
+    },
+    {
+      "start": 457,
+      "text": "essentially shut down but we can"
+    },
+    {
+      "start": 459,
+      "text": "continue using it because you know we"
+    },
+    {
+      "start": 461,
+      "text": "work hard on it and if someone pays for"
+    },
+    {
+      "start": 463,
+      "text": "it then it pays for itself. So we're not"
+    },
+    {
+      "start": 465,
+      "text": "paying the bills basically. So I quickly"
+    },
+    {
+      "start": 468,
+      "text": "made that in about 2 or 3 hours put it"
+    },
+    {
+      "start": 470,
+      "text": "on the app store and launched it and"
+    },
+    {
+      "start": 472,
+      "text": "then completely forgot about it. So, we"
+    },
+    {
+      "start": 474,
+      "text": "continued working on spam app and it"
+    },
+    {
+      "start": 476,
+      "text": "continued growing through the next, you"
+    },
+    {
+      "start": 479,
+      "text": "know, four, five, six months. While we"
+    },
+    {
+      "start": 482,
+      "text": "were doing that, I for some reason"
+    },
+    {
+      "start": 484,
+      "text": "decided to check my account. And when I"
+    },
+    {
+      "start": 486,
+      "text": "checked it, it was like at $500,000 or"
+    },
+    {
+      "start": 489,
+      "text": "more and growing. And like the craziest"
+    },
+    {
+      "start": 491,
+      "text": "part was not only did people pay for it,"
+    },
+    {
+      "start": 493,
+      "text": "people retained on it. And it was"
+    },
+    {
+      "start": 495,
+      "text": "growing in revenue completely on its own"
+    },
+    {
+      "start": 497,
+      "text": "with like zero employees working on it."
+    },
+    {
+      "start": 500,
+      "text": "So, no employees. There were like 2,000"
+    },
+    {
+      "start": 503,
+      "text": "open support tickets. Nobody was"
+    },
+    {
+      "start": 505,
+      "text": "answering obviously, right? And it would"
+    },
+    {
+      "start": 508,
+      "text": "continue to grow. You know, we had to"
+    },
+    {
+      "start": 510,
+      "text": "have this like tough conversation of"
+    },
+    {
+      "start": 512,
+      "text": "like, oh my god, like this is truly"
+    },
+    {
+      "start": 514,
+      "text": "working, right? And it was tough because"
+    },
+    {
+      "start": 517,
+      "text": "we already had another thing that was"
+    },
+    {
+      "start": 519,
+      "text": "also working and that we were raising a"
+    },
+    {
+      "start": 521,
+      "text": "new round on essentially, right? I think"
+    },
+    {
+      "start": 523,
+      "text": "we discussed this for a couple of weeks"
+    },
+    {
+      "start": 525,
+      "text": "and we ended up deciding we're going to"
+    },
+    {
+      "start": 528,
+      "text": "switch to captions and we're going to"
+    },
+    {
+      "start": 529,
+      "text": "just focus on creation as the primary."
+    },
+    {
+      "start": 532,
+      "text": "We switched over and literally the"
+    },
+    {
+      "start": 535,
+      "text": "moment we launched the first set of"
+    },
+    {
+      "start": 537,
+      "text": "features on top of the existing app."
+    },
+    {
+      "start": 539,
+      "text": "What was looking like a fast growth"
+    },
+    {
+      "start": 542,
+      "text": "completely condensed because the new"
+    },
+    {
+      "start": 544,
+      "text": "growth was exponential just like"
+    },
+    {
+      "start": 547,
+      "text": "straight up. I mean, I think that's kind"
+    },
+    {
+      "start": 549,
+      "text": "of the crazy thing that I think about at"
+    },
+    {
+      "start": 550,
+      "text": "this point is like that split-second"
+    },
+    {
+      "start": 553,
+      "text": "decision was the difference between two"
+    },
+    {
+      "start": 555,
+      "text": "completely different paths. Here's the"
+    },
+    {
+      "start": 556,
+      "text": "thing, like we don't know. The other"
+    },
+    {
+      "start": 558,
+      "text": "side could have been even more"
+    },
+    {
+      "start": 559,
+      "text": "successful. That's the tough part about"
+    },
+    {
+      "start": 560,
+      "text": "these decisions is like you have to"
+    },
+    {
+      "start": 562,
+      "text": "choose one and you'll never know what"
+    },
+    {
+      "start": 564,
+      "text": "the other could have been. I think the"
+    },
+    {
+      "start": 565,
+      "text": "big decisions are actually in the small"
+    },
+    {
+      "start": 567,
+      "text": "decisions in a way and the small"
+    },
+    {
+      "start": 569,
+      "text": "decisions are what actually you don't"
+    },
+    {
+      "start": 571,
+      "text": "think about too much but actually turn"
+    },
+    {
+      "start": 574,
+      "text": "the tide of like what will happen in the"
+    },
+    {
+      "start": 576,
+      "text": "future. I think that was the case over"
+    },
+    {
+      "start": 578,
+      "text": "here too, right? Because like what felt"
+    },
+    {
+      "start": 579,
+      "text": "like a very small decision of like other"
+    },
+    {
+      "start": 581,
+      "text": "app should we delete it or not seem like"
+    },
+    {
+      "start": 583,
+      "text": "kind of obvious. Anybody we would have"
+    },
+    {
+      "start": 584,
+      "text": "asked would have told us, yeah, just"
+    },
+    {
+      "start": 585,
+      "text": "delete it, right? Whatever. But I think"
+    },
+    {
+      "start": 587,
+      "text": "those small decisions actually are way"
+    },
+    {
+      "start": 589,
+      "text": "more important than the big ones"
+    },
+    {
+      "start": 591,
+      "text": "sometimes. And I think this shows quite"
+    },
+    {
+      "start": 593,
+      "text": "a bit like if you look at any"
+    },
+    {
+      "start": 594,
+      "text": "competition at a global scale, right,"
+    },
+    {
+      "start": 596,
+      "text": "which building a startup is kind of a"
+    },
+    {
+      "start": 598,
+      "text": "competition at a global scale. Like look"
+    },
+    {
+      "start": 599,
+      "text": "at the Olympics for example, right? Like"
+    },
+    {
+      "start": 601,
+      "text": "people are like within seconds of each"
+    },
+    {
+      "start": 602,
+      "text": "other, right? Sometimes even"
+    },
+    {
+      "start": 604,
+      "text": "milliseconds of each other. That's not"
+    },
+    {
+      "start": 605,
+      "text": "because of some major decision they made"
+    },
+    {
+      "start": 607,
+      "text": "while training or something like that."
+    },
+    {
+      "start": 609,
+      "text": "Everyone's very good, right? It's"
+    },
+    {
+      "start": 610,
+      "text": "probably like some minor micro decision"
+    },
+    {
+      "start": 612,
+      "text": "that happened in the moment like, you"
+    },
+    {
+      "start": 614,
+      "text": "know, while they're swimming and they"
+    },
+    {
+      "start": 616,
+      "text": "moved one arm at this angle versus the"
+    },
+    {
+      "start": 618,
+      "text": "other angle. Like that's what's deciding"
+    },
+    {
+      "start": 619,
+      "text": "who wins and loses, right? I think it's"
+    },
+    {
+      "start": 621,
+      "text": "like those small decisions that count"
+    },
+    {
+      "start": 622,
+      "text": "the most."
+    },
+    {
+      "start": 629,
+      "text": "We did face challenges around like"
+    },
+    {
+      "start": 630,
+      "text": "identifying the user and making sure"
+    },
+    {
+      "start": 632,
+      "text": "we're building for the right user"
+    },
+    {
+      "start": 633,
+      "text": "because when we launched the app like it"
+    },
+    {
+      "start": 635,
+      "text": "was immediately sort of successful,"
+    },
+    {
+      "start": 637,
+      "text": "right? And it immediately blew up. It"
+    },
+    {
+      "start": 640,
+      "text": "made things easier and harder in some"
+    },
+    {
+      "start": 642,
+      "text": "ways. I think one of the things that can"
+    },
+    {
+      "start": 643,
+      "text": "happen when too many people join sort of"
+    },
+    {
+      "start": 646,
+      "text": "your app or product very quickly is you"
+    },
+    {
+      "start": 649,
+      "text": "kind of lose lose sight of who the"
+    },
+    {
+      "start": 651,
+      "text": "customer is because there's a lot of"
+    },
+    {
+      "start": 652,
+      "text": "people who are just checking it out."
+    },
+    {
+      "start": 653,
+      "text": "There's a lot of people who don't"
+    },
+    {
+      "start": 655,
+      "text": "actually care about the use case, but"
+    },
+    {
+      "start": 657,
+      "text": "they want to just see what's going on."
+    },
+    {
+      "start": 658,
+      "text": "Between all that noise, it's difficult"
+    },
+    {
+      "start": 659,
+      "text": "to figure out like which one of these"
+    },
+    {
+      "start": 661,
+      "text": "people are the actual user. Who's going"
+    },
+    {
+      "start": 663,
+      "text": "to retain and for whom is this actually"
+    },
+    {
+      "start": 665,
+      "text": "solving a real problem? That's really"
+    },
+    {
+      "start": 666,
+      "text": "important because at the end of the day,"
+    },
+    {
+      "start": 668,
+      "text": "without focusing on the right customer,"
+    },
+    {
+      "start": 670,
+      "text": "you'll end up building the wrong"
+    },
+    {
+      "start": 671,
+      "text": "product. Captions was a paid app from"
+    },
+    {
+      "start": 673,
+      "text": "the beginning. And I think elements"
+    },
+    {
+      "start": 674,
+      "text": "there that was interesting is like being"
+    },
+    {
+      "start": 676,
+      "text": "paid actually helped filter our user"
+    },
+    {
+      "start": 679,
+      "text": "base a little bit and to only those"
+    },
+    {
+      "start": 681,
+      "text": "people who were willing to pay. Those"
+    },
+    {
+      "start": 682,
+      "text": "people that were willing to pay were"
+    },
+    {
+      "start": 683,
+      "text": "people who had real pain point. And so"
+    },
+    {
+      "start": 686,
+      "text": "with that, we got really good feedback"
+    },
+    {
+      "start": 688,
+      "text": "from users, right, around like what we"
+    },
+    {
+      "start": 689,
+      "text": "should build and what we should"
+    },
+    {
+      "start": 690,
+      "text": "prioritize and what they want from us in"
+    },
+    {
+      "start": 692,
+      "text": "the future. We decided to keep the app"
+    },
+    {
+      "start": 694,
+      "text": "paid right from the beginning all the"
+    },
+    {
+      "start": 696,
+      "text": "way till today because of that reason. I"
+    },
+    {
+      "start": 698,
+      "text": "think on the technical side, we try to"
+    },
+    {
+      "start": 700,
+      "text": "avoid as much as possible technical"
+    },
+    {
+      "start": 702,
+      "text": "challenges that it's sort of unproven"
+    },
+    {
+      "start": 704,
+      "text": "essentially, right? Like I think one of"
+    },
+    {
+      "start": 705,
+      "text": "the mistakes that can be made is like"
+    },
+    {
+      "start": 706,
+      "text": "spending a lot of time building"
+    },
+    {
+      "start": 708,
+      "text": "something very technically complex"
+    },
+    {
+      "start": 709,
+      "text": "without fully recognizing whether"
+    },
+    {
+      "start": 711,
+      "text": "there's product market fit there or not."
+    },
+    {
+      "start": 712,
+      "text": "We spend a year building something and"
+    },
+    {
+      "start": 714,
+      "text": "nobody wants it. Right? That happens"
+    },
+    {
+      "start": 715,
+      "text": "very often and it's happened to us too."
+    },
+    {
+      "start": 717,
+      "text": "The key factor there is like how do you"
+    },
+    {
+      "start": 719,
+      "text": "reduce the technical risk to like an"
+    },
+    {
+      "start": 721,
+      "text": "MVP? How do you test with like just the"
+    },
+    {
+      "start": 723,
+      "text": "bare minimum? Get something out in front"
+    },
+    {
+      "start": 724,
+      "text": "of people. Have them see it. Have them"
+    },
+    {
+      "start": 726,
+      "text": "try it. If they don't retain, then don't"
+    },
+    {
+      "start": 728,
+      "text": "invest more in it, right? Try something"
+    },
+    {
+      "start": 729,
+      "text": "else. And I think that's the other thing"
+    },
+    {
+      "start": 731,
+      "text": "is like not going deeper and deeper into"
+    },
+    {
+      "start": 733,
+      "text": "the rabbit hole almost in a way. I think"
+    },
+    {
+      "start": 735,
+      "text": "there's also tendencies of like building"
+    },
+    {
+      "start": 737,
+      "text": "the first version seeing that it doesn't"
+    },
+    {
+      "start": 739,
+      "text": "completely work and then justifying it"
+    },
+    {
+      "start": 742,
+      "text": "by saying well if it only had this"
+    },
+    {
+      "start": 743,
+      "text": "feature and that feature and that third"
+    },
+    {
+      "start": 745,
+      "text": "feature then maybe it would have worked"
+    },
+    {
+      "start": 747,
+      "text": "right but I think the reality is like it"
+    },
+    {
+      "start": 749,
+      "text": "would not probably not have worked with"
+    },
+    {
+      "start": 750,
+      "text": "as many features as you want. It would"
+    },
+    {
+      "start": 752,
+      "text": "only have worked with a single feature"
+    },
+    {
+      "start": 754,
+      "text": "only one of those things right whatever"
+    },
+    {
+      "start": 756,
+      "text": "actually people want at the end of the"
+    },
+    {
+      "start": 757,
+      "text": "day. So, I think the better skill is to"
+    },
+    {
+      "start": 759,
+      "text": "just learn how to quickly build stuff."
+    },
+    {
+      "start": 761,
+      "text": "Try as many things as possible. The most"
+    },
+    {
+      "start": 763,
+      "text": "important thing is getting stuff out in"
+    },
+    {
+      "start": 765,
+      "text": "front of people, testing it. If it"
+    },
+    {
+      "start": 766,
+      "text": "doesn't work, kill it and start again."
+    },
+    {
+      "start": 768,
+      "text": "And keep doing that as quickly as"
+    },
+    {
+      "start": 770,
+      "text": "possible."
+    },
+    {
+      "start": 778,
+      "text": "[Music]"
+    },
+    {
+      "start": 783,
+      "text": "[Music]"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 401,
+  "timestamp": "2025-07-24T08:16:52.960Z"
+}

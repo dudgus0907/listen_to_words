@@ -1,0 +1,3919 @@
+{
+  "success": true,
+  "video_id": "f84n5oFoZBc",
+  "segments": 978,
+  "transcript": [
+    {
+      "start": 15,
+      "text": "hi uh hello"
+    },
+    {
+      "start": 19,
+      "text": "hey as I said"
+    },
+    {
+      "start": 22,
+      "text": "yesterday I swapped the talks around so"
+    },
+    {
+      "start": 25,
+      "text": "this is the more philosophical talk uh"
+    },
+    {
+      "start": 30,
+      "text": "has multiple"
+    },
+    {
+      "start": 32,
+      "text": "titles I couldn't"
+    },
+    {
+      "start": 34,
+      "text": "decide um some of them were semi"
+    },
+    {
+      "start": 38,
+      "text": "[Music]"
+    },
+    {
+      "start": 42,
+      "text": "cranky in those"
+    },
+    {
+      "start": 45,
+      "text": "moments and then uh Mark gave me a great"
+    },
+    {
+      "start": 49,
+      "text": "uh a great uh feto line because so this"
+    },
+    {
+      "start": 52,
+      "text": "is about step"
+    },
+    {
+      "start": 57,
+      "text": "one uh this is this is just an"
+    },
+    {
+      "start": 60,
+      "text": "experience report it's not advocacy"
+    },
+    {
+      "start": 62,
+      "text": "there's no methodology here or science"
+    },
+    {
+      "start": 64,
+      "text": "or anything"
+    },
+    {
+      "start": 68,
+      "text": "else so i' like you to try to think"
+    },
+    {
+      "start": 70,
+      "text": "about when was the last time that you"
+    },
+    {
+      "start": 71,
+      "text": "thought about something for an entire"
+    },
+    {
+      "start": 74,
+      "text": "hour like nobody bothered you and you"
+    },
+    {
+      "start": 77,
+      "text": "had an idea and you sat for an hour and"
+    },
+    {
+      "start": 79,
+      "text": "thought about"
+    },
+    {
+      "start": 81,
+      "text": "it how about for a whole"
+    },
+    {
+      "start": 85,
+      "text": "day does everybody remember last time I"
+    },
+    {
+      "start": 88,
+      "text": "sat and thought about something for a"
+    },
+    {
+      "start": 89,
+      "text": "whole"
+    },
+    {
+      "start": 91,
+      "text": "day how about over the course of a"
+    },
+    {
+      "start": 94,
+      "text": "month we had something you were working"
+    },
+    {
+      "start": 97,
+      "text": "on"
+    },
+    {
+      "start": 98,
+      "text": "and obviously you're not spending all"
+    },
+    {
+      "start": 101,
+      "text": "the time every day when you start saying"
+    },
+    {
+      "start": 102,
+      "text": "into a month um or a"
+    },
+    {
+      "start": 107,
+      "text": "year"
+    },
+    {
+      "start": 109,
+      "text": "um these are tremendously valuable"
+    },
+    {
+      "start": 113,
+      "text": "moments if you get to have them at all"
+    },
+    {
+      "start": 116,
+      "text": "uh I consider myself extremely lucky to"
+    },
+    {
+      "start": 118,
+      "text": "have had uh the ability to think about"
+    },
+    {
+      "start": 121,
+      "text": "probably three different things for a"
+    },
+    {
+      "start": 125,
+      "text": "year or more one of them was"
+    },
+    {
+      "start": 129,
+      "text": "closure and there's nothing I prize more"
+    },
+    {
+      "start": 133,
+      "text": "than that kind of time the other thing"
+    },
+    {
+      "start": 135,
+      "text": "I'd ask is when was the last time that"
+    },
+    {
+      "start": 137,
+      "text": "you felt confident uh trying to do"
+    },
+    {
+      "start": 139,
+      "text": "something you had never done"
+    },
+    {
+      "start": 141,
+      "text": "before and what do you think it takes to"
+    },
+    {
+      "start": 145,
+      "text": "become confident in doing something"
+    },
+    {
+      "start": 147,
+      "text": "you've never done before right obviously"
+    },
+    {
+      "start": 149,
+      "text": "a software developer ERS a lot of times"
+    },
+    {
+      "start": 151,
+      "text": "you know we're doing the umth"
+    },
+    {
+      "start": 153,
+      "text": "application that takes something out of"
+    },
+    {
+      "start": 154,
+      "text": "a database and puts it on the web um but"
+    },
+    {
+      "start": 156,
+      "text": "the lucky you are luckier you are the"
+    },
+    {
+      "start": 159,
+      "text": "more likely you are to encounter"
+    },
+    {
+      "start": 160,
+      "text": "problems you've never done before and uh"
+    },
+    {
+      "start": 164,
+      "text": "how do you end up you know how do you"
+    },
+    {
+      "start": 166,
+      "text": "start doing that and uh and not feel uh"
+    },
+    {
+      "start": 170,
+      "text": "incredibly at"
+    },
+    {
+      "start": 172,
+      "text": "risk uh so start about by talking about"
+    },
+    {
+      "start": 175,
+      "text": "some software development you know"
+    },
+    {
+      "start": 177,
+      "text": "things we all know to be true right we"
+    },
+    {
+      "start": 180,
+      "text": "hate bugs in our programs we're trying"
+    },
+    {
+      "start": 181,
+      "text": "to write quality programs and we know if"
+    },
+    {
+      "start": 184,
+      "text": "we let the programs reach the field it's"
+    },
+    {
+      "start": 188,
+      "text": "incredibly expensive to you know fix"
+    },
+    {
+      "start": 191,
+      "text": "inadequacies inadequacies in the program"
+    },
+    {
+      "start": 194,
+      "text": "right so we say okay we'll have a big"
+    },
+    {
+      "start": 196,
+      "text": "testing process and quality assurance"
+    },
+    {
+      "start": 199,
+      "text": "and even that we know is not so great"
+    },
+    {
+      "start": 201,
+      "text": "because it sort of has this removal you"
+    },
+    {
+      "start": 204,
+      "text": "know this distance from the development"
+    },
+    {
+      "start": 205,
+      "text": "effort which is not good uh so now"
+    },
+    {
+      "start": 210,
+      "text": "we know we know what to do in this area"
+    },
+    {
+      "start": 212,
+      "text": "right we fix bugs while we're coding by"
+    },
+    {
+      "start": 216,
+      "text": "testing and development and this is the"
+    },
+    {
+      "start": 218,
+      "text": "best way to avoid bugs in our"
+    },
+    {
+      "start": 221,
+      "text": "applications"
+    },
+    {
+      "start": 225,
+      "text": "right no the answer can did you notice"
+    },
+    {
+      "start": 230,
+      "text": "that I learned how to make each bullet"
+    },
+    {
+      "start": 232,
+      "text": "happen one at a"
+    },
+    {
+      "start": 235,
+      "text": "time so now you don't know what I'm"
+    },
+    {
+      "start": 238,
+      "text": "going to say"
+    },
+    {
+      "start": 241,
+      "text": "it's"
+    },
+    {
+      "start": 242,
+      "text": "awesome like this menu item for"
+    },
+    {
+      "start": 246,
+      "text": "it no definitely absolutely positively"
+    },
+    {
+      "start": 249,
+      "text": "not uh the least expensive place to fix"
+    },
+    {
+      "start": 252,
+      "text": "bugs is when you're designing your"
+    },
+    {
+      "start": 254,
+      "text": "software which everybody does"
+    },
+    {
+      "start": 259,
+      "text": "yes right I will contend uh of all the"
+    },
+    {
+      "start": 263,
+      "text": "things I'm saying here which are very"
+    },
+    {
+      "start": 265,
+      "text": "very extremely fuzzy um that without a"
+    },
+    {
+      "start": 267,
+      "text": "doubt most of the big problems we have"
+    },
+    {
+      "start": 270,
+      "text": "with software are problems of"
+    },
+    {
+      "start": 272,
+      "text": "misconception we don't have a good idea"
+    },
+    {
+      "start": 275,
+      "text": "of what we're doing before we do it and"
+    },
+    {
+      "start": 276,
+      "text": "then go go go go and we do everything"
+    },
+    {
+      "start": 279,
+      "text": "you know we have practices and all kinds"
+    },
+    {
+      "start": 281,
+      "text": "of stuff and we feel really good about"
+    },
+    {
+      "start": 283,
+      "text": "ourselves after that point um but if you"
+    },
+    {
+      "start": 286,
+      "text": "mess it up you know as Mark said in Step"
+    },
+    {
+      "start": 288,
+      "text": "One is not going to turn out"
+    },
+    {
+      "start": 291,
+      "text": "well they're not problems of"
+    },
+    {
+      "start": 293,
+      "text": "implementation there are problems of"
+    },
+    {
+      "start": 294,
+      "text": "implementation obviously and testing and"
+    },
+    {
+      "start": 297,
+      "text": "other things help with those uh but"
+    },
+    {
+      "start": 299,
+      "text": "problem s of misconception are not"
+    },
+    {
+      "start": 301,
+      "text": "generally addressed by testing or type"
+    },
+    {
+      "start": 305,
+      "text": "systems or the things we use to correct"
+    },
+    {
+      "start": 307,
+      "text": "defects and"
+    },
+    {
+      "start": 309,
+      "text": "implementation right there aren't really"
+    },
+    {
+      "start": 311,
+      "text": "type systems that can tell us if"
+    },
+    {
+      "start": 314,
+      "text": "uh we've got a good idea or what we're"
+    },
+    {
+      "start": 318,
+      "text": "doing um addresses that idea so I'm"
+    },
+    {
+      "start": 323,
+      "text": "going to talk a little bit about"
+    },
+    {
+      "start": 324,
+      "text": "analysis and design I know that's so"
+    },
+    {
+      "start": 327,
+      "text": "'90s and ugly and was"
+    },
+    {
+      "start": 331,
+      "text": "rightfully uh you know criticized and"
+    },
+    {
+      "start": 334,
+      "text": "really dropped because you know people"
+    },
+    {
+      "start": 338,
+      "text": "considered it to be about process and"
+    },
+    {
+      "start": 340,
+      "text": "drawing pictures and you know knowing"
+    },
+    {
+      "start": 343,
+      "text": "everything about everything and making"
+    },
+    {
+      "start": 344,
+      "text": "comprehensive plans and the waterfall"
+    },
+    {
+      "start": 346,
+      "text": "model and there was amazing amounts of"
+    },
+    {
+      "start": 349,
+      "text": "stuff that was terrible about this um"
+    },
+    {
+      "start": 352,
+      "text": "but that it doesn't mean that"
+    },
+    {
+      "start": 355,
+      "text": "the the step before go do it is not an"
+    },
+    {
+      "start": 359,
+      "text": "important step and I think we don't"
+    },
+    {
+      "start": 361,
+      "text": "spend enough time and energy or or make"
+    },
+    {
+      "start": 364,
+      "text": "enough time or get allocated time you"
+    },
+    {
+      "start": 367,
+      "text": "know may not be a matter of our choice"
+    },
+    {
+      "start": 368,
+      "text": "we'd say oh we'd like to spend some time"
+    },
+    {
+      "start": 370,
+      "text": "thinking about it but you know we have"
+    },
+    {
+      "start": 371,
+      "text": "to ship something next week uh but we"
+    },
+    {
+      "start": 373,
+      "text": "are definitely suffering in quality"
+    },
+    {
+      "start": 375,
+      "text": "because we we don't spend time here and"
+    },
+    {
+      "start": 377,
+      "text": "so what I'd like to do is sort of just"
+    },
+    {
+      "start": 378,
+      "text": "whatever you think analysis in design is"
+    },
+    {
+      "start": 381,
+      "text": "i' like you to just forget for the"
+    },
+    {
+      "start": 382,
+      "text": "moment and let's try to make a really"
+    },
+    {
+      "start": 384,
+      "text": "simple definition analysis and design is"
+    },
+    {
+      "start": 387,
+      "text": "about two things I identifying some"
+    },
+    {
+      "start": 391,
+      "text": "problem that we're trying to solve and"
+    },
+    {
+      "start": 394,
+      "text": "assessing our proposed solution in terms"
+    },
+    {
+      "start": 396,
+      "text": "of whether or not it solves that problem"
+    },
+    {
+      "start": 400,
+      "text": "that's really what it's about not about"
+    },
+    {
+      "start": 402,
+      "text": "anything"
+    },
+    {
+      "start": 404,
+      "text": "else right we should be solving problems"
+    },
+    {
+      "start": 408,
+      "text": "right we should not be building features"
+    },
+    {
+      "start": 410,
+      "text": "there's nothing about feature what is"
+    },
+    {
+      "start": 413,
+      "text": "feature features just an attribute of"
+    },
+    {
+      "start": 415,
+      "text": "something it's the shiny you know Chrome"
+    },
+    {
+      "start": 418,
+      "text": "knob on something"
+    },
+    {
+      "start": 420,
+      "text": "it's not the purpose of the car uh"
+    },
+    {
+      "start": 424,
+      "text": "there's no guarantee if you put together"
+    },
+    {
+      "start": 425,
+      "text": "a feature list even if it comes from the"
+    },
+    {
+      "start": 428,
+      "text": "customer um that it's going to solve"
+    },
+    {
+      "start": 430,
+      "text": "their own problem or that it solves any"
+    },
+    {
+      "start": 433,
+      "text": "problem or that the features when you"
+    },
+    {
+      "start": 434,
+      "text": "put them together don't introduce a"
+    },
+    {
+      "start": 436,
+      "text": "whole ton of other problems right so"
+    },
+    {
+      "start": 438,
+      "text": "programming and writing software is not"
+    },
+    {
+      "start": 440,
+      "text": "about completing lists of"
+    },
+    {
+      "start": 442,
+      "text": "features uh in particular features"
+    },
+    {
+      "start": 446,
+      "text": "provided by users in spite of their best"
+    },
+    {
+      "start": 448,
+      "text": "efforts to to satisfy themselves um are"
+    },
+    {
+      "start": 451,
+      "text": "often really not good ideas and uh"
+    },
+    {
+      "start": 454,
+      "text": "you've got to dig underneath it and"
+    },
+    {
+      "start": 455,
+      "text": "figure out what problem they have and"
+    },
+    {
+      "start": 458,
+      "text": "what's the best solution to it and then"
+    },
+    {
+      "start": 459,
+      "text": "reconcile it with whatever they asked"
+    },
+    {
+      "start": 461,
+      "text": "for um we also have a tendency because"
+    },
+    {
+      "start": 464,
+      "text": "we're we're all smart and we love being"
+    },
+    {
+      "start": 467,
+      "text": "smart and sort of figuring out how to"
+    },
+    {
+      "start": 469,
+      "text": "make things go that you know figuring"
+    },
+    {
+      "start": 471,
+      "text": "out how to make something go is good no"
+    },
+    {
+      "start": 474,
+      "text": "matter what it took to do it right so if"
+    },
+    {
+      "start": 477,
+      "text": "we can find a way to get around a"
+    },
+    {
+      "start": 478,
+      "text": "problem we're like woo that's great um"
+    },
+    {
+      "start": 481,
+      "text": "and it's not great right avoiding"
+    },
+    {
+      "start": 483,
+      "text": "problems which we're all capable of"
+    },
+    {
+      "start": 484,
+      "text": "doing very capable of doing isn't the"
+    },
+    {
+      "start": 487,
+      "text": "same as solving them so we should really"
+    },
+    {
+      "start": 488,
+      "text": "try to work on solving problems and the"
+    },
+    {
+      "start": 491,
+      "text": "thing I'm going to talk about today is"
+    },
+    {
+      "start": 492,
+      "text": "really that"
+    },
+    {
+      "start": 495,
+      "text": "uh there there's a bunch of technique"
+    },
+    {
+      "start": 497,
+      "text": "and and uh skill to solving problems uh"
+    },
+    {
+      "start": 502,
+      "text": "and the first one is just to make an"
+    },
+    {
+      "start": 504,
+      "text": "effort to understand the problem you're"
+    },
+    {
+      "start": 506,
+      "text": "working on to recognize identify it put"
+    },
+    {
+      "start": 509,
+      "text": "it somewhere um and talk about it so"
+    },
+    {
+      "start": 513,
+      "text": "problem solving is definitely a skill I"
+    },
+    {
+      "start": 515,
+      "text": "think you know you shouldn't take away"
+    },
+    {
+      "start": 517,
+      "text": "from this talk that you know there's a"
+    },
+    {
+      "start": 519,
+      "text": "certain kind of person who's like good"
+    },
+    {
+      "start": 521,
+      "text": "at problem solving and they get to do"
+    },
+    {
+      "start": 522,
+      "text": "this part of the job and then we we can"
+    },
+    {
+      "start": 524,
+      "text": "practice these other things you can"
+    },
+    {
+      "start": 526,
+      "text": "practice this part uh Pao wrote this"
+    },
+    {
+      "start": 530,
+      "text": "amazing book called How to solve it in I"
+    },
+    {
+      "start": 532,
+      "text": "don't know 1945 or something which is"
+    },
+    {
+      "start": 534,
+      "text": "about how to practice how to practice"
+    },
+    {
+      "start": 537,
+      "text": "and what are the techniques of solving"
+    },
+    {
+      "start": 540,
+      "text": "math problems in this case and uh it's a"
+    },
+    {
+      "start": 542,
+      "text": "terrific book full of great insight and"
+    },
+    {
+      "start": 545,
+      "text": "if you've never read it go on to Amazon"
+    },
+    {
+      "start": 548,
+      "text": "right after my talk and Order yourself a"
+    },
+    {
+      "start": 550,
+      "text": "copy um one of the things that's not so"
+    },
+    {
+      "start": 553,
+      "text": "great about the book is that it is in"
+    },
+    {
+      "start": 555,
+      "text": "the math space right and in in that"
+    },
+    {
+      "start": 557,
+      "text": "space um there's this really nice thing"
+    },
+    {
+      "start": 559,
+      "text": "that happens when you're done and you"
+    },
+    {
+      "start": 561,
+      "text": "think you have an answer you have all"
+    },
+    {
+      "start": 563,
+      "text": "the techniques of mathematical proof to"
+    },
+    {
+      "start": 565,
+      "text": "determine if you actually have whereas"
+    },
+    {
+      "start": 568,
+      "text": "as software Developers"
+    },
+    {
+      "start": 570,
+      "text": "we don't have that right there's no way"
+    },
+    {
+      "start": 571,
+      "text": "to prove that you have a good solution"
+    },
+    {
+      "start": 574,
+      "text": "to somebody's e-commerce site problem"
+    },
+    {
+      "start": 577,
+      "text": "right there's no mathematical techniques"
+    },
+    {
+      "start": 580,
+      "text": "and there's not going to be any anytime"
+    },
+    {
+      "start": 581,
+      "text": "soon that will let us do that uh but it"
+    },
+    {
+      "start": 585,
+      "text": "is a skill and it is something you can"
+    },
+    {
+      "start": 586,
+      "text": "practice this is something you can learn"
+    },
+    {
+      "start": 587,
+      "text": "about uh and uh and it's worth doing"
+    },
+    {
+      "start": 591,
+      "text": "right because as human beings we get"
+    },
+    {
+      "start": 592,
+      "text": "good at what we practice it doesn't"
+    },
+    {
+      "start": 594,
+      "text": "matter what it is it's amazing examples"
+    },
+    {
+      "start": 596,
+      "text": "of people practicing things that they"
+    },
+    {
+      "start": 598,
+      "text": "seem to have no"
+    },
+    {
+      "start": 600,
+      "text": "uh potential hope to become good at and"
+    },
+    {
+      "start": 602,
+      "text": "they get good at it because they"
+    },
+    {
+      "start": 603,
+      "text": "practiced it um if you practice problem"
+    },
+    {
+      "start": 607,
+      "text": "solving really practice problem solving"
+    },
+    {
+      "start": 609,
+      "text": "you will get good at it um if you"
+    },
+    {
+      "start": 612,
+      "text": "practice methodology"
+    },
+    {
+      "start": 614,
+      "text": "X you will get good at that um and I'd"
+    },
+    {
+      "start": 618,
+      "text": "like you to ask yourself where do you"
+    },
+    {
+      "start": 620,
+      "text": "think there's more leverage I don't care"
+    },
+    {
+      "start": 623,
+      "text": "what x is pick any X you want would you"
+    },
+    {
+      "start": 626,
+      "text": "rather be good at it or the General"
+    },
+    {
+      "start": 629,
+      "text": "skill of solving"
+    },
+    {
+      "start": 633,
+      "text": "problems so what do we need to do if"
+    },
+    {
+      "start": 635,
+      "text": "we're going to work on solving problems"
+    },
+    {
+      "start": 637,
+      "text": "what what is what is the activity like"
+    },
+    {
+      "start": 639,
+      "text": "uh the first thing is to actually say I"
+    },
+    {
+      "start": 641,
+      "text": "solving this problem this problem is"
+    },
+    {
+      "start": 643,
+      "text": "this blah blah blah blah blah and"
+    },
+    {
+      "start": 646,
+      "text": "therefore blah I have seen so much"
+    },
+    {
+      "start": 648,
+      "text": "software made where no one ever said"
+    },
+    {
+      "start": 651,
+      "text": "that no one ever wrote that down and"
+    },
+    {
+      "start": 653,
+      "text": "then we have a whole system and no one"
+    },
+    {
+      "start": 656,
+      "text": "said what problem is supposed to solve"
+    },
+    {
+      "start": 658,
+      "text": "if we're not soling in problems I have"
+    },
+    {
+      "start": 660,
+      "text": "no idea why we're in this room we"
+    },
+    {
+      "start": 662,
+      "text": "absolutely should be working on solving"
+    },
+    {
+      "start": 664,
+      "text": "problems which means we should be we"
+    },
+    {
+      "start": 666,
+      "text": "should be uh enumerating what they are"
+    },
+    {
+      "start": 668,
+      "text": "and then from the mental standpoint"
+    },
+    {
+      "start": 670,
+      "text": "which I'll talk about a little bit later"
+    },
+    {
+      "start": 672,
+      "text": "it is actually important to say them out"
+    },
+    {
+      "start": 674,
+      "text": "loud right as the person who's trying to"
+    },
+    {
+      "start": 676,
+      "text": "solve a problem say say it have a"
+    },
+    {
+      "start": 678,
+      "text": "conversation with somebody in your group"
+    },
+    {
+      "start": 680,
+      "text": "and say we need to solve this the pro"
+    },
+    {
+      "start": 682,
+      "text": "the problem is blah blah blah you know"
+    },
+    {
+      "start": 683,
+      "text": "rant or talk and you know have a little"
+    },
+    {
+      "start": 685,
+      "text": "conversation or write it down but just"
+    },
+    {
+      "start": 688,
+      "text": "like you use the you know the practice"
+    },
+    {
+      "start": 690,
+      "text": "of repeating somebody's name when you're"
+    },
+    {
+      "start": 691,
+      "text": "introduced to them as a demonic to help"
+    },
+    {
+      "start": 693,
+      "text": "you uh remember their name it's the same"
+    },
+    {
+      "start": 696,
+      "text": "thing this is the seed of solving the"
+    },
+    {
+      "start": 699,
+      "text": "problem is stating"
+    },
+    {
+      "start": 701,
+      "text": "it so the next the next part which is"
+    },
+    {
+      "start": 704,
+      "text": "definitely trickier and Po's book is"
+    },
+    {
+      "start": 706,
+      "text": "great it's got a lot of practical things"
+    },
+    {
+      "start": 708,
+      "text": "many of these are overlap what he said"
+    },
+    {
+      "start": 711,
+      "text": "um is to understand the problem right so"
+    },
+    {
+      "start": 713,
+      "text": "so if we said we have this problem um I"
+    },
+    {
+      "start": 715,
+      "text": "think we need a a nosql database"
+    },
+    {
+      "start": 719,
+      "text": "right there's something missing"
+    },
+    {
+      "start": 722,
+      "text": "right we have this problem we need to"
+    },
+    {
+      "start": 724,
+      "text": "know SQL"
+    },
+    {
+      "start": 726,
+      "text": "database we haven't actually said you"
+    },
+    {
+      "start": 729,
+      "text": "know why some what are the"
+    },
+    {
+      "start": 731,
+      "text": "characteristics of this problem that"
+    },
+    {
+      "start": 732,
+      "text": "lead us to this solution space and and"
+    },
+    {
+      "start": 734,
+      "text": "this is where all the interesting work"
+    },
+    {
+      "start": 737,
+      "text": "is I think in software development right"
+    },
+    {
+      "start": 739,
+      "text": "and so the first step is what do you"
+    },
+    {
+      "start": 740,
+      "text": "know about what you're trying to do um"
+    },
+    {
+      "start": 742,
+      "text": "there's definitely going to be a bunch"
+    },
+    {
+      "start": 743,
+      "text": "of facts um there will be customer"
+    },
+    {
+      "start": 745,
+      "text": "requirements there'll be other things"
+    },
+    {
+      "start": 747,
+      "text": "there'll be context you the system has"
+    },
+    {
+      "start": 749,
+      "text": "to run on this kind of box has to run"
+    },
+    {
+      "start": 751,
+      "text": "for this long it can't consume more more"
+    },
+    {
+      "start": 753,
+      "text": "than this many watts or has to support"
+    },
+    {
+      "start": 755,
+      "text": "10 million users whatever it is there"
+    },
+    {
+      "start": 757,
+      "text": "are those kinds of things and"
+    },
+    {
+      "start": 759,
+      "text": "constraints uh all the stuff are facts"
+    },
+    {
+      "start": 762,
+      "text": "you know about what you're supposed to"
+    },
+    {
+      "start": 763,
+      "text": "do right there will be things that right"
+    },
+    {
+      "start": 766,
+      "text": "away you know you don't"
+    },
+    {
+      "start": 769,
+      "text": "know right I wonder where we're going to"
+    },
+    {
+      "start": 773,
+      "text": "get you know the the the data as an"
+    },
+    {
+      "start": 777,
+      "text": "input to this thing um or what we're"
+    },
+    {
+      "start": 780,
+      "text": "going to do when our main data source"
+    },
+    {
+      "start": 781,
+      "text": "for it isn't available do we have a"
+    },
+    {
+      "start": 782,
+      "text": "secondary thing there'll be things like"
+    },
+    {
+      "start": 784,
+      "text": "that of course there will be things that"
+    },
+    {
+      "start": 786,
+      "text": "you don't know you don't know well"
+    },
+    {
+      "start": 789,
+      "text": "that's fair but if there's things you"
+    },
+    {
+      "start": 791,
+      "text": "don't"
+    },
+    {
+      "start": 792,
+      "text": "know um you should think about them now"
+    },
+    {
+      "start": 795,
+      "text": "the other thing to do is to say you know"
+    },
+    {
+      "start": 797,
+      "text": "everybody says you know oh I'm doing X"
+    },
+    {
+      "start": 799,
+      "text": "you know I have this great idea for X as"
+    },
+    {
+      "start": 802,
+      "text": "if you know you're the only person in"
+    },
+    {
+      "start": 804,
+      "text": "the world that ever had this problem to"
+    },
+    {
+      "start": 805,
+      "text": "solve that's very very unlikely so go"
+    },
+    {
+      "start": 808,
+      "text": "find"
+    },
+    {
+      "start": 809,
+      "text": "some other solutions to similar problems"
+    },
+    {
+      "start": 812,
+      "text": "you know are there any others that you"
+    },
+    {
+      "start": 814,
+      "text": "know about and what can you find out"
+    },
+    {
+      "start": 816,
+      "text": "about them because looking at other"
+    },
+    {
+      "start": 818,
+      "text": "solutions to the same problem is the"
+    },
+    {
+      "start": 819,
+      "text": "number one way to get up to speed really"
+    },
+    {
+      "start": 822,
+      "text": "quickly and start working ahead of you"
+    },
+    {
+      "start": 824,
+      "text": "know the best known Solutions in this"
+    },
+    {
+      "start": 827,
+      "text": "space uh and then because what you'll"
+    },
+    {
+      "start": 829,
+      "text": "have to do then will just be an"
+    },
+    {
+      "start": 831,
+      "text": "incremental Step Above what the last guy"
+    },
+    {
+      "start": 833,
+      "text": "did but if you're ignoring what the last"
+    },
+    {
+      "start": 835,
+      "text": "guy did you're starting from scratch so"
+    },
+    {
+      "start": 838,
+      "text": "you definitely want to look around in"
+    },
+    {
+      "start": 839,
+      "text": "the"
+    },
+    {
+      "start": 841,
+      "text": "space all right now I'm not advocating a"
+    },
+    {
+      "start": 843,
+      "text": "methodology or anything but if you're"
+    },
+    {
+      "start": 845,
+      "text": "going to bother to do all this work you"
+    },
+    {
+      "start": 847,
+      "text": "should write it down somehow some way I"
+    },
+    {
+      "start": 851,
+      "text": "don't care"
+    },
+    {
+      "start": 853,
+      "text": "how the other thing you have to do is"
+    },
+    {
+      "start": 854,
+      "text": "you have to be Discerning you have to"
+    },
+    {
+      "start": 856,
+      "text": "you have to be critical um and we're"
+    },
+    {
+      "start": 860,
+      "text": "sort of in this world because there all"
+    },
+    {
+      "start": 862,
+      "text": "this community stuff and it's like I"
+    },
+    {
+      "start": 865,
+      "text": "just hear awesome it's like awesome"
+    },
+    {
+      "start": 867,
+      "text": "happen I just hear it like 50 times a"
+    },
+    {
+      "start": 869,
+      "text": "day um not everything is"
+    },
+    {
+      "start": 873,
+      "text": "awesome right and so it's hard to talk"
+    },
+    {
+      "start": 877,
+      "text": "about other people's stuff not being"
+    },
+    {
+      "start": 879,
+      "text": "awesome so just I mean mainly focus on"
+    },
+    {
+      "start": 881,
+      "text": "your own stuff in particular as you're"
+    },
+    {
+      "start": 884,
+      "text": "finding Solutions actually trying to you"
+    },
+    {
+      "start": 885,
+      "text": "know enumerate a solution to a problem"
+    },
+    {
+      "start": 887,
+      "text": "um look for defects in your own solution"
+    },
+    {
+      "start": 890,
+      "text": "and of course you can have a whole talk"
+    },
+    {
+      "start": 892,
+      "text": "about this because there will be there"
+    },
+    {
+      "start": 894,
+      "text": "will be technical errors there will be"
+    },
+    {
+      "start": 895,
+      "text": "errors of logic there'll also be errors"
+    },
+    {
+      "start": 898,
+      "text": "of uh taste and judgment and abstraction"
+    },
+    {
+      "start": 901,
+      "text": "and all those kinds of things it all"
+    },
+    {
+      "start": 902,
+      "text": "feeds into this and there's an entire"
+    },
+    {
+      "start": 904,
+      "text": "talk in this this area but whatever um"
+    },
+    {
+      "start": 907,
+      "text": "issues you can find in your own"
+    },
+    {
+      "start": 909,
+      "text": "Solutions try to solve those too right"
+    },
+    {
+      "start": 911,
+      "text": "away up front um"
+    },
+    {
+      "start": 914,
+      "text": "uh if you so the other thing you see is"
+    },
+    {
+      "start": 918,
+      "text": "um oh I we're going to do this oh we can"
+    },
+    {
+      "start": 920,
+      "text": "use no SQL Davis oh that's great it has"
+    },
+    {
+      "start": 922,
+      "text": "these you know 10 attributes it's"
+    },
+    {
+      "start": 924,
+      "text": "awesome"
+    },
+    {
+      "start": 926,
+      "text": "uh uh it's really easy to get excited"
+    },
+    {
+      "start": 928,
+      "text": "about the good parts of what you do uh"
+    },
+    {
+      "start": 930,
+      "text": "but you should be looking for trade-offs"
+    },
+    {
+      "start": 932,
+      "text": "the chances of there being no tradeoffs"
+    },
+    {
+      "start": 935,
+      "text": "in any solution are"
+    },
+    {
+      "start": 938,
+      "text": "slim the other thing is just this again"
+    },
+    {
+      "start": 940,
+      "text": "this what what don't you know thing if"
+    },
+    {
+      "start": 943,
+      "text": "if there's stuff you know you don't know"
+    },
+    {
+      "start": 945,
+      "text": "there are questions you should be asking"
+    },
+    {
+      "start": 947,
+      "text": "in order to find out what you don't"
+    },
+    {
+      "start": 950,
+      "text": "know you don't know everything right so"
+    },
+    {
+      "start": 954,
+      "text": "there should be question marks on the"
+    },
+    {
+      "start": 957,
+      "text": "whatever it is you want to use that"
+    },
+    {
+      "start": 959,
+      "text": "you're going to write all this stuff"
+    },
+    {
+      "start": 960,
+      "text": "down there should be question marks on"
+    },
+    {
+      "start": 962,
+      "text": "that page if there are no question marks"
+    },
+    {
+      "start": 965,
+      "text": "you're missing the"
+    },
+    {
+      "start": 968,
+      "text": "step uh the other thing is uh you know"
+    },
+    {
+      "start": 970,
+      "text": "to think about uh you know none of us"
+    },
+    {
+      "start": 973,
+      "text": "are born knowing how to write"
+    },
+    {
+      "start": 975,
+      "text": "software uh none of us are born knowing"
+    },
+    {
+      "start": 978,
+      "text": "about SQL or the characteristics of the"
+    },
+    {
+      "start": 980,
+      "text": "web or protocols or anything else um and"
+    },
+    {
+      "start": 984,
+      "text": "if you're trying to solve a problem"
+    },
+    {
+      "start": 985,
+      "text": "especially in a space where you haven't"
+    },
+    {
+      "start": 987,
+      "text": "done it before um you're going to have a"
+    },
+    {
+      "start": 989,
+      "text": "very limited ability to come up with"
+    },
+    {
+      "start": 991,
+      "text": "Solutions if you don't have a lot of"
+    },
+    {
+      "start": 993,
+      "text": "input right you're going to need to get"
+    },
+    {
+      "start": 995,
+      "text": "a lot of different inputs so that you"
+    },
+    {
+      "start": 997,
+      "text": "can let your brain go around between"
+    },
+    {
+      "start": 999,
+      "text": "them and say oh yeah this idea and that"
+    },
+    {
+      "start": 1002,
+      "text": "idea are connected to each other and"
+    },
+    {
+      "start": 1003,
+      "text": "therefore I can do this other thing if"
+    },
+    {
+      "start": 1005,
+      "text": "you only take a really narrow slice of I"
+    },
+    {
+      "start": 1007,
+      "text": "see exactly what I'm doing right now"
+    },
+    {
+      "start": 1009,
+      "text": "right this second to deliver next week"
+    },
+    {
+      "start": 1012,
+      "text": "um you're not going to have enough"
+    },
+    {
+      "start": 1013,
+      "text": "inputs to make"
+    },
+    {
+      "start": 1015,
+      "text": "decisions so you want to read about the"
+    },
+    {
+      "start": 1018,
+      "text": "kind of space that you're in widely"
+    },
+    {
+      "start": 1020,
+      "text": "right very specifically o this other"
+    },
+    {
+      "start": 1022,
+      "text": "people try to do exactly the same thing"
+    },
+    {
+      "start": 1023,
+      "text": "and then broadly right there these other"
+    },
+    {
+      "start": 1025,
+      "text": "characteristic problems and maybe even"
+    },
+    {
+      "start": 1028,
+      "text": "if you want go try to find research"
+    },
+    {
+      "start": 1030,
+      "text": "papers that are kind of in the same"
+    },
+    {
+      "start": 1031,
+      "text": "space it's amazing the cool things you"
+    },
+    {
+      "start": 1033,
+      "text": "can find by searching something like ACM"
+    },
+    {
+      "start": 1036,
+      "text": "for papers about the kind of it's like"
+    },
+    {
+      "start": 1038,
+      "text": "oh I wonder if we could get a certain"
+    },
+    {
+      "start": 1039,
+      "text": "kind of hash code that does whatever you"
+    },
+    {
+      "start": 1042,
+      "text": "go into Google and type hash code that"
+    },
+    {
+      "start": 1044,
+      "text": "does whatever enter and if there's some"
+    },
+    {
+      "start": 1047,
+      "text": "scholarly and ACM references grab those"
+    },
+    {
+      "start": 1049,
+      "text": "papers even if you only understand like"
+    },
+    {
+      "start": 1052,
+      "text": "a tiny fraction of the paper it's likely"
+    },
+    {
+      "start": 1054,
+      "text": "to contribute to your ability to think"
+    },
+    {
+      "start": 1055,
+      "text": "about your"
+    },
+    {
+      "start": 1056,
+      "text": "problem the other thing is even if"
+    },
+    {
+      "start": 1058,
+      "text": "you're not going to tell the other guy"
+    },
+    {
+      "start": 1060,
+      "text": "when you're looking at other Solutions"
+    },
+    {
+      "start": 1062,
+      "text": "be extremely critical I can't tell you"
+    },
+    {
+      "start": 1065,
+      "text": "how often you're going to find the next"
+    },
+    {
+      "start": 1067,
+      "text": "best idea by completely crucifying the"
+    },
+    {
+      "start": 1070,
+      "text": "last guy's idea at least in your own"
+    },
+    {
+      "start": 1073,
+      "text": "head right take it apart right cuz when"
+    },
+    {
+      "start": 1076,
+      "text": "you take it apart you're going to find a"
+    },
+    {
+      "start": 1079,
+      "text": "couple of things maybe they didn't write"
+    },
+    {
+      "start": 1080,
+      "text": "down when they were doing"
+    },
+    {
+      "start": 1083,
+      "text": "it so everybody says designs about"
+    },
+    {
+      "start": 1087,
+      "text": "tradeoffs everybody knows this"
+    },
+    {
+      "start": 1091,
+      "text": "right right usually when they're talking"
+    },
+    {
+      "start": 1093,
+      "text": "about trade-offs and their software"
+    },
+    {
+      "start": 1094,
+      "text": "they're talking about the parts of their"
+    },
+    {
+      "start": 1095,
+      "text": "software that"
+    },
+    {
+      "start": 1097,
+      "text": "suck right I had to make these"
+    },
+    {
+      "start": 1100,
+      "text": "tradeoffs uh that is not what a tradeoff"
+    },
+    {
+      "start": 1104,
+      "text": "is right you have to look at at least"
+    },
+    {
+      "start": 1108,
+      "text": "two solutions to your problem at least"
+    },
+    {
+      "start": 1110,
+      "text": "two and you have to figure out what's"
+    },
+    {
+      "start": 1113,
+      "text": "good and bad about those things right"
+    },
+    {
+      "start": 1116,
+      "text": "before you can say I made a"
+    },
+    {
+      "start": 1120,
+      "text": "tradeoff uh so I really recommend that"
+    },
+    {
+      "start": 1123,
+      "text": "you do that and when you do it you might"
+    },
+    {
+      "start": 1127,
+      "text": "want to write that down"
+    },
+    {
+      "start": 1131,
+      "text": "somewhere okay so let's talk a little"
+    },
+    {
+      "start": 1133,
+      "text": "bit more about practice uh a big part of"
+    },
+    {
+      "start": 1136,
+      "text": "trying to do this work is maintaining"
+    },
+    {
+      "start": 1138,
+      "text": "your focus um we had a really nice talk"
+    },
+    {
+      "start": 1143,
+      "text": "yesterday about flow and that that is a"
+    },
+    {
+      "start": 1146,
+      "text": "kind of a focus related uh concept and"
+    },
+    {
+      "start": 1149,
+      "text": "when you're trying to do design work you"
+    },
+    {
+      "start": 1152,
+      "text": "also need I think some of the most"
+    },
+    {
+      "start": 1154,
+      "text": "extreme Focus um you're going to ever"
+    },
+    {
+      "start": 1157,
+      "text": "need and so there's some cool aspects to"
+    },
+    {
+      "start": 1159,
+      "text": "the"
+    },
+    {
+      "start": 1160,
+      "text": "hammock one of the cool aspects to a"
+    },
+    {
+      "start": 1162,
+      "text": "hammock is that you can go in a hammock"
+    },
+    {
+      "start": 1164,
+      "text": "and you can close your eyes and no one"
+    },
+    {
+      "start": 1166,
+      "text": "knows that you're not sleeping but they"
+    },
+    {
+      "start": 1169,
+      "text": "won't bother you because they think you"
+    },
+    {
+      "start": 1170,
+      "text": "might be"
+    },
+    {
+      "start": 1172,
+      "text": "sleeping so it's a it's very"
+    },
+    {
+      "start": 1175,
+      "text": "cool uh computers are bad bad sources of"
+    },
+    {
+      "start": 1179,
+      "text": "distraction they're so bad especially"
+    },
+    {
+      "start": 1181,
+      "text": "for people like us it's just"
+    },
+    {
+      "start": 1184,
+      "text": "like something else besides what I'm"
+    },
+    {
+      "start": 1187,
+      "text": "trying to think about you desperately"
+    },
+    {
+      "start": 1189,
+      "text": "need to get away from the computer if"
+    },
+    {
+      "start": 1192,
+      "text": "you're trying to focus there's it's"
+    },
+    {
+      "start": 1193,
+      "text": "almost impossible to focus sitting at a"
+    },
+    {
+      "start": 1196,
+      "text": "computer the other thing about focus is"
+    },
+    {
+      "start": 1198,
+      "text": "that you're going to be making tradeoffs"
+    },
+    {
+      "start": 1200,
+      "text": "when you try to focus really intensely"
+    },
+    {
+      "start": 1203,
+      "text": "you're going to drop balls you're going"
+    },
+    {
+      "start": 1206,
+      "text": "to miss calling people back and"
+    },
+    {
+      "start": 1209,
+      "text": "responding to emails and doing your"
+    },
+    {
+      "start": 1212,
+      "text": "slides for conferences"
+    },
+    {
+      "start": 1214,
+      "text": "until the airport on the way"
+    },
+    {
+      "start": 1218,
+      "text": "there and things like that"
+    },
+    {
+      "start": 1223,
+      "text": "um that's just the game the one thing"
+    },
+    {
+      "start": 1226,
+      "text": "though is that um you should communicate"
+    },
+    {
+      "start": 1228,
+      "text": "to people that you care about about this"
+    },
+    {
+      "start": 1231,
+      "text": "process and the fact that when you're"
+    },
+    {
+      "start": 1233,
+      "text": "doing it you're going to seem pretty far"
+    },
+    {
+      "start": 1236,
+      "text": "away and that's not a comment about the"
+    },
+    {
+      "start": 1239,
+      "text": "person that you're you know you care"
+    },
+    {
+      "start": 1241,
+      "text": "about it's just the nature of doing this"
+    },
+    {
+      "start": 1243,
+      "text": "kind of work um so it's it is important"
+    },
+    {
+      "start": 1246,
+      "text": "to sort of do it a lot of people will"
+    },
+    {
+      "start": 1247,
+      "text": "not get time to do this all day every"
+    },
+    {
+      "start": 1249,
+      "text": "day or over the course of an entire week"
+    },
+    {
+      "start": 1251,
+      "text": "but if you're going to get some Focus"
+    },
+    {
+      "start": 1252,
+      "text": "time um you know Define what that is you"
+    },
+    {
+      "start": 1255,
+      "text": "know everybody knows about timeout time"
+    },
+    {
+      "start": 1257,
+      "text": "for little kids you know programs need"
+    },
+    {
+      "start": 1259,
+      "text": "this Focus time they like little kids"
+    },
+    {
+      "start": 1261,
+      "text": "they need to go sit on the hammock and"
+    },
+    {
+      "start": 1263,
+      "text": "have nobody bother"
+    },
+    {
+      "start": 1266,
+      "text": "them so for me personally I think that"
+    },
+    {
+      "start": 1269,
+      "text": "uh that the process involves um two"
+    },
+    {
+      "start": 1272,
+      "text": "parts of your mind and this is stuff"
+    },
+    {
+      "start": 1275,
+      "text": "that you're' seen there's books written"
+    },
+    {
+      "start": 1276,
+      "text": "about this and whatever and I haven't"
+    },
+    {
+      "start": 1278,
+      "text": "read them but uh but they seem to"
+    },
+    {
+      "start": 1280,
+      "text": "correspond to my personal experience"
+    },
+    {
+      "start": 1282,
+      "text": "which is that you sort of have this"
+    },
+    {
+      "start": 1283,
+      "text": "waking mind and background mind right"
+    },
+    {
+      "start": 1286,
+      "text": "and your waking mind is really at that"
+    },
+    {
+      "start": 1288,
+      "text": "criticizing part um it's extremely"
+    },
+    {
+      "start": 1292,
+      "text": "analytical um and it's very very good at"
+    },
+    {
+      "start": 1295,
+      "text": "tactics right right now we need to make"
+    },
+    {
+      "start": 1298,
+      "text": "a decision you know the lion is chasing"
+    },
+    {
+      "start": 1300,
+      "text": "after us jump left you we are really"
+    },
+    {
+      "start": 1303,
+      "text": "good at that that's what our waking mind"
+    },
+    {
+      "start": 1305,
+      "text": "is about um keeping us alive and uh and"
+    },
+    {
+      "start": 1309,
+      "text": "making short-term decisions uh and"
+    },
+    {
+      "start": 1311,
+      "text": "looking at the immediately present uh"
+    },
+    {
+      "start": 1314,
+      "text": "information and doing something about it"
+    },
+    {
+      "start": 1317,
+      "text": "however if you think you're going to sit"
+    },
+    {
+      "start": 1319,
+      "text": "down and look at a problem for the first"
+    },
+    {
+      "start": 1321,
+      "text": "time and stare at your computer and do"
+    },
+    {
+      "start": 1323,
+      "text": "whatever and have a conversation for 10"
+    },
+    {
+      "start": 1325,
+      "text": "minutes and make a really great"
+    },
+    {
+      "start": 1327,
+      "text": "decision I don't think so I know I can't"
+    },
+    {
+      "start": 1330,
+      "text": "do that uh definitely not the problem"
+    },
+    {
+      "start": 1333,
+      "text": "with this kind of thing is it tends to"
+    },
+    {
+      "start": 1335,
+      "text": "push uphill oh I see this oh I see that"
+    },
+    {
+      "start": 1337,
+      "text": "oh I okay here I have a choice left and"
+    },
+    {
+      "start": 1340,
+      "text": "right okay I can go right that's more up"
+    },
+    {
+      "start": 1342,
+      "text": "left and right it's right you know left"
+    },
+    {
+      "start": 1343,
+      "text": "that's more up more up it's this part of"
+    },
+    {
+      "start": 1346,
+      "text": "your thinking is really good at finding"
+    },
+    {
+      "start": 1348,
+      "text": "the local"
+    },
+    {
+      "start": 1350,
+      "text": "maximum um but it's not very good at"
+    },
+    {
+      "start": 1353,
+      "text": "getting off the track it's on and"
+    },
+    {
+      "start": 1355,
+      "text": "finding the fact that there's another"
+    },
+    {
+      "start": 1356,
+      "text": "Hill over there that really takes you"
+    },
+    {
+      "start": 1361,
+      "text": "higher but there's a very very critical"
+    },
+    {
+      "start": 1363,
+      "text": "activity that you have to engage in I"
+    },
+    {
+      "start": 1365,
+      "text": "think if you want to use your entire"
+    },
+    {
+      "start": 1367,
+      "text": "brain and become very good at problem"
+    },
+    {
+      "start": 1369,
+      "text": "solving and that is to think about using"
+    },
+    {
+      "start": 1372,
+      "text": "your waking time to assign tasks to your"
+    },
+    {
+      "start": 1376,
+      "text": "background mind"
+    },
+    {
+      "start": 1378,
+      "text": "right to actually think hard about"
+    },
+    {
+      "start": 1380,
+      "text": "something and create work for your"
+    },
+    {
+      "start": 1383,
+      "text": "background line um that really is the"
+    },
+    {
+      "start": 1386,
+      "text": "point of the hammock and all this"
+    },
+    {
+      "start": 1388,
+      "text": "listing and all this work I'm going to"
+    },
+    {
+      "start": 1389,
+      "text": "talk about you're going to do when"
+    },
+    {
+      "start": 1390,
+      "text": "you're awake is actually to to give the"
+    },
+    {
+      "start": 1393,
+      "text": "other half of you stuff to do the other"
+    },
+    {
+      "start": 1396,
+      "text": "good thing about your waking mind is"
+    },
+    {
+      "start": 1397,
+      "text": "when you when you do think you have a"
+    },
+    {
+      "start": 1398,
+      "text": "great idea that you've come up with in"
+    },
+    {
+      "start": 1400,
+      "text": "your background mind um your waking mind"
+    },
+    {
+      "start": 1403,
+      "text": "is good at picking the other AP saying"
+    },
+    {
+      "start": 1405,
+      "text": "ah you know you thought you woke up with"
+    },
+    {
+      "start": 1406,
+      "text": "this brilliant idea but now I'm seeing"
+    },
+    {
+      "start": 1408,
+      "text": "this this characteristic of it that"
+    },
+    {
+      "start": 1410,
+      "text": "seems not so"
+    },
+    {
+      "start": 1411,
+      "text": "brilliant so let's talk about the"
+    },
+    {
+      "start": 1413,
+      "text": "background mind I'm not going to"
+    },
+    {
+      "start": 1415,
+      "text": "directly equate it with the sleeping"
+    },
+    {
+      "start": 1417,
+      "text": "mind um but the sleeping mind is the"
+    },
+    {
+      "start": 1419,
+      "text": "number one instance of background mind"
+    },
+    {
+      "start": 1421,
+      "text": "um you can find access to your"
+    },
+    {
+      "start": 1423,
+      "text": "background mind during the day uh while"
+    },
+    {
+      "start": 1425,
+      "text": "you're awake but um It's"
+    },
+    {
+      "start": 1429,
+      "text": "Tricky it's good at making"
+    },
+    {
+      "start": 1432,
+      "text": "connections right the kind of thing like"
+    },
+    {
+      "start": 1435,
+      "text": "if I leave my if I make a Hut out of mud"
+    },
+    {
+      "start": 1438,
+      "text": "and it rains hard it will"
+    },
+    {
+      "start": 1441,
+      "text": "disintegrate um is not necessarily the"
+    },
+    {
+      "start": 1444,
+      "text": "kind of thing that you can tactically"
+    },
+    {
+      "start": 1445,
+      "text": "figure out your your background mind is"
+    },
+    {
+      "start": 1447,
+      "text": "going to know sort of aspects of all"
+    },
+    {
+      "start": 1449,
+      "text": "those different components that make the"
+    },
+    {
+      "start": 1450,
+      "text": "connections and synthesize them even"
+    },
+    {
+      "start": 1452,
+      "text": "when you think you're really hot at"
+    },
+    {
+      "start": 1454,
+      "text": "making decisions on the Fly you're"
+    },
+    {
+      "start": 1456,
+      "text": "almost always just regurgitating"
+    },
+    {
+      "start": 1458,
+      "text": "something your background mind has"
+    },
+    {
+      "start": 1459,
+      "text": "already figured out um so the background"
+    },
+    {
+      "start": 1461,
+      "text": "mind is good at synthesizing things it's"
+    },
+    {
+      "start": 1463,
+      "text": "about it's good about strategy right and"
+    },
+    {
+      "start": 1466,
+      "text": "so uh when Mark talks about you know"
+    },
+    {
+      "start": 1468,
+      "text": "abstractions and things like that"
+    },
+    {
+      "start": 1470,
+      "text": "abstractions are are are software"
+    },
+    {
+      "start": 1473,
+      "text": "strategy right because the idea there is"
+    },
+    {
+      "start": 1475,
+      "text": "you're making some super Global decision"
+    },
+    {
+      "start": 1478,
+      "text": "that's going to need to be correct in a"
+    },
+    {
+      "start": 1479,
+      "text": "whole bunch of contexts in which you"
+    },
+    {
+      "start": 1481,
+      "text": "can't make tactical decisions yet right"
+    },
+    {
+      "start": 1484,
+      "text": "what is it mean to make an abstraction"
+    },
+    {
+      "start": 1485,
+      "text": "you're going to D derive libraries from"
+    },
+    {
+      "start": 1488,
+      "text": "you know what does it mean to put"
+    },
+    {
+      "start": 1490,
+      "text": "something in a programming language"
+    },
+    {
+      "start": 1491,
+      "text": "where I had no idea what you guys are"
+    },
+    {
+      "start": 1493,
+      "text": "going to do about it you know with it"
+    },
+    {
+      "start": 1495,
+      "text": "right it's a it's a more strategic kind"
+    },
+    {
+      "start": 1497,
+      "text": "of thing you don't build a programming"
+    },
+    {
+      "start": 1499,
+      "text": "language and say how will this"
+    },
+    {
+      "start": 1501,
+      "text": "programming language deal with HTTP"
+    },
+    {
+      "start": 1503,
+      "text": "request you know what you want to do is"
+    },
+    {
+      "start": 1505,
+      "text": "give Mark something that he can use um"
+    },
+    {
+      "start": 1509,
+      "text": "when he's got a tactical decision to"
+    },
+    {
+      "start": 1511,
+      "text": "make about HTTP requests and that's"
+    },
+    {
+      "start": 1513,
+      "text": "strategic kind of thinking and your"
+    },
+    {
+      "start": 1516,
+      "text": "background mind is good at strategic"
+    },
+    {
+      "start": 1517,
+      "text": "thinking if you want to do abstraction"
+    },
+    {
+      "start": 1520,
+      "text": "you have to find time to do this"
+    },
+    {
+      "start": 1522,
+      "text": "thinking because that's the part of your"
+    },
+    {
+      "start": 1524,
+      "text": "brain it comes from right it does"
+    },
+    {
+      "start": 1526,
+      "text": "abstraction it draws analogy"
+    },
+    {
+      "start": 1529,
+      "text": "right I think this is where you solve"
+    },
+    {
+      "start": 1533,
+      "text": "most non-trivial problems okay you can"
+    },
+    {
+      "start": 1536,
+      "text": "make good decisions in the moment uh"
+    },
+    {
+      "start": 1538,
+      "text": "otherwise but if you're really trying to"
+    },
+    {
+      "start": 1539,
+      "text": "solve something hard you've got to"
+    },
+    {
+      "start": 1541,
+      "text": "engage the other half of your of your"
+    },
+    {
+      "start": 1544,
+      "text": "head so I'm not just saying the"
+    },
+    {
+      "start": 1546,
+      "text": "Scientific"
+    },
+    {
+      "start": 1549,
+      "text": "American said that when we're sleeping"
+    },
+    {
+      "start": 1553,
+      "text": "we process the information during the"
+    },
+    {
+      "start": 1555,
+      "text": "day because that's pretty obvious um but"
+    },
+    {
+      "start": 1558,
+      "text": "that sleep reinforces memory which is"
+    },
+    {
+      "start": 1561,
+      "text": "good I mean it is important to remember"
+    },
+    {
+      "start": 1563,
+      "text": "what you're working on but more"
+    },
+    {
+      "start": 1565,
+      "text": "importantly it is a great sorter out of"
+    },
+    {
+      "start": 1568,
+      "text": "things right so we had this whole I I"
+    },
+    {
+      "start": 1571,
+      "text": "just advocated taking a lot of input"
+    },
+    {
+      "start": 1573,
+      "text": "right taking a lot of input doing all"
+    },
+    {
+      "start": 1575,
+      "text": "this analysis of the requirements in the"
+    },
+    {
+      "start": 1577,
+      "text": "space right doing you know all the"
+    },
+    {
+      "start": 1579,
+      "text": "reading looking at you know competitive"
+    },
+    {
+      "start": 1581,
+      "text": "Solutions and tearing them apart that's"
+    },
+    {
+      "start": 1583,
+      "text": "like there's this ton of stuff when are"
+    },
+    {
+      "start": 1586,
+      "text": "you going to decide what about that is"
+    },
+    {
+      "start": 1588,
+      "text": "important and what isn't when you're"
+    },
+    {
+      "start": 1591,
+      "text": "asleep okay that's what"
+    },
+    {
+      "start": 1594,
+      "text": "happens Evolution has solved this"
+    },
+    {
+      "start": 1596,
+      "text": "problem for us uh and that's the"
+    },
+    {
+      "start": 1598,
+      "text": "solution it came up with we can't ignore"
+    },
+    {
+      "start": 1601,
+      "text": "it we have to use"
+    },
+    {
+      "start": 1604,
+      "text": "it but the most critical thing is this"
+    },
+    {
+      "start": 1608,
+      "text": "one right finding hidden"
+    },
+    {
+      "start": 1612,
+      "text": "relations and solving problems we were"
+    },
+    {
+      "start": 1614,
+      "text": "working on okay so imagine somebody said"
+    },
+    {
+      "start": 1618,
+      "text": "says I have this problem uh this that"
+    },
+    {
+      "start": 1621,
+      "text": "that that that that that that and you"
+    },
+    {
+      "start": 1623,
+      "text": "look at it for 10 minutes and say okay"
+    },
+    {
+      "start": 1625,
+      "text": "I'm going to go AB the movies and do"
+    },
+    {
+      "start": 1626,
+      "text": "something else or whatever then you go"
+    },
+    {
+      "start": 1628,
+      "text": "to sleep you going to solve that problem"
+    },
+    {
+      "start": 1630,
+      "text": "in your"
+    },
+    {
+      "start": 1632,
+      "text": "sleep sure"
+    },
+    {
+      "start": 1635,
+      "text": "no or you're and you didn't think about"
+    },
+    {
+      "start": 1639,
+      "text": "it did"
+    },
+    {
+      "start": 1639,
+      "text": "you no you didn't think about it you"
+    },
+    {
+      "start": 1642,
+      "text": "didn't think about it hard enough while"
+    },
+    {
+      "start": 1643,
+      "text": "you were awake for it to become"
+    },
+    {
+      "start": 1645,
+      "text": "important to your mind when you were"
+    },
+    {
+      "start": 1646,
+      "text": "asleep and this goes back to that"
+    },
+    {
+      "start": 1648,
+      "text": "feeding your background mind thing you"
+    },
+    {
+      "start": 1650,
+      "text": "really do have to work hard just think"
+    },
+    {
+      "start": 1653,
+      "text": "not typing it in just thinking a br"
+    },
+    {
+      "start": 1656,
+      "text": "problem during the day so that it"
+    },
+    {
+      "start": 1657,
+      "text": "becomes an agenda item for your"
+    },
+    {
+      "start": 1660,
+      "text": "background mind that's how it works"
+    },
+    {
+      "start": 1663,
+      "text": "right it's when people are out there and"
+    },
+    {
+      "start": 1665,
+      "text": "they're like oh my God how am I going to"
+    },
+    {
+      "start": 1667,
+      "text": "find food and this is happening there"
+    },
+    {
+      "start": 1669,
+      "text": "but I know I saw elk over there and they"
+    },
+    {
+      "start": 1671,
+      "text": "seem to be by the water sometimes or"
+    },
+    {
+      "start": 1673,
+      "text": "whatever that's when you wake up as a"
+    },
+    {
+      "start": 1675,
+      "text": "caveman and say let's go hunt for"
+    },
+    {
+      "start": 1678,
+      "text": "Animals by the"
+    },
+    {
+      "start": 1680,
+      "text": "water right it's not a logical deduction"
+    },
+    {
+      "start": 1683,
+      "text": "you know it seems like that when you're"
+    },
+    {
+      "start": 1685,
+      "text": "program mind sort of analyzing it but"
+    },
+    {
+      "start": 1687,
+      "text": "there's no logic for that necessarily"
+    },
+    {
+      "start": 1690,
+      "text": "it's really a process of this very"
+    },
+    {
+      "start": 1691,
+      "text": "parallel kind of thinking um so this is"
+    },
+    {
+      "start": 1694,
+      "text": "very"
+    },
+    {
+      "start": 1696,
+      "text": "important so we have a problem in"
+    },
+    {
+      "start": 1698,
+      "text": "general because we write we we're just"
+    },
+    {
+      "start": 1700,
+      "text": "being asked to write suffer that's more"
+    },
+    {
+      "start": 1702,
+      "text": "and more complex um as time goes by and"
+    },
+    {
+      "start": 1707,
+      "text": "and we know there's this 7 plus or minus"
+    },
+    {
+      "start": 1709,
+      "text": "2 sort of"
+    },
+    {
+      "start": 1710,
+      "text": "working uh memory limit right and and as"
+    },
+    {
+      "start": 1714,
+      "text": "smart as any of us are we all suffer"
+    },
+    {
+      "start": 1716,
+      "text": "from the same limit uh but the problems"
+    },
+    {
+      "start": 1719,
+      "text": "that we're you know called upon to solve"
+    },
+    {
+      "start": 1722,
+      "text": "are much bigger than that normally so"
+    },
+    {
+      "start": 1724,
+      "text": "what do we do if we can't fit the whole"
+    },
+    {
+      "start": 1726,
+      "text": "thing in our head at the same time how"
+    },
+    {
+      "start": 1728,
+      "text": "can we work on a problem with more than"
+    },
+    {
+      "start": 1731,
+      "text": "nine"
+    },
+    {
+      "start": 1735,
+      "text": "components right what I'm going to"
+    },
+    {
+      "start": 1737,
+      "text": "recommend is that you write all the bits"
+    },
+    {
+      "start": 1740,
+      "text": "down especially now you've written a lot"
+    },
+    {
+      "start": 1742,
+      "text": "down about the problem right you know"
+    },
+    {
+      "start": 1745,
+      "text": "what the problem is you know a lot lot"
+    },
+    {
+      "start": 1747,
+      "text": "of facts about it you know constraints"
+    },
+    {
+      "start": 1748,
+      "text": "about where it runs you know what you"
+    },
+    {
+      "start": 1750,
+      "text": "don't know you've asked yourself those"
+    },
+    {
+      "start": 1752,
+      "text": "questions you wrote them down I wish I"
+    },
+    {
+      "start": 1754,
+      "text": "knew"
+    },
+    {
+      "start": 1755,
+      "text": "blah um you looked at competitive things"
+    },
+    {
+      "start": 1757,
+      "text": "and said that works great over here but"
+    },
+    {
+      "start": 1759,
+      "text": "that part of that competitive thing"
+    },
+    {
+      "start": 1760,
+      "text": "sucks I hate that I wish that wasn't"
+    },
+    {
+      "start": 1764,
+      "text": "there um you gave this huge agenda to"
+    },
+    {
+      "start": 1767,
+      "text": "your background mind"
+    },
+    {
+      "start": 1768,
+      "text": "and when you're trying to um load it up"
+    },
+    {
+      "start": 1773,
+      "text": "you need to survey it and that's the"
+    },
+    {
+      "start": 1775,
+      "text": "point of writing it all down before if"
+    },
+    {
+      "start": 1778,
+      "text": "you've written all the stuff down"
+    },
+    {
+      "start": 1779,
+      "text": "including some sketch of how you want to"
+    },
+    {
+      "start": 1782,
+      "text": "solve the problem you can go and just"
+    },
+    {
+      "start": 1784,
+      "text": "sort of jump around and look at that and"
+    },
+    {
+      "start": 1787,
+      "text": "it's sort of like you know how many"
+    },
+    {
+      "start": 1788,
+      "text": "balls can you juggle well you can only"
+    },
+    {
+      "start": 1790,
+      "text": "juggle some many I can't juggle at all"
+    },
+    {
+      "start": 1792,
+      "text": "but if we look at the seven plus orus"
+    },
+    {
+      "start": 1794,
+      "text": "two thing we're going to say we could"
+    },
+    {
+      "start": 1795,
+      "text": "juggle seven to nine balls but if you"
+    },
+    {
+      "start": 1797,
+      "text": "can imagine"
+    },
+    {
+      "start": 1798,
+      "text": "um having an assistant who every now and"
+    },
+    {
+      "start": 1800,
+      "text": "then could take one of those out and put"
+    },
+    {
+      "start": 1802,
+      "text": "a different color in then you could"
+    },
+    {
+      "start": 1804,
+      "text": "juggle balls of 20 different colors at"
+    },
+    {
+      "start": 1806,
+      "text": "the same time as long as there were only"
+    },
+    {
+      "start": 1808,
+      "text": "nine in the air at any one point in time"
+    },
+    {
+      "start": 1811,
+      "text": "and that's what you're doing you're"
+    },
+    {
+      "start": 1812,
+      "text": "going to sort of look around at all"
+    },
+    {
+      "start": 1814,
+      "text": "these pieces and shift arbitrary shapes"
+    },
+    {
+      "start": 1817,
+      "text": "of seven into your"
+    },
+    {
+      "start": 1819,
+      "text": "head at different points in"
+    },
+    {
+      "start": 1823,
+      "text": "time maybe you'll draw pictures don't"
+    },
+    {
+      "start": 1827,
+      "text": "use the youl to work to do there it's"
+    },
+    {
+      "start": 1830,
+      "text": "not a methodology so go over and over"
+    },
+    {
+      "start": 1834,
+      "text": "but then you must again step away from"
+    },
+    {
+      "start": 1838,
+      "text": "the computer there's another really"
+    },
+    {
+      "start": 1840,
+      "text": "important important part of doing this"
+    },
+    {
+      "start": 1842,
+      "text": "which is to go and sit somewhere and"
+    },
+    {
+      "start": 1845,
+      "text": "have no input and close your eyes and"
+    },
+    {
+      "start": 1848,
+      "text": "not go to sleep close your eyes because"
+    },
+    {
+      "start": 1851,
+      "text": "we have this other thing right everybody"
+    },
+    {
+      "start": 1854,
+      "text": "knows what it is it's really hard to"
+    },
+    {
+      "start": 1855,
+      "text": "describe but does everybody have a"
+    },
+    {
+      "start": 1856,
+      "text": "concept of their own their Mind's Eye"
+    },
+    {
+      "start": 1859,
+      "text": "right what you see when you close your"
+    },
+    {
+      "start": 1860,
+      "text": "eyes and you start thinking about"
+    },
+    {
+      "start": 1862,
+      "text": "something it's this weird I mean it's"
+    },
+    {
+      "start": 1863,
+      "text": "not actually technically visual though"
+    },
+    {
+      "start": 1865,
+      "text": "some people are really vibrantly visual"
+    },
+    {
+      "start": 1867,
+      "text": "I know for me it's it's I don't know I"
+    },
+    {
+      "start": 1870,
+      "text": "can't describe it but it's not very"
+    },
+    {
+      "start": 1872,
+      "text": "realistic um but you need to do that"
+    },
+    {
+      "start": 1875,
+      "text": "that that part is important for your"
+    },
+    {
+      "start": 1877,
+      "text": "brain uh because at that point you're"
+    },
+    {
+      "start": 1880,
+      "text": "switching out of sort of an input"
+    },
+    {
+      "start": 1882,
+      "text": "reception mode if you're just looking at"
+    },
+    {
+      "start": 1884,
+      "text": "your lists you're sort of in the mode of"
+    },
+    {
+      "start": 1886,
+      "text": "I'm getting input but when you're"
+    },
+    {
+      "start": 1888,
+      "text": "sitting and contemplating something and"
+    },
+    {
+      "start": 1890,
+      "text": "and and hashing it over in your head you"
+    },
+    {
+      "start": 1892,
+      "text": "don't have any other input which means"
+    },
+    {
+      "start": 1894,
+      "text": "you're exercising the recall I looked at"
+    },
+    {
+      "start": 1897,
+      "text": "those 20 points let's say it was just 20"
+    },
+    {
+      "start": 1899,
+      "text": "I looked at those 20 points over and"
+    },
+    {
+      "start": 1901,
+      "text": "over and over again and I jumped around"
+    },
+    {
+      "start": 1903,
+      "text": "with input between them now I close my"
+    },
+    {
+      "start": 1905,
+      "text": "eyes and I'm trying to recall them and"
+    },
+    {
+      "start": 1907,
+      "text": "think about them a little bit more in my"
+    },
+    {
+      "start": 1910,
+      "text": "head and you're going to find if you've"
+    },
+    {
+      "start": 1911,
+      "text": "done the last step going over and over"
+    },
+    {
+      "start": 1914,
+      "text": "you will actually be able to sit on a"
+    },
+    {
+      "start": 1915,
+      "text": "hammock and pull all the different parts"
+    },
+    {
+      "start": 1917,
+      "text": "of a fairly large problem in and out of"
+    },
+    {
+      "start": 1919,
+      "text": "your head admittedly maybe one at a time"
+    },
+    {
+      "start": 1921,
+      "text": "and thinking think about them that way"
+    },
+    {
+      "start": 1923,
+      "text": "that exercise is really really important"
+    },
+    {
+      "start": 1925,
+      "text": "I don't know why it just is because it"
+    },
+    {
+      "start": 1928,
+      "text": "it forces this recall thing that"
+    },
+    {
+      "start": 1929,
+      "text": "definitely makes those things agenda"
+    },
+    {
+      "start": 1931,
+      "text": "items for your background mind so we'll"
+    },
+    {
+      "start": 1935,
+      "text": "call that Mind's Eye"
+    },
+    {
+      "start": 1937,
+      "text": "time now you're done cake is in the"
+    },
+    {
+      "start": 1941,
+      "text": "oven you just have to"
+    },
+    {
+      "start": 1943,
+      "text": "wait it's so"
+    },
+    {
+      "start": 1945,
+      "text": "good um"
+    },
+    {
+      "start": 1948,
+      "text": "and and and one of the things I would"
+    },
+    {
+      "start": 1950,
+      "text": "say is at least wait overnight no matter"
+    },
+    {
+      "start": 1952,
+      "text": "how you know you and your buddies talked"
+    },
+    {
+      "start": 1954,
+      "text": "about it and you like you just feel like"
+    },
+    {
+      "start": 1956,
+      "text": "such a hot shot today I have got this"
+    },
+    {
+      "start": 1959,
+      "text": "thing um you know sleep on it at least"
+    },
+    {
+      "start": 1963,
+      "text": "one night at least if it's an important"
+    },
+    {
+      "start": 1965,
+      "text": "decision"
+    },
+    {
+      "start": 1969,
+      "text": "um now how many people woke up this"
+    },
+    {
+      "start": 1972,
+      "text": "morning with the answer to a hard"
+    },
+    {
+      "start": 1976,
+      "text": "problem you see it's"
+    },
+    {
+      "start": 1979,
+      "text": "science science at work uh no it's"
+    },
+    {
+      "start": 1982,
+      "text": "really kind of an unfortunate thing if"
+    },
+    {
+      "start": 1984,
+      "text": "you're not thinking about this you think"
+    },
+    {
+      "start": 1986,
+      "text": "what what happened I worked hard all day"
+    },
+    {
+      "start": 1989,
+      "text": "right I'm done working time to"
+    },
+    {
+      "start": 1993,
+      "text": "relax unfortunately if you if you"
+    },
+    {
+      "start": 1996,
+      "text": "believe in what I'm saying today um"
+    },
+    {
+      "start": 1998,
+      "text": "you're actually doing something kind of"
+    },
+    {
+      "start": 2000,
+      "text": "important when you're sleeping so"
+    },
+    {
+      "start": 2003,
+      "text": "occasionally you really have to give"
+    },
+    {
+      "start": 2004,
+      "text": "your brain a chance to do that other"
+    },
+    {
+      "start": 2007,
+      "text": "part of the job if you always deny it I"
+    },
+    {
+      "start": 2009,
+      "text": "don't think you're going to um have the"
+    },
+    {
+      "start": 2011,
+      "text": "best"
+    },
+    {
+      "start": 2013,
+      "text": "results unfortunately sometimes"
+    },
+    {
+      "start": 2015,
+      "text": "overnight is not not enough some big"
+    },
+    {
+      "start": 2018,
+      "text": "problems especially finding really good"
+    },
+    {
+      "start": 2020,
+      "text": "abstractions or finding answers to"
+    },
+    {
+      "start": 2023,
+      "text": "things that satisfy a bunch of"
+    },
+    {
+      "start": 2024,
+      "text": "simultaneous constraints take a long"
+    },
+    {
+      "start": 2027,
+      "text": "time uh it just does and I'm I know"
+    },
+    {
+      "start": 2032,
+      "text": "everybody has to ship and everything"
+    },
+    {
+      "start": 2033,
+      "text": "else and in that case a lot of what I'm"
+    },
+    {
+      "start": 2035,
+      "text": "saying doesn't apply and like I said"
+    },
+    {
+      "start": 2037,
+      "text": "before I consider it a huge opportunity"
+    },
+    {
+      "start": 2040,
+      "text": "when I get an extended amount of time to"
+    },
+    {
+      "start": 2042,
+      "text": "think about a problem because I know it"
+    },
+    {
+      "start": 2044,
+      "text": "I'll come up with a better answer um but"
+    },
+    {
+      "start": 2047,
+      "text": "one of the ways you can deal with this"
+    },
+    {
+      "start": 2048,
+      "text": "and not get styed by well let me just"
+    },
+    {
+      "start": 2050,
+      "text": "think about that for three months"
+    },
+    {
+      "start": 2052,
+      "text": "because most managers um are not"
+    },
+    {
+      "start": 2056,
+      "text": "incredibly receptive to that"
+    },
+    {
+      "start": 2060,
+      "text": "sentence is to to just work on more than"
+    },
+    {
+      "start": 2062,
+      "text": "one thing right not inside one day okay"
+    },
+    {
+      "start": 2067,
+      "text": "try to work on one thing each day but if"
+    },
+    {
+      "start": 2070,
+      "text": "over the course of time you have like"
+    },
+    {
+      "start": 2072,
+      "text": "three projects right it's quite possible"
+    },
+    {
+      "start": 2075,
+      "text": "to load one up and work on it for three"
+    },
+    {
+      "start": 2077,
+      "text": "days and find you're not um finding"
+    },
+    {
+      "start": 2081,
+      "text": "answers to any of your question mark"
+    },
+    {
+      "start": 2083,
+      "text": "items or able to enumerate new"
+    },
+    {
+      "start": 2084,
+      "text": "possibilities so you're kind of stuck a"
+    },
+    {
+      "start": 2086,
+      "text": "little bit just switch to another"
+    },
+    {
+      "start": 2089,
+      "text": "project and do that for a few days um"
+    },
+    {
+      "start": 2091,
+      "text": "you have to amortize the loading up time"
+    },
+    {
+      "start": 2093,
+      "text": "it can take between an hour and an"
+    },
+    {
+      "start": 2095,
+      "text": "entire day to load up something so once"
+    },
+    {
+      "start": 2097,
+      "text": "you've done that you try to get at least"
+    },
+    {
+      "start": 2099,
+      "text": "the rest of the day or 3 days or or more"
+    },
+    {
+      "start": 2102,
+      "text": "on it uh but don't get don't get hung up"
+    },
+    {
+      "start": 2105,
+      "text": "about the stuck thing just"
+    },
+    {
+      "start": 2107,
+      "text": "switch right don't stay stuck switch or"
+    },
+    {
+      "start": 2111,
+      "text": "get more input talk about it more you"
+    },
+    {
+      "start": 2114,
+      "text": "know keep stimulating the pathway don't"
+    },
+    {
+      "start": 2116,
+      "text": "don't say stuck on it but yeah then"
+    },
+    {
+      "start": 2120,
+      "text": "eventually cake comes out of the oven"
+    },
+    {
+      "start": 2122,
+      "text": "you wake up and you have a great idea"
+    },
+    {
+      "start": 2124,
+      "text": "you think you know the answer to your"
+    },
+    {
+      "start": 2127,
+      "text": "problem or you have a good idea for a"
+    },
+    {
+      "start": 2129,
+      "text": "solution um"
+    },
+    {
+      "start": 2132,
+      "text": "unfortunately uh sometimes you have an"
+    },
+    {
+      "start": 2134,
+      "text": "answer to the not the problem you were"
+    },
+    {
+      "start": 2136,
+      "text": "working on you you were working on three"
+    },
+    {
+      "start": 2138,
+      "text": "projects and you loaded up with project"
+    },
+    {
+      "start": 2139,
+      "text": "C and you woke up with the answer to"
+    },
+    {
+      "start": 2141,
+      "text": "project a uh that has to be okay right"
+    },
+    {
+      "start": 2145,
+      "text": "you just just switch and take advantage"
+    },
+    {
+      "start": 2148,
+      "text": "of it at least capture it right if you"
+    },
+    {
+      "start": 2150,
+      "text": "wake up with an answer to some other"
+    },
+    {
+      "start": 2151,
+      "text": "thing that you can't work on that day"
+    },
+    {
+      "start": 2154,
+      "text": "capture the results of this background"
+    },
+    {
+      "start": 2156,
+      "text": "process they're really"
+    },
+    {
+      "start": 2159,
+      "text": "useful um finally you do have to take um"
+    },
+    {
+      "start": 2162,
+      "text": "your great ideas and figure out if"
+    },
+    {
+      "start": 2164,
+      "text": "they're actually great by either"
+    },
+    {
+      "start": 2167,
+      "text": "analyzing them more which is certainly"
+    },
+    {
+      "start": 2168,
+      "text": "important but sometimes you have to"
+    },
+    {
+      "start": 2170,
+      "text": "write them and type them into your"
+    },
+    {
+      "start": 2172,
+      "text": "computer actually we all have to do this"
+    },
+    {
+      "start": 2175,
+      "text": "so you do eventually have to code um"
+    },
+    {
+      "start": 2178,
+      "text": "it's fun Stu has this great sense he's"
+    },
+    {
+      "start": 2180,
+      "text": "seen some of my design sheets and I"
+    },
+    {
+      "start": 2183,
+      "text": "don't what you call this document of"
+    },
+    {
+      "start": 2185,
+      "text": "Despair or something you call it just"
+    },
+    {
+      "start": 2187,
+      "text": "like it seemed to be all like oh we"
+    },
+    {
+      "start": 2189,
+      "text": "can't do this this doesn't work like"
+    },
+    {
+      "start": 2191,
+      "text": "that question marks blah blah this other"
+    },
+    {
+      "start": 2193,
+      "text": "thing was just like all it's all"
+    },
+    {
+      "start": 2195,
+      "text": "negative but it's all challenges to the"
+    },
+    {
+      "start": 2198,
+      "text": "problem solving process it's not like"
+    },
+    {
+      "start": 2200,
+      "text": "it's not despairing it's positive it's"
+    },
+    {
+      "start": 2201,
+      "text": "saying I know what my challenges are and"
+    },
+    {
+      "start": 2204,
+      "text": "therefore I can work on them uh but you"
+    },
+    {
+      "start": 2207,
+      "text": "spit this thing out now you have"
+    },
+    {
+      "start": 2209,
+      "text": "something so you try to you try to uh"
+    },
+    {
+      "start": 2212,
+      "text": "try to avoid a lot of typing I know I do"
+    },
+    {
+      "start": 2216,
+      "text": "uh because if I if I think I've got an"
+    },
+    {
+      "start": 2219,
+      "text": "answer and the answer is small that's"
+    },
+    {
+      "start": 2222,
+      "text": "one of the most telling attributes that"
+    },
+    {
+      "start": 2226,
+      "text": "it's probably"
+    },
+    {
+      "start": 2227,
+      "text": "good"
+    },
+    {
+      "start": 2229,
+      "text": "uh and what I would hope from doing this"
+    },
+    {
+      "start": 2233,
+      "text": "whole process is that uh you gain"
+    },
+    {
+      "start": 2236,
+      "text": "confidence in it after you've seen it"
+    },
+    {
+      "start": 2238,
+      "text": "work for you so that you say you know"
+    },
+    {
+      "start": 2240,
+      "text": "what I have never done this before but I"
+    },
+    {
+      "start": 2242,
+      "text": "really have thought about it and and"
+    },
+    {
+      "start": 2243,
+      "text": "this solution I came up with overnight"
+    },
+    {
+      "start": 2246,
+      "text": "feels awesome and and woo let's go um it"
+    },
+    {
+      "start": 2251,
+      "text": "is important to look at what you did and"
+    },
+    {
+      "start": 2252,
+      "text": "to run it and see and find out new"
+    },
+    {
+      "start": 2254,
+      "text": "things about the solution and say ah you"
+    },
+    {
+      "start": 2256,
+      "text": "know I had the supposition it's not"
+    },
+    {
+      "start": 2258,
+      "text": "correct I thought it would have this"
+    },
+    {
+      "start": 2259,
+      "text": "characteristic it doesn't etc etc I am"
+    },
+    {
+      "start": 2262,
+      "text": "not advocating the warf fall model"
+    },
+    {
+      "start": 2264,
+      "text": "you're going to try stuff and go back"
+    },
+    {
+      "start": 2267,
+      "text": "that's fine but don't lean on this right"
+    },
+    {
+      "start": 2271,
+      "text": "um test driven Dentistry I don't think I"
+    },
+    {
+      "start": 2273,
+      "text": "could come up with a better thing"
+    },
+    {
+      "start": 2278,
+      "text": "right we can't really do"
+    },
+    {
+      "start": 2279,
+      "text": "that the last thing is um you are going"
+    },
+    {
+      "start": 2283,
+      "text": "to be"
+    },
+    {
+      "start": 2285,
+      "text": "wrong I'm frequently wrong um that's"
+    },
+    {
+      "start": 2288,
+      "text": "part of the game you're going to think"
+    },
+    {
+      "start": 2291,
+      "text": "of better ideas I think that's one of"
+    },
+    {
+      "start": 2293,
+      "text": "the most exciting things I think no"
+    },
+    {
+      "start": 2294,
+      "text": "matter what I've ever thought of the"
+    },
+    {
+      "start": 2296,
+      "text": "fact that I know I'm going to think of"
+    },
+    {
+      "start": 2298,
+      "text": "something better as much as that will"
+    },
+    {
+      "start": 2300,
+      "text": "suck a little bit because I know I"
+    },
+    {
+      "start": 2301,
+      "text": "delivered something was not the best"
+    },
+    {
+      "start": 2303,
+      "text": "means that I'm still going you know it's"
+    },
+    {
+      "start": 2307,
+      "text": "still working so you will think of"
+    },
+    {
+      "start": 2309,
+      "text": "better ideas also the facts change right"
+    },
+    {
+      "start": 2314,
+      "text": "they can change because of two reasons"
+    },
+    {
+      "start": 2316,
+      "text": "right one you missed some of them early"
+    },
+    {
+      "start": 2318,
+      "text": "on so they're new to you because you"
+    },
+    {
+      "start": 2320,
+      "text": "skipped them what else do we"
+    },
+    {
+      "start": 2323,
+      "text": "have changing requirements right it's"
+    },
+    {
+      "start": 2326,
+      "text": "just you know we all know this the facts"
+    },
+    {
+      "start": 2329,
+      "text": "will change when the facts change do not"
+    },
+    {
+      "start": 2332,
+      "text": "dig in do it over again and see if your"
+    },
+    {
+      "start": 2335,
+      "text": "answer is still valid in the context of"
+    },
+    {
+      "start": 2337,
+      "text": "the new requirements the new facts and"
+    },
+    {
+      "start": 2339,
+      "text": "if it isn't change your mind and don't"
+    },
+    {
+      "start": 2344,
+      "text": "apologize sometimes you'll just make"
+    },
+    {
+      "start": 2346,
+      "text": "mistakes errors in logic or you know"
+    },
+    {
+      "start": 2349,
+      "text": "miss you know you just you just get a"
+    },
+    {
+      "start": 2351,
+      "text": "wrong that's fine if I can Advocate"
+    },
+    {
+      "start": 2355,
+      "text": "anything it's do not be afraid"
+    },
+    {
+      "start": 2358,
+      "text": "especially do not be afraid of being"
+    },
+    {
+      "start": 2362,
+      "text": "wrong so in"
+    },
+    {
+      "start": 2365,
+      "text": "summary um this was a"
+    },
+    {
+      "start": 2368,
+      "text": "there's no"
+    },
+    {
+      "start": 2384,
+      "text": "s I have two minutes for questions yes"
+    }
+  ]
+}

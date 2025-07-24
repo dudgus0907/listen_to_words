@@ -1,0 +1,860 @@
+1
+00:00:00,080 --> 00:00:04,319
+Fuse. We're on a mission to accelerate
+
+2
+00:00:02,000 --> 00:00:06,240
+the world's transition to fusion energy.
+
+3
+00:00:04,319 --> 00:00:08,000
+One of the only fusion companies that's
+
+4
+00:00:06,240 --> 00:00:10,559
+actually making revenue. Started a
+
+5
+00:00:08,000 --> 00:00:12,480
+company almost 6 years ago now. I was 19
+
+6
+00:00:10,559 --> 00:00:14,000
+at the time. Yeah. Never went to
+
+7
+00:00:12,480 --> 00:00:16,160
+college. I never even submitted an
+
+8
+00:00:14,000 --> 00:00:18,560
+application. Why do I need to convince
+
+9
+00:00:16,160 --> 00:00:20,960
+an admission officer to like let me sit
+
+10
+00:00:18,560 --> 00:00:22,640
+in a classroom for 4 years to then get a
+
+11
+00:00:20,960 --> 00:00:25,039
+piece of paper that says I can
+
+12
+00:00:22,640 --> 00:00:26,640
+potentially do something versus just do
+
+13
+00:00:25,039 --> 00:00:28,800
+something and prove you can do it. life
+
+14
+00:00:26,640 --> 00:00:31,199
+is too short and there's like 7 billion
+
+15
+00:00:28,800 --> 00:00:33,280
+or more people on earth. So you just
+
+16
+00:00:31,199 --> 00:00:35,200
+always ask yourself like why am I doing
+
+17
+00:00:33,280 --> 00:00:37,280
+something that actually matters or like
+
+18
+00:00:35,200 --> 00:00:39,280
+how can I contribute and I felt that
+
+19
+00:00:37,280 --> 00:00:41,480
+there's a a real way to contribute to
+
+20
+00:00:39,280 --> 00:00:44,000
+work on something that could be um
+
+21
+00:00:41,480 --> 00:00:48,480
+civilization altering starting company
+
+22
+00:00:44,000 --> 00:00:48,480
+was the fastest way to make progress I
+
+23
+00:00:50,920 --> 00:00:56,239
+thought I'm Jes I'm the founder and CEO
+
+24
+00:00:54,160 --> 00:00:58,640
+of fuse we're the only fusion company
+
+25
+00:00:56,239 --> 00:01:00,879
+that has delivered experimental results
+
+26
+00:00:58,640 --> 00:01:02,640
+of a new technology ology that was no
+
+27
+00:01:00,879 --> 00:01:05,280
+one has built it before and published
+
+28
+00:01:02,640 --> 00:01:07,520
+the results in nature. We've raised over
+
+29
+00:01:05,280 --> 00:01:10,240
+$50 million of capital. We work with the
+
+30
+00:01:07,520 --> 00:01:12,720
+US military and US government. March 13,
+
+31
+00:01:10,240 --> 00:01:16,640
+we we've proven the machine at scale and
+
+32
+00:01:12,720 --> 00:01:16,640
+now we have contracts to commercialize
+
+33
+00:01:17,130 --> 00:01:22,960
+[Music]
+
+34
+00:01:20,280 --> 00:01:24,720
+it. My father's a nuclear physicist, so
+
+35
+00:01:22,960 --> 00:01:26,240
+growing up was just very curious about
+
+36
+00:01:24,720 --> 00:01:28,680
+how the world works. You know, I've
+
+37
+00:01:26,240 --> 00:01:31,439
+always liked to work on hard things and
+
+38
+00:01:28,680 --> 00:01:33,360
+explore research topics. And then I very
+
+39
+00:01:31,439 --> 00:01:35,439
+quickly learned that maybe spending time
+
+40
+00:01:33,360 --> 00:01:37,119
+in academic environment was not the
+
+41
+00:01:35,439 --> 00:01:39,520
+fastest way to make progress on
+
+42
+00:01:37,119 --> 00:01:41,600
+technology. So that's why I decided to
+
+43
+00:01:39,520 --> 00:01:44,159
+start you know my own company. I had
+
+44
+00:01:41,600 --> 00:01:46,320
+started a nonprofit in education. The TS
+
+45
+00:01:44,159 --> 00:01:48,399
+as a teenager things it was really hard
+
+46
+00:01:46,320 --> 00:01:50,720
+to you know build things. It's you can't
+
+47
+00:01:48,399 --> 00:01:52,880
+even get a credit card as under 18 which
+
+48
+00:01:50,720 --> 00:01:55,200
+is you know pretty funny. you know, you
+
+49
+00:01:52,880 --> 00:01:56,799
+cannot open a Shopify online store if
+
+50
+00:01:55,200 --> 00:01:58,719
+you're under 18, which is kind of
+
+51
+00:01:56,799 --> 00:02:00,399
+ridiculous considering all the other
+
+52
+00:01:58,719 --> 00:02:02,640
+things you can do. So, I started a
+
+53
+00:02:00,399 --> 00:02:04,719
+nonprofit to essentially liberate
+
+54
+00:02:02,640 --> 00:02:06,560
+teenagers to dare and and to create. And
+
+55
+00:02:04,719 --> 00:02:08,640
+we were funded by Google.org, the
+
+56
+00:02:06,560 --> 00:02:11,360
+Canadian government, and and others. And
+
+57
+00:02:08,640 --> 00:02:13,040
+we built that into pretty uh successful
+
+58
+00:02:11,360 --> 00:02:15,520
+program. And we had some teenagers that
+
+59
+00:02:13,040 --> 00:02:17,599
+now are off to doing great things. What
+
+60
+00:02:15,520 --> 00:02:20,080
+I've done to date is a good example for
+
+61
+00:02:17,599 --> 00:02:21,760
+others to realize that it's possible. If
+
+62
+00:02:20,080 --> 00:02:23,920
+you really want to build something and
+
+63
+00:02:21,760 --> 00:02:26,000
+you truly have the grit and tenacity,
+
+64
+00:02:23,920 --> 00:02:28,400
+you can. A lot of people, you know,
+
+65
+00:02:26,000 --> 00:02:29,920
+being young is has a competitive edge
+
+66
+00:02:28,400 --> 00:02:31,840
+because you're naive and you've got a
+
+67
+00:02:29,920 --> 00:02:34,319
+lot of stamina and energy. Definitely
+
+68
+00:02:31,840 --> 00:02:36,720
+those early wins give you an early taste
+
+69
+00:02:34,319 --> 00:02:39,040
+at freedom. You know, choosing to start
+
+70
+00:02:36,720 --> 00:02:40,720
+as early as possible maximizes, you
+
+71
+00:02:39,040 --> 00:02:42,480
+know, your chance at getting it right.
+
+72
+00:02:40,720 --> 00:02:44,560
+And even if you fail, you make you burn
+
+73
+00:02:42,480 --> 00:02:46,480
+yourself a little bit, as long as you
+
+74
+00:02:44,560 --> 00:02:50,319
+don't die or don't go to jail, I think
+
+75
+00:02:46,480 --> 00:02:50,319
+everything else can be tolerated and
+
+76
+00:02:54,280 --> 00:02:58,480
+repaired. You know, I felt that there's
+
+77
+00:02:56,319 --> 00:03:01,120
+a a real way to contribute to work on
+
+78
+00:02:58,480 --> 00:03:03,440
+something civilization altering like a
+
+79
+00:03:01,120 --> 00:03:05,599
+civilization scale and and history.
+
+80
+00:03:03,440 --> 00:03:07,599
+every technology progress or
+
+81
+00:03:05,599 --> 00:03:09,760
+civilizational development has been tied
+
+82
+00:03:07,599 --> 00:03:11,519
+to like how much kilowatt hour is
+
+83
+00:03:09,760 --> 00:03:13,360
+available per capita. So when you think
+
+84
+00:03:11,519 --> 00:03:16,080
+about the industrial revolution and how
+
+85
+00:03:13,360 --> 00:03:18,319
+that enabled the whole human prosperity
+
+86
+00:03:16,080 --> 00:03:20,800
+and and technological advancements and
+
+87
+00:03:18,319 --> 00:03:22,800
+you can tie that to coal afterwards and
+
+88
+00:03:20,800 --> 00:03:24,959
+chemical era and I believe that fusion
+
+89
+00:03:22,800 --> 00:03:27,120
+would unlock the next level of human
+
+90
+00:03:24,959 --> 00:03:30,239
+prosperity you know the rise of the
+
+91
+00:03:27,120 --> 00:03:32,319
+social middle class the rise of AI of
+
+92
+00:03:30,239 --> 00:03:34,640
+quantum technologies like all of those
+
+93
+00:03:32,319 --> 00:03:36,879
+critical technologies they need energy
+
+94
+00:03:34,640 --> 00:03:38,640
+and without energy we can't have AI like
+
+95
+00:03:36,879 --> 00:03:40,480
+how would you power all the data centers
+
+96
+00:03:38,640 --> 00:03:42,480
+do you want it at the cost of people not
+
+97
+00:03:40,480 --> 00:03:44,720
+being able to turn their lights on at
+
+98
+00:03:42,480 --> 00:03:46,720
+the house. I don't think so. And so we
+
+99
+00:03:44,720 --> 00:03:48,799
+will need significantly more energy and
+
+100
+00:03:46,720 --> 00:03:51,040
+fusion is not the only ways to actually
+
+101
+00:03:48,799 --> 00:03:52,959
+make that. So Titan is the world's
+
+102
+00:03:51,040 --> 00:03:55,040
+highest power and highest energy
+
+103
+00:03:52,959 --> 00:03:56,720
+impedance match Mars generator of its
+
+104
+00:03:55,040 --> 00:03:59,200
+kind. What that matters to think about
+
+105
+00:03:56,720 --> 00:04:01,200
+it as a giant battery that releases all
+
+106
+00:03:59,200 --> 00:04:02,879
+of its energy really fast like in a
+
+107
+00:04:01,200 --> 00:04:04,720
+billionth of a second. It's a very
+
+108
+00:04:02,879 --> 00:04:06,720
+important question to ask. Is this a
+
+109
+00:04:04,720 --> 00:04:08,640
+scientific nonprofit or is there a
+
+110
+00:04:06,720 --> 00:04:10,799
+business here? cuz a lot of time people
+
+111
+00:04:08,640 --> 00:04:12,400
+solve are building companies and I I
+
+112
+00:04:10,799 --> 00:04:13,840
+wonder if that's better to be like a
+
+113
+00:04:12,400 --> 00:04:16,639
+scientific research that's like
+
+114
+00:04:13,840 --> 00:04:18,720
+nonprofit funded or grandfunded versus
+
+115
+00:04:16,639 --> 00:04:20,320
+is this a business or a real company.
+
+116
+00:04:18,720 --> 00:04:22,400
+Then the second is like really to
+
+117
+00:04:20,320 --> 00:04:24,240
+question the fundamentals and what we've
+
+118
+00:04:22,400 --> 00:04:26,800
+done for Titan was built in-house like
+
+119
+00:04:24,240 --> 00:04:28,880
+over 80% of the Titan subsystems and
+
+120
+00:04:26,800 --> 00:04:30,720
+components were built in-house at Fuse
+
+121
+00:04:28,880 --> 00:04:32,800
+and so we took on the project knowing
+
+122
+00:04:30,720 --> 00:04:34,320
+that we have the capacity to solve a lot
+
+123
+00:04:32,800 --> 00:04:36,800
+of the problems and we vertically
+
+124
+00:04:34,320 --> 00:04:39,199
+integrated which meant that as problems
+
+125
+00:04:36,800 --> 00:04:41,520
+were arising we were able to solve them
+
+126
+00:04:39,199 --> 00:04:43,600
+inhouse. building companies like you you
+
+127
+00:04:41,520 --> 00:04:45,280
+always are updating the operating system
+
+128
+00:04:43,600 --> 00:04:47,199
+is like an app you know and you you have
+
+129
+00:04:45,280 --> 00:04:49,040
+to constantly debug and upgrade the
+
+130
+00:04:47,199 --> 00:04:51,759
+operating system and you need different
+
+131
+00:04:49,040 --> 00:04:53,440
+version for every 6 months or so. So you
+
+132
+00:04:51,759 --> 00:04:55,280
+know very intentionally taking time to
+
+133
+00:04:53,440 --> 00:04:56,800
+be introspective and to think about you
+
+134
+00:04:55,280 --> 00:04:58,880
+know what has changed now. This is not
+
+135
+00:04:56,800 --> 00:05:00,880
+the same company that it was before.
+
+136
+00:04:58,880 --> 00:05:03,040
+Obviously the core fundamentals are the
+
+137
+00:05:00,880 --> 00:05:04,880
+same but you know the way it operates is
+
+138
+00:05:03,040 --> 00:05:06,720
+is different and bringing the right
+
+139
+00:05:04,880 --> 00:05:08,160
+resources you know around you. You know
+
+140
+00:05:06,720 --> 00:05:10,240
+there's people who are really good at
+
+141
+00:05:08,160 --> 00:05:11,919
+the early stage and then you need a
+
+142
+00:05:10,240 --> 00:05:14,160
+different type of skill set and and
+
+143
+00:05:11,919 --> 00:05:16,160
+culture for growth stage and bringing in
+
+144
+00:05:14,160 --> 00:05:17,840
+different people at the right time and
+
+145
+00:05:16,160 --> 00:05:19,919
+having the introspection to think of
+
+146
+00:05:17,840 --> 00:05:22,160
+what needs to be changed, what bugs need
+
+147
+00:05:19,919 --> 00:05:24,000
+to be fixed and how to upgrade the
+
+148
+00:05:22,160 --> 00:05:26,320
+operating system for the next phase is
+
+149
+00:05:24,000 --> 00:05:26,320
+very
+
+150
+00:05:30,120 --> 00:05:34,240
+important. Certainly the company has
+
+151
+00:05:32,320 --> 00:05:36,000
+come close to running out of capital at
+
+152
+00:05:34,240 --> 00:05:37,759
+few moments in time. you know we we had
+
+153
+00:05:36,000 --> 00:05:39,360
+some you know technology that at some
+
+154
+00:05:37,759 --> 00:05:41,120
+point you know did not go as we had
+
+155
+00:05:39,360 --> 00:05:43,199
+planned or we had run out of capital and
+
+156
+00:05:41,120 --> 00:05:44,400
+we had to make really hard decisions but
+
+157
+00:05:43,199 --> 00:05:46,320
+you know these are the moment that
+
+158
+00:05:44,400 --> 00:05:48,160
+really define who we are you know just
+
+159
+00:05:46,320 --> 00:05:50,160
+building this connective tissue as a
+
+160
+00:05:48,160 --> 00:05:52,479
+team and this resilience the one thing
+
+161
+00:05:50,160 --> 00:05:54,720
+that has been really awesome is like I'm
+
+162
+00:05:52,479 --> 00:05:56,479
+young myself but we've built a team with
+
+163
+00:05:54,720 --> 00:05:58,400
+you know some really experienced people
+
+164
+00:05:56,479 --> 00:05:59,840
+from different aspects uh of the
+
+165
+00:05:58,400 --> 00:06:02,400
+government I had the fortune to work
+
+166
+00:05:59,840 --> 00:06:04,319
+with some really smart people with some
+
+167
+00:06:02,400 --> 00:06:06,000
+of the best people I've met fortunate
+
+168
+00:06:04,319 --> 00:06:08,240
+enough that they're now part of one team
+
+169
+00:06:06,000 --> 00:06:10,000
+and we're multiple vectors pointing in
+
+170
+00:06:08,240 --> 00:06:11,919
+one direction and just if you're humble
+
+171
+00:06:10,000 --> 00:06:13,759
+and you bring people that really can
+
+172
+00:06:11,919 --> 00:06:15,919
+compleiment you that's a strength not a
+
+173
+00:06:13,759 --> 00:06:18,639
+weakness. It's really important to be
+
+174
+00:06:15,919 --> 00:06:20,400
+audacious and daring but also humble and
+
+175
+00:06:18,639 --> 00:06:22,160
+it's your challenge to figure out how to
+
+176
+00:06:20,400 --> 00:06:24,240
+overcome that will save you a lot of
+
+177
+00:06:22,160 --> 00:06:26,560
+peace and help attract some great people
+
+178
+00:06:24,240 --> 00:06:28,720
+where you recognize your weaknesses and
+
+179
+00:06:26,560 --> 00:06:30,479
+vulnerabilities and build around them.
+
+180
+00:06:28,720 --> 00:06:32,400
+that team is that mindset like most
+
+181
+00:06:30,479 --> 00:06:34,479
+people actually want to be in
+
+182
+00:06:32,400 --> 00:06:35,919
+environments where you know they're all
+
+183
+00:06:34,479 --> 00:06:37,199
+contributing and learning from each
+
+184
+00:06:35,919 --> 00:06:39,360
+other that's at least a healthy
+
+185
+00:06:37,199 --> 00:06:41,520
+environment. We also really care about
+
+186
+00:06:39,360 --> 00:06:43,360
+you know people who are just focused on
+
+187
+00:06:41,520 --> 00:06:45,680
+getting done and you know getting
+
+188
+00:06:43,360 --> 00:06:47,759
+the job done whatever it is versus know
+
+189
+00:06:45,680 --> 00:06:50,319
+just talking. So we we have a really
+
+190
+00:06:47,759 --> 00:06:52,000
+default for people who take agency who
+
+191
+00:06:50,319 --> 00:06:54,000
+are autonomous and just want to get
+
+192
+00:06:52,000 --> 00:06:55,680
+done who are really curious and third
+
+193
+00:06:54,000 --> 00:06:57,919
+just give a you know like the
+
+194
+00:06:55,680 --> 00:06:59,440
+people on our team really care. They
+
+195
+00:06:57,919 --> 00:07:01,680
+stay up till 4:00 a.m. when we have a
+
+196
+00:06:59,440 --> 00:07:03,840
+mission. They work on the weekends. They
+
+197
+00:07:01,680 --> 00:07:05,840
+just go out of their own way to to do
+
+198
+00:07:03,840 --> 00:07:07,919
+the job and like pick up the trash if
+
+199
+00:07:05,840 --> 00:07:09,759
+needs be. You know, give a and care
+
+200
+00:07:07,919 --> 00:07:13,560
+and just want to get done and just
+
+201
+00:07:09,759 --> 00:07:15,840
+focus on that. I think you can get a lot
+
+202
+00:07:13,560 --> 00:07:17,759
+done. It's It's actually really funny
+
+203
+00:07:15,840 --> 00:07:19,840
+when people think that entrepreneurs are
+
+204
+00:07:17,759 --> 00:07:21,680
+very big risk takers. I think like great
+
+205
+00:07:19,840 --> 00:07:23,360
+entrepreneurs are really good like risk
+
+206
+00:07:21,680 --> 00:07:24,720
+hedgers. Like the day you start the
+
+207
+00:07:23,360 --> 00:07:26,800
+company, you've taken the most amount of
+
+208
+00:07:24,720 --> 00:07:28,560
+risk and then your job all along is to
+
+209
+00:07:26,800 --> 00:07:31,360
+retire risk and like choose very
+
+210
+00:07:28,560 --> 00:07:33,360
+selectively which risk to derisk first
+
+211
+00:07:31,360 --> 00:07:35,360
+and how to sequentially do that. for
+
+212
+00:07:33,360 --> 00:07:37,280
+founders to think about risk mitigation
+
+213
+00:07:35,360 --> 00:07:38,880
+as well as know equipping yourself with
+
+214
+00:07:37,280 --> 00:07:42,199
+the right tool and most importantly with
+
+215
+00:07:38,880 --> 00:07:42,199
+the right people.
+

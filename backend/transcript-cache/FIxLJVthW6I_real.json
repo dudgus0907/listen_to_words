@@ -1,0 +1,1122 @@
+{
+  "success": true,
+  "videoId": "FIxLJVthW6I",
+  "videoTitle": "Fix your AI-limited mindset in 12 mins ｜ Caltech, Anima Anandkumar",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "A lot of these AI tools are getting"
+    },
+    {
+      "start": 1,
+      "text": "better, but that only means they can do"
+    },
+    {
+      "start": 4,
+      "text": "a certain set of instructions which are"
+    },
+    {
+      "start": 6,
+      "text": "seen in data. You still need to provide"
+    },
+    {
+      "start": 9,
+      "text": "AI what to do, right? You still need to"
+    },
+    {
+      "start": 12,
+      "text": "be able to describe it. And that ability"
+    },
+    {
+      "start": 15,
+      "text": "to describe what are the tasks AI should"
+    },
+    {
+      "start": 17,
+      "text": "do, what are the programs to be written"
+    },
+    {
+      "start": 19,
+      "text": "is still important. I think one job that"
+    },
+    {
+      "start": 22,
+      "text": "will not be replaced by AI is the"
+    },
+    {
+      "start": 25,
+      "text": "ability to be curious and go after hard"
+    },
+    {
+      "start": 28,
+      "text": "problems. So for young people, my advice"
+    },
+    {
+      "start": 30,
+      "text": "is not to be afraid of AI or worry what"
+    },
+    {
+      "start": 34,
+      "text": "skills to learn that AI may replace them"
+    },
+    {
+      "start": 37,
+      "text": "with, but really be in that path of"
+    },
+    {
+      "start": 40,
+      "text": "curiosity. I'm an animant Kumar. I'm"
+    },
+    {
+      "start": 43,
+      "text": "brand professor at Caltech. I've been a"
+    },
+    {
+      "start": 45,
+      "text": "professor at Caltech for about 8 years"
+    },
+    {
+      "start": 47,
+      "text": "now and during that time I also had"
+    },
+    {
+      "start": 50,
+      "text": "stints in industry. I was principal"
+    },
+    {
+      "start": 52,
+      "text": "scientist at Amazon Web Services. So at"
+    },
+    {
+      "start": 55,
+      "text": "Caltech, I lead the AI and science lab,"
+    },
+    {
+      "start": 58,
+      "text": "which means uh working on some of the"
+    },
+    {
+      "start": 61,
+      "text": "hardest challenges we see in science and"
+    },
+    {
+      "start": 63,
+      "text": "engineering and how we can not only use"
+    },
+    {
+      "start": 67,
+      "text": "existing AI methods to solve them, but"
+    },
+    {
+      "start": 69,
+      "text": "really develop new ones."
+    },
+    {
+      "start": 72,
+      "text": "[Music]"
+    },
+    {
+      "start": 80,
+      "text": "I think one job that will not be"
+    },
+    {
+      "start": 82,
+      "text": "replaced by AI is the ability to be"
+    },
+    {
+      "start": 85,
+      "text": "curious and go after hard problems. For"
+    },
+    {
+      "start": 88,
+      "text": "a lot of students, there is a strong"
+    },
+    {
+      "start": 90,
+      "text": "motivation to just conform and go ahead."
+    },
+    {
+      "start": 93,
+      "text": "Right? The number one thing I would ask"
+    },
+    {
+      "start": 96,
+      "text": "is to question everything. Think"
+    },
+    {
+      "start": 98,
+      "text": "critically. I always begin the classes"
+    },
+    {
+      "start": 100,
+      "text": "by asking questions, not writing down"
+    },
+    {
+      "start": 102,
+      "text": "math equations, right? Not going into"
+    },
+    {
+      "start": 104,
+      "text": "the details but just intuitively based"
+    },
+    {
+      "start": 107,
+      "text": "on everything that you've seen you've"
+    },
+    {
+      "start": 109,
+      "text": "done what do you think I asked them"
+    },
+    {
+      "start": 112,
+      "text": "simple cases for instance if you were to"
+    },
+    {
+      "start": 114,
+      "text": "design for a fire alarm when should it"
+    },
+    {
+      "start": 117,
+      "text": "say that there is fire or not that's"
+    },
+    {
+      "start": 119,
+      "text": "something you can change right you can"
+    },
+    {
+      "start": 121,
+      "text": "put a threshold you know what level of"
+    },
+    {
+      "start": 123,
+      "text": "smoke or when does it think it's smoky"
+    },
+    {
+      "start": 125,
+      "text": "and that's a very practical question so"
+    },
+    {
+      "start": 128,
+      "text": "if you just had fire alarms every day"
+    },
+    {
+      "start": 130,
+      "text": "we'd be just out and it would be useless"
+    },
+    {
+      "start": 133,
+      "text": "we would not have a functional office"
+    },
+    {
+      "start": 134,
+      "text": "space. But on the other hand, if we"
+    },
+    {
+      "start": 137,
+      "text": "never set fire, that would be bad, too."
+    },
+    {
+      "start": 139,
+      "text": "So, how to balance this and how to model"
+    },
+    {
+      "start": 142,
+      "text": "how noisy this sensor could be. And"
+    },
+    {
+      "start": 145,
+      "text": "sometimes I see with students who may"
+    },
+    {
+      "start": 147,
+      "text": "not have the mathematical training, but"
+    },
+    {
+      "start": 149,
+      "text": "they're very intuitive and practical."
+    },
+    {
+      "start": 151,
+      "text": "They may be like, oh, I would go and"
+    },
+    {
+      "start": 152,
+      "text": "measure how noisy it is, or I would show"
+    },
+    {
+      "start": 154,
+      "text": "different levels of smoke, have like"
+    },
+    {
+      "start": 156,
+      "text": "candles of different sizes and go and"
+    },
+    {
+      "start": 159,
+      "text": "test it. that and you know many times"
+    },
+    {
+      "start": 161,
+      "text": "people already maybe somewhat aware of"
+    },
+    {
+      "start": 163,
+      "text": "this so they have some intuitive ideas"
+    },
+    {
+      "start": 165,
+      "text": "so that already is a good starting point"
+    },
+    {
+      "start": 167,
+      "text": "and sometimes they are maybe really"
+    },
+    {
+      "start": 169,
+      "text": "wrong they have an intuition but that's"
+    },
+    {
+      "start": 171,
+      "text": "a wrong intuition which is still okay"
+    },
+    {
+      "start": 173,
+      "text": "because intuitions are not always the"
+    },
+    {
+      "start": 176,
+      "text": "only answer right so I think a lot of it"
+    },
+    {
+      "start": 178,
+      "text": "comes by asking questions and now you"
+    },
+    {
+      "start": 181,
+      "text": "can use these AI tools to get answers"
+    },
+    {
+      "start": 184,
+      "text": "very quickly and also verify them a lot"
+    },
+    {
+      "start": 186,
+      "text": "of it comes from being just like curious"
+    },
+    {
+      "start": 189,
+      "text": "or interested and that could be one"
+    },
+    {
+      "start": 191,
+      "text": "specific topic and if somebody's"
+    },
+    {
+      "start": 193,
+      "text": "interested in music they can delve"
+    },
+    {
+      "start": 195,
+      "text": "deeper into that if somebody is"
+    },
+    {
+      "start": 196,
+      "text": "interested in art so it just has to that"
+    },
+    {
+      "start": 199,
+      "text": "spark has to come from within and I"
+    },
+    {
+      "start": 201,
+      "text": "think giving students more the freedom"
+    },
+    {
+      "start": 204,
+      "text": "to pursue where they are passionate"
+    },
+    {
+      "start": 206,
+      "text": "where they have a spark I think is going"
+    },
+    {
+      "start": 209,
+      "text": "to be the future and that's the right"
+    },
+    {
+      "start": 211,
+      "text": "thing rather than forcing everybody to"
+    },
+    {
+      "start": 213,
+      "text": "learn"
+    },
+    {
+      "start": 215,
+      "text": "everything I'm always motivated by the"
+    },
+    {
+      "start": 218,
+      "text": "hardest challenge challenges. You know,"
+    },
+    {
+      "start": 219,
+      "text": "I want to know what is difficult, but"
+    },
+    {
+      "start": 221,
+      "text": "also why it's difficult, right? And even"
+    },
+    {
+      "start": 224,
+      "text": "though I may not be able to solve it"
+    },
+    {
+      "start": 225,
+      "text": "today, how do we build up the"
+    },
+    {
+      "start": 227,
+      "text": "foundations to get there? Growing up in"
+    },
+    {
+      "start": 230,
+      "text": "my sore as a kid, I loved just solving"
+    },
+    {
+      "start": 234,
+      "text": "math problems, you know, going to my"
+    },
+    {
+      "start": 236,
+      "text": "parents' factory. I was reading up their"
+    },
+    {
+      "start": 239,
+      "text": "program manuals. I was, you know,"
+    },
+    {
+      "start": 241,
+      "text": "learning how they could be programmed."
+    },
+    {
+      "start": 243,
+      "text": "And unlike in other computer programs"
+    },
+    {
+      "start": 245,
+      "text": "here if something was wrong that would"
+    },
+    {
+      "start": 248,
+      "text": "lead to like physical failure parts"
+    },
+    {
+      "start": 250,
+      "text": "being like not manufactured correctly"
+    },
+    {
+      "start": 253,
+      "text": "and I'm like oh but how does it go into"
+    },
+    {
+      "start": 254,
+      "text": "the computer and how does the computer"
+    },
+    {
+      "start": 256,
+      "text": "tell the machine what to do so there"
+    },
+    {
+      "start": 258,
+      "text": "were always gaps because as a kid you"
+    },
+    {
+      "start": 261,
+      "text": "don't know everything but to me it was"
+    },
+    {
+      "start": 263,
+      "text": "like observing and then understanding"
+    },
+    {
+      "start": 266,
+      "text": "what the gap is and even if I didn't get"
+    },
+    {
+      "start": 268,
+      "text": "an immediate answer I would remember"
+    },
+    {
+      "start": 270,
+      "text": "that there is a gap and then later when"
+    },
+    {
+      "start": 272,
+      "text": "I was introduce use those topics. I was"
+    },
+    {
+      "start": 274,
+      "text": "in my mind I was like, \"Oh, that's what"
+    },
+    {
+      "start": 276,
+      "text": "it relates to.\" So somehow I had built"
+    },
+    {
+      "start": 279,
+      "text": "up that mental map and I had put places"
+    },
+    {
+      "start": 282,
+      "text": "of where things I knew and things I"
+    },
+    {
+      "start": 284,
+      "text": "didn't know and I kept kind of growing"
+    },
+    {
+      "start": 287,
+      "text": "that in my mind as I progressed through"
+    },
+    {
+      "start": 290,
+      "text": "the years. So when I was growing up, AI"
+    },
+    {
+      "start": 293,
+      "text": "was considered science fiction."
+    },
+    {
+      "start": 295,
+      "text": "Naturally, there were lots of science"
+    },
+    {
+      "start": 297,
+      "text": "fiction movies where I saw and was"
+    },
+    {
+      "start": 300,
+      "text": "fascinated. But that's not something"
+    },
+    {
+      "start": 302,
+      "text": "people thought were practical. Uh since"
+    },
+    {
+      "start": 304,
+      "text": "I was in middle and high school and now"
+    },
+    {
+      "start": 307,
+      "text": "it's almost 30 years, right? It is a"
+    },
+    {
+      "start": 310,
+      "text": "long time, but the amount of progress"
+    },
+    {
+      "start": 312,
+      "text": "that has happened is also so astounding"
+    },
+    {
+      "start": 315,
+      "text": "in so many ways. So since I joined"
+    },
+    {
+      "start": 317,
+      "text": "Caltech in 2017, the timing just felt"
+    },
+    {
+      "start": 320,
+      "text": "right to use AI as a tool and a"
+    },
+    {
+      "start": 323,
+      "text": "framework to solve some of the hardest"
+    },
+    {
+      "start": 326,
+      "text": "problems which until that point was not"
+    },
+    {
+      "start": 328,
+      "text": "considered practical. So after I joined"
+    },
+    {
+      "start": 331,
+      "text": "Caltech and wanted to explore problems"
+    },
+    {
+      "start": 334,
+      "text": "at the intersection of AI and science"
+    },
+    {
+      "start": 336,
+      "text": "and I was talking to everybody on"
+    },
+    {
+      "start": 337,
+      "text": "campus, I was like okay do you need"
+    },
+    {
+      "start": 340,
+      "text": "compute? What do you need it for? Let me"
+    },
+    {
+      "start": 342,
+      "text": "understand the problems that you're"
+    },
+    {
+      "start": 344,
+      "text": "tackling. And you know I can't possibly"
+    },
+    {
+      "start": 346,
+      "text": "go and solve each one of them problems"
+    },
+    {
+      "start": 348,
+      "text": "myself. Right? My question then was are"
+    },
+    {
+      "start": 351,
+      "text": "there general tools we can develop that"
+    },
+    {
+      "start": 353,
+      "text": "could impact so many different areas?"
+    },
+    {
+      "start": 355,
+      "text": "And that again put me back to"
+    },
+    {
+      "start": 357,
+      "text": "mathematical foundations. So because a"
+    },
+    {
+      "start": 360,
+      "text": "lot of these different real world"
+    },
+    {
+      "start": 361,
+      "text": "phenomena are modeled by partial"
+    },
+    {
+      "start": 363,
+      "text": "differential equations. So now can we"
+    },
+    {
+      "start": 365,
+      "text": "design AI that can solve this and do it"
+    },
+    {
+      "start": 368,
+      "text": "much faster do it much better than what"
+    },
+    {
+      "start": 371,
+      "text": "is currently being done with traditional"
+    },
+    {
+      "start": 373,
+      "text": "simulations. And to do that we developed"
+    },
+    {
+      "start": 376,
+      "text": "neural operators. We've invented an AI"
+    },
+    {
+      "start": 379,
+      "text": "technology called neural operators that"
+    },
+    {
+      "start": 381,
+      "text": "is trained to understand physical"
+    },
+    {
+      "start": 384,
+      "text": "behaviors not just highle reasoning with"
+    },
+    {
+      "start": 387,
+      "text": "text. So think of a hurricane. The"
+    },
+    {
+      "start": 389,
+      "text": "hurricane if you will just eyeball it,"
+    },
+    {
+      "start": 392,
+      "text": "can you tell where it's going to go? You"
+    },
+    {
+      "start": 394,
+      "text": "know, most humans cannot, right? It's a"
+    },
+    {
+      "start": 396,
+      "text": "superhuman skill to predict where"
+    },
+    {
+      "start": 399,
+      "text": "hurricanes are going to go. And for to"
+    },
+    {
+      "start": 402,
+      "text": "do that, we need finecale information"
+    },
+    {
+      "start": 404,
+      "text": "and finecale modeling. So this cannot be"
+    },
+    {
+      "start": 406,
+      "text": "just a core scale image like the image"
+    },
+    {
+      "start": 409,
+      "text": "of a cat where even if it's gets blurry,"
+    },
+    {
+      "start": 412,
+      "text": "you know it's a cat. The same techniques"
+    },
+    {
+      "start": 414,
+      "text": "don't work for phenomena like"
+    },
+    {
+      "start": 416,
+      "text": "hurricanes. Once we developed tools and"
+    },
+    {
+      "start": 418,
+      "text": "then the next natural question is what"
+    },
+    {
+      "start": 421,
+      "text": "were practical use cases that involved"
+    },
+    {
+      "start": 423,
+      "text": "and the weather models was a natural one"
+    },
+    {
+      "start": 426,
+      "text": "because it's widely used. It has huge"
+    },
+    {
+      "start": 429,
+      "text": "implications on our lives especially if"
+    },
+    {
+      "start": 431,
+      "text": "extreme weather events like hurricanes"
+    },
+    {
+      "start": 433,
+      "text": "if we get them right that has the"
+    },
+    {
+      "start": 435,
+      "text": "potential to save human lives and also"
+    },
+    {
+      "start": 438,
+      "text": "bring down economic costs. So I was"
+    },
+    {
+      "start": 440,
+      "text": "motivated by how it can be helpful to"
+    },
+    {
+      "start": 442,
+      "text": "people, but I was also motivated by that"
+    },
+    {
+      "start": 446,
+      "text": "being considered a very hard technical"
+    },
+    {
+      "start": 448,
+      "text": "challenge. In fact, just a few months"
+    },
+    {
+      "start": 450,
+      "text": "before we released our model, there were"
+    },
+    {
+      "start": 452,
+      "text": "a group of very wellrespected weather"
+    },
+    {
+      "start": 455,
+      "text": "scientists who published in the Royal"
+    },
+    {
+      "start": 457,
+      "text": "Society Journal thinking they're they"
+    },
+    {
+      "start": 459,
+      "text": "were under the impression that AI would"
+    },
+    {
+      "start": 462,
+      "text": "take more than a decade or even longer"
+    },
+    {
+      "start": 464,
+      "text": "to replace traditional ways to forecast"
+    },
+    {
+      "start": 467,
+      "text": "weather. and they felt AI was just not"
+    },
+    {
+      "start": 469,
+      "text": "ready. This problem is way too"
+    },
+    {
+      "start": 471,
+      "text": "difficult. And we released this and it"
+    },
+    {
+      "start": 473,
+      "text": "just took everybody by surprise. It was"
+    },
+    {
+      "start": 475,
+      "text": "not only accurate, it was tens of"
+    },
+    {
+      "start": 478,
+      "text": "thousands of times faster. So what would"
+    },
+    {
+      "start": 480,
+      "text": "take a big supercomput for traditional"
+    },
+    {
+      "start": 483,
+      "text": "weather models can now be run on a local"
+    },
+    {
+      "start": 486,
+      "text": "gaming PC with just a consumer GPU. So"
+    },
+    {
+      "start": 489,
+      "text": "that's the beauty of uh machine learning"
+    },
+    {
+      "start": 492,
+      "text": "as a field. We are not always stopped by"
+    },
+    {
+      "start": 496,
+      "text": "what others think as difficult. As long"
+    },
+    {
+      "start": 498,
+      "text": "as we can get the data and we can design"
+    },
+    {
+      "start": 501,
+      "text": "the methods, we can just go and try"
+    },
+    {
+      "start": 503,
+      "text": "it. So my mission is to constantly be"
+    },
+    {
+      "start": 506,
+      "text": "curious and learning and not assume that"
+    },
+    {
+      "start": 511,
+      "text": "any problem is easy. I can't imagine a"
+    },
+    {
+      "start": 513,
+      "text": "world where scientists will be out of"
+    },
+    {
+      "start": 515,
+      "text": "jobs because the definition of a"
+    },
+    {
+      "start": 517,
+      "text": "scientist is somebody who tackles open"
+    },
+    {
+      "start": 520,
+      "text": "problems, right? So there are harder and"
+    },
+    {
+      "start": 523,
+      "text": "harder problems to tackle. You know, if"
+    },
+    {
+      "start": 525,
+      "text": "you want to look at the deep secrets of"
+    },
+    {
+      "start": 528,
+      "text": "our universe, go down to the smallest"
+    },
+    {
+      "start": 530,
+      "text": "scale and understand at the atomic and"
+    },
+    {
+      "start": 533,
+      "text": "subatomic level how matter is"
+    },
+    {
+      "start": 536,
+      "text": "constructed to of course level of galaxy"
+    },
+    {
+      "start": 539,
+      "text": "and beyond and understand how the"
+    },
+    {
+      "start": 540,
+      "text": "universe is put together. There are"
+    },
+    {
+      "start": 543,
+      "text": "still lots of open challenges. Many"
+    },
+    {
+      "start": 546,
+      "text": "other teams such as Google Deepine focus"
+    },
+    {
+      "start": 548,
+      "text": "on what is known as an AI scientist."
+    },
+    {
+      "start": 551,
+      "text": "Meaning AI that comes up with new ideas."
+    },
+    {
+      "start": 554,
+      "text": "But so much of scientific progress is"
+    },
+    {
+      "start": 556,
+      "text": "not limited by the lack of new ideas,"
+    },
+    {
+      "start": 559,
+      "text": "right? Lots of people have lots of"
+    },
+    {
+      "start": 561,
+      "text": "ideas. But the bottleneck is going to"
+    },
+    {
+      "start": 564,
+      "text": "the lab or going to the real world and"
+    },
+    {
+      "start": 566,
+      "text": "testing them. That is slow. That is"
+    },
+    {
+      "start": 568,
+      "text": "expensive. So my focus is how we can"
+    },
+    {
+      "start": 571,
+      "text": "replace those lab experiments. Can we"
+    },
+    {
+      "start": 574,
+      "text": "come up with AI that inherently"
+    },
+    {
+      "start": 575,
+      "text": "understands the physics better? So we"
+    },
+    {
+      "start": 578,
+      "text": "can completely avoid the lab experiments"
+    },
+    {
+      "start": 580,
+      "text": "or maybe only do it to do the final"
+    },
+    {
+      "start": 583,
+      "text": "testing. And so with that focus and with"
+    },
+    {
+      "start": 585,
+      "text": "that physical knowledge, we can come up"
+    },
+    {
+      "start": 588,
+      "text": "with AI designed answers that we can go"
+    },
+    {
+      "start": 592,
+      "text": "directly to the real world and minimize"
+    },
+    {
+      "start": 595,
+      "text": "this need for testing. To me, human"
+    },
+    {
+      "start": 598,
+      "text": "agency is driving AI to do something"
+    },
+    {
+      "start": 601,
+      "text": "that you want it to be done. You have"
+    },
+    {
+      "start": 604,
+      "text": "the agency as a human to decide what"
+    },
+    {
+      "start": 607,
+      "text": "tasks AI does and then you're evaluating"
+    },
+    {
+      "start": 611,
+      "text": "and you're in charge, right? So, you go"
+    },
+    {
+      "start": 613,
+      "text": "and verify whether what AI is saying is"
+    },
+    {
+      "start": 616,
+      "text": "true or not and then over time provide"
+    },
+    {
+      "start": 618,
+      "text": "that feedback to AI and make it"
+    },
+    {
+      "start": 621,
+      "text": "better. AI is a tool. It can both help"
+    },
+    {
+      "start": 625,
+      "text": "curiosity but also kill it depending on"
+    },
+    {
+      "start": 627,
+      "text": "how it's used. Right? So for young"
+    },
+    {
+      "start": 630,
+      "text": "people, my advice is not to be afraid of"
+    },
+    {
+      "start": 632,
+      "text": "AI or worry what skills to learn that AI"
+    },
+    {
+      "start": 636,
+      "text": "may replace them with, but really be in"
+    },
+    {
+      "start": 639,
+      "text": "that path of curiosity, right? Use AI as"
+    },
+    {
+      "start": 642,
+      "text": "a tool to drive that curiosity, learn"
+    },
+    {
+      "start": 645,
+      "text": "new skills, new knowledge, and you can"
+    },
+    {
+      "start": 648,
+      "text": "do that in a much more interactive way."
+    },
+    {
+      "start": 650,
+      "text": "Even when it comes to writing computer"
+    },
+    {
+      "start": 652,
+      "text": "programs, you know, a lot of these AI"
+    },
+    {
+      "start": 654,
+      "text": "tools are getting better, but that only"
+    },
+    {
+      "start": 656,
+      "text": "means they can do a certain set of"
+    },
+    {
+      "start": 658,
+      "text": "instructions which are seen in data. You"
+    },
+    {
+      "start": 661,
+      "text": "still need to provide AI what to do,"
+    },
+    {
+      "start": 665,
+      "text": "right? You still need to be able to"
+    },
+    {
+      "start": 666,
+      "text": "describe it. And that ability to"
+    },
+    {
+      "start": 669,
+      "text": "describe what are the tasks AI should"
+    },
+    {
+      "start": 671,
+      "text": "do. What are kind of highlevel"
+    },
+    {
+      "start": 673,
+      "text": "understanding of what AI is doing when"
+    },
+    {
+      "start": 676,
+      "text": "it writes these computer programs is"
+    },
+    {
+      "start": 678,
+      "text": "still important because a bad programmer"
+    },
+    {
+      "start": 681,
+      "text": "who is not better than AI will be"
+    },
+    {
+      "start": 683,
+      "text": "replaced. But a great programmer who can"
+    },
+    {
+      "start": 686,
+      "text": "assess what AI is doing, make fixes,"
+    },
+    {
+      "start": 689,
+      "text": "ensure those programs are written well"
+    },
+    {
+      "start": 692,
+      "text": "will be in more demand than ever."
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 278,
+  "timestamp": "2025-07-24T08:16:52.895Z"
+}

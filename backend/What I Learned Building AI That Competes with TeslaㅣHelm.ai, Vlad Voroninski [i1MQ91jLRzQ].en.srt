@@ -1,0 +1,1336 @@
+1
+00:00:00,080 --> 00:00:04,480
+The end goal is achieving fully
+
+2
+00:00:02,320 --> 00:00:07,120
+autonomous driving. We allow automakers
+
+3
+00:00:04,480 --> 00:00:08,880
+to compete with Tesla by bringing to
+
+4
+00:00:07,120 --> 00:00:10,480
+market cutting edge autonomous driving
+
+5
+00:00:08,880 --> 00:00:13,200
+systems. We've raised over $und00
+
+6
+00:00:10,480 --> 00:00:15,280
+million. We'll see very very scalable
+
+7
+00:00:13,200 --> 00:00:17,119
+commercialization happen. But I would
+
+8
+00:00:15,280 --> 00:00:18,880
+say that starting a company felt like
+
+9
+00:00:17,119 --> 00:00:20,960
+drinking from a fire hose. When we were
+
+10
+00:00:18,880 --> 00:00:23,760
+pitching kind of like seemed like a pipe
+
+11
+00:00:20,960 --> 00:00:25,359
+dream, pure R&D for 2 years. There was
+
+12
+00:00:23,760 --> 00:00:27,519
+zero product development during that
+
+13
+00:00:25,359 --> 00:00:29,439
+time. Everyone thought it was crazy. But
+
+14
+00:00:27,519 --> 00:00:31,359
+we committed to that vision. We actually
+
+15
+00:00:29,439 --> 00:00:33,520
+carried out the research and we were
+
+16
+00:00:31,359 --> 00:00:35,840
+able to make that work very much all or
+
+17
+00:00:33,520 --> 00:00:38,800
+nothing and it might take a long time
+
+18
+00:00:35,840 --> 00:00:41,280
+for the world to adjust. My name is Li
+
+19
+00:00:38,800 --> 00:00:43,840
+Berninski. I'm the CEO of Helm AI. Helm
+
+20
+00:00:41,280 --> 00:00:45,840
+is an AI software company focusing on a
+
+21
+00:00:43,840 --> 00:00:48,000
+unified approach to autonomous driving
+
+22
+00:00:45,840 --> 00:00:50,800
+that goes all the way from L2 plus
+
+23
+00:00:48,000 --> 00:00:52,399
+through fully autonomous driving L4. We
+
+24
+00:00:50,800 --> 00:00:55,520
+have partnerships with companies like
+
+25
+00:00:52,399 --> 00:00:58,079
+Honda and we allow automakers to compete
+
+26
+00:00:55,520 --> 00:01:00,399
+with Tesla by bringing to market cutting
+
+27
+00:00:58,079 --> 00:01:02,719
+edge autonomous driving systems. The end
+
+28
+00:01:00,399 --> 00:01:04,159
+goal is achieving fully autonomous
+
+29
+00:01:02,719 --> 00:01:05,840
+driving and there are a number of
+
+30
+00:01:04,159 --> 00:01:07,840
+technological and commercialization
+
+31
+00:01:05,840 --> 00:01:09,760
+challenges along the way. These days,
+
+32
+00:01:07,840 --> 00:01:12,400
+one of the key areas that we're focusing
+
+33
+00:01:09,760 --> 00:01:14,240
+on is AI based simulation, leveraging
+
+34
+00:01:12,400 --> 00:01:16,080
+generative AI as well as our
+
+35
+00:01:14,240 --> 00:01:18,720
+unsupervised learning IP in order to
+
+36
+00:01:16,080 --> 00:01:20,320
+create a unified approach to solving
+
+37
+00:01:18,720 --> 00:01:24,960
+autonomous driving that essentially
+
+38
+00:01:20,320 --> 00:01:24,960
+unifies both partial automation and full
+
+39
+00:01:26,119 --> 00:01:31,040
+automation. First got interested in
+
+40
+00:01:28,479 --> 00:01:32,960
+self-driving cars and computer vision
+
+41
+00:01:31,040 --> 00:01:35,280
+during undergrad. So, I was part of the
+
+42
+00:01:32,960 --> 00:01:38,560
+UCLA computer vision lab while they were
+
+43
+00:01:35,280 --> 00:01:40,640
+competing in our grand challenges.
+
+44
+00:01:38,560 --> 00:01:44,200
+We're in the offhighway vehicle
+
+45
+00:01:40,640 --> 00:01:44,200
+recreation area.
+
+46
+00:01:45,280 --> 00:01:50,320
+So we just did our first autonomous path
+
+47
+00:01:47,759 --> 00:01:52,640
+tracking test and I just thought that
+
+48
+00:01:50,320 --> 00:01:54,479
+was a very exciting area and was
+
+49
+00:01:52,640 --> 00:01:57,360
+focusing on computer vision at the time
+
+50
+00:01:54,479 --> 00:01:59,600
+but decided to pursue mathematics in
+
+51
+00:01:57,360 --> 00:02:01,439
+academia for about 10 years with the
+
+52
+00:01:59,600 --> 00:02:03,439
+intent to come back to the space when it
+
+53
+00:02:01,439 --> 00:02:06,000
+was more mature because I saw that as
+
+54
+00:02:03,439 --> 00:02:08,080
+the key bottleneck to AI in the sense
+
+55
+00:02:06,000 --> 00:02:10,879
+that the biggest challenge in in reading
+
+56
+00:02:08,080 --> 00:02:13,040
+research papers in AI or computer vision
+
+57
+00:02:10,879 --> 00:02:14,560
+was ultimately a mathematical you know
+
+58
+00:02:13,040 --> 00:02:16,640
+just a question of do you understand
+
+59
+00:02:14,560 --> 00:02:19,040
+sort of the equations right so yeah in
+
+60
+00:02:16,640 --> 00:02:21,200
+some sense I looked at math as a tool to
+
+61
+00:02:19,040 --> 00:02:23,280
+be able to solve AI down the road the
+
+62
+00:02:21,200 --> 00:02:25,840
+goal was always to come back to the
+
+63
+00:02:23,280 --> 00:02:27,599
+autonomous driving space in the war
+
+64
+00:02:25,840 --> 00:02:29,680
+between humans and artificial
+
+65
+00:02:27,599 --> 00:02:32,319
+intelligence this is for 33-year-old
+
+66
+00:02:29,680 --> 00:02:34,640
+professional go gamer Lisa D Elon Musk
+
+67
+00:02:32,319 --> 00:02:36,720
+he plans to equip all new Tesla cars
+
+68
+00:02:34,640 --> 00:02:39,200
+with the hardware needed for full
+
+69
+00:02:36,720 --> 00:02:42,640
+self-driving capacity around I would say
+
+70
+00:02:39,200 --> 00:02:44,400
+2016 it became clear that the technology
+
+71
+00:02:42,640 --> 00:02:46,000
+was really taking off in terms of deep
+
+72
+00:02:44,400 --> 00:02:48,879
+learning. There was an inflection point
+
+73
+00:02:46,000 --> 00:02:51,319
+in where AI technology was going with uh
+
+74
+00:02:48,879 --> 00:02:53,360
+deep learning at the time and
+
+75
+00:02:51,319 --> 00:02:55,840
+simultaneously there was a very clear
+
+76
+00:02:53,360 --> 00:02:58,800
+opportunity that it was the right time
+
+77
+00:02:55,840 --> 00:03:01,280
+to jump into that space because what I
+
+78
+00:02:58,800 --> 00:03:03,040
+witnessed was a lot of companies making
+
+79
+00:03:01,280 --> 00:03:04,480
+certain decisions that I actually didn't
+
+80
+00:03:03,040 --> 00:03:07,760
+agree with. Right? It was such an
+
+81
+00:03:04,480 --> 00:03:09,360
+inefficient space at the time that it
+
+82
+00:03:07,760 --> 00:03:11,280
+was very clear to me that with the right
+
+83
+00:03:09,360 --> 00:03:13,760
+approach you can add a lot of value.
+
+84
+00:03:11,280 --> 00:03:15,519
+Right? because uh it's a strategy that's
+
+85
+00:03:13,760 --> 00:03:18,000
+kind of stood the test of time as
+
+86
+00:03:15,519 --> 00:03:20,000
+opposed to many companies that peaked
+
+87
+00:03:18,000 --> 00:03:22,319
+early and then died off or just kind of
+
+88
+00:03:20,000 --> 00:03:24,720
+ran out of money and what that meant was
+
+89
+00:03:22,319 --> 00:03:26,879
+that there was an opportunity. So after
+
+90
+00:03:24,720 --> 00:03:29,920
+my academic career moved back to
+
+91
+00:03:26,879 --> 00:03:29,920
+California to start
+
+92
+00:03:30,519 --> 00:03:36,400
+Helm Co was a very kind of a tricky time
+
+93
+00:03:34,319 --> 00:03:38,080
+for everyone obviously but also in in
+
+94
+00:03:36,400 --> 00:03:40,319
+the automotive market in particular
+
+95
+00:03:38,080 --> 00:03:43,040
+because it basically caused a halt in
+
+96
+00:03:40,319 --> 00:03:45,599
+production. The Corona virus is idling
+
+97
+00:03:43,040 --> 00:03:46,959
+one auto plant after another. All the
+
+98
+00:03:45,599 --> 00:03:49,599
+different auto factories and all the
+
+99
+00:03:46,959 --> 00:03:51,360
+automakers had to immediately start
+
+100
+00:03:49,599 --> 00:03:53,760
+dealing with that issue versus
+
+101
+00:03:51,360 --> 00:03:56,239
+everything else. And I think it caused a
+
+102
+00:03:53,760 --> 00:03:58,159
+bit of a delay in the deployment of
+
+103
+00:03:56,239 --> 00:04:00,400
+autonomous driving technology. But
+
+104
+00:03:58,159 --> 00:04:01,920
+beyond that, I mean, I would say quite
+
+105
+00:04:00,400 --> 00:04:03,360
+exciting. I mean, ultimately, I I I
+
+106
+00:04:01,920 --> 00:04:04,959
+don't know if it was like I think the
+
+107
+00:04:03,360 --> 00:04:07,360
+challenges were there, but they like
+
+108
+00:04:04,959 --> 00:04:09,200
+were outweighed by how exciting it was
+
+109
+00:04:07,360 --> 00:04:12,560
+to like start a company, you know, make
+
+110
+00:04:09,200 --> 00:04:15,680
+a truly uh deep tech bet in the space.
+
+111
+00:04:12,560 --> 00:04:17,919
+Our first 10 hires were basically all
+
+112
+00:04:15,680 --> 00:04:19,519
+just very, very strong researchers. Any
+
+113
+00:04:17,919 --> 00:04:21,280
+one of those people could have easily
+
+114
+00:04:19,519 --> 00:04:23,199
+walked away and done something else.
+
+115
+00:04:21,280 --> 00:04:25,840
+Some of those people even made certain
+
+116
+00:04:23,199 --> 00:04:27,840
+sacrifices of their academic career to
+
+117
+00:04:25,840 --> 00:04:30,720
+come work at Helm because they were very
+
+118
+00:04:27,840 --> 00:04:32,639
+excited about the vision. And I think
+
+119
+00:04:30,720 --> 00:04:34,160
+that helped us really mold the
+
+120
+00:04:32,639 --> 00:04:36,960
+engineering culture. When we were
+
+121
+00:04:34,160 --> 00:04:38,880
+pitching Helm 2016, right, unsupervised
+
+122
+00:04:36,960 --> 00:04:42,400
+learning was kind of like seemed like a
+
+123
+00:04:38,880 --> 00:04:44,160
+pipe dream almost, right? Um, but we
+
+124
+00:04:42,400 --> 00:04:46,000
+committed to that vision. We actually
+
+125
+00:04:44,160 --> 00:04:48,720
+carried out the research and we were
+
+126
+00:04:46,000 --> 00:04:50,080
+able to make that work. So that was uh,
+
+127
+00:04:48,720 --> 00:04:52,000
+you know, quite exciting. So I mean I
+
+128
+00:04:50,080 --> 00:04:53,680
+guess like there was the fact that you
+
+129
+00:04:52,000 --> 00:04:55,840
+know for 2 years we were essentially
+
+130
+00:04:53,680 --> 00:04:57,440
+developing that technology and there was
+
+131
+00:04:55,840 --> 00:05:00,720
+zero product development during that
+
+132
+00:04:57,440 --> 00:05:05,280
+time. So it's pure R&D for 2 years very
+
+133
+00:05:00,720 --> 00:05:07,039
+much all or nothing. Um so you know uh
+
+134
+00:05:05,280 --> 00:05:09,280
+obviously there's risk involved in that
+
+135
+00:05:07,039 --> 00:05:12,240
+but it was a very creative time so I I
+
+136
+00:05:09,280 --> 00:05:12,240
+mostly just appreciate
+
+137
+00:05:14,919 --> 00:05:20,240
+it. an Uber self-driving vehicle that
+
+138
+00:05:18,000 --> 00:05:22,080
+flipped. Uber is now banned from testing
+
+139
+00:05:20,240 --> 00:05:24,080
+its self-driving cars in Arizona.
+
+140
+00:05:22,080 --> 00:05:26,400
+Tonight, Tesla confirming this car was
+
+141
+00:05:24,080 --> 00:05:29,800
+in autopilot mode when it crashed in
+
+142
+00:05:26,400 --> 00:05:29,800
+Northern California
+
+143
+00:05:29,919 --> 00:05:35,039
+back in 2018. Kind of foray into
+
+144
+00:05:32,560 --> 00:05:37,440
+foundation models, even before that term
+
+145
+00:05:35,039 --> 00:05:39,520
+was coined. What we used that foundation
+
+146
+00:05:37,440 --> 00:05:41,520
+model for was to essentially build an
+
+147
+00:05:39,520 --> 00:05:44,080
+autonomous driving system that we were
+
+148
+00:05:41,520 --> 00:05:45,600
+able to show actually outperforms the
+
+149
+00:05:44,080 --> 00:05:48,000
+systems you were able to buy in the
+
+150
+00:05:45,600 --> 00:05:49,759
+market by pretty wide margin. So we
+
+151
+00:05:48,000 --> 00:05:52,800
+essentially conducted a series of tests
+
+152
+00:05:49,759 --> 00:05:54,880
+where we put our autonomous vehicle on
+
+153
+00:05:52,800 --> 00:05:56,639
+uh very steep and curvy mountain road
+
+154
+00:05:54,880 --> 00:05:59,120
+scenarios where essentially you have to
+
+155
+00:05:56,639 --> 00:06:01,039
+make very rapid driving decisions as far
+
+156
+00:05:59,120 --> 00:06:03,840
+as you know taking the various turns in
+
+157
+00:06:01,039 --> 00:06:04,960
+a challenging uh landscape. And we were
+
+158
+00:06:03,840 --> 00:06:07,840
+able to achieve much better
+
+159
+00:06:04,960 --> 00:06:10,240
+disengagement rates uh up to a factor of
+
+160
+00:06:07,840 --> 00:06:12,720
+200 better than what was out there on
+
+161
+00:06:10,240 --> 00:06:14,880
+the market. And that is how we got the
+
+162
+00:06:12,720 --> 00:06:16,960
+attention of some of the brand name
+
+163
+00:06:14,880 --> 00:06:19,199
+automakers in the world in the early
+
+164
+00:06:16,960 --> 00:06:21,600
+days. In the last couple of years, we've
+
+165
+00:06:19,199 --> 00:06:23,759
+been doing a lot of innovation in
+
+166
+00:06:21,600 --> 00:06:25,360
+generative AI and combining that with
+
+167
+00:06:23,759 --> 00:06:28,160
+our in-house technology which is called
+
+168
+00:06:25,360 --> 00:06:31,039
+deep teaching in order to close the gap
+
+169
+00:06:28,160 --> 00:06:33,199
+between AI based simulation and reality.
+
+170
+00:06:31,039 --> 00:06:36,000
+So essentially that means how do you
+
+171
+00:06:33,199 --> 00:06:37,919
+simulate driving data or driving footage
+
+172
+00:06:36,000 --> 00:06:39,759
+sensor data from driving without
+
+173
+00:06:37,919 --> 00:06:41,520
+actually having to get into a car. And
+
+174
+00:06:39,759 --> 00:06:43,840
+there are many advantages to doing that.
+
+175
+00:06:41,520 --> 00:06:46,080
+For example, very large fleets, right?
+
+176
+00:06:43,840 --> 00:06:48,160
+They can be useful for collecting data
+
+177
+00:06:46,080 --> 00:06:50,800
+in order to address difficult corner
+
+178
+00:06:48,160 --> 00:06:52,800
+cases for autonomous driving, but the
+
+179
+00:06:50,800 --> 00:06:54,880
+rate of occurrence of those corner cases
+
+180
+00:06:52,800 --> 00:06:57,199
+basically goes down exponentially as
+
+181
+00:06:54,880 --> 00:06:59,120
+your system improves. And so end up
+
+182
+00:06:57,199 --> 00:07:01,039
+actually paying exponentially more to
+
+183
+00:06:59,120 --> 00:07:02,560
+gather interesting data as you get
+
+184
+00:07:01,039 --> 00:07:04,639
+further into the development process. So
+
+185
+00:07:02,560 --> 00:07:07,280
+it's really not a good property. And
+
+186
+00:07:04,639 --> 00:07:08,960
+what simulation allows you to do is
+
+187
+00:07:07,280 --> 00:07:10,639
+generate all the interesting data
+
+188
+00:07:08,960 --> 00:07:12,639
+without actually having to deploy a
+
+189
+00:07:10,639 --> 00:07:14,960
+fleet. For example, Tesla that has a
+
+190
+00:07:12,639 --> 00:07:17,360
+very large fleet. Other automakers don't
+
+191
+00:07:14,960 --> 00:07:19,120
+have access necessarily to internal
+
+192
+00:07:17,360 --> 00:07:20,720
+fleets that are that large. So even if
+
+193
+00:07:19,120 --> 00:07:22,639
+they wanted to take the same approach as
+
+194
+00:07:20,720 --> 00:07:24,479
+Tesla, they would not be positioned to
+
+195
+00:07:22,639 --> 00:07:27,919
+do so. The only alternative to doing
+
+196
+00:07:24,479 --> 00:07:30,160
+that is essentially AI based simulation.
+
+197
+00:07:27,919 --> 00:07:32,319
+And until very recently, it wasn't
+
+198
+00:07:30,160 --> 00:07:34,560
+possible to generate highly realistic
+
+199
+00:07:32,319 --> 00:07:36,639
+simulation data. But that's very much
+
+200
+00:07:34,560 --> 00:07:38,880
+changing these days due to the advent of
+
+201
+00:07:36,639 --> 00:07:40,800
+generative AI and combining generative
+
+202
+00:07:38,880 --> 00:07:43,520
+AI with technologies like deep teaching
+
+203
+00:07:40,800 --> 00:07:45,360
+provides a highly scalable uh simulation
+
+204
+00:07:43,520 --> 00:07:48,240
+platform that allows you to essentially
+
+205
+00:07:45,360 --> 00:07:50,639
+deploy a virtual fleet so to say instead
+
+206
+00:07:48,240 --> 00:07:53,199
+of a real world fleet you're just uh
+
+207
+00:07:50,639 --> 00:07:54,960
+learning from existing data. So that's a
+
+208
+00:07:53,199 --> 00:07:56,639
+recent inflection point that we're
+
+209
+00:07:54,960 --> 00:07:59,199
+definitely you know proud to be part of
+
+210
+00:07:56,639 --> 00:08:02,160
+and contributing to. Vid Gen 1 and World
+
+211
+00:07:59,199 --> 00:08:04,560
+Gen 1 are foundation models for
+
+212
+00:08:02,160 --> 00:08:06,639
+generative AI simulation. Vid Gen is a
+
+213
+00:08:04,560 --> 00:08:09,599
+foundation model that creates highly
+
+214
+00:08:06,639 --> 00:08:11,680
+realistic video data from a multitude of
+
+215
+00:08:09,599 --> 00:08:14,720
+different cameras, essentially arbitrary
+
+216
+00:08:11,680 --> 00:08:17,120
+cameras, arbitrary locations. Worldgen
+
+217
+00:08:14,720 --> 00:08:18,560
+is a foundation model that takes a
+
+218
+00:08:17,120 --> 00:08:20,639
+further step in that it actually
+
+219
+00:08:18,560 --> 00:08:22,479
+simulates the entire autonomous driving
+
+220
+00:08:20,639 --> 00:08:24,639
+stack. You can actually use Worldgen to
+
+221
+00:08:22,479 --> 00:08:26,720
+technically to drive a car because it
+
+222
+00:08:24,639 --> 00:08:29,120
+does make predictions about what's going
+
+223
+00:08:26,720 --> 00:08:30,800
+to happen next. So if you input data
+
+224
+00:08:29,120 --> 00:08:32,320
+from your autonomous driving stack,
+
+225
+00:08:30,800 --> 00:08:34,080
+it'll tell you what's going to happen in
+
+226
+00:08:32,320 --> 00:08:36,080
+the next several seconds and that
+
+227
+00:08:34,080 --> 00:08:38,159
+includes the path that the vehicle
+
+228
+00:08:36,080 --> 00:08:40,240
+should take to perform certain actions.
+
+229
+00:08:38,159 --> 00:08:42,080
+You can actually use it to drive. So
+
+230
+00:08:40,240 --> 00:08:44,000
+it's technically uh you know a
+
+231
+00:08:42,080 --> 00:08:45,920
+self-driving system that not only
+
+232
+00:08:44,000 --> 00:08:47,440
+functions as a simulator or in a
+
+233
+00:08:45,920 --> 00:08:51,240
+simulator environment, it also can
+
+234
+00:08:47,440 --> 00:08:51,240
+function in the real world.
+
+235
+00:08:52,000 --> 00:08:56,000
+Yeah, basically how to actually convince
+
+236
+00:08:54,399 --> 00:08:58,080
+a customer, how to develop a
+
+237
+00:08:56,000 --> 00:09:00,000
+relationship with a customer in
+
+238
+00:08:58,080 --> 00:09:01,839
+autonomous driving space. Um, I think
+
+239
+00:09:00,000 --> 00:09:03,839
+there's kind of two important aspects at
+
+240
+00:09:01,839 --> 00:09:06,160
+least. So, one I think is, you know,
+
+241
+00:09:03,839 --> 00:09:08,160
+seeing is believing. Not only having
+
+242
+00:09:06,160 --> 00:09:10,320
+kind of marketing materials or video
+
+243
+00:09:08,160 --> 00:09:12,080
+demos, right? actually being able to put
+
+244
+00:09:10,320 --> 00:09:14,320
+somebody in a car and have that
+
+245
+00:09:12,080 --> 00:09:16,880
+autonomous car navigate unforeseeable
+
+246
+00:09:14,320 --> 00:09:18,800
+situations um I think is a very powerful
+
+247
+00:09:16,880 --> 00:09:20,560
+sends a very powerful message about the
+
+248
+00:09:18,800 --> 00:09:23,200
+robustness of the technology and the
+
+249
+00:09:20,560 --> 00:09:25,120
+product and secondly I think that
+
+250
+00:09:23,200 --> 00:09:27,279
+working on a production contract there
+
+251
+00:09:25,120 --> 00:09:29,200
+are going to be kind of other contracts
+
+252
+00:09:27,279 --> 00:09:31,920
+along the way right I think it's not
+
+253
+00:09:29,200 --> 00:09:33,920
+really possible for a major car company
+
+254
+00:09:31,920 --> 00:09:35,920
+to give a production contract to a
+
+255
+00:09:33,920 --> 00:09:37,279
+supplier as the first contract so
+
+256
+00:09:35,920 --> 00:09:38,959
+there's going to be some sequence of
+
+257
+00:09:37,279 --> 00:09:41,519
+contracts along the way and so I think
+
+258
+00:09:38,959 --> 00:09:43,839
+that being able to execute on those
+
+259
+00:09:41,519 --> 00:09:46,399
+contracts and deliver exactly what you
+
+260
+00:09:43,839 --> 00:09:48,640
+signed up to deliver is critical because
+
+261
+00:09:46,399 --> 00:09:51,200
+ultimately what you're entrusted with as
+
+262
+00:09:48,640 --> 00:09:53,760
+a supplier is providing not only safety
+
+263
+00:09:51,200 --> 00:09:56,640
+critical technology but technology that
+
+264
+00:09:53,760 --> 00:09:58,240
+is absolutely necessary to have in a
+
+265
+00:09:56,640 --> 00:10:00,160
+certain timeline because you're talking
+
+266
+00:09:58,240 --> 00:10:02,240
+about a production program that has to
+
+267
+00:10:00,160 --> 00:10:03,839
+launch in a particular year where you
+
+268
+00:10:02,240 --> 00:10:05,600
+know a lot of money is a lot more money
+
+269
+00:10:03,839 --> 00:10:07,680
+is invested into that than just the
+
+270
+00:10:05,600 --> 00:10:09,600
+money being paid to one supplier. So,
+
+271
+00:10:07,680 --> 00:10:11,519
+it's incredibly important to be able to
+
+272
+00:10:09,600 --> 00:10:13,120
+meet those deadlines. Maybe a third
+
+273
+00:10:11,519 --> 00:10:15,519
+thing I would add is just not only
+
+274
+00:10:13,120 --> 00:10:17,200
+demonstrating your current state of
+
+275
+00:10:15,519 --> 00:10:20,000
+where your technology is, but
+
+276
+00:10:17,200 --> 00:10:21,839
+demonstrating the the difference from
+
+277
+00:10:20,000 --> 00:10:23,839
+one time to another, right? So, being
+
+278
+00:10:21,839 --> 00:10:26,240
+able to show, okay, here's where we are
+
+279
+00:10:23,839 --> 00:10:28,399
+at this point in time. And then in a
+
+280
+00:10:26,240 --> 00:10:30,399
+month, we expect to be here, right? and
+
+281
+00:10:28,399 --> 00:10:32,560
+actually showing, you know, showing that
+
+282
+00:10:30,399 --> 00:10:34,640
+differential and allowing them to
+
+283
+00:10:32,560 --> 00:10:36,560
+measure not only kind of your position,
+
+284
+00:10:34,640 --> 00:10:39,519
+but also your velocity, so to say. When
+
+285
+00:10:36,560 --> 00:10:39,519
+it comes to technology
+
+286
+00:10:40,600 --> 00:10:44,959
+development, especially when you're
+
+287
+00:10:42,480 --> 00:10:46,720
+going after such an ambitious play like
+
+288
+00:10:44,959 --> 00:10:48,640
+autonomous driving, kind of requires
+
+289
+00:10:46,720 --> 00:10:50,800
+quite a lot of conviction. The hardest
+
+290
+00:10:48,640 --> 00:10:52,800
+part about it was just if you're a
+
+291
+00:10:50,800 --> 00:10:54,880
+researcher, I think that your key job is
+
+292
+00:10:52,800 --> 00:10:56,800
+really okay to to perform the research
+
+293
+00:10:54,880 --> 00:10:58,640
+and then you put it out there. And sure,
+
+294
+00:10:56,800 --> 00:11:00,800
+there is some marketing aspect to that,
+
+295
+00:10:58,640 --> 00:11:02,079
+but it's not nearly as significant, I
+
+296
+00:11:00,800 --> 00:11:04,240
+think, as what you have to do for a
+
+297
+00:11:02,079 --> 00:11:05,760
+company. And generally, as a startup
+
+298
+00:11:04,240 --> 00:11:07,600
+founder, you have to wear so many
+
+299
+00:11:05,760 --> 00:11:10,079
+different hats. People say when they go
+
+300
+00:11:07,600 --> 00:11:12,800
+to MIT, for example, that it's kind of
+
+301
+00:11:10,079 --> 00:11:14,800
+like drinking from a fire hose. I never
+
+302
+00:11:12,800 --> 00:11:16,560
+had that experience, but I would say
+
+303
+00:11:14,800 --> 00:11:18,320
+that starting a company felt like
+
+304
+00:11:16,560 --> 00:11:20,800
+drinking from a fire hose. You know, in
+
+305
+00:11:18,320 --> 00:11:22,560
+our particular case, I think we were in
+
+306
+00:11:20,800 --> 00:11:24,959
+some sense working against the grain in
+
+307
+00:11:22,560 --> 00:11:26,720
+that the vast majority of the funding
+
+308
+00:11:24,959 --> 00:11:28,160
+went toward companies taking a totally
+
+309
+00:11:26,720 --> 00:11:30,959
+different approach in that they were
+
+310
+00:11:28,160 --> 00:11:33,680
+pursuing pure play 4. And you know, when
+
+311
+00:11:30,959 --> 00:11:34,880
+I first started to engage people about
+
+312
+00:11:33,680 --> 00:11:36,959
+the fact that we're going to really
+
+313
+00:11:34,880 --> 00:11:38,399
+focus on partial automation as the key
+
+314
+00:11:36,959 --> 00:11:40,880
+market, you know, everyone thought it
+
+315
+00:11:38,399 --> 00:11:43,519
+was crazy. But I I think that it
+
+316
+00:11:40,880 --> 00:11:45,920
+basically just emphasizes more kind of
+
+317
+00:11:43,519 --> 00:11:48,000
+this this notion of the importance of
+
+318
+00:11:45,920 --> 00:11:50,640
+like having grit or something because
+
+319
+00:11:48,000 --> 00:11:52,800
+you can't expect what you think to be
+
+320
+00:11:50,640 --> 00:11:55,279
+the predominant world view and it might
+
+321
+00:11:52,800 --> 00:11:57,040
+take a long time for the the world to
+
+322
+00:11:55,279 --> 00:11:59,120
+adjust right like I think we only
+
+323
+00:11:57,040 --> 00:12:01,920
+started seeing signs of the world
+
+324
+00:11:59,120 --> 00:12:03,519
+adjusting to our point of view some
+
+325
+00:12:01,920 --> 00:12:06,000
+number of years into the company right
+
+326
+00:12:03,519 --> 00:12:08,480
+maybe four years in 5 years in right but
+
+327
+00:12:06,000 --> 00:12:11,200
+then every year the our position has
+
+328
+00:12:08,480 --> 00:12:13,519
+improved prod not only as a function of
+
+329
+00:12:11,200 --> 00:12:17,200
+the technology and the product but also
+
+330
+00:12:13,519 --> 00:12:19,600
+because our strategy was adapted to a
+
+331
+00:12:17,200 --> 00:12:21,519
+certain worldview that we believed would
+
+332
+00:12:19,600 --> 00:12:24,580
+essentially would eventually materialize
+
+333
+00:12:21,519 --> 00:12:35,649
+and that is now happening.
+
+334
+00:12:24,580 --> 00:12:35,649
+[Music]
+

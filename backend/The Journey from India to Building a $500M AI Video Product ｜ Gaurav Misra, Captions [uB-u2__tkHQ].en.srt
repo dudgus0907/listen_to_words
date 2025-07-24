@@ -1,0 +1,1604 @@
+1
+00:00:00,000 --> 00:00:04,160
+I grew up in India. I had no idea or no
+
+2
+00:00:02,320 --> 00:00:05,440
+concept of like what is Boston? What is
+
+3
+00:00:04,160 --> 00:00:06,879
+New York? I hadn't been to any of these
+
+4
+00:00:05,440 --> 00:00:08,400
+places. Boston generally is a very
+
+5
+00:00:06,879 --> 00:00:09,679
+multicultural environment. People come
+
+6
+00:00:08,400 --> 00:00:11,280
+there from a lot of different countries
+
+7
+00:00:09,679 --> 00:00:13,200
+and I went to Boston University where
+
+8
+00:00:11,280 --> 00:00:14,719
+that's especially the case. After
+
+9
+00:00:13,200 --> 00:00:16,640
+graduating from college, I actually
+
+10
+00:00:14,719 --> 00:00:18,960
+started a PhD in machine learning which
+
+11
+00:00:16,640 --> 00:00:20,960
+I actually dropped out of. I left my PhD
+
+12
+00:00:18,960 --> 00:00:22,320
+program and I joined a startup. People
+
+13
+00:00:20,960 --> 00:00:24,000
+thought I was crazy that I would just
+
+14
+00:00:22,320 --> 00:00:25,760
+drop out of it and get kind of go join
+
+15
+00:00:24,000 --> 00:00:27,039
+some startup, right? But I think it was
+
+16
+00:00:25,760 --> 00:00:29,199
+the right decision looking back at it.
+
+17
+00:00:27,039 --> 00:00:30,720
+It was a very high-risisk decision, but
+
+18
+00:00:29,199 --> 00:00:32,239
+it worked out. Especially in the US, and
+
+19
+00:00:30,720 --> 00:00:34,320
+I think that's what makes the US such a
+
+20
+00:00:32,239 --> 00:00:36,480
+special place. There's definitely so
+
+21
+00:00:34,320 --> 00:00:38,079
+much opportunity that I think it's
+
+22
+00:00:36,480 --> 00:00:39,760
+better to be a little bit more of a
+
+23
+00:00:38,079 --> 00:00:41,920
+risk-taker. Most of the time, you can
+
+24
+00:00:39,760 --> 00:00:44,079
+take a risk and actually get rewarded
+
+25
+00:00:41,920 --> 00:00:45,920
+for it. I think people don't bias enough
+
+26
+00:00:44,079 --> 00:00:47,280
+towards taking risks. If you just do
+
+27
+00:00:45,920 --> 00:00:48,640
+what everybody else is doing, then
+
+28
+00:00:47,280 --> 00:00:52,280
+you'll just end up wherever everybody
+
+29
+00:00:48,640 --> 00:00:52,280
+else is going, right?
+
+30
+00:00:53,199 --> 00:00:58,079
+My name is Goraf and I am the co-founder
+
+31
+00:00:55,440 --> 00:01:00,480
+and CEO of Captions. Captions is a video
+
+32
+00:00:58,079 --> 00:01:02,559
+creation company. Our goal is to make it
+
+33
+00:01:00,480 --> 00:01:04,400
+easy for anybody anywhere to be able to
+
+34
+00:01:02,559 --> 00:01:05,760
+tell their story through video without
+
+35
+00:01:04,400 --> 00:01:08,080
+actually going through the physical
+
+36
+00:01:05,760 --> 00:01:10,240
+process of recording or editing a video.
+
+37
+00:01:08,080 --> 00:01:12,720
+We've raised over $und00 million in
+
+38
+00:01:10,240 --> 00:01:16,479
+funding. It's gotten to tens of millions
+
+39
+00:01:12,720 --> 00:01:19,479
+of users and over 100,000 plus users
+
+40
+00:01:16,479 --> 00:01:19,479
+daily.
+
+41
+00:01:22,640 --> 00:01:26,400
+I was in the US for the first four years
+
+42
+00:01:24,799 --> 00:01:28,400
+of my life and my parents moved to
+
+43
+00:01:26,400 --> 00:01:30,479
+India. I grew up in India. Moving back
+
+44
+00:01:28,400 --> 00:01:33,119
+to the US like I had no idea or no
+
+45
+00:01:30,479 --> 00:01:34,880
+concept of like what it would be like.
+
+46
+00:01:33,119 --> 00:01:36,479
+What is Boston? What is New York? Like I
+
+47
+00:01:34,880 --> 00:01:38,479
+hadn't been to any of these places. My
+
+48
+00:01:36,479 --> 00:01:39,920
+parents were like Boston's great you
+
+49
+00:01:38,479 --> 00:01:41,600
+should go there. And I was like sounds
+
+50
+00:01:39,920 --> 00:01:42,960
+great. Let me do that. So at Boston
+
+51
+00:01:41,600 --> 00:01:45,920
+University it was an interesting
+
+52
+00:01:42,960 --> 00:01:47,520
+situation because coming from India sort
+
+53
+00:01:45,920 --> 00:01:49,200
+of the curriculum there especially
+
+54
+00:01:47,520 --> 00:01:51,680
+around computer science is just very
+
+55
+00:01:49,200 --> 00:01:53,280
+advanced compared to the US and a lot of
+
+56
+00:01:51,680 --> 00:01:55,119
+the things that we actually were being
+
+57
+00:01:53,280 --> 00:01:56,880
+taught in college we had already covered
+
+58
+00:01:55,119 --> 00:01:58,880
+in high school for the most part. A lot
+
+59
+00:01:56,880 --> 00:02:00,719
+of college classes were essentially
+
+60
+00:01:58,880 --> 00:02:02,159
+repeating what I had already done in
+
+61
+00:02:00,719 --> 00:02:03,680
+high school. It probably was the case
+
+62
+00:02:02,159 --> 00:02:05,600
+for a lot of people from India I
+
+63
+00:02:03,680 --> 00:02:06,960
+imagine. I think that did give me a
+
+64
+00:02:05,600 --> 00:02:09,280
+chance to actually go and explore
+
+65
+00:02:06,960 --> 00:02:11,280
+outside of just that and kind of see
+
+66
+00:02:09,280 --> 00:02:13,200
+what else I can learn and what more I
+
+67
+00:02:11,280 --> 00:02:15,120
+can do. I did tons of projects. I like
+
+68
+00:02:13,200 --> 00:02:17,040
+worked on projects with my roommates. I
+
+69
+00:02:15,120 --> 00:02:19,120
+worked on a lot of different apps that
+
+70
+00:02:17,040 --> 00:02:21,680
+we launched and this was like in 2012
+
+71
+00:02:19,120 --> 00:02:23,440
+2011 when the app store was still early
+
+72
+00:02:21,680 --> 00:02:25,360
+in high school and going into college. I
+
+73
+00:02:23,440 --> 00:02:27,360
+had started a kind of a company in a
+
+74
+00:02:25,360 --> 00:02:29,280
+strange way. I say that because I
+
+75
+00:02:27,360 --> 00:02:31,120
+actually didn't realize it was a company
+
+76
+00:02:29,280 --> 00:02:33,120
+until much later. I was working on some
+
+77
+00:02:31,120 --> 00:02:34,879
+games and there was some need around
+
+78
+00:02:33,120 --> 00:02:36,720
+like security software for those games
+
+79
+00:02:34,879 --> 00:02:38,480
+and I decided to make it and the game
+
+80
+00:02:36,720 --> 00:02:40,879
+company decided to buy it for me not
+
+81
+00:02:38,480 --> 00:02:42,239
+knowing that I was like 16 years old and
+
+82
+00:02:40,879 --> 00:02:43,599
+I ended up selling it to a bunch of
+
+83
+00:02:42,239 --> 00:02:44,959
+other companies as well. I didn't
+
+84
+00:02:43,599 --> 00:02:46,560
+realize at that time that this is what a
+
+85
+00:02:44,959 --> 00:02:48,319
+company is is like you make a product
+
+86
+00:02:46,560 --> 00:02:50,640
+you sell it but much later I was like
+
+87
+00:02:48,319 --> 00:02:51,760
+wow that's kind of what it was. It was a
+
+88
+00:02:50,640 --> 00:02:53,200
+interesting sort of experience to go
+
+89
+00:02:51,760 --> 00:02:55,599
+through because it kind of transitioned
+
+90
+00:02:53,200 --> 00:02:58,160
+from generally games and gaming into
+
+91
+00:02:55,599 --> 00:03:00,879
+sort of more general skill set. I really
+
+92
+00:02:58,160 --> 00:03:02,879
+enjoy learning new things. How do you
+
+93
+00:03:00,879 --> 00:03:04,319
+learn things quickly and how do you
+
+94
+00:03:02,879 --> 00:03:05,920
+figure things out quickly? It's
+
+95
+00:03:04,319 --> 00:03:07,360
+something that not a lot of people talk
+
+96
+00:03:05,920 --> 00:03:09,519
+about, but it's like one of the most
+
+97
+00:03:07,360 --> 00:03:11,440
+important skills in my mind. Go to a new
+
+98
+00:03:09,519 --> 00:03:13,120
+domain, you know, go to a new area,
+
+99
+00:03:11,440 --> 00:03:14,959
+something that you haven't done before,
+
+100
+00:03:13,120 --> 00:03:16,879
+try for the first time, figure it out
+
+101
+00:03:14,959 --> 00:03:18,560
+quickly, and be actually useful and
+
+102
+00:03:16,879 --> 00:03:20,080
+productive in it is like it's a pretty
+
+103
+00:03:18,560 --> 00:03:21,760
+cool skill and it's pretty fun one to
+
+104
+00:03:20,080 --> 00:03:22,959
+work on because you get to try out a lot
+
+105
+00:03:21,760 --> 00:03:24,400
+of different things. You'll get to learn
+
+106
+00:03:22,959 --> 00:03:26,400
+a lot of different things and focus on
+
+107
+00:03:24,400 --> 00:03:27,599
+that as a skill in itself. Being able to
+
+108
+00:03:26,400 --> 00:03:29,530
+do all those different things and
+
+109
+00:03:27,599 --> 00:03:32,680
+figuring those things out is really
+
+110
+00:03:29,530 --> 00:03:32,680
+[Music]
+
+111
+00:03:34,200 --> 00:03:38,640
+important. Through the early part of my
+
+112
+00:03:36,400 --> 00:03:41,040
+career, I was really focused on machine
+
+113
+00:03:38,640 --> 00:03:43,200
+learning as a central aspect of what I
+
+114
+00:03:41,040 --> 00:03:45,360
+was doing. At Microsoft, I joined them
+
+115
+00:03:43,200 --> 00:03:47,200
+on this new team they were developing
+
+116
+00:03:45,360 --> 00:03:48,640
+called Azure Machine Learning. It's like
+
+117
+00:03:47,200 --> 00:03:50,400
+a machine learning platform they were
+
+118
+00:03:48,640 --> 00:03:52,239
+building. And then at Snapchat, there
+
+119
+00:03:50,400 --> 00:03:54,480
+was a bit of a difference. I got a
+
+120
+00:03:52,239 --> 00:03:56,560
+chance to really get more on the product
+
+121
+00:03:54,480 --> 00:03:58,959
+side and eventually ended up joining the
+
+122
+00:03:56,560 --> 00:04:01,040
+design team which was like a huge shift
+
+123
+00:03:58,959 --> 00:04:02,799
+from what I had done previously and the
+
+124
+00:04:01,040 --> 00:04:05,519
+idea of like connecting technology to
+
+125
+00:04:02,799 --> 00:04:07,680
+actual design and actual product made a
+
+126
+00:04:05,519 --> 00:04:09,280
+lot of sense. So I ended up starting a
+
+127
+00:04:07,680 --> 00:04:11,120
+team there called design engineering
+
+128
+00:04:09,280 --> 00:04:12,879
+which was like how do you bring together
+
+129
+00:04:11,120 --> 00:04:14,799
+great design and great engineering to
+
+130
+00:04:12,879 --> 00:04:16,479
+build amazing products right? One of the
+
+131
+00:04:14,799 --> 00:04:18,799
+things I learned at Snap, if you think
+
+132
+00:04:16,479 --> 00:04:20,560
+about Snap as a company, I think Snap
+
+133
+00:04:18,799 --> 00:04:22,800
+was one of the earliest companies to
+
+134
+00:04:20,560 --> 00:04:24,639
+actually get into video for consumer use
+
+135
+00:04:22,800 --> 00:04:28,000
+cases, especially short video. It did
+
+136
+00:04:24,639 --> 00:04:29,759
+get me very immersed into the space of
+
+137
+00:04:28,000 --> 00:04:31,759
+like video in general, especially video
+
+138
+00:04:29,759 --> 00:04:33,199
+for communication, short videos, and all
+
+139
+00:04:31,759 --> 00:04:35,360
+the challenges both technical and
+
+140
+00:04:33,199 --> 00:04:37,280
+product that are related to that. But I
+
+141
+00:04:35,360 --> 00:04:40,080
+think in general, one of the things that
+
+142
+00:04:37,280 --> 00:04:41,919
+I noticed was essentially a shift in the
+
+143
+00:04:40,080 --> 00:04:43,360
+way that people were communicating. A
+
+144
+00:04:41,919 --> 00:04:44,800
+lot of people thought Tik Tok was just,
+
+145
+00:04:43,360 --> 00:04:47,280
+oh, Tik Tok, that's like just people
+
+146
+00:04:44,800 --> 00:04:49,280
+dancing, right? It's for fun. But I
+
+147
+00:04:47,280 --> 00:04:50,639
+think the reality was that yes, there
+
+148
+00:04:49,280 --> 00:04:52,160
+were a bunch of people dancing, but
+
+149
+00:04:50,639 --> 00:04:53,120
+there was a lot of people talking and
+
+150
+00:04:52,160 --> 00:04:55,440
+there were a lot of people telling
+
+151
+00:04:53,120 --> 00:04:56,639
+stories and, you know, sometimes bad
+
+152
+00:04:55,440 --> 00:04:57,840
+things that happened to them, good
+
+153
+00:04:56,639 --> 00:04:59,840
+things that happened to them. People
+
+154
+00:04:57,840 --> 00:05:01,360
+were like talking about ideas and like
+
+155
+00:04:59,840 --> 00:05:03,440
+what could be done and what should be
+
+156
+00:05:01,360 --> 00:05:05,120
+done and people were arguing with each
+
+157
+00:05:03,440 --> 00:05:06,720
+other, right? And I think that was like
+
+158
+00:05:05,120 --> 00:05:08,160
+a shift in the way people communicated
+
+159
+00:05:06,720 --> 00:05:10,000
+from like that's the type of stuff that
+
+160
+00:05:08,160 --> 00:05:11,919
+would happen like on Twitter or like on
+
+161
+00:05:10,000 --> 00:05:13,280
+text beforehand, right? and it was now
+
+162
+00:05:11,919 --> 00:05:16,160
+happening on video for the first time.
+
+163
+00:05:13,280 --> 00:05:17,199
+So, I got pretty familiar with all the
+
+164
+00:05:16,160 --> 00:05:19,280
+different ways that people are
+
+165
+00:05:17,199 --> 00:05:22,400
+communicating and kind of what works
+
+166
+00:05:19,280 --> 00:05:22,400
+better and what doesn't
+
+167
+00:05:24,680 --> 00:05:28,800
+work. When we started the company, we
+
+168
+00:05:27,600 --> 00:05:30,800
+were thinking about building a social
+
+169
+00:05:28,800 --> 00:05:32,400
+network and so we were thinking, okay,
+
+170
+00:05:30,800 --> 00:05:33,840
+there's like a distribution part and
+
+171
+00:05:32,400 --> 00:05:35,600
+then there's a creation part of the
+
+172
+00:05:33,840 --> 00:05:37,680
+social network. We thought, hey, let's
+
+173
+00:05:35,600 --> 00:05:39,680
+start with the creation first. So we
+
+174
+00:05:37,680 --> 00:05:42,160
+started off with the idea of literally
+
+175
+00:05:39,680 --> 00:05:43,919
+just adding captions to videos, text on
+
+176
+00:05:42,160 --> 00:05:45,840
+videos based on what people are saying.
+
+177
+00:05:43,919 --> 00:05:47,360
+The reason we did this is because we saw
+
+178
+00:05:45,840 --> 00:05:49,360
+there was a big accessibility movement
+
+179
+00:05:47,360 --> 00:05:52,080
+at that time. There were a lot of people
+
+180
+00:05:49,360 --> 00:05:54,160
+sort of manually writing text on top of
+
+181
+00:05:52,080 --> 00:05:56,000
+their videos and it was spent an hour
+
+182
+00:05:54,160 --> 00:05:58,320
+like typing it all out. There wasn't
+
+183
+00:05:56,000 --> 00:06:00,639
+actually a solution for this that was in
+
+184
+00:05:58,320 --> 00:06:02,960
+the market at that time. So we were the
+
+185
+00:06:00,639 --> 00:06:05,520
+first ones to build it and the absolute
+
+186
+00:06:02,960 --> 00:06:08,560
+first project we built it in one weekend
+
+187
+00:06:05,520 --> 00:06:10,800
+just as like a test essentially and we
+
+188
+00:06:08,560 --> 00:06:13,120
+put it on the app store and the next day
+
+189
+00:06:10,800 --> 00:06:14,960
+we woke up and it was like 600 people
+
+190
+00:06:13,120 --> 00:06:16,479
+per minute using it basically it was
+
+191
+00:06:14,960 --> 00:06:19,360
+completely at the top of the app store
+
+192
+00:06:16,479 --> 00:06:21,039
+with no marketing no nothing done
+
+193
+00:06:19,360 --> 00:06:22,479
+essentially and I think that was like
+
+194
+00:06:21,039 --> 00:06:24,160
+the moment where it was like wow it
+
+195
+00:06:22,479 --> 00:06:26,240
+can't be this easy right like it really
+
+196
+00:06:24,160 --> 00:06:28,080
+can't be because we had been told right
+
+197
+00:06:26,240 --> 00:06:29,680
+like it's going to be a lot of work to
+
+198
+00:06:28,080 --> 00:06:32,000
+find product market fit and things like
+
+199
+00:06:29,680 --> 00:06:33,520
+that. But I think that being said, we
+
+200
+00:06:32,000 --> 00:06:35,120
+had just started the company and we had
+
+201
+00:06:33,520 --> 00:06:36,319
+this idea of a social network and things
+
+202
+00:06:35,120 --> 00:06:38,080
+like that. I think we were like, "Okay,
+
+203
+00:06:36,319 --> 00:06:40,240
+this is working, but I wonder if we
+
+204
+00:06:38,080 --> 00:06:41,680
+should go back and like really think
+
+205
+00:06:40,240 --> 00:06:43,919
+about the social network aspect of
+
+206
+00:06:41,680 --> 00:06:45,520
+this." And so we tried to figure out how
+
+207
+00:06:43,919 --> 00:06:47,120
+to get people to post on the platform
+
+208
+00:06:45,520 --> 00:06:49,199
+and things like that until we
+
+209
+00:06:47,120 --> 00:06:51,280
+essentially rediscovered captions. And
+
+210
+00:06:49,199 --> 00:06:52,880
+this was a interesting moment where we
+
+211
+00:06:51,280 --> 00:06:54,800
+were working on another application
+
+212
+00:06:52,880 --> 00:06:56,240
+which was called Spam App. It was like a
+
+213
+00:06:54,800 --> 00:06:57,759
+photo sharing app. It was actually doing
+
+214
+00:06:56,240 --> 00:06:59,360
+really well. While we were working on
+
+215
+00:06:57,759 --> 00:07:01,360
+that, we're looking at the bills and
+
+216
+00:06:59,360 --> 00:07:03,120
+there was like a good $10,000 a month
+
+217
+00:07:01,360 --> 00:07:04,319
+going to captions. You know, I remember
+
+218
+00:07:03,120 --> 00:07:06,000
+talking to my co-founder and we were
+
+219
+00:07:04,319 --> 00:07:08,560
+like, "Okay, let's just delete it
+
+220
+00:07:06,000 --> 00:07:10,639
+because we don't want to spend $120,000
+
+221
+00:07:08,560 --> 00:07:12,960
+a year on this, right?" We decided to
+
+222
+00:07:10,639 --> 00:07:16,080
+delete it. I remember going back home
+
+223
+00:07:12,960 --> 00:07:17,840
+and on Saturday going through like, you
+
+224
+00:07:16,080 --> 00:07:19,440
+know, the UI to be like, "Okay, I'm
+
+225
+00:07:17,840 --> 00:07:21,280
+going to press delete now." And while I
+
+226
+00:07:19,440 --> 00:07:24,000
+was going to press delete, I was just
+
+227
+00:07:21,280 --> 00:07:25,120
+thinking, "Ah, but like we worked so
+
+228
+00:07:24,000 --> 00:07:27,039
+hard on this. Like I don't want to
+
+229
+00:07:25,120 --> 00:07:28,800
+delete this, right?" Like it's like I
+
+230
+00:07:27,039 --> 00:07:31,599
+want to keep it for memories at least,
+
+231
+00:07:28,800 --> 00:07:33,840
+right? So I had an idea just in the
+
+232
+00:07:31,599 --> 00:07:36,319
+moment quickly design a little payw wall
+
+233
+00:07:33,840 --> 00:07:37,919
+where we ask people to pay for the app.
+
+234
+00:07:36,319 --> 00:07:39,599
+If nobody pays for it then it's
+
+235
+00:07:37,919 --> 00:07:41,360
+essentially shut down but we can
+
+236
+00:07:39,599 --> 00:07:43,199
+continue using it because you know we
+
+237
+00:07:41,360 --> 00:07:45,919
+work hard on it and if someone pays for
+
+238
+00:07:43,199 --> 00:07:48,400
+it then it pays for itself. So we're not
+
+239
+00:07:45,919 --> 00:07:50,880
+paying the bills basically. So I quickly
+
+240
+00:07:48,400 --> 00:07:52,720
+made that in about 2 or 3 hours put it
+
+241
+00:07:50,880 --> 00:07:54,879
+on the app store and launched it and
+
+242
+00:07:52,720 --> 00:07:56,639
+then completely forgot about it. So, we
+
+243
+00:07:54,879 --> 00:07:59,199
+continued working on spam app and it
+
+244
+00:07:56,639 --> 00:08:02,160
+continued growing through the next, you
+
+245
+00:07:59,199 --> 00:08:04,400
+know, four, five, six months. While we
+
+246
+00:08:02,160 --> 00:08:06,479
+were doing that, I for some reason
+
+247
+00:08:04,400 --> 00:08:09,199
+decided to check my account. And when I
+
+248
+00:08:06,479 --> 00:08:11,199
+checked it, it was like at $500,000 or
+
+249
+00:08:09,199 --> 00:08:13,759
+more and growing. And like the craziest
+
+250
+00:08:11,199 --> 00:08:15,840
+part was not only did people pay for it,
+
+251
+00:08:13,759 --> 00:08:17,919
+people retained on it. And it was
+
+252
+00:08:15,840 --> 00:08:20,080
+growing in revenue completely on its own
+
+253
+00:08:17,919 --> 00:08:23,199
+with like zero employees working on it.
+
+254
+00:08:20,080 --> 00:08:25,360
+So, no employees. There were like 2,000
+
+255
+00:08:23,199 --> 00:08:28,479
+open support tickets. Nobody was
+
+256
+00:08:25,360 --> 00:08:30,240
+answering obviously, right? And it would
+
+257
+00:08:28,479 --> 00:08:32,159
+continue to grow. You know, we had to
+
+258
+00:08:30,240 --> 00:08:34,880
+have this like tough conversation of
+
+259
+00:08:32,159 --> 00:08:37,279
+like, oh my god, like this is truly
+
+260
+00:08:34,880 --> 00:08:39,279
+working, right? And it was tough because
+
+261
+00:08:37,279 --> 00:08:41,279
+we already had another thing that was
+
+262
+00:08:39,279 --> 00:08:43,440
+also working and that we were raising a
+
+263
+00:08:41,279 --> 00:08:45,680
+new round on essentially, right? I think
+
+264
+00:08:43,440 --> 00:08:48,000
+we discussed this for a couple of weeks
+
+265
+00:08:45,680 --> 00:08:49,600
+and we ended up deciding we're going to
+
+266
+00:08:48,000 --> 00:08:52,320
+switch to captions and we're going to
+
+267
+00:08:49,600 --> 00:08:55,279
+just focus on creation as the primary.
+
+268
+00:08:52,320 --> 00:08:57,680
+We switched over and literally the
+
+269
+00:08:55,279 --> 00:08:59,920
+moment we launched the first set of
+
+270
+00:08:57,680 --> 00:09:02,959
+features on top of the existing app.
+
+271
+00:08:59,920 --> 00:09:04,640
+What was looking like a fast growth
+
+272
+00:09:02,959 --> 00:09:07,360
+completely condensed because the new
+
+273
+00:09:04,640 --> 00:09:09,040
+growth was exponential just like
+
+274
+00:09:07,360 --> 00:09:10,720
+straight up. I mean, I think that's kind
+
+275
+00:09:09,040 --> 00:09:13,120
+of the crazy thing that I think about at
+
+276
+00:09:10,720 --> 00:09:15,440
+this point is like that split-second
+
+277
+00:09:13,120 --> 00:09:16,959
+decision was the difference between two
+
+278
+00:09:15,440 --> 00:09:18,320
+completely different paths. Here's the
+
+279
+00:09:16,959 --> 00:09:19,440
+thing, like we don't know. The other
+
+280
+00:09:18,320 --> 00:09:20,959
+side could have been even more
+
+281
+00:09:19,440 --> 00:09:22,640
+successful. That's the tough part about
+
+282
+00:09:20,959 --> 00:09:24,160
+these decisions is like you have to
+
+283
+00:09:22,640 --> 00:09:25,920
+choose one and you'll never know what
+
+284
+00:09:24,160 --> 00:09:27,839
+the other could have been. I think the
+
+285
+00:09:25,920 --> 00:09:29,680
+big decisions are actually in the small
+
+286
+00:09:27,839 --> 00:09:31,760
+decisions in a way and the small
+
+287
+00:09:29,680 --> 00:09:34,480
+decisions are what actually you don't
+
+288
+00:09:31,760 --> 00:09:36,399
+think about too much but actually turn
+
+289
+00:09:34,480 --> 00:09:38,000
+the tide of like what will happen in the
+
+290
+00:09:36,399 --> 00:09:39,440
+future. I think that was the case over
+
+291
+00:09:38,000 --> 00:09:41,200
+here too, right? Because like what felt
+
+292
+00:09:39,440 --> 00:09:43,200
+like a very small decision of like other
+
+293
+00:09:41,200 --> 00:09:44,640
+app should we delete it or not seem like
+
+294
+00:09:43,200 --> 00:09:45,760
+kind of obvious. Anybody we would have
+
+295
+00:09:44,640 --> 00:09:47,760
+asked would have told us, yeah, just
+
+296
+00:09:45,760 --> 00:09:49,920
+delete it, right? Whatever. But I think
+
+297
+00:09:47,760 --> 00:09:51,440
+those small decisions actually are way
+
+298
+00:09:49,920 --> 00:09:53,279
+more important than the big ones
+
+299
+00:09:51,440 --> 00:09:54,480
+sometimes. And I think this shows quite
+
+300
+00:09:53,279 --> 00:09:56,240
+a bit like if you look at any
+
+301
+00:09:54,480 --> 00:09:58,000
+competition at a global scale, right,
+
+302
+00:09:56,240 --> 00:09:59,760
+which building a startup is kind of a
+
+303
+00:09:58,000 --> 00:10:01,279
+competition at a global scale. Like look
+
+304
+00:09:59,760 --> 00:10:02,959
+at the Olympics for example, right? Like
+
+305
+00:10:01,279 --> 00:10:04,080
+people are like within seconds of each
+
+306
+00:10:02,959 --> 00:10:05,839
+other, right? Sometimes even
+
+307
+00:10:04,080 --> 00:10:07,760
+milliseconds of each other. That's not
+
+308
+00:10:05,839 --> 00:10:09,040
+because of some major decision they made
+
+309
+00:10:07,760 --> 00:10:10,720
+while training or something like that.
+
+310
+00:10:09,040 --> 00:10:12,720
+Everyone's very good, right? It's
+
+311
+00:10:10,720 --> 00:10:14,399
+probably like some minor micro decision
+
+312
+00:10:12,720 --> 00:10:16,000
+that happened in the moment like, you
+
+313
+00:10:14,399 --> 00:10:18,240
+know, while they're swimming and they
+
+314
+00:10:16,000 --> 00:10:19,680
+moved one arm at this angle versus the
+
+315
+00:10:18,240 --> 00:10:21,440
+other angle. Like that's what's deciding
+
+316
+00:10:19,680 --> 00:10:22,880
+who wins and loses, right? I think it's
+
+317
+00:10:21,440 --> 00:10:26,040
+like those small decisions that count
+
+318
+00:10:22,880 --> 00:10:26,040
+the most.
+
+319
+00:10:29,200 --> 00:10:32,320
+We did face challenges around like
+
+320
+00:10:30,720 --> 00:10:33,839
+identifying the user and making sure
+
+321
+00:10:32,320 --> 00:10:35,839
+we're building for the right user
+
+322
+00:10:33,839 --> 00:10:37,600
+because when we launched the app like it
+
+323
+00:10:35,839 --> 00:10:40,160
+was immediately sort of successful,
+
+324
+00:10:37,600 --> 00:10:42,240
+right? And it immediately blew up. It
+
+325
+00:10:40,160 --> 00:10:43,600
+made things easier and harder in some
+
+326
+00:10:42,240 --> 00:10:46,320
+ways. I think one of the things that can
+
+327
+00:10:43,600 --> 00:10:49,360
+happen when too many people join sort of
+
+328
+00:10:46,320 --> 00:10:51,200
+your app or product very quickly is you
+
+329
+00:10:49,360 --> 00:10:52,640
+kind of lose lose sight of who the
+
+330
+00:10:51,200 --> 00:10:53,920
+customer is because there's a lot of
+
+331
+00:10:52,640 --> 00:10:55,279
+people who are just checking it out.
+
+332
+00:10:53,920 --> 00:10:57,040
+There's a lot of people who don't
+
+333
+00:10:55,279 --> 00:10:58,480
+actually care about the use case, but
+
+334
+00:10:57,040 --> 00:10:59,839
+they want to just see what's going on.
+
+335
+00:10:58,480 --> 00:11:01,200
+Between all that noise, it's difficult
+
+336
+00:10:59,839 --> 00:11:03,360
+to figure out like which one of these
+
+337
+00:11:01,200 --> 00:11:05,120
+people are the actual user. Who's going
+
+338
+00:11:03,360 --> 00:11:06,880
+to retain and for whom is this actually
+
+339
+00:11:05,120 --> 00:11:08,640
+solving a real problem? That's really
+
+340
+00:11:06,880 --> 00:11:10,320
+important because at the end of the day,
+
+341
+00:11:08,640 --> 00:11:11,760
+without focusing on the right customer,
+
+342
+00:11:10,320 --> 00:11:13,360
+you'll end up building the wrong
+
+343
+00:11:11,760 --> 00:11:14,959
+product. Captions was a paid app from
+
+344
+00:11:13,360 --> 00:11:16,720
+the beginning. And I think elements
+
+345
+00:11:14,959 --> 00:11:19,120
+there that was interesting is like being
+
+346
+00:11:16,720 --> 00:11:21,040
+paid actually helped filter our user
+
+347
+00:11:19,120 --> 00:11:22,640
+base a little bit and to only those
+
+348
+00:11:21,040 --> 00:11:23,920
+people who were willing to pay. Those
+
+349
+00:11:22,640 --> 00:11:26,399
+people that were willing to pay were
+
+350
+00:11:23,920 --> 00:11:28,079
+people who had real pain point. And so
+
+351
+00:11:26,399 --> 00:11:29,839
+with that, we got really good feedback
+
+352
+00:11:28,079 --> 00:11:30,800
+from users, right, around like what we
+
+353
+00:11:29,839 --> 00:11:32,320
+should build and what we should
+
+354
+00:11:30,800 --> 00:11:34,480
+prioritize and what they want from us in
+
+355
+00:11:32,320 --> 00:11:36,320
+the future. We decided to keep the app
+
+356
+00:11:34,480 --> 00:11:38,560
+paid right from the beginning all the
+
+357
+00:11:36,320 --> 00:11:40,160
+way till today because of that reason. I
+
+358
+00:11:38,560 --> 00:11:42,320
+think on the technical side, we try to
+
+359
+00:11:40,160 --> 00:11:44,240
+avoid as much as possible technical
+
+360
+00:11:42,320 --> 00:11:45,360
+challenges that it's sort of unproven
+
+361
+00:11:44,240 --> 00:11:46,720
+essentially, right? Like I think one of
+
+362
+00:11:45,360 --> 00:11:48,079
+the mistakes that can be made is like
+
+363
+00:11:46,720 --> 00:11:49,680
+spending a lot of time building
+
+364
+00:11:48,079 --> 00:11:51,360
+something very technically complex
+
+365
+00:11:49,680 --> 00:11:52,959
+without fully recognizing whether
+
+366
+00:11:51,360 --> 00:11:54,399
+there's product market fit there or not.
+
+367
+00:11:52,959 --> 00:11:55,920
+We spend a year building something and
+
+368
+00:11:54,399 --> 00:11:57,600
+nobody wants it. Right? That happens
+
+369
+00:11:55,920 --> 00:11:59,600
+very often and it's happened to us too.
+
+370
+00:11:57,600 --> 00:12:01,279
+The key factor there is like how do you
+
+371
+00:11:59,600 --> 00:12:03,279
+reduce the technical risk to like an
+
+372
+00:12:01,279 --> 00:12:04,880
+MVP? How do you test with like just the
+
+373
+00:12:03,279 --> 00:12:06,320
+bare minimum? Get something out in front
+
+374
+00:12:04,880 --> 00:12:08,160
+of people. Have them see it. Have them
+
+375
+00:12:06,320 --> 00:12:09,760
+try it. If they don't retain, then don't
+
+376
+00:12:08,160 --> 00:12:11,279
+invest more in it, right? Try something
+
+377
+00:12:09,760 --> 00:12:13,600
+else. And I think that's the other thing
+
+378
+00:12:11,279 --> 00:12:15,600
+is like not going deeper and deeper into
+
+379
+00:12:13,600 --> 00:12:17,519
+the rabbit hole almost in a way. I think
+
+380
+00:12:15,600 --> 00:12:19,680
+there's also tendencies of like building
+
+381
+00:12:17,519 --> 00:12:22,000
+the first version seeing that it doesn't
+
+382
+00:12:19,680 --> 00:12:23,600
+completely work and then justifying it
+
+383
+00:12:22,000 --> 00:12:25,200
+by saying well if it only had this
+
+384
+00:12:23,600 --> 00:12:27,120
+feature and that feature and that third
+
+385
+00:12:25,200 --> 00:12:29,120
+feature then maybe it would have worked
+
+386
+00:12:27,120 --> 00:12:30,959
+right but I think the reality is like it
+
+387
+00:12:29,120 --> 00:12:32,639
+would not probably not have worked with
+
+388
+00:12:30,959 --> 00:12:34,160
+as many features as you want. It would
+
+389
+00:12:32,639 --> 00:12:36,079
+only have worked with a single feature
+
+390
+00:12:34,160 --> 00:12:37,519
+only one of those things right whatever
+
+391
+00:12:36,079 --> 00:12:39,200
+actually people want at the end of the
+
+392
+00:12:37,519 --> 00:12:41,040
+day. So, I think the better skill is to
+
+393
+00:12:39,200 --> 00:12:43,200
+just learn how to quickly build stuff.
+
+394
+00:12:41,040 --> 00:12:45,200
+Try as many things as possible. The most
+
+395
+00:12:43,200 --> 00:12:46,800
+important thing is getting stuff out in
+
+396
+00:12:45,200 --> 00:12:48,560
+front of people, testing it. If it
+
+397
+00:12:46,800 --> 00:12:50,160
+doesn't work, kill it and start again.
+
+398
+00:12:48,560 --> 00:12:53,160
+And keep doing that as quickly as
+
+399
+00:12:50,160 --> 00:12:53,160
+possible.
+
+400
+00:12:58,190 --> 00:13:01,479
+[Music]
+
+401
+00:13:03,560 --> 00:13:06,680
+[Music]
+

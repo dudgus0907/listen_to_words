@@ -1,0 +1,2348 @@
+1
+00:00:00,080 --> 00:00:04,400
+In the first day, I think we added like
+
+2
+00:00:02,320 --> 00:00:06,240
+60K. I remember one of our engineers was
+
+3
+00:00:04,400 --> 00:00:07,440
+like, "Guys, we added 60K today. Oh my
+
+4
+00:00:06,240 --> 00:00:09,120
+god." And you I jumped in was like,
+
+5
+00:00:07,440 --> 00:00:10,559
+"Yep, it's cool, but like this is, you
+
+6
+00:00:09,120 --> 00:00:12,000
+know, this is like launch day. This is
+
+7
+00:00:10,559 --> 00:00:14,719
+going to go away." And that didn't
+
+8
+00:00:12,000 --> 00:00:17,119
+happen. Every single day, we kept adding
+
+9
+00:00:14,719 --> 00:00:19,039
+more and more ARR. In the first 2
+
+10
+00:00:17,119 --> 00:00:21,199
+months, we went from 0 to 20 million of
+
+11
+00:00:19,039 --> 00:00:22,720
+ARR. Everyone we were talking to had
+
+12
+00:00:21,199 --> 00:00:23,920
+never seen anything like it. We were
+
+13
+00:00:22,720 --> 00:00:25,840
+actually we were going to go out of
+
+14
+00:00:23,920 --> 00:00:27,680
+business last year. You know, we spent
+
+15
+00:00:25,840 --> 00:00:29,679
+seven years building out the core
+
+16
+00:00:27,680 --> 00:00:31,279
+technology of the product. couldn't
+
+17
+00:00:29,679 --> 00:00:33,840
+figure out how to actually effectively
+
+18
+00:00:31,279 --> 00:00:35,760
+monetize it. We had one last experiment
+
+19
+00:00:33,840 --> 00:00:37,920
+that we ran um is it's a product called
+
+20
+00:00:35,760 --> 00:00:40,640
+Bolt. Finding product market fit. It is
+
+21
+00:00:37,920 --> 00:00:42,399
+purely how many people you talk to. It
+
+22
+00:00:40,640 --> 00:00:43,680
+is purely that you people there maybe
+
+23
+00:00:42,399 --> 00:00:45,440
+early in their product career to kind of
+
+24
+00:00:43,680 --> 00:00:47,039
+have lots of cool ideas about things
+
+25
+00:00:45,440 --> 00:00:49,280
+they could build and whatever that are
+
+26
+00:00:47,039 --> 00:00:52,000
+not really attached to the reality of
+
+27
+00:00:49,280 --> 00:00:53,520
+the actual end user customer using the
+
+28
+00:00:52,000 --> 00:00:54,960
+product, what they're trying to do with
+
+29
+00:00:53,520 --> 00:00:56,399
+it, the challenges they're currently
+
+30
+00:00:54,960 --> 00:00:58,879
+running into with it. One of the things
+
+31
+00:00:56,399 --> 00:01:00,160
+we really invested in early on with Bolt
+
+32
+00:00:58,879 --> 00:01:01,600
+was like community. You know, we've
+
+33
+00:01:00,160 --> 00:01:03,920
+hired in a couple of folks who their
+
+34
+00:01:01,600 --> 00:01:04,960
+entire job is just talking to our users.
+
+35
+00:01:03,920 --> 00:01:06,720
+And so I think that's really the only
+
+36
+00:01:04,960 --> 00:01:08,880
+way you can meaningfully scale the full
+
+37
+00:01:06,720 --> 00:01:10,560
+cycle of user feedback is just having
+
+38
+00:01:08,880 --> 00:01:12,560
+great people that are in your community
+
+39
+00:01:10,560 --> 00:01:14,000
+or on your actual core team. That's
+
+40
+00:01:12,560 --> 00:01:16,080
+their entire job and they're all working
+
+41
+00:01:14,000 --> 00:01:17,920
+together. You have to learn how to be
+
+42
+00:01:16,080 --> 00:01:19,759
+intellectually honest with yourself. And
+
+43
+00:01:17,920 --> 00:01:21,600
+it's like, am I not giving up because
+
+44
+00:01:19,759 --> 00:01:23,200
+that's what people say you should do, or
+
+45
+00:01:21,600 --> 00:01:25,280
+am I not giving up because I actually
+
+46
+00:01:23,200 --> 00:01:27,759
+really like I have conviction in this
+
+47
+00:01:25,280 --> 00:01:30,080
+and like I just want to see this I I
+
+48
+00:01:27,759 --> 00:01:32,079
+really want to see this made possible. I
+
+49
+00:01:30,080 --> 00:01:34,240
+I think the only way I learned how to
+
+50
+00:01:32,079 --> 00:01:38,680
+determine when it was time to pivot
+
+51
+00:01:34,240 --> 00:01:38,680
+versus time to iterate was just
+
+52
+00:01:41,119 --> 00:01:45,040
+I'm Eric Simons. I'm the co-founder and
+
+53
+00:01:43,360 --> 00:01:47,439
+CEO of Stack Blitz and we're the
+
+54
+00:01:45,040 --> 00:01:49,840
+creators of Bolt. new. People went to
+
+55
+00:01:47,439 --> 00:01:51,280
+bolt.new, typed in the idea of a website
+
+56
+00:01:49,840 --> 00:01:53,280
+or whatever that they wanted to make,
+
+57
+00:01:51,280 --> 00:01:55,360
+hit enter, and 30 seconds later, they
+
+58
+00:01:53,280 --> 00:01:57,119
+had a a web application ready to go.
+
+59
+00:01:55,360 --> 00:01:59,520
+First two months of launching Bolt, we
+
+60
+00:01:57,119 --> 00:02:01,520
+went from 0 to 20 million of ARR. The 3
+
+61
+00:01:59,520 --> 00:02:03,840
+months since then, we've added another
+
+62
+00:02:01,520 --> 00:02:06,240
+20 million of ARR just about, and we now
+
+63
+00:02:03,840 --> 00:02:11,080
+have almost 4 million registered users
+
+64
+00:02:06,240 --> 00:02:11,080
+and are continuing to grow like a weed.
+
+65
+00:02:12,959 --> 00:02:16,640
+I like computers from a pretty early
+
+66
+00:02:14,879 --> 00:02:18,160
+age. I was like building computers like
+
+67
+00:02:16,640 --> 00:02:19,280
+be gaming computers and that sort of
+
+68
+00:02:18,160 --> 00:02:21,200
+thing. That was actually when my
+
+69
+00:02:19,280 --> 00:02:24,560
+co-founder and I met was when we were
+
+70
+00:02:21,200 --> 00:02:27,280
+you I think around 12 or 13. The first
+
+71
+00:02:24,560 --> 00:02:29,360
+product that my co-founder and I built.
+
+72
+00:02:27,280 --> 00:02:31,200
+We basically built a version of Dropbox
+
+73
+00:02:29,360 --> 00:02:34,800
+before Dropbox existed. And this is back
+
+74
+00:02:31,200 --> 00:02:36,239
+in like 2006 or 7. At that time, the way
+
+75
+00:02:34,800 --> 00:02:37,760
+that you kind of bring your digital
+
+76
+00:02:36,239 --> 00:02:40,080
+documents between school and home was
+
+77
+00:02:37,760 --> 00:02:41,599
+like USB flash drives. You're like 12 or
+
+78
+00:02:40,080 --> 00:02:42,720
+13 or whatever. You're going to forget
+
+79
+00:02:41,599 --> 00:02:44,000
+this, right? You're going to leave this
+
+80
+00:02:42,720 --> 00:02:45,280
+at home. Happened all the time. And so
+
+81
+00:02:44,000 --> 00:02:47,040
+we had the idea of like, hey, let's just
+
+82
+00:02:45,280 --> 00:02:48,400
+make a digital storage service that
+
+83
+00:02:47,040 --> 00:02:50,480
+people can upload their homework to or
+
+84
+00:02:48,400 --> 00:02:52,800
+whatever. And it took off like wildfire
+
+85
+00:02:50,480 --> 00:02:54,080
+like the entire many school districts in
+
+86
+00:02:52,800 --> 00:02:56,640
+Illinois and just kind of across the
+
+87
+00:02:54,080 --> 00:02:58,319
+Midwest started using this thing. I
+
+88
+00:02:56,640 --> 00:03:00,800
+think at that time I was I was like 18
+
+89
+00:02:58,319 --> 00:03:01,680
+or 19. I for come out Silicon Valley. We
+
+90
+00:03:00,800 --> 00:03:03,360
+had gone through one of these
+
+91
+00:03:01,680 --> 00:03:05,360
+accelerator program. At that time they
+
+92
+00:03:03,360 --> 00:03:06,959
+would give you like 20K. So we went
+
+93
+00:03:05,360 --> 00:03:08,959
+through that money and then we're out of
+
+94
+00:03:06,959 --> 00:03:10,400
+money but we the product wasn't ready to
+
+95
+00:03:08,959 --> 00:03:12,319
+launch. And so I was like what do you
+
+96
+00:03:10,400 --> 00:03:14,159
+do? We just so happened to had access to
+
+97
+00:03:12,319 --> 00:03:15,840
+the AOL building at that time because
+
+98
+00:03:14,159 --> 00:03:17,519
+one of our investors said was renting
+
+99
+00:03:15,840 --> 00:03:19,040
+office space out of there. So I had a
+
+100
+00:03:17,519 --> 00:03:20,959
+key card to get into the AOL building
+
+101
+00:03:19,040 --> 00:03:22,560
+and so there's couches here, you know, I
+
+102
+00:03:20,959 --> 00:03:25,040
+could sleep on the couch, there's a gym
+
+103
+00:03:22,560 --> 00:03:26,879
+and so they have showers. I was 19.
+
+104
+00:03:25,040 --> 00:03:28,400
+Expectations for quality of of living
+
+105
+00:03:26,879 --> 00:03:29,840
+are pretty low, I think, at that age.
+
+106
+00:03:28,400 --> 00:03:31,519
+And so I I ended up just, you know,
+
+107
+00:03:29,840 --> 00:03:33,599
+starting to live out of out of their
+
+108
+00:03:31,519 --> 00:03:37,040
+headquarters. I I would I was just
+
+109
+00:03:33,599 --> 00:03:38,720
+coding from 9:00 a.m. to 11:00 p.m.
+
+110
+00:03:37,040 --> 00:03:40,560
+12:00 p.m. I did that for like I think
+
+111
+00:03:38,720 --> 00:03:42,000
+like 4 months um until they they
+
+112
+00:03:40,560 --> 00:03:43,440
+eventually someone like someone finally
+
+113
+00:03:42,000 --> 00:03:44,959
+caught on that I was living in their
+
+114
+00:03:43,440 --> 00:03:46,159
+headquarters and they they found me and
+
+115
+00:03:44,959 --> 00:03:47,519
+threw me out at like 5:00 in the
+
+116
+00:03:46,159 --> 00:03:49,519
+morning. I didn't know anyone in Silicon
+
+117
+00:03:47,519 --> 00:03:52,159
+Valley. I'm not from California. I went
+
+118
+00:03:49,519 --> 00:03:54,640
+and like slept on a table at Starbucks
+
+119
+00:03:52,159 --> 00:03:56,720
+until they opened.
+
+120
+00:03:54,640 --> 00:03:57,760
+Thinking was a company that we didn't
+
+121
+00:03:56,720 --> 00:03:58,720
+really intend to be a company.
+
+122
+00:03:57,760 --> 00:04:00,319
+Basically, we had a whole bunch of
+
+123
+00:03:58,720 --> 00:04:02,159
+different startup ideas we were trying
+
+124
+00:04:00,319 --> 00:04:03,599
+on the side. We were building lots of
+
+125
+00:04:02,159 --> 00:04:05,200
+different web applications as a result
+
+126
+00:04:03,599 --> 00:04:06,959
+for each of these startups to stay
+
+127
+00:04:05,200 --> 00:04:08,879
+afloat. We were like, "Okay, you know,
+
+128
+00:04:06,959 --> 00:04:10,480
+we actually know a lot about building
+
+129
+00:04:08,879 --> 00:04:12,400
+web applications cuz we're we're doing
+
+130
+00:04:10,480 --> 00:04:14,560
+it so much. We could probably like teach
+
+131
+00:04:12,400 --> 00:04:16,239
+folks online and, you know, charge for
+
+132
+00:04:14,560 --> 00:04:17,759
+like our courses and and make money to
+
+133
+00:04:16,239 --> 00:04:19,440
+keep us afloat so we can keep trying
+
+134
+00:04:17,759 --> 00:04:20,799
+other ideas." Kind of the funny thing is
+
+135
+00:04:19,440 --> 00:04:22,320
+like of all the things we were working
+
+136
+00:04:20,799 --> 00:04:24,000
+on at that time, Thinkster was the most
+
+137
+00:04:22,320 --> 00:04:26,000
+successful of all of them. We were
+
+138
+00:04:24,000 --> 00:04:27,600
+teaching a lot of people. We had like I
+
+139
+00:04:26,000 --> 00:04:28,960
+think it's at like 100,000 something
+
+140
+00:04:27,600 --> 00:04:30,560
+people that were you know using this
+
+141
+00:04:28,960 --> 00:04:32,560
+site uh to learn how to do web
+
+142
+00:04:30,560 --> 00:04:34,160
+development. And the biggest problem the
+
+143
+00:04:32,560 --> 00:04:35,360
+people learning were having. I mean this
+
+144
+00:04:34,160 --> 00:04:37,680
+is common with anyone that's learning
+
+145
+00:04:35,360 --> 00:04:39,520
+how to program is not even like learning
+
+146
+00:04:37,680 --> 00:04:41,120
+how to write the code but it's actually
+
+147
+00:04:39,520 --> 00:04:42,720
+setting up your development environment
+
+148
+00:04:41,120 --> 00:04:44,400
+which is basically mean setting up your
+
+149
+00:04:42,720 --> 00:04:47,040
+computer to be able to even like run
+
+150
+00:04:44,400 --> 00:04:48,560
+code. That is a huge huge huge challenge
+
+151
+00:04:47,040 --> 00:04:50,160
+whether you're like a beginner or you're
+
+152
+00:04:48,560 --> 00:04:51,600
+an advanced developer. We were running
+
+153
+00:04:50,160 --> 00:04:53,199
+into this problem with the people using
+
+154
+00:04:51,600 --> 00:04:54,800
+Thinkster of they they just couldn't get
+
+155
+00:04:53,199 --> 00:04:56,639
+the stuff set up in their environment to
+
+156
+00:04:54,800 --> 00:04:58,800
+even learn how to write the code. And we
+
+157
+00:04:56,639 --> 00:05:00,960
+had the realization like okay actually
+
+158
+00:04:58,800 --> 00:05:03,040
+it should be possible theoretically to
+
+159
+00:05:00,960 --> 00:05:04,720
+just kind of like run an entire dev
+
+160
+00:05:03,040 --> 00:05:06,720
+environment inside of the browser
+
+161
+00:05:04,720 --> 00:05:08,000
+itself. You know not using servers, not
+
+162
+00:05:06,720 --> 00:05:09,759
+install anything locally like we can
+
+163
+00:05:08,000 --> 00:05:11,440
+actually run it in a web page, you know,
+
+164
+00:05:09,759 --> 00:05:12,240
+inside of a browser tab. And we were
+
+165
+00:05:11,440 --> 00:05:13,600
+looking at all these different
+
+166
+00:05:12,240 --> 00:05:15,039
+technologies that have released in
+
+167
+00:05:13,600 --> 00:05:16,639
+browsers and we were like someone must
+
+168
+00:05:15,039 --> 00:05:17,840
+have done this already, right? Like cuz
+
+169
+00:05:16,639 --> 00:05:19,199
+we we were just trying to solve our own
+
+170
+00:05:17,840 --> 00:05:20,800
+problem. We weren't trying to start a
+
+171
+00:05:19,199 --> 00:05:22,960
+company like we were just trying to
+
+172
+00:05:20,800 --> 00:05:24,479
+teach people on Thinkster. We looked
+
+173
+00:05:22,960 --> 00:05:26,320
+around and there was just nothing. There
+
+174
+00:05:24,479 --> 00:05:27,759
+is nothing that could actually do it. I
+
+175
+00:05:26,320 --> 00:05:29,759
+kind of knew that this is like something
+
+176
+00:05:27,759 --> 00:05:31,199
+very different at that point because it,
+
+177
+00:05:29,759 --> 00:05:32,960
+you know, it's like I'd never run it
+
+178
+00:05:31,199 --> 00:05:34,560
+across something like this where I kind
+
+179
+00:05:32,960 --> 00:05:36,479
+of technically knew the underpinnings
+
+180
+00:05:34,560 --> 00:05:37,919
+that this should be possible, but yet no
+
+181
+00:05:36,479 --> 00:05:39,840
+one had gone and done it. That key
+
+182
+00:05:37,919 --> 00:05:41,360
+insight was really what led us to start
+
+183
+00:05:39,840 --> 00:05:43,199
+stacks cuz we were like, "Okay, well
+
+184
+00:05:41,360 --> 00:05:44,720
+that would be huge for people learning
+
+185
+00:05:43,199 --> 00:05:46,160
+how to code to not have to set up
+
+186
+00:05:44,720 --> 00:05:47,919
+environments. It would make it way more
+
+187
+00:05:46,160 --> 00:05:50,000
+accessible. people could just use this
+
+188
+00:05:47,919 --> 00:05:51,360
+as an environment to just keep building
+
+189
+00:05:50,000 --> 00:05:53,199
+in like why would you even need to set
+
+190
+00:05:51,360 --> 00:05:54,479
+up a local environment necessarily. So
+
+191
+00:05:53,199 --> 00:05:56,000
+that was kind of the origin story of
+
+192
+00:05:54,479 --> 00:05:59,000
+stacks and it came out of thankster
+
+193
+00:05:56,000 --> 00:05:59,000
+directly.
+
+194
+00:06:00,720 --> 00:06:05,280
+We had spent half a decade building
+
+195
+00:06:03,120 --> 00:06:07,039
+building out this technology. The the
+
+196
+00:06:05,280 --> 00:06:09,199
+problem is that anyone that really
+
+197
+00:06:07,039 --> 00:06:10,800
+understands how to write software
+
+198
+00:06:09,199 --> 00:06:13,199
+already knows how to get stuff set up on
+
+199
+00:06:10,800 --> 00:06:15,199
+their local computer and will tend to
+
+200
+00:06:13,199 --> 00:06:17,120
+actually just gravitate towards that
+
+201
+00:06:15,199 --> 00:06:18,479
+because they are super familiar with it.
+
+202
+00:06:17,120 --> 00:06:20,000
+The issue is if you're going to build
+
+203
+00:06:18,479 --> 00:06:21,280
+something that's web- based that is
+
+204
+00:06:20,000 --> 00:06:24,000
+getting people to actually leave their
+
+205
+00:06:21,280 --> 00:06:25,440
+their environment is a huge challenge.
+
+206
+00:06:24,000 --> 00:06:27,199
+We tried out a whole bunch of different
+
+207
+00:06:25,440 --> 00:06:28,720
+experiments um over the course of the
+
+208
+00:06:27,199 --> 00:06:30,160
+past, you know, 2 years or whatever. All
+
+209
+00:06:28,720 --> 00:06:31,199
+of them were very cool. generally like
+
+210
+00:06:30,160 --> 00:06:32,960
+the people that that try these things
+
+211
+00:06:31,199 --> 00:06:34,880
+out thought they were really awesome but
+
+212
+00:06:32,960 --> 00:06:36,720
+it didn't move the needle from like a a
+
+213
+00:06:34,880 --> 00:06:38,319
+monetization standpoint. My co-ounder
+
+214
+00:06:36,720 --> 00:06:40,080
+and I have like talked about you know do
+
+215
+00:06:38,319 --> 00:06:41,360
+should we pack it in shut down the
+
+216
+00:06:40,080 --> 00:06:43,199
+company and so that was you know like
+
+217
+00:06:41,360 --> 00:06:44,800
+last year we made the decision my
+
+218
+00:06:43,199 --> 00:06:46,240
+co-founder and I um with our with our
+
+219
+00:06:44,800 --> 00:06:47,919
+board and stuff of like okay we're going
+
+220
+00:06:46,240 --> 00:06:50,319
+to spend the rest of this year going and
+
+221
+00:06:47,919 --> 00:06:52,560
+trying everything that we think is cool
+
+222
+00:06:50,319 --> 00:06:54,960
+idea and and if that doesn't work out
+
+223
+00:06:52,560 --> 00:06:56,880
+we'll have left no stone unturned and
+
+224
+00:06:54,960 --> 00:06:58,880
+we'll go and kind of prepare to kind of
+
+225
+00:06:56,880 --> 00:07:00,560
+start spinning things down. How would I
+
+226
+00:06:58,880 --> 00:07:02,560
+walk away from this knowing that I I
+
+227
+00:07:00,560 --> 00:07:03,840
+gave it everything I had? Like last year
+
+228
+00:07:02,560 --> 00:07:05,840
+when as this was kind of going on with
+
+229
+00:07:03,840 --> 00:07:07,360
+the company, I also had my first child
+
+230
+00:07:05,840 --> 00:07:08,800
+and if you talk to anyone that has a
+
+231
+00:07:07,360 --> 00:07:10,240
+kid, you don't get a lot of sleep. It's
+
+232
+00:07:08,800 --> 00:07:11,520
+pretty high stress. So, I had a lot of
+
+233
+00:07:10,240 --> 00:07:13,360
+challenges kind of going on just from
+
+234
+00:07:11,520 --> 00:07:15,360
+the personal side, the work side. I woke
+
+235
+00:07:13,360 --> 00:07:16,720
+up one morning last April after my
+
+236
+00:07:15,360 --> 00:07:18,240
+daughter was born and I was like, I'm
+
+237
+00:07:16,720 --> 00:07:20,080
+going to do an iron man, like a full
+
+238
+00:07:18,240 --> 00:07:22,639
+iron man. And and I and it was like 6
+
+239
+00:07:20,080 --> 00:07:25,120
+months from that. I never ran a marathon
+
+240
+00:07:22,639 --> 00:07:27,599
+or whatever. the six months um you know
+
+241
+00:07:25,120 --> 00:07:29,440
+of last year I was kind of bringing full
+
+242
+00:07:27,599 --> 00:07:31,120
+intensity to every part of my life like
+
+243
+00:07:29,440 --> 00:07:33,840
+physically going and training for this
+
+244
+00:07:31,120 --> 00:07:35,840
+thing mentally with with my job uh going
+
+245
+00:07:33,840 --> 00:07:37,599
+and you know really figuring out leaving
+
+246
+00:07:35,840 --> 00:07:39,360
+no stone unturned and just trying a lots
+
+247
+00:07:37,599 --> 00:07:40,639
+of different experiments etc and so kind
+
+248
+00:07:39,360 --> 00:07:42,000
+of bringing full intensity to those
+
+249
+00:07:40,639 --> 00:07:43,599
+things and and I got to tell you I've
+
+250
+00:07:42,000 --> 00:07:45,199
+never been happier in my life um I've
+
+251
+00:07:43,599 --> 00:07:47,840
+never been happier in my life really
+
+252
+00:07:45,199 --> 00:07:49,280
+investing in in myself my co-workers and
+
+253
+00:07:47,840 --> 00:07:51,599
+my products and my family and my
+
+254
+00:07:49,280 --> 00:07:54,160
+business with just such uh intense
+
+255
+00:07:51,599 --> 00:07:56,960
+dedication and I is okay with whatever
+
+256
+00:07:54,160 --> 00:08:00,000
+the outcome was. If we end the year and,
+
+257
+00:07:56,960 --> 00:08:02,479
+you know, our destiny is the same, so be
+
+258
+00:08:00,000 --> 00:08:04,800
+it. Let the the universe, you know, let
+
+259
+00:08:02,479 --> 00:08:06,400
+the universe decide, right? Um, I've
+
+260
+00:08:04,800 --> 00:08:08,720
+done everything that I possibly can do.
+
+261
+00:08:06,400 --> 00:08:10,560
+And Bolt was like the last the last
+
+262
+00:08:08,720 --> 00:08:12,479
+experiment we had before we're going to
+
+263
+00:08:10,560 --> 00:08:14,240
+kind of start winding things down. Uh,
+
+264
+00:08:12,479 --> 00:08:16,400
+what Bolt allows you to do is like to
+
+265
+00:08:14,240 --> 00:08:18,560
+actually, you know, using just text, you
+
+266
+00:08:16,400 --> 00:08:20,240
+can type in an idea of an app or a
+
+267
+00:08:18,560 --> 00:08:22,000
+website you want, it'll build it. The
+
+268
+00:08:20,240 --> 00:08:23,680
+launch strategy for Bolt was like we put
+
+269
+00:08:22,000 --> 00:08:25,120
+out a tweet. Like that was it. There was
+
+270
+00:08:23,680 --> 00:08:26,400
+no blog post. There's no press release.
+
+271
+00:08:25,120 --> 00:08:28,160
+So there's just like a tweet and and
+
+272
+00:08:26,400 --> 00:08:29,759
+that tweet ended up going viral. So what
+
+273
+00:08:28,160 --> 00:08:32,640
+ended up happening is people they saw
+
+274
+00:08:29,759 --> 00:08:34,320
+our tweet, they went to bolt.new, typed
+
+275
+00:08:32,640 --> 00:08:36,560
+in the idea of a website or whatever
+
+276
+00:08:34,320 --> 00:08:38,800
+that they wanted to make, hit enter, and
+
+277
+00:08:36,560 --> 00:08:40,719
+30 seconds later they had a a web
+
+278
+00:08:38,800 --> 00:08:43,120
+application ready to go. In the first
+
+279
+00:08:40,719 --> 00:08:44,399
+day, I think we added like 60K. I
+
+280
+00:08:43,120 --> 00:08:46,399
+remember one of our engineers was like,
+
+281
+00:08:44,399 --> 00:08:47,920
+"Guys, we added 60K today. Oh my god."
+
+282
+00:08:46,399 --> 00:08:49,279
+And you I jumped in was like, "Yep, it's
+
+283
+00:08:47,920 --> 00:08:50,800
+cool, but like this is, you know, this
+
+284
+00:08:49,279 --> 00:08:52,720
+is like launch day. This is going to go
+
+285
+00:08:50,800 --> 00:08:55,600
+away." And that didn't happen. Every
+
+286
+00:08:52,720 --> 00:08:57,680
+single day, we kept adding more and more
+
+287
+00:08:55,600 --> 00:09:00,320
+ARR. In the first 2 months, we went from
+
+288
+00:08:57,680 --> 00:09:02,080
+0 to 20 million of ARR. Everyone we were
+
+289
+00:09:00,320 --> 00:09:04,640
+talking to had never seen anything like
+
+290
+00:09:02,080 --> 00:09:10,920
+it. It was, I mean, just an unbelievable
+
+291
+00:09:04,640 --> 00:09:10,920
+shift in the destiny of of our company.
+
+292
+00:09:11,279 --> 00:09:15,680
+This episode is sponsored by Atio, the
+
+293
+00:09:13,519 --> 00:09:18,160
+AI native CRM for the next era of
+
+294
+00:09:15,680 --> 00:09:20,240
+companies. Connect your email and ATIO
+
+295
+00:09:18,160 --> 00:09:22,800
+instantly builds your CRM right before
+
+296
+00:09:20,240 --> 00:09:24,880
+your eyes with every company contact and
+
+297
+00:09:22,800 --> 00:09:27,279
+interaction you've ever had enriched and
+
+298
+00:09:24,880 --> 00:09:29,360
+organized. As an entrepreneur, every
+
+299
+00:09:27,279 --> 00:09:31,519
+email and meeting is an opportunity to
+
+300
+00:09:29,360 --> 00:09:33,440
+learn more about your client. ATO helps
+
+301
+00:09:31,519 --> 00:09:35,040
+you do just that. ATO's call
+
+302
+00:09:33,440 --> 00:09:37,040
+intelligence feature records your
+
+303
+00:09:35,040 --> 00:09:39,440
+meetings and gives you AI insights both
+
+304
+00:09:37,040 --> 00:09:41,440
+during and after your customer calls.
+
+305
+00:09:39,440 --> 00:09:43,440
+That's not all. You can use the AI
+
+306
+00:09:41,440 --> 00:09:45,519
+research agents to qualify leads,
+
+307
+00:09:43,440 --> 00:09:47,760
+identify expansion opportunities, and
+
+308
+00:09:45,519 --> 00:09:49,839
+more. You can then build AI powered
+
+309
+00:09:47,760 --> 00:09:52,080
+automations to tackle some of your most
+
+310
+00:09:49,839 --> 00:09:54,160
+complex business processes, allowing you
+
+311
+00:09:52,080 --> 00:09:56,240
+to focus on what's important, building
+
+312
+00:09:54,160 --> 00:09:58,160
+key relationships while ATIO does the
+
+313
+00:09:56,240 --> 00:10:00,080
+rest. Join thousands of companies who
+
+314
+00:09:58,160 --> 00:10:02,240
+are already using Atto to power their
+
+315
+00:10:00,080 --> 00:10:04,080
+businesses. Visit the link in the
+
+316
+00:10:02,240 --> 00:10:07,720
+description to begin your twoe free
+
+317
+00:10:04,080 --> 00:10:07,720
+trial with Atio.
+
+318
+00:10:15,519 --> 00:10:19,839
+So I'd actually had the idea for Bolt
+
+319
+00:10:17,519 --> 00:10:21,839
+about a year ago, February of 24. At
+
+320
+00:10:19,839 --> 00:10:23,839
+that time, the Frontier models like
+
+321
+00:10:21,839 --> 00:10:25,040
+OpenAI or whatever have you. You we had
+
+322
+00:10:23,839 --> 00:10:26,480
+actually tried to build a prototype with
+
+323
+00:10:25,040 --> 00:10:28,560
+Bolt. We spent a couple of weeks doing
+
+324
+00:10:26,480 --> 00:10:30,000
+that. What we ended up finding was the
+
+325
+00:10:28,560 --> 00:10:31,360
+output just was not good enough. Like
+
+326
+00:10:30,000 --> 00:10:33,200
+you would tell it to build an app and it
+
+327
+00:10:31,360 --> 00:10:34,480
+just oftent times it would be broken or
+
+328
+00:10:33,200 --> 00:10:35,839
+it wouldn't look good. it wouldn't
+
+329
+00:10:34,480 --> 00:10:37,920
+function properly, which kind of like
+
+330
+00:10:35,839 --> 00:10:38,880
+ruins the experience. So, we we put that
+
+331
+00:10:37,920 --> 00:10:40,399
+project on the shelf and we're like,
+
+332
+00:10:38,880 --> 00:10:42,240
+"Okay, maybe we'll come back to this at
+
+333
+00:10:40,399 --> 00:10:44,800
+some point in the future when when these
+
+334
+00:10:42,240 --> 00:10:46,959
+AI models get better." Back in May, we
+
+335
+00:10:44,800 --> 00:10:50,240
+just so happened to kind of get a sneak
+
+336
+00:10:46,959 --> 00:10:53,120
+preview of the new stuff that was coming
+
+337
+00:10:50,240 --> 00:10:55,120
+from Enthropic with Sonnet 3.5 coding
+
+338
+00:10:53,120 --> 00:10:57,120
+model that has changed software
+
+339
+00:10:55,120 --> 00:10:58,480
+development period. You we got a kind of
+
+340
+00:10:57,120 --> 00:10:59,839
+sneak peek of it and we were like, "This
+
+341
+00:10:58,480 --> 00:11:01,519
+is good. I mean, this is going to change
+
+342
+00:10:59,839 --> 00:11:03,760
+everything we think." And so we kind of
+
+343
+00:11:01,519 --> 00:11:05,839
+pulled the pulled bull off the shelf and
+
+344
+00:11:03,760 --> 00:11:07,600
+yeah took the the latest APIs from
+
+345
+00:11:05,839 --> 00:11:09,920
+Enthropic pulled them together and
+
+346
+00:11:07,600 --> 00:11:12,240
+launched it within 90 days of that back
+
+347
+00:11:09,920 --> 00:11:13,680
+after chatbt had launched a lot of
+
+348
+00:11:12,240 --> 00:11:16,000
+companies were just kind of like adding
+
+349
+00:11:13,680 --> 00:11:17,440
+AI stuff to their products and not even
+
+350
+00:11:16,000 --> 00:11:19,040
+in a very thoughtful way but it was kind
+
+351
+00:11:17,440 --> 00:11:20,800
+of like people just wanted to be like
+
+352
+00:11:19,040 --> 00:11:22,480
+relevant and kind of you know show that
+
+353
+00:11:20,800 --> 00:11:23,600
+they were had an AI strategy and we
+
+354
+00:11:22,480 --> 00:11:25,760
+didn't cuz we were just like we don't
+
+355
+00:11:23,600 --> 00:11:27,279
+see the value of this. it's not clear
+
+356
+00:11:25,760 --> 00:11:30,160
+how this is actually going to make the
+
+357
+00:11:27,279 --> 00:11:32,480
+experience that much better, right? And
+
+358
+00:11:30,160 --> 00:11:35,120
+all of our competitors went were you
+
+359
+00:11:32,480 --> 00:11:36,800
+churning on AI ideas. We held off u
+
+360
+00:11:35,120 --> 00:11:38,399
+because we just didn't see we didn't
+
+361
+00:11:36,800 --> 00:11:40,000
+have conviction on it. I think in in
+
+362
+00:11:38,399 --> 00:11:42,240
+retrospect the right move and when we
+
+363
+00:11:40,000 --> 00:11:44,480
+did find the right thing, we went all
+
+364
+00:11:42,240 --> 00:11:45,600
+in. And you kind of look at like the
+
+365
+00:11:44,480 --> 00:11:47,519
+competitors that we were going up
+
+366
+00:11:45,600 --> 00:11:49,600
+against then versus now it's like a lot
+
+367
+00:11:47,519 --> 00:11:51,600
+of them have either shut down some of
+
+368
+00:11:49,600 --> 00:11:54,399
+them have kind of started to pivot to AI
+
+369
+00:11:51,600 --> 00:11:56,320
+but like from like a user and revenue
+
+370
+00:11:54,399 --> 00:11:59,560
+perspective it's like bolt is the number
+
+371
+00:11:56,320 --> 00:11:59,560
+one thing
+
+372
+00:12:01,040 --> 00:12:07,680
+you know we get thousands of emails and
+
+373
+00:12:04,560 --> 00:12:09,680
+tickets and tweets and etc per day
+
+374
+00:12:07,680 --> 00:12:12,399
+sorting the the signal from the noise is
+
+375
+00:12:09,680 --> 00:12:14,160
+is you know very difficult challenge But
+
+376
+00:12:12,399 --> 00:12:16,240
+one of the things we really invested in
+
+377
+00:12:14,160 --> 00:12:18,240
+early on with Bolt was like community.
+
+378
+00:12:16,240 --> 00:12:20,399
+Like we have a very great community
+
+379
+00:12:18,240 --> 00:12:22,240
+around Bolt where you know folks really
+
+380
+00:12:20,399 --> 00:12:24,079
+love the product and there's these
+
+381
+00:12:22,240 --> 00:12:26,160
+people that that are really smart,
+
+382
+00:12:24,079 --> 00:12:27,519
+genuine, awesome folks that have stepped
+
+383
+00:12:26,160 --> 00:12:29,200
+up and really became like kind of
+
+384
+00:12:27,519 --> 00:12:30,320
+leaders in this community. Yeah. So
+
+385
+00:12:29,200 --> 00:12:32,399
+that's really how we've been able to
+
+386
+00:12:30,320 --> 00:12:34,240
+scale the both the support but also the
+
+387
+00:12:32,399 --> 00:12:35,680
+product feedback function because these
+
+388
+00:12:34,240 --> 00:12:37,920
+are folks that are like in our Discord
+
+389
+00:12:35,680 --> 00:12:39,360
+or Reddit or Twitter or whatever and
+
+390
+00:12:37,920 --> 00:12:41,040
+they're hearing what people are running
+
+391
+00:12:39,360 --> 00:12:42,079
+into. then they themselves might be
+
+392
+00:12:41,040 --> 00:12:43,600
+running into it and they'll and they'll
+
+393
+00:12:42,079 --> 00:12:45,200
+be like, "Hey, this is something we're
+
+394
+00:12:43,600 --> 00:12:47,200
+hearing a lot of. Here's maybe how you
+
+395
+00:12:45,200 --> 00:12:49,120
+you guys go about fixing it, etc." And
+
+396
+00:12:47,200 --> 00:12:50,399
+we also have people on our team who, you
+
+397
+00:12:49,120 --> 00:12:52,800
+know, we've hired in a couple of folks
+
+398
+00:12:50,399 --> 00:12:54,480
+who their entire job is just talking to
+
+399
+00:12:52,800 --> 00:12:56,480
+our users, helping them get unstuck with
+
+400
+00:12:54,480 --> 00:12:57,519
+stuff, hearing their feedback, etc. And
+
+401
+00:12:56,480 --> 00:12:59,839
+so, I think that's really the only way
+
+402
+00:12:57,519 --> 00:13:01,760
+you can meaningfully scale, you know,
+
+403
+00:12:59,839 --> 00:13:04,000
+uh, support and and the the full cycle
+
+404
+00:13:01,760 --> 00:13:05,760
+of user feedback is just having great
+
+405
+00:13:04,000 --> 00:13:07,920
+people that are in your community or,
+
+406
+00:13:05,760 --> 00:13:09,360
+you know, on your uh, actual core team.
+
+407
+00:13:07,920 --> 00:13:10,480
+That's their entire job and they're all
+
+408
+00:13:09,360 --> 00:13:12,079
+working together. You know, just bring
+
+409
+00:13:10,480 --> 00:13:14,160
+in all the data points, make good
+
+410
+00:13:12,079 --> 00:13:16,560
+decisions, and get the proper things
+
+411
+00:13:14,160 --> 00:13:19,440
+prioritized in the product. We like to
+
+412
+00:13:16,560 --> 00:13:21,200
+work on things that users have
+
+413
+00:13:19,440 --> 00:13:23,760
+specifically either like really asked
+
+414
+00:13:21,200 --> 00:13:25,839
+for where it's a big a big pain point or
+
+415
+00:13:23,760 --> 00:13:28,079
+alternatively, it's something that we've
+
+416
+00:13:25,839 --> 00:13:30,880
+validated that people want. I think it's
+
+417
+00:13:28,079 --> 00:13:31,920
+very easy for entrepreneurs and yeah,
+
+418
+00:13:30,880 --> 00:13:33,360
+people that are maybe early in their
+
+419
+00:13:31,920 --> 00:13:35,040
+product career to kind of have lots of
+
+420
+00:13:33,360 --> 00:13:36,560
+cool ideas about things they could build
+
+421
+00:13:35,040 --> 00:13:39,120
+and whatever that are not really
+
+422
+00:13:36,560 --> 00:13:41,600
+attached to the reality of the actual
+
+423
+00:13:39,120 --> 00:13:43,120
+end user customer using the product,
+
+424
+00:13:41,600 --> 00:13:44,240
+what they're trying to do with it, the
+
+425
+00:13:43,120 --> 00:13:46,000
+challenges they're currently running
+
+426
+00:13:44,240 --> 00:13:47,279
+into with it. And so a lot of this comes
+
+427
+00:13:46,000 --> 00:13:48,639
+down to just experience and like
+
+428
+00:13:47,279 --> 00:13:50,000
+fortunately we've been doing this for a
+
+429
+00:13:48,639 --> 00:13:51,680
+long time. Like my co-founder and I have
+
+430
+00:13:50,000 --> 00:13:53,839
+been building stuff for almost 20 years.
+
+431
+00:13:51,680 --> 00:13:55,120
+You know, having a good sense of these
+
+432
+00:13:53,839 --> 00:13:56,800
+are cool ideas, but we should probably
+
+433
+00:13:55,120 --> 00:13:58,480
+get to them later. These are really
+
+434
+00:13:56,800 --> 00:13:59,920
+important ideas. We should do them now.
+
+435
+00:13:58,480 --> 00:14:01,519
+These are really important high priority
+
+436
+00:13:59,920 --> 00:14:05,399
+things. They need to be fixed and you
+
+437
+00:14:01,519 --> 00:14:05,399
+know uh sorting accordingly
+
+438
+00:14:07,360 --> 00:14:10,000
+and and one of the interesting things
+
+439
+00:14:08,560 --> 00:14:12,160
+too actually about what we did is we
+
+440
+00:14:10,000 --> 00:14:14,000
+actually open sourced the core version
+
+441
+00:14:12,160 --> 00:14:15,680
+of bullet when we launched and like even
+
+442
+00:14:14,000 --> 00:14:17,680
+today it's like I think it's like the
+
+443
+00:14:15,680 --> 00:14:19,519
+most popular AI product you know by
+
+444
+00:14:17,680 --> 00:14:20,880
+users of revenue that actually has an
+
+445
+00:14:19,519 --> 00:14:23,279
+open source version. Like there's
+
+446
+00:14:20,880 --> 00:14:25,120
+nothing else out there that really has
+
+447
+00:14:23,279 --> 00:14:26,560
+that other than us. But it was clear to
+
+448
+00:14:25,120 --> 00:14:28,079
+us was like this is this is knowledge
+
+449
+00:14:26,560 --> 00:14:30,399
+that someone's going to open source this
+
+450
+00:14:28,079 --> 00:14:32,320
+at some point and we think it'll just be
+
+451
+00:14:30,399 --> 00:14:34,399
+actually a lot better for us and the AI
+
+452
+00:14:32,320 --> 00:14:36,639
+model providers etc. if this is
+
+453
+00:14:34,399 --> 00:14:38,880
+available for people to try out and fork
+
+454
+00:14:36,639 --> 00:14:40,399
+and improve and whatever have you which
+
+455
+00:14:38,880 --> 00:14:42,720
+ended up being a really key decision cuz
+
+456
+00:14:40,399 --> 00:14:43,839
+a lot of people use Bolt because they
+
+457
+00:14:42,720 --> 00:14:46,000
+can play around with the open source
+
+458
+00:14:43,839 --> 00:14:48,000
+version and fork fork it and make it
+
+459
+00:14:46,000 --> 00:14:50,480
+better and you know whatever have you.
+
+460
+00:14:48,000 --> 00:14:52,480
+We've invested a ton in the open- source
+
+461
+00:14:50,480 --> 00:14:54,800
+world in large part because like our
+
+462
+00:14:52,480 --> 00:14:57,040
+product really wouldn't work without
+
+463
+00:14:54,800 --> 00:14:58,480
+amazing open source software that's been
+
+464
+00:14:57,040 --> 00:15:00,800
+built for web development and and
+
+465
+00:14:58,480 --> 00:15:02,639
+otherwise. For us, it's you it's also
+
+466
+00:15:00,800 --> 00:15:04,320
+really important that that those people
+
+467
+00:15:02,639 --> 00:15:06,079
+building different web development tool
+
+468
+00:15:04,320 --> 00:15:08,160
+chains like Vit or whatever have you
+
+469
+00:15:06,079 --> 00:15:09,519
+also care about us and they want to make
+
+470
+00:15:08,160 --> 00:15:11,519
+sure that their these open source
+
+471
+00:15:09,519 --> 00:15:13,040
+projects work well in our technology and
+
+472
+00:15:11,519 --> 00:15:14,800
+our environment. And that's been really
+
+473
+00:15:13,040 --> 00:15:17,440
+key for us. Yeah, we became the largest
+
+474
+00:15:14,800 --> 00:15:19,279
+backer of Vit back in 2021. We have
+
+475
+00:15:17,440 --> 00:15:21,440
+multiple people on our team that all
+
+476
+00:15:19,279 --> 00:15:23,360
+they do is work on open source full-time
+
+477
+00:15:21,440 --> 00:15:25,279
+you. So I think uh developers love our
+
+478
+00:15:23,360 --> 00:15:27,600
+products. I think in some part because
+
+479
+00:15:25,279 --> 00:15:30,079
+we genuinely care about open source and
+
+480
+00:15:27,600 --> 00:15:31,839
+ensuring that folks uh working on open
+
+481
+00:15:30,079 --> 00:15:33,440
+source get compensated and have a way to
+
+482
+00:15:31,839 --> 00:15:36,839
+actually continue working on it in a
+
+483
+00:15:33,440 --> 00:15:36,839
+sustainable way.
+
+484
+00:15:38,480 --> 00:15:42,880
+I I think the only way I learned how to
+
+485
+00:15:40,720 --> 00:15:44,959
+determine when it was time to pivot
+
+486
+00:15:42,880 --> 00:15:47,040
+versus time to iterate was just trying a
+
+487
+00:15:44,959 --> 00:15:48,639
+lot of startup ideas. like that was you
+
+488
+00:15:47,040 --> 00:15:50,800
+over the course of like a decade through
+
+489
+00:15:48,639 --> 00:15:52,959
+that I kind of I I ended up building a
+
+490
+00:15:50,800 --> 00:15:54,639
+good gut instinct of when when we were
+
+491
+00:15:52,959 --> 00:15:56,240
+kind of at the end of the line on a
+
+492
+00:15:54,639 --> 00:15:57,600
+certain idea and it was like okay we
+
+493
+00:15:56,240 --> 00:16:00,079
+need to like pivot and try something
+
+494
+00:15:57,600 --> 00:16:02,560
+else instead. So my recommendation would
+
+495
+00:16:00,079 --> 00:16:04,800
+be to to if you think you need to go
+
+496
+00:16:02,560 --> 00:16:06,079
+deep on something and go along, do it.
+
+497
+00:16:04,800 --> 00:16:07,199
+And typically you're gonna you're you're
+
+498
+00:16:06,079 --> 00:16:08,720
+eventually going to find out one way or
+
+499
+00:16:07,199 --> 00:16:09,920
+the other if you were right or wrong and
+
+500
+00:16:08,720 --> 00:16:11,199
+then you learn from that. And and then
+
+501
+00:16:09,920 --> 00:16:13,040
+then if you were wrong, if you're like,
+
+502
+00:16:11,199 --> 00:16:14,639
+"Hey, we went really deep and it didn't
+
+503
+00:16:13,040 --> 00:16:17,199
+pan out." You have to just take that as
+
+504
+00:16:14,639 --> 00:16:18,720
+a lesson as part of the journey. When I
+
+505
+00:16:17,199 --> 00:16:20,959
+was younger and heard people give the
+
+506
+00:16:18,720 --> 00:16:22,639
+advice that I'm giving right now, the
+
+507
+00:16:20,959 --> 00:16:25,519
+takeaway that I would take then was
+
+508
+00:16:22,639 --> 00:16:26,959
+okay, so just don't give up like like no
+
+509
+00:16:25,519 --> 00:16:28,560
+matter what, just kind of like hold on
+
+510
+00:16:26,959 --> 00:16:29,759
+to this idea and don't give up, which is
+
+511
+00:16:28,560 --> 00:16:31,600
+like like I think generally
+
+512
+00:16:29,759 --> 00:16:33,519
+directionally good advice. But there's
+
+513
+00:16:31,600 --> 00:16:35,680
+actually like kind of a line where you
+
+514
+00:16:33,519 --> 00:16:38,079
+have to learn how to be intellectually
+
+515
+00:16:35,680 --> 00:16:40,720
+honest with yourself and it's like am I
+
+516
+00:16:38,079 --> 00:16:42,560
+am I not giving up because because
+
+517
+00:16:40,720 --> 00:16:44,160
+that's what people say you should do or
+
+518
+00:16:42,560 --> 00:16:46,240
+am I not giving up because I actually
+
+519
+00:16:44,160 --> 00:16:49,040
+really like I have conviction in this
+
+520
+00:16:46,240 --> 00:16:51,199
+and like I just want to see this I I
+
+521
+00:16:49,040 --> 00:16:52,560
+really want to see this made possible
+
+522
+00:16:51,199 --> 00:16:53,680
+and then seeing it all the way through
+
+523
+00:16:52,560 --> 00:16:54,720
+right cuz I think when you're when
+
+524
+00:16:53,680 --> 00:16:56,480
+you're starting and you're trying to
+
+525
+00:16:54,720 --> 00:16:57,839
+find that passion in that's kind of one
+
+526
+00:16:56,480 --> 00:16:59,600
+challenge and then the other side of is
+
+527
+00:16:57,839 --> 00:17:01,199
+you know we saw which is okay we built
+
+528
+00:16:59,600 --> 00:17:02,800
+this amazing thing Now, how do you
+
+529
+00:17:01,199 --> 00:17:04,240
+actually turn into a business? The
+
+530
+00:17:02,800 --> 00:17:05,839
+important part there is, you know, when
+
+531
+00:17:04,240 --> 00:17:07,600
+you're driving through hell, don't stop.
+
+532
+00:17:05,839 --> 00:17:10,640
+If you're going to go and and build a
+
+533
+00:17:07,600 --> 00:17:12,720
+business, go and try all the way through
+
+534
+00:17:10,640 --> 00:17:14,880
+and don't leave any stones unturned
+
+535
+00:17:12,720 --> 00:17:17,199
+because what you don't want then is to
+
+536
+00:17:14,880 --> 00:17:18,880
+look back and go, "Ah, man, we had this
+
+537
+00:17:17,199 --> 00:17:20,799
+really cool thing. I think it could have
+
+538
+00:17:18,880 --> 00:17:22,880
+been really, really important, but we
+
+539
+00:17:20,799 --> 00:17:24,880
+didn't actually we didn't do a full core
+
+540
+00:17:22,880 --> 00:17:26,959
+press and really make sure that we
+
+541
+00:17:24,880 --> 00:17:30,679
+exhausted all options before, you know,
+
+542
+00:17:26,959 --> 00:17:30,679
+spinning down or whatever.
+
+543
+00:17:32,320 --> 00:17:37,679
+AI's impact on software development is
+
+544
+00:17:35,919 --> 00:17:39,760
+uh I mean huge like I think I think it's
+
+545
+00:17:37,679 --> 00:17:41,919
+it's clear at this point that software
+
+546
+00:17:39,760 --> 00:17:44,880
+development is going to be probably the
+
+547
+00:17:41,919 --> 00:17:46,880
+number one application of AI that as far
+
+548
+00:17:44,880 --> 00:17:48,400
+as like a high leverage uh high impact
+
+549
+00:17:46,880 --> 00:17:50,240
+high revenue sort of thing. All the
+
+550
+00:17:48,400 --> 00:17:53,679
+world's software I think is going to be
+
+551
+00:17:50,240 --> 00:17:54,640
+meaningfully written by AI in years. I
+
+552
+00:17:53,679 --> 00:17:56,320
+think I think probably you know
+
+553
+00:17:54,640 --> 00:17:57,760
+singledigit sort of years. That doesn't
+
+554
+00:17:56,320 --> 00:17:59,039
+mean that software developers are going
+
+555
+00:17:57,760 --> 00:18:00,240
+away. There's a lot of things in
+
+556
+00:17:59,039 --> 00:18:02,720
+software development that are just
+
+557
+00:18:00,240 --> 00:18:04,880
+monotonous and not intellectually
+
+558
+00:18:02,720 --> 00:18:06,080
+challenging, right? It's just common
+
+559
+00:18:04,880 --> 00:18:08,080
+stuff that you're having to do to build
+
+560
+00:18:06,080 --> 00:18:09,600
+an application and AI just kind of
+
+561
+00:18:08,080 --> 00:18:11,120
+obliterates all that. Can just take care
+
+562
+00:18:09,600 --> 00:18:12,960
+of all that stuff for you so you can
+
+563
+00:18:11,120 --> 00:18:14,799
+actually work on like more complicated
+
+564
+00:18:12,960 --> 00:18:16,480
+high high value intellectually
+
+565
+00:18:14,799 --> 00:18:17,679
+challenging sort of tasks. And so I
+
+566
+00:18:16,480 --> 00:18:19,120
+think we're continue to see more and
+
+567
+00:18:17,679 --> 00:18:20,880
+more of that, right? We're see more and
+
+568
+00:18:19,120 --> 00:18:23,120
+more software built and it's also it's
+
+569
+00:18:20,880 --> 00:18:24,559
+enabling people to that are not software
+
+570
+00:18:23,120 --> 00:18:26,160
+developers to actually go and build
+
+571
+00:18:24,559 --> 00:18:28,000
+software, right? Whether you have an
+
+572
+00:18:26,160 --> 00:18:29,919
+idea for a website or an app like you
+
+573
+00:18:28,000 --> 00:18:32,880
+can go to Bolt today and do that. The
+
+574
+00:18:29,919 --> 00:18:34,720
+next 5 years of Bolt I think is it's
+
+575
+00:18:32,880 --> 00:18:37,360
+it's going to be something that from the
+
+576
+00:18:34,720 --> 00:18:39,840
+Fortune 100 to 10year-olds people are
+
+577
+00:18:37,360 --> 00:18:42,400
+building the future of how you you know
+
+578
+00:18:39,840 --> 00:18:44,400
+stream movies online, how you check your
+
+579
+00:18:42,400 --> 00:18:46,400
+bank account using a mobile app to a
+
+580
+00:18:44,400 --> 00:18:47,840
+game that a 10-year-old had the idea of,
+
+581
+00:18:46,400 --> 00:18:49,200
+right? All these things and some of that
+
+582
+00:18:47,840 --> 00:18:51,440
+stuff you can even do now with Folk,
+
+583
+00:18:49,200 --> 00:18:52,480
+right? But the the quality and the scale
+
+584
+00:18:51,440 --> 00:18:54,799
+of which you're going to be able to do
+
+585
+00:18:52,480 --> 00:18:56,640
+this stuff is going to be giant, right?
+
+586
+00:18:54,799 --> 00:18:59,640
+compared to to what you can do now.
+
+587
+00:18:56,640 --> 00:18:59,640
+Yeah.
+

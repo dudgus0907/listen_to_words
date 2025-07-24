@@ -1,0 +1,1520 @@
+1
+00:00:00,040 --> 00:00:02,960
+every startup's biggest Advantage is
+
+2
+00:00:01,439 --> 00:00:04,480
+you're obviously able to move quicker a
+
+3
+00:00:02,960 --> 00:00:05,879
+VC might ask you it's like okay what
+
+4
+00:00:04,480 --> 00:00:08,040
+what do you do when Google starts doing
+
+5
+00:00:05,879 --> 00:00:09,639
+this honestly a lot of our advisers or
+
+6
+00:00:08,040 --> 00:00:10,960
+investors were telling us hey support is
+
+7
+00:00:09,639 --> 00:00:13,160
+going to be too crowded it's like such
+
+8
+00:00:10,960 --> 00:00:15,799
+an obvious idea my name is Jesse I'm one
+
+9
+00:00:13,160 --> 00:00:17,920
+of the co-founders here at deagon deagon
+
+10
+00:00:15,799 --> 00:00:19,760
+builds AI agents primarily for large
+
+11
+00:00:17,920 --> 00:00:21,439
+corporations on the customer support
+
+12
+00:00:19,760 --> 00:00:24,480
+customer experience side as a team we're
+
+13
+00:00:21,439 --> 00:00:25,920
+able to hit seven figures ARR in about 6
+
+14
+00:00:24,480 --> 00:00:27,920
+months and uh have been growing quickly
+
+15
+00:00:25,920 --> 00:00:30,039
+since then we're always just looking for
+
+16
+00:00:27,920 --> 00:00:32,490
+more customers more folks to work with
+
+17
+00:00:30,039 --> 00:00:37,760
+and we're growing the team as
+
+18
+00:00:32,490 --> 00:00:40,200
+[Music]
+
+19
+00:00:37,760 --> 00:00:42,320
+well I was born and raised in Boulder
+
+20
+00:00:40,200 --> 00:00:44,360
+Colorado I grew up doing a lot of things
+
+21
+00:00:42,320 --> 00:00:46,239
+like math contests science research
+
+22
+00:00:44,360 --> 00:00:47,640
+stuff like that and I ended up studying
+
+23
+00:00:46,239 --> 00:00:49,039
+computer science at Harvard I would say
+
+24
+00:00:47,640 --> 00:00:51,239
+I was very focused on trying to build
+
+25
+00:00:49,039 --> 00:00:53,480
+something and so most of the time I
+
+26
+00:00:51,239 --> 00:00:55,120
+spent outside of classes was towards
+
+27
+00:00:53,480 --> 00:00:56,359
+like learning how to build things
+
+28
+00:00:55,120 --> 00:00:58,199
+talking to my friends about building
+
+29
+00:00:56,359 --> 00:00:59,760
+things I finished College fast for a
+
+30
+00:00:58,199 --> 00:01:01,480
+bunch of different reasons I thought
+
+31
+00:00:59,760 --> 00:01:03,199
+that I had already gained what I needed
+
+32
+00:01:01,480 --> 00:01:05,080
+to from from college and I was excited
+
+33
+00:01:03,199 --> 00:01:06,520
+to just start building things and so at
+
+34
+00:01:05,080 --> 00:01:08,240
+Harvard there's a program that allows
+
+35
+00:01:06,520 --> 00:01:10,280
+you to graduate a year early pretty
+
+36
+00:01:08,240 --> 00:01:11,960
+easily after Harvard I started my first
+
+37
+00:01:10,280 --> 00:01:14,200
+company it was a very different startup
+
+38
+00:01:11,960 --> 00:01:16,680
+we eventually got acquired by Niantic
+
+39
+00:01:14,200 --> 00:01:18,159
+then decided to start this company so
+
+40
+00:01:16,680 --> 00:01:20,680
+specifically the problem we're solving
+
+41
+00:01:18,159 --> 00:01:23,560
+is a lot of these companies have very
+
+42
+00:01:20,680 --> 00:01:25,680
+large not that efficient operations in
+
+43
+00:01:23,560 --> 00:01:27,880
+terms of answering customer questions
+
+44
+00:01:25,680 --> 00:01:30,119
+looking up data dealing with tickets and
+
+45
+00:01:27,880 --> 00:01:31,920
+many of them will Outsource to large you
+
+46
+00:01:30,119 --> 00:01:33,560
+know bpos and things like that to have a
+
+47
+00:01:31,920 --> 00:01:34,880
+lot of human agents answering and so if
+
+48
+00:01:33,560 --> 00:01:36,880
+you're able to use some of the new
+
+49
+00:01:34,880 --> 00:01:38,880
+generative AI technology you're able to
+
+50
+00:01:36,880 --> 00:01:40,920
+automate and just improve the customer
+
+51
+00:01:38,880 --> 00:01:42,560
+experience by answering all of these
+
+52
+00:01:40,920 --> 00:01:44,200
+questions automatically looking up data
+
+53
+00:01:42,560 --> 00:01:46,000
+automatically doing all the sort of
+
+54
+00:01:44,200 --> 00:01:47,360
+things that a human agent would do every
+
+55
+00:01:46,000 --> 00:01:48,960
+startup's biggest Advantage is you're
+
+56
+00:01:47,360 --> 00:01:51,159
+obviously able to move quicker you can
+
+57
+00:01:48,960 --> 00:01:53,000
+kind of cater towards the customers a
+
+58
+00:01:51,159 --> 00:01:54,719
+lot more and make sure that you really
+
+59
+00:01:53,000 --> 00:01:56,039
+capture their needs a VC might ask you
+
+60
+00:01:54,719 --> 00:01:57,680
+it's like okay what what do you do when
+
+61
+00:01:56,039 --> 00:01:59,439
+Google starts doing this honestly a lot
+
+62
+00:01:57,680 --> 00:02:00,799
+of our advisors or investors were
+
+63
+00:01:59,439 --> 00:02:02,360
+telling us hey support is going to be
+
+64
+00:02:00,799 --> 00:02:04,000
+too crowded it's like such an obvious
+
+65
+00:02:02,360 --> 00:02:05,799
+idea but on the flip side that's also a
+
+66
+00:02:04,000 --> 00:02:08,000
+great a good thing because it allows you
+
+67
+00:02:05,799 --> 00:02:09,679
+to get to adoption very quickly because
+
+68
+00:02:08,000 --> 00:02:11,120
+our customers also see the value when
+
+69
+00:02:09,679 --> 00:02:12,400
+they start using it they immediately get
+
+70
+00:02:11,120 --> 00:02:13,599
+Roi this is what our customers are
+
+71
+00:02:12,400 --> 00:02:14,680
+telling us our customers are telling us
+
+72
+00:02:13,599 --> 00:02:15,920
+that there's need here that they're
+
+73
+00:02:14,680 --> 00:02:17,680
+willing to pay for a solution if it
+
+74
+00:02:15,920 --> 00:02:18,800
+works and so that's kind of what led us
+
+75
+00:02:17,680 --> 00:02:20,560
+there that's also what's made us
+
+76
+00:02:18,800 --> 00:02:23,360
+successful in terms of competing against
+
+77
+00:02:20,560 --> 00:02:25,640
+the older generation of chat Bots
+
+78
+00:02:23,360 --> 00:02:28,000
+because if our customers were happy with
+
+79
+00:02:25,640 --> 00:02:29,360
+those then they wouldn't have told us in
+
+80
+00:02:28,000 --> 00:02:30,920
+the first place they wouldn't have even
+
+81
+00:02:29,360 --> 00:02:32,560
+mentioned that hey we're willing to try
+
+82
+00:02:30,920 --> 00:02:34,920
+you out and so we're able to basically
+
+83
+00:02:32,560 --> 00:02:36,879
+capture a lot of the newer needs and a
+
+84
+00:02:34,920 --> 00:02:38,000
+lot of what was not possible before by
+
+85
+00:02:36,879 --> 00:02:40,000
+building from the ground up using
+
+86
+00:02:38,000 --> 00:02:41,319
+generative models a lot of older players
+
+87
+00:02:40,000 --> 00:02:42,560
+they will have a huge product built
+
+88
+00:02:41,319 --> 00:02:43,800
+already and they probably have hundreds
+
+89
+00:02:42,560 --> 00:02:45,319
+of customers and so when they're
+
+90
+00:02:43,800 --> 00:02:47,040
+shipping new features they have to build
+
+91
+00:02:45,319 --> 00:02:49,080
+things that kind of satisfy the average
+
+92
+00:02:47,040 --> 00:02:51,319
+customer they're just slower to adapt
+
+93
+00:02:49,080 --> 00:02:53,080
+because they have to carry along all
+
+94
+00:02:51,319 --> 00:02:55,599
+this product they've already built out
+
+95
+00:02:53,080 --> 00:02:57,319
+so I think when you're a startup like us
+
+96
+00:02:55,599 --> 00:02:59,920
+we've done a good job at executing and
+
+97
+00:02:57,319 --> 00:03:01,599
+so we we move really fast there's been a
+
+98
+00:02:59,920 --> 00:03:03,000
+new technology introduced right large
+
+99
+00:03:01,599 --> 00:03:04,239
+language models if you just think about
+
+100
+00:03:03,000 --> 00:03:05,640
+the more traditional chat Bots where
+
+101
+00:03:04,239 --> 00:03:07,360
+there's some intelligence built in but
+
+102
+00:03:05,640 --> 00:03:09,159
+it's it's not AI it's not generative and
+
+103
+00:03:07,360 --> 00:03:10,519
+if you're able to adapt faster then you
+
+104
+00:03:09,159 --> 00:03:11,720
+have a big Advantage when you're
+
+105
+00:03:10,519 --> 00:03:15,000
+competing against them I think we've
+
+106
+00:03:11,720 --> 00:03:17,040
+just built a better product hi I'm T
+
+107
+00:03:15,000 --> 00:03:18,959
+from if you are enjoying this video
+
+108
+00:03:17,040 --> 00:03:21,599
+you're going to like one of share before
+
+109
+00:03:18,959 --> 00:03:24,120
+founding EO I founded three startups one
+
+110
+00:03:21,599 --> 00:03:26,360
+small sof test and two failures this
+
+111
+00:03:24,120 --> 00:03:28,400
+experience that me to my current Vision
+
+112
+00:03:26,360 --> 00:03:30,640
+empowering more Founders to access their
+
+113
+00:03:28,400 --> 00:03:32,280
+are content and opportunity in growing a
+
+114
+00:03:30,640 --> 00:03:34,239
+startup I wanted to share a free
+
+115
+00:03:32,280 --> 00:03:36,560
+research that I would have loved to have
+
+116
+00:03:34,239 --> 00:03:38,360
+when I was starting out a comprehensive
+
+117
+00:03:36,560 --> 00:03:40,760
+guide to Startup fundraising kit
+
+118
+00:03:38,360 --> 00:03:42,599
+provided by hotspot one of the biggest
+
+119
+00:03:40,760 --> 00:03:44,920
+challenges as a Founder is when you hit
+
+120
+00:03:42,599 --> 00:03:46,680
+that first wall of fundraising you're
+
+121
+00:03:44,920 --> 00:03:49,239
+good at building what you do but
+
+122
+00:03:46,680 --> 00:03:51,439
+convincing investors is an entirely
+
+123
+00:03:49,239 --> 00:03:53,680
+different task this resource is packed
+
+124
+00:03:51,439 --> 00:03:55,599
+with practical strategies on finding
+
+125
+00:03:53,680 --> 00:03:57,760
+investors and building an investor
+
+126
+00:03:55,599 --> 00:04:00,000
+Outreach strategy managing the due
+
+127
+00:03:57,760 --> 00:04:02,079
+diligence process like a pro and my
+
+128
+00:04:00,000 --> 00:04:04,480
+favorite part was the financial planning
+
+129
+00:04:02,079 --> 00:04:06,879
+worksheet simple actionable resource to
+
+130
+00:04:04,480 --> 00:04:09,000
+get me started right away so be sure to
+
+131
+00:04:06,879 --> 00:04:10,799
+check it out download for free and take
+
+132
+00:04:09,000 --> 00:04:12,799
+your startup to the next round and
+
+133
+00:04:10,799 --> 00:04:15,100
+thanks to Hotpot for sponsoring this
+
+134
+00:04:12,799 --> 00:04:17,160
+video now back to the
+
+135
+00:04:15,100 --> 00:04:20,199
+[Music]
+
+136
+00:04:17,160 --> 00:04:21,840
+story when we first started we were very
+
+137
+00:04:20,199 --> 00:04:23,560
+open-minded uh we were not super
+
+138
+00:04:21,840 --> 00:04:24,880
+opinionated about like this is exactly
+
+139
+00:04:23,560 --> 00:04:27,840
+what we need to build we kind of just
+
+140
+00:04:24,880 --> 00:04:30,000
+let our customers tell us what the need
+
+141
+00:04:27,840 --> 00:04:31,479
+is when you're early it's it's hard to
+
+142
+00:04:30,000 --> 00:04:32,919
+have a very coherent strategy you're
+
+143
+00:04:31,479 --> 00:04:34,479
+just trying to get as many customers as
+
+144
+00:04:32,919 --> 00:04:36,440
+possible and so in the early days it was
+
+145
+00:04:34,479 --> 00:04:38,320
+just us trying everything we could to
+
+146
+00:04:36,440 --> 00:04:39,960
+get new customers get new introductions
+
+147
+00:04:38,320 --> 00:04:41,440
+things like that and with each customer
+
+148
+00:04:39,960 --> 00:04:43,039
+we would have the same process of going
+
+149
+00:04:41,440 --> 00:04:44,639
+in and really trying to understand what
+
+150
+00:04:43,039 --> 00:04:47,199
+they needed and what they wanted instead
+
+151
+00:04:44,639 --> 00:04:49,160
+of trying to push like our product
+
+152
+00:04:47,199 --> 00:04:51,080
+Vision on them for a lot of our early
+
+153
+00:04:49,160 --> 00:04:53,199
+customers vanto would be a great example
+
+154
+00:04:51,080 --> 00:04:54,600
+vanto was one of our first customers we
+
+155
+00:04:53,199 --> 00:04:57,120
+just kind of came in with the mindset of
+
+156
+00:04:54,600 --> 00:04:58,880
+hey you may have some issues that uh
+
+157
+00:04:57,120 --> 00:05:01,320
+you're dealing with and we just want to
+
+158
+00:04:58,880 --> 00:05:02,720
+see if we can solve them in a good way
+
+159
+00:05:01,320 --> 00:05:04,840
+and I think if that's your mindset then
+
+160
+00:05:02,720 --> 00:05:06,199
+it makes it easier because you're again
+
+161
+00:05:04,840 --> 00:05:07,919
+putting the customer first and like
+
+162
+00:05:06,199 --> 00:05:09,120
+really being customer-driven fortunately
+
+163
+00:05:07,919 --> 00:05:11,560
+at the time they actually did have a
+
+164
+00:05:09,120 --> 00:05:13,360
+very concrete situation which is around
+
+165
+00:05:11,560 --> 00:05:15,280
+you know having automation to answer
+
+166
+00:05:13,360 --> 00:05:17,280
+customer problems it's a complicated
+
+167
+00:05:15,280 --> 00:05:18,440
+product and so when people come in they
+
+168
+00:05:17,280 --> 00:05:20,520
+have a lot of questions and if you're
+
+169
+00:05:18,440 --> 00:05:22,520
+able to answer them well then customers
+
+170
+00:05:20,520 --> 00:05:25,240
+are happy and they're happy so that's
+
+171
+00:05:22,520 --> 00:05:27,000
+how we got started we were able to ship
+
+172
+00:05:25,240 --> 00:05:29,360
+a initial version very quickly they
+
+173
+00:05:27,000 --> 00:05:31,199
+liked it and then we tested out on on
+
+174
+00:05:29,360 --> 00:05:32,880
+real customers and they liked that as
+
+175
+00:05:31,199 --> 00:05:34,520
+well and so we just went from there for
+
+176
+00:05:32,880 --> 00:05:36,479
+the first 6 months we didn't build
+
+177
+00:05:34,520 --> 00:05:38,120
+anything that wasn't a direct request
+
+178
+00:05:36,479 --> 00:05:39,800
+from one of our customers and now
+
+179
+00:05:38,120 --> 00:05:41,880
+obviously we're slightly farther along
+
+180
+00:05:39,800 --> 00:05:43,520
+so we we have our own views on what
+
+181
+00:05:41,880 --> 00:05:45,800
+makes a good product but we still are
+
+182
+00:05:43,520 --> 00:05:46,840
+extremely customer first we really love
+
+183
+00:05:45,800 --> 00:05:48,240
+talking to our customers they give us a
+
+184
+00:05:46,840 --> 00:05:50,360
+lot of Direction and that's how we
+
+185
+00:05:48,240 --> 00:05:53,199
+approach product
+
+186
+00:05:50,360 --> 00:05:54,560
+building my first company low key was
+
+187
+00:05:53,199 --> 00:05:56,520
+very different from what we're currently
+
+188
+00:05:54,560 --> 00:05:58,319
+building first of all it was a consumer
+
+189
+00:05:56,520 --> 00:06:00,479
+company and so we didn't have pain
+
+190
+00:05:58,319 --> 00:06:02,000
+customers off the bat we were much more
+
+191
+00:06:00,479 --> 00:06:03,400
+concerned about getting users and
+
+192
+00:06:02,000 --> 00:06:05,400
+getting a lot of them very quickly uh
+
+193
+00:06:03,400 --> 00:06:06,880
+what we did was we were building
+
+194
+00:06:05,400 --> 00:06:09,199
+software for people that played video
+
+195
+00:06:06,880 --> 00:06:11,160
+games to capture their Clips edit them
+
+196
+00:06:09,199 --> 00:06:13,360
+share them and just you know explore
+
+197
+00:06:11,160 --> 00:06:15,360
+Clips in general by far it was just
+
+198
+00:06:13,360 --> 00:06:17,160
+being a new grad and not knowing much
+
+199
+00:06:15,360 --> 00:06:19,639
+about stuff I was a solar founder for
+
+200
+00:06:17,160 --> 00:06:21,120
+most of it I didn't really know like
+
+201
+00:06:19,639 --> 00:06:22,919
+what things were important to work on
+
+202
+00:06:21,120 --> 00:06:24,919
+what things weren't I didn't really know
+
+203
+00:06:22,919 --> 00:06:26,520
+how to evaluate of a good idea if an
+
+204
+00:06:24,919 --> 00:06:27,639
+idea was good or not every day you're
+
+205
+00:06:26,520 --> 00:06:29,080
+working hard but maybe you're not
+
+206
+00:06:27,639 --> 00:06:30,759
+working on the right thing and just you
+
+207
+00:06:29,080 --> 00:06:32,599
+know after few months go by it just
+
+208
+00:06:30,759 --> 00:06:34,639
+feels like a lot of the time was wasted
+
+209
+00:06:32,599 --> 00:06:36,840
+so I think that's very natural for
+
+210
+00:06:34,639 --> 00:06:38,039
+firsttime Founders because especially
+
+211
+00:06:36,840 --> 00:06:40,759
+younger ones because you don't really
+
+212
+00:06:38,039 --> 00:06:43,120
+have that perspective what kept me going
+
+213
+00:06:40,759 --> 00:06:44,520
+was more just yeah being young and
+
+214
+00:06:43,120 --> 00:06:46,080
+having a lot of energy and being a
+
+215
+00:06:44,520 --> 00:06:47,240
+little bit naive is also helpful because
+
+216
+00:06:46,080 --> 00:06:48,759
+you don't really have that much
+
+217
+00:06:47,240 --> 00:06:50,599
+perspective on how hard things are or
+
+218
+00:06:48,759 --> 00:06:52,000
+how hard things can be so that that was
+
+219
+00:06:50,599 --> 00:06:54,720
+by far the hardest part for me I think
+
+220
+00:06:52,000 --> 00:06:56,840
+being a consumer um exaggerated that a
+
+221
+00:06:54,720 --> 00:06:58,080
+bit because there is not really like
+
+222
+00:06:56,840 --> 00:06:59,160
+customers paying a lot of money that you
+
+223
+00:06:58,080 --> 00:07:00,720
+can talk to and like all right what do
+
+224
+00:06:59,160 --> 00:07:02,160
+you need I'll build it so that was by
+
+225
+00:07:00,720 --> 00:07:03,800
+far the hardest um once you start
+
+226
+00:07:02,160 --> 00:07:05,520
+scaling of course you know what you're
+
+227
+00:07:03,800 --> 00:07:07,919
+building but there's still that element
+
+228
+00:07:05,520 --> 00:07:09,280
+of okay you know you're at 10,000 users
+
+229
+00:07:07,919 --> 00:07:10,479
+how do you get to 100,000 and once
+
+230
+00:07:09,280 --> 00:07:11,960
+you're at 100,000 users how do you get
+
+231
+00:07:10,479 --> 00:07:13,199
+to a million and the answer for those
+
+232
+00:07:11,960 --> 00:07:15,120
+might not be the same and you have to
+
+233
+00:07:13,199 --> 00:07:17,000
+keep figuring out new things to try and
+
+234
+00:07:15,120 --> 00:07:18,240
+and things like that and then for that
+
+235
+00:07:17,000 --> 00:07:19,440
+company you eventually have to figure
+
+236
+00:07:18,240 --> 00:07:21,280
+out how do you make money so that's a
+
+237
+00:07:19,440 --> 00:07:23,360
+whole another phase yeah for me the
+
+238
+00:07:21,280 --> 00:07:25,080
+first part is definitely the hardest as
+
+239
+00:07:23,360 --> 00:07:26,720
+a Founder you can always overthink
+
+240
+00:07:25,080 --> 00:07:28,039
+things and you can always rationalize
+
+241
+00:07:26,720 --> 00:07:29,160
+different things but at the end of the
+
+242
+00:07:28,039 --> 00:07:30,680
+day it doesn't really matter you just
+
+243
+00:07:29,160 --> 00:07:32,680
+have to get to a point where you have
+
+244
+00:07:30,680 --> 00:07:34,360
+customers that really appreciate and
+
+245
+00:07:32,680 --> 00:07:35,960
+value what you're doing and that speaks
+
+246
+00:07:34,360 --> 00:07:38,400
+for itself in terms of the growth of the
+
+247
+00:07:35,960 --> 00:07:40,199
+business so this time around when we
+
+248
+00:07:38,400 --> 00:07:42,919
+were in the very early stages of
+
+249
+00:07:40,199 --> 00:07:44,560
+building decagon my co-founder Ashwin is
+
+250
+00:07:42,919 --> 00:07:46,440
+very similar background also
+
+251
+00:07:44,560 --> 00:07:48,400
+successfully sold the company before we
+
+252
+00:07:46,440 --> 00:07:50,440
+just decided hey let's not overthink it
+
+253
+00:07:48,400 --> 00:07:51,919
+we just want to go out there and see
+
+254
+00:07:50,440 --> 00:07:53,960
+what people actually want and what
+
+255
+00:07:51,919 --> 00:07:55,639
+they're willing to spend money on and
+
+256
+00:07:53,960 --> 00:07:58,360
+that just made the initial ideation
+
+257
+00:07:55,639 --> 00:08:00,520
+phase much easier uh and we really did
+
+258
+00:07:58,360 --> 00:08:02,120
+not want to spend too many cycles you
+
+259
+00:08:00,520 --> 00:08:03,960
+know going back and forth in that in
+
+260
+00:08:02,120 --> 00:08:06,400
+that stage so I think number one you
+
+261
+00:08:03,960 --> 00:08:08,039
+need to line up a lot of customer calls
+
+262
+00:08:06,400 --> 00:08:09,360
+and so you can get those from asking
+
+263
+00:08:08,039 --> 00:08:10,919
+your friends to introduce you asking
+
+264
+00:08:09,360 --> 00:08:12,680
+your investors to introduce you reaching
+
+265
+00:08:10,919 --> 00:08:15,120
+out cold and once you have them set up
+
+266
+00:08:12,680 --> 00:08:17,039
+you want to make sure the calls are very
+
+267
+00:08:15,120 --> 00:08:19,159
+structured and after you leave the call
+
+268
+00:08:17,039 --> 00:08:20,960
+you feel like you like learn something
+
+269
+00:08:19,159 --> 00:08:22,479
+concrete and so part of that is you know
+
+270
+00:08:20,960 --> 00:08:23,759
+you have an exploratory phase where
+
+271
+00:08:22,479 --> 00:08:25,879
+you're kind of just listening to their
+
+272
+00:08:23,759 --> 00:08:27,400
+problems and seeing like what could
+
+273
+00:08:25,879 --> 00:08:28,599
+possibly be solved and then the next
+
+274
+00:08:27,400 --> 00:08:30,319
+phase of the call is you're generally
+
+275
+00:08:28,599 --> 00:08:32,399
+talking about hypothe IAL Solutions and
+
+276
+00:08:30,319 --> 00:08:34,719
+then the last part of the call is super
+
+277
+00:08:32,399 --> 00:08:36,159
+important to get a sense of like how
+
+278
+00:08:34,719 --> 00:08:37,080
+much people would pay for it because
+
+279
+00:08:36,159 --> 00:08:38,399
+many times you could get in a
+
+280
+00:08:37,080 --> 00:08:40,479
+conversation where people are telling
+
+281
+00:08:38,399 --> 00:08:42,519
+you oh this would be super useful but at
+
+282
+00:08:40,479 --> 00:08:43,880
+the end you know there's no budget or
+
+283
+00:08:42,519 --> 00:08:45,680
+they would only be willing to pay a
+
+284
+00:08:43,880 --> 00:08:47,000
+decent a little amount and how much
+
+285
+00:08:45,680 --> 00:08:49,480
+they're willing to pay for it is the
+
+286
+00:08:47,000 --> 00:08:51,000
+only real metric for how useful it is to
+
+287
+00:08:49,480 --> 00:08:52,200
+them really and so if you're able to
+
+288
+00:08:51,000 --> 00:08:53,399
+have a call like that then after the
+
+289
+00:08:52,200 --> 00:08:55,600
+call you're like okay well we talked
+
+290
+00:08:53,399 --> 00:08:57,760
+about these things and I feel like this
+
+291
+00:08:55,600 --> 00:08:59,279
+would be really useful to them or it'll
+
+292
+00:08:57,760 --> 00:09:01,240
+only be kind of useful to them and once
+
+293
+00:08:59,279 --> 00:09:02,839
+you you've had enough of those calls um
+
+294
+00:09:01,240 --> 00:09:04,480
+that's like the real signal and as I
+
+295
+00:09:02,839 --> 00:09:06,279
+mentioned before people were telling us
+
+296
+00:09:04,480 --> 00:09:08,040
+at the time that customer support agents
+
+297
+00:09:06,279 --> 00:09:09,600
+customer experience is super crowded
+
+298
+00:09:08,040 --> 00:09:10,760
+it's like too obvious of an idea but
+
+299
+00:09:09,600 --> 00:09:12,480
+when we had a lot of these calls that's
+
+300
+00:09:10,760 --> 00:09:14,839
+what people were saying so it just it
+
+301
+00:09:12,480 --> 00:09:17,959
+means that there's a need and people
+
+302
+00:09:14,839 --> 00:09:19,519
+feel like there's Roi there for them to
+
+303
+00:09:17,959 --> 00:09:21,160
+adopt something uh I think when you're
+
+304
+00:09:19,519 --> 00:09:23,160
+young the biggest disadvantage is you
+
+305
+00:09:21,160 --> 00:09:24,600
+just don't know how things work really
+
+306
+00:09:23,160 --> 00:09:25,920
+um you might feel like you're very smart
+
+307
+00:09:24,600 --> 00:09:27,480
+or you can work really hard but you
+
+308
+00:09:25,920 --> 00:09:28,800
+don't really know like how you make
+
+309
+00:09:27,480 --> 00:09:30,720
+revenue or you don't really make know
+
+310
+00:09:28,800 --> 00:09:32,320
+how like companies in general so I think
+
+311
+00:09:30,720 --> 00:09:33,839
+the biggest thing is just uh staying
+
+312
+00:09:32,320 --> 00:09:35,160
+patient with that and trying to talk to
+
+313
+00:09:33,839 --> 00:09:37,000
+as many people as possible to get that
+
+314
+00:09:35,160 --> 00:09:38,320
+intuition the biggest Advantage you have
+
+315
+00:09:37,000 --> 00:09:39,600
+when you're younger is you just you can
+
+316
+00:09:38,320 --> 00:09:41,839
+put a lot of hours in and work really
+
+317
+00:09:39,600 --> 00:09:44,240
+hard I think for me I would just
+
+318
+00:09:41,839 --> 00:09:46,120
+describe the difference between you know
+
+319
+00:09:44,240 --> 00:09:47,920
+a lot of successful entrepreneurs that I
+
+320
+00:09:46,120 --> 00:09:50,200
+know and you know not so successful ones
+
+321
+00:09:47,920 --> 00:09:51,680
+is mainly just like intensity so I think
+
+322
+00:09:50,200 --> 00:09:53,839
+a lot of our friends who have built huge
+
+323
+00:09:51,680 --> 00:09:56,000
+companies or a lot of our advisers or
+
+324
+00:09:53,839 --> 00:09:57,560
+investors uh they all have intensity I
+
+325
+00:09:56,000 --> 00:09:59,519
+think it's impossible to build a big
+
+326
+00:09:57,560 --> 00:10:00,800
+company without intensity and intens
+
+327
+00:09:59,519 --> 00:10:02,120
+just kind of means like you know you're
+
+328
+00:10:00,800 --> 00:10:04,040
+always going you're always pushing you
+
+329
+00:10:02,120 --> 00:10:06,000
+have a very like no excuses attitude
+
+330
+00:10:04,040 --> 00:10:08,480
+where you just get things done and
+
+331
+00:10:06,000 --> 00:10:10,279
+that's what we admire about a lot of the
+
+332
+00:10:08,480 --> 00:10:12,839
+folks who you know help us and that's
+
+333
+00:10:10,279 --> 00:10:14,640
+what we want to have in our DNA as well
+
+334
+00:10:12,839 --> 00:10:16,600
+I don't know if we have the best
+
+335
+00:10:14,640 --> 00:10:19,360
+perspective to give advice on like a
+
+336
+00:10:16,600 --> 00:10:21,720
+global sort of AI Space level I think
+
+337
+00:10:19,360 --> 00:10:23,880
+for us the way we think about it is
+
+338
+00:10:21,720 --> 00:10:25,760
+there's like the core fundamental
+
+339
+00:10:23,880 --> 00:10:27,800
+players who are building new language
+
+340
+00:10:25,760 --> 00:10:29,560
+models and building new infrastructure
+
+341
+00:10:27,800 --> 00:10:31,480
+we of course sit on top of them we we
+
+342
+00:10:29,560 --> 00:10:33,560
+are an application we interface with our
+
+343
+00:10:31,480 --> 00:10:35,000
+end customers if you're building in a
+
+344
+00:10:33,560 --> 00:10:36,839
+space that is deep enough and it's
+
+345
+00:10:35,000 --> 00:10:38,800
+complex enough to have like a bunch of
+
+346
+00:10:36,839 --> 00:10:40,440
+features a bunch of product decisions
+
+347
+00:10:38,800 --> 00:10:42,680
+and a pretty just like a pretty big and
+
+348
+00:10:40,440 --> 00:10:45,760
+deep product no one really is going to
+
+349
+00:10:42,680 --> 00:10:47,560
+be able to replace your application
+
+350
+00:10:45,760 --> 00:10:48,760
+because you know the big players are are
+
+351
+00:10:47,560 --> 00:10:50,040
+building models right they're they're
+
+352
+00:10:48,760 --> 00:10:52,200
+not in the business of building like
+
+353
+00:10:50,040 --> 00:10:53,680
+customer support agents so I think
+
+354
+00:10:52,200 --> 00:10:55,040
+that's one piece which is what you're
+
+355
+00:10:53,680 --> 00:10:57,240
+building has to be deep enough and
+
+356
+00:10:55,040 --> 00:10:58,720
+complex enough for it to like be its own
+
+357
+00:10:57,240 --> 00:11:00,639
+product and be its own company and I
+
+358
+00:10:58,720 --> 00:11:01,839
+think there's a big Advantage when you
+
+359
+00:11:00,639 --> 00:11:03,600
+are the one interfacing with end
+
+360
+00:11:01,839 --> 00:11:05,000
+customers cuz when you're interfacing
+
+361
+00:11:03,600 --> 00:11:06,399
+with end customers you're the actual one
+
+362
+00:11:05,000 --> 00:11:08,200
+that understands their needs and this
+
+363
+00:11:06,399 --> 00:11:10,000
+goes back to what I've said many times
+
+364
+00:11:08,200 --> 00:11:11,279
+which is you have to have a good
+
+365
+00:11:10,000 --> 00:11:12,399
+relationship and a deep relationship
+
+366
+00:11:11,279 --> 00:11:13,680
+with your customers like really
+
+367
+00:11:12,399 --> 00:11:15,360
+understand what they need and everything
+
+368
+00:11:13,680 --> 00:11:17,200
+they say and everything they do gets
+
+369
+00:11:15,360 --> 00:11:19,120
+baked into your product you're the only
+
+370
+00:11:17,200 --> 00:11:21,240
+one that has that right because all the
+
+371
+00:11:19,120 --> 00:11:23,120
+big players and the like Googles of the
+
+372
+00:11:21,240 --> 00:11:24,440
+world the cloud providers like you're
+
+373
+00:11:23,120 --> 00:11:26,680
+building on top of them but they're
+
+374
+00:11:24,440 --> 00:11:28,279
+never going to have that access to the
+
+375
+00:11:26,680 --> 00:11:29,560
+exact customers I think if you're
+
+376
+00:11:28,279 --> 00:11:31,480
+building an application that that's
+
+377
+00:11:29,560 --> 00:11:33,240
+important uh if you're trying to make
+
+378
+00:11:31,480 --> 00:11:35,279
+sure that you know a big a big player
+
+379
+00:11:33,240 --> 00:11:38,440
+doesn't come around and just replicate
+
+380
+00:11:35,279 --> 00:11:38,440
+your product
+

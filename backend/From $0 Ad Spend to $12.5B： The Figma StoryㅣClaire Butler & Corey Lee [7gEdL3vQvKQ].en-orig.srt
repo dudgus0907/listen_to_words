@@ -1,0 +1,2776 @@
+1
+00:00:00,080 --> 00:00:03,840
+So the first day that I joined Figma, I
+
+2
+00:00:02,159 --> 00:00:05,520
+remember I was sitting in a presentation
+
+3
+00:00:03,840 --> 00:00:07,680
+and Dylan was kind of walking me through
+
+4
+00:00:05,520 --> 00:00:09,280
+stuff, showing the product and the name
+
+5
+00:00:07,680 --> 00:00:10,639
+of the tool at the time was actually
+
+6
+00:00:09,280 --> 00:00:12,719
+called Summit. And I remember I thought
+
+7
+00:00:10,639 --> 00:00:14,960
+to myself like this just isn't going to
+
+8
+00:00:12,719 --> 00:00:16,320
+work. Metrics are so important, but I
+
+9
+00:00:14,960 --> 00:00:17,920
+feel like when you're doing something
+
+10
+00:00:16,320 --> 00:00:20,000
+really early and you're like, I have to
+
+11
+00:00:17,920 --> 00:00:22,080
+10x this, I have to 100x this, I have
+
+12
+00:00:20,000 --> 00:00:24,400
+to,000x this, you kind of have to go
+
+13
+00:00:22,080 --> 00:00:26,240
+more on intuition and more on feeling, I
+
+14
+00:00:24,400 --> 00:00:27,840
+think, and really believe that because
+
+15
+00:00:26,240 --> 00:00:29,359
+metrics just aren't going to get you the
+
+16
+00:00:27,840 --> 00:00:31,840
+answers that you're looking for. If you
+
+17
+00:00:29,359 --> 00:00:34,079
+joined Figma, you had to start spending
+
+18
+00:00:31,840 --> 00:00:36,239
+time answering support questions. And so
+
+19
+00:00:34,079 --> 00:00:37,920
+it sounds like pretty un unscalable,
+
+20
+00:00:36,239 --> 00:00:39,840
+right? Oh, you have your engineers
+
+21
+00:00:37,920 --> 00:00:42,000
+sitting there answering support tickets,
+
+22
+00:00:39,840 --> 00:00:43,840
+fixing bugs, like you can't do that
+
+23
+00:00:42,000 --> 00:00:46,480
+forever. That doesn't scale. But
+
+24
+00:00:43,840 --> 00:00:48,160
+actually, it does scale. You think about
+
+25
+00:00:46,480 --> 00:00:49,760
+people as companies. And I think the
+
+26
+00:00:48,160 --> 00:00:51,600
+biggest advice that I would give is like
+
+27
+00:00:49,760 --> 00:00:53,199
+people are people, right? And I think
+
+28
+00:00:51,600 --> 00:00:54,480
+you see that it can conf like you'll see
+
+29
+00:00:53,199 --> 00:00:56,399
+people and you'll talk to them and
+
+30
+00:00:54,480 --> 00:00:57,920
+you'll be chatting. It sounds so basic,
+
+31
+00:00:56,399 --> 00:00:59,920
+right? But like I think so often in
+
+32
+00:00:57,920 --> 00:01:02,480
+marketing we we split people into like
+
+33
+00:00:59,920 --> 00:01:04,879
+you as a person at your desk and you as
+
+34
+00:01:02,480 --> 00:01:06,799
+a person outside of that. Whereas we try
+
+35
+00:01:04,879 --> 00:01:08,880
+to think of people as one person. It
+
+36
+00:01:06,799 --> 00:01:11,200
+wasn't like let's have a communitydriven
+
+37
+00:01:08,880 --> 00:01:12,880
+strategy. It was just we need to listen
+
+38
+00:01:11,200 --> 00:01:14,640
+to our users and we need to build a
+
+39
+00:01:12,880 --> 00:01:16,479
+product that's going to be really useful
+
+40
+00:01:14,640 --> 00:01:18,400
+for them and they know what their
+
+41
+00:01:16,479 --> 00:01:20,240
+problems are more than we do and we need
+
+42
+00:01:18,400 --> 00:01:21,750
+to spend time with them and and fix
+
+43
+00:01:20,240 --> 00:01:24,829
+their problems.
+
+44
+00:01:21,750 --> 00:01:24,829
+[Applause]
+
+45
+00:01:25,600 --> 00:01:29,680
+Hi, I'm Claire. Uh, I'm the director of
+
+46
+00:01:27,920 --> 00:01:32,240
+brand marketing here at Figma. I was
+
+47
+00:01:29,680 --> 00:01:33,759
+also the first marketer and yeah, I've
+
+48
+00:01:32,240 --> 00:01:36,000
+been here since the beginning. So,
+
+49
+00:01:33,759 --> 00:01:37,360
+coming up on 9 years of Figma. So, it's
+
+50
+00:01:36,000 --> 00:01:41,159
+been it's really fun for me to see
+
+51
+00:01:37,360 --> 00:01:41,159
+everything come together today.
+
+52
+00:01:41,360 --> 00:01:45,360
+My name is Cory. I'm designer advocate
+
+53
+00:01:43,119 --> 00:01:47,360
+here at Figma. Um, I'm based in Tokyo
+
+54
+00:01:45,360 --> 00:01:50,000
+and I've been here at Figma for about 2
+
+55
+00:01:47,360 --> 00:01:51,680
+years and been a longtime Figma user in
+
+56
+00:01:50,000 --> 00:01:54,560
+community. As a designer advocate, I'm
+
+57
+00:01:51,680 --> 00:01:57,040
+part of our community team. My role is a
+
+58
+00:01:54,560 --> 00:01:59,600
+mixture of helping build community but
+
+59
+00:01:57,040 --> 00:02:01,600
+while also helping enable um designers.
+
+60
+00:01:59,600 --> 00:02:03,920
+So um could you give us an overview of
+
+61
+00:02:01,600 --> 00:02:05,439
+your career um before joining Figma?
+
+62
+00:02:03,920 --> 00:02:07,360
+Sure. Uh it's kind of funny. It's hard
+
+63
+00:02:05,439 --> 00:02:09,679
+to remember a time before Figma because
+
+64
+00:02:07,360 --> 00:02:11,039
+I've been here for uh 9 years. I was at
+
+65
+00:02:09,679 --> 00:02:13,360
+another startup before that called
+
+66
+00:02:11,039 --> 00:02:15,520
+Climate Corporation and Index Ventures
+
+67
+00:02:13,360 --> 00:02:18,239
+was one of the investors in uh Climate
+
+68
+00:02:15,520 --> 00:02:19,760
+Corp. and we got acquired and you know I
+
+69
+00:02:18,239 --> 00:02:21,520
+kind of knew a big company wasn't for me
+
+70
+00:02:19,760 --> 00:02:22,879
+and I I really wanted to roll up my
+
+71
+00:02:21,520 --> 00:02:25,680
+sleeves and and do something early
+
+72
+00:02:22,879 --> 00:02:27,520
+stage. So Danny Rhyr who is was the lead
+
+73
+00:02:25,680 --> 00:02:29,680
+investor over at the last company I was
+
+74
+00:02:27,520 --> 00:02:32,319
+at uh also invested was the first seed
+
+75
+00:02:29,680 --> 00:02:33,519
+investor for Dylan. So um I was meeting
+
+76
+00:02:32,319 --> 00:02:35,760
+a bunch of different startups and
+
+77
+00:02:33,519 --> 00:02:37,599
+different companies and uh Danny
+
+78
+00:02:35,760 --> 00:02:40,080
+introduced me to Dylan and I met Dylan
+
+79
+00:02:37,599 --> 00:02:42,319
+and kind of just decided that that was
+
+80
+00:02:40,080 --> 00:02:44,480
+it and that's that's you know went from
+
+81
+00:02:42,319 --> 00:02:45,920
+there. When I started at Figma, we were
+
+82
+00:02:44,480 --> 00:02:47,440
+pretty launched. So, there was there
+
+83
+00:02:45,920 --> 00:02:49,280
+wasn't even a product. There wasn't a
+
+84
+00:02:47,440 --> 00:02:50,640
+company, you know, there wasn't even a
+
+85
+00:02:49,280 --> 00:02:52,480
+name, honestly. We were going to name it
+
+86
+00:02:50,640 --> 00:02:54,080
+something else at the beginning. So, I I
+
+87
+00:02:52,480 --> 00:02:56,560
+think back to just how much we've grown
+
+88
+00:02:54,080 --> 00:02:58,640
+and evolved over the past 9 years and
+
+89
+00:02:56,560 --> 00:03:01,200
+where we are today. And it really blows
+
+90
+00:02:58,640 --> 00:03:03,519
+my mind. It's just so amazing to see the
+
+91
+00:03:01,200 --> 00:03:05,280
+excitement. I just got emotional
+
+92
+00:03:03,519 --> 00:03:07,200
+watching all the people come in and just
+
+93
+00:03:05,280 --> 00:03:08,879
+how many people how many how much Figma
+
+94
+00:03:07,200 --> 00:03:10,800
+means to so many people and how many
+
+95
+00:03:08,879 --> 00:03:12,319
+people love it and use it every day.
+
+96
+00:03:10,800 --> 00:03:14,480
+It's just a surreal moment for me to see
+
+97
+00:03:12,319 --> 00:03:16,080
+everything come together. What was the
+
+98
+00:03:14,480 --> 00:03:18,640
+first thing that you did after you
+
+99
+00:03:16,080 --> 00:03:20,800
+joined Figma? Literal first thing I did.
+
+100
+00:03:18,640 --> 00:03:22,400
+So the first day that I joined Figma, I
+
+101
+00:03:20,800 --> 00:03:24,159
+remember I was sitting in a presentation
+
+102
+00:03:22,400 --> 00:03:26,319
+and Dylan was kind of walking me through
+
+103
+00:03:24,159 --> 00:03:28,159
+stuff, showing the product, also showing
+
+104
+00:03:26,319 --> 00:03:29,840
+me where to like the bathroom was like
+
+105
+00:03:28,159 --> 00:03:32,560
+all of the basics that you get on your
+
+106
+00:03:29,840 --> 00:03:33,599
+first day. And uh I saw one presentation
+
+107
+00:03:32,560 --> 00:03:35,599
+where they were going through some of
+
+108
+00:03:33,599 --> 00:03:37,120
+the branding for Figma and some of the
+
+109
+00:03:35,599 --> 00:03:38,879
+different naming and how they were
+
+110
+00:03:37,120 --> 00:03:40,480
+thinking about launching it. And the
+
+111
+00:03:38,879 --> 00:03:43,360
+name of the tool at the time was
+
+112
+00:03:40,480 --> 00:03:44,799
+actually called Summit. And so um Figma
+
+113
+00:03:43,360 --> 00:03:46,560
+was always the name of the company, but
+
+114
+00:03:44,799 --> 00:03:48,720
+we had the strategy at the time where
+
+115
+00:03:46,560 --> 00:03:51,040
+the tool would be called Summit and like
+
+116
+00:03:48,720 --> 00:03:52,799
+the Figma editor. And then the company
+
+117
+00:03:51,040 --> 00:03:54,480
+would be called Figma. And I remember I
+
+118
+00:03:52,799 --> 00:03:56,799
+thought to myself like this just isn't
+
+119
+00:03:54,480 --> 00:03:59,040
+going to work. Like uh nobody knows who
+
+120
+00:03:56,799 --> 00:04:01,519
+we are. Summit is just like a really
+
+121
+00:03:59,040 --> 00:04:03,040
+basic name. There's PCs named Summit.
+
+122
+00:04:01,519 --> 00:04:05,680
+There's apps named Summit. This isn't
+
+123
+00:04:03,040 --> 00:04:07,680
+anything we can own. And so I remember
+
+124
+00:04:05,680 --> 00:04:09,439
+saying just kind of off the cuff like,
+
+125
+00:04:07,680 --> 00:04:11,360
+"Hey, like how locked is this? Is this
+
+126
+00:04:09,439 --> 00:04:13,120
+something we can change?" And Dylan was
+
+127
+00:04:11,360 --> 00:04:14,560
+like, "Yeah, what do you think?" And and
+
+128
+00:04:13,120 --> 00:04:16,479
+I was like, "Well, I I really think we
+
+129
+00:04:14,560 --> 00:04:18,320
+should probably only have one name. We
+
+130
+00:04:16,479 --> 00:04:20,079
+can't really have two." Um, and he's
+
+131
+00:04:18,320 --> 00:04:22,079
+like, "Well, well, how about you think
+
+132
+00:04:20,079 --> 00:04:24,000
+about that more and make a presentation
+
+133
+00:04:22,079 --> 00:04:25,360
+and and maybe can show everybody it and
+
+134
+00:04:24,000 --> 00:04:26,639
+then we can talk about it." And I said,
+
+135
+00:04:25,360 --> 00:04:27,919
+"Okay, cool. Like what does what does
+
+136
+00:04:26,639 --> 00:04:30,880
+the timeline look like for that?" And he
+
+137
+00:04:27,919 --> 00:04:34,160
+said, "How about tomorrow?" And I was
+
+138
+00:04:30,880 --> 00:04:35,600
+like, "Okay." And so uh I remember the
+
+139
+00:04:34,160 --> 00:04:39,040
+literal first thing I did on my first
+
+140
+00:04:35,600 --> 00:04:40,720
+day was um make a presentation about how
+
+141
+00:04:39,040 --> 00:04:42,639
+the product should be called Figma and
+
+142
+00:04:40,720 --> 00:04:45,440
+not Summit. And that was the first thing
+
+143
+00:04:42,639 --> 00:04:47,600
+I did. When Figma first launched people
+
+144
+00:04:45,440 --> 00:04:49,040
+saying especially among designers like
+
+145
+00:04:47,600 --> 00:04:51,120
+there are a lot of people liking the
+
+146
+00:04:49,040 --> 00:04:53,199
+product but also saying oh if this is
+
+147
+00:04:51,120 --> 00:04:55,600
+the future of design then I would quit
+
+148
+00:04:53,199 --> 00:04:58,639
+design or like this is not the future I
+
+149
+00:04:55,600 --> 00:05:01,120
+want as a designer. So, as a first
+
+150
+00:04:58,639 --> 00:05:03,120
+marketer at uh Figma, like what were
+
+151
+00:05:01,120 --> 00:05:05,199
+your like go to market strategy or like
+
+152
+00:05:03,120 --> 00:05:06,800
+how did you deal with these market
+
+153
+00:05:05,199 --> 00:05:09,440
+response? You know, I think it's really
+
+154
+00:05:06,800 --> 00:05:11,199
+interesting because as a marketer
+
+155
+00:05:09,440 --> 00:05:12,880
+working online and collaboratively, it's
+
+156
+00:05:11,199 --> 00:05:14,720
+it's just intuitive to me, right? Like
+
+157
+00:05:12,880 --> 00:05:16,800
+was used to using Google Docs, was used
+
+158
+00:05:14,720 --> 00:05:18,720
+to just having Google Slides, a sauna,
+
+159
+00:05:16,800 --> 00:05:20,400
+these things where you just have things
+
+160
+00:05:18,720 --> 00:05:21,840
+constantly updated and working really
+
+161
+00:05:20,400 --> 00:05:23,440
+collaboratively. But it didn't really
+
+162
+00:05:21,840 --> 00:05:25,680
+click for me until I saw the response.
+
+163
+00:05:23,440 --> 00:05:27,440
+Honestly, that, you know, before design
+
+164
+00:05:25,680 --> 00:05:29,120
+didn't really work that way. People were
+
+165
+00:05:27,440 --> 00:05:31,280
+used to working in these offline tools
+
+166
+00:05:29,120 --> 00:05:33,520
+and sharing when they're done and doing
+
+167
+00:05:31,280 --> 00:05:34,800
+these like beautiful presentations and
+
+168
+00:05:33,520 --> 00:05:36,880
+showing kind of more of a finished
+
+169
+00:05:34,800 --> 00:05:38,960
+product. Um, and so yeah, there was a
+
+170
+00:05:36,880 --> 00:05:40,960
+lot of questioning uh of that in the
+
+171
+00:05:38,960 --> 00:05:42,560
+early days. I think that there's a
+
+172
+00:05:40,960 --> 00:05:43,840
+couple things that I keep in mind when I
+
+173
+00:05:42,560 --> 00:05:46,080
+think of like how to approach something
+
+174
+00:05:43,840 --> 00:05:48,720
+like that. The first is, you know, you
+
+175
+00:05:46,080 --> 00:05:50,560
+have to have a level of confidence that
+
+176
+00:05:48,720 --> 00:05:52,000
+you're going to keep going anyway,
+
+177
+00:05:50,560 --> 00:05:53,039
+right? Like there's some people who
+
+178
+00:05:52,000 --> 00:05:55,759
+don't like it. There's different
+
+179
+00:05:53,039 --> 00:05:57,280
+adoption curves and it's okay. Not
+
+180
+00:05:55,759 --> 00:05:59,120
+everyone likes your product right away.
+
+181
+00:05:57,280 --> 00:06:00,960
+So this just having a general confidence
+
+182
+00:05:59,120 --> 00:06:02,320
+in that and a belief that that's the way
+
+183
+00:06:00,960 --> 00:06:03,759
+to go and that's the vision and we're
+
+184
+00:06:02,320 --> 00:06:05,280
+going to stick with it is very
+
+185
+00:06:03,759 --> 00:06:07,120
+important. And then I think the other
+
+186
+00:06:05,280 --> 00:06:10,080
+thing that we did that was really really
+
+187
+00:06:07,120 --> 00:06:12,240
+helpful was we really looked at design
+
+188
+00:06:10,080 --> 00:06:13,759
+is an interesting space where uh you
+
+189
+00:06:12,240 --> 00:06:15,039
+know people really learn from each other
+
+190
+00:06:13,759 --> 00:06:17,120
+and so people are always looking to
+
+191
+00:06:15,039 --> 00:06:18,720
+other influencers or other people to
+
+192
+00:06:17,120 --> 00:06:20,319
+help understand you know what's the
+
+193
+00:06:18,720 --> 00:06:22,800
+latest in design how do you work how
+
+194
+00:06:20,319 --> 00:06:24,560
+should we work so we really built a lot
+
+195
+00:06:22,800 --> 00:06:26,880
+of relationships and focused on building
+
+196
+00:06:24,560 --> 00:06:28,880
+relationships with people who had a lot
+
+197
+00:06:26,880 --> 00:06:31,680
+of thought in the space a lot of thought
+
+198
+00:06:28,880 --> 00:06:33,440
+leadership and um talked to them about
+
+199
+00:06:31,680 --> 00:06:35,199
+things. So even if they had a negative
+
+200
+00:06:33,440 --> 00:06:36,960
+reaction at first or weren't sure about
+
+201
+00:06:35,199 --> 00:06:39,440
+something we were doing, we just engaged
+
+202
+00:06:36,960 --> 00:06:41,600
+in conversation and talked about it and
+
+203
+00:06:39,440 --> 00:06:43,199
+uh you know over time heard their
+
+204
+00:06:41,600 --> 00:06:45,440
+opinions, we shared our opinions, got
+
+205
+00:06:43,199 --> 00:06:46,960
+feedback from them and that was a a
+
+206
+00:06:45,440 --> 00:06:49,280
+really important thing where maybe
+
+207
+00:06:46,960 --> 00:06:50,560
+initially people had concerns but as we
+
+208
+00:06:49,280 --> 00:06:52,880
+built trust with them, built
+
+209
+00:06:50,560 --> 00:06:55,039
+credibility, uh people started using the
+
+210
+00:06:52,880 --> 00:06:57,280
+tool that was really important and they
+
+211
+00:06:55,039 --> 00:06:59,599
+changed their minds. I'm also curious
+
+212
+00:06:57,280 --> 00:07:01,919
+like Corey your response when you first
+
+213
+00:06:59,599 --> 00:07:03,759
+got to know Figma but as a designer
+
+214
+00:07:01,919 --> 00:07:05,759
+didn't didn't you have any like mixed
+
+215
+00:07:03,759 --> 00:07:07,840
+feelings towards the product or as a
+
+216
+00:07:05,759 --> 00:07:10,160
+designer like what were your thoughts on
+
+217
+00:07:07,840 --> 00:07:11,599
+the product as a designer at the time I
+
+218
+00:07:10,160 --> 00:07:14,000
+was using Figma this was probably like
+
+219
+00:07:11,599 --> 00:07:15,280
+2016 2017 like a lot of different design
+
+220
+00:07:14,000 --> 00:07:16,240
+tools were coming out like when every
+
+221
+00:07:15,280 --> 00:07:17,919
+week seemed like there was different
+
+222
+00:07:16,240 --> 00:07:20,319
+design tool like and I was you know
+
+223
+00:07:17,919 --> 00:07:22,160
+using one tool as my main tool but like
+
+224
+00:07:20,319 --> 00:07:23,680
+I would be using another tool beta
+
+225
+00:07:22,160 --> 00:07:25,039
+testing it like on the side and like
+
+226
+00:07:23,680 --> 00:07:26,639
+recreating the design like every week
+
+227
+00:07:25,039 --> 00:07:28,080
+and testing you know, these AB testing,
+
+228
+00:07:26,639 --> 00:07:29,440
+these design choices to see like which
+
+229
+00:07:28,080 --> 00:07:31,440
+one is the is going to be the best one,
+
+230
+00:07:29,440 --> 00:07:32,960
+which one I just I switched to and like
+
+231
+00:07:31,440 --> 00:07:35,599
+through that whole process, like one of
+
+232
+00:07:32,960 --> 00:07:37,840
+them I found like Figma and I was using
+
+233
+00:07:35,599 --> 00:07:39,599
+Figma and I I picked it up for a bit and
+
+234
+00:07:37,840 --> 00:07:41,759
+I was like, "Okay, this is web- based.
+
+235
+00:07:39,599 --> 00:07:44,000
+This is kind of interesting, but like it
+
+236
+00:07:41,759 --> 00:07:45,759
+doesn't make much difference compared to
+
+237
+00:07:44,000 --> 00:07:47,919
+like what I'm using now, right?" And
+
+238
+00:07:45,759 --> 00:07:50,080
+then um I went back to it for some
+
+239
+00:07:47,919 --> 00:07:51,120
+reason again to use it and I started
+
+240
+00:07:50,080 --> 00:07:52,400
+thinking about the collaboration
+
+241
+00:07:51,120 --> 00:07:54,160
+features, right? I was just like, "Wait,
+
+242
+00:07:52,400 --> 00:07:55,520
+wait, you can just Oh, it's web- based.
+
+243
+00:07:54,160 --> 00:07:57,280
+You can just share a link. I don't have
+
+244
+00:07:55,520 --> 00:07:59,120
+to like export this and every single
+
+245
+00:07:57,280 --> 00:08:00,879
+time it's my final final final final
+
+246
+00:07:59,120 --> 00:08:02,080
+version. Send that again and then I you
+
+247
+00:08:00,879 --> 00:08:03,440
+know I could just share that and it's
+
+248
+00:08:02,080 --> 00:08:05,280
+always up to date and thinking about
+
+249
+00:08:03,440 --> 00:08:08,400
+like the repercussions of that of like
+
+250
+00:08:05,280 --> 00:08:10,560
+how that would change the way interact
+
+251
+00:08:08,400 --> 00:08:12,560
+uh and just reduce the friction I think
+
+252
+00:08:10,560 --> 00:08:14,720
+was just a big thing I think about a lot
+
+253
+00:08:12,560 --> 00:08:16,400
+of time uh in the process. So I was like
+
+254
+00:08:14,720 --> 00:08:17,919
+oh well to realize the value that I
+
+255
+00:08:16,400 --> 00:08:19,440
+actually have to do use this tool with
+
+256
+00:08:17,919 --> 00:08:21,360
+somebody else. So that the first thing I
+
+257
+00:08:19,440 --> 00:08:22,879
+did was okay let me find some other
+
+258
+00:08:21,360 --> 00:08:24,319
+people on my team that I can get to get
+
+259
+00:08:22,879 --> 00:08:26,000
+in the tool and let's use it together.
+
+260
+00:08:24,319 --> 00:08:27,680
+And then once I did that, they
+
+261
+00:08:26,000 --> 00:08:29,280
+understood it. I understood it. I was
+
+262
+00:08:27,680 --> 00:08:30,479
+like, "Okay, this is a game changer."
+
+263
+00:08:29,280 --> 00:08:32,080
+You know, once you start using it
+
+264
+00:08:30,479 --> 00:08:33,360
+together, you just realize it's like
+
+265
+00:08:32,080 --> 00:08:34,320
+it's completely different experience.
+
+266
+00:08:33,360 --> 00:08:36,240
+And I think that was when it was
+
+267
+00:08:34,320 --> 00:08:37,440
+clicked. And then I realized that and
+
+268
+00:08:36,240 --> 00:08:38,479
+then I was like, "Oh, I need to get my
+
+269
+00:08:37,440 --> 00:08:40,000
+whole team on this. I need to get
+
+270
+00:08:38,479 --> 00:08:41,519
+everyone in this and get everyone in the
+
+271
+00:08:40,000 --> 00:08:42,800
+file." Before I was like going to
+
+272
+00:08:41,519 --> 00:08:44,240
+introduce my team to it. There was
+
+273
+00:08:42,800 --> 00:08:47,440
+actually an issue with like Japanese
+
+274
+00:08:44,240 --> 00:08:49,279
+input. Um, and you know, back in the
+
+275
+00:08:47,440 --> 00:08:50,640
+day, like I you still have it today in
+
+276
+00:08:49,279 --> 00:08:51,600
+the bottom like right corner of Figma,
+
+277
+00:08:50,640 --> 00:08:52,720
+there's a little question mark right
+
+278
+00:08:51,600 --> 00:08:54,320
+there. And if you push that you can have
+
+279
+00:08:52,720 --> 00:08:56,000
+like you can send a message right to the
+
+280
+00:08:54,320 --> 00:08:58,320
+help desk and get support on that.
+
+281
+00:08:56,000 --> 00:08:59,680
+Right? So I was using Figma and when you
+
+282
+00:08:58,320 --> 00:09:01,839
+input the Japanese characters it
+
+283
+00:08:59,680 --> 00:09:03,440
+wouldn't show up correctly. Japanese was
+
+284
+00:09:01,839 --> 00:09:05,120
+basically broken in Pigma at the time. I
+
+285
+00:09:03,440 --> 00:09:07,440
+was like oh this is great but like I'm
+
+286
+00:09:05,120 --> 00:09:09,519
+in Japan and like I'm I'm designing in
+
+287
+00:09:07,440 --> 00:09:11,600
+Japanese so I can't use this on my team
+
+288
+00:09:09,519 --> 00:09:13,519
+until this is fixed, right? I was like
+
+289
+00:09:11,600 --> 00:09:14,880
+uh maybe I'll just try to send some
+
+290
+00:09:13,519 --> 00:09:16,640
+support and see what happens, you know?
+
+291
+00:09:14,880 --> 00:09:18,720
+So I I told him I I sent some
+
+292
+00:09:16,640 --> 00:09:20,160
+screenshots. I sent a detailed request
+
+293
+00:09:18,720 --> 00:09:21,519
+and I said, "Hey, you know, this thing
+
+294
+00:09:20,160 --> 00:09:22,720
+is broken here. and if you could fix
+
+295
+00:09:21,519 --> 00:09:24,880
+this, this would really be helpful for
+
+296
+00:09:22,720 --> 00:09:26,640
+your Japanese users, right? And then
+
+297
+00:09:24,880 --> 00:09:28,880
+couple weeks go by and I pick it up
+
+298
+00:09:26,640 --> 00:09:30,640
+again and it's fixed. And I was like,
+
+299
+00:09:28,880 --> 00:09:31,920
+wow, this is pretty nice. I was I was
+
+300
+00:09:30,640 --> 00:09:33,120
+like, the tool is pretty cool, but I was
+
+301
+00:09:31,920 --> 00:09:34,959
+like, what was really really cool was
+
+302
+00:09:33,120 --> 00:09:36,640
+it's like, oh, I gave this feedback and
+
+303
+00:09:34,959 --> 00:09:37,920
+then they fix that. But also, I know
+
+304
+00:09:36,640 --> 00:09:39,920
+that like they're accepting feedback
+
+305
+00:09:37,920 --> 00:09:41,920
+from the community and the speed of that
+
+306
+00:09:39,920 --> 00:09:44,000
+iteration is is something that it gives
+
+307
+00:09:41,920 --> 00:09:45,680
+me confidence that um so I think like
+
+308
+00:09:44,000 --> 00:09:47,600
+changing tools is like an investment for
+
+309
+00:09:45,680 --> 00:09:48,720
+the whole team. That was kind of me
+
+310
+00:09:47,600 --> 00:09:50,640
+weighing the option. I was just like,
+
+311
+00:09:48,720 --> 00:09:52,240
+"Okay, I'm really kind of investing in
+
+312
+00:09:50,640 --> 00:09:53,839
+this team and I'm going to tell my team
+
+313
+00:09:52,240 --> 00:09:55,839
+we should use this this product." So,
+
+314
+00:09:53,839 --> 00:09:58,160
+you joined Figma before the product
+
+315
+00:09:55,839 --> 00:10:00,000
+launch. How did you approach marketing
+
+316
+00:09:58,160 --> 00:10:01,839
+marketing a product that was still in
+
+317
+00:10:00,000 --> 00:10:03,680
+self mode? So, I was the first marketing
+
+318
+00:10:01,839 --> 00:10:05,519
+hire, but I was also the first just go
+
+319
+00:10:03,680 --> 00:10:07,040
+to market person. In the beginning, when
+
+320
+00:10:05,519 --> 00:10:09,600
+we didn't have a product, I would go
+
+321
+00:10:07,040 --> 00:10:11,440
+around and drive around PaloAlto, San
+
+322
+00:10:09,600 --> 00:10:14,000
+Francisco with Dylan, and we would just
+
+323
+00:10:11,440 --> 00:10:15,680
+pitch Figma to differenti. We made a
+
+324
+00:10:14,000 --> 00:10:18,000
+bunch of connections in different design
+
+325
+00:10:15,680 --> 00:10:20,160
+teams and we would just go there and we
+
+326
+00:10:18,000 --> 00:10:22,720
+we'd show them the product. And so a lot
+
+327
+00:10:20,160 --> 00:10:25,040
+of what I did in the early days was meet
+
+328
+00:10:22,720 --> 00:10:26,399
+these people, gather their feedback,
+
+329
+00:10:25,040 --> 00:10:28,240
+kind of like what Corey was saying and
+
+330
+00:10:26,399 --> 00:10:29,519
+in that more of a one-on-one setting and
+
+331
+00:10:28,240 --> 00:10:31,200
+hear what they thought about the tool.
+
+332
+00:10:29,519 --> 00:10:33,120
+And then uh we were really trying to
+
+333
+00:10:31,200 --> 00:10:34,399
+understand okay when are we ready to go
+
+334
+00:10:33,120 --> 00:10:34,399
+at it stealth then launch la la la la la
+
+335
+00:10:34,399 --> 00:10:34,480
+la la la la la la la la la la la la la
+
+336
+00:10:34,399 --> 00:10:34,560
+la la la la la la la la la la la la la
+
+337
+00:10:34,480 --> 00:10:34,560
+la la la la la la la la la la la la la
+
+338
+00:10:34,560 --> 00:10:36,480
+la la la la la la la la la la la la la
+
+339
+00:10:34,560 --> 00:10:38,160
+la la launch the product and so a lot of
+
+340
+00:10:36,480 --> 00:10:40,240
+what I was doing was trying to
+
+341
+00:10:38,160 --> 00:10:42,800
+understand you know our teams ready to
+
+342
+00:10:40,240 --> 00:10:44,880
+adopt this and is the the tool good
+
+343
+00:10:42,800 --> 00:10:46,079
+enough to launch. I think it's such a
+
+344
+00:10:44,880 --> 00:10:48,000
+balance that you have to think about
+
+345
+00:10:46,079 --> 00:10:49,760
+where it's like, okay, we want to get
+
+346
+00:10:48,000 --> 00:10:51,519
+out of self and want to get in this this
+
+347
+00:10:49,760 --> 00:10:53,760
+people's hands, but if it's not good
+
+348
+00:10:51,519 --> 00:10:54,959
+enough, then it's also like, well, we're
+
+349
+00:10:53,760 --> 00:10:57,120
+going to lose our chance. You only get
+
+350
+00:10:54,959 --> 00:10:58,880
+one shot to launch. And like, what were
+
+351
+00:10:57,120 --> 00:11:01,360
+some of the factors that made that
+
+352
+00:10:58,880 --> 00:11:03,040
+decision? Yeah, it's hard, right? It's
+
+353
+00:11:01,360 --> 00:11:05,040
+such a a hard question for people
+
+354
+00:11:03,040 --> 00:11:07,600
+because you really do only get one
+
+355
+00:11:05,040 --> 00:11:09,920
+chance to launch the product and you
+
+356
+00:11:07,600 --> 00:11:11,839
+want to do it right and so you want it
+
+357
+00:11:09,920 --> 00:11:13,279
+to be good when people are all going in
+
+358
+00:11:11,839 --> 00:11:14,959
+and looking at the tool. You want them
+
+359
+00:11:13,279 --> 00:11:16,560
+to have a good experience. So that's on
+
+360
+00:11:14,959 --> 00:11:18,160
+one hand, but then on the other hand,
+
+361
+00:11:16,560 --> 00:11:19,760
+you don't want to wait too long, right?
+
+362
+00:11:18,160 --> 00:11:21,200
+Because the tool, the team had already
+
+363
+00:11:19,760 --> 00:11:22,800
+been building the tool for years before
+
+364
+00:11:21,200 --> 00:11:24,240
+I got there. You want to keep things
+
+365
+00:11:22,800 --> 00:11:26,320
+going. You want to start building with
+
+366
+00:11:24,240 --> 00:11:28,320
+people and getting their feedback. And
+
+367
+00:11:26,320 --> 00:11:30,000
+so it is a really hard balance. It's
+
+368
+00:11:28,320 --> 00:11:32,800
+definitely more of an art than a science
+
+369
+00:11:30,000 --> 00:11:34,480
+in terms of, you know, when to launch.
+
+370
+00:11:32,800 --> 00:11:36,160
+And I remember I was sitting in this
+
+371
+00:11:34,480 --> 00:11:38,079
+meeting and someone literally took the
+
+372
+00:11:36,160 --> 00:11:39,360
+laptop out of Dylan's hands because they
+
+373
+00:11:38,079 --> 00:11:40,640
+wanted to play with it. I don't think
+
+374
+00:11:39,360 --> 00:11:41,920
+that they didn't mean to like didn't
+
+375
+00:11:40,640 --> 00:11:44,320
+take a laptop, but they were just like,
+
+376
+00:11:41,920 --> 00:11:46,000
+"That's so cool. I have to try it." And
+
+377
+00:11:44,320 --> 00:11:49,200
+I think once they saw people starting to
+
+378
+00:11:46,000 --> 00:11:51,440
+do that, that was like, "Okay, this is
+
+379
+00:11:49,200 --> 00:11:53,360
+this feels like it's kind of ready." One
+
+380
+00:11:51,440 --> 00:11:56,000
+of the biggest challenges that we had in
+
+381
+00:11:53,360 --> 00:11:58,560
+terms of deciding when to launch was
+
+382
+00:11:56,000 --> 00:12:00,240
+multiplayer wasn't actually done when we
+
+383
+00:11:58,560 --> 00:12:02,480
+launched Figma. It just was going to
+
+384
+00:12:00,240 --> 00:12:04,800
+take like another year for for
+
+385
+00:12:02,480 --> 00:12:06,240
+multiplayer to be done. And so that was
+
+386
+00:12:04,800 --> 00:12:08,399
+a really hard decision at the time where
+
+387
+00:12:06,240 --> 00:12:10,320
+it was like this is our most important
+
+388
+00:12:08,399 --> 00:12:12,399
+feature arguably and we know it's going
+
+389
+00:12:10,320 --> 00:12:13,760
+to take another year before it's done.
+
+390
+00:12:12,399 --> 00:12:15,279
+And the decision that we had to make
+
+391
+00:12:13,760 --> 00:12:18,320
+was, you know, do we launch without
+
+392
+00:12:15,279 --> 00:12:20,320
+multiplayer or do we wait another year?
+
+393
+00:12:18,320 --> 00:12:22,160
+And we decided just to go for it and to
+
+394
+00:12:20,320 --> 00:12:24,320
+launch and to start getting feedback,
+
+395
+00:12:22,160 --> 00:12:26,240
+start getting in people's hands, keep it
+
+396
+00:12:24,320 --> 00:12:27,839
+in beta even though we knew it wasn't
+
+397
+00:12:26,240 --> 00:12:29,440
+finished. But that is such a hard
+
+398
+00:12:27,839 --> 00:12:30,720
+challenge, right? Like I think there'd
+
+399
+00:12:29,440 --> 00:12:33,120
+be a lot of good arguments on why you
+
+400
+00:12:30,720 --> 00:12:34,720
+should wait uh for the the core feature
+
+401
+00:12:33,120 --> 00:12:36,480
+to be done, but it definitely becomes
+
+402
+00:12:34,720 --> 00:12:37,760
+kind of more of an art than a science at
+
+403
+00:12:36,480 --> 00:12:38,959
+that point in terms of making that
+
+404
+00:12:37,760 --> 00:12:40,959
+decision cuz you also just got to keep
+
+405
+00:12:38,959 --> 00:12:42,959
+the momentum up too. Metrics are so
+
+406
+00:12:40,959 --> 00:12:44,720
+important, but I feel like you can't
+
+407
+00:12:42,959 --> 00:12:46,800
+really look at them that closely when
+
+408
+00:12:44,720 --> 00:12:49,200
+you're in a micro setting like that. You
+
+409
+00:12:46,800 --> 00:12:50,639
+kind of have to go on anecdotes, right?
+
+410
+00:12:49,200 --> 00:12:52,399
+Like we didn't have enough people to
+
+411
+00:12:50,639 --> 00:12:54,959
+like have these metrics dashboards and
+
+412
+00:12:52,399 --> 00:12:57,040
+be like look at the usage over time,
+
+413
+00:12:54,959 --> 00:12:59,040
+right? Like honestly, we were meeting
+
+414
+00:12:57,040 --> 00:13:00,959
+these teams and what we looked at was
+
+415
+00:12:59,040 --> 00:13:03,200
+like at at the beginning, can we get one
+
+416
+00:13:00,959 --> 00:13:04,639
+team to transfer full-time? And it
+
+417
+00:13:03,200 --> 00:13:07,279
+sounds so funny because it's like our
+
+418
+00:13:04,639 --> 00:13:08,480
+metric was like zero or one, right? It's
+
+419
+00:13:07,279 --> 00:13:10,480
+not like you're looking at these
+
+420
+00:13:08,480 --> 00:13:12,000
+dashboards. And that's why I feel like
+
+421
+00:13:10,480 --> 00:13:13,680
+sometimes when you're doing something
+
+422
+00:13:12,000 --> 00:13:15,920
+really early and you're like, I have to
+
+423
+00:13:13,680 --> 00:13:17,839
+10x this, I have to 100x this. I have to
+
+424
+00:13:15,920 --> 00:13:20,160
+thousandx this. you kind of have to go
+
+425
+00:13:17,839 --> 00:13:21,920
+more on intuition and more on feeling I
+
+426
+00:13:20,160 --> 00:13:23,600
+think and really believe that because
+
+427
+00:13:21,920 --> 00:13:25,519
+metrics just aren't going to get you the
+
+428
+00:13:23,600 --> 00:13:28,560
+answers that you're looking for. What
+
+429
+00:13:25,519 --> 00:13:31,519
+were your um team or your um plan or
+
+430
+00:13:28,560 --> 00:13:34,480
+strategy on building this community and
+
+431
+00:13:31,519 --> 00:13:36,160
+um how important was that at the time? I
+
+432
+00:13:34,480 --> 00:13:38,160
+wouldn't say in the beginnings we ever
+
+433
+00:13:36,160 --> 00:13:40,399
+set out to like have a communitydriven
+
+434
+00:13:38,160 --> 00:13:42,240
+strategy. Kind of to just take to
+
+435
+00:13:40,399 --> 00:13:43,839
+parallel Corey's story with what was
+
+436
+00:13:42,240 --> 00:13:45,680
+happening at Figma at the time. In the
+
+437
+00:13:43,839 --> 00:13:47,200
+early days of Figma, that little
+
+438
+00:13:45,680 --> 00:13:49,120
+question mark button that Cory was
+
+439
+00:13:47,200 --> 00:13:51,120
+talking about, uh we didn't really have
+
+440
+00:13:49,120 --> 00:13:52,639
+a full-time support team or it took a
+
+441
+00:13:51,120 --> 00:13:54,880
+while for us to do that. And so our
+
+442
+00:13:52,639 --> 00:13:56,880
+engineers would rotate and answer those
+
+443
+00:13:54,880 --> 00:13:59,440
+questions. And so it makes a lot of
+
+444
+00:13:56,880 --> 00:14:01,360
+sense that somebody reported a bug and
+
+445
+00:13:59,440 --> 00:14:03,360
+that Corey reported a bug and then one
+
+446
+00:14:01,360 --> 00:14:05,120
+of our engineers saw that and just fixed
+
+447
+00:14:03,360 --> 00:14:06,800
+it, right? Like that's just kind of what
+
+448
+00:14:05,120 --> 00:14:08,880
+happened. It was really all hands on
+
+449
+00:14:06,800 --> 00:14:11,199
+deck. And Dylan, our CEO, really
+
+450
+00:14:08,880 --> 00:14:13,279
+believed that we need to be as close to
+
+451
+00:14:11,199 --> 00:14:15,760
+the users of our product as possible.
+
+452
+00:14:13,279 --> 00:14:18,160
+And so even even now that like up until
+
+453
+00:14:15,760 --> 00:14:20,880
+a long time ago or until recently if you
+
+454
+00:14:18,160 --> 00:14:23,199
+joined Figma you had to start spending
+
+455
+00:14:20,880 --> 00:14:25,040
+time answering support questions because
+
+456
+00:14:23,199 --> 00:14:26,639
+he wanted people to know and understand
+
+457
+00:14:25,040 --> 00:14:28,959
+what the problems were and be really
+
+458
+00:14:26,639 --> 00:14:30,800
+close to what that looked like. So
+
+459
+00:14:28,959 --> 00:14:33,440
+that's been integrated and woven into
+
+460
+00:14:30,800 --> 00:14:35,600
+who we are since the beginning. And
+
+461
+00:14:33,440 --> 00:14:38,000
+along with that it's really building the
+
+462
+00:14:35,600 --> 00:14:40,000
+product alongside of the users of the
+
+463
+00:14:38,000 --> 00:14:41,440
+product. It wasn't like we thought to
+
+464
+00:14:40,000 --> 00:14:44,720
+ourselves like let's have a
+
+465
+00:14:41,440 --> 00:14:46,480
+communitydriven strategy. It was just we
+
+466
+00:14:44,720 --> 00:14:47,839
+need to listen to our users and we need
+
+467
+00:14:46,480 --> 00:14:50,399
+to build a product that's going to be
+
+468
+00:14:47,839 --> 00:14:52,160
+really useful for them and they know
+
+469
+00:14:50,399 --> 00:14:54,000
+what their problems are more than we do
+
+470
+00:14:52,160 --> 00:14:55,839
+and we need to spend time with them and
+
+471
+00:14:54,000 --> 00:14:57,760
+and fix their problems. And there's
+
+472
+00:14:55,839 --> 00:14:59,440
+people like Corey, like Corey was one of
+
+473
+00:14:57,760 --> 00:15:01,440
+those people that put it went into the
+
+474
+00:14:59,440 --> 00:15:03,839
+chat, but there were thousands of other
+
+475
+00:15:01,440 --> 00:15:05,920
+Corey's. That idea of listening to
+
+476
+00:15:03,839 --> 00:15:08,240
+people and then having a personal
+
+477
+00:15:05,920 --> 00:15:11,040
+relationship, really becoming close with
+
+478
+00:15:08,240 --> 00:15:13,440
+them and then having them go spread
+
+479
+00:15:11,040 --> 00:15:15,519
+Figma to their company, to their
+
+480
+00:15:13,440 --> 00:15:17,839
+communities, to where they live. That's
+
+481
+00:15:15,519 --> 00:15:20,079
+just what we did at scale. And so it
+
+482
+00:15:17,839 --> 00:15:21,680
+sounds like pretty un unscalable, right?
+
+483
+00:15:20,079 --> 00:15:23,839
+Oh, you have your engineers sitting
+
+484
+00:15:21,680 --> 00:15:26,079
+there answering support tickets, fixing
+
+485
+00:15:23,839 --> 00:15:28,720
+bugs, like you can't do that forever.
+
+486
+00:15:26,079 --> 00:15:31,519
+That doesn't scale. But actually, it
+
+487
+00:15:28,720 --> 00:15:34,240
+does scale because once we empowered
+
+488
+00:15:31,519 --> 00:15:36,399
+him, he can burn it his team. He grew a
+
+489
+00:15:34,240 --> 00:15:38,639
+community in Tokyo, right? Like that has
+
+490
+00:15:36,399 --> 00:15:40,560
+a huge amount of ramifications down the
+
+491
+00:15:38,639 --> 00:15:42,320
+line. Um, and so that's what that
+
+492
+00:15:40,560 --> 00:15:45,199
+strategy looks like when it when it does
+
+493
+00:15:42,320 --> 00:15:46,639
+scale, right? It's it's how those people
+
+494
+00:15:45,199 --> 00:15:48,639
+these people who you really build these
+
+495
+00:15:46,639 --> 00:15:51,199
+strong relationships with then spread
+
+496
+00:15:48,639 --> 00:15:53,120
+Figma for you. That's the whole crux of
+
+497
+00:15:51,199 --> 00:15:55,279
+a community tribute strategy. The advice
+
+498
+00:15:53,120 --> 00:15:58,240
+I would give is focus on a niche because
+
+499
+00:15:55,279 --> 00:16:01,120
+it's so hard to be too broad, especially
+
+500
+00:15:58,240 --> 00:16:03,440
+when you're new and you're early and you
+
+501
+00:16:01,120 --> 00:16:05,279
+don't have a brand yet and find out who
+
+502
+00:16:03,440 --> 00:16:07,600
+your users are and have somebody who
+
+503
+00:16:05,279 --> 00:16:09,279
+really understands them be the face of
+
+504
+00:16:07,600 --> 00:16:11,440
+face of what you're doing. We definitely
+
+505
+00:16:09,279 --> 00:16:13,600
+started with designers. you were very
+
+506
+00:16:11,440 --> 00:16:15,120
+focused. It had very specific niche of
+
+507
+00:16:13,600 --> 00:16:17,360
+designers. They wanted someone who
+
+508
+00:16:15,120 --> 00:16:18,880
+really understood their pain points,
+
+509
+00:16:17,360 --> 00:16:22,320
+what they were going through, what it
+
+510
+00:16:18,880 --> 00:16:24,399
+was like to design. And that's when for
+
+511
+00:16:22,320 --> 00:16:26,720
+me, I realized that immediately and I
+
+512
+00:16:24,399 --> 00:16:29,199
+was like, I don't know this. I can study
+
+513
+00:16:26,720 --> 00:16:30,959
+it. I can I could try and and learn my
+
+514
+00:16:29,199 --> 00:16:32,240
+best. I I have over the years, but at
+
+515
+00:16:30,959 --> 00:16:34,000
+the end of the day, I'm not a
+
+516
+00:16:32,240 --> 00:16:37,040
+classically trained designer. It's not
+
+517
+00:16:34,000 --> 00:16:38,639
+my my core expertise. And so that's when
+
+518
+00:16:37,040 --> 00:16:40,240
+I you know I decided I was like we have
+
+519
+00:16:38,639 --> 00:16:42,320
+to hire somebody who knows this really
+
+520
+00:16:40,240 --> 00:16:43,839
+really really well and have them be the
+
+521
+00:16:42,320 --> 00:16:46,079
+face of this and having them be the
+
+522
+00:16:43,839 --> 00:16:48,079
+people who are talking with users who
+
+523
+00:16:46,079 --> 00:16:50,480
+are creating content who are checking
+
+524
+00:16:48,079 --> 00:16:52,880
+all of our marketing um who are helping
+
+525
+00:16:50,480 --> 00:16:54,320
+us do things and that's that's when we
+
+526
+00:16:52,880 --> 00:16:56,240
+decided to have a user from the
+
+527
+00:16:54,320 --> 00:16:59,360
+community come join the team and that
+
+528
+00:16:56,240 --> 00:17:01,519
+that function has scaled. How did you um
+
+529
+00:16:59,360 --> 00:17:05,199
+come up with this idea of having like an
+
+530
+00:17:01,519 --> 00:17:07,360
+offline um community and how did that um
+
+531
+00:17:05,199 --> 00:17:09,360
+scale also? Totally. So in the early
+
+532
+00:17:07,360 --> 00:17:10,720
+days uh we did meetups and so that's
+
+533
+00:17:09,360 --> 00:17:12,240
+what it looked like at the beginning.
+
+534
+00:17:10,720 --> 00:17:14,079
+Some people were skeptics in the
+
+535
+00:17:12,240 --> 00:17:15,760
+beginning, right? And maybe they'd want
+
+536
+00:17:14,079 --> 00:17:18,079
+to go to meet other designers or they'd
+
+537
+00:17:15,760 --> 00:17:19,600
+show up, but we realized how valuable it
+
+538
+00:17:18,079 --> 00:17:22,319
+was to bring people together and to
+
+539
+00:17:19,600 --> 00:17:24,000
+talk. And we just saw how amazing it was
+
+540
+00:17:22,319 --> 00:17:26,559
+when people just learn best practices
+
+541
+00:17:24,000 --> 00:17:28,000
+from each other um and just learn from
+
+542
+00:17:26,559 --> 00:17:30,240
+being together. and we were able to
+
+543
+00:17:28,000 --> 00:17:32,160
+build these one relationships, we could
+
+544
+00:17:30,240 --> 00:17:34,080
+kind of overcome some of their concerns
+
+545
+00:17:32,160 --> 00:17:35,840
+or talk them out or just kind of hear
+
+546
+00:17:34,080 --> 00:17:38,000
+people out on why they were skeptics or
+
+547
+00:17:35,840 --> 00:17:40,240
+why they weren't sure and how we'd have
+
+548
+00:17:38,000 --> 00:17:42,559
+these conversations and it might be I
+
+549
+00:17:40,240 --> 00:17:44,160
+remember one u Tom was in in Seattle,
+
+550
+00:17:42,559 --> 00:17:46,160
+Tom, our first designer advocate was in
+
+551
+00:17:44,160 --> 00:17:48,400
+Seattle and he was talking to somebody
+
+552
+00:17:46,160 --> 00:17:50,640
+who at the time was a very big skeptic,
+
+553
+00:17:48,400 --> 00:17:52,320
+right? Uh and then he kept talking to
+
+554
+00:17:50,640 --> 00:17:54,000
+them, had these relationships, built
+
+555
+00:17:52,320 --> 00:17:56,720
+this relationship with them. Turns out
+
+556
+00:17:54,000 --> 00:17:58,880
+they were at Uber. Um, and that person
+
+557
+00:17:56,720 --> 00:18:00,799
+then brought Figma to Uber, right? And
+
+558
+00:17:58,880 --> 00:18:03,280
+we saw the power of how that process
+
+559
+00:18:00,799 --> 00:18:04,640
+worked and we started growing just these
+
+560
+00:18:03,280 --> 00:18:06,640
+people and and having these
+
+561
+00:18:04,640 --> 00:18:08,160
+relationships. And then we had this
+
+562
+00:18:06,640 --> 00:18:09,200
+thought of like, well, wait a minute,
+
+563
+00:18:08,160 --> 00:18:10,160
+you know, we've been going to these
+
+564
+00:18:09,200 --> 00:18:11,760
+different cities, these different
+
+565
+00:18:10,160 --> 00:18:13,600
+places. What if we brought everyone
+
+566
+00:18:11,760 --> 00:18:15,360
+together, right? And what what would
+
+567
+00:18:13,600 --> 00:18:17,760
+that look like? And it was really funny.
+
+568
+00:18:15,360 --> 00:18:19,600
+I remember when we first had the idea,
+
+569
+00:18:17,760 --> 00:18:21,840
+we're like, okay, how big should it be?
+
+570
+00:18:19,600 --> 00:18:23,280
+And it sounds so funny and I laugh at it
+
+571
+00:18:21,840 --> 00:18:25,200
+now. It was actually we thought we were
+
+572
+00:18:23,280 --> 00:18:26,559
+going to be at 200 people and that was
+
+573
+00:18:25,200 --> 00:18:28,559
+going to be the conference and we even
+
+574
+00:18:26,559 --> 00:18:30,880
+booked a venue for 200 people that was
+
+575
+00:18:28,559 --> 00:18:32,799
+the size and we launched the conference
+
+576
+00:18:30,880 --> 00:18:35,520
+and in the first day we had so many
+
+577
+00:18:32,799 --> 00:18:37,440
+registrations and people who wants to
+
+578
+00:18:35,520 --> 00:18:38,720
+join that we're like okay we have to
+
+579
+00:18:37,440 --> 00:18:40,240
+change the size of this thing because
+
+580
+00:18:38,720 --> 00:18:42,160
+there's no way 200 people is going to
+
+581
+00:18:40,240 --> 00:18:44,400
+work. Um and so expanded it and so the
+
+582
+00:18:42,160 --> 00:18:46,000
+first config was a thousand people. We
+
+583
+00:18:44,400 --> 00:18:47,919
+have all these relationships. People
+
+584
+00:18:46,000 --> 00:18:49,280
+have these connections online and
+
+585
+00:18:47,919 --> 00:18:50,960
+because of just the distributed nature
+
+586
+00:18:49,280 --> 00:18:52,480
+and the global nature of design, people
+
+587
+00:18:50,960 --> 00:18:54,799
+have been talking to each other on
+
+588
+00:18:52,480 --> 00:18:56,559
+Twitter for so long. But then they all
+
+589
+00:18:54,799 --> 00:18:58,720
+came together in person and it was just
+
+590
+00:18:56,559 --> 00:19:00,320
+pure magic to see these people. I
+
+591
+00:18:58,720 --> 00:19:01,840
+remember so many that the line the
+
+592
+00:19:00,320 --> 00:19:03,679
+conversation was like, "Oh, that's not
+
+593
+00:19:01,840 --> 00:19:05,520
+what your avatar looks like on Twitter."
+
+594
+00:19:03,679 --> 00:19:07,200
+Because this there's a strong community
+
+595
+00:19:05,520 --> 00:19:08,640
+that existed and that people were
+
+596
+00:19:07,200 --> 00:19:09,760
+already meeting each other and talking
+
+597
+00:19:08,640 --> 00:19:11,520
+that we've been doing from these
+
+598
+00:19:09,760 --> 00:19:13,440
+meetups, but also just from the nature
+
+599
+00:19:11,520 --> 00:19:14,960
+of design. designers have been talking
+
+600
+00:19:13,440 --> 00:19:17,360
+and learning to each other regardless of
+
+601
+00:19:14,960 --> 00:19:19,679
+BIGMA for so long and so bringing
+
+602
+00:19:17,360 --> 00:19:21,039
+everybody together in person and having
+
+603
+00:19:19,679 --> 00:19:23,600
+these relationships that were just
+
+604
+00:19:21,039 --> 00:19:25,520
+online happen in real life was just so
+
+605
+00:19:23,600 --> 00:19:27,679
+magical that we just knew we had to
+
+606
+00:19:25,520 --> 00:19:29,919
+continue like so do you have any like
+
+607
+00:19:27,679 --> 00:19:31,840
+advice on like building communities for
+
+608
+00:19:29,919 --> 00:19:34,400
+early startups? Totally. I think the
+
+609
+00:19:31,840 --> 00:19:36,160
+biggest thing is that sometimes in in
+
+610
+00:19:34,400 --> 00:19:38,720
+you know especially for us in you know
+
+611
+00:19:36,160 --> 00:19:40,720
+enterprise marketing or B2B marketing
+
+612
+00:19:38,720 --> 00:19:42,160
+you think about people as companies and
+
+613
+00:19:40,720 --> 00:19:44,480
+I think the biggest advice that I would
+
+614
+00:19:42,160 --> 00:19:45,919
+give is like people are people right and
+
+615
+00:19:44,480 --> 00:19:47,039
+I think you see that it can fit like
+
+616
+00:19:45,919 --> 00:19:48,880
+you'll see people and you'll talk to
+
+617
+00:19:47,039 --> 00:19:50,000
+them and you'll be chatting and then you
+
+618
+00:19:48,880 --> 00:19:51,840
+look at their badge and you're like oh
+
+619
+00:19:50,000 --> 00:19:53,200
+you work at a really big company oh that
+
+620
+00:19:51,840 --> 00:19:54,960
+was a company that in theory you might
+
+621
+00:19:53,200 --> 00:19:56,320
+want to like target for sales but that's
+
+622
+00:19:54,960 --> 00:19:58,400
+not how we think of it we're just like
+
+623
+00:19:56,320 --> 00:20:00,080
+you're just a person and you have
+
+624
+00:19:58,400 --> 00:20:01,919
+interest like it sounds so basic right
+
+625
+00:20:00,080 --> 00:20:04,400
+but like I think So often in marketing,
+
+626
+00:20:01,919 --> 00:20:06,480
+we we split people into like you as a
+
+627
+00:20:04,400 --> 00:20:08,640
+person at your desk and you as a person
+
+628
+00:20:06,480 --> 00:20:10,960
+outside of that, whereas we try to think
+
+629
+00:20:08,640 --> 00:20:12,720
+of people as one person and you can just
+
+630
+00:20:10,960 --> 00:20:14,880
+you're yourself all the time. And sure,
+
+631
+00:20:12,720 --> 00:20:16,480
+you happen to work at a company, but uh
+
+632
+00:20:14,880 --> 00:20:18,000
+I think it's doing these things that
+
+633
+00:20:16,480 --> 00:20:20,640
+don't scale and building these
+
+634
+00:20:18,000 --> 00:20:22,960
+relationships one-on-one like like Gory
+
+635
+00:20:20,640 --> 00:20:24,880
+and Gory's example and then those people
+
+636
+00:20:22,960 --> 00:20:26,960
+bring other people and those then that's
+
+637
+00:20:24,880 --> 00:20:30,799
+how word of mouth really spreads. So
+
+638
+00:20:26,960 --> 00:20:33,600
+Figma is beyond just a product. It seems
+
+639
+00:20:30,799 --> 00:20:35,840
+like it's a brand, it's a community. So,
+
+640
+00:20:33,600 --> 00:20:37,600
+um, what are your advice on yeah, making
+
+641
+00:20:35,840 --> 00:20:38,799
+a brand, you know, I think that the most
+
+642
+00:20:37,600 --> 00:20:41,600
+important thing is to actually start
+
+643
+00:20:38,799 --> 00:20:43,360
+with a product for us and that's like
+
+644
+00:20:41,600 --> 00:20:45,760
+what productled growth looks like,
+
+645
+00:20:43,360 --> 00:20:49,360
+right? And I I think that what we have
+
+646
+00:20:45,760 --> 00:20:51,360
+as a brand really starts with a brave
+
+647
+00:20:49,360 --> 00:20:52,960
+product by starting from the bottom up
+
+648
+00:20:51,360 --> 00:20:54,960
+and saying like, okay, first we have a
+
+649
+00:20:52,960 --> 00:20:57,360
+really strong product that's awesome.
+
+650
+00:20:54,960 --> 00:20:59,360
+We're improving it as we go. We're
+
+651
+00:20:57,360 --> 00:21:00,720
+listening to feedback um as we're
+
+652
+00:20:59,360 --> 00:21:03,200
+building it and building it with the
+
+653
+00:21:00,720 --> 00:21:05,440
+community. And then second, we have you
+
+654
+00:21:03,200 --> 00:21:06,960
+know these relationships with people and
+
+655
+00:21:05,440 --> 00:21:09,280
+if those people love the product,
+
+656
+00:21:06,960 --> 00:21:11,039
+they're spreading it to other people and
+
+657
+00:21:09,280 --> 00:21:14,720
+that's that's growing over time of
+
+658
+00:21:11,039 --> 00:21:18,080
+community of people. Then we can do it,
+
+659
+00:21:14,720 --> 00:21:19,919
+right? And then we can say, okay, now we
+
+660
+00:21:18,080 --> 00:21:21,919
+want to layer on top all these other
+
+661
+00:21:19,919 --> 00:21:24,799
+things like a 10,000 person conference
+
+662
+00:21:21,919 --> 00:21:27,440
+or like um you know all these beautiful
+
+663
+00:21:24,799 --> 00:21:29,280
+visuals that we have. The story of Figma
+
+664
+00:21:27,440 --> 00:21:31,120
+is not about ending at Figma. The story
+
+665
+00:21:29,280 --> 00:21:33,200
+about Figma is where does Figma get in
+
+666
+00:21:31,120 --> 00:21:35,760
+that person too. And in most cases, you
+
+667
+00:21:33,200 --> 00:21:37,840
+know, people using Figma, their story is
+
+668
+00:21:35,760 --> 00:21:39,679
+something like, you know, I just want to
+
+669
+00:21:37,840 --> 00:21:41,360
+create great products. I want to enjoy
+
+670
+00:21:39,679 --> 00:21:43,200
+the process and create that product
+
+671
+00:21:41,360 --> 00:21:44,559
+together. So, the narrative that we're
+
+672
+00:21:43,200 --> 00:21:46,320
+creating on the community side is often
+
+673
+00:21:44,559 --> 00:21:48,000
+like, how do we just enable those people
+
+674
+00:21:46,320 --> 00:21:49,520
+to get to where they want to go? Do you
+
+675
+00:21:48,000 --> 00:21:50,960
+know where the name Pigma comes from?
+
+676
+00:21:49,520 --> 00:21:52,960
+It's It would be great if you can
+
+677
+00:21:50,960 --> 00:21:54,480
+explain it to us. Yeah, it's actually it
+
+678
+00:21:52,960 --> 00:21:56,640
+comes from the idea of a figment of your
+
+679
+00:21:54,480 --> 00:21:59,280
+imagination. And the initial vision of
+
+680
+00:21:56,640 --> 00:22:01,200
+Fikba was uh to eliminate the gap
+
+681
+00:21:59,280 --> 00:22:03,679
+between imagination and reality. Like
+
+682
+00:22:01,200 --> 00:22:05,679
+that was that was the vision. And so
+
+683
+00:22:03,679 --> 00:22:07,360
+they it kind of shifted for a while
+
+684
+00:22:05,679 --> 00:22:09,360
+there cuz uh some people told him it was
+
+685
+00:22:07,360 --> 00:22:11,200
+too ambitious. And so it was make design
+
+686
+00:22:09,360 --> 00:22:12,960
+accessible is kind of where it went to.
+
+687
+00:22:11,200 --> 00:22:15,120
+But as we grow and as we continue to
+
+688
+00:22:12,960 --> 00:22:17,200
+evolve it, it always comes back to that
+
+689
+00:22:15,120 --> 00:22:20,000
+like how do you how can we get better at
+
+690
+00:22:17,200 --> 00:22:22,559
+as a tool helping to make eliminate that
+
+691
+00:22:20,000 --> 00:22:24,320
+gap um and make it so anybody can have
+
+692
+00:22:22,559 --> 00:22:26,480
+what they're they have ideas in their
+
+693
+00:22:24,320 --> 00:22:30,679
+head turn it into a product or turn it
+
+694
+00:22:26,480 --> 00:22:30,679
+into something that a's world
+

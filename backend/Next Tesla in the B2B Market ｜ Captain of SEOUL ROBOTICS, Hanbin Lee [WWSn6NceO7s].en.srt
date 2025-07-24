@@ -1,0 +1,1676 @@
+1
+00:00:00,080 --> 00:00:05,640
+there was a lot of fight within the
+
+2
+00:00:02,600 --> 00:00:08,280
+company out of 100 projects which one do
+
+3
+00:00:05,640 --> 00:00:10,599
+we keep it alive we should actually keep
+
+4
+00:00:08,280 --> 00:00:14,440
+some of it instead of dropping rest of
+
+5
+00:00:10,599 --> 00:00:16,600
+the 99 problems but I said no we have to
+
+6
+00:00:14,440 --> 00:00:18,520
+be the master of a one single product
+
+7
+00:00:16,600 --> 00:00:21,439
+and one single problem we don't have
+
+8
+00:00:18,520 --> 00:00:24,279
+resources to dilute our Focus I think I
+
+9
+00:00:21,439 --> 00:00:26,679
+made the right call those 99 Problems 99
+
+10
+00:00:24,279 --> 00:00:28,800
+products didn't matter if you have one
+
+11
+00:00:26,679 --> 00:00:31,960
+single killer item that's going to carry
+
+12
+00:00:28,800 --> 00:00:31,960
+all the way through
+
+13
+00:00:34,240 --> 00:00:52,000
+[Music]
+
+14
+00:00:49,920 --> 00:00:55,199
+hello my name is hin Lee I'm the captain
+
+15
+00:00:52,000 --> 00:00:56,920
+of Soul robotics Soul robotics is a B2B
+
+16
+00:00:55,199 --> 00:00:58,519
+autonomous driving company so when you
+
+17
+00:00:56,920 --> 00:01:00,719
+think about autonomous driving there's
+
+18
+00:00:58,519 --> 00:01:02,760
+company like Tesla and way while they
+
+19
+00:01:00,719 --> 00:01:04,080
+provide robotaxi services or a
+
+20
+00:01:02,760 --> 00:01:06,040
+autonomous driving service that you can
+
+21
+00:01:04,080 --> 00:01:08,119
+use on the public road we to be
+
+22
+00:01:06,040 --> 00:01:10,200
+autonomous driving is not like that we
+
+23
+00:01:08,119 --> 00:01:11,799
+provide autonomous driving Services
+
+24
+00:01:10,200 --> 00:01:13,439
+where there's a lot of driver shortage
+
+25
+00:01:11,799 --> 00:01:15,600
+we are currently focusing on two major
+
+26
+00:01:13,439 --> 00:01:17,799
+areas first is finished vehicle
+
+27
+00:01:15,600 --> 00:01:19,880
+Logistics when the car is manufactured
+
+28
+00:01:17,799 --> 00:01:22,640
+somebody has to drive these cars to the
+
+29
+00:01:19,880 --> 00:01:24,880
+ship or train or truck this requires 200
+
+30
+00:01:22,640 --> 00:01:26,680
+people perfect relocation for the car
+
+31
+00:01:24,880 --> 00:01:28,119
+makers currently simply there's not
+
+32
+00:01:26,680 --> 00:01:30,439
+enough drivers out out there who's
+
+33
+00:01:28,119 --> 00:01:32,000
+providing this type of Labor forces so
+
+34
+00:01:30,439 --> 00:01:34,439
+we are providing autonomous driving
+
+35
+00:01:32,000 --> 00:01:37,040
+system to move these cars autonomously
+
+36
+00:01:34,439 --> 00:01:39,320
+so that the the car can be transported
+
+37
+00:01:37,040 --> 00:01:40,640
+safely to your doorstep the Second Use
+
+38
+00:01:39,320 --> 00:01:42,159
+case we're focusing on as a B2B
+
+39
+00:01:40,640 --> 00:01:44,759
+autonomous driving company is that we
+
+40
+00:01:42,159 --> 00:01:47,280
+are focusing on the logistics centers
+
+41
+00:01:44,759 --> 00:01:49,240
+when you order a product that product
+
+42
+00:01:47,280 --> 00:01:51,479
+has to go through a large logistic
+
+43
+00:01:49,240 --> 00:01:53,200
+centers within this logistic centers
+
+44
+00:01:51,479 --> 00:01:55,159
+there is lot of manual driving needs to
+
+45
+00:01:53,200 --> 00:01:57,399
+be done somebody needs to move the car
+
+46
+00:01:55,159 --> 00:01:59,200
+to be charged to be cleaned to move to
+
+47
+00:01:57,399 --> 00:02:01,360
+the third floor or second floor we have
+
+48
+00:01:59,200 --> 00:02:03,439
+13 different nationality and now we've
+
+49
+00:02:01,360 --> 00:02:06,880
+been focusing on the B2B autonomous
+
+50
+00:02:03,439 --> 00:02:06,880
+driving for the last 3 4
+
+51
+00:02:07,959 --> 00:02:14,560
+years I went to us when I was 12 Junior
+
+52
+00:02:12,160 --> 00:02:16,480
+High small boarding school that's where
+
+53
+00:02:14,560 --> 00:02:18,120
+I spent my youth and then I went to Penn
+
+54
+00:02:16,480 --> 00:02:19,720
+State I guess that was my youth but
+
+55
+00:02:18,120 --> 00:02:22,200
+actually I want to rewind my clock L
+
+56
+00:02:19,720 --> 00:02:25,080
+back before I went to us until 12 I was
+
+57
+00:02:22,200 --> 00:02:26,800
+in Korea but my parents thought man the
+
+58
+00:02:25,080 --> 00:02:28,760
+robotics is going to be future well this
+
+59
+00:02:26,800 --> 00:02:30,560
+is early 2000 and when I went to Penn
+
+60
+00:02:28,760 --> 00:02:32,239
+State I studied mechanical engineering
+
+61
+00:02:30,560 --> 00:02:34,760
+thinking that well if I want to do
+
+62
+00:02:32,239 --> 00:02:37,319
+robotics I got to be able to build the
+
+63
+00:02:34,760 --> 00:02:39,280
+robots but I realized as I was studying
+
+64
+00:02:37,319 --> 00:02:41,519
+mechanical engineering the robotics is
+
+65
+00:02:39,280 --> 00:02:43,560
+not a hardware problem it is so much a
+
+66
+00:02:41,519 --> 00:02:45,959
+software problem that's where I as soon
+
+67
+00:02:43,560 --> 00:02:48,440
+as I graduated I started to study
+
+68
+00:02:45,959 --> 00:02:51,200
+software by myself but and then I came
+
+69
+00:02:48,440 --> 00:02:53,239
+back to Korea I went to Korean army cuz
+
+70
+00:02:51,200 --> 00:02:55,879
+I'm Korean citizen so I spent 2 years in
+
+71
+00:02:53,239 --> 00:02:59,440
+the Army as a tank mechanic so that was
+
+72
+00:02:55,879 --> 00:03:01,040
+pretty fun right after finishing my duty
+
+73
+00:02:59,440 --> 00:03:05,000
+as a tank tank mechanic in the Korean
+
+74
+00:03:01,040 --> 00:03:06,920
+army I started looking into studying Ai
+
+75
+00:03:05,000 --> 00:03:09,720
+and self-driving with groups of people
+
+76
+00:03:06,920 --> 00:03:11,799
+in 2016 I thought while the industry is
+
+77
+00:03:09,720 --> 00:03:14,319
+new They Don't Really teach Ai and
+
+78
+00:03:11,799 --> 00:03:16,200
+self-driving in the school yet and this
+
+79
+00:03:14,319 --> 00:03:18,599
+autonomous driving Market is just going
+
+80
+00:03:16,200 --> 00:03:21,159
+to be massive so why don't we start a
+
+81
+00:03:18,599 --> 00:03:23,000
+company to see how it can go so 2017
+
+82
+00:03:21,159 --> 00:03:25,440
+August with four of the co-founders I
+
+83
+00:03:23,000 --> 00:03:26,840
+started so robotics really not knowing
+
+84
+00:03:25,440 --> 00:03:28,920
+exactly what Market we're going to go
+
+85
+00:03:26,840 --> 00:03:31,000
+after our company started with the study
+
+86
+00:03:28,920 --> 00:03:33,040
+group that studied Ai and self-driving
+
+87
+00:03:31,000 --> 00:03:34,920
+and there was a competition the study
+
+88
+00:03:33,040 --> 00:03:37,239
+group attended the competition and the
+
+89
+00:03:34,920 --> 00:03:39,519
+competition member became the foundation
+
+90
+00:03:37,239 --> 00:03:41,439
+of s Robotics and I was the captain of
+
+91
+00:03:39,519 --> 00:03:44,120
+that study group and that title still
+
+92
+00:03:41,439 --> 00:03:46,239
+stuck with me so still today after 8
+
+93
+00:03:44,120 --> 00:03:49,439
+years my title is still Captain that's a
+
+94
+00:03:46,239 --> 00:03:49,439
+founding chapter of s
+
+95
+00:03:50,720 --> 00:03:57,519
+robotics so our our first business model
+
+96
+00:03:54,000 --> 00:04:00,159
+which was again this Sol robotics was my
+
+97
+00:03:57,519 --> 00:04:02,519
+first kick it still is we didn't a whole
+
+98
+00:04:00,159 --> 00:04:04,599
+lot we knew our computer vision
+
+99
+00:04:02,519 --> 00:04:07,400
+technology was pretty good so our first
+
+100
+00:04:04,599 --> 00:04:09,120
+approach was going after the oems so
+
+101
+00:04:07,400 --> 00:04:11,480
+first couple years we really chased
+
+102
+00:04:09,120 --> 00:04:13,560
+after that the amount of the capital
+
+103
+00:04:11,480 --> 00:04:15,920
+resource that we had we couldn't go
+
+104
+00:04:13,560 --> 00:04:18,280
+after kind of full autonomous driving
+
+105
+00:04:15,920 --> 00:04:20,199
+system and have a business model that
+
+106
+00:04:18,280 --> 00:04:22,360
+generates Revenue at the same time it
+
+107
+00:04:20,199 --> 00:04:25,720
+was going to be a very long-term just
+
+108
+00:04:22,360 --> 00:04:27,680
+purely R&D focused effort it turns out
+
+109
+00:04:25,720 --> 00:04:29,320
+that first of all the car makers
+
+110
+00:04:27,680 --> 00:04:31,160
+themselves moves extremely slowly and
+
+111
+00:04:29,320 --> 00:04:33,199
+they're very conservative and we
+
+112
+00:04:31,160 --> 00:04:34,840
+realized that man this trying to sell
+
+113
+00:04:33,199 --> 00:04:36,360
+our system to OEM is just not going to
+
+114
+00:04:34,840 --> 00:04:38,320
+work without then what else what else
+
+115
+00:04:36,360 --> 00:04:40,039
+can we do since then we did bunch of
+
+116
+00:04:38,320 --> 00:04:41,600
+different autonomous driving projects
+
+117
+00:04:40,039 --> 00:04:43,320
+there's about 100 different project that
+
+118
+00:04:41,600 --> 00:04:45,520
+we worked on sometimes we add a little
+
+119
+00:04:43,320 --> 00:04:47,560
+bit of systems Control Systems maybe
+
+120
+00:04:45,520 --> 00:04:49,360
+camera systems we are working as an
+
+121
+00:04:47,560 --> 00:04:51,360
+Outsourcing company but a lot of this
+
+122
+00:04:49,360 --> 00:04:53,240
+project just weren't scaling I got to
+
+123
+00:04:51,360 --> 00:04:55,440
+feel that man this is going to be tough
+
+124
+00:04:53,240 --> 00:04:58,000
+to commercialize there is simply not
+
+125
+00:04:55,440 --> 00:05:01,039
+enough forerunners who have shown that
+
+126
+00:04:58,000 --> 00:05:03,680
+using this kind of system redu ES cost
+
+127
+00:05:01,039 --> 00:05:05,840
+or improves efficiency by significant
+
+128
+00:05:03,680 --> 00:05:08,320
+amount to really widely adopt this type
+
+129
+00:05:05,840 --> 00:05:12,600
+of technology for their B2B use cases
+
+130
+00:05:08,320 --> 00:05:14,280
+the first major client was BMW so they
+
+131
+00:05:12,600 --> 00:05:16,080
+had a very interesting problem problem
+
+132
+00:05:14,280 --> 00:05:17,919
+so significant that all the way to the
+
+133
+00:05:16,080 --> 00:05:20,280
+sea level they wanted to solve this
+
+134
+00:05:17,919 --> 00:05:22,840
+problem and the problem was when they
+
+135
+00:05:20,280 --> 00:05:24,919
+make the car somebody has to pick up
+
+136
+00:05:22,840 --> 00:05:26,919
+this car manually and drive them into
+
+137
+00:05:24,919 --> 00:05:30,240
+the train station and this drive was
+
+138
+00:05:26,919 --> 00:05:32,319
+anywhere 1 km 2 km or 3 km you need to
+
+139
+00:05:30,240 --> 00:05:34,680
+have three four shifts of workers
+
+140
+00:05:32,319 --> 00:05:36,759
+driving these cars and it's a large
+
+141
+00:05:34,680 --> 00:05:39,319
+Factory you need a lot of people to do
+
+142
+00:05:36,759 --> 00:05:41,840
+this in the automotive history this has
+
+143
+00:05:39,319 --> 00:05:44,319
+been never been automated so it has been
+
+144
+00:05:41,840 --> 00:05:46,039
+always driven by humans and that's the
+
+145
+00:05:44,319 --> 00:05:48,000
+problem they want to solve because
+
+146
+00:05:46,039 --> 00:05:50,440
+simply they couldn't find enough people
+
+147
+00:05:48,000 --> 00:05:54,600
+to drive these cars and so this was one
+
+148
+00:05:50,440 --> 00:05:57,560
+of our 100 project 99 failed and this
+
+149
+00:05:54,600 --> 00:06:01,240
+project succeeded that's how we had a
+
+150
+00:05:57,560 --> 00:06:03,000
+first glimpse of B2B aut autonomous
+
+151
+00:06:01,240 --> 00:06:05,720
+[Music]
+
+152
+00:06:03,000 --> 00:06:08,479
+driving if I were to kind of explain
+
+153
+00:06:05,720 --> 00:06:10,240
+what B2B autonomous driving is Tesla is
+
+154
+00:06:08,479 --> 00:06:13,080
+not going to provide autonomous driving
+
+155
+00:06:10,240 --> 00:06:16,520
+for every industry segment you can use
+
+156
+00:06:13,080 --> 00:06:18,919
+Uber app you can use Facebook app but
+
+157
+00:06:16,520 --> 00:06:22,000
+these are running on backend system of
+
+158
+00:06:18,919 --> 00:06:24,560
+AWS and AWS makes a whole lot of money
+
+159
+00:06:22,000 --> 00:06:27,000
+from all these companies AWS is a B2B
+
+160
+00:06:24,560 --> 00:06:29,960
+cloud system you guys might know company
+
+161
+00:06:27,000 --> 00:06:32,560
+like Oracle database related company or
+
+162
+00:06:29,960 --> 00:06:34,639
+Salesforce who maintains the database of
+
+163
+00:06:32,560 --> 00:06:38,319
+clients for companies and these are
+
+164
+00:06:34,639 --> 00:06:40,720
+purely a B2B driven backend server so to
+
+165
+00:06:38,319 --> 00:06:43,080
+say companies and B2B autonomous driving
+
+166
+00:06:40,720 --> 00:06:44,960
+is like that we are a specific domain
+
+167
+00:06:43,080 --> 00:06:47,759
+autonomous Driving Systems so that the
+
+168
+00:06:44,960 --> 00:06:49,520
+societies can operate we're the backbone
+
+169
+00:06:47,759 --> 00:06:51,960
+we the backend autonomous driving system
+
+170
+00:06:49,520 --> 00:06:55,039
+for the society that's how I like to
+
+171
+00:06:51,960 --> 00:06:55,039
+think of what we
+
+172
+00:06:55,919 --> 00:07:02,080
+do the difference between average and
+
+173
+00:06:58,319 --> 00:07:04,479
+the best maybe 100 to one yeah so our
+
+174
+00:07:02,080 --> 00:07:07,000
+technology is quite unique it's very
+
+175
+00:07:04,479 --> 00:07:09,759
+different from weo and Tesla first of
+
+176
+00:07:07,000 --> 00:07:12,639
+all we are still predominantly using lar
+
+177
+00:07:09,759 --> 00:07:15,360
+second of all these Lars are not on the
+
+178
+00:07:12,639 --> 00:07:17,199
+cars themselves these Lars are installed
+
+179
+00:07:15,360 --> 00:07:18,840
+around the infrastructures you'll be
+
+180
+00:07:17,199 --> 00:07:20,520
+able to see there's a poles and then
+
+181
+00:07:18,840 --> 00:07:22,680
+there's camera and the lighters
+
+182
+00:07:20,520 --> 00:07:25,319
+installed around the facility we have
+
+183
+00:07:22,680 --> 00:07:27,639
+embedded our robotic system into the
+
+184
+00:07:25,319 --> 00:07:29,520
+factory ground or into the building
+
+185
+00:07:27,639 --> 00:07:31,240
+itself what we have essentially done is
+
+186
+00:07:29,520 --> 00:07:33,240
+is along the path of this car has to
+
+187
+00:07:31,240 --> 00:07:35,879
+drive we have installed these poles
+
+188
+00:07:33,240 --> 00:07:37,720
+these sensors and then these cars will
+
+189
+00:07:35,879 --> 00:07:40,280
+be guided from this infrastructure
+
+190
+00:07:37,720 --> 00:07:42,080
+system the software is identical to the
+
+191
+00:07:40,280 --> 00:07:44,560
+standard self-driving which it goes into
+
+192
+00:07:42,080 --> 00:07:47,240
+the car we just have expanded on that
+
+193
+00:07:44,560 --> 00:07:49,360
+idea to turn the infrastructure itself
+
+194
+00:07:47,240 --> 00:07:51,520
+into a self-driving machine now when you
+
+195
+00:07:49,360 --> 00:07:53,280
+do that you can solve a lot of critical
+
+196
+00:07:51,520 --> 00:07:55,039
+issues that cannot be solved by a
+
+197
+00:07:53,280 --> 00:07:56,919
+conventional method first of all you
+
+198
+00:07:55,039 --> 00:07:58,840
+don't have to install hundreds and
+
+199
+00:07:56,919 --> 00:08:00,520
+thousands of dollars of sensors per car
+
+200
+00:07:58,840 --> 00:08:02,520
+you just need to install handful of
+
+201
+00:08:00,520 --> 00:08:04,720
+sensors around the infrastructure second
+
+202
+00:08:02,520 --> 00:08:07,720
+of all the issue with current
+
+203
+00:08:04,720 --> 00:08:10,000
+self-driving is that it cannot handle
+
+204
+00:08:07,720 --> 00:08:12,440
+heavy weather scenarios because when it
+
+205
+00:08:10,000 --> 00:08:14,960
+rains when it snows the sensors are are
+
+206
+00:08:12,440 --> 00:08:17,319
+blocked by precipitation but when you're
+
+207
+00:08:14,960 --> 00:08:19,599
+using infrastructure first of all you're
+
+208
+00:08:17,319 --> 00:08:22,280
+bypassing that limitation because the
+
+209
+00:08:19,599 --> 00:08:24,440
+sensors are installed lot closer to each
+
+210
+00:08:22,280 --> 00:08:26,280
+other so that firstable you can mitigate
+
+211
+00:08:24,440 --> 00:08:27,960
+just for the shortage of sensors cuz you
+
+212
+00:08:26,280 --> 00:08:30,520
+have just a lot more of them so kind of
+
+213
+00:08:27,960 --> 00:08:32,080
+brute forcing this Problem by just
+
+214
+00:08:30,520 --> 00:08:34,240
+putting more infrastructure system into
+
+215
+00:08:32,080 --> 00:08:36,640
+it but obviously second of all it's not
+
+216
+00:08:34,240 --> 00:08:39,360
+about the hardware it's about learning
+
+217
+00:08:36,640 --> 00:08:42,159
+how to fuse those immense amount of
+
+218
+00:08:39,360 --> 00:08:44,240
+sensor data processing them with the
+
+219
+00:08:42,159 --> 00:08:47,440
+data that you have collected for last 6
+
+220
+00:08:44,240 --> 00:08:49,240
+years to AI to figure out what is rain
+
+221
+00:08:47,440 --> 00:08:51,839
+what is snow what is noise and filter
+
+222
+00:08:49,240 --> 00:08:55,880
+all those out to exactly identify where
+
+223
+00:08:51,839 --> 00:08:57,880
+my fleet of cars are now this technology
+
+224
+00:08:55,880 --> 00:09:00,440
+which we call autonomy 3 infrastructure
+
+225
+00:08:57,880 --> 00:09:03,240
+gets to solve a very almost is ur
+
+226
+00:09:00,440 --> 00:09:05,240
+byproduct by doing so this was going to
+
+227
+00:09:03,240 --> 00:09:08,079
+be solving one of the critical issue for
+
+228
+00:09:05,240 --> 00:09:10,800
+the specially B2B use cases because the
+
+229
+00:09:08,079 --> 00:09:12,760
+cars needed to move in Fleet groups of
+
+230
+00:09:10,800 --> 00:09:14,600
+five groups of 10 groups of 50 groups of
+
+231
+00:09:12,760 --> 00:09:16,200
+100 cars and the current technology of
+
+232
+00:09:14,600 --> 00:09:17,959
+autonomous risings wasn't going to solve
+
+233
+00:09:16,200 --> 00:09:20,399
+that but if you're having infrastructure
+
+234
+00:09:17,959 --> 00:09:22,640
+system orchestrates fleets of car
+
+235
+00:09:20,399 --> 00:09:24,720
+simultaneously all of a sudden you can
+
+236
+00:09:22,640 --> 00:09:27,240
+move the fleets of cars safely we didn't
+
+237
+00:09:24,720 --> 00:09:29,640
+take the path of the least resistance we
+
+238
+00:09:27,240 --> 00:09:32,079
+just took the path of what kind of makes
+
+239
+00:09:29,640 --> 00:09:34,720
+sense to solve this problem at step by
+
+240
+00:09:32,079 --> 00:09:36,920
+step and it turns out that our system is
+
+241
+00:09:34,720 --> 00:09:38,680
+actually extremely cheap to deploy
+
+242
+00:09:36,920 --> 00:09:40,959
+because conventional method you need to
+
+243
+00:09:38,680 --> 00:09:42,959
+install systems for 100 cars for us it's
+
+244
+00:09:40,959 --> 00:09:46,399
+a small parking lot handful of sensors
+
+245
+00:09:42,959 --> 00:09:46,399
+then you can move hundreds of cars
+
+246
+00:09:47,160 --> 00:09:52,240
+simultaneously so CES and especially
+
+247
+00:09:49,480 --> 00:09:54,279
+Nvidia is they're looking into 10 15 20
+
+248
+00:09:52,240 --> 00:09:56,160
+years in the future now they're painting
+
+249
+00:09:54,279 --> 00:09:58,320
+a picture of what in is to be and they I
+
+250
+00:09:56,160 --> 00:10:00,839
+think they coined the term Fiscal AI
+
+251
+00:09:58,320 --> 00:10:04,920
+most breakthrough application is going
+
+252
+00:10:00,839 --> 00:10:07,640
+to be Robotics and fiscal AI is simply
+
+253
+00:10:04,920 --> 00:10:09,399
+AI agent going all the way to actuating
+
+254
+00:10:07,640 --> 00:10:11,480
+robotic arms and what's the difference
+
+255
+00:10:09,399 --> 00:10:12,880
+between robotic arms and engine of the
+
+256
+00:10:11,480 --> 00:10:14,880
+car it's the same it's a self-driving
+
+257
+00:10:12,880 --> 00:10:18,800
+system or you could call it humanoid
+
+258
+00:10:14,880 --> 00:10:21,760
+robotics etc etc etc and it is still few
+
+259
+00:10:18,800 --> 00:10:23,800
+more years away from commercialization
+
+260
+00:10:21,760 --> 00:10:26,000
+but it's slowly getting there and
+
+261
+00:10:23,800 --> 00:10:28,320
+physical AI as well eventually it's
+
+262
+00:10:26,000 --> 00:10:31,760
+going to get there what I admire about
+
+263
+00:10:28,320 --> 00:10:33,720
+Tesla and wayo is that they stuck to the
+
+264
+00:10:31,760 --> 00:10:35,320
+problem with the original design for
+
+265
+00:10:33,720 --> 00:10:36,920
+actually longer than anybody else with
+
+266
+00:10:35,320 --> 00:10:38,839
+extremely Talent groups of Engineers
+
+267
+00:10:36,920 --> 00:10:40,760
+this physical AI I think it just means
+
+268
+00:10:38,839 --> 00:10:42,519
+that there's more degree of Freedom
+
+269
+00:10:40,760 --> 00:10:44,560
+robotics being rolled out for many
+
+270
+00:10:42,519 --> 00:10:46,200
+different application human a robot
+
+271
+00:10:44,560 --> 00:10:49,000
+being kind of the epitome of that
+
+272
+00:10:46,200 --> 00:10:50,959
+application use cases but I think if
+
+273
+00:10:49,000 --> 00:10:52,760
+robotex and human is kind of similar as
+
+274
+00:10:50,959 --> 00:10:54,720
+it's like a b2c application get be
+
+275
+00:10:52,760 --> 00:10:56,360
+widely used for everybody else I think
+
+276
+00:10:54,720 --> 00:10:58,519
+it's going to be the same there's going
+
+277
+00:10:56,360 --> 00:11:00,880
+to be a lot of sectors actually that you
+
+278
+00:10:58,519 --> 00:11:02,440
+need to provide product for B2B use
+
+279
+00:11:00,880 --> 00:11:04,560
+cases for tunnel driving and there's
+
+280
+00:11:02,440 --> 00:11:06,760
+going to be a lot of Robotics for B2B
+
+281
+00:11:04,560 --> 00:11:08,399
+use cases as well that might not look
+
+282
+00:11:06,760 --> 00:11:10,440
+like Humanity robotics maybe somewhere
+
+283
+00:11:08,399 --> 00:11:12,399
+in between of those large industrial
+
+284
+00:11:10,440 --> 00:11:14,560
+robotics that you see in the car
+
+285
+00:11:12,399 --> 00:11:16,959
+factories and the human robotics a lot
+
+286
+00:11:14,560 --> 00:11:18,600
+of Robotics that goes into B2B sector is
+
+287
+00:11:16,959 --> 00:11:21,600
+somewhere in between it is going to be
+
+288
+00:11:18,600 --> 00:11:21,600
+the future it is
+
+289
+00:11:22,560 --> 00:11:28,680
+fixed thing that's always a big mistake
+
+290
+00:11:25,279 --> 00:11:29,880
+is going after a giant market on on day
+
+291
+00:11:28,680 --> 00:11:32,160
+one
+
+292
+00:11:29,880 --> 00:11:34,320
+I think one of the thing was a pivot
+
+293
+00:11:32,160 --> 00:11:36,120
+again we pivoted several times until we
+
+294
+00:11:34,320 --> 00:11:37,839
+kind of settle down on this B2B
+
+295
+00:11:36,120 --> 00:11:41,000
+autonomous driving and there was a lot
+
+296
+00:11:37,839 --> 00:11:44,160
+of fight within the company out of 100
+
+297
+00:11:41,000 --> 00:11:46,040
+projects which one do we keep it alive
+
+298
+00:11:44,160 --> 00:11:48,040
+we should actually keep some of it
+
+299
+00:11:46,040 --> 00:11:51,240
+instead of dropping rest of the 99
+
+300
+00:11:48,040 --> 00:11:53,320
+problems but I said no we have to be the
+
+301
+00:11:51,240 --> 00:11:55,760
+master of a one single product and one
+
+302
+00:11:53,320 --> 00:11:58,279
+single problem we don't have resources
+
+303
+00:11:55,760 --> 00:12:00,839
+to dilute our Focus I think I made the
+
+304
+00:11:58,279 --> 00:12:03,000
+right call those 9 99 Problems 99
+
+305
+00:12:00,839 --> 00:12:05,040
+products didn't matter if you have one
+
+306
+00:12:03,000 --> 00:12:06,480
+single killer item that's going to carry
+
+307
+00:12:05,040 --> 00:12:08,320
+all the way through I don't want to use
+
+308
+00:12:06,480 --> 00:12:11,079
+Samsung as a bad example but you know
+
+309
+00:12:08,320 --> 00:12:13,440
+Samsung and tsmc tsmc just focus on the
+
+310
+00:12:11,079 --> 00:12:15,399
+single fling you know Apple and Samsung
+
+311
+00:12:13,440 --> 00:12:18,040
+Apple focuses on a very handful of
+
+312
+00:12:15,399 --> 00:12:20,480
+products Samsung does a lot of things if
+
+313
+00:12:18,040 --> 00:12:21,920
+you look at the pure evaluation how the
+
+314
+00:12:20,480 --> 00:12:24,399
+market perceives those two three
+
+315
+00:12:21,920 --> 00:12:27,160
+companies tsmc and Apple has an higher
+
+316
+00:12:24,399 --> 00:12:30,440
+evaluation than Samsung I think that
+
+317
+00:12:27,160 --> 00:12:33,560
+makes sense one risk that has massive
+
+318
+00:12:30,440 --> 00:12:36,040
+upside that if I failed in this it's
+
+319
+00:12:33,560 --> 00:12:38,079
+okay because that was a massive upside
+
+320
+00:12:36,040 --> 00:12:39,639
+instead of the mediocre Market
+
+321
+00:12:38,079 --> 00:12:41,480
+distribute our focus on different
+
+322
+00:12:39,639 --> 00:12:43,600
+autonomous driving projects that was
+
+323
+00:12:41,480 --> 00:12:46,199
+just going to be mediocre all all around
+
+324
+00:12:43,600 --> 00:12:48,560
+and that's the risk of starting a
+
+325
+00:12:46,199 --> 00:12:50,519
+company if you fail we fail but if you
+
+326
+00:12:48,560 --> 00:12:52,680
+succeed in this one market segment that
+
+327
+00:12:50,519 --> 00:12:54,760
+is going to be so massive that just it
+
+328
+00:12:52,680 --> 00:12:56,880
+wouldn't be matter and that kind of
+
+329
+00:12:54,760 --> 00:12:58,560
+thing as the company grew people had a
+
+330
+00:12:56,880 --> 00:13:00,279
+different opinions about what kind of
+
+331
+00:12:58,560 --> 00:13:02,079
+product to build what kind of focus we
+
+332
+00:13:00,279 --> 00:13:04,560
+need to have multi-product strategy
+
+333
+00:13:02,079 --> 00:13:06,440
+multiple a strategy etc etc etc I didn't
+
+334
+00:13:04,560 --> 00:13:08,720
+like that I think those were some of the
+
+335
+00:13:06,440 --> 00:13:08,720
+kind of
+
+336
+00:13:10,519 --> 00:13:15,680
+learnings let's take for example Tesla
+
+337
+00:13:13,519 --> 00:13:17,800
+they started with focusing on the
+
+338
+00:13:15,680 --> 00:13:19,880
+electric motor itself they actually
+
+339
+00:13:17,800 --> 00:13:21,760
+could build a pretty good powerful
+
+340
+00:13:19,880 --> 00:13:24,160
+Efficient Electric Motor so they start
+
+341
+00:13:21,760 --> 00:13:25,959
+building that only and west of the car
+
+342
+00:13:24,160 --> 00:13:27,839
+component they just kind of Outsource it
+
+343
+00:13:25,959 --> 00:13:29,399
+battery car body or whatever the next
+
+344
+00:13:27,839 --> 00:13:30,959
+thing was the battery Focus on the
+
+345
+00:13:29,399 --> 00:13:32,600
+better technology was going to be very
+
+346
+00:13:30,959 --> 00:13:33,959
+important for Tesla's future and then
+
+347
+00:13:32,600 --> 00:13:37,000
+after that they were trying to sell the
+
+348
+00:13:33,959 --> 00:13:38,639
+car using the body of somebody else's
+
+349
+00:13:37,000 --> 00:13:40,959
+and they learned that okay you actually
+
+350
+00:13:38,639 --> 00:13:43,399
+got to build the body frame around your
+
+351
+00:13:40,959 --> 00:13:45,199
+core technology to build a solid product
+
+352
+00:13:43,399 --> 00:13:46,800
+that you can sell and Tesla actually
+
+353
+00:13:45,199 --> 00:13:48,519
+worked on Outsourcing some of their
+
+354
+00:13:46,800 --> 00:13:50,079
+Battery Technology and the power train
+
+355
+00:13:48,519 --> 00:13:51,680
+technology in the early days so they
+
+356
+00:13:50,079 --> 00:13:54,519
+were doing some of the Outsourcing
+
+357
+00:13:51,680 --> 00:13:56,920
+before they built their first product of
+
+358
+00:13:54,519 --> 00:13:58,639
+the model S but that is building one
+
+359
+00:13:56,920 --> 00:14:01,079
+success on top of each other to build
+
+360
+00:13:58,639 --> 00:14:03,639
+vertical Iz ation of Technology into a
+
+361
+00:14:01,079 --> 00:14:06,000
+singular solid product that outperforms
+
+362
+00:14:03,639 --> 00:14:07,480
+everybody else's so is we kind of took
+
+363
+00:14:06,000 --> 00:14:09,360
+the similar approach when it comes to
+
+364
+00:14:07,480 --> 00:14:10,959
+tunel driving perception was the most
+
+365
+00:14:09,360 --> 00:14:13,040
+important thing so we really delve
+
+366
+00:14:10,959 --> 00:14:15,240
+deeply into solving the computer vision
+
+367
+00:14:13,040 --> 00:14:17,199
+problem on top of that we were medling
+
+368
+00:14:15,240 --> 00:14:20,360
+around many different applications but
+
+369
+00:14:17,199 --> 00:14:22,639
+we found that in order to serve the B2B
+
+370
+00:14:20,360 --> 00:14:24,759
+autonomous driving problems we got to
+
+371
+00:14:22,639 --> 00:14:26,240
+build the entire product not just the
+
+372
+00:14:24,759 --> 00:14:28,040
+perception side we got to build the
+
+373
+00:14:26,240 --> 00:14:30,040
+planning and we got to build control we
+
+374
+00:14:28,040 --> 00:14:31,600
+got to build a system around that to
+
+375
+00:14:30,040 --> 00:14:34,120
+make our product work so that kind of
+
+376
+00:14:31,600 --> 00:14:36,000
+verticalization was extremely important
+
+377
+00:14:34,120 --> 00:14:37,959
+in order for that to work you still
+
+378
+00:14:36,000 --> 00:14:39,560
+actually got to own that core
+
+379
+00:14:37,959 --> 00:14:40,880
+differentiation technology for yourself
+
+380
+00:14:39,560 --> 00:14:42,959
+you can Outsource that and I think
+
+381
+00:14:40,880 --> 00:14:44,560
+that's one of the problem that a lot of
+
+382
+00:14:42,959 --> 00:14:46,920
+existing car makers are having cuz their
+
+383
+00:14:44,560 --> 00:14:48,959
+core technology is not batteries or
+
+384
+00:14:46,920 --> 00:14:51,800
+software or electrical motor it's
+
+385
+00:14:48,959 --> 00:14:54,560
+assembling parts so this core technology
+
+386
+00:14:51,800 --> 00:14:57,000
+differentiation is kind of showing the
+
+387
+00:14:54,560 --> 00:14:57,000
+impact
+
+388
+00:14:58,040 --> 00:15:04,160
+today we want to kind of Rebrand
+
+389
+00:15:01,040 --> 00:15:06,440
+ourselves and I thought te is just the
+
+390
+00:15:04,160 --> 00:15:10,000
+perfect domain for our website so
+
+391
+00:15:06,440 --> 00:15:12,160
+robotics. te sound perfect for our new
+
+392
+00:15:10,000 --> 00:15:14,240
+chapter that's why we chose Tech domain
+
+393
+00:15:12,160 --> 00:15:16,000
+if you're a hardcore tech company te
+
+394
+00:15:14,240 --> 00:15:18,040
+seems like the Just Right Choice like
+
+395
+00:15:16,000 --> 00:15:19,680
+hardcore robotics especially it's the
+
+396
+00:15:18,040 --> 00:15:22,279
+perfect domain autonomous driving that
+
+397
+00:15:19,680 --> 00:15:25,360
+we know is not just limited to robot
+
+398
+00:15:22,279 --> 00:15:28,160
+taxi there's just lot to do in the world
+
+399
+00:15:25,360 --> 00:15:31,519
+the driver shortage is severe in Korea
+
+400
+00:15:28,160 --> 00:15:33,800
+and Asia we need to provide robust
+
+401
+00:15:31,519 --> 00:15:36,639
+autonomous driving technology to the
+
+402
+00:15:33,800 --> 00:15:40,279
+backbone industry it's still in the
+
+403
+00:15:36,639 --> 00:15:42,120
+early days there's a lot to do right now
+
+404
+00:15:40,279 --> 00:15:44,360
+we are the only very few companies in
+
+405
+00:15:42,120 --> 00:15:46,279
+the world who's providing autonomous
+
+406
+00:15:44,360 --> 00:15:48,880
+driving technology to multiple car
+
+407
+00:15:46,279 --> 00:15:50,639
+makers and multiple logistics companies
+
+408
+00:15:48,880 --> 00:15:53,440
+I think we're going to be one of the
+
+409
+00:15:50,639 --> 00:15:55,440
+longlasting and very successful
+
+410
+00:15:53,440 --> 00:15:58,120
+autonomous driving company that solved
+
+411
+00:15:55,440 --> 00:16:00,480
+this severe societal problem we are
+
+412
+00:15:58,120 --> 00:16:02,600
+based in Korea if you want to solve
+
+413
+00:16:00,480 --> 00:16:05,120
+autonomous driving problems across the
+
+414
+00:16:02,600 --> 00:16:07,360
+different domains of Industry please
+
+415
+00:16:05,120 --> 00:16:09,430
+have a take a look at our website Sor
+
+416
+00:16:07,360 --> 00:16:09,570
+bar. Tech
+
+417
+00:16:09,430 --> 00:16:12,699
+[Music]
+
+418
+00:16:09,570 --> 00:16:12,699
+[Applause]
+
+419
+00:16:16,450 --> 00:16:19,820
+[Music]
+

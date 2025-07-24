@@ -1,0 +1,912 @@
+1
+00:00:00,160 --> 00:00:05,359
+I'm really conflicted in a way. I can
+
+2
+00:00:02,320 --> 00:00:07,680
+see that that AI is right now it's very
+
+3
+00:00:05,359 --> 00:00:10,160
+helpful in generating many different
+
+4
+00:00:07,680 --> 00:00:11,920
+ideas on anything. You've seen that. I
+
+5
+00:00:10,160 --> 00:00:14,080
+both like it and hate it at the same
+
+6
+00:00:11,920 --> 00:00:16,080
+time. Sort of like how I feel about the
+
+7
+00:00:14,080 --> 00:00:18,640
+phone. Everything is like this. Wouldn't
+
+8
+00:00:16,080 --> 00:00:22,080
+I be a lot better at without the phone?
+
+9
+00:00:18,640 --> 00:00:24,720
+And I am a fan of AI. But I would not
+
+10
+00:00:22,080 --> 00:00:28,320
+seed to it the ultimate judgment. What
+
+11
+00:00:24,720 --> 00:00:31,399
+you think is funny or a good song or a
+
+12
+00:00:28,320 --> 00:00:33,000
+good novel. Remember it is being trained
+
+13
+00:00:31,399 --> 00:00:36,239
+on
+
+14
+00:00:33,000 --> 00:00:39,440
+averess but I'm not average. Each one of
+
+15
+00:00:36,239 --> 00:00:42,520
+us has our own sensibility and really it
+
+16
+00:00:39,440 --> 00:00:46,879
+depends on whether what your abilities
+
+17
+00:00:42,520 --> 00:00:49,120
+are. Creator has to understand they as a
+
+18
+00:00:46,879 --> 00:00:53,480
+human are the ultimate arbiter. If all
+
+19
+00:00:49,120 --> 00:00:57,199
+of a sudden we are seeding to algorithms
+
+20
+00:00:53,480 --> 00:01:00,239
+completely then I do think we lose a
+
+21
+00:00:57,199 --> 00:01:02,800
+certain kind of agency in you know in
+
+22
+00:01:00,239 --> 00:01:03,800
+our lives. You can find a way to be
+
+23
+00:01:02,800 --> 00:01:11,159
+great in your own
+
+24
+00:01:03,800 --> 00:01:13,920
+[Music]
+
+25
+00:01:11,159 --> 00:01:18,200
+way. I'm Bob Mangov. I'm the former
+
+26
+00:01:13,920 --> 00:01:18,200
+cartoon editor of The New Yorker.
+
+27
+00:01:19,040 --> 00:01:26,400
+I was a cartoonist there for 40
+
+28
+00:01:21,640 --> 00:01:29,360
+years. I'm a researcher in AI and humor.
+
+29
+00:01:26,400 --> 00:01:32,079
+I like pingpong. I'm pretty good at it.
+
+30
+00:01:29,360 --> 00:01:36,520
+I've got a very good jump shot. I'm a
+
+31
+00:01:32,079 --> 00:01:39,280
+person who is perpetually unhappy and
+
+32
+00:01:36,520 --> 00:01:41,920
+dissatisfied and makes the best of it
+
+33
+00:01:39,280 --> 00:01:45,399
+through humor.
+
+34
+00:01:41,920 --> 00:01:47,759
+I think partly I became a cartoonist
+
+35
+00:01:45,399 --> 00:01:49,600
+because I was pretty terrible at
+
+36
+00:01:47,759 --> 00:01:51,759
+everything else and I was pretty good at
+
+37
+00:01:49,600 --> 00:01:53,920
+that. I was always funny and I always
+
+38
+00:01:51,759 --> 00:01:56,880
+drew. did a lot of different things in
+
+39
+00:01:53,920 --> 00:01:59,200
+the 1960s and I eventually became an
+
+40
+00:01:56,880 --> 00:02:01,640
+experimental psychologist but in the
+
+41
+00:01:59,200 --> 00:02:05,439
+back of my mind I always wanted to be a
+
+42
+00:02:01,640 --> 00:02:08,640
+cartoonist and at the age of 30 short of
+
+43
+00:02:05,439 --> 00:02:11,039
+my PhD I decided I would give it a try
+
+44
+00:02:08,640 --> 00:02:13,040
+and I ended up submitting about 2,000
+
+45
+00:02:11,039 --> 00:02:15,120
+cartoons to the New Yorker magazine
+
+46
+00:02:13,040 --> 00:02:17,280
+before finally getting in. I end up
+
+47
+00:02:15,120 --> 00:02:20,160
+doing almost a thousand cartoons for the
+
+48
+00:02:17,280 --> 00:02:24,040
+New Yorker and I was cartoon editor from
+
+49
+00:02:20,160 --> 00:02:26,000
+1997 to 2017. I was interested in
+
+50
+00:02:24,040 --> 00:02:28,640
+computers. I bought the first
+
+51
+00:02:26,000 --> 00:02:31,200
+Macintoshes. I started to scan them and
+
+52
+00:02:28,640 --> 00:02:34,080
+in so in the early 1990s I created this
+
+53
+00:02:31,200 --> 00:02:37,120
+company called the cartoon bank and the
+
+54
+00:02:34,080 --> 00:02:39,519
+cartoon bank was consists of all the
+
+55
+00:02:37,120 --> 00:02:41,440
+cartoons the New Yorker rejected because
+
+56
+00:02:39,519 --> 00:02:44,480
+I knew that there were many very good
+
+57
+00:02:41,440 --> 00:02:47,840
+cartoons in that storing cartoons on
+
+58
+00:02:44,480 --> 00:02:51,680
+hard drives and then when people would
+
+59
+00:02:47,840 --> 00:02:54,800
+fax or call in I would access those
+
+60
+00:02:51,680 --> 00:02:57,120
+cartoons and send them to me they and
+
+61
+00:02:54,800 --> 00:02:59,000
+they would pay for them and The business
+
+62
+00:02:57,120 --> 00:03:01,120
+that I now have,
+
+63
+00:02:59,000 --> 00:03:02,599
+cartoonstock.com, is half of all the
+
+64
+00:03:01,120 --> 00:03:05,840
+revenue goes to the
+
+65
+00:03:02,599 --> 00:03:11,360
+cartoonist. As a cartoonist, my goal was
+
+66
+00:03:05,840 --> 00:03:13,280
+to come up with a new idea. So maybe if
+
+67
+00:03:11,360 --> 00:03:16,640
+you're just saying what other people are
+
+68
+00:03:13,280 --> 00:03:18,640
+saying, what is the point of your post?
+
+69
+00:03:16,640 --> 00:03:21,120
+If you're just saying exactly what
+
+70
+00:03:18,640 --> 00:03:23,360
+someone else is saying, can you have a
+
+71
+00:03:21,120 --> 00:03:27,200
+new thought on this? What I want to say
+
+72
+00:03:23,360 --> 00:03:30,560
+in a way is that I'm a pretty ordinary
+
+73
+00:03:27,200 --> 00:03:33,599
+person. I'm not a genius. Okay? I was
+
+74
+00:03:30,560 --> 00:03:36,840
+able to make some jokes. I hardly went
+
+75
+00:03:33,599 --> 00:03:40,400
+to class during those years from 62 to
+
+76
+00:03:36,840 --> 00:03:42,319
+66. What I'm saying to everyone is you
+
+77
+00:03:40,400 --> 00:03:44,319
+can't find a way to be great in your own
+
+78
+00:03:42,319 --> 00:03:48,159
+way. I didn't even start being a
+
+79
+00:03:44,319 --> 00:03:51,560
+cartoonist till I was 30. Use your youth
+
+80
+00:03:48,159 --> 00:03:54,000
+to experiment and do everything
+
+81
+00:03:51,560 --> 00:03:56,799
+possible. The job at the office is
+
+82
+00:03:54,000 --> 00:03:59,120
+always going to be there. Okay? Don't go
+
+83
+00:03:56,799 --> 00:03:59,120
+there
+
+84
+00:04:00,840 --> 00:04:05,920
+first. The caption contest on the back
+
+85
+00:04:03,599 --> 00:04:08,480
+page of the magazine or towards the the
+
+86
+00:04:05,920 --> 00:04:10,799
+end of the magazine now and online. And
+
+87
+00:04:08,480 --> 00:04:13,519
+every one of these images is in and of
+
+88
+00:04:10,799 --> 00:04:16,000
+itself funny in some way, but it's not
+
+89
+00:04:13,519 --> 00:04:19,680
+funny like a joke. it still needs a
+
+90
+00:04:16,000 --> 00:04:22,320
+caption to resolve it to make the humor.
+
+91
+00:04:19,680 --> 00:04:24,199
+So for many years I and my assistants
+
+92
+00:04:22,320 --> 00:04:28,000
+just looked over these thousands of
+
+93
+00:04:24,199 --> 00:04:29,880
+captions. But in 2015 I partnered from
+
+94
+00:04:28,000 --> 00:04:32,919
+researchers at the University of
+
+95
+00:04:29,880 --> 00:04:35,199
+Wisconsin to crowdsource all this
+
+96
+00:04:32,919 --> 00:04:38,080
+information. And so now there's an
+
+97
+00:04:35,199 --> 00:04:40,639
+extensive data set in which you have all
+
+98
+00:04:38,080 --> 00:04:43,199
+the captions ranked. And I've done a lot
+
+99
+00:04:40,639 --> 00:04:46,479
+of AI research and other people have
+
+100
+00:04:43,199 --> 00:04:49,040
+done AI research on this towards the end
+
+101
+00:04:46,479 --> 00:04:51,759
+of can computers first of all
+
+102
+00:04:49,040 --> 00:04:54,320
+distinguish can they be fine-tuned on
+
+103
+00:04:51,759 --> 00:04:58,160
+this to discriminate funny from unfunny
+
+104
+00:04:54,320 --> 00:05:02,240
+captions and can we use this data then
+
+105
+00:04:58,160 --> 00:05:07,360
+to generalize the ultimate aim is to be
+
+106
+00:05:02,240 --> 00:05:10,240
+able to give AI a sense of humor and
+
+107
+00:05:07,360 --> 00:05:13,199
+that was a noble effort but that failed
+
+108
+00:05:10,240 --> 00:05:15,280
+because AI at that time did not use
+
+109
+00:05:13,199 --> 00:05:17,440
+large language models. It it really
+
+110
+00:05:15,280 --> 00:05:19,440
+failed on the very first hurdle. It
+
+111
+00:05:17,440 --> 00:05:22,240
+could not look at the image and
+
+112
+00:05:19,440 --> 00:05:25,199
+understand what was in it. Here's a
+
+113
+00:05:22,240 --> 00:05:27,600
+mechanic talking to a clown and the hood
+
+114
+00:05:25,199 --> 00:05:30,240
+of the car is open and underneath the
+
+115
+00:05:27,600 --> 00:05:32,320
+hood are many other clowns is also a
+
+116
+00:05:30,240 --> 00:05:34,160
+businessman. So, it couldn't understand
+
+117
+00:05:32,320 --> 00:05:36,080
+images like that. It still has
+
+118
+00:05:34,160 --> 00:05:39,360
+difficulty understanding images like
+
+119
+00:05:36,080 --> 00:05:42,479
+that. So, I think it failed on that
+
+120
+00:05:39,360 --> 00:05:45,600
+score, but it did stimulate other
+
+121
+00:05:42,479 --> 00:05:47,919
+research that I continue to do. I still
+
+122
+00:05:45,600 --> 00:05:50,479
+think it's not a long way from creating
+
+123
+00:05:47,919 --> 00:05:53,800
+mediocre humor. It's a long way from
+
+124
+00:05:50,479 --> 00:05:56,479
+creating deep, meaningful
+
+125
+00:05:53,800 --> 00:05:59,759
+human. Vincent Van Hook, now he heads
+
+126
+00:05:56,479 --> 00:06:02,000
+Whimo. He emailed me saying it's great
+
+127
+00:05:59,759 --> 00:06:05,440
+that we can win it go but we really feel
+
+128
+00:06:02,000 --> 00:06:07,199
+that we have achieved AGI artificial
+
+129
+00:06:05,440 --> 00:06:10,400
+general intelligence if we could win the
+
+130
+00:06:07,199 --> 00:06:13,600
+caption contest. And another way to look
+
+131
+00:06:10,400 --> 00:06:15,600
+at it is this. In the 70s there was a
+
+132
+00:06:13,600 --> 00:06:18,319
+genre of art which was called photo
+
+133
+00:06:15,600 --> 00:06:20,240
+realism. It took a photo and it looked
+
+134
+00:06:18,319 --> 00:06:22,479
+exactly like a photo but it was a
+
+135
+00:06:20,240 --> 00:06:25,680
+painting. And you'd be amazed by it. You
+
+136
+00:06:22,479 --> 00:06:27,840
+would go up to that painting and look at
+
+137
+00:06:25,680 --> 00:06:30,919
+every detail because somehow a human
+
+138
+00:06:27,840 --> 00:06:34,240
+being had created something like
+
+139
+00:06:30,919 --> 00:06:36,960
+that. You wouldn't look at that photo.
+
+140
+00:06:34,240 --> 00:06:39,360
+If you look 2 years ago, people were
+
+141
+00:06:36,960 --> 00:06:41,440
+saying, "Oh, it's Dolly 3. Artists are
+
+142
+00:06:39,360 --> 00:06:43,600
+going to be replaced." I don't see
+
+143
+00:06:41,440 --> 00:06:48,240
+artists being replaced. You know what I
+
+144
+00:06:43,600 --> 00:06:51,039
+mean? AI is a tool and I can see it used
+
+145
+00:06:48,240 --> 00:06:53,319
+in a lot of interesting ways, but I
+
+146
+00:06:51,039 --> 00:06:57,120
+would not seed to it the ultimate
+
+147
+00:06:53,319 --> 00:07:00,960
+judgment of what you think is funny or a
+
+148
+00:06:57,120 --> 00:07:04,000
+good song or a good novel. Even the AI
+
+149
+00:07:00,960 --> 00:07:08,319
+or the AGI that people imagine that is
+
+150
+00:07:04,000 --> 00:07:10,440
+robust and safe and all of that also
+
+151
+00:07:08,319 --> 00:07:14,400
+might not be a very good thing for
+
+152
+00:07:10,440 --> 00:07:17,440
+humanity and somehow that makes us happy
+
+153
+00:07:14,400 --> 00:07:19,960
+somehow now what are we doing remember
+
+154
+00:07:17,440 --> 00:07:24,160
+it is being trained
+
+155
+00:07:19,960 --> 00:07:27,360
+on averageness but I'm not average each
+
+156
+00:07:24,160 --> 00:07:31,560
+one of us has our own sensibility if all
+
+157
+00:07:27,360 --> 00:07:34,479
+of a sudden we are seating to algorithms
+
+158
+00:07:31,560 --> 00:07:38,479
+completely what it is that we should
+
+159
+00:07:34,479 --> 00:07:41,039
+like then I do think we lose uh we lose
+
+160
+00:07:38,479 --> 00:07:43,880
+a certain kind of agency you know in our
+
+161
+00:07:41,039 --> 00:07:46,960
+lives a human sense of humor is that
+
+162
+00:07:43,880 --> 00:07:51,120
+about making a joke or getting at it
+
+163
+00:07:46,960 --> 00:07:53,400
+it's rooted in our vulnerability
+
+164
+00:07:51,120 --> 00:07:57,280
+it gives answers
+
+165
+00:07:53,400 --> 00:07:59,919
+to anything we can ask and I think it's
+
+166
+00:07:57,280 --> 00:08:02,840
+very it's I find it very useful ful for
+
+167
+00:07:59,919 --> 00:08:06,160
+anything that's factual. I mean the
+
+168
+00:08:02,840 --> 00:08:07,960
+questions I want to ask it would be the
+
+169
+00:08:06,160 --> 00:08:11,599
+questions I would want to ask my
+
+170
+00:08:07,960 --> 00:08:15,319
+therapist which is for instance how do I
+
+171
+00:08:11,599 --> 00:08:19,039
+deal at 80 with the diminishing
+
+172
+00:08:15,319 --> 00:08:23,360
+capabilities the physical deterioration
+
+173
+00:08:19,039 --> 00:08:26,199
+the understanding that death is real and
+
+174
+00:08:23,360 --> 00:08:29,039
+how do we deal with this ultimate
+
+175
+00:08:26,199 --> 00:08:33,039
+unintelligibility of being human but if
+
+176
+00:08:29,039 --> 00:08:35,399
+I talk to a therapist who's my age and
+
+177
+00:08:33,039 --> 00:08:38,479
+we had a conversation about
+
+178
+00:08:35,399 --> 00:08:40,279
+it, there wouldn't be any answers
+
+179
+00:08:38,479 --> 00:08:43,039
+because there is no
+
+180
+00:08:40,279 --> 00:08:45,600
+answer and AI doesn't know how to tell
+
+181
+00:08:43,039 --> 00:08:47,839
+you there is no answer. In fact, it's
+
+182
+00:08:45,600 --> 00:08:49,839
+just going to give you a lot of advice.
+
+183
+00:08:47,839 --> 00:08:51,040
+You know, you should exercise more. You
+
+184
+00:08:49,839 --> 00:08:53,360
+know, even though you're going to die,
+
+185
+00:08:51,040 --> 00:08:55,680
+everyone's going to die. You want to
+
+186
+00:08:53,360 --> 00:08:58,480
+live your absolutely best life you can
+
+187
+00:08:55,680 --> 00:09:01,399
+until you die. We don't actually want
+
+188
+00:08:58,480 --> 00:09:04,320
+answers for anything. We want
+
+189
+00:09:01,399 --> 00:09:05,880
+understanding and it's only human beings
+
+190
+00:09:04,320 --> 00:09:10,640
+who can
+
+191
+00:09:05,880 --> 00:09:10,640
+understand. Understand that it's
+
+192
+00:09:13,160 --> 00:09:19,600
+like I'm married and I have a child
+
+193
+00:09:17,600 --> 00:09:21,560
+daughter and I had a stepson and the
+
+194
+00:09:19,600 --> 00:09:23,720
+stepson
+
+195
+00:09:21,560 --> 00:09:26,160
+died
+
+196
+00:09:23,720 --> 00:09:28,800
+tragically. There's nothing a computer
+
+197
+00:09:26,160 --> 00:09:32,640
+can tell me. There's nothing an AI can
+
+198
+00:09:28,800 --> 00:09:35,360
+tell me or my wife about that that we
+
+199
+00:09:32,640 --> 00:09:38,000
+want to hear. We don't even want to hear
+
+200
+00:09:35,360 --> 00:09:40,200
+from other people, but we want to hear
+
+201
+00:09:38,000 --> 00:09:43,760
+from other people who've had a similar
+
+202
+00:09:40,200 --> 00:09:46,920
+experience, who have endured that. So
+
+203
+00:09:43,760 --> 00:09:51,120
+there I think we get to the existential
+
+204
+00:09:46,920 --> 00:09:53,080
+questions that AI is useless for, but
+
+205
+00:09:51,120 --> 00:09:55,760
+people are very useful
+
+206
+00:09:53,080 --> 00:09:57,360
+for. AGI is not going to have a solution
+
+207
+00:09:55,760 --> 00:09:58,600
+for that. So that's what I'm thinking
+
+208
+00:09:57,360 --> 00:10:02,080
+most
+
+209
+00:09:58,600 --> 00:10:04,800
+about. Mark Twain said, "The essence of
+
+210
+00:10:02,080 --> 00:10:07,920
+humor is not based on joy, but sorrow
+
+211
+00:10:04,800 --> 00:10:13,040
+and hurt and wrong." One of the
+
+212
+00:10:07,920 --> 00:10:17,279
+functions of humor is for it to deal
+
+213
+00:10:13,040 --> 00:10:20,959
+with our ultimate sorrow. So one of the
+
+214
+00:10:17,279 --> 00:10:23,839
+main functions of humor is coping. And
+
+215
+00:10:20,959 --> 00:10:26,160
+frankly, AI has nothing to cope with.
+
+216
+00:10:23,839 --> 00:10:28,720
+It's like saying, well, can AI master
+
+217
+00:10:26,160 --> 00:10:33,120
+humor? I do think you can work
+
+218
+00:10:28,720 --> 00:10:36,920
+collaboratively with it to get it as a
+
+219
+00:10:33,120 --> 00:10:39,519
+to augment human humor. Okay. But to
+
+220
+00:10:36,920 --> 00:10:42,560
+completely, let me put it another way.
+
+221
+00:10:39,519 --> 00:10:45,600
+AI is superhuman at that game over there
+
+222
+00:10:42,560 --> 00:10:48,240
+of chess. It doesn't even make sense to
+
+223
+00:10:45,600 --> 00:10:51,040
+have superhuman humor. We're the judges
+
+224
+00:10:48,240 --> 00:10:54,160
+of humor. And a big fan of it anyway. I
+
+225
+00:10:51,040 --> 00:10:55,399
+hope not. Or if it does, I hope it does
+
+226
+00:10:54,160 --> 00:10:58,240
+after I
+
+227
+00:10:55,399 --> 00:11:21,230
+die. Okay.
+
+228
+00:10:58,240 --> 00:11:21,230
+[Music]
+

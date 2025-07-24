@@ -1,0 +1,2816 @@
+1
+00:00:00,000 --> 00:00:02,960
+I think startups are basically like
+
+2
+00:00:01,520 --> 00:00:04,319
+getting slapped in the face probably
+
+3
+00:00:02,960 --> 00:00:06,640
+over and over again. That's basically
+
+4
+00:00:04,319 --> 00:00:08,400
+it. I also, you know, interestingly, I I
+
+5
+00:00:06,640 --> 00:00:09,760
+actually like failures a lot. One of the
+
+6
+00:00:08,400 --> 00:00:11,040
+things I hate the most is doing
+
+7
+00:00:09,760 --> 00:00:12,880
+something and not knowing if it's
+
+8
+00:00:11,040 --> 00:00:14,400
+working or not. And it's actually very
+
+9
+00:00:12,880 --> 00:00:16,160
+it's very freeing to know when something
+
+10
+00:00:14,400 --> 00:00:17,760
+fails because that's very obvious. I
+
+11
+00:00:16,160 --> 00:00:19,199
+like when decisions are obvious. Like
+
+12
+00:00:17,760 --> 00:00:20,720
+when something fails, it's obvious you
+
+13
+00:00:19,199 --> 00:00:22,160
+need to do something new. And the faster
+
+14
+00:00:20,720 --> 00:00:23,519
+you fail, actually, the faster you can
+
+15
+00:00:22,160 --> 00:00:25,359
+decide to do something new. And I think
+
+16
+00:00:23,519 --> 00:00:27,039
+for a company like us, like we're at the
+
+17
+00:00:25,359 --> 00:00:28,560
+frontier of the technology, we should be
+
+18
+00:00:27,039 --> 00:00:30,080
+imagining we are failing at a lot of
+
+19
+00:00:28,560 --> 00:00:31,519
+initiatives. In fact, if everything is
+
+20
+00:00:30,080 --> 00:00:32,800
+working, we're operating at less than
+
+21
+00:00:31,519 --> 00:00:34,239
+potential of the company. We should be
+
+22
+00:00:32,800 --> 00:00:35,440
+failing. Like that probably means we're
+
+23
+00:00:34,239 --> 00:00:37,120
+not betting. We're not taking enough
+
+24
+00:00:35,440 --> 00:00:38,559
+bets if we're not failing enough. I I
+
+25
+00:00:37,120 --> 00:00:40,480
+think it's like a required part of a
+
+26
+00:00:38,559 --> 00:00:42,800
+company that you that you fail. I'd say
+
+27
+00:00:40,480 --> 00:00:44,559
+like be more humble about your ideas.
+
+28
+00:00:42,800 --> 00:00:46,079
+And I wouldn't say that I was arrogant
+
+29
+00:00:44,559 --> 00:00:48,079
+at the time, but probably a lot more
+
+30
+00:00:46,079 --> 00:00:49,440
+idealistic about our ideas being
+
+31
+00:00:48,079 --> 00:00:51,680
+correct. And you need some amount of
+
+32
+00:00:49,440 --> 00:00:53,520
+idealism as I said before, but at the
+
+33
+00:00:51,680 --> 00:00:55,920
+same time, it's that there's no reason
+
+34
+00:00:53,520 --> 00:00:57,920
+why an idea is great if you haven't like
+
+35
+00:00:55,920 --> 00:00:59,359
+validated it. be honest with yourselves
+
+36
+00:00:57,920 --> 00:01:00,719
+about, you know, the viability of your
+
+37
+00:00:59,359 --> 00:01:02,160
+idea and be willing to pivot very
+
+38
+00:01:00,719 --> 00:01:03,920
+quickly. I feel like a lot of a lot of
+
+39
+00:01:02,160 --> 00:01:05,840
+founders hate the word pivot, but it's
+
+40
+00:01:03,920 --> 00:01:07,360
+it's awesome. Like, it's awesome. You
+
+41
+00:01:05,840 --> 00:01:08,960
+know, what sucks more is like doing the
+
+42
+00:01:07,360 --> 00:01:10,479
+wrong thing and just failing. Even right
+
+43
+00:01:08,960 --> 00:01:12,000
+now, I would say one of my regrets is
+
+44
+00:01:10,479 --> 00:01:14,960
+probably not doing the pivot 3 months
+
+45
+00:01:12,000 --> 00:01:16,640
+earlier.
+
+46
+00:01:14,960 --> 00:01:18,880
+Hey, I'm Verun, CEO and co-founder of
+
+47
+00:01:16,640 --> 00:01:21,360
+Windsurf. So, Windsurf is an AI powered
+
+48
+00:01:18,880 --> 00:01:22,960
+ID uh that provides agentic capabilities
+
+49
+00:01:21,360 --> 00:01:25,200
+that enables developers and
+
+50
+00:01:22,960 --> 00:01:27,119
+non-developers to build apps really
+
+51
+00:01:25,200 --> 00:01:28,960
+quickly and also modify existing
+
+52
+00:01:27,119 --> 00:01:30,240
+applications really quickly. A million
+
+53
+00:01:28,960 --> 00:01:31,680
+developers have actually used the
+
+54
+00:01:30,240 --> 00:01:33,920
+product. We have hundreds of thousands
+
+55
+00:01:31,680 --> 00:01:35,600
+of monthly active users on the on the
+
+56
+00:01:33,920 --> 00:01:37,520
+product right now and it's growing, you
+
+57
+00:01:35,600 --> 00:01:41,040
+know, exponentially faster with time.
+
+58
+00:01:37,520 --> 00:01:42,479
+So, I graduated from MIT in 2017 and
+
+59
+00:01:41,040 --> 00:01:44,240
+after that I actually worked at an
+
+60
+00:01:42,479 --> 00:01:46,560
+autonomous vehicle company in Mountain
+
+61
+00:01:44,240 --> 00:01:48,320
+View called Nuro. there sort of got an
+
+62
+00:01:46,560 --> 00:01:50,720
+early taste of what deep learning could
+
+63
+00:01:48,320 --> 00:01:52,880
+do for other industries. Started the
+
+64
+00:01:50,720 --> 00:01:54,720
+company actually in 2021, so it's been 4
+
+65
+00:01:52,880 --> 00:01:56,799
+years. At the time, the company didn't
+
+66
+00:01:54,720 --> 00:01:58,799
+do anything relating to code AI. It
+
+67
+00:01:56,799 --> 00:02:01,360
+actually built out GPU virtualization
+
+68
+00:01:58,799 --> 00:02:03,200
+and compiler technology. We did that for
+
+69
+00:02:01,360 --> 00:02:04,880
+over a year and a half and were able to
+
+70
+00:02:03,200 --> 00:02:06,799
+get to a couple million in revenue. We
+
+71
+00:02:04,880 --> 00:02:08,640
+had eight employees at the time. One
+
+72
+00:02:06,799 --> 00:02:11,200
+thing changed very very materially in
+
+73
+00:02:08,640 --> 00:02:13,599
+that time. In the middle of 2022, GPT
+
+74
+00:02:11,200 --> 00:02:14,959
+3.5 came out at that point and we
+
+75
+00:02:13,599 --> 00:02:16,879
+thought that generative models would
+
+76
+00:02:14,959 --> 00:02:18,560
+fundamentally transform many different
+
+77
+00:02:16,879 --> 00:02:20,480
+industries and we needed to make kind of
+
+78
+00:02:18,560 --> 00:02:21,840
+a pretty big decision at that point to
+
+79
+00:02:20,480 --> 00:02:23,440
+pivot the company because we
+
+80
+00:02:21,840 --> 00:02:24,959
+fundamentally felt everyone was going to
+
+81
+00:02:23,440 --> 00:02:26,800
+run generative models for everything.
+
+82
+00:02:24,959 --> 00:02:28,720
+And at that point we believed a lot of
+
+83
+00:02:26,800 --> 00:02:31,200
+the value would acrue to companies that
+
+84
+00:02:28,720 --> 00:02:32,879
+were applications almost like in the
+
+85
+00:02:31,200 --> 00:02:34,879
+early days of the internet the companies
+
+86
+00:02:32,879 --> 00:02:36,720
+that proved to be very valuable were
+
+87
+00:02:34,879 --> 00:02:38,080
+companies like Google and Amazon and we
+
+88
+00:02:36,720 --> 00:02:39,280
+wanted to see what would it be like if
+
+89
+00:02:38,080 --> 00:02:41,120
+we could build the next Google or
+
+90
+00:02:39,280 --> 00:02:43,040
+Amazon. We were early adopters of a
+
+91
+00:02:41,120 --> 00:02:44,640
+product called GitHub Copilot and from
+
+92
+00:02:43,040 --> 00:02:46,640
+there we actually built out a product
+
+93
+00:02:44,640 --> 00:02:49,040
+called Kodium which was an extension
+
+94
+00:02:46,640 --> 00:02:50,879
+that lived in all the major IDEs and we
+
+95
+00:02:49,040 --> 00:02:53,120
+were able to get that to over a million
+
+96
+00:02:50,879 --> 00:02:54,400
+users as well. Um, and we ended up
+
+97
+00:02:53,120 --> 00:02:56,239
+serving some of the world's largest
+
+98
+00:02:54,400 --> 00:02:58,160
+enterprises, companies like JP Morgan
+
+99
+00:02:56,239 --> 00:03:00,080
+Chase. Very quickly though, sort of
+
+100
+00:02:58,160 --> 00:03:01,280
+middle of last year, we realized that we
+
+101
+00:03:00,080 --> 00:03:02,879
+needed to control more of the
+
+102
+00:03:01,280 --> 00:03:04,800
+experience, especially as these models
+
+103
+00:03:02,879 --> 00:03:06,879
+became more and more agentic. And that
+
+104
+00:03:04,800 --> 00:03:08,720
+was why we decided to build our own ID,
+
+105
+00:03:06,879 --> 00:03:11,510
+which was Windsurf. That has taken off
+
+106
+00:03:08,720 --> 00:03:15,680
+very quickly as well.
+
+107
+00:03:11,510 --> 00:03:16,879
+[Music]
+
+108
+00:03:15,680 --> 00:03:18,400
+It's actually kind of interesting. I
+
+109
+00:03:16,879 --> 00:03:20,000
+think MIT is very different than
+
+110
+00:03:18,400 --> 00:03:22,239
+Stanford. I think most people don't go
+
+111
+00:03:20,000 --> 00:03:24,000
+to MIT to kind of immediately start a
+
+112
+00:03:22,239 --> 00:03:25,599
+company. I don't think my aspirations
+
+113
+00:03:24,000 --> 00:03:27,920
+were to start a company. I did
+
+114
+00:03:25,599 --> 00:03:30,319
+progressively intern at smaller and
+
+115
+00:03:27,920 --> 00:03:32,959
+smaller companies. So I first interned
+
+116
+00:03:30,319 --> 00:03:34,400
+at LinkedIn, then after that Quora uh
+
+117
+00:03:32,959 --> 00:03:35,840
+and then data bricks. Data bricks at
+
+118
+00:03:34,400 --> 00:03:37,599
+that time was a very small engineering
+
+119
+00:03:35,840 --> 00:03:39,120
+team. They were not even a unicorn at
+
+120
+00:03:37,599 --> 00:03:40,640
+that time. But I think I didn't actually
+
+121
+00:03:39,120 --> 00:03:42,080
+end up working at any of these companies
+
+122
+00:03:40,640 --> 00:03:44,720
+because I think the thing that motivated
+
+123
+00:03:42,080 --> 00:03:46,640
+me was can I be a meaningful part of a
+
+124
+00:03:44,720 --> 00:03:48,319
+visionary company working with motivated
+
+125
+00:03:46,640 --> 00:03:49,760
+people. That's always been what's driven
+
+126
+00:03:48,319 --> 00:03:51,440
+me and that's sort of why immediately
+
+127
+00:03:49,760 --> 00:03:52,959
+after MIT I decided to go work at an
+
+128
+00:03:51,440 --> 00:03:55,120
+autonomous vehicle company. I thought
+
+129
+00:03:52,959 --> 00:03:57,840
+that could be the future of where just
+
+130
+00:03:55,120 --> 00:03:59,519
+robotics was going to go and I think for
+
+131
+00:03:57,840 --> 00:04:01,200
+me and probably the other people at the
+
+132
+00:03:59,519 --> 00:04:02,720
+company we want to work on the future of
+
+133
+00:04:01,200 --> 00:04:05,599
+technology and that's what truly
+
+134
+00:04:02,720 --> 00:04:07,360
+motivates us. I think the motiv is just
+
+135
+00:04:05,599 --> 00:04:09,200
+how do you build products in hard
+
+136
+00:04:07,360 --> 00:04:10,799
+technology spaces where the technology
+
+137
+00:04:09,200 --> 00:04:12,879
+is not there yet. You know I I'll give
+
+138
+00:04:10,799 --> 00:04:14,560
+like a quick just some interesting
+
+139
+00:04:12,879 --> 00:04:16,560
+numbers. You know, when we started,
+
+140
+00:04:14,560 --> 00:04:18,720
+obviously, deep learning was was pretty
+
+141
+00:04:16,560 --> 00:04:20,880
+popular. Uh, but the amount of compute
+
+142
+00:04:18,720 --> 00:04:22,720
+that these models had access to grew
+
+143
+00:04:20,880 --> 00:04:24,560
+exponentially year-over-year. You know,
+
+144
+00:04:22,720 --> 00:04:26,160
+just some numbers here. In 2017, the
+
+145
+00:04:24,560 --> 00:04:28,880
+number of teraflops on a consumer grade
+
+146
+00:04:26,160 --> 00:04:31,440
+GPU was 10. By the end of 2022, it was
+
+147
+00:04:28,880 --> 00:04:33,520
+actually 700. So, it's a massive
+
+148
+00:04:31,440 --> 00:04:35,840
+increase of in compute that happened.
+
+149
+00:04:33,520 --> 00:04:37,280
+And I think what we learned was machine
+
+150
+00:04:35,840 --> 00:04:39,600
+learning models were going to get more
+
+151
+00:04:37,280 --> 00:04:41,120
+capable very quickly. And you should not
+
+152
+00:04:39,600 --> 00:04:42,720
+bet on where the technology is today,
+
+153
+00:04:41,120 --> 00:04:44,320
+but where it could be a couple years
+
+154
+00:04:42,720 --> 00:04:46,400
+from now, right? And if all you're doing
+
+155
+00:04:44,320 --> 00:04:47,919
+is working on products that work today,
+
+156
+00:04:46,400 --> 00:04:49,520
+you're going to be quickly irrelevant a
+
+157
+00:04:47,919 --> 00:04:51,280
+year from now. And that was like a very
+
+158
+00:04:49,520 --> 00:04:52,960
+important lesson that we I think a lot
+
+159
+00:04:51,280 --> 00:04:54,240
+of a lot of people that were in the
+
+160
+00:04:52,960 --> 00:04:55,759
+autonomous vehicle space kind of
+
+161
+00:04:54,240 --> 00:04:57,120
+learned, which is now if you were to
+
+162
+00:04:55,759 --> 00:04:58,720
+look at autonomous vehicles, they're
+
+163
+00:04:57,120 --> 00:05:00,639
+much more machine learning based than
+
+164
+00:04:58,720 --> 00:05:02,160
+they were probably 5 or 6 years ago.
+
+165
+00:05:00,639 --> 00:05:03,759
+Originally, we started out the name of
+
+166
+00:05:02,160 --> 00:05:05,199
+the company was Exaf Function. Part of
+
+167
+00:05:03,759 --> 00:05:07,520
+the reason why we called it exunction
+
+168
+00:05:05,199 --> 00:05:09,199
+was our goal was to virtualize GPU
+
+169
+00:05:07,520 --> 00:05:11,600
+computations to make it easier to run
+
+170
+00:05:09,199 --> 00:05:13,280
+things on GPUs. And the the term exa
+
+171
+00:05:11,600 --> 00:05:14,880
+function means we want to run an exa
+
+172
+00:05:13,280 --> 00:05:16,639
+number of functions which is 10 to the
+
+173
+00:05:14,880 --> 00:05:19,120
+18 functions. I think the biggest
+
+174
+00:05:16,639 --> 00:05:21,440
+learning lesson for us was at the time
+
+175
+00:05:19,120 --> 00:05:23,440
+was even if we were succeeding by some
+
+176
+00:05:21,440 --> 00:05:26,000
+metrics we were making some revenue just
+
+177
+00:05:23,440 --> 00:05:27,840
+accepting that hey like the business
+
+178
+00:05:26,000 --> 00:05:29,520
+might not be the best business and we
+
+179
+00:05:27,840 --> 00:05:31,440
+need to go pivot was a very hard thing
+
+180
+00:05:29,520 --> 00:05:33,199
+to do I would say right it's very hard
+
+181
+00:05:31,440 --> 00:05:34,320
+when you have like employees you know
+
+182
+00:05:33,199 --> 00:05:35,600
+you've already raised some amount of
+
+183
+00:05:34,320 --> 00:05:37,520
+funding I think at the time we had
+
+184
+00:05:35,600 --> 00:05:39,440
+raised over $28 million of funding to
+
+185
+00:05:37,520 --> 00:05:41,199
+basically start from scratch overnight
+
+186
+00:05:39,440 --> 00:05:42,720
+uh but one of the learning lessons that
+
+187
+00:05:41,199 --> 00:05:44,400
+I've sort of had and probably the other
+
+188
+00:05:42,720 --> 00:05:45,280
+people at the company is every time you
+
+189
+00:05:44,400 --> 00:05:47,039
+do a pivot you have an opport
+
+190
+00:05:45,280 --> 00:05:48,880
+opportunity to maybe 10x the size of the
+
+191
+00:05:47,039 --> 00:05:50,400
+company. And uh usually when you have an
+
+192
+00:05:48,880 --> 00:05:52,000
+idea that you don't believe in and the
+
+193
+00:05:50,400 --> 00:05:53,680
+ceiling is low, it's actually better to
+
+194
+00:05:52,000 --> 00:05:55,759
+just scrap the entire thing than to like
+
+195
+00:05:53,680 --> 00:05:56,960
+try to incrementally claw and you know
+
+196
+00:05:55,759 --> 00:05:59,120
+increase the value of what you're doing
+
+197
+00:05:56,960 --> 00:06:00,800
+by like you know 20 30%. It's not going
+
+198
+00:05:59,120 --> 00:06:02,880
+to matter in the grand scheme of things.
+
+199
+00:06:00,800 --> 00:06:04,560
+So we had gone to a couple million in
+
+200
+00:06:02,880 --> 00:06:07,440
+revenue at that time. I think the hard
+
+201
+00:06:04,560 --> 00:06:09,280
+part for us was it felt very ad hoc how
+
+202
+00:06:07,440 --> 00:06:11,360
+we were adding revenue to the business.
+
+203
+00:06:09,280 --> 00:06:13,199
+It also felt like with the advent of
+
+204
+00:06:11,360 --> 00:06:14,960
+these generative models, a lot of the
+
+205
+00:06:13,199 --> 00:06:17,039
+complexity of running models would
+
+206
+00:06:14,960 --> 00:06:18,800
+become commoditized. If everyone is
+
+207
+00:06:17,039 --> 00:06:20,720
+going to run transformers, uh the
+
+208
+00:06:18,800 --> 00:06:22,400
+transformer model architecture, what is
+
+209
+00:06:20,720 --> 00:06:24,240
+the reason for us to have a platform
+
+210
+00:06:22,400 --> 00:06:25,680
+that virtualizes arbitrary GPU
+
+211
+00:06:24,240 --> 00:06:27,120
+computations? It's not as important
+
+212
+00:06:25,680 --> 00:06:29,199
+anymore. So, it's a factor of two
+
+213
+00:06:27,120 --> 00:06:31,440
+things. We didn't understand how we
+
+214
+00:06:29,199 --> 00:06:33,919
+could 10 or 100x sales, right? I think
+
+215
+00:06:31,440 --> 00:06:35,199
+you build a company not to make a couple
+
+216
+00:06:33,919 --> 00:06:36,479
+million in revenue, but billions of
+
+217
+00:06:35,199 --> 00:06:38,319
+dollars in revenue. So we didn't
+
+218
+00:06:36,479 --> 00:06:40,000
+understand how to even get within an
+
+219
+00:06:38,319 --> 00:06:41,919
+order of magnitude of that right that
+
+220
+00:06:40,000 --> 00:06:43,280
+was one and two we also felt that the
+
+221
+00:06:41,919 --> 00:06:44,560
+problem we were solving with the advent
+
+222
+00:06:43,280 --> 00:06:46,240
+of the generative models was going to
+
+223
+00:06:44,560 --> 00:06:47,759
+get commoditized. So at that point it's
+
+224
+00:06:46,240 --> 00:06:49,360
+kind of an easy thing once you believe
+
+225
+00:06:47,759 --> 00:06:50,960
+that something is not going to be big
+
+226
+00:06:49,360 --> 00:06:52,639
+you have no other option but to change
+
+227
+00:06:50,960 --> 00:06:54,720
+your mind and do something new that is
+
+228
+00:06:52,639 --> 00:06:56,800
+very painful because you did commit a
+
+229
+00:06:54,720 --> 00:06:58,800
+lot of time and a lot of energy and
+
+230
+00:06:56,800 --> 00:07:00,000
+passion to one thing. You don't win an
+
+231
+00:06:58,800 --> 00:07:01,840
+award for doing the wrong thing for
+
+232
+00:07:00,000 --> 00:07:03,520
+longer. I guess me and my co-founder did
+
+233
+00:07:01,840 --> 00:07:05,120
+a walk over a weekend and I guess we
+
+234
+00:07:03,520 --> 00:07:06,800
+decided over a weekend and we told the
+
+235
+00:07:05,120 --> 00:07:08,000
+team on Monday. Um and then everyone
+
+236
+00:07:06,800 --> 00:07:09,919
+started working on the new thing
+
+237
+00:07:08,000 --> 00:07:11,599
+starting Monday. Uh yeah, I guess we
+
+238
+00:07:09,919 --> 00:07:13,280
+just you know one of the core beliefs
+
+239
+00:07:11,599 --> 00:07:15,440
+that we have about startups is startups
+
+240
+00:07:13,280 --> 00:07:17,360
+can if they're lucky do one thing really
+
+241
+00:07:15,440 --> 00:07:18,720
+well. We could not afford to have the
+
+242
+00:07:17,360 --> 00:07:20,319
+company believe two things were
+
+243
+00:07:18,720 --> 00:07:22,319
+important. So we would need to rip the
+
+244
+00:07:20,319 --> 00:07:23,599
+band-aid off and actually make it very
+
+245
+00:07:22,319 --> 00:07:25,120
+clear to the rest of the company that
+
+246
+00:07:23,599 --> 00:07:26,960
+the new thing was where we thought the
+
+247
+00:07:25,120 --> 00:07:28,560
+future was. You know, it's interesting.
+
+248
+00:07:26,960 --> 00:07:29,919
+I would we were not worried at all when
+
+249
+00:07:28,560 --> 00:07:31,360
+we did the pivot. We had basically
+
+250
+00:07:29,919 --> 00:07:33,440
+written off the company is going to be a
+
+251
+00:07:31,360 --> 00:07:35,199
+zero and at that point anything is
+
+252
+00:07:33,440 --> 00:07:37,280
+greater than zero. Ship whatever you can
+
+253
+00:07:35,199 --> 00:07:39,120
+if it sucks you're in the same place
+
+254
+00:07:37,280 --> 00:07:42,479
+that you are. If it doesn't suck like
+
+255
+00:07:39,120 --> 00:07:44,319
+great awesome only upside just honesty,
+
+256
+00:07:42,479 --> 00:07:46,560
+transparency and int like intellectual
+
+257
+00:07:44,319 --> 00:07:48,240
+honesty with the team is maybe a core
+
+258
+00:07:46,560 --> 00:07:50,319
+tenant of the company. We don't do
+
+259
+00:07:48,240 --> 00:07:51,759
+things unless we like truly believe they
+
+260
+00:07:50,319 --> 00:07:53,599
+are the right thing to do. even if it
+
+261
+00:07:51,759 --> 00:07:56,400
+like fits some narrative that the rest
+
+262
+00:07:53,599 --> 00:07:58,639
+of the industry or our investors or
+
+263
+00:07:56,400 --> 00:08:00,639
+convenient belief we believe things if
+
+264
+00:07:58,639 --> 00:08:03,120
+from first principles they're correct
+
+265
+00:08:00,639 --> 00:08:04,800
+and you know I guess one true fact was
+
+266
+00:08:03,120 --> 00:08:06,080
+after telling our employees there's a
+
+267
+00:08:04,800 --> 00:08:08,160
+real chance that some of them would
+
+268
+00:08:06,080 --> 00:08:10,000
+leave but I think like when you build a
+
+269
+00:08:08,160 --> 00:08:12,720
+highquality culture where the people are
+
+270
+00:08:10,000 --> 00:08:14,720
+are intellectually honest um good people
+
+271
+00:08:12,720 --> 00:08:17,039
+don't want to leave if you if you chart
+
+272
+00:08:14,720 --> 00:08:18,720
+a path for what the thing that does work
+
+273
+00:08:17,039 --> 00:08:20,080
+is right because you know one
+
+274
+00:08:18,720 --> 00:08:22,000
+interesting thing about startups is
+
+275
+00:08:20,080 --> 00:08:23,680
+people talk a lot about moes. What's the
+
+276
+00:08:22,000 --> 00:08:25,039
+mode of a company? But really, what is
+
+277
+00:08:23,680 --> 00:08:27,120
+the mode of a company that has 10
+
+278
+00:08:25,039 --> 00:08:28,960
+people? You know, if you do have a moat,
+
+279
+00:08:27,120 --> 00:08:30,319
+it's very shallow at best, right? The
+
+280
+00:08:28,960 --> 00:08:32,399
+number of engineering years that went
+
+281
+00:08:30,319 --> 00:08:34,399
+into your product is already very small.
+
+282
+00:08:32,399 --> 00:08:36,240
+So, the real moat is you work on the
+
+283
+00:08:34,399 --> 00:08:37,919
+right thing with enough people for long
+
+284
+00:08:36,240 --> 00:08:39,599
+enough. That's like the only moat a
+
+285
+00:08:37,919 --> 00:08:41,039
+startup ultimately has. And that's like
+
+286
+00:08:39,599 --> 00:08:42,399
+why you believe in a team. Obviously,
+
+287
+00:08:41,039 --> 00:08:44,240
+when a company becomes thousands of
+
+288
+00:08:42,399 --> 00:08:45,760
+people, hopefully the moat is not the
+
+289
+00:08:44,240 --> 00:08:47,519
+current business. It would be sad if the
+
+290
+00:08:45,760 --> 00:08:49,440
+moat was the company can just pivot and
+
+291
+00:08:47,519 --> 00:08:51,200
+do the next thing. In that regard, I
+
+292
+00:08:49,440 --> 00:08:53,839
+think if you genuinely believe the
+
+293
+00:08:51,200 --> 00:08:56,320
+motive of a of a company is betting on
+
+294
+00:08:53,839 --> 00:08:58,080
+the right things and and hiring a great
+
+295
+00:08:56,320 --> 00:08:59,600
+group of people, then if you are
+
+296
+00:08:58,080 --> 00:09:00,800
+intellectually honest with your team and
+
+297
+00:08:59,600 --> 00:09:02,560
+tell them we don't believe in the
+
+298
+00:09:00,800 --> 00:09:06,200
+strategy we just had, it's should be
+
+299
+00:09:02,560 --> 00:09:06,200
+totally fine with everyone.
+
+300
+00:09:06,320 --> 00:09:10,959
+This episode is sponsored by Atio, the
+
+301
+00:09:08,720 --> 00:09:13,360
+AI native CRM for the next era of
+
+302
+00:09:10,959 --> 00:09:15,519
+companies. Connect your email and ATIO
+
+303
+00:09:13,360 --> 00:09:17,760
+instantly builds your CRM right before
+
+304
+00:09:15,519 --> 00:09:19,839
+your eye with every company, contact,
+
+305
+00:09:17,760 --> 00:09:22,320
+and interaction you've ever had enriched
+
+306
+00:09:19,839 --> 00:09:24,560
+and organized. That's ATIO. And here's
+
+307
+00:09:22,320 --> 00:09:26,720
+what makes it even more game-changing.
+
+308
+00:09:24,560 --> 00:09:28,720
+You can build AI powered automations and
+
+309
+00:09:26,720 --> 00:09:31,040
+use its research agents to tackle some
+
+310
+00:09:28,720 --> 00:09:32,880
+of your most complex business processes,
+
+311
+00:09:31,040 --> 00:09:35,519
+freeing you to focus on what matters
+
+312
+00:09:32,880 --> 00:09:37,120
+most, building your company. Join
+
+313
+00:09:35,519 --> 00:09:40,000
+thousands of companies who are already
+
+314
+00:09:37,120 --> 00:09:41,680
+using to power their businesses. Visit
+
+315
+00:09:40,000 --> 00:09:46,279
+the link in the description to begin
+
+316
+00:09:41,680 --> 00:09:46,279
+your twoe free trial with Atio.
+
+317
+00:09:49,920 --> 00:09:54,080
+I think we were early adopters of a
+
+318
+00:09:51,600 --> 00:09:56,080
+product like GitHub copilot. So we and
+
+319
+00:09:54,080 --> 00:09:57,839
+we were we actually built a lot of
+
+320
+00:09:56,080 --> 00:09:59,519
+infrastructure. So at the time we
+
+321
+00:09:57,839 --> 00:10:00,959
+thought that was the tip of the iceberg
+
+322
+00:09:59,519 --> 00:10:02,480
+of what the technology could actually
+
+323
+00:10:00,959 --> 00:10:04,880
+build. We thought a lot more could be
+
+324
+00:10:02,480 --> 00:10:06,560
+built in this category. Right? If all
+
+325
+00:10:04,880 --> 00:10:08,080
+people were doing was autocompleting, we
+
+326
+00:10:06,560 --> 00:10:10,080
+could potentially see a world in which
+
+327
+00:10:08,080 --> 00:10:12,000
+entire PRs would get generated. And at
+
+328
+00:10:10,080 --> 00:10:13,600
+that time, we were like, okay, the time
+
+329
+00:10:12,000 --> 00:10:15,600
+it takes to build applications probably
+
+330
+00:10:13,600 --> 00:10:16,800
+has gone down by a double digit percent.
+
+331
+00:10:15,600 --> 00:10:18,160
+Why don't we set the goal of the company
+
+332
+00:10:16,800 --> 00:10:20,399
+to reduce the time it takes to build
+
+333
+00:10:18,160 --> 00:10:21,920
+technology by 99%. It's a very ambitious
+
+334
+00:10:20,399 --> 00:10:24,000
+goal, not something we'd be able to do
+
+335
+00:10:21,920 --> 00:10:25,360
+in the next year or two. But if we set a
+
+336
+00:10:24,000 --> 00:10:27,519
+very ambitious goal, there's probably a
+
+337
+00:10:25,360 --> 00:10:28,720
+lot of work to be done in this space. We
+
+338
+00:10:27,519 --> 00:10:30,160
+believe that technology is always going
+
+339
+00:10:28,720 --> 00:10:32,079
+to get better. We believe the models are
+
+340
+00:10:30,160 --> 00:10:33,120
+going to get better. Because of that, we
+
+341
+00:10:32,079 --> 00:10:34,720
+just believed there was a lot of
+
+342
+00:10:33,120 --> 00:10:36,079
+opportunity here. Because we were also
+
+343
+00:10:34,720 --> 00:10:37,760
+an infrastructure company at the time,
+
+344
+00:10:36,079 --> 00:10:39,760
+we were able to train our own models and
+
+345
+00:10:37,760 --> 00:10:41,360
+run models ourselves, which enabled us
+
+346
+00:10:39,760 --> 00:10:44,160
+to build an extension that was entirely
+
+347
+00:10:41,360 --> 00:10:45,600
+free in all the major IDs. And uh that
+
+348
+00:10:44,160 --> 00:10:47,040
+was able to very quickly get to hundreds
+
+349
+00:10:45,600 --> 00:10:48,640
+of thousands of users. It was a
+
+350
+00:10:47,040 --> 00:10:50,079
+combination of what our skill set was,
+
+351
+00:10:48,640 --> 00:10:52,000
+also a belief of where we thought the
+
+352
+00:10:50,079 --> 00:10:54,399
+future was going. I think it took us
+
+353
+00:10:52,000 --> 00:10:56,320
+less than 2 months to build the MVP and
+
+354
+00:10:54,399 --> 00:10:58,480
+ship it out. I think as a company we're
+
+355
+00:10:56,320 --> 00:11:00,560
+probably more of the opinion of if you
+
+356
+00:10:58,480 --> 00:11:02,720
+are going to do something hard um it is
+
+357
+00:11:00,560 --> 00:11:04,320
+actually important to have intermediate
+
+358
+00:11:02,720 --> 00:11:05,600
+goals that you can actually give to
+
+359
+00:11:04,320 --> 00:11:07,360
+other people to validate your
+
+360
+00:11:05,600 --> 00:11:08,880
+hypothesis. That's maybe something that
+
+361
+00:11:07,360 --> 00:11:10,800
+we learned a lot of us at the company
+
+362
+00:11:08,880 --> 00:11:12,720
+were previously from autonomous vehicles
+
+363
+00:11:10,800 --> 00:11:14,640
+and I think one of the biggest mistakes
+
+364
+00:11:12,720 --> 00:11:16,880
+that autonomous vehicle companies might
+
+365
+00:11:14,640 --> 00:11:19,279
+have made is maybe to no fault of their
+
+366
+00:11:16,880 --> 00:11:20,880
+own was they built a hard technology
+
+367
+00:11:19,279 --> 00:11:22,640
+where it's very hard to validate if the
+
+368
+00:11:20,880 --> 00:11:24,560
+technology is good in the middle. Right?
+
+369
+00:11:22,640 --> 00:11:26,320
+So for us it's always been it is
+
+370
+00:11:24,560 --> 00:11:29,120
+actually a feature if you can have a
+
+371
+00:11:26,320 --> 00:11:31,360
+very very like visionary goal but have
+
+372
+00:11:29,120 --> 00:11:33,200
+very tractable intermediate steps and so
+
+373
+00:11:31,360 --> 00:11:35,360
+we actually picked a very tractable
+
+374
+00:11:33,200 --> 00:11:37,440
+intermediate step to deploy which was
+
+375
+00:11:35,360 --> 00:11:39,680
+can we build a basic VS code extension
+
+376
+00:11:37,440 --> 00:11:41,920
+that had autocomplete capabilities uh
+
+377
+00:11:39,680 --> 00:11:43,519
+with our own model and that was that was
+
+378
+00:11:41,920 --> 00:11:45,360
+the intermediate goal that we had and we
+
+379
+00:11:43,519 --> 00:11:46,800
+believed you know maybe it was like a
+
+380
+00:11:45,360 --> 00:11:48,399
+little bit of necessity we just pivoted
+
+381
+00:11:46,800 --> 00:11:50,240
+the company people were not working on
+
+382
+00:11:48,399 --> 00:11:52,480
+anything else there was an existential
+
+383
+00:11:50,240 --> 00:11:55,040
+dread what the value of the product was
+
+384
+00:11:52,480 --> 00:11:56,480
+so we very quickly built it. I think a
+
+385
+00:11:55,040 --> 00:11:58,240
+basic form of product market fit was
+
+386
+00:11:56,480 --> 00:12:00,720
+when our inbound for the product from
+
+387
+00:11:58,240 --> 00:12:02,399
+like companies was was more than like
+
+388
+00:12:00,720 --> 00:12:04,240
+any of us could handle and we did need
+
+389
+00:12:02,399 --> 00:12:05,519
+to hire a real go to market team. I
+
+390
+00:12:04,240 --> 00:12:07,040
+think at that point we realized hey
+
+391
+00:12:05,519 --> 00:12:09,279
+we're actually solving a real pain for
+
+392
+00:12:07,040 --> 00:12:11,120
+the market and we are providing a lot of
+
+393
+00:12:09,279 --> 00:12:12,639
+value. So that was that happened very
+
+394
+00:12:11,120 --> 00:12:14,240
+quickly like within months of the
+
+395
+00:12:12,639 --> 00:12:16,000
+product coming out we had a lot of
+
+396
+00:12:14,240 --> 00:12:17,839
+companies reaching out to how could they
+
+397
+00:12:16,000 --> 00:12:20,160
+run the product uh for themselves and
+
+398
+00:12:17,839 --> 00:12:21,600
+and use it for their large code bases.
+
+399
+00:12:20,160 --> 00:12:23,120
+Yeah, I think the word product market
+
+400
+00:12:21,600 --> 00:12:25,279
+fit is probably something I don't like a
+
+401
+00:12:23,120 --> 00:12:27,200
+lot because it it creates a lot of like
+
+402
+00:12:25,279 --> 00:12:28,880
+overconfidence. I think what what you
+
+403
+00:12:27,200 --> 00:12:30,320
+have as product market fit in one day,
+
+404
+00:12:28,880 --> 00:12:31,839
+if you don't continue to innovate and
+
+405
+00:12:30,320 --> 00:12:33,120
+you have competitors, is very quickly
+
+406
+00:12:31,839 --> 00:12:34,959
+going to become a commodity where you
+
+407
+00:12:33,120 --> 00:12:36,639
+don't have product market fit. So, you
+
+408
+00:12:34,959 --> 00:12:38,480
+need to be very paranoid. I always like
+
+409
+00:12:36,639 --> 00:12:39,920
+to tell the company we're probably going
+
+410
+00:12:38,480 --> 00:12:41,200
+to fail. And I think the good thing
+
+411
+00:12:39,920 --> 00:12:43,680
+about telling the company we're probably
+
+412
+00:12:41,200 --> 00:12:46,160
+going to fail is it creates enough sort
+
+413
+00:12:43,680 --> 00:12:48,399
+of energy in the company to find the
+
+414
+00:12:46,160 --> 00:12:50,160
+next thing that keeps you as a
+
+415
+00:12:48,399 --> 00:12:52,079
+differentiated product and and survive
+
+416
+00:12:50,160 --> 00:12:54,000
+in a in a space. But I think in general
+
+417
+00:12:52,079 --> 00:12:55,839
+like product like I feel like if you
+
+418
+00:12:54,000 --> 00:12:57,760
+have pull from the market, it's very
+
+419
+00:12:55,839 --> 00:12:59,519
+hard to fake it. It's it's very obvious
+
+420
+00:12:57,760 --> 00:13:01,120
+when you have it and very obvious when
+
+421
+00:12:59,519 --> 00:13:02,320
+you don't. And I'll tell you this like
+
+422
+00:13:01,120 --> 00:13:04,000
+even when we were making a couple
+
+423
+00:13:02,320 --> 00:13:05,440
+million in revenue with the GPU
+
+424
+00:13:04,000 --> 00:13:07,040
+virtualization business is very obvious
+
+425
+00:13:05,440 --> 00:13:08,959
+we didn't have product market fit. It's
+
+426
+00:13:07,040 --> 00:13:10,959
+not a scalable company. you don't really
+
+427
+00:13:08,959 --> 00:13:12,959
+understand how you can grow revenue and
+
+428
+00:13:10,959 --> 00:13:15,200
+find find a way to like provide more
+
+429
+00:13:12,959 --> 00:13:16,720
+value at scale. So very quickly I think
+
+430
+00:13:15,200 --> 00:13:18,240
+a lot of large companies were starting
+
+431
+00:13:16,720 --> 00:13:20,240
+to reach out to us for a variety of
+
+432
+00:13:18,240 --> 00:13:21,760
+reasons for security reasons because we
+
+433
+00:13:20,240 --> 00:13:23,600
+were able to run models ourselves. We
+
+434
+00:13:21,760 --> 00:13:25,360
+were able to run it in a secure way. The
+
+435
+00:13:23,600 --> 00:13:27,120
+other thing is they wanted the systems
+
+436
+00:13:25,360 --> 00:13:29,040
+to work with their complicated sort of
+
+437
+00:13:27,120 --> 00:13:30,959
+code bases. Right? Their code bases are
+
+438
+00:13:29,040 --> 00:13:32,560
+not simple. Some of our customers have
+
+439
+00:13:30,959 --> 00:13:34,320
+tens of millions of lines of code in a
+
+440
+00:13:32,560 --> 00:13:35,600
+single codebase. and we started building
+
+441
+00:13:34,320 --> 00:13:37,120
+more and more technology to make it
+
+442
+00:13:35,600 --> 00:13:38,720
+possible that we would give very
+
+443
+00:13:37,120 --> 00:13:40,320
+personalized suggestions to them
+
+444
+00:13:38,720 --> 00:13:42,480
+regardless of where they stored their
+
+445
+00:13:40,320 --> 00:13:44,560
+code. I guess very quickly we started to
+
+446
+00:13:42,480 --> 00:13:46,000
+get to 100 customers. It went from going
+
+447
+00:13:44,560 --> 00:13:48,320
+from zero to 100 customers probably
+
+448
+00:13:46,000 --> 00:13:49,600
+within months um at the company. I think
+
+449
+00:13:48,320 --> 00:13:51,519
+the feedback that was kind of
+
+450
+00:13:49,600 --> 00:13:53,839
+interesting to us is how important just
+
+451
+00:13:51,519 --> 00:13:55,279
+small details were right to the entire
+
+452
+00:13:53,839 --> 00:13:56,720
+user experience. We started off as an
+
+453
+00:13:55,279 --> 00:13:58,079
+infrastructure company and we needed to
+
+454
+00:13:56,720 --> 00:14:00,079
+kind of become a product company which
+
+455
+00:13:58,079 --> 00:14:01,680
+is a big kind of change. You know basic
+
+456
+00:14:00,079 --> 00:14:03,519
+things like the latency of the product
+
+457
+00:14:01,680 --> 00:14:04,959
+how quickly we provide suggestions was
+
+458
+00:14:03,519 --> 00:14:06,720
+quite important. You know just basic
+
+459
+00:14:04,959 --> 00:14:08,160
+things if we do too much computation on
+
+460
+00:14:06,720 --> 00:14:10,079
+the user's machine and it kind of like
+
+461
+00:14:08,160 --> 00:14:12,079
+makes the machine too slow that's a
+
+462
+00:14:10,079 --> 00:14:13,199
+unacceptable user experience that is not
+
+463
+00:14:12,079 --> 00:14:14,959
+something we would think about if we
+
+464
+00:14:13,199 --> 00:14:16,399
+were purely a server-based application.
+
+465
+00:14:14,959 --> 00:14:18,480
+So there were kind of new things as a
+
+466
+00:14:16,399 --> 00:14:19,680
+company we needed to learn because the
+
+467
+00:14:18,480 --> 00:14:21,360
+space we were operating in was
+
+468
+00:14:19,680 --> 00:14:23,360
+fundamentally different. I think
+
+469
+00:14:21,360 --> 00:14:25,519
+basically what happens is once a company
+
+470
+00:14:23,360 --> 00:14:27,920
+gets bigger it's possible that you start
+
+471
+00:14:25,519 --> 00:14:29,600
+losing the reason why you had a good
+
+472
+00:14:27,920 --> 00:14:31,680
+product to start with right you start
+
+473
+00:14:29,600 --> 00:14:33,920
+listening actually in some ways too much
+
+474
+00:14:31,680 --> 00:14:35,839
+customer obsession might be bad in that
+
+475
+00:14:33,920 --> 00:14:37,600
+if you do things that all of your
+
+476
+00:14:35,839 --> 00:14:39,360
+customers ask you to do sometimes you
+
+477
+00:14:37,600 --> 00:14:41,120
+might like incrementally iterate to
+
+478
+00:14:39,360 --> 00:14:42,480
+actually build a really bad product and
+
+479
+00:14:41,120 --> 00:14:44,079
+it's actually better off to completely
+
+480
+00:14:42,480 --> 00:14:46,240
+change the paradigm in a way that your
+
+481
+00:14:44,079 --> 00:14:48,000
+customers don't really ask for because
+
+482
+00:14:46,240 --> 00:14:49,360
+you you suspect it could be helpful. So
+
+483
+00:14:48,000 --> 00:14:51,600
+there's like a little bit of a healthy
+
+484
+00:14:49,360 --> 00:14:53,040
+amount of don't just listen to random
+
+485
+00:14:51,600 --> 00:14:54,639
+people about what you should build.
+
+486
+00:14:53,040 --> 00:14:56,560
+Listen to your customers, but don't
+
+487
+00:14:54,639 --> 00:14:57,920
+listen to your customers in how you
+
+488
+00:14:56,560 --> 00:14:59,360
+should build it. There could be a way
+
+489
+00:14:57,920 --> 00:15:00,959
+you could build it in a way that is very
+
+490
+00:14:59,360 --> 00:15:02,399
+transformational, but not something that
+
+491
+00:15:00,959 --> 00:15:03,760
+they would even expect. One of the
+
+492
+00:15:02,399 --> 00:15:05,680
+things about our product is we have a
+
+493
+00:15:03,760 --> 00:15:07,199
+pretty large individual product and we
+
+494
+00:15:05,680 --> 00:15:08,880
+have ways in which our users can
+
+495
+00:15:07,199 --> 00:15:11,760
+communicate with us, you know, either
+
+496
+00:15:08,880 --> 00:15:14,000
+online on social media. Uh, and I guess
+
+497
+00:15:11,760 --> 00:15:15,519
+I I look through it fairly frequently to
+
+498
+00:15:14,000 --> 00:15:17,519
+understand what the pain points our
+
+499
+00:15:15,519 --> 00:15:18,880
+users have about the product. Also at
+
+500
+00:15:17,519 --> 00:15:20,480
+the same time I guess like everyone at
+
+501
+00:15:18,880 --> 00:15:21,920
+the company uses the product almost
+
+502
+00:15:20,480 --> 00:15:23,279
+day-to-day which is maybe a unique
+
+503
+00:15:21,920 --> 00:15:25,600
+aspect of the product right there are
+
+504
+00:15:23,279 --> 00:15:27,120
+probably a lot of AI tools out there but
+
+505
+00:15:25,600 --> 00:15:28,800
+the people building the tools are not
+
+506
+00:15:27,120 --> 00:15:30,480
+using them all the time whereas the
+
+507
+00:15:28,800 --> 00:15:31,920
+people that build our products literally
+
+508
+00:15:30,480 --> 00:15:34,000
+use our product to build the product
+
+509
+00:15:31,920 --> 00:15:36,000
+whether it be windsurf everyone builds
+
+510
+00:15:34,000 --> 00:15:38,320
+software on windsurf for windsurf which
+
+511
+00:15:36,000 --> 00:15:40,000
+is a unique way for us to actually get
+
+512
+00:15:38,320 --> 00:15:41,839
+feedback a lot of our feedback is
+
+513
+00:15:40,000 --> 00:15:43,440
+internal and if no one at the company
+
+514
+00:15:41,839 --> 00:15:45,040
+likes a part of the product it's
+
+515
+00:15:43,440 --> 00:15:48,000
+unlikely that a lot of people outside of
+
+516
+00:15:45,040 --> 00:15:48,000
+the company are going to like the
+
+517
+00:15:50,959 --> 00:15:55,440
+No, I I always try to run the company as
+
+518
+00:15:53,440 --> 00:15:56,959
+like the smallest company it can be. But
+
+519
+00:15:55,440 --> 00:15:58,399
+I think the goal of a company is not to
+
+520
+00:15:56,959 --> 00:16:00,320
+be a small company. I think the goal of
+
+521
+00:15:58,399 --> 00:16:02,160
+a company is to actually provide the
+
+522
+00:16:00,320 --> 00:16:04,079
+most value in a space. If the right way
+
+523
+00:16:02,160 --> 00:16:05,199
+to do that is be a bigger company. I
+
+524
+00:16:04,079 --> 00:16:06,880
+think that's like the right thing you
+
+525
+00:16:05,199 --> 00:16:08,079
+should sort of do. One of the operating
+
+526
+00:16:06,880 --> 00:16:09,440
+principles we sort of have at the
+
+527
+00:16:08,079 --> 00:16:11,199
+company is we try to run the company
+
+528
+00:16:09,440 --> 00:16:13,120
+fairly lean. And that doesn't mean we
+
+529
+00:16:11,199 --> 00:16:15,519
+have very few people. It just means that
+
+530
+00:16:13,120 --> 00:16:16,959
+for a given amount of ambition, we are
+
+531
+00:16:15,519 --> 00:16:18,399
+the smallest company we could possibly
+
+532
+00:16:16,959 --> 00:16:20,160
+be. And that means that people are
+
+533
+00:16:18,399 --> 00:16:22,560
+largely speaking underwater most of the
+
+534
+00:16:20,160 --> 00:16:24,399
+time. Hopefully like we don't have large
+
+535
+00:16:22,560 --> 00:16:26,000
+amounts of people that have too little
+
+536
+00:16:24,399 --> 00:16:27,440
+to do, right? The goal is everyone
+
+537
+00:16:26,000 --> 00:16:29,199
+should have too much to do. And because
+
+538
+00:16:27,440 --> 00:16:31,279
+of that, that forces rapid
+
+539
+00:16:29,199 --> 00:16:33,360
+prioritization inside the company with a
+
+540
+00:16:31,279 --> 00:16:35,040
+lot of urgency that triggers whether or
+
+541
+00:16:33,360 --> 00:16:36,560
+not we should hire people. And honestly,
+
+542
+00:16:35,040 --> 00:16:38,399
+that itself is a good forcing function
+
+543
+00:16:36,560 --> 00:16:40,560
+of how you should scale a company. You
+
+544
+00:16:38,399 --> 00:16:42,959
+scale a company when everyone is
+
+545
+00:16:40,560 --> 00:16:44,800
+underwater and the moment people are no
+
+546
+00:16:42,959 --> 00:16:46,800
+longer underwater, we don't scale the
+
+547
+00:16:44,800 --> 00:16:48,399
+company anymore. I think in in terms of
+
+548
+00:16:46,800 --> 00:16:49,839
+just some of the challenges obviously
+
+549
+00:16:48,399 --> 00:16:51,519
+like as the company gets bigger,
+
+550
+00:16:49,839 --> 00:16:53,360
+communication gets harder. So there are
+
+551
+00:16:51,519 --> 00:16:55,120
+some processes in place in terms of you
+
+552
+00:16:53,360 --> 00:16:57,040
+want to ship a feature, it's no longer
+
+553
+00:16:55,120 --> 00:16:58,720
+just one person did everything end to
+
+554
+00:16:57,040 --> 00:17:01,279
+end. There are like many different
+
+555
+00:16:58,720 --> 00:17:02,880
+parties involved. Uh but I think we
+
+556
+00:17:01,279 --> 00:17:04,720
+added more process in place to make sure
+
+557
+00:17:02,880 --> 00:17:06,400
+that even that could happen much faster.
+
+558
+00:17:04,720 --> 00:17:07,760
+If you run the company in a way where
+
+559
+00:17:06,400 --> 00:17:09,760
+everyone has their own set of
+
+560
+00:17:07,760 --> 00:17:11,120
+priorities, I think it's it's cool.
+
+561
+00:17:09,760 --> 00:17:12,799
+Everyone's kind of having a good time.
+
+562
+00:17:11,120 --> 00:17:14,480
+But I think, you know, this boils down
+
+563
+00:17:12,799 --> 00:17:16,720
+to why do companies work? I think they
+
+564
+00:17:14,480 --> 00:17:18,959
+work if you do one or two things really
+
+565
+00:17:16,720 --> 00:17:20,959
+well. Maybe even one. Forget about two,
+
+566
+00:17:18,959 --> 00:17:23,199
+maybe even one. The problem is then
+
+567
+00:17:20,959 --> 00:17:25,280
+actually if you were to imagine in a lot
+
+568
+00:17:23,199 --> 00:17:27,039
+of cases, it's very hard to just have
+
+569
+00:17:25,280 --> 00:17:28,799
+infinitely many people doing one thing
+
+570
+00:17:27,039 --> 00:17:30,559
+really well. So that naturally reduces
+
+571
+00:17:28,799 --> 00:17:32,640
+the number of people that you have at
+
+572
+00:17:30,559 --> 00:17:34,320
+the company. Yeah. I guess I guess the
+
+573
+00:17:32,640 --> 00:17:35,760
+the issue is naturally when you have
+
+574
+00:17:34,320 --> 00:17:37,600
+more people, they're going to be more
+
+575
+00:17:35,760 --> 00:17:39,200
+priorities, right? Like people are not
+
+576
+00:17:37,600 --> 00:17:40,640
+malicious, but they want to have
+
+577
+00:17:39,200 --> 00:17:42,559
+something to do. If there are enough
+
+578
+00:17:40,640 --> 00:17:44,400
+people to do what the original intent of
+
+579
+00:17:42,559 --> 00:17:45,600
+the company was, they're going to find
+
+580
+00:17:44,400 --> 00:17:47,120
+other things to do and that's going to
+
+581
+00:17:45,600 --> 00:17:48,720
+cause problems internally as well. One
+
+582
+00:17:47,120 --> 00:17:50,320
+of the things that I've sort of done is
+
+583
+00:17:48,720 --> 00:17:52,000
+I still interview everyone that joins
+
+584
+00:17:50,320 --> 00:17:53,520
+the company, make sure that they go
+
+585
+00:17:52,000 --> 00:17:55,440
+through a culture fit. I think that's
+
+586
+00:17:53,520 --> 00:17:57,200
+actually like quite important to me to
+
+587
+00:17:55,440 --> 00:18:00,240
+make sure that we are adding people that
+
+588
+00:17:57,200 --> 00:18:02,240
+are going to like maintain and preserve
+
+589
+00:18:00,240 --> 00:18:04,080
+and maybe even even just embrace the
+
+590
+00:18:02,240 --> 00:18:05,760
+culture we have inside the company. So I
+
+591
+00:18:04,080 --> 00:18:07,600
+think that's like honestly honestly like
+
+592
+00:18:05,760 --> 00:18:08,960
+a very key thing that I've not given up
+
+593
+00:18:07,600 --> 00:18:11,200
+even as the company has scaled you know
+
+594
+00:18:08,960 --> 00:18:12,640
+close to 200 people. I I think actually
+
+595
+00:18:11,200 --> 00:18:14,080
+it's the same principles that made the
+
+596
+00:18:12,640 --> 00:18:15,200
+company work when it's small. I I think
+
+597
+00:18:14,080 --> 00:18:16,960
+big companies are not that different
+
+598
+00:18:15,200 --> 00:18:18,240
+than small companies. Maybe it's hard to
+
+599
+00:18:16,960 --> 00:18:19,600
+operate like a small company when you're
+
+600
+00:18:18,240 --> 00:18:20,880
+a big company but I think if you were to
+
+601
+00:18:19,600 --> 00:18:22,320
+ask every big company they want to
+
+602
+00:18:20,880 --> 00:18:23,840
+operate like a startup. I think the very
+
+603
+00:18:22,320 --> 00:18:25,600
+hard thing is once again intellectual
+
+604
+00:18:23,840 --> 00:18:27,840
+honesty. It's very hard as the company
+
+605
+00:18:25,600 --> 00:18:29,600
+gets bigger for for a large group of
+
+606
+00:18:27,840 --> 00:18:31,039
+people to analyze what they're doing and
+
+607
+00:18:29,600 --> 00:18:32,559
+to say, "Hey, we should stop working on
+
+608
+00:18:31,039 --> 00:18:34,799
+this or should work on something else."
+
+609
+00:18:32,559 --> 00:18:36,400
+It gets very hard because people feel
+
+610
+00:18:34,799 --> 00:18:38,240
+some sort of safety as the company gets
+
+611
+00:18:36,400 --> 00:18:40,080
+bigger. But the reality is like no
+
+612
+00:18:38,240 --> 00:18:41,440
+company is really safe regardless of the
+
+613
+00:18:40,080 --> 00:18:42,559
+size. And that's how every company
+
+614
+00:18:41,440 --> 00:18:44,400
+should be operating. They should be
+
+615
+00:18:42,559 --> 00:18:46,000
+operating as if almost existential
+
+616
+00:18:44,400 --> 00:18:47,679
+dread. Not in that it's causing
+
+617
+00:18:46,000 --> 00:18:49,600
+paralysis, but in that it causes the
+
+618
+00:18:47,679 --> 00:18:51,200
+agency to kind of figure out what the
+
+619
+00:18:49,600 --> 00:18:53,760
+next thing to do is. Yeah. I think
+
+620
+00:18:51,200 --> 00:18:56,320
+people get they feel safety,
+
+621
+00:18:53,760 --> 00:18:57,600
+psychological safety by feeling that
+
+622
+00:18:56,320 --> 00:18:59,120
+what they're working on is the most
+
+623
+00:18:57,600 --> 00:19:00,720
+important thing, right? I think, you
+
+624
+00:18:59,120 --> 00:19:02,240
+know, people it's very hard to keep in
+
+625
+00:19:00,720 --> 00:19:03,600
+your head, hey, like let me go work hard
+
+626
+00:19:02,240 --> 00:19:04,960
+on something, but all the while it may
+
+627
+00:19:03,600 --> 00:19:06,320
+not be that useful for the company. And
+
+628
+00:19:04,960 --> 00:19:08,799
+I think as a company gets bigger, it's
+
+629
+00:19:06,320 --> 00:19:10,240
+very hard to have people that just still
+
+630
+00:19:08,799 --> 00:19:11,520
+don't have the psychological safety.
+
+631
+00:19:10,240 --> 00:19:13,440
+Maybe one interesting thing about the
+
+632
+00:19:11,520 --> 00:19:15,120
+company is I think companies have like
+
+633
+00:19:13,440 --> 00:19:16,960
+two sides attached to them, which is
+
+634
+00:19:15,120 --> 00:19:18,559
+that you need some form of irrational
+
+635
+00:19:16,960 --> 00:19:20,559
+optimism. The reason why you need
+
+636
+00:19:18,559 --> 00:19:22,480
+irrational optimism is without some
+
+637
+00:19:20,559 --> 00:19:24,080
+amount of optimism, there's no reason a
+
+638
+00:19:22,480 --> 00:19:25,520
+startup ever wins at anything. A big
+
+639
+00:19:24,080 --> 00:19:27,520
+company has more capital, more
+
+640
+00:19:25,520 --> 00:19:28,720
+resources, more distribution. So you
+
+641
+00:19:27,520 --> 00:19:30,960
+need to believe you can do something
+
+642
+00:19:28,720 --> 00:19:32,480
+better, right? With great people, uh you
+
+643
+00:19:30,960 --> 00:19:34,240
+can somehow build something that's
+
+644
+00:19:32,480 --> 00:19:36,320
+generational. You have to believe that.
+
+645
+00:19:34,240 --> 00:19:37,440
+Uh which is in most cases not true,
+
+646
+00:19:36,320 --> 00:19:38,559
+right? So you somehow need to believe
+
+647
+00:19:37,440 --> 00:19:39,840
+that. But also at the same time,
+
+648
+00:19:38,559 --> 00:19:41,200
+sometimes that's just not going to be
+
+649
+00:19:39,840 --> 00:19:42,799
+the case. And you need to be very
+
+650
+00:19:41,200 --> 00:19:44,480
+realistic. And I think this comes with,
+
+651
+00:19:42,799 --> 00:19:46,559
+you know, uncompromising realism. Like
+
+652
+00:19:44,480 --> 00:19:48,799
+you need a healthy amount of both. You
+
+653
+00:19:46,559 --> 00:19:50,400
+need you need the optimism to go out and
+
+654
+00:19:48,799 --> 00:19:51,760
+do something when everyone else believes
+
+655
+00:19:50,400 --> 00:19:53,120
+it's not that valuable because if
+
+656
+00:19:51,760 --> 00:19:54,400
+everyone else believed it was valuable,
+
+657
+00:19:53,120 --> 00:19:56,080
+the big company would do it and you
+
+658
+00:19:54,400 --> 00:19:58,160
+would still lose. But all the while you
+
+659
+00:19:56,080 --> 00:19:59,840
+also need to agree most ideas are bad
+
+660
+00:19:58,160 --> 00:20:01,440
+ideas and you need to kill your ideas
+
+661
+00:19:59,840 --> 00:20:02,880
+fairly quickly as well. This is this is
+
+662
+00:20:01,440 --> 00:20:04,240
+like this tension that a company is
+
+663
+00:20:02,880 --> 00:20:05,600
+always going through. It progressively
+
+664
+00:20:04,240 --> 00:20:06,960
+gets harder and harder. The company gets
+
+665
+00:20:05,600 --> 00:20:08,400
+bigger. Uh but I think it's a strength
+
+666
+00:20:06,960 --> 00:20:10,799
+if a company can do that regardless of
+
+667
+00:20:08,400 --> 00:20:13,200
+what size it is.
+
+668
+00:20:10,799 --> 00:20:14,640
+Yeah. I think the only thing is that I
+
+669
+00:20:13,200 --> 00:20:16,240
+would sort of like to say is build for
+
+670
+00:20:14,640 --> 00:20:18,480
+where you think the technology is going,
+
+671
+00:20:16,240 --> 00:20:20,480
+not for today, right? And don't build
+
+672
+00:20:18,480 --> 00:20:22,160
+probably technologies in places that
+
+673
+00:20:20,480 --> 00:20:24,000
+like are as good as they will be given
+
+674
+00:20:22,160 --> 00:20:25,200
+where the technology is today. It feels
+
+675
+00:20:24,000 --> 00:20:26,559
+like it's going to be very hard to
+
+676
+00:20:25,200 --> 00:20:28,159
+differentiate in the long term. And
+
+677
+00:20:26,559 --> 00:20:30,080
+that's a hard thing to do, right? Uh
+
+678
+00:20:28,159 --> 00:20:31,360
+that means you you you actually need to
+
+679
+00:20:30,080 --> 00:20:32,640
+be willing to work on something that
+
+680
+00:20:31,360 --> 00:20:34,320
+doesn't feel like it's working for
+
+681
+00:20:32,640 --> 00:20:35,679
+maybe, you know, an indeterminate period
+
+682
+00:20:34,320 --> 00:20:37,280
+of time. I think what this means is
+
+683
+00:20:35,679 --> 00:20:39,360
+these kind of short-term heristics that
+
+684
+00:20:37,280 --> 00:20:41,600
+you invest deeply in that make a model
+
+685
+00:20:39,360 --> 00:20:43,360
+today work are probably actually have
+
+686
+00:20:41,600 --> 00:20:44,559
+massive diminishing returns because the
+
+687
+00:20:43,360 --> 00:20:45,679
+next model is going to be much better
+
+688
+00:20:44,559 --> 00:20:47,919
+and the heristics are going to be
+
+689
+00:20:45,679 --> 00:20:50,159
+unnecessary. I think the things that are
+
+690
+00:20:47,919 --> 00:20:51,679
+important are how do you actually take
+
+691
+00:20:50,159 --> 00:20:52,960
+advantage of the fact that you do have a
+
+692
+00:20:51,679 --> 00:20:54,480
+lot of users and build better
+
+693
+00:20:52,960 --> 00:20:55,840
+experiences for them and actually
+
+694
+00:20:54,480 --> 00:20:57,039
+because they are using your product
+
+695
+00:20:55,840 --> 00:20:58,799
+you're able to build better and better
+
+696
+00:20:57,039 --> 00:21:01,039
+experiences for them and these
+
+697
+00:20:58,799 --> 00:21:02,320
+experiences are better and learned in a
+
+698
+00:21:01,039 --> 00:21:04,000
+way they're actually learned from the
+
+699
+00:21:02,320 --> 00:21:05,760
+way people use the product and I think
+
+700
+00:21:04,000 --> 00:21:08,000
+you should be focusing on that not on
+
+701
+00:21:05,760 --> 00:21:10,159
+kind of cosmetic things that make a
+
+702
+00:21:08,000 --> 00:21:12,159
+model kind of magically do something
+
+703
+00:21:10,159 --> 00:21:14,720
+that probably is going to happen anyways
+
+704
+00:21:12,159 --> 00:21:14,720
+in 6 months.
+

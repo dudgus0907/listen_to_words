@@ -1,0 +1,5530 @@
+{
+  "success": true,
+  "videoId": "bfD4oFQXHTs",
+  "videoTitle": "How I Built $15M Annual Revenue Vertical SaaS ｜ Dan Uyemura, PushPress",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "first time Founders like you just don't"
+    },
+    {
+      "start": 1,
+      "text": "know we we didn't have to pitch so it"
+    },
+    {
+      "start": 2,
+      "text": "was like we're stammering fumbling over"
+    },
+    {
+      "start": 4,
+      "text": "slides like we didn't know how to"
+    },
+    {
+      "start": 6,
+      "text": "actually present the opportunity and"
+    },
+    {
+      "start": 7,
+      "text": "package it the second one is like we"
+    },
+    {
+      "start": 9,
+      "text": "just didn't understand what VCS were"
+    },
+    {
+      "start": 10,
+      "text": "looking for like I legit thought Venture"
+    },
+    {
+      "start": 12,
+      "text": "Capital people were gamblers like I"
+    },
+    {
+      "start": 15,
+      "text": "thought that there was here's 5 million"
+    },
+    {
+      "start": 16,
+      "text": "go see what you can do you know I just"
+    },
+    {
+      "start": 17,
+      "text": "thought they were just gamblers and then"
+    },
+    {
+      "start": 19,
+      "text": "it took us many many pitches for us to"
+    },
+    {
+      "start": 21,
+      "text": "realize like oh they actually want to"
+    },
+    {
+      "start": 22,
+      "text": "see like there's a business here and"
+    },
+    {
+      "start": 24,
+      "text": "there's you have to understand your Tam"
+    },
+    {
+      "start": 25,
+      "text": "and what does the growth potential look"
+    },
+    {
+      "start": 27,
+      "text": "like all these things I mean the bottom"
+    },
+    {
+      "start": 28,
+      "text": "line is this it's like if you're"
+    },
+    {
+      "start": 29,
+      "text": "building something that everyone"
+    },
+    {
+      "start": 31,
+      "text": "recognizes a value in there's really no"
+    },
+    {
+      "start": 32,
+      "text": "value in it because everyone's probably"
+    },
+    {
+      "start": 34,
+      "text": "doing it if you really believe that"
+    },
+    {
+      "start": 35,
+      "text": "there's something valuable and nobody"
+    },
+    {
+      "start": 37,
+      "text": "else can see it and the gamble is like"
+    },
+    {
+      "start": 39,
+      "text": "are you wrong are you crazy right and"
+    },
+    {
+      "start": 40,
+      "text": "that's what we had to reflect on but if"
+    },
+    {
+      "start": 42,
+      "text": "you're not wrong there actually is a lot"
+    },
+    {
+      "start": 44,
+      "text": "of value there because if because no one"
+    },
+    {
+      "start": 45,
+      "text": "else is doing it right and that is what"
+    },
+    {
+      "start": 47,
+      "text": "value is so especially as a young"
+    },
+    {
+      "start": 49,
+      "text": "founder you're like am I crazy like is"
+    },
+    {
+      "start": 51,
+      "text": "there really no no way we can beat Mind"
+    },
+    {
+      "start": 53,
+      "text": "Body here is this like it's so clear to"
+    },
+    {
+      "start": 55,
+      "text": "me but no one else can see it and you"
+    },
+    {
+      "start": 56,
+      "text": "want to believe that these people are"
+    },
+    {
+      "start": 58,
+      "text": "smarter than you they probably are right"
+    },
+    {
+      "start": 60,
+      "text": "but they just don't understand your"
+    },
+    {
+      "start": 61,
+      "text": "business or the opportunity and the"
+    },
+    {
+      "start": 62,
+      "text": "thing I didn't realize at the time is"
+    },
+    {
+      "start": 63,
+      "text": "like in one hour they're trying to"
+    },
+    {
+      "start": 65,
+      "text": "understand what you spent 5 years doing"
+    },
+    {
+      "start": 67,
+      "text": "right and you think about it every day"
+    },
+    {
+      "start": 68,
+      "text": "for 5 years and they're trying to get in"
+    },
+    {
+      "start": 69,
+      "text": "one hour and there's just no way they"
+    },
+    {
+      "start": 71,
+      "text": "can right part of that's on me or the"
+    },
+    {
+      "start": 73,
+      "text": "founder because if you can't relay all"
+    },
+    {
+      "start": 74,
+      "text": "that information in an hour that's on"
+    },
+    {
+      "start": 76,
+      "text": "you but at the same time as a first-"
+    },
+    {
+      "start": 78,
+      "text": "Time founder it's like it it takes a lot"
+    },
+    {
+      "start": 79,
+      "text": "of reps to get to the point where you"
+    },
+    {
+      "start": 80,
+      "text": "can explain it and you're going to get"
+    },
+    {
+      "start": 81,
+      "text": "told no for every single rep that you're"
+    },
+    {
+      "start": 83,
+      "text": "building that ability right and that's"
+    },
+    {
+      "start": 85,
+      "text": "okay it really is okay but let it be a"
+    },
+    {
+      "start": 86,
+      "text": "chip on your shoulder because that'll"
+    },
+    {
+      "start": 88,
+      "text": "that'll fire you up more yeah"
+    },
+    {
+      "start": 99,
+      "text": "great uh my name is Tay I'm a partner at"
+    },
+    {
+      "start": 101,
+      "text": "Altos Ventures we are here with Dan the"
+    },
+    {
+      "start": 103,
+      "text": "CEO and co-founder of push press we've"
+    },
+    {
+      "start": 106,
+      "text": "been working with Dan for the last"
+    },
+    {
+      "start": 107,
+      "text": "several years after we led the series a"
+    },
+    {
+      "start": 110,
+      "text": "and it's a pleasure to have you here"
+    },
+    {
+      "start": 111,
+      "text": "with us today thank you T it's going to"
+    },
+    {
+      "start": 113,
+      "text": "be exciting conversation we're about to"
+    },
+    {
+      "start": 114,
+      "text": "have so my name is Dan we Mora I am the"
+    },
+    {
+      "start": 116,
+      "text": "CEO and a co-founder of push press we"
+    },
+    {
+      "start": 118,
+      "text": "are a gym management software platform"
+    },
+    {
+      "start": 121,
+      "text": "uh and really it's like our job to help"
+    },
+    {
+      "start": 124,
+      "text": "a gym owner focus on the one thing that"
+    },
+    {
+      "start": 126,
+      "text": "they really care about which is their"
+    },
+    {
+      "start": 128,
+      "text": "clients and helping their clients get"
+    },
+    {
+      "start": 129,
+      "text": "Fitness and strip away all the other"
+    },
+    {
+      "start": 131,
+      "text": "complexities of business through our"
+    },
+    {
+      "start": 133,
+      "text": "software platform and when did you start"
+    },
+    {
+      "start": 134,
+      "text": "the company oh so we had the idea in"
+    },
+    {
+      "start": 136,
+      "text": "about 2011 um started writing code"
+    },
+    {
+      "start": 138,
+      "text": "around 2011 it took us about 2 years to"
+    },
+    {
+      "start": 141,
+      "text": "get enough code written to have the"
+    },
+    {
+      "start": 142,
+      "text": "first client which was my gym on boarded"
+    },
+    {
+      "start": 145,
+      "text": "2013 so about 11 years ago well I guess"
+    },
+    {
+      "start": 148,
+      "text": "you have to predate the gym ownership I"
+    },
+    {
+      "start": 150,
+      "text": "was an engineer I spent about 10 years"
+    },
+    {
+      "start": 152,
+      "text": "writing code and building stuff so you"
+    },
+    {
+      "start": 154,
+      "text": "know Builders always look at things from"
+    },
+    {
+      "start": 155,
+      "text": "the lens of like how was this built I"
+    },
+    {
+      "start": 157,
+      "text": "open the gym I looked at the software"
+    },
+    {
+      "start": 159,
+      "text": "that was available and I could tell"
+    },
+    {
+      "start": 161,
+      "text": "pretty clearly like this was built a"
+    },
+    {
+      "start": 162,
+      "text": "long time ago Andor I don't know it just"
+    },
+    {
+      "start": 164,
+      "text": "wasn't up to like modern standards now"
+    },
+    {
+      "start": 166,
+      "text": "that I've built it all I can realize"
+    },
+    {
+      "start": 168,
+      "text": "it's it takes forever to build this much"
+    },
+    {
+      "start": 169,
+      "text": "software so I get it now why it wasn't"
+    },
+    {
+      "start": 171,
+      "text": "but at the time I was like there's no"
+    },
+    {
+      "start": 173,
+      "text": "way I can use this software so for the"
+    },
+    {
+      "start": 175,
+      "text": "first gym we just kind of rolled our own"
+    },
+    {
+      "start": 176,
+      "text": "just piece Meed some stuff together on"
+    },
+    {
+      "start": 178,
+      "text": "WordPress and then kind of from there"
+    },
+    {
+      "start": 179,
+      "text": "there was just like this organic"
+    },
+    {
+      "start": 181,
+      "text": "Inquisition from my peers who are gym"
+    },
+    {
+      "start": 182,
+      "text": "owners of like what are you using how"
+    },
+    {
+      "start": 184,
+      "text": "can I use that type stuff that kind of"
+    },
+    {
+      "start": 186,
+      "text": "like lit the light bulb of like we"
+    },
+    {
+      "start": 187,
+      "text": "really should do this so you open the"
+    },
+    {
+      "start": 189,
+      "text": "gym what year was this again the gym"
+    },
+    {
+      "start": 190,
+      "text": "itself the gym opened in 2010 2010 okay"
+    },
+    {
+      "start": 193,
+      "text": "and why did you decide to open the gym I"
+    },
+    {
+      "start": 195,
+      "text": "had been coding for about a decade maybe"
+    },
+    {
+      "start": 198,
+      "text": "a little bit more I didn't really"
+    },
+    {
+      "start": 199,
+      "text": "realize it at the time but when you're"
+    },
+    {
+      "start": 201,
+      "text": "an engineer well now it's like there's"
+    },
+    {
+      "start": 203,
+      "text": "High leverage with coders right and"
+    },
+    {
+      "start": 205,
+      "text": "obviously my bosses knew this so it was"
+    },
+    {
+      "start": 207,
+      "text": "like they would put dinners in front of"
+    },
+    {
+      "start": 208,
+      "text": "me Italian dinner they put Coca-Cola and"
+    },
+    {
+      "start": 211,
+      "text": "coffee in front of me and i' just be"
+    },
+    {
+      "start": 212,
+      "text": "coating all day and in that 10e span I"
+    },
+    {
+      "start": 215,
+      "text": "probably put on like 30 lbs I got I was"
+    },
+    {
+      "start": 217,
+      "text": "getting a separation from a marriage at"
+    },
+    {
+      "start": 219,
+      "text": "the time and you know that's when you"
+    },
+    {
+      "start": 220,
+      "text": "actually look at yourself in the mirror"
+    },
+    {
+      "start": 221,
+      "text": "and go oh I'm single I'm going to have"
+    },
+    {
+      "start": 223,
+      "text": "to go on a date and I'm a slob so I uh I"
+    },
+    {
+      "start": 227,
+      "text": "I started I and and I guess I didn't"
+    },
+    {
+      "start": 230,
+      "text": "really know about this about myself at"
+    },
+    {
+      "start": 231,
+      "text": "the time but entrepreneurs are generally"
+    },
+    {
+      "start": 233,
+      "text": "obsessive compulsive I believe and so I"
+    },
+    {
+      "start": 235,
+      "text": "basically went for the fastest thing"
+    },
+    {
+      "start": 237,
+      "text": "that can get me the most results which"
+    },
+    {
+      "start": 238,
+      "text": "put me pretty much in a direct path"
+    },
+    {
+      "start": 240,
+      "text": "right into CrossFit and I fell in love"
+    },
+    {
+      "start": 241,
+      "text": "with it became like a RAB rabid CrossFit"
+    },
+    {
+      "start": 244,
+      "text": "fanatic helped people open gyms got my"
+    },
+    {
+      "start": 246,
+      "text": "coach's certification and then I got"
+    },
+    {
+      "start": 248,
+      "text": "laid off at Myspace and just said I'm"
+    },
+    {
+      "start": 250,
+      "text": "going to take this money and go open a"
+    },
+    {
+      "start": 251,
+      "text": "gym give it a shot I was tired of coding"
+    },
+    {
+      "start": 253,
+      "text": "I guess you know it was it was in a in a"
+    },
+    {
+      "start": 255,
+      "text": "time when the industry itself was trying"
+    },
+    {
+      "start": 257,
+      "text": "to figure itself out so everything was"
+    },
+    {
+      "start": 258,
+      "text": "uh you know fast-paced but also very"
+    },
+    {
+      "start": 261,
+      "text": "under optimized and so when you opened"
+    },
+    {
+      "start": 263,
+      "text": "your own gym did you do anything"
+    },
+    {
+      "start": 264,
+      "text": "differently like how did you organize"
+    },
+    {
+      "start": 266,
+      "text": "the gym what was different about your"
+    },
+    {
+      "start": 268,
+      "text": "gym so and again so in during this time"
+    },
+    {
+      "start": 270,
+      "text": "this is when it was like I don't know if"
+    },
+    {
+      "start": 272,
+      "text": "you know much about CrossFit culture but"
+    },
+    {
+      "start": 274,
+      "text": "back then it was like pukey the clown"
+    },
+    {
+      "start": 276,
+      "text": "and dudes with their shirt off and just"
+    },
+    {
+      "start": 278,
+      "text": "like crazy masculine toxic masculinity"
+    },
+    {
+      "start": 282,
+      "text": "type stuff which you know is is the"
+    },
+    {
+      "start": 283,
+      "text": "brand but we we actually opened our gym"
+    },
+    {
+      "start": 286,
+      "text": "thinking like we want to tailor to"
+    },
+    {
+      "start": 287,
+      "text": "40-year-olds who are brand aesthetic"
+    },
+    {
+      "start": 289,
+      "text": "appeal you know like who appeal to a"
+    },
+    {
+      "start": 291,
+      "text": "brand aesthetic we picked colors that"
+    },
+    {
+      "start": 293,
+      "text": "were non- shocking and and so our whole"
+    },
+    {
+      "start": 294,
+      "text": "brand was was more around inclusivity"
+    },
+    {
+      "start": 297,
+      "text": "and for for everybody when we opened it"
+    },
+    {
+      "start": 299,
+      "text": "that was kind of you know I was older at"
+    },
+    {
+      "start": 301,
+      "text": "the time I was probably 30 33 or"
+    },
+    {
+      "start": 303,
+      "text": "something which was you know back then"
+    },
+    {
+      "start": 305,
+      "text": "CrossFit was like a 20-year- old thing"
+    },
+    {
+      "start": 306,
+      "text": "so we were trying to get it to be uh"
+    },
+    {
+      "start": 308,
+      "text": "more"
+    },
+    {
+      "start": 310,
+      "text": "inclusive I I look for software"
+    },
+    {
+      "start": 312,
+      "text": "immediately I think with most founding"
+    },
+    {
+      "start": 313,
+      "text": "stories there's a lot of things that"
+    },
+    {
+      "start": 315,
+      "text": "lead up to it right and so one of the"
+    },
+    {
+      "start": 317,
+      "text": "things I led up to it was and this is"
+    },
+    {
+      "start": 319,
+      "text": "when I was still at Myspace I was like"
+    },
+    {
+      "start": 320,
+      "text": "spending a solid hour a day negotiating"
+    },
+    {
+      "start": 323,
+      "text": "our payments rate for this gym we're"
+    },
+    {
+      "start": 325,
+      "text": "going to open with the payments company"
+    },
+    {
+      "start": 327,
+      "text": "and man they put me through the ringer"
+    },
+    {
+      "start": 328,
+      "text": "it was like fact in stuff give me"
+    },
+    {
+      "start": 330,
+      "text": "supporting documents dating back for 10"
+    },
+    {
+      "start": 332,
+      "text": "like all of this stuff that I had to do"
+    },
+    {
+      "start": 334,
+      "text": "I was a really bad employee but I even"
+    },
+    {
+      "start": 336,
+      "text": "remember feeling guilty like I'm"
+    },
+    {
+      "start": 338,
+      "text": "spending so much time faxing stuff doing"
+    },
+    {
+      "start": 341,
+      "text": "things to make this payments thing"
+    },
+    {
+      "start": 342,
+      "text": "happen it was just ridiculous and"
+    },
+    {
+      "start": 344,
+      "text": "anyways I I negotiated all the way down"
+    },
+    {
+      "start": 345,
+      "text": "to 1.9% and Brian was a worked at a bank"
+    },
+    {
+      "start": 349,
+      "text": "and he came in and he's like it's"
+    },
+    {
+      "start": 350,
+      "text": "impossible you're not paying 1.9 he told"
+    },
+    {
+      "start": 352,
+      "text": "me to give me I gave him his my our bank"
+    },
+    {
+      "start": 353,
+      "text": "statements he looked he looked over it"
+    },
+    {
+      "start": 355,
+      "text": "brought it home came back next day he's"
+    },
+    {
+      "start": 356,
+      "text": "like you're paying 4.8 and so I was so"
+    },
+    {
+      "start": 358,
+      "text": "pissed off that like I spent spent a a"
+    },
+    {
+      "start": 361,
+      "text": "month of my time trying to negotiate"
+    },
+    {
+      "start": 362,
+      "text": "this right down I got lied to and then"
+    },
+    {
+      "start": 365,
+      "text": "and then I had to find out because"
+    },
+    {
+      "start": 366,
+      "text": "someone else like fact checked it so"
+    },
+    {
+      "start": 367,
+      "text": "that was a reason because I was"
+    },
+    {
+      "start": 368,
+      "text": "connected to the software but I was I'm"
+    },
+    {
+      "start": 370,
+      "text": "a software guy so I was looking for"
+    },
+    {
+      "start": 371,
+      "text": "software immediately to run the business"
+    },
+    {
+      "start": 373,
+      "text": "yeah that's that's that's kind of the"
+    },
+    {
+      "start": 375,
+      "text": "Genesis of it yeah and what was the"
+    },
+    {
+      "start": 377,
+      "text": "issue with the existing tools you"
+    },
+    {
+      "start": 379,
+      "text": "mentioned they all looked old but like"
+    },
+    {
+      "start": 382,
+      "text": "what what was the Practical issue in"
+    },
+    {
+      "start": 384,
+      "text": "terms of using them for your specific"
+    },
+    {
+      "start": 386,
+      "text": "gym yeah so the the biggest issue was"
+    },
+    {
+      "start": 388,
+      "text": "every gym runs a little bit differently"
+    },
+    {
+      "start": 390,
+      "text": "and that's because in Fitness you have"
+    },
+    {
+      "start": 392,
+      "text": "CrossFit you have MMA you have karate"
+    },
+    {
+      "start": 394,
+      "text": "you have kids Fitness Sports training"
+    },
+    {
+      "start": 396,
+      "text": "just so many different things and when I"
+    },
+    {
+      "start": 398,
+      "text": "pulled up the existing software the form"
+    },
+    {
+      "start": 400,
+      "text": "field was like a mile long like every"
+    },
+    {
+      "start": 402,
+      "text": "page was like a mile long of options and"
+    },
+    {
+      "start": 404,
+      "text": "things that I had to like every form"
+    },
+    {
+      "start": 405,
+      "text": "you're like what does this mean what"
+    },
+    {
+      "start": 406,
+      "text": "does it do if what happens if I change"
+    },
+    {
+      "start": 408,
+      "text": "this what are the ramifications on you"
+    },
+    {
+      "start": 409,
+      "text": "know like where where do you think what"
+    },
+    {
+      "start": 411,
+      "text": "happens and that thought process just"
+    },
+    {
+      "start": 412,
+      "text": "blew me away like I can't manage this"
+    },
+    {
+      "start": 416,
+      "text": "and so practically speaking it was like"
+    },
+    {
+      "start": 418,
+      "text": "when one software tries to do two much"
+    },
+    {
+      "start": 419,
+      "text": "for everybody it ends up doing nothing"
+    },
+    {
+      "start": 421,
+      "text": "for anyone and this was granted um you"
+    },
+    {
+      "start": 425,
+      "text": "know I'll cut them slack they built this"
+    },
+    {
+      "start": 426,
+      "text": "before like the iPhone came out and I"
+    },
+    {
+      "start": 429,
+      "text": "think the Paradigm of the iPhone changed"
+    },
+    {
+      "start": 430,
+      "text": "everyone's mind because the iPhone can"
+    },
+    {
+      "start": 432,
+      "text": "do anything for everyone but they"
+    },
+    {
+      "start": 433,
+      "text": "compartmentalized everything into Apps"
+    },
+    {
+      "start": 435,
+      "text": "and it allows you to customize the phone"
+    },
+    {
+      "start": 437,
+      "text": "to your own experience what you want and"
+    },
+    {
+      "start": 438,
+      "text": "that's what I now expected because this"
+    },
+    {
+      "start": 440,
+      "text": "is post iPhone like I'm like why do I"
+    },
+    {
+      "start": 442,
+      "text": "have to have all this stuff I just want"
+    },
+    {
+      "start": 443,
+      "text": "what I want right and so I think the"
+    },
+    {
+      "start": 445,
+      "text": "iPhone changed the game for how we"
+    },
+    {
+      "start": 446,
+      "text": "approach software I believe in that way"
+    },
+    {
+      "start": 448,
+      "text": "m"
+    },
+    {
+      "start": 452,
+      "text": "you're scaling any Milestones that you"
+    },
+    {
+      "start": 455,
+      "text": "remember in those early days that you"
+    },
+    {
+      "start": 456,
+      "text": "were anchored on like oh I need to get"
+    },
+    {
+      "start": 458,
+      "text": "to 100 customers or 1 million of AR"
+    },
+    {
+      "start": 461,
+      "text": "whatever that is so the the one that"
+    },
+    {
+      "start": 463,
+      "text": "like we'll never I'll never forget it's"
+    },
+    {
+      "start": 465,
+      "text": "uh will from mucker a venture capital"
+    },
+    {
+      "start": 468,
+      "text": "firm so we're pitching all these VCS"
+    },
+    {
+      "start": 470,
+      "text": "early because I'm like this is going to"
+    },
+    {
+      "start": 472,
+      "text": "crush we get payments money like like"
+    },
+    {
+      "start": 475,
+      "text": "there was so much to this I'm like this"
+    },
+    {
+      "start": 476,
+      "text": "is there's no way this is going to fail"
+    },
+    {
+      "start": 477,
+      "text": "all the players suck like we understand"
+    },
+    {
+      "start": 479,
+      "text": "it blah blah blah and we got laughed out"
+    },
+    {
+      "start": 480,
+      "text": "of every Venture room for years and one"
+    },
+    {
+      "start": 483,
+      "text": "of them this guy guy named will from"
+    },
+    {
+      "start": 485,
+      "text": "mucker he told me he's like hey this is"
+    },
+    {
+      "start": 487,
+      "text": "a great idea uh why don't you come back"
+    },
+    {
+      "start": 490,
+      "text": "when you're at 10,000 Mr because then"
+    },
+    {
+      "start": 492,
+      "text": "we'll know you have escape velocity I"
+    },
+    {
+      "start": 495,
+      "text": "remember these terms exactly and so"
+    },
+    {
+      "start": 497,
+      "text": "right when we hit 10,000 I called him"
+    },
+    {
+      "start": 499,
+      "text": "he's like yeah come down show me what's"
+    },
+    {
+      "start": 500,
+      "text": "going on blah blah and I was like cool"
+    },
+    {
+      "start": 501,
+      "text": "and we we were excited cuz I'm like dude"
+    },
+    {
+      "start": 503,
+      "text": "he's going to invest cuz we did what he"
+    },
+    {
+      "start": 504,
+      "text": "said and he's like this is all cool why"
+    },
+    {
+      "start": 506,
+      "text": "don't you get come call me back when you"
+    },
+    {
+      "start": 507,
+      "text": "get to 100,000 Mr because then I'll know"
+    },
+    {
+      "start": 509,
+      "text": "that you escap like literally told me"
+    },
+    {
+      "start": 511,
+      "text": "the same thing again I'm like oh all"
+    },
+    {
+      "start": 514,
+      "text": "right and so we called him back at"
+    },
+    {
+      "start": 515,
+      "text": "100,000 and he's like we pass like we're"
+    },
+    {
+      "start": 517,
+      "text": "not interested and um I just remember"
+    },
+    {
+      "start": 520,
+      "text": "like we it gave us a clear line in the"
+    },
+    {
+      "start": 521,
+      "text": "say like okay we have to get 10,000 Mr"
+    },
+    {
+      "start": 523,
+      "text": "and we're going to we're going to call"
+    },
+    {
+      "start": 524,
+      "text": "him back but the the irony is he's"
+    },
+    {
+      "start": 526,
+      "text": "actually an investor now because he"
+    },
+    {
+      "start": 527,
+      "text": "heard that we were raising a kind of a a"
+    },
+    {
+      "start": 529,
+      "text": "safe through another another party one"
+    },
+    {
+      "start": 532,
+      "text": "of our connected friends it was another"
+    },
+    {
+      "start": 534,
+      "text": "fraternity brother of ours was investing"
+    },
+    {
+      "start": 537,
+      "text": "cuz he did he's done well in some stuff"
+    },
+    {
+      "start": 538,
+      "text": "and he's friends with him on the side"
+    },
+    {
+      "start": 540,
+      "text": "he's like hey will you should check out"
+    },
+    {
+      "start": 541,
+      "text": "this company he's like oh I know them"
+    },
+    {
+      "start": 542,
+      "text": "and and then will called me and he's"
+    },
+    {
+      "start": 544,
+      "text": "like okay it's time let's do this and"
+    },
+    {
+      "start": 545,
+      "text": "I'm like oh now it's time that's funny"
+    },
+    {
+      "start": 548,
+      "text": "yeah so uh yeah if you're thinking about"
+    },
+    {
+      "start": 550,
+      "text": "getting investment money from from uh"
+    },
+    {
+      "start": 552,
+      "text": "Venture capitals they're not they they"
+    },
+    {
+      "start": 554,
+      "text": "uh you got to show them some social"
+    },
+    {
+      "start": 555,
+      "text": "proof first like they're not just"
+    },
+    {
+      "start": 556,
+      "text": "throwing money around like I thought"
+    },
+    {
+      "start": 557,
+      "text": "they"
+    },
+    {
+      "start": 558,
+      "text": "were uh when did will invest and what"
+    },
+    {
+      "start": 561,
+      "text": "was the scale at that time I think we're"
+    },
+    {
+      "start": 564,
+      "text": "at 1.4 million AR or maybe maybe 2"
+    },
+    {
+      "start": 567,
+      "text": "million probably around 2 million"
+    },
+    {
+      "start": 570,
+      "text": "it honestly was probably it was a really"
+    },
+    {
+      "start": 572,
+      "text": "good deal I'm sure this was like late"
+    },
+    {
+      "start": 573,
+      "text": "2020 so it like during Co we grew we had"
+    },
+    {
+      "start": 576,
+      "text": "built a free product and like we were"
+    },
+    {
+      "start": 578,
+      "text": "doing we were actually building brand"
+    },
+    {
+      "start": 580,
+      "text": "because we were the most authentic like"
+    },
+    {
+      "start": 581,
+      "text": "gym owner Centric uh company and we grew"
+    },
+    {
+      "start": 583,
+      "text": "quite a bit and it was like the signals"
+    },
+    {
+      "start": 585,
+      "text": "were good the social proof was good the"
+    },
+    {
+      "start": 587,
+      "text": "the numbers looked good um and but I"
+    },
+    {
+      "start": 589,
+      "text": "didn't know how to raise money and so"
+    },
+    {
+      "start": 591,
+      "text": "this uh anti- VC type company com fund"
+    },
+    {
+      "start": 593,
+      "text": "came to me and he's like hey I think I"
+    },
+    {
+      "start": 594,
+      "text": "can just get some LPS together and raise"
+    },
+    {
+      "start": 596,
+      "text": "some money but it's got to be at this"
+    },
+    {
+      "start": 597,
+      "text": "valuation and I was just kind of like if"
+    },
+    {
+      "start": 599,
+      "text": "I can do no work on this because I don't"
+    },
+    {
+      "start": 601,
+      "text": "believe you're going to raise it like I"
+    },
+    {
+      "start": 602,
+      "text": "had no belief like I'm like I'm going to"
+    },
+    {
+      "start": 603,
+      "text": "do no work on this you can have that"
+    },
+    {
+      "start": 605,
+      "text": "good valuation but I don't want to do"
+    },
+    {
+      "start": 607,
+      "text": "anything like you know and he's like"
+    },
+    {
+      "start": 609,
+      "text": "cool and he got heo he did it in a"
+    },
+    {
+      "start": 611,
+      "text": "weekend like got it all closed up and"
+    },
+    {
+      "start": 612,
+      "text": "that's when will heard of the circle so"
+    },
+    {
+      "start": 613,
+      "text": "anyway that first round uh we were at 2"
+    },
+    {
+      "start": 615,
+      "text": "million in AR roughly 2 million in ARR"
+    },
+    {
+      "start": 617,
+      "text": "and I think it was like at 11 million"
+    },
+    {
+      "start": 619,
+      "text": "valuation so it was like 5x at a time"
+    },
+    {
+      "start": 621,
+      "text": "when people were getting like 50x or"
+    },
+    {
+      "start": 623,
+      "text": "something so I just didn't think it"
+    },
+    {
+      "start": 625,
+      "text": "would happen wow yeah so you reflect on"
+    },
+    {
+      "start": 628,
+      "text": "the many con Sation you had with the"
+    },
+    {
+      "start": 630,
+      "text": "investors and a lot of them were just"
+    },
+    {
+      "start": 633,
+      "text": "not going well what do you think just"
+    },
+    {
+      "start": 635,
+      "text": "was missing like what what happened"
+    },
+    {
+      "start": 637,
+      "text": "super good question for firsttime"
+    },
+    {
+      "start": 639,
+      "text": "Founders like you just don't know and I"
+    },
+    {
+      "start": 641,
+      "text": "remember like so some of the early ones"
+    },
+    {
+      "start": 642,
+      "text": "we pitched so one the first thing is we"
+    },
+    {
+      "start": 644,
+      "text": "were playing rotating CEO so like for"
+    },
+    {
+      "start": 646,
+      "text": "the first pitches I think Chris was the"
+    },
+    {
+      "start": 648,
+      "text": "CEO and then Brian was CEO for a while"
+    },
+    {
+      "start": 650,
+      "text": "and then at towards the end like at the"
+    },
+    {
+      "start": 651,
+      "text": "2020 stage it was me but I remember them"
+    },
+    {
+      "start": 653,
+      "text": "coming out we would come out and they'd"
+    },
+    {
+      "start": 654,
+      "text": "be like we we don't see any passion and"
+    },
+    {
+      "start": 657,
+      "text": "I was like what like dude we are like we"
+    },
+    {
+      "start": 660,
+      "text": "are so passion like I I couldn't believe"
+    },
+    {
+      "start": 661,
+      "text": "it but really what it was was we didn't"
+    },
+    {
+      "start": 663,
+      "text": "know how to we we didn't how to pitch so"
+    },
+    {
+      "start": 664,
+      "text": "it was like we're stammering fumbling"
+    },
+    {
+      "start": 666,
+      "text": "over slides like we didn't know how to"
+    },
+    {
+      "start": 668,
+      "text": "actually present the opportunity and"
+    },
+    {
+      "start": 669,
+      "text": "package it um so that was early problems"
+    },
+    {
+      "start": 671,
+      "text": "for one the second one is like we just"
+    },
+    {
+      "start": 673,
+      "text": "didn't understand what VCS were looking"
+    },
+    {
+      "start": 674,
+      "text": "for like I legit thought Venture Capital"
+    },
+    {
+      "start": 677,
+      "text": "people were gamblers before like I"
+    },
+    {
+      "start": 680,
+      "text": "thought that there was here's 5 million"
+    },
+    {
+      "start": 681,
+      "text": "go see what you can do you know I just"
+    },
+    {
+      "start": 682,
+      "text": "thought they were just gamblers and then"
+    },
+    {
+      "start": 684,
+      "text": "it took us many many pitches for us to"
+    },
+    {
+      "start": 686,
+      "text": "realize like oh they actually want to"
+    },
+    {
+      "start": 687,
+      "text": "see like there's a business here and"
+    },
+    {
+      "start": 689,
+      "text": "there's you have to understand your Tam"
+    },
+    {
+      "start": 690,
+      "text": "and what does the growth potential look"
+    },
+    {
+      "start": 692,
+      "text": "like all these things and then once we"
+    },
+    {
+      "start": 694,
+      "text": "actually got to the point where like I I"
+    },
+    {
+      "start": 695,
+      "text": "knew how to pitch and I can actually get"
+    },
+    {
+      "start": 697,
+      "text": "to the point of term sheets I started to"
+    },
+    {
+      "start": 698,
+      "text": "realize like I don't really want to work"
+    },
+    {
+      "start": 699,
+      "text": "with investors they're all like they're"
+    },
+    {
+      "start": 701,
+      "text": "all going to make me do the things that"
+    },
+    {
+      "start": 702,
+      "text": "I I could see all of our predecessors"
+    },
+    {
+      "start": 704,
+      "text": "are doing that don't work like when"
+    },
+    {
+      "start": 706,
+      "text": "you're obsessed over the money you're"
+    },
+    {
+      "start": 707,
+      "text": "just squeezing them for more Revenue you"
+    },
+    {
+      "start": 709,
+      "text": "don't really care about them as"
+    },
+    {
+      "start": 710,
+      "text": "customers they numbers to you like none"
+    },
+    {
+      "start": 711,
+      "text": "of that stuff I wanted to do so it that"
+    },
+    {
+      "start": 713,
+      "text": "irony is once we got to the point where"
+    },
+    {
+      "start": 714,
+      "text": "we actually could get term sheets I'm"
+    },
+    {
+      "start": 715,
+      "text": "like I don't even want to do this so"
+    },
+    {
+      "start": 718,
+      "text": "yeah I felt uh I don't know the word for"
+    },
+    {
+      "start": 720,
+      "text": "it right now but basically very"
+    },
+    {
+      "start": 721,
+      "text": "disconnected from the fact that like"
+    },
+    {
+      "start": 723,
+      "text": "something that I could see so clearly"
+    },
+    {
+      "start": 725,
+      "text": "was not obvious to other people so that"
+    },
+    {
+      "start": 727,
+      "text": "that made me feel disconnected for one"
+    },
+    {
+      "start": 729,
+      "text": "it put chips a huge chip on my shoulder"
+    },
+    {
+      "start": 732,
+      "text": "massive we joke about it all the time"
+    },
+    {
+      "start": 733,
+      "text": "that like and I wish I did this but we"
+    },
+    {
+      "start": 735,
+      "text": "call it the list of all the people who"
+    },
+    {
+      "start": 737,
+      "text": "didn't believe in us like I wish I"
+    },
+    {
+      "start": 738,
+      "text": "actually kept the list because okay so"
+    },
+    {
+      "start": 740,
+      "text": "let me tell you the story actually this"
+    },
+    {
+      "start": 740,
+      "text": "is a good one so at at one point"
+    },
+    {
+      "start": 742,
+      "text": "throughout this journey I had to keep"
+    },
+    {
+      "start": 744,
+      "text": "taking jobs because I just didn't make"
+    },
+    {
+      "start": 745,
+      "text": "enough money so it's like I was running"
+    },
+    {
+      "start": 746,
+      "text": "a gym had to go take a full-time job and"
+    },
+    {
+      "start": 749,
+      "text": "doing push press like three things at"
+    },
+    {
+      "start": 750,
+      "text": "once and one of the jobs I took I"
+    },
+    {
+      "start": 752,
+      "text": "actually had to drive past the house of"
+    },
+    {
+      "start": 754,
+      "text": "an investor who turned us down like he"
+    },
+    {
+      "start": 756,
+      "text": "we went to his house we sat there and"
+    },
+    {
+      "start": 758,
+      "text": "pitched him I thought it went really"
+    },
+    {
+      "start": 759,
+      "text": "well and then he went back to the fund"
+    },
+    {
+      "start": 760,
+      "text": "that was he was representing and he's"
+    },
+    {
+      "start": 761,
+      "text": "like oh they suck like don't don't"
+    },
+    {
+      "start": 762,
+      "text": "invest in them and so every day for like"
+    },
+    {
+      "start": 765,
+      "text": "a year I had to drive past his house and"
+    },
+    {
+      "start": 766,
+      "text": "I flipped off his house every day like I"
+    },
+    {
+      "start": 769,
+      "text": "was so pissed off at like like he became"
+    },
+    {
+      "start": 771,
+      "text": "the personification of like everyone who"
+    },
+    {
+      "start": 773,
+      "text": "said no to us I mean the bottom line is"
+    },
+    {
+      "start": 775,
+      "text": "this it's like if you're building"
+    },
+    {
+      "start": 776,
+      "text": "something that everyone recognizes a"
+    },
+    {
+      "start": 778,
+      "text": "value in there's really no value in it"
+    },
+    {
+      "start": 779,
+      "text": "because everyone's probably doing it if"
+    },
+    {
+      "start": 781,
+      "text": "you're getting like if you really"
+    },
+    {
+      "start": 783,
+      "text": "believe that there's something valuable"
+    },
+    {
+      "start": 784,
+      "text": "and nobody else can see it and the"
+    },
+    {
+      "start": 786,
+      "text": "gamble is like are you wrong are you"
+    },
+    {
+      "start": 788,
+      "text": "crazy right and that's what we had to"
+    },
+    {
+      "start": 789,
+      "text": "reflect on but if you're not wrong there"
+    },
+    {
+      "start": 791,
+      "text": "actually is a lot of value there because"
+    },
+    {
+      "start": 793,
+      "text": "if because no one else is doing it right"
+    },
+    {
+      "start": 795,
+      "text": "and that is what value is so it was um"
+    },
+    {
+      "start": 797,
+      "text": "very challenging especially as a young"
+    },
+    {
+      "start": 799,
+      "text": "founder you're like am I crazy like does"
+    },
+    {
+      "start": 801,
+      "text": "no is there really no no way we can beat"
+    },
+    {
+      "start": 804,
+      "text": "Mind Body here is this like it's so"
+    },
+    {
+      "start": 805,
+      "text": "clear to me but no one else can see it"
+    },
+    {
+      "start": 807,
+      "text": "and you want to believe that these"
+    },
+    {
+      "start": 808,
+      "text": "people are smarter than you you they"
+    },
+    {
+      "start": 809,
+      "text": "they probably are right but they just"
+    },
+    {
+      "start": 811,
+      "text": "don't understand your business or the"
+    },
+    {
+      "start": 812,
+      "text": "opportunity and the thing I didn't"
+    },
+    {
+      "start": 813,
+      "text": "realize at the time is like in one hour"
+    },
+    {
+      "start": 815,
+      "text": "they're trying to understand what you"
+    },
+    {
+      "start": 816,
+      "text": "spent 5 years doing right and you think"
+    },
+    {
+      "start": 818,
+      "text": "about it every day for 5 years and"
+    },
+    {
+      "start": 819,
+      "text": "they're trying to get in one hour and"
+    },
+    {
+      "start": 821,
+      "text": "there's just no way they can right part"
+    },
+    {
+      "start": 823,
+      "text": "of that's on me or the founder because"
+    },
+    {
+      "start": 824,
+      "text": "if you can't relay all that information"
+    },
+    {
+      "start": 826,
+      "text": "in an hour that's on you but at the same"
+    },
+    {
+      "start": 828,
+      "text": "time as a first- Time founder it's like"
+    },
+    {
+      "start": 830,
+      "text": "it it takes a lot of reps to get to the"
+    },
+    {
+      "start": 831,
+      "text": "point where you can explain it and"
+    },
+    {
+      "start": 832,
+      "text": "you're going to get told no for every"
+    },
+    {
+      "start": 833,
+      "text": "single rep that you're building that"
+    },
+    {
+      "start": 835,
+      "text": "ability right and that's okay it really"
+    },
+    {
+      "start": 837,
+      "text": "is okay yeah but let it be a chip on"
+    },
+    {
+      "start": 839,
+      "text": "your shoulder because that'll that'll"
+    },
+    {
+      "start": 840,
+      "text": "fire you up more"
+    },
+    {
+      "start": 843,
+      "text": "yeah so how did you fund the company for"
+    },
+    {
+      "start": 846,
+      "text": "the first several years it was"
+    },
+    {
+      "start": 848,
+      "text": "technically bootstrap yeah there's"
+    },
+    {
+      "start": 850,
+      "text": "there's a few different angles to it"
+    },
+    {
+      "start": 851,
+      "text": "we've always been Scrappy and there's"
+    },
+    {
+      "start": 853,
+      "text": "like two pretty impactful moments I'll"
+    },
+    {
+      "start": 855,
+      "text": "I'll highlight the first one we printed"
+    },
+    {
+      "start": 858,
+      "text": "a poster we actually partnered with a a"
+    },
+    {
+      "start": 860,
+      "text": "weightlifting coach who's here in San"
+    },
+    {
+      "start": 861,
+      "text": "Francisco and we we brought her down we"
+    },
+    {
+      "start": 862,
+      "text": "did a photo shoot it was very"
+    },
+    {
+      "start": 863,
+      "text": "inexpensive and we printed this poster"
+    },
+    {
+      "start": 866,
+      "text": "of like weightlifting technique and it"
+    },
+    {
+      "start": 867,
+      "text": "was like Chris co-founder Chris had this"
+    },
+    {
+      "start": 870,
+      "text": "brilliant like design eye and like"
+    },
+    {
+      "start": 872,
+      "text": "visual representation eye so he"
+    },
+    {
+      "start": 873,
+      "text": "basically got a high-speed camera and"
+    },
+    {
+      "start": 875,
+      "text": "took like the movements of a cleaning"
+    },
+    {
+      "start": 876,
+      "text": "jerk and a snatch and broke it down into"
+    },
+    {
+      "start": 879,
+      "text": "like frame by frame what your feet"
+    },
+    {
+      "start": 881,
+      "text": "should look like from a top down"
+    },
+    {
+      "start": 882,
+      "text": "position you know from all this stuff"
+    },
+    {
+      "start": 883,
+      "text": "put it on a poster it looked awesome and"
+    },
+    {
+      "start": 885,
+      "text": "uh we sold it to the Comm actually we"
+    },
+    {
+      "start": 887,
+      "text": "gave it away to the community but it was"
+    },
+    {
+      "start": 888,
+      "text": "like $10 shipping and the shipping only"
+    },
+    {
+      "start": 890,
+      "text": "cost us $3 so like we made $7 a thing we"
+    },
+    {
+      "start": 893,
+      "text": "sold like a thousand of them because"
+    },
+    {
+      "start": 894,
+      "text": "everyone wanted it in their gym but we"
+    },
+    {
+      "start": 896,
+      "text": "also it was a double dip cuz we're like"
+    },
+    {
+      "start": 897,
+      "text": "this will get our brand into to the gyms"
+    },
+    {
+      "start": 899,
+      "text": "as well so you had push press on the"
+    },
+    {
+      "start": 901,
+      "text": "yeah it was a push press poster so it"
+    },
+    {
+      "start": 902,
+      "text": "was like got them aware of our brand but"
+    },
+    {
+      "start": 904,
+      "text": "we made like seven Grand which and at"
+    },
+    {
+      "start": 906,
+      "text": "that time was like massive money the"
+    },
+    {
+      "start": 908,
+      "text": "second thing we did is we built a timer"
+    },
+    {
+      "start": 910,
+      "text": "which still works to this day like the"
+    },
+    {
+      "start": 912,
+      "text": "timer's still out there but what"
+    },
+    {
+      "start": 913,
+      "text": "happened here was like Chris designed so"
+    },
+    {
+      "start": 915,
+      "text": "many things for us to build and we"
+    },
+    {
+      "start": 917,
+      "text": "couldn't keep up we couldn't code as"
+    },
+    {
+      "start": 918,
+      "text": "fast as he designed and so he was like I"
+    },
+    {
+      "start": 920,
+      "text": "got nothing to do we went to some"
+    },
+    {
+      "start": 923,
+      "text": "conference where it was like a bunch of"
+    },
+    {
+      "start": 923,
+      "text": "developers were there and we met some"
+    },
+    {
+      "start": 925,
+      "text": "guy from like Vietnam who does mobile"
+    },
+    {
+      "start": 926,
+      "text": "development and Chris is like I have"
+    },
+    {
+      "start": 928,
+      "text": "this idea for a timer can you build it"
+    },
+    {
+      "start": 929,
+      "text": "and he's worked up a bunch of mocks and"
+    },
+    {
+      "start": 931,
+      "text": "the guy built it and Chris had like"
+    },
+    {
+      "start": 933,
+      "text": "three months of nothing to do so he just"
+    },
+    {
+      "start": 934,
+      "text": "like Managed IT we built this timer and"
+    },
+    {
+      "start": 936,
+      "text": "it was it's still it's still awesome"
+    },
+    {
+      "start": 938,
+      "text": "it's still I think it's like one of the"
+    },
+    {
+      "start": 939,
+      "text": "best timers out there still it was like"
+    },
+    {
+      "start": 940,
+      "text": "10 years ago it a it's a workout timer"
+    },
+    {
+      "start": 943,
+      "text": "so so here's the hook it was like a"
+    },
+    {
+      "start": 944,
+      "text": "workout timer and you know it it was"
+    },
+    {
+      "start": 946,
+      "text": "specific to CrossFit so you can easily"
+    },
+    {
+      "start": 948,
+      "text": "build like count down count up timers"
+    },
+    {
+      "start": 949,
+      "text": "blah blah blah but the hook was like I"
+    },
+    {
+      "start": 951,
+      "text": "was building all these Connections in"
+    },
+    {
+      "start": 952,
+      "text": "the space so I'm like I went to all the"
+    },
+    {
+      "start": 954,
+      "text": "like celebrities on the CrossFit world"
+    },
+    {
+      "start": 956,
+      "text": "I'm like Hey we're building a timer can"
+    },
+    {
+      "start": 958,
+      "text": "you add your voice to it and so we built"
+    },
+    {
+      "start": 959,
+      "text": "like this language pack where it count"
+    },
+    {
+      "start": 961,
+      "text": "it goes like 3 2 1 go and then the"
+    },
+    {
+      "start": 963,
+      "text": "person can say something motivational"
+    },
+    {
+      "start": 964,
+      "text": "like hey you're you're halfway there"
+    },
+    {
+      "start": 965,
+      "text": "keep going and then we had like 20"
+    },
+    {
+      "start": 966,
+      "text": "different voices on it and so people"
+    },
+    {
+      "start": 968,
+      "text": "really like that cuz the voices were on"
+    },
+    {
+      "start": 969,
+      "text": "it one of my early members at my second"
+    },
+    {
+      "start": 971,
+      "text": "Gym came in and he was an ad Network ad"
+    },
+    {
+      "start": 973,
+      "text": "specialist and he's like dude show me"
+    },
+    {
+      "start": 975,
+      "text": "the numbers on this timer and we were"
+    },
+    {
+      "start": 976,
+      "text": "doing like a million workouts a month"
+    },
+    {
+      "start": 977,
+      "text": "like it just we just put it out there"
+    },
+    {
+      "start": 979,
+      "text": "and we didn't do anything it just it"
+    },
+    {
+      "start": 980,
+      "text": "just like started getting used getting a"
+    },
+    {
+      "start": 981,
+      "text": "million workouts a month and he's like"
+    },
+    {
+      "start": 983,
+      "text": "yo if I put ads on this like we can make"
+    },
+    {
+      "start": 985,
+      "text": "some money and so he did and you know"
+    },
+    {
+      "start": 987,
+      "text": "for the first like six months he was"
+    },
+    {
+      "start": 989,
+      "text": "like actively cuz I guess it's like you"
+    },
+    {
+      "start": 990,
+      "text": "have to actively manage the ads I don't"
+    },
+    {
+      "start": 992,
+      "text": "know and we're getting like 30 grand a"
+    },
+    {
+      "start": 993,
+      "text": "month on it like pretty decent money and"
+    },
+    {
+      "start": 995,
+      "text": "that like funded the company for a while"
+    },
+    {
+      "start": 996,
+      "text": "but then he he got busy he stopped"
+    },
+    {
+      "start": 998,
+      "text": "looking at it the ads started crashing"
+    },
+    {
+      "start": 999,
+      "text": "the timer like it just made it a"
+    },
+    {
+      "start": 1001,
+      "text": "terrible experience so we ripped all the"
+    },
+    {
+      "start": 1002,
+      "text": "ads back out and like all the ad Revenue"
+    },
+    {
+      "start": 1004,
+      "text": "declined but like for a good year we"
+    },
+    {
+      "start": 1006,
+      "text": "were probably making like 20 to 30 grand"
+    },
+    {
+      "start": 1008,
+      "text": "a month on this timer that we had built"
+    },
+    {
+      "start": 1010,
+      "text": "for free yeah and it was the same thing"
+    },
+    {
+      "start": 1012,
+      "text": "we built the timer cuz we wanted Jims to"
+    },
+    {
+      "start": 1013,
+      "text": "use it so they they would learn who push"
+    },
+    {
+      "start": 1015,
+      "text": "press was yeah yeah"
+    },
+    {
+      "start": 1020,
+      "text": "so if you reflect on that first chapter"
+    },
+    {
+      "start": 1023,
+      "text": "of push press what was the most"
+    },
+    {
+      "start": 1026,
+      "text": "challenging moment and I'm sure a lot of"
+    },
+    {
+      "start": 1028,
+      "text": "software companies had this point where"
+    },
+    {
+      "start": 1030,
+      "text": "like you get enough clients using or"
+    },
+    {
+      "start": 1032,
+      "text": "customers using your product where it"
+    },
+    {
+      "start": 1035,
+      "text": "would be foolish to walk away from it"
+    },
+    {
+      "start": 1037,
+      "text": "but you're not you don't see a clear"
+    },
+    {
+      "start": 1038,
+      "text": "line of sight to the type of growth that"
+    },
+    {
+      "start": 1040,
+      "text": "makes you go like hey I can actually get"
+    },
+    {
+      "start": 1042,
+      "text": "paid to do this cuz it's just all"
+    },
+    {
+      "start": 1043,
+      "text": "volunteer work and Sweat Equity right"
+    },
+    {
+      "start": 1046,
+      "text": "and there was a time in 2017 where I"
+    },
+    {
+      "start": 1047,
+      "text": "remember turning around to Chris in the"
+    },
+    {
+      "start": 1049,
+      "text": "gym and I was like hey I think I'm going"
+    },
+    {
+      "start": 1050,
+      "text": "to hang it up I'm going to give up on"
+    },
+    {
+      "start": 1052,
+      "text": "push press and I'm going to just focus"
+    },
+    {
+      "start": 1054,
+      "text": "on the gym because I I see how the gym"
+    },
+    {
+      "start": 1056,
+      "text": "can actually pay me to make a living"
+    },
+    {
+      "start": 1059,
+      "text": "here and I'm tired of working three jobs"
+    },
+    {
+      "start": 1061,
+      "text": "basically and uh him and Brian I think"
+    },
+    {
+      "start": 1063,
+      "text": "kind of talked me out of it at that"
+    },
+    {
+      "start": 1064,
+      "text": "point like dude just give us some time"
+    },
+    {
+      "start": 1066,
+      "text": "like we you know we've got clients we've"
+    },
+    {
+      "start": 1067,
+      "text": "got customers there's fit I don't really"
+    },
+    {
+      "start": 1070,
+      "text": "remember exactly how they talk me out of"
+    },
+    {
+      "start": 1071,
+      "text": "it but I remember being pretty much like"
+    },
+    {
+      "start": 1073,
+      "text": "I think I have to like give up on this"
+    },
+    {
+      "start": 1075,
+      "text": "but I didn't want to and I think"
+    },
+    {
+      "start": 1077,
+      "text": "ultimately that was it so like there"
+    },
+    {
+      "start": 1079,
+      "text": "those moments will come when you found a"
+    },
+    {
+      "start": 1080,
+      "text": "company where it's just like you you"
+    },
+    {
+      "start": 1082,
+      "text": "have to just kind of like see it through"
+    },
+    {
+      "start": 1085,
+      "text": "there's something about your guys's"
+    },
+    {
+      "start": 1086,
+      "text": "philosophy that that resonates with me"
+    },
+    {
+      "start": 1087,
+      "text": "it's just like you're the durability and"
+    },
+    {
+      "start": 1089,
+      "text": "like until you really are dead you're"
+    },
+    {
+      "start": 1091,
+      "text": "not dead and you can find a way to get"
+    },
+    {
+      "start": 1093,
+      "text": "through it but you've you just have to"
+    },
+    {
+      "start": 1095,
+      "text": "know it's going to suck yeah do you"
+    },
+    {
+      "start": 1098,
+      "text": "remember how many clients you had at"
+    },
+    {
+      "start": 1100,
+      "text": "that time probably like a couple hundred"
+    },
+    {
+      "start": 1102,
+      "text": "couple hundred yeah so you had real"
+    },
+    {
+      "start": 1104,
+      "text": "customers real usage but it's just like"
+    },
+    {
+      "start": 1106,
+      "text": "not there yet just didn't feel right"
+    },
+    {
+      "start": 1110,
+      "text": "this this was probably after we were"
+    },
+    {
+      "start": 1111,
+      "text": "making after will said no to the 10,000"
+    },
+    {
+      "start": 1113,
+      "text": "come back at 100,00 you know it's like"
+    },
+    {
+      "start": 1115,
+      "text": "you have these like demoralizing moments"
+    },
+    {
+      "start": 1116,
+      "text": "where like dude we got a 10x from here"
+    },
+    {
+      "start": 1118,
+      "text": "even for you know and like I don't even"
+    },
+    {
+      "start": 1119,
+      "text": "see how we're going to get there so yeah"
+    },
+    {
+      "start": 1121,
+      "text": "there there's one I think key tenant to"
+    },
+    {
+      "start": 1124,
+      "text": "operating uh any business and it's just"
+    },
+    {
+      "start": 1127,
+      "text": "like um if you stay alive long enough"
+    },
+    {
+      "start": 1129,
+      "text": "you will be able to start to manufacture"
+    },
+    {
+      "start": 1131,
+      "text": "luck we didn't know it at the time but"
+    },
+    {
+      "start": 1133,
+      "text": "like Co was kind of around the corner"
+    },
+    {
+      "start": 1134,
+      "text": "and that was like our like I wouldn't"
+    },
+    {
+      "start": 1136,
+      "text": "our L our lucky moment I guess like we"
+    },
+    {
+      "start": 1138,
+      "text": "couldn't have created but that was a"
+    },
+    {
+      "start": 1139,
+      "text": "moment for us to like really rally into"
+    },
+    {
+      "start": 1141,
+      "text": "yeah let's talk about that cuz um you"
+    },
+    {
+      "start": 1143,
+      "text": "guys accelerated growth during Co which"
+    },
+    {
+      "start": 1146,
+      "text": "is very ironic when all these gyms were"
+    },
+    {
+      "start": 1148,
+      "text": "shutting down so how did that happen so"
+    },
+    {
+      "start": 1151,
+      "text": "I think the fir the like immediately"
+    },
+    {
+      "start": 1153,
+      "text": "when it happened I was like oh it was"
+    },
+    {
+      "start": 1154,
+      "text": "like existential oh my God right I think"
+    },
+    {
+      "start": 1157,
+      "text": "it was two things one I was part of a"
+    },
+    {
+      "start": 1159,
+      "text": "mentorship group at the time and I was"
+    },
+    {
+      "start": 1161,
+      "text": "on a call his name is Dan Martell I was"
+    },
+    {
+      "start": 1163,
+      "text": "on a call with him and he was like he"
+    },
+    {
+      "start": 1164,
+      "text": "said something that I will never forget"
+    },
+    {
+      "start": 1166,
+      "text": "to this day he's like never waste a good"
+    },
+    {
+      "start": 1167,
+      "text": "crisis and I was like what do you you"
+    },
+    {
+      "start": 1168,
+      "text": "mean and he's like like these are the"
+    },
+    {
+      "start": 1170,
+      "text": "moments when the winners win you know"
+    },
+    {
+      "start": 1173,
+      "text": "and then I thought about it and I really"
+    },
+    {
+      "start": 1174,
+      "text": "reflected on it I'm like yeah dude like"
+    },
+    {
+      "start": 1175,
+      "text": "you don't win races on straightaways you"
+    },
+    {
+      "start": 1177,
+      "text": "win races on turns and so that mindset"
+    },
+    {
+      "start": 1179,
+      "text": "shift like changed a lot for me we had"
+    },
+    {
+      "start": 1181,
+      "text": "just released free um our free version"
+    },
+    {
+      "start": 1183,
+      "text": "without knowing that was going to happen"
+    },
+    {
+      "start": 1184,
+      "text": "so that that was incidental luck right"
+    },
+    {
+      "start": 1186,
+      "text": "in terms of timing but I think what"
+    },
+    {
+      "start": 1188,
+      "text": "really accelerated us was we were like"
+    },
+    {
+      "start": 1189,
+      "text": "okay and I just decided at that point"
+    },
+    {
+      "start": 1191,
+      "text": "like we're putting the foot on the gas"
+    },
+    {
+      "start": 1193,
+      "text": "with Co and we just did everything we"
+    },
+    {
+      "start": 1196,
+      "text": "can to like circle the wagons protect"
+    },
+    {
+      "start": 1197,
+      "text": "our gyms protect the indry like it"
+    },
+    {
+      "start": 1199,
+      "text": "didn't even matter if you were a client"
+    },
+    {
+      "start": 1200,
+      "text": "of ours or not and we just got really"
+    },
+    {
+      "start": 1201,
+      "text": "vocal right this was right around the"
+    },
+    {
+      "start": 1203,
+      "text": "time I started a podcast right around"
+    },
+    {
+      "start": 1204,
+      "text": "the time we were like learning how to"
+    },
+    {
+      "start": 1206,
+      "text": "express ourselves to the market and so"
+    },
+    {
+      "start": 1208,
+      "text": "you know we gave money away to people"
+    },
+    {
+      "start": 1210,
+      "text": "like we got a PPP loan and we uh turned"
+    },
+    {
+      "start": 1213,
+      "text": "around and just gave a lot of that away"
+    },
+    {
+      "start": 1214,
+      "text": "to our gyms to help support them we just"
+    },
+    {
+      "start": 1216,
+      "text": "turned it into a grant a lot of the ways"
+    },
+    {
+      "start": 1218,
+      "text": "I like to think are kind of like how do"
+    },
+    {
+      "start": 1219,
+      "text": "you create a good scenario and everyone"
+    },
+    {
+      "start": 1221,
+      "text": "wins but you get something out of it"
+    },
+    {
+      "start": 1223,
+      "text": "like we got a ton of publicity but we"
+    },
+    {
+      "start": 1225,
+      "text": "got we gave money away and my argument"
+    },
+    {
+      "start": 1226,
+      "text": "to my Founders was like well we can"
+    },
+    {
+      "start": 1228,
+      "text": "either spend money on on Google paid"
+    },
+    {
+      "start": 1229,
+      "text": "clicks or we can just give the money to"
+    },
+    {
+      "start": 1230,
+      "text": "the gyms let's give the money to the"
+    },
+    {
+      "start": 1231,
+      "text": "gyms you know you can kind of like"
+    },
+    {
+      "start": 1233,
+      "text": "create a lot of Goodwill moments if you"
+    },
+    {
+      "start": 1235,
+      "text": "think like that I think what was the"
+    },
+    {
+      "start": 1237,
+      "text": "impetus to creating that free product"
+    },
+    {
+      "start": 1239,
+      "text": "that happened to come out at the right"
+    },
+    {
+      "start": 1241,
+      "text": "time yeah well the right time this was"
+    },
+    {
+      "start": 1243,
+      "text": "just pure luck honestly but the free"
+    },
+    {
+      "start": 1245,
+      "text": "product was was born like so a lot of"
+    },
+    {
+      "start": 1247,
+      "text": "this is just born from the we understand"
+    },
+    {
+      "start": 1249,
+      "text": "our our customer and the industry really"
+    },
+    {
+      "start": 1251,
+      "text": "well cuz we come from it and we"
+    },
+    {
+      "start": 1252,
+      "text": "understand like when you start a brand"
+    },
+    {
+      "start": 1253,
+      "text": "new gym 250 bucks a month is a lot like"
+    },
+    {
+      "start": 1256,
+      "text": "that's your first two members right off"
+    },
+    {
+      "start": 1258,
+      "text": "the table gone when you might be trying"
+    },
+    {
+      "start": 1260,
+      "text": "to like fight to get 10 members you know"
+    },
+    {
+      "start": 1261,
+      "text": "so it's like that hurts so really it was"
+    },
+    {
+      "start": 1263,
+      "text": "just like if we know opening a gym is"
+    },
+    {
+      "start": 1266,
+      "text": "the most painful time financially but we"
+    },
+    {
+      "start": 1268,
+      "text": "also know that's the easiest time to get"
+    },
+    {
+      "start": 1270,
+      "text": "on a software system and learn it why"
+    },
+    {
+      "start": 1272,
+      "text": "not lean into both of those and just say"
+    },
+    {
+      "start": 1273,
+      "text": "like we'll give it to you free UPF front"
+    },
+    {
+      "start": 1275,
+      "text": "and then we'll create a situation where"
+    },
+    {
+      "start": 1277,
+      "text": "like as we grow trust as we build your"
+    },
+    {
+      "start": 1279,
+      "text": "business you'll you'll become a paying"
+    },
+    {
+      "start": 1281,
+      "text": "client because we're so customer-centric"
+    },
+    {
+      "start": 1283,
+      "text": "and we always have been a lot of our"
+    },
+    {
+      "start": 1285,
+      "text": "energy and our our payment comes from"
+    },
+    {
+      "start": 1287,
+      "text": "the energy of our customer"
+    },
+    {
+      "start": 1289,
+      "text": "so and and really I think a lot of gym"
+    },
+    {
+      "start": 1290,
+      "text": "owners flaw at this because it's like"
+    },
+    {
+      "start": 1291,
+      "text": "they don't make enough money to live but"
+    },
+    {
+      "start": 1293,
+      "text": "they they show up every day cuz our"
+    },
+    {
+      "start": 1294,
+      "text": "customer energy makes them feel full uh"
+    },
+    {
+      "start": 1296,
+      "text": "we were probably a lot the same so it"
+    },
+    {
+      "start": 1298,
+      "text": "was the revenue was growing the"
+    },
+    {
+      "start": 1299,
+      "text": "customers growing like we were bu like"
+    },
+    {
+      "start": 1300,
+      "text": "we were making some key hires and some"
+    },
+    {
+      "start": 1302,
+      "text": "and doing some good stuff but like just"
+    },
+    {
+      "start": 1303,
+      "text": "the energy around the company and the"
+    },
+    {
+      "start": 1306,
+      "text": "community and the people's response to"
+    },
+    {
+      "start": 1308,
+      "text": "our co co reaction or proactive steps"
+    },
+    {
+      "start": 1311,
+      "text": "very filling to us so I think I think we"
+    },
+    {
+      "start": 1313,
+      "text": "we were we were amped at that time so"
+    },
+    {
+      "start": 1316,
+      "text": "you then go raise your series a so safe"
+    },
+    {
+      "start": 1318,
+      "text": "happens William finally invests yep what"
+    },
+    {
+      "start": 1322,
+      "text": "is that Journey from there on for a year"
+    },
+    {
+      "start": 1324,
+      "text": "or so yeah so I think I think the um I"
+    },
+    {
+      "start": 1326,
+      "text": "guess the overarching theme from like"
+    },
+    {
+      "start": 1328,
+      "text": "that from like 2019 or maybe even 2018"
+    },
+    {
+      "start": 1331,
+      "text": "through is just a continuing"
+    },
+    {
+      "start": 1333,
+      "text": "reinvestment in education so in 2018 is"
+    },
+    {
+      "start": 1335,
+      "text": "2019 we joined SAS Academy which put me"
+    },
+    {
+      "start": 1337,
+      "text": "in rooms with other Founders you it's"
+    },
+    {
+      "start": 1339,
+      "text": "same thing it's like you're sitting"
+    },
+    {
+      "start": 1340,
+      "text": "across from a table I I remember this"
+    },
+    {
+      "start": 1342,
+      "text": "actually this happened here but this"
+    },
+    {
+      "start": 1343,
+      "text": "happened at first SAS Academy went to we"
+    },
+    {
+      "start": 1345,
+      "text": "were we were just at a million in"
+    },
+    {
+      "start": 1346,
+      "text": "revenue and I remember being at the"
+    },
+    {
+      "start": 1347,
+      "text": "table thinking I was like like badass"
+    },
+    {
+      "start": 1349,
+      "text": "cuz I was like cuz they were like say"
+    },
+    {
+      "start": 1350,
+      "text": "your name say your company say how much"
+    },
+    {
+      "start": 1351,
+      "text": "revenue you're at I'm like we're at a"
+    },
+    {
+      "start": 1352,
+      "text": "million like super cool and then the guy"
+    },
+    {
+      "start": 1355,
+      "text": "next to me is like oh yeah we're 14 and"
+    },
+    {
+      "start": 1356,
+      "text": "they're like we're at 18 we're at 26 and"
+    },
+    {
+      "start": 1358,
+      "text": "I was like oh my God like we're nothing"
+    },
+    {
+      "start": 1360,
+      "text": "and that happens here too like I'm like"
+    },
+    {
+      "start": 1362,
+      "text": "we're at 15 and they're like we're at"
+    },
+    {
+      "start": 1363,
+      "text": "100 we're at 260 we're at whatever and"
+    },
+    {
+      "start": 1364,
+      "text": "you're like oh wow we got a long way to"
+    },
+    {
+      "start": 1366,
+      "text": "go but like so getting in those rooms"
+    },
+    {
+      "start": 1368,
+      "text": "list just having mindset changes of like"
+    },
+    {
+      "start": 1370,
+      "text": "oh that's how you approach marketing oh"
+    },
+    {
+      "start": 1372,
+      "text": "that's why you want to do sales this way"
+    },
+    {
+      "start": 1374,
+      "text": "like changes the game then we we got"
+    },
+    {
+      "start": 1376,
+      "text": "mucker and will would just bring me in"
+    },
+    {
+      "start": 1378,
+      "text": "every month just sit down and be like"
+    },
+    {
+      "start": 1379,
+      "text": "okay let's focus on something what you"
+    },
+    {
+      "start": 1380,
+      "text": "you know like I never had that before"
+    },
+    {
+      "start": 1381,
+      "text": "like someone actually like let's get"
+    },
+    {
+      "start": 1383,
+      "text": "real tactical and focus on something"
+    },
+    {
+      "start": 1384,
+      "text": "that changed the game for me right and"
+    },
+    {
+      "start": 1386,
+      "text": "then being with mucker got me more"
+    },
+    {
+      "start": 1387,
+      "text": "exposure to other CEOs who are going"
+    },
+    {
+      "start": 1389,
+      "text": "through you know like I get to talk to"
+    },
+    {
+      "start": 1390,
+      "text": "if you're starting a business it's like"
+    },
+    {
+      "start": 1392,
+      "text": "how fast can you change your mindset"
+    },
+    {
+      "start": 1394,
+      "text": "because you don't know what you don't"
+    },
+    {
+      "start": 1395,
+      "text": "know so you need to be around people who"
+    },
+    {
+      "start": 1397,
+      "text": "have been there you know and and again"
+    },
+    {
+      "start": 1398,
+      "text": "that continues on today like we just did"
+    },
+    {
+      "start": 1400,
+      "text": "this stuff this week where like I'm"
+    },
+    {
+      "start": 1401,
+      "text": "listening to people who you know their"
+    },
+    {
+      "start": 1403,
+      "text": "current problem is like how do I get"
+    },
+    {
+      "start": 1404,
+      "text": "from 100 million to 300 million a"
+    },
+    {
+      "start": 1405,
+      "text": "different problem set that you have to"
+    },
+    {
+      "start": 1406,
+      "text": "be aware of early so I think investing"
+    },
+    {
+      "start": 1408,
+      "text": "in your education is super critical as a"
+    },
+    {
+      "start": 1411,
+      "text": "Founder"
+    },
+    {
+      "start": 1412,
+      "text": "[Music]"
+    },
+    {
+      "start": 1414,
+      "text": "yeah what do you charge your customers"
+    },
+    {
+      "start": 1417,
+      "text": "what types of products are you selling"
+    },
+    {
+      "start": 1418,
+      "text": "what is the economic model of push press"
+    },
+    {
+      "start": 1420,
+      "text": "yeah I mean in general the basic idea"
+    },
+    {
+      "start": 1422,
+      "text": "with a vertical SAS platform is you want"
+    },
+    {
+      "start": 1425,
+      "text": "to build enough Goodwill and trust with"
+    },
+    {
+      "start": 1427,
+      "text": "your customers because you're handling"
+    },
+    {
+      "start": 1429,
+      "text": "you're helping them handle their"
+    },
+    {
+      "start": 1430,
+      "text": "business more efficiently to the tune"
+    },
+    {
+      "start": 1431,
+      "text": "that you can help them in every way that"
+    },
+    {
+      "start": 1434,
+      "text": "can be digitized or maybe not maybe not"
+    },
+    {
+      "start": 1436,
+      "text": "even digitized there is now a concept of"
+    },
+    {
+      "start": 1438,
+      "text": "service as a software have you heard of"
+    },
+    {
+      "start": 1440,
+      "text": "this mhm yeah so uh that's kind of how"
+    },
+    {
+      "start": 1442,
+      "text": "we see ourselves these gym owners have"
+    },
+    {
+      "start": 1444,
+      "text": "opened Fitness facilities all they"
+    },
+    {
+      "start": 1446,
+      "text": "really care about is helping their"
+    },
+    {
+      "start": 1447,
+      "text": "customers get in shape find fine Fitness"
+    },
+    {
+      "start": 1449,
+      "text": "and fine Wellness they do not care about"
+    },
+    {
+      "start": 1452,
+      "text": "accounting they don't want to do payroll"
+    },
+    {
+      "start": 1454,
+      "text": "they don't want to find someone to"
+    },
+    {
+      "start": 1456,
+      "text": "service their rowing machines they don't"
+    },
+    {
+      "start": 1458,
+      "text": "want to do any of that stuff they just"
+    },
+    {
+      "start": 1459,
+      "text": "have to and so I think the value ad that"
+    },
+    {
+      "start": 1462,
+      "text": "any vertical SAS can can bring to their"
+    },
+    {
+      "start": 1463,
+      "text": "Niche and their industry is to strip all"
+    },
+    {
+      "start": 1465,
+      "text": "of those unnecessary jobs that get"
+    },
+    {
+      "start": 1468,
+      "text": "created when you open a business away"
+    },
+    {
+      "start": 1470,
+      "text": "and either you know give them ways to"
+    },
+    {
+      "start": 1471,
+      "text": "systematize it create process around it"
+    },
+    {
+      "start": 1473,
+      "text": "or even automate it or just take it away"
+    },
+    {
+      "start": 1476,
+      "text": "that's my vision for vertical SAS and I"
+    },
+    {
+      "start": 1477,
+      "text": "think that's why we were talking about"
+    },
+    {
+      "start": 1479,
+      "text": "this earlier this concept of trying to"
+    },
+    {
+      "start": 1480,
+      "text": "understand what the Tam is for vertical"
+    },
+    {
+      "start": 1482,
+      "text": "SAS is a fallacy because the Tam is"
+    },
+    {
+      "start": 1484,
+      "text": "literally as big as their expense their"
+    },
+    {
+      "start": 1486,
+      "text": "expense line and their p&l in my opinion"
+    },
+    {
+      "start": 1488,
+      "text": "for each gym yeah let's talk about that"
+    },
+    {
+      "start": 1490,
+      "text": "a little more because there's this"
+    },
+    {
+      "start": 1492,
+      "text": "notion in vertical Market software in"
+    },
+    {
+      "start": 1494,
+      "text": "any business that tries to go after a"
+    },
+    {
+      "start": 1496,
+      "text": "niche market that the T is not big"
+    },
+    {
+      "start": 1498,
+      "text": "enough to build a great business I'm"
+    },
+    {
+      "start": 1501,
+      "text": "sure you've heard that PTSD yes um what"
+    },
+    {
+      "start": 1504,
+      "text": "are your views on that I just saw the"
+    },
+    {
+      "start": 1506,
+      "text": "CEO of service Titan talked about this"
+    },
+    {
+      "start": 1507,
+      "text": "yesterday if you can open up the p&l of"
+    },
+    {
+      "start": 1510,
+      "text": "any small business and look at where"
+    },
+    {
+      "start": 1511,
+      "text": "they spend their money and understand"
+    },
+    {
+      "start": 1513,
+      "text": "like which of these can be productized"
+    },
+    {
+      "start": 1515,
+      "text": "in software you actually have the right"
+    },
+    {
+      "start": 1517,
+      "text": "to take all of that off an owner's plate"
+    },
+    {
+      "start": 1519,
+      "text": "and and turn that into business because"
+    },
+    {
+      "start": 1522,
+      "text": "as long as you're providing more value"
+    },
+    {
+      "start": 1524,
+      "text": "than your charge and you're you're doing"
+    },
+    {
+      "start": 1526,
+      "text": "so in a way that creates more Goodwill"
+    },
+    {
+      "start": 1527,
+      "text": "and more Trust as you sell more products"
+    },
+    {
+      "start": 1530,
+      "text": "you're actually doing them a service by"
+    },
+    {
+      "start": 1531,
+      "text": "bringing it all into one house in"
+    },
+    {
+      "start": 1533,
+      "text": "especially in the SMB space these owners"
+    },
+    {
+      "start": 1535,
+      "text": "want I heard this term recently I love"
+    },
+    {
+      "start": 1538,
+      "text": "these owners want one throat to choke"
+    },
+    {
+      "start": 1539,
+      "text": "like they want one relationship that"
+    },
+    {
+      "start": 1541,
+      "text": "they can trust and buy into and have"
+    },
+    {
+      "start": 1543,
+      "text": "full confidence that you know they can"
+    },
+    {
+      "start": 1545,
+      "text": "hand all of that business off and then"
+    },
+    {
+      "start": 1547,
+      "text": "just focus on what they want to focus on"
+    },
+    {
+      "start": 1549,
+      "text": "if when you think of Tam in in the"
+    },
+    {
+      "start": 1550,
+      "text": "simplest sense of like oh there's only"
+    },
+    {
+      "start": 1552,
+      "text": "100,000 gyms in the world and you can"
+    },
+    {
+      "start": 1553,
+      "text": "only make $150 per gym CU that's what"
+    },
+    {
+      "start": 1555,
+      "text": "your software class that's wrong because"
+    },
+    {
+      "start": 1557,
+      "text": "it's like what about insurance and what"
+    },
+    {
+      "start": 1558,
+      "text": "about payroll and what about health"
+    },
+    {
+      "start": 1560,
+      "text": "insurance and benefits and Banking and"
+    },
+    {
+      "start": 1561,
+      "text": "servicing and lending and you know"
+    },
+    {
+      "start": 1563,
+      "text": "payments like there's a million pieces"
+    },
+    {
+      "start": 1565,
+      "text": "to the stack that you can provide value"
+    },
+    {
+      "start": 1567,
+      "text": "to that are just like overlooked by this"
+    },
+    {
+      "start": 1569,
+      "text": "Tam conversation yeah so which part of"
+    },
+    {
+      "start": 1572,
+      "text": "the stack are you addressing now and"
+    },
+    {
+      "start": 1574,
+      "text": "what are some areas that you want to get"
+    },
+    {
+      "start": 1577,
+      "text": "into in the future I want to get into"
+    },
+    {
+      "start": 1579,
+      "text": "all of it Tay all of it and and it's"
+    },
+    {
+      "start": 1582,
+      "text": "purely from the lens of like the it will"
+    },
+    {
+      "start": 1584,
+      "text": "help JY so much if if they can control"
+    },
+    {
+      "start": 1586,
+      "text": "it all from one Central Dash word right"
+    },
+    {
+      "start": 1588,
+      "text": "and the relationships like we we bring"
+    },
+    {
+      "start": 1590,
+      "text": "Network effects to the to the equation"
+    },
+    {
+      "start": 1592,
+      "text": "here like I can pre-negotiate better"
+    },
+    {
+      "start": 1594,
+      "text": "rates for water than they can get from"
+    },
+    {
+      "start": 1596,
+      "text": "their local distributor because we we"
+    },
+    {
+      "start": 1598,
+      "text": "will be negotiating on behalf of"
+    },
+    {
+      "start": 1599,
+      "text": "everyone in the network right so um"
+    },
+    {
+      "start": 1601,
+      "text": "right now we we've we built our whole uh"
+    },
+    {
+      "start": 1604,
+      "text": "system around payments which is a whole"
+    },
+    {
+      "start": 1606,
+      "text": "another funny story because when I was"
+    },
+    {
+      "start": 1607,
+      "text": "pitching people back in 2014 on push"
+    },
+    {
+      "start": 1609,
+      "text": "press they didn't people didn't even"
+    },
+    {
+      "start": 1610,
+      "text": "know what payment like they they didn't"
+    },
+    {
+      "start": 1612,
+      "text": "even count payments it didn't matter but"
+    },
+    {
+      "start": 1614,
+      "text": "payments are so critical to this entire"
+    },
+    {
+      "start": 1616,
+      "text": "stack we do some of their frontend lead"
+    },
+    {
+      "start": 1618,
+      "text": "generation website development local SEO"
+    },
+    {
+      "start": 1621,
+      "text": "marketing um and CRM tooling yeah it's"
+    },
+    {
+      "start": 1624,
+      "text": "funny we built a branded app which"
+    },
+    {
+      "start": 1625,
+      "text": "allows every gym to have a branded app"
+    },
+    {
+      "start": 1627,
+      "text": "in the app store and we thought nobody"
+    },
+    {
+      "start": 1629,
+      "text": "would use it but what we come to find is"
+    },
+    {
+      "start": 1631,
+      "text": "like almost every gym buys it because"
+    },
+    {
+      "start": 1633,
+      "text": "they actually want to stand out against"
+    },
+    {
+      "start": 1634,
+      "text": "Orange Theory like this single gym has"
+    },
+    {
+      "start": 1636,
+      "text": "no way for them to have their own app"
+    },
+    {
+      "start": 1638,
+      "text": "otherwise and it's really cool for them"
+    },
+    {
+      "start": 1639,
+      "text": "to be able to say like oh yeah we sit"
+    },
+    {
+      "start": 1641,
+      "text": "next to Orange Theory in the App Store"
+    },
+    {
+      "start": 1643,
+      "text": "so we do a branded app we have a we have"
+    },
+    {
+      "start": 1644,
+      "text": "a platform called train which was"
+    },
+    {
+      "start": 1646,
+      "text": "basically an early test of this uh App"
+    },
+    {
+      "start": 1649,
+      "text": "Store concept that we're building into"
+    },
+    {
+      "start": 1651,
+      "text": "push press that will allow for the mod"
+    },
+    {
+      "start": 1653,
+      "text": "this is the the fix to that one form"
+    },
+    {
+      "start": 1655,
+      "text": "field that creates you know that solves"
+    },
+    {
+      "start": 1657,
+      "text": "everything for everyone is building"
+    },
+    {
+      "start": 1658,
+      "text": "modular apps you know may or may not"
+    },
+    {
+      "start": 1660,
+      "text": "come with the price tag but extend the"
+    },
+    {
+      "start": 1662,
+      "text": "functionality push press in a very"
+    },
+    {
+      "start": 1663,
+      "text": "specific way you mentioned the customer"
+    },
+    {
+      "start": 1665,
+      "text": "support being such an important part of"
+    },
+    {
+      "start": 1666,
+      "text": "even the early days um how how are you"
+    },
+    {
+      "start": 1668,
+      "text": "carrying that on as the company grows"
+    },
+    {
+      "start": 1670,
+      "text": "let's talk about that you have to deal"
+    },
+    {
+      "start": 1671,
+      "text": "with board members sometimes who like"
+    },
+    {
+      "start": 1673,
+      "text": "push you on things that you know are"
+    },
+    {
+      "start": 1674,
+      "text": "nonsense to to kind of lay the to lay"
+    },
+    {
+      "start": 1677,
+      "text": "the thing there's like these ranges that"
+    },
+    {
+      "start": 1679,
+      "text": "you have to operate your business in so"
+    },
+    {
+      "start": 1680,
+      "text": "like you guys want gross margin in"
+    },
+    {
+      "start": 1682,
+      "text": "general to be like 75 to 85% rough or"
+    },
+    {
+      "start": 1685,
+      "text": "75% or better right and for those you"
+    },
+    {
+      "start": 1687,
+      "text": "don't know gross margin is basically"
+    },
+    {
+      "start": 1688,
+      "text": "like your Revenue the amount of money"
+    },
+    {
+      "start": 1691,
+      "text": "you spend on servers and you know things"
+    },
+    {
+      "start": 1693,
+      "text": "that make the product happen and then"
+    },
+    {
+      "start": 1695,
+      "text": "customer support because they're keeping"
+    },
+    {
+      "start": 1696,
+      "text": "the lights on I've built my company"
+    },
+    {
+      "start": 1698,
+      "text": "intentionally around the fact that"
+    },
+    {
+      "start": 1699,
+      "text": "customer support is a go to market"
+    },
+    {
+      "start": 1700,
+      "text": "strategy so I don't think it should be"
+    },
+    {
+      "start": 1702,
+      "text": "part of gross margin that's the argument"
+    },
+    {
+      "start": 1703,
+      "text": "I will forever make our customer sport"
+    },
+    {
+      "start": 1705,
+      "text": "team and the the way our people interact"
+    },
+    {
+      "start": 1707,
+      "text": "with our customers kicks out pass so"
+    },
+    {
+      "start": 1708,
+      "text": "much that it turns our customers into"
+    },
+    {
+      "start": 1710,
+      "text": "raving fans that become a referral it's"
+    },
+    {
+      "start": 1712,
+      "text": "a turn reducer and a referral creation"
+    },
+    {
+      "start": 1715,
+      "text": "and I'm sure you saw it when you're like"
+    },
+    {
+      "start": 1716,
+      "text": "investigating us it's like what gym"
+    },
+    {
+      "start": 1718,
+      "text": "management software should I use and it"
+    },
+    {
+      "start": 1719,
+      "text": "should be a whole bunch of people saying"
+    },
+    {
+      "start": 1720,
+      "text": "push press absolutely hands down use"
+    },
+    {
+      "start": 1722,
+      "text": "push press an interesting way for"
+    },
+    {
+      "start": 1723,
+      "text": "Founders to think about this is like"
+    },
+    {
+      "start": 1725,
+      "text": "there are industry standards for most"
+    },
+    {
+      "start": 1726,
+      "text": "businesses to run their thing but that"
+    },
+    {
+      "start": 1728,
+      "text": "doesn't mean you have to do that and I"
+    },
+    {
+      "start": 1730,
+      "text": "think it took me a couple years working"
+    },
+    {
+      "start": 1731,
+      "text": "with you to understand that I don't have"
+    },
+    {
+      "start": 1732,
+      "text": "to do everything you say I respect"
+    },
+    {
+      "start": 1734,
+      "text": "everything you say thanks you know but"
+    },
+    {
+      "start": 1736,
+      "text": "but yeah every business is built"
+    },
+    {
+      "start": 1737,
+      "text": "different right and like uh you know"
+    },
+    {
+      "start": 1739,
+      "text": "respectfully like you don't live you"
+    },
+    {
+      "start": 1741,
+      "text": "don't live and breathe push press to the"
+    },
+    {
+      "start": 1743,
+      "text": "not even close to the tune that I do so"
+    },
+    {
+      "start": 1745,
+      "text": "it's like the stuff that we you know the"
+    },
+    {
+      "start": 1747,
+      "text": "big picture you know the industry you"
+    },
+    {
+      "start": 1749,
+      "text": "know the trends you know the averages"
+    },
+    {
+      "start": 1751,
+      "text": "but fight for a long time to say like"
+    },
+    {
+      "start": 1753,
+      "text": "our customer sport team needs to be"
+    },
+    {
+      "start": 1754,
+      "text": "overstaffed well trained highly tooled"
+    },
+    {
+      "start": 1757,
+      "text": "and and amazing even if it means our"
+    },
+    {
+      "start": 1759,
+      "text": "gross margin is 70% for now yeah yeah"
+    },
+    {
+      "start": 1762,
+      "text": "which I think we actually talked about"
+    },
+    {
+      "start": 1763,
+      "text": "at length at some point where I actually"
+    },
+    {
+      "start": 1766,
+      "text": "told you guys don't worry about it"
+    },
+    {
+      "start": 1768,
+      "text": "right and I think that was really good"
+    },
+    {
+      "start": 1769,
+      "text": "alignment the early days you were"
+    },
+    {
+      "start": 1772,
+      "text": "extremely customer obsessed maybe out of"
+    },
+    {
+      "start": 1774,
+      "text": "necessity but you came from the gym"
+    },
+    {
+      "start": 1776,
+      "text": "industry so you understood your"
+    },
+    {
+      "start": 1778,
+      "text": "constituents really well how did you"
+    },
+    {
+      "start": 1780,
+      "text": "maintain that culture until today when"
+    },
+    {
+      "start": 1782,
+      "text": "you now have what close to 100 employees"
+    },
+    {
+      "start": 1785,
+      "text": "yeah so I mean it starts with like"
+    },
+    {
+      "start": 1787,
+      "text": "understanding what you want to build"
+    },
+    {
+      "start": 1788,
+      "text": "your business around and what you feel"
+    },
+    {
+      "start": 1790,
+      "text": "is important part of this is I felt it"
+    },
+    {
+      "start": 1791,
+      "text": "was super important because as a gym"
+    },
+    {
+      "start": 1793,
+      "text": "owner it's it sucks to like call into"
+    },
+    {
+      "start": 1796,
+      "text": "your you know your software and have"
+    },
+    {
+      "start": 1798,
+      "text": "them have no clue what being a gym owner"
+    },
+    {
+      "start": 1800,
+      "text": "is like like I don't even know how how"
+    },
+    {
+      "start": 1801,
+      "text": "you support that but on the other hand"
+    },
+    {
+      "start": 1803,
+      "text": "of the equation I realized I was a"
+    },
+    {
+      "start": 1804,
+      "text": "superpower like if all of our big"
+    },
+    {
+      "start": 1806,
+      "text": "competitors were just oblivious to what"
+    },
+    {
+      "start": 1808,
+      "text": "it was like to run a gym why don't we"
+    },
+    {
+      "start": 1809,
+      "text": "lean all the way into that and just know"
+    },
+    {
+      "start": 1811,
+      "text": "what it's like to run a gym so we and"
+    },
+    {
+      "start": 1813,
+      "text": "and also out of necessity because we"
+    },
+    {
+      "start": 1814,
+      "text": "were broke and we're bootstrapped we had"
+    },
+    {
+      "start": 1816,
+      "text": "to hire whoever would work for us and"
+    },
+    {
+      "start": 1818,
+      "text": "most people that really really want to"
+    },
+    {
+      "start": 1819,
+      "text": "work with us are people who are"
+    },
+    {
+      "start": 1821,
+      "text": "passionately Mission aligned so like"
+    },
+    {
+      "start": 1822,
+      "text": "yeah I'll work for like way less than I"
+    },
+    {
+      "start": 1824,
+      "text": "should work for because I actually"
+    },
+    {
+      "start": 1826,
+      "text": "believe in what you're doing too there's"
+    },
+    {
+      "start": 1827,
+      "text": "something speci about that mission"
+    },
+    {
+      "start": 1828,
+      "text": "alignment understanding the customer"
+    },
+    {
+      "start": 1830,
+      "text": "paino and then you know having the the"
+    },
+    {
+      "start": 1833,
+      "text": "support from you know the companywide"
+    },
+    {
+      "start": 1834,
+      "text": "support of saying like we lean into this"
+    },
+    {
+      "start": 1837,
+      "text": "that has created something magical with"
+    },
+    {
+      "start": 1838,
+      "text": "us where you know our team even our"
+    },
+    {
+      "start": 1840,
+      "text": "Engineers are like they're not gym"
+    },
+    {
+      "start": 1842,
+      "text": "owners for the most part but they're"
+    },
+    {
+      "start": 1844,
+      "text": "like through osmosis or whatever they're"
+    },
+    {
+      "start": 1847,
+      "text": "feeling that customer L Obsession and"
+    },
+    {
+      "start": 1848,
+      "text": "they're becoming that you know and it"
+    },
+    {
+      "start": 1850,
+      "text": "starts to build some cultural things"
+    },
+    {
+      "start": 1852,
+      "text": "like now our VP of engineering is like"
+    },
+    {
+      "start": 1855,
+      "text": "when you onboard as an engineer you"
+    },
+    {
+      "start": 1856,
+      "text": "spend two weeks in customer support and"
+    },
+    {
+      "start": 1858,
+      "text": "you get to learn how they get their"
+    },
+    {
+      "start": 1859,
+      "text": "teeth kicked in when you make a bug"
+    },
+    {
+      "start": 1860,
+      "text": "right like you have you have to live"
+    },
+    {
+      "start": 1861,
+      "text": "that customer Journey with them so it's"
+    },
+    {
+      "start": 1863,
+      "text": "it is affecting our entire culture in in"
+    },
+    {
+      "start": 1865,
+      "text": "a very positive way we're an empathetic"
+    },
+    {
+      "start": 1867,
+      "text": "company like we 100% believe in our"
+    },
+    {
+      "start": 1869,
+      "text": "customers and and anytime a customer has"
+    },
+    {
+      "start": 1871,
+      "text": "a pain you'll see like people are"
+    },
+    {
+      "start": 1873,
+      "text": "running towards the fire the flip side"
+    },
+    {
+      "start": 1875,
+      "text": "of that that's dangerous is that creates"
+    },
+    {
+      "start": 1878,
+      "text": "potentially a hundred different"
+    },
+    {
+      "start": 1879,
+      "text": "directions people need something fixed"
+    },
+    {
+      "start": 1881,
+      "text": "in every day because there's like"
+    },
+    {
+      "start": 1883,
+      "text": "different things happening different gym"
+    },
+    {
+      "start": 1884,
+      "text": "types everything so it's like you have"
+    },
+    {
+      "start": 1886,
+      "text": "to develop this muscle of saying no and"
+    },
+    {
+      "start": 1889,
+      "text": "also being balancing your empathy of"
+    },
+    {
+      "start": 1892,
+      "text": "like ooh that that's painful but we"
+    },
+    {
+      "start": 1894,
+      "text": "can't do it right now and I think the"
+    },
+    {
+      "start": 1896,
+      "text": "mistake we made before was like every"
+    },
+    {
+      "start": 1898,
+      "text": "paino gets fixed that's a problem in"
+    },
+    {
+      "start": 1900,
+      "text": "multiple ways one the focus becomes"
+    },
+    {
+      "start": 1902,
+      "text": "fragmented in terms of like what the"
+    },
+    {
+      "start": 1903,
+      "text": "company's doing but two it ends up"
+    },
+    {
+      "start": 1905,
+      "text": "creating like Frankenstein code where"
+    },
+    {
+      "start": 1907,
+      "text": "it's like oh I just bolted this thing on"
+    },
+    {
+      "start": 1908,
+      "text": "real quick to fix this thing oh I just"
+    },
+    {
+      "start": 1909,
+      "text": "bolted this thing on to fix this thing"
+    },
+    {
+      "start": 1911,
+      "text": "and then your your software sucks in the"
+    },
+    {
+      "start": 1912,
+      "text": "end because it's like just a whole bunch"
+    },
+    {
+      "start": 1914,
+      "text": "of boltons and no real architecture you"
+    },
+    {
+      "start": 1916,
+      "text": "know yeah"
+    },
+    {
+      "start": 1920,
+      "text": "why did you start Instagram"
+    },
+    {
+      "start": 1922,
+      "text": "H"
+    },
+    {
+      "start": 1924,
+      "text": "content let's"
+    },
+    {
+      "start": 1926,
+      "text": "go so again this um this there the"
+    },
+    {
+      "start": 1929,
+      "text": "multi-pronged answer here the first one"
+    },
+    {
+      "start": 1932,
+      "text": "which is a recurring theme of what I'm"
+    },
+    {
+      "start": 1933,
+      "text": "going to you know always keep saying is"
+    },
+    {
+      "start": 1935,
+      "text": "like my competitors are not gym owners"
+    },
+    {
+      "start": 1938,
+      "text": "the CEO who who even knows what the CEO"
+    },
+    {
+      "start": 1941,
+      "text": "looks like has no voice has no passion"
+    },
+    {
+      "start": 1944,
+      "text": "is not there for gym owners I am so why"
+    },
+    {
+      "start": 1946,
+      "text": "why wouldn't I put that out there right"
+    },
+    {
+      "start": 1948,
+      "text": "but two I think we live in a so two we"
+    },
+    {
+      "start": 1951,
+      "text": "live in a day and age where people"
+    },
+    {
+      "start": 1953,
+      "text": "expect to learn about things that they"
+    },
+    {
+      "start": 1955,
+      "text": "want to interact with through various"
+    },
+    {
+      "start": 1958,
+      "text": "mechanisms and one of those is Media the"
+    },
+    {
+      "start": 1960,
+      "text": "younger generation maybe not our gen My"
+    },
+    {
+      "start": 1963,
+      "text": "Generation but definitely younger"
+    },
+    {
+      "start": 1964,
+      "text": "generation like they go on social media"
+    },
+    {
+      "start": 1967,
+      "text": "to learn about products they want to buy"
+    },
+    {
+      "start": 1969,
+      "text": "and do that's how they do research like"
+    },
+    {
+      "start": 1971,
+      "text": "we might use YP they use Instagram I"
+    },
+    {
+      "start": 1973,
+      "text": "also believe people buy from people"
+    },
+    {
+      "start": 1975,
+      "text": "especially in the SMB space so putting a"
+    },
+    {
+      "start": 1977,
+      "text": "face to the actual thing you're buying"
+    },
+    {
+      "start": 1979,
+      "text": "is important it's it's costly to build a"
+    },
+    {
+      "start": 1982,
+      "text": "brand that's why I want tracksuit to"
+    },
+    {
+      "start": 1984,
+      "text": "help me but it's very costly to build a"
+    },
+    {
+      "start": 1985,
+      "text": "brand but it it's much easier to say"
+    },
+    {
+      "start": 1987,
+      "text": "like I'm Dan I'm the founder founder of"
+    },
+    {
+      "start": 1989,
+      "text": "push press and this is what I believe"
+    },
+    {
+      "start": 1991,
+      "text": "and this is why I'm here for you and"
+    },
+    {
+      "start": 1992,
+      "text": "then the brand will inherit that"
+    },
+    {
+      "start": 1995,
+      "text": "Goodwill that I can I can build you know"
+    },
+    {
+      "start": 1997,
+      "text": "and I'm just saying what I believe so"
+    },
+    {
+      "start": 1998,
+      "text": "it's it's not hard and lastly straight"
+    },
+    {
+      "start": 2001,
+      "text": "out of Nal we live in a world where like"
+    },
+    {
+      "start": 2003,
+      "text": "you get free leverage like social media"
+    },
+    {
+      "start": 2006,
+      "text": "has created free leverage and in"
+    },
+    {
+      "start": 2008,
+      "text": "business leverages everything so like"
+    },
+    {
+      "start": 2009,
+      "text": "why wouldn't you take it if you if you"
+    },
+    {
+      "start": 2011,
+      "text": "can now granted it's an investment of"
+    },
+    {
+      "start": 2013,
+      "text": "your time it's investment of money but"
+    },
+    {
+      "start": 2015,
+      "text": "how else could you get a million people"
+    },
+    {
+      "start": 2017,
+      "text": "to see something in a month without"
+    },
+    {
+      "start": 2019,
+      "text": "spending millions of dollars right like"
+    },
+    {
+      "start": 2021,
+      "text": "you couldn't do that 10 years 20 years"
+    },
+    {
+      "start": 2023,
+      "text": "ago so for all those Reasons I'm I'm"
+    },
+    {
+      "start": 2025,
+      "text": "very very bullish on content yeah were"
+    },
+    {
+      "start": 2029,
+      "text": "you comfortable filming those things in"
+    },
+    {
+      "start": 2032,
+      "text": "the beginning absolutely not yeah AB not"
+    },
+    {
+      "start": 2034,
+      "text": "dude it's like as a Founder you've got"
+    },
+    {
+      "start": 2036,
+      "text": "to do stuff that you have to do M um and"
+    },
+    {
+      "start": 2038,
+      "text": "you feel like this was something you had"
+    },
+    {
+      "start": 2040,
+      "text": "to do had to do yeah yeah and even to"
+    },
+    {
+      "start": 2042,
+      "text": "the point where this is founder mode"
+    },
+    {
+      "start": 2044,
+      "text": "stuff but even to the point where like I"
+    },
+    {
+      "start": 2046,
+      "text": "bugged our marketing team to like hey"
+    },
+    {
+      "start": 2048,
+      "text": "get someone to work with me on this and"
+    },
+    {
+      "start": 2049,
+      "text": "they were just too busy doing other"
+    },
+    {
+      "start": 2050,
+      "text": "stuff so I just found my own guy and"
+    },
+    {
+      "start": 2051,
+      "text": "just did it myself you know yeah I felt"
+    },
+    {
+      "start": 2054,
+      "text": "like you you have to do it and it's"
+    },
+    {
+      "start": 2055,
+      "text": "going become increasingly more important"
+    },
+    {
+      "start": 2057,
+      "text": "as the years go by MH so you're building"
+    },
+    {
+      "start": 2059,
+      "text": "your personal brand how do you try to"
+    },
+    {
+      "start": 2062,
+      "text": "check once in a while whether this is"
+    },
+    {
+      "start": 2064,
+      "text": "working or if it's worth it really good"
+    },
+    {
+      "start": 2066,
+      "text": "question and is is it's one of those"
+    },
+    {
+      "start": 2068,
+      "text": "things where you can easily doubt"
+    },
+    {
+      "start": 2069,
+      "text": "yourself and in fact you're not going to"
+    },
+    {
+      "start": 2071,
+      "text": "see unless you're actually posting like"
+    },
+    {
+      "start": 2074,
+      "text": "and getting a million views on YouTube"
+    },
+    {
+      "start": 2076,
+      "text": "or something a lot of the results you"
+    },
+    {
+      "start": 2077,
+      "text": "get are intangible or hard to measure"
+    },
+    {
+      "start": 2080,
+      "text": "and the the tracksuit guys actually"
+    },
+    {
+      "start": 2082,
+      "text": "explained something in one of the"
+    },
+    {
+      "start": 2083,
+      "text": "breakouts so we did that I thought was"
+    },
+    {
+      "start": 2084,
+      "text": "great and it was basically it was the"
+    },
+    {
+      "start": 2087,
+      "text": "iPhone example so he gets up on stage"
+    },
+    {
+      "start": 2089,
+      "text": "and he says like everyone who wants to"
+    },
+    {
+      "start": 2090,
+      "text": "buy an iPhone the next 5 years raise"
+    },
+    {
+      "start": 2092,
+      "text": "your hand or not maybe not an iPhone but"
+    },
+    {
+      "start": 2094,
+      "text": "a smartphone right everybody raises"
+    },
+    {
+      "start": 2096,
+      "text": "their hand and you go okay everyone's"
+    },
+    {
+      "start": 2098,
+      "text": "going to buy a smartphone in the next"
+    },
+    {
+      "start": 2099,
+      "text": "year keep your hand raised everyone's"
+    },
+    {
+      "start": 2101,
+      "text": "hand or maybe half the people's hands go"
+    },
+    {
+      "start": 2103,
+      "text": "down right and he's like okay who's"
+    },
+    {
+      "start": 2105,
+      "text": "going to buy a smartphone in the next"
+    },
+    {
+      "start": 2107,
+      "text": "two weeks and then it's just like 1% of"
+    },
+    {
+      "start": 2109,
+      "text": "the hands stay up and what he said is"
+    },
+    {
+      "start": 2111,
+      "text": "like the 1% is who you're doing paid"
+    },
+    {
+      "start": 2113,
+      "text": "search ads for you're doing like direct"
+    },
+    {
+      "start": 2116,
+      "text": "paid marketing because they're in the"
+    },
+    {
+      "start": 2118,
+      "text": "consideration set to buy right now but"
+    },
+    {
+      "start": 2120,
+      "text": "the 99% of the people who had their hand"
+    },
+    {
+      "start": 2122,
+      "text": "up before will buy eventually and they"
+    },
+    {
+      "start": 2123,
+      "text": "need to know who you are what you stand"
+    },
+    {
+      "start": 2125,
+      "text": "for why your product matters you know"
+    },
+    {
+      "start": 2128,
+      "text": "like the things you're solving they need"
+    },
+    {
+      "start": 2129,
+      "text": "to know the general big picture but they"
+    },
+    {
+      "start": 2131,
+      "text": "don't need to know what the latest"
+    },
+    {
+      "start": 2132,
+      "text": "megapixels on the phone is you know like"
+    },
+    {
+      "start": 2134,
+      "text": "those are those are buying consideration"
+    },
+    {
+      "start": 2136,
+      "text": "points all of this content in my opinion"
+    },
+    {
+      "start": 2138,
+      "text": "is a channel not the channel but a"
+    },
+    {
+      "start": 2141,
+      "text": "channel that you can passively"
+    },
+    {
+      "start": 2144,
+      "text": "continually put out like who I am what I"
+    },
+    {
+      "start": 2147,
+      "text": "stand for why I'm doing this and and"
+    },
+    {
+      "start": 2149,
+      "text": "just let people know that you're there"
+    },
+    {
+      "start": 2151,
+      "text": "the T big Tipping Point for me with"
+    },
+    {
+      "start": 2153,
+      "text": "content was there's a mentor in the"
+    },
+    {
+      "start": 2155,
+      "text": "space that sent an email out every day"
+    },
+    {
+      "start": 2157,
+      "text": "day I didn't read a single email for"
+    },
+    {
+      "start": 2159,
+      "text": "years I didn't read one but when ever"
+    },
+    {
+      "start": 2162,
+      "text": "anyone asked me like who's the who's the"
+    },
+    {
+      "start": 2164,
+      "text": "best Mentor in the space I would say him"
+    },
+    {
+      "start": 2165,
+      "text": "and I asked myself why did I say that I"
+    },
+    {
+      "start": 2166,
+      "text": "don't know anything that I don't even"
+    },
+    {
+      "start": 2168,
+      "text": "know what he wrote like I just read"
+    },
+    {
+      "start": 2169,
+      "text": "subject lines and it's because every day"
+    },
+    {
+      "start": 2171,
+      "text": "he put something out I knew he cared"
+    },
+    {
+      "start": 2172,
+      "text": "that's it so I think I think it it Ma it"
+    },
+    {
+      "start": 2174,
+      "text": "just matters to do were there any"
+    },
+    {
+      "start": 2176,
+      "text": "concrete examples of it paying off like"
+    },
+    {
+      "start": 2179,
+      "text": "in a business context oh yeah that was"
+    },
+    {
+      "start": 2181,
+      "text": "the question huh I just totally didn't"
+    },
+    {
+      "start": 2182,
+      "text": "answer that I mean the the real short"
+    },
+    {
+      "start": 2185,
+      "text": "answer is no but I do go to events I I"
+    },
+    {
+      "start": 2188,
+      "text": "go to events frequently and at every"
+    },
+    {
+      "start": 2190,
+      "text": "event I go to multiple people multiple"
+    },
+    {
+      "start": 2192,
+      "text": "people will come up to me and say like I"
+    },
+    {
+      "start": 2194,
+      "text": "really love your content please don't"
+    },
+    {
+      "start": 2195,
+      "text": "stop doing that you know something to"
+    },
+    {
+      "start": 2196,
+      "text": "that degree I do get I've also gotten"
+    },
+    {
+      "start": 2198,
+      "text": "feedback of like oh I didn't know about"
+    },
+    {
+      "start": 2199,
+      "text": "push press we just joined and became a"
+    },
+    {
+      "start": 2201,
+      "text": "member but I found one of these reels"
+    },
+    {
+      "start": 2202,
+      "text": "you did blah blah blah so I guess that's"
+    },
+    {
+      "start": 2204,
+      "text": "kind of concrete idence but it's not"
+    },
+    {
+      "start": 2206,
+      "text": "there is no direct like I saw a real I"
+    },
+    {
+      "start": 2208,
+      "text": "bought push press it's usually like"
+    },
+    {
+      "start": 2210,
+      "text": "months later and it's just part of the"
+    },
+    {
+      "start": 2212,
+      "text": "like General consideration process my my"
+    },
+    {
+      "start": 2215,
+      "text": "goal with content is like I want my"
+    },
+    {
+      "start": 2217,
+      "text": "sales team to like get on a demo and"
+    },
+    {
+      "start": 2218,
+      "text": "have someone basically like I'm"
+    },
+    {
+      "start": 2220,
+      "text": "completely sold just tell me the"
+    },
+    {
+      "start": 2222,
+      "text": "information on how to buy like that's"
+    },
+    {
+      "start": 2224,
+      "text": "kind of the motion that I'm trying to"
+    },
+    {
+      "start": 2225,
+      "text": "build for them how would you"
+    },
+    {
+      "start": 2227,
+      "text": "characterize yourself as a leader like"
+    },
+    {
+      "start": 2230,
+      "text": "what type of leader are you I used to be"
+    },
+    {
+      "start": 2232,
+      "text": "uh very insecure like why would I be the"
+    },
+    {
+      "start": 2234,
+      "text": "leader why is my voice more important"
+    },
+    {
+      "start": 2236,
+      "text": "than anyone's uh every decision would"
+    },
+    {
+      "start": 2239,
+      "text": "turn into a committee like hey what do"
+    },
+    {
+      "start": 2240,
+      "text": "you guys think what do you think I am"
+    },
+    {
+      "start": 2242,
+      "text": "now much more becoming there are certain"
+    },
+    {
+      "start": 2245,
+      "text": "decisions that I will just make and I I"
+    },
+    {
+      "start": 2247,
+      "text": "don't don't feel bad about that anymore"
+    },
+    {
+      "start": 2248,
+      "text": "I don't feel insecure about that just"
+    },
+    {
+      "start": 2250,
+      "text": "because I see how much bureaucracy and"
+    },
+    {
+      "start": 2252,
+      "text": "Chaos it creates when I start asking for"
+    },
+    {
+      "start": 2254,
+      "text": "everyone's opinion and we start tallying"
+    },
+    {
+      "start": 2256,
+      "text": "votes and then we have debates and"
+    },
+    {
+      "start": 2257,
+      "text": "discussions that go nowhere it just"
+    },
+    {
+      "start": 2258,
+      "text": "doesn't help so I think I'm evolving as"
+    },
+    {
+      "start": 2261,
+      "text": "a leader I think no matter what I'm"
+    },
+    {
+      "start": 2262,
+      "text": "always going to be empathetic I'm going"
+    },
+    {
+      "start": 2263,
+      "text": "to care what people think I'm going to"
+    },
+    {
+      "start": 2264,
+      "text": "listen to people's opinions but I'm"
+    },
+    {
+      "start": 2266,
+      "text": "becoming much more um able to just say"
+    },
+    {
+      "start": 2269,
+      "text": "cool I heard all your opinions this is"
+    },
+    {
+      "start": 2270,
+      "text": "what we're doing and is there anything"
+    },
+    {
+      "start": 2272,
+      "text": "that you're actively working on to get"
+    },
+    {
+      "start": 2273,
+      "text": "better at at this moment the the the"
+    },
+    {
+      "start": 2276,
+      "text": "real answer to this if you're looking"
+    },
+    {
+      "start": 2277,
+      "text": "start a company is like you're going to"
+    },
+    {
+      "start": 2278,
+      "text": "be actively getting better at whatever"
+    },
+    {
+      "start": 2280,
+      "text": "the biggest fire is at every moment of"
+    },
+    {
+      "start": 2282,
+      "text": "the company and it will never stop uh"
+    },
+    {
+      "start": 2284,
+      "text": "right now I'm trying to become better at"
+    },
+    {
+      "start": 2286,
+      "text": "the financial and operational end of"
+    },
+    {
+      "start": 2288,
+      "text": "things it's something I'm absolutely"
+    },
+    {
+      "start": 2290,
+      "text": "horrible horrible at I know very little"
+    },
+    {
+      "start": 2292,
+      "text": "of so just understanding like how does"
+    },
+    {
+      "start": 2294,
+      "text": "annual planning work and and what really"
+    },
+    {
+      "start": 2295,
+      "text": "got me into this was like for us to like"
+    },
+    {
+      "start": 2297,
+      "text": "think about a three-year plan and start"
+    },
+    {
+      "start": 2299,
+      "text": "to look at like what three years looks"
+    },
+    {
+      "start": 2301,
+      "text": "like I realize I had to build stuff now"
+    },
+    {
+      "start": 2303,
+      "text": "to be able to even get close to having"
+    },
+    {
+      "start": 2305,
+      "text": "this three-year plan and I liken a lot"
+    },
+    {
+      "start": 2306,
+      "text": "of this stuff to like farming I don't"
+    },
+    {
+      "start": 2308,
+      "text": "know why I always think about farming"
+    },
+    {
+      "start": 2309,
+      "text": "but you can't like Harvest your grapes"
+    },
+    {
+      "start": 2312,
+      "text": "if you haven't planted them and it might"
+    },
+    {
+      "start": 2315,
+      "text": "take a whole season for the planting the"
+    },
+    {
+      "start": 2317,
+      "text": "seeds for the grapes to grow and then"
+    },
+    {
+      "start": 2318,
+      "text": "another season for the you know the"
+    },
+    {
+      "start": 2319,
+      "text": "grapes to whatever and so when you think"
+    },
+    {
+      "start": 2321,
+      "text": "about that way it's like you really have"
+    },
+    {
+      "start": 2323,
+      "text": "to get ahead of all this stuff to be"
+    },
+    {
+      "start": 2324,
+      "text": "able to get the grapes in three years"
+    },
+    {
+      "start": 2326,
+      "text": "you know yeah my big Focus right now is"
+    },
+    {
+      "start": 2328,
+      "text": "like how do you become operationally"
+    },
+    {
+      "start": 2329,
+      "text": "more sound how do you run better"
+    },
+    {
+      "start": 2331,
+      "text": "meetings how do we do like better board"
+    },
+    {
+      "start": 2333,
+      "text": "meetings better monthly Recaps annual"
+    },
+    {
+      "start": 2336,
+      "text": "planning all that stuff is kind of where"
+    },
+    {
+      "start": 2337,
+      "text": "I'm at what about the the mission cuz in"
+    },
+    {
+      "start": 2340,
+      "text": "the beginning there was no mission to"
+    },
+    {
+      "start": 2342,
+      "text": "empower the fitness industry there was"
+    },
+    {
+      "start": 2344,
+      "text": "no mission that was that grand and then"
+    },
+    {
+      "start": 2347,
+      "text": "it became that and so how has the"
+    },
+    {
+      "start": 2349,
+      "text": "mission of this company changed over"
+    },
+    {
+      "start": 2352,
+      "text": "time the mission honestly has forever"
+    },
+    {
+      "start": 2354,
+      "text": "been something Loosely formed around"
+    },
+    {
+      "start": 2357,
+      "text": "like be I remember one of the first"
+    },
+    {
+      "start": 2359,
+      "text": "board meetings we came to here it was"
+    },
+    {
+      "start": 2360,
+      "text": "like or maybe it was the first CEO"
+    },
+    {
+      "start": 2362,
+      "text": "conference or whatever but we left with"
+    },
+    {
+      "start": 2364,
+      "text": "a mission of like we want to help a"
+    },
+    {
+      "start": 2366,
+      "text": "billion people become fitter but then we"
+    },
+    {
+      "start": 2368,
+      "text": "kind of were like how does how do you"
+    },
+    {
+      "start": 2369,
+      "text": "measure that you know it just became"
+    },
+    {
+      "start": 2371,
+      "text": "really weird or should they be you know"
+    },
+    {
+      "start": 2372,
+      "text": "like all this stuff so we've always had"
+    },
+    {
+      "start": 2374,
+      "text": "this loose idea of we're really here to"
+    },
+    {
+      "start": 2376,
+      "text": "make the world fitter and again this is"
+    },
+    {
+      "start": 2378,
+      "text": "part of like maybe some people have the"
+    },
+    {
+      "start": 2379,
+      "text": "skill something I'm developing but like"
+    },
+    {
+      "start": 2381,
+      "text": "in order to be a good leader you have to"
+    },
+    {
+      "start": 2382,
+      "text": "be able to pack a lot of amorphous ideas"
+    },
+    {
+      "start": 2385,
+      "text": "into very concrete like eight-word"
+    },
+    {
+      "start": 2387,
+      "text": "sentences you know what I mean like you"
+    },
+    {
+      "start": 2388,
+      "text": "have to be very clear and it's got to be"
+    },
+    {
+      "start": 2390,
+      "text": "memorizable and repeatable and I think"
+    },
+    {
+      "start": 2392,
+      "text": "I'm getting better at it but yeah that's"
+    },
+    {
+      "start": 2393,
+      "text": "why it like it went from something that"
+    },
+    {
+      "start": 2395,
+      "text": "was like very hazy into like we are just"
+    },
+    {
+      "start": 2397,
+      "text": "here to make the world fitter by helping"
+    },
+    {
+      "start": 2398,
+      "text": "our gyms become better businesses that's"
+    },
+    {
+      "start": 2401,
+      "text": "it do you have a view on what the"
+    },
+    {
+      "start": 2403,
+      "text": "fitness world would look like in say 10"
+    },
+    {
+      "start": 2406,
+      "text": "20 years and how does technology play"
+    },
+    {
+      "start": 2408,
+      "text": "into that Journey oh that's big this can"
+    },
+    {
+      "start": 2410,
+      "text": "go so many different ways because the"
+    },
+    {
+      "start": 2412,
+      "text": "problem with Fitness is it's an IT"
+    },
+    {
+      "start": 2413,
+      "text": "everyone looks for easy buttons and"
+    },
+    {
+      "start": 2415,
+      "text": "fitness is not the easy button and so"
+    },
+    {
+      "start": 2417,
+      "text": "right now what you get is you get 10% or"
+    },
+    {
+      "start": 2419,
+      "text": "5% of the people in the world who are"
+    },
+    {
+      "start": 2420,
+      "text": "okay pushing the hard button because"
+    },
+    {
+      "start": 2422,
+      "text": "that's what they're into doing it but"
+    },
+    {
+      "start": 2424,
+      "text": "we're missing the mark on the 90 to 95%"
+    },
+    {
+      "start": 2426,
+      "text": "of people who just want OIC you know or"
+    },
+    {
+      "start": 2429,
+      "text": "who want the Easy Button I'm actually"
+    },
+    {
+      "start": 2431,
+      "text": "starting to generate this thesis which"
+    },
+    {
+      "start": 2432,
+      "text": "we should talk about sometime okay that"
+    },
+    {
+      "start": 2435,
+      "text": "gyms should sell community and we should"
+    },
+    {
+      "start": 2437,
+      "text": "solve loneliness first and the fitness"
+    },
+    {
+      "start": 2439,
+      "text": "is the byproduct people show up at the"
+    },
+    {
+      "start": 2441,
+      "text": "gyms that they that we support because"
+    },
+    {
+      "start": 2443,
+      "text": "they're showing up for their friends as"
+    },
+    {
+      "start": 2445,
+      "text": "much as they're showing up for themsel"
+    },
+    {
+      "start": 2446,
+      "text": "and it's almost like church where church"
+    },
+    {
+      "start": 2448,
+      "text": "for the body you have this you know"
+    },
+    {
+      "start": 2450,
+      "text": "every day I go I pay my penants or"
+    },
+    {
+      "start": 2452,
+      "text": "whatever you know I do my thing and at"
+    },
+    {
+      "start": 2454,
+      "text": "the end of the result is like oh wow I"
+    },
+    {
+      "start": 2455,
+      "text": "got fitter but really it's like you're"
+    },
+    {
+      "start": 2457,
+      "text": "loneliness in the moment and the easy"
+    },
+    {
+      "start": 2458,
+      "text": "button is loneliness which I think is a"
+    },
+    {
+      "start": 2461,
+      "text": "is a real thing it's I don't know maybe"
+    },
+    {
+      "start": 2462,
+      "text": "weird to talk about but the community is"
+    },
+    {
+      "start": 2464,
+      "text": "something actually very impactful in"
+    },
+    {
+      "start": 2465,
+      "text": "these gyms so if we can figure out this"
+    },
+    {
+      "start": 2468,
+      "text": "easy button and you can flip it and get"
+    },
+    {
+      "start": 2470,
+      "text": "90% of people in the gyms like we could"
+    },
+    {
+      "start": 2472,
+      "text": "have literally like 20 times more gyms"
+    },
+    {
+      "start": 2474,
+      "text": "in the world just overnight so to me"
+    },
+    {
+      "start": 2476,
+      "text": "it's like there's a big growth"
+    },
+    {
+      "start": 2477,
+      "text": "opportunity if we actually attack the"
+    },
+    {
+      "start": 2479,
+      "text": "problem that's stopping people from"
+    },
+    {
+      "start": 2481,
+      "text": "coming into the gym yeah that's powerful"
+    },
+    {
+      "start": 2484,
+      "text": "how how do you want push press to be"
+    },
+    {
+      "start": 2486,
+      "text": "remembered after your time uh hopefully"
+    },
+    {
+      "start": 2488,
+      "text": "not remembered cuz that means"
+    },
+    {
+      "start": 2491,
+      "text": "dead or how do you find people to talk"
+    },
+    {
+      "start": 2494,
+      "text": "about push press yeah near"
+    },
+    {
+      "start": 2496,
+      "text": "2300 um this one might not this so this"
+    },
+    {
+      "start": 2499,
+      "text": "might not answer the question directly"
+    },
+    {
+      "start": 2501,
+      "text": "cuz I haven't thought about that to be"
+    },
+    {
+      "start": 2502,
+      "text": "honest but it does it Loosely will so"
+    },
+    {
+      "start": 2504,
+      "text": "one thing I have noticed in the fitness"
+    },
+    {
+      "start": 2505,
+      "text": "industry that that annoys me is there"
+    },
+    {
+      "start": 2507,
+      "text": "are very few multigenerational companies"
+    },
+    {
+      "start": 2509,
+      "text": "and if you look across like I think"
+    },
+    {
+      "start": 2511,
+      "text": "Fitness is a tested tried andrue"
+    },
+    {
+      "start": 2513,
+      "text": "industry but if you look at other ones"
+    },
+    {
+      "start": 2514,
+      "text": "Automotive entertainment whatever"
+    },
+    {
+      "start": 2517,
+      "text": "like there are companies that have been"
+    },
+    {
+      "start": 2518,
+      "text": "around for 100 years and I know Fitness"
+    },
+    {
+      "start": 2520,
+      "text": "is newer to some regard but there is no"
+    },
+    {
+      "start": 2522,
+      "text": "50-year-old Fitness Company really um I"
+    },
+    {
+      "start": 2524,
+      "text": "guess maybe like 24-Hour Fitness"
+    },
+    {
+      "start": 2526,
+      "text": "although they're kind of on the decline"
+    },
+    {
+      "start": 2527,
+      "text": "and and the reason is I think it's"
+    },
+    {
+      "start": 2529,
+      "text": "because the Easy Button problem oh well"
+    },
+    {
+      "start": 2532,
+      "text": "you know like what's the newest fad"
+    },
+    {
+      "start": 2533,
+      "text": "we'll do Shake Weights like okay let's"
+    },
+    {
+      "start": 2535,
+      "text": "sell those on TV let's do jazzer size"
+    },
+    {
+      "start": 2537,
+      "text": "and everything turns into like a DVD buy"
+    },
+    {
+      "start": 2540,
+      "text": "it now for $29.99 and it dies in a year"
+    },
+    {
+      "start": 2543,
+      "text": "and I think like what we need to start"
+    },
+    {
+      "start": 2545,
+      "text": "having in the fitness industry is like"
+    },
+    {
+      "start": 2546,
+      "text": "multigenerational companies that live"
+    },
+    {
+      "start": 2549,
+      "text": "because they're not built on hype and"
+    },
+    {
+      "start": 2551,
+      "text": "they're not built on fads but they're"
+    },
+    {
+      "start": 2552,
+      "text": "built on something real and that's"
+    },
+    {
+      "start": 2554,
+      "text": "ultimately like where my mind has"
+    },
+    {
+      "start": 2556,
+      "text": "started to go like this company"
+    },
+    {
+      "start": 2558,
+      "text": "definitely should outlive me and it"
+    },
+    {
+      "start": 2559,
+      "text": "should support an industry that is"
+    },
+    {
+      "start": 2561,
+      "text": "outliving all the people who open the"
+    },
+    {
+      "start": 2562,
+      "text": "gyms themselves"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 1380,
+  "timestamp": "2025-07-24T08:25:15.772Z"
+}

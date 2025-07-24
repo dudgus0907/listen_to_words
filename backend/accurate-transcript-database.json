@@ -1,0 +1,80 @@
+[
+  {
+    "id": "dQw4w9WgXcQ",
+    "title": "Rick Astley - Never Gonna Give You Up",
+    "knownQuotes": [
+      {
+        "start": 43,
+        "text": "Never gonna give you up",
+        "verified": true
+      },
+      {
+        "start": 45,
+        "text": "Never gonna let you down",
+        "verified": true
+      },
+      {
+        "start": 47,
+        "text": "Never gonna run around and desert you",
+        "verified": true
+      },
+      {
+        "start": 49,
+        "text": "Never gonna make you cry",
+        "verified": true
+      },
+      {
+        "start": 51,
+        "text": "Never gonna say goodbye",
+        "verified": true
+      },
+      {
+        "start": 53,
+        "text": "Never gonna tell a lie and hurt you",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "UF8uR6Z6KLc",
+    "title": "Steve Jobs Stanford Commencement Speech",
+    "knownQuotes": [
+      {
+        "start": 843,
+        "text": "Stay hungry. Stay foolish.",
+        "verified": true
+      },
+      {
+        "start": 400,
+        "text": "You can't connect the dots looking forward",
+        "verified": true
+      },
+      {
+        "start": 180,
+        "text": "I never graduated from college",
+        "verified": true
+      },
+      {
+        "start": 80,
+        "text": "Today I want to tell you three stories",
+        "verified": true
+      }
+    ]
+  },
+  {
+    "id": "9bZkp7q19f0",
+    "title": "PSY - GANGNAM STYLE",
+    "knownQuotes": [
+      {
+        "start": 30,
+        "text": "Gangnam Style",
+        "verified": true
+      },
+      {
+        "start": 60,
+        "text": "Oppa Gangnam Style",
+        "verified": true
+      }
+    ]
+  }
+]

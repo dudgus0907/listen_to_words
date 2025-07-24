@@ -1,0 +1,1192 @@
+1
+00:00:00,080 --> 00:00:04,000
+We certainly, you know, had a decent
+
+2
+00:00:02,320 --> 00:00:06,000
+early success working with different
+
+3
+00:00:04,000 --> 00:00:08,440
+types of investors. A lot of them were
+
+4
+00:00:06,000 --> 00:00:12,719
+promising and also big deal at the
+
+5
+00:00:08,440 --> 00:00:15,440
+time. And after that, um, then came the
+
+6
+00:00:12,719 --> 00:00:17,279
+crypto winter.
+
+7
+00:00:15,440 --> 00:00:19,279
+We were watching Bitcoin falling below
+
+8
+00:00:17,279 --> 00:00:21,439
+$6,000 overnight and all of those
+
+9
+00:00:19,279 --> 00:00:24,240
+alternative coins were down by much
+
+10
+00:00:21,439 --> 00:00:26,240
+more. There were just a loss of VC
+
+11
+00:00:24,240 --> 00:00:29,359
+interest. uh there were loss of
+
+12
+00:00:26,240 --> 00:00:32,000
+institutional interest and it's about
+
+13
+00:00:29,359 --> 00:00:34,160
+minimizing like uh me and like my
+
+14
+00:00:32,000 --> 00:00:35,440
+co-founder's cost of living at the time.
+
+15
+00:00:34,160 --> 00:00:38,320
+Obviously there were a lot of you know
+
+16
+00:00:35,440 --> 00:00:39,920
+stress there's a lot of uh concerns
+
+17
+00:00:38,320 --> 00:00:42,320
+about what if you know the money runs
+
+18
+00:00:39,920 --> 00:00:44,480
+out tomorrow. So for us you know we had
+
+19
+00:00:42,320 --> 00:00:46,559
+to earn every single user we gained over
+
+20
+00:00:44,480 --> 00:00:48,559
+time. We had to earn every single dollar
+
+21
+00:00:46,559 --> 00:00:50,960
+that came in. We had to really really
+
+22
+00:00:48,559 --> 00:00:53,520
+learn how to be extremely efficient and
+
+23
+00:00:50,960 --> 00:00:55,920
+scrappy with the incubation capital that
+
+24
+00:00:53,520 --> 00:00:58,160
+we were given.
+
+25
+00:00:55,920 --> 00:01:01,120
+I think we had a lot of privilege by
+
+26
+00:00:58,160 --> 00:01:04,239
+initially going through the 2019 period.
+
+27
+00:01:01,120 --> 00:01:07,200
+We had the experience and understanding
+
+28
+00:01:04,239 --> 00:01:09,520
+that capital might be very very hard to
+
+29
+00:01:07,200 --> 00:01:11,920
+come by for an extended duration of time
+
+30
+00:01:09,520 --> 00:01:14,720
+and that's been basically the mindset
+
+31
+00:01:11,920 --> 00:01:19,000
+that we have. Ever since then, that made
+
+32
+00:01:14,720 --> 00:01:22,159
+us uh to be conservative during
+
+33
+00:01:19,000 --> 00:01:24,640
+very optimistic times and at the same
+
+34
+00:01:22,159 --> 00:01:27,600
+time being extremely
+
+35
+00:01:24,640 --> 00:01:29,920
+um optimistic during very fearful times.
+
+36
+00:01:27,600 --> 00:01:32,720
+The way we did it was focusing on the
+
+37
+00:01:29,920 --> 00:01:35,520
+long term. Plan for the future, ignore
+
+38
+00:01:32,720 --> 00:01:37,920
+the present conditions. So, if I have a
+
+39
+00:01:35,520 --> 00:01:40,880
+time machine and go back and and tell
+
+40
+00:01:37,920 --> 00:01:42,799
+myself at that time, it would be cherish
+
+41
+00:01:40,880 --> 00:01:46,079
+that moment because you're not going to
+
+42
+00:01:42,799 --> 00:01:48,040
+have a lot of those. And it's probably
+
+43
+00:01:46,079 --> 00:01:51,119
+the most powerful feeling in the
+
+44
+00:01:48,040 --> 00:01:53,200
+world. Hi, I'm Eric Chen, co-founder and
+
+45
+00:01:51,119 --> 00:01:54,799
+CEO of Injective Labs. We built
+
+46
+00:01:53,200 --> 00:01:56,560
+Injective, which is a blockchain built
+
+47
+00:01:54,799 --> 00:01:58,719
+for finance meant to democratize
+
+48
+00:01:56,560 --> 00:02:00,640
+financial access for all. Injective is a
+
+49
+00:01:58,719 --> 00:02:02,479
+multi-billion dollar network that's
+
+50
+00:02:00,640 --> 00:02:04,640
+currently delivering more than $50
+
+51
+00:02:02,479 --> 00:02:07,360
+billion of exchange volume with more
+
+52
+00:02:04,640 --> 00:02:10,239
+than 1.4 million addresses and users as
+
+53
+00:02:07,360 --> 00:02:10,239
+well as 1 billion
+
+54
+00:02:11,879 --> 00:02:16,640
+transactions. I studied uh computer
+
+55
+00:02:14,319 --> 00:02:18,720
+science and uh finance in college. I was
+
+56
+00:02:16,640 --> 00:02:20,480
+in a bit of a soul searching process
+
+57
+00:02:18,720 --> 00:02:22,160
+where I didn't really know what I was
+
+58
+00:02:20,480 --> 00:02:24,000
+truly good at. I couldn't really find
+
+59
+00:02:22,160 --> 00:02:25,840
+something that you know really piqu my
+
+60
+00:02:24,000 --> 00:02:27,599
+interest. Everyone doing finance wanted
+
+61
+00:02:25,840 --> 00:02:29,520
+to go into like the banking, hedge
+
+62
+00:02:27,599 --> 00:02:31,200
+funds, private equity, whatever. And
+
+63
+00:02:29,520 --> 00:02:33,040
+everyone like doing computer science
+
+64
+00:02:31,200 --> 00:02:35,440
+wanted to go into like Google. For me,
+
+65
+00:02:33,040 --> 00:02:37,200
+it was just uh very very torn. I think
+
+66
+00:02:35,440 --> 00:02:38,879
+one of the most interesting part of my
+
+67
+00:02:37,200 --> 00:02:40,879
+college life was certainly learning more
+
+68
+00:02:38,879 --> 00:02:42,480
+about crypto and understanding that
+
+69
+00:02:40,879 --> 00:02:44,319
+there's a lot of very interesting like
+
+70
+00:02:42,480 --> 00:02:46,080
+research uh subjects. But the first
+
+71
+00:02:44,319 --> 00:02:47,680
+thing I did of course was trying to mine
+
+72
+00:02:46,080 --> 00:02:49,920
+with the free electricity from the dorm
+
+73
+00:02:47,680 --> 00:02:51,519
+room. What truly made me excite excited
+
+74
+00:02:49,920 --> 00:02:53,760
+at the time was when I was doing
+
+75
+00:02:51,519 --> 00:02:55,440
+research on you know a particular issue
+
+76
+00:02:53,760 --> 00:02:57,519
+that was like plaguing the industry
+
+77
+00:02:55,440 --> 00:02:59,200
+which was uh front running exchange
+
+78
+00:02:57,519 --> 00:03:01,200
+collision sandwich attacks and stuff
+
+79
+00:02:59,200 --> 00:03:03,120
+like that which basically the simplest
+
+80
+00:03:01,200 --> 00:03:05,519
+way to understand it is that it makes
+
+81
+00:03:03,120 --> 00:03:07,519
+general users or traders lose part of
+
+82
+00:03:05,519 --> 00:03:09,280
+their money because some guy can find
+
+83
+00:03:07,519 --> 00:03:11,599
+like a better price elsewhere and then
+
+84
+00:03:09,280 --> 00:03:13,280
+arbitrage their orders on chain. For us,
+
+85
+00:03:11,599 --> 00:03:14,879
+it was basically a very simple
+
+86
+00:03:13,280 --> 00:03:16,400
+understanding is that it's a it's a
+
+87
+00:03:14,879 --> 00:03:18,000
+problem. We can come up with probably
+
+88
+00:03:16,400 --> 00:03:19,920
+like a pretty elegant solution to solve
+
+89
+00:03:18,000 --> 00:03:21,120
+it using some cryptographic trick. I
+
+90
+00:03:19,920 --> 00:03:23,040
+think the most interesting part about
+
+91
+00:03:21,120 --> 00:03:25,040
+Injective is that it's very much of a
+
+92
+00:03:23,040 --> 00:03:26,640
+blockchain built for finance. Let's say
+
+93
+00:03:25,040 --> 00:03:29,519
+we were talking about a smart contract
+
+94
+00:03:26,640 --> 00:03:31,280
+platform which is like Ethereum, Salana,
+
+95
+00:03:29,519 --> 00:03:33,360
+etc. The way these blockchains operate
+
+96
+00:03:31,280 --> 00:03:35,360
+is that it tries to be web through
+
+97
+00:03:33,360 --> 00:03:36,959
+computer that no matter what you toss at
+
+98
+00:03:35,360 --> 00:03:38,799
+it, it will figure out like a way to
+
+99
+00:03:36,959 --> 00:03:41,040
+make it work. The way Injective works is
+
+100
+00:03:38,799 --> 00:03:43,760
+that instead of always having to figure
+
+101
+00:03:41,040 --> 00:03:46,159
+out ways to optimize for application
+
+102
+00:03:43,760 --> 00:03:47,920
+trends or use cases, Injective decides
+
+103
+00:03:46,159 --> 00:03:50,720
+to be anchored for financial
+
+104
+00:03:47,920 --> 00:03:52,799
+applications. Hi, I'm Albert. Hi, I'm
+
+105
+00:03:50,720 --> 00:03:54,480
+Eric. We are Injective Protocol. The
+
+106
+00:03:52,799 --> 00:03:56,080
+best and most secure experience for the
+
+107
+00:03:54,480 --> 00:03:58,879
+centralized exchange. During the early
+
+108
+00:03:56,080 --> 00:04:01,120
+days, in the way the first 100 user that
+
+109
+00:03:58,879 --> 00:04:02,959
+was acquired was actually very simple. I
+
+110
+00:04:01,120 --> 00:04:04,720
+basically went into uh every single
+
+111
+00:04:02,959 --> 00:04:06,959
+group chat that had anything to do with
+
+112
+00:04:04,720 --> 00:04:08,799
+uh crypto to reach out to a lot of the
+
+113
+00:04:06,959 --> 00:04:10,640
+participants or the vocal members and
+
+114
+00:04:08,799 --> 00:04:12,560
+trying to tell them about hey like use
+
+115
+00:04:10,640 --> 00:04:14,159
+uh this interactive exchange try it and
+
+116
+00:04:12,560 --> 00:04:15,599
+let us know what you think you know whe
+
+117
+00:04:14,159 --> 00:04:17,199
+what whether it makes sense whether it's
+
+118
+00:04:15,599 --> 00:04:19,120
+a horrible idea and then we should stop
+
+119
+00:04:17,199 --> 00:04:21,359
+doing it. I just kept doing it the first
+
+120
+00:04:19,120 --> 00:04:22,880
+50 the first 100 the first god knows how
+
+121
+00:04:21,359 --> 00:04:24,000
+many hundreds or thousands and I think
+
+122
+00:04:22,880 --> 00:04:25,840
+the most interesting part is that
+
+123
+00:04:24,000 --> 00:04:27,360
+there's a lot of very vocal and negative
+
+124
+00:04:25,840 --> 00:04:29,199
+people in a lot of these like public
+
+125
+00:04:27,360 --> 00:04:30,479
+group chats or you know public forums.
+
+126
+00:04:29,199 --> 00:04:31,520
+Hey, like why do you have this? It
+
+127
+00:04:30,479 --> 00:04:33,280
+doesn't make sense. Why do you have this
+
+128
+00:04:31,520 --> 00:04:34,960
+feature? Like no, no one needs it. It's
+
+129
+00:04:33,280 --> 00:04:36,560
+always very very stressful for you to
+
+130
+00:04:34,960 --> 00:04:37,919
+talk to them or for you to even reach
+
+131
+00:04:36,560 --> 00:04:39,440
+out to them. But if you fight through
+
+132
+00:04:37,919 --> 00:04:41,040
+that like initial embarrassment
+
+133
+00:04:39,440 --> 00:04:43,120
+interfacing or like dealing with their
+
+134
+00:04:41,040 --> 00:04:45,040
+negativity, they end up being a lot more
+
+135
+00:04:43,120 --> 00:04:46,800
+valuable of an ally than you can
+
+136
+00:04:45,040 --> 00:04:48,639
+possibly imagine. A lot of these like
+
+137
+00:04:46,800 --> 00:04:50,720
+highly critical people are equally
+
+138
+00:04:48,639 --> 00:04:52,160
+critical to everyone and therefore it
+
+139
+00:04:50,720 --> 00:04:53,600
+means that they first of all they care
+
+140
+00:04:52,160 --> 00:04:55,440
+and second of all they give you
+
+141
+00:04:53,600 --> 00:04:57,600
+extremely valuable feedback and third of
+
+142
+00:04:55,440 --> 00:04:59,759
+all they're a lot nicer than what they
+
+143
+00:04:57,600 --> 00:05:01,440
+perceive to be. facing that negativity
+
+144
+00:04:59,759 --> 00:05:03,680
+with a very positive light and more
+
+145
+00:05:01,440 --> 00:05:05,280
+importantly listening and give everyone
+
+146
+00:05:03,680 --> 00:05:06,880
+no matter how negative they are or how
+
+147
+00:05:05,280 --> 00:05:08,240
+positive they are time of the day to
+
+148
+00:05:06,880 --> 00:05:10,000
+listen to their feedback and implement
+
+149
+00:05:08,240 --> 00:05:12,160
+upon it and it's about presenting to
+
+150
+00:05:10,000 --> 00:05:13,919
+them with a positive can do attitude
+
+151
+00:05:12,160 --> 00:05:15,360
+addressing every single concern or
+
+152
+00:05:13,919 --> 00:05:16,880
+problem that they might have listening
+
+153
+00:05:15,360 --> 00:05:18,800
+to every single one of their feedback
+
+154
+00:05:16,880 --> 00:05:21,039
+the product around people that voice
+
+155
+00:05:18,800 --> 00:05:22,960
+their concerns and opinions and really
+
+156
+00:05:21,039 --> 00:05:24,960
+iterate that way because you don't know
+
+157
+00:05:22,960 --> 00:05:27,280
+the right answer especially as a builder
+
+158
+00:05:24,960 --> 00:05:29,919
+to what's going to happen in the future
+
+159
+00:05:27,280 --> 00:05:32,000
+with a 100 or a thousand% precision and
+
+160
+00:05:29,919 --> 00:05:33,840
+accuracy. What you really need is have
+
+161
+00:05:32,000 --> 00:05:35,600
+user informed the direction that you're
+
+162
+00:05:33,840 --> 00:05:37,840
+building and listening to them because a
+
+163
+00:05:35,600 --> 00:05:39,600
+happy user will become the most valuable
+
+164
+00:05:37,840 --> 00:05:43,199
+ally for no matter what industry you're
+
+165
+00:05:39,600 --> 00:05:43,199
+in, no matter what product that you're
+
+166
+00:05:47,560 --> 00:05:52,240
+building. We certainly, you know, had a
+
+167
+00:05:50,400 --> 00:05:54,000
+decent early success working with
+
+168
+00:05:52,240 --> 00:05:56,240
+different types of investors. A lot of
+
+169
+00:05:54,000 --> 00:06:00,080
+them were promising and also big deal at
+
+170
+00:05:56,240 --> 00:06:02,000
+the time. And after that, um, then came
+
+171
+00:06:00,080 --> 00:06:04,479
+the crypto winter. We were watching
+
+172
+00:06:02,000 --> 00:06:06,479
+Bitcoin falling below $6,000 overnight.
+
+173
+00:06:04,479 --> 00:06:08,800
+And all of those alternative coins were
+
+174
+00:06:06,479 --> 00:06:11,280
+down by much more. There were just a
+
+175
+00:06:08,800 --> 00:06:13,120
+loss of VC interest. There were loss of
+
+176
+00:06:11,280 --> 00:06:15,199
+institutional interest. We had to
+
+177
+00:06:13,120 --> 00:06:17,440
+really, really learn how to be extremely
+
+178
+00:06:15,199 --> 00:06:19,440
+efficient and scrappy with the
+
+179
+00:06:17,440 --> 00:06:22,880
+incubation capital that we were given.
+
+180
+00:06:19,440 --> 00:06:24,960
+being crammed in a 70 or 80 square ft uh
+
+181
+00:06:22,880 --> 00:06:27,360
+apartment within New York with three
+
+182
+00:06:24,960 --> 00:06:29,280
+other roommates moving around in a world
+
+183
+00:06:27,360 --> 00:06:31,440
+trying to source talents at a
+
+184
+00:06:29,280 --> 00:06:33,440
+cost-effective way and trying to work
+
+185
+00:06:31,440 --> 00:06:35,680
+with as many globalized you know
+
+186
+00:06:33,440 --> 00:06:36,960
+developers and users and trying to
+
+187
+00:06:35,680 --> 00:06:38,720
+figure out ways to you know make
+
+188
+00:06:36,960 --> 00:06:40,960
+everything work. I think we had a lot of
+
+189
+00:06:38,720 --> 00:06:44,160
+privilege by initially going through the
+
+190
+00:06:40,960 --> 00:06:47,199
+period where we had the experience and
+
+191
+00:06:44,160 --> 00:06:49,120
+understanding that capital might be very
+
+192
+00:06:47,199 --> 00:06:51,680
+very hard to come by for an extended
+
+193
+00:06:49,120 --> 00:06:54,080
+duration of time that basically made us
+
+194
+00:06:51,680 --> 00:06:56,560
+to be conservative during optimistic
+
+195
+00:06:54,080 --> 00:06:59,360
+times and at the same time being
+
+196
+00:06:56,560 --> 00:07:01,759
+extremely optimistic during very fearful
+
+197
+00:06:59,360 --> 00:07:03,680
+times. It allows us to basically no
+
+198
+00:07:01,759 --> 00:07:05,680
+matter what condition it is always
+
+199
+00:07:03,680 --> 00:07:07,440
+ensure that you know we have a certain
+
+200
+00:07:05,680 --> 00:07:09,520
+amount of runway and we always can
+
+201
+00:07:07,440 --> 00:07:11,840
+survive for more than 5 years. The way
+
+202
+00:07:09,520 --> 00:07:14,639
+we did it was focusing on the long term
+
+203
+00:07:11,840 --> 00:07:17,599
+plan for the future ignore the present
+
+204
+00:07:14,639 --> 00:07:20,720
+conditions. Being around enough cycles
+
+205
+00:07:17,599 --> 00:07:23,120
+helps a lot because during extremely
+
+206
+00:07:20,720 --> 00:07:25,280
+bullish times uh during extremely
+
+207
+00:07:23,120 --> 00:07:27,440
+optimistic times we slowly become more
+
+208
+00:07:25,280 --> 00:07:30,000
+and more jaded more and more fearful. we
+
+209
+00:07:27,440 --> 00:07:32,000
+have like a innate sense of uh it's
+
+210
+00:07:30,000 --> 00:07:33,840
+almost like a primal instinct that
+
+211
+00:07:32,000 --> 00:07:35,360
+something is about to go wrong and I
+
+212
+00:07:33,840 --> 00:07:36,960
+think this helped a lot because it's
+
+213
+00:07:35,360 --> 00:07:38,720
+basically like an instinct that was like
+
+214
+00:07:36,960 --> 00:07:41,280
+developed over time after being in so
+
+215
+00:07:38,720 --> 00:07:43,280
+many cycles even before an injective on
+
+216
+00:07:41,280 --> 00:07:45,840
+another hand it's just like aial
+
+217
+00:07:43,280 --> 00:07:47,520
+question like have you earned it? uh a
+
+218
+00:07:45,840 --> 00:07:50,560
+lot of times you know like the success
+
+219
+00:07:47,520 --> 00:07:53,360
+is asymmetrical to the output and to the
+
+220
+00:07:50,560 --> 00:07:55,120
+fundamentals and oftent times we at all
+
+221
+00:07:53,360 --> 00:07:57,360
+times question ourselves whether we have
+
+222
+00:07:55,120 --> 00:07:59,120
+like earned the success that we have we
+
+223
+00:07:57,360 --> 00:08:01,199
+are often very very critical so we
+
+224
+00:07:59,120 --> 00:08:02,560
+always doubt that we did earn it and I
+
+225
+00:08:01,199 --> 00:08:04,800
+think that's still a very strong
+
+226
+00:08:02,560 --> 00:08:06,960
+relative benchmark to see how long-term
+
+227
+00:08:04,800 --> 00:08:06,960
+you
+
+228
+00:08:08,280 --> 00:08:12,479
+are I think the most exciting thing
+
+229
+00:08:10,479 --> 00:08:14,400
+about uh injective especially at the
+
+230
+00:08:12,479 --> 00:08:16,560
+current stage is about decentralizing
+
+231
+00:08:14,400 --> 00:08:18,960
+the access to finance to everyone.
+
+232
+00:08:16,560 --> 00:08:20,560
+Finance is truly a game for the rich and
+
+233
+00:08:18,960 --> 00:08:23,039
+it really shouldn't be. Whether you have
+
+234
+00:08:20,560 --> 00:08:24,720
+just $1 or like $5, you get to have
+
+235
+00:08:23,039 --> 00:08:26,560
+access to the same type of opportunity
+
+236
+00:08:24,720 --> 00:08:28,639
+to those with uh, you know, $5 million
+
+237
+00:08:26,560 --> 00:08:30,160
+or $10 million. And this is completely
+
+238
+00:08:28,639 --> 00:08:31,919
+not the current financial world.
+
+239
+00:08:30,160 --> 00:08:33,760
+Basically, if you want opportunity,
+
+240
+00:08:31,919 --> 00:08:35,839
+especially high growth, it's just layers
+
+241
+00:08:33,760 --> 00:08:37,680
+and layers of like investment advisors,
+
+242
+00:08:35,839 --> 00:08:39,440
+brokers, and stuff like that to purchase
+
+243
+00:08:37,680 --> 00:08:40,640
+one share of Apple, you have to have,
+
+244
+00:08:39,440 --> 00:08:41,680
+you know, hundreds and hundreds of
+
+245
+00:08:40,640 --> 00:08:43,360
+dollars. There's not even a
+
+246
+00:08:41,680 --> 00:08:45,360
+fractionalized concept within the stock
+
+247
+00:08:43,360 --> 00:08:46,880
+market. For us right now, the most
+
+248
+00:08:45,360 --> 00:08:48,480
+exciting thing is about being able to
+
+249
+00:08:46,880 --> 00:08:50,160
+bring in real world assets, being able
+
+250
+00:08:48,480 --> 00:08:51,440
+to tokenize so many exciting
+
+251
+00:08:50,160 --> 00:08:53,040
+opportunities happening in the
+
+252
+00:08:51,440 --> 00:08:54,880
+cross-section of traditional financial
+
+253
+00:08:53,040 --> 00:08:56,800
+world and also the crypto world. This
+
+254
+00:08:54,880 --> 00:08:58,160
+has just been always a dream of us, even
+
+255
+00:08:56,800 --> 00:08:59,839
+during the early days of Injective,
+
+256
+00:08:58,160 --> 00:09:02,880
+which is being able to access a lot of
+
+257
+00:08:59,839 --> 00:09:06,000
+these traditional products like Tesla or
+
+258
+00:09:02,880 --> 00:09:07,760
+GameStop, creating it in a platform that
+
+259
+00:09:06,000 --> 00:09:09,519
+also has access to different types of
+
+260
+00:09:07,760 --> 00:09:11,040
+crypto primitives while at the same time
+
+261
+00:09:09,519 --> 00:09:14,000
+being able to access it from all over
+
+262
+00:09:11,040 --> 00:09:16,640
+the world, from Argentina to Europe to
+
+263
+00:09:14,000 --> 00:09:19,120
+Asia and everywhere in the same easy to
+
+264
+00:09:16,640 --> 00:09:21,360
+access, easy to use platform. Basically
+
+265
+00:09:19,120 --> 00:09:25,240
+making uh financial products and assets
+
+266
+00:09:21,360 --> 00:09:25,240
+more accessible than ever.
+
+267
+00:09:25,519 --> 00:09:29,920
+I don't think there's going to be a lot
+
+268
+00:09:27,279 --> 00:09:31,760
+of uh material change uh for people in
+
+269
+00:09:29,920 --> 00:09:34,000
+the world. Their day doesn't just
+
+270
+00:09:31,760 --> 00:09:36,480
+suddenly become completely different at
+
+271
+00:09:34,000 --> 00:09:38,800
+full 180. But I think it's really about
+
+272
+00:09:36,480 --> 00:09:40,640
+the subtlety of things. Maybe you just
+
+273
+00:09:38,800 --> 00:09:42,959
+have more savings in your bank. Maybe
+
+274
+00:09:40,640 --> 00:09:45,519
+you can connect with your friends 20,000
+
+275
+00:09:42,959 --> 00:09:47,120
+miles across the world a lot easier.
+
+276
+00:09:45,519 --> 00:09:49,040
+Everyone is just a little bit better off
+
+277
+00:09:47,120 --> 00:09:52,320
+because of the opportunities that was
+
+278
+00:09:49,040 --> 00:09:55,200
+now accessible to you. I remember I uh
+
+279
+00:09:52,320 --> 00:09:57,120
+came up with Injective at the stolen
+
+280
+00:09:55,200 --> 00:10:00,000
+co-working space from my friend. It
+
+281
+00:09:57,120 --> 00:10:01,680
+wasn't something too flashy. It was just
+
+282
+00:10:00,000 --> 00:10:03,600
+hey this could be a solution to
+
+283
+00:10:01,680 --> 00:10:06,240
+something at that time. It was a very
+
+284
+00:10:03,600 --> 00:10:07,800
+very rare feeling to have the space
+
+285
+00:10:06,240 --> 00:10:10,480
+especially at a time was just
+
+286
+00:10:07,800 --> 00:10:12,320
+ostentatious way too much grandiose like
+
+287
+00:10:10,480 --> 00:10:14,160
+visions and stuff like that. So oftent
+
+288
+00:10:12,320 --> 00:10:16,160
+times it felt like it was losing touch
+
+289
+00:10:14,160 --> 00:10:17,760
+with reality. So that was a very rare
+
+290
+00:10:16,160 --> 00:10:20,240
+feeling for me even though these days I
+
+291
+00:10:17,760 --> 00:10:22,240
+get more and more of these feelings. uh
+
+292
+00:10:20,240 --> 00:10:24,560
+uh at this point in time. It was very
+
+293
+00:10:22,240 --> 00:10:27,040
+very rare at the time. So if I have a
+
+294
+00:10:24,560 --> 00:10:30,000
+time machine and go back and and tell
+
+295
+00:10:27,040 --> 00:10:31,839
+myself at that time, it would be cherish
+
+296
+00:10:30,000 --> 00:10:35,120
+that moment because you're not going to
+
+297
+00:10:31,839 --> 00:10:39,480
+have a lot of those. And it's probably
+
+298
+00:10:35,120 --> 00:10:39,480
+the most powerful feeling in the world.
+

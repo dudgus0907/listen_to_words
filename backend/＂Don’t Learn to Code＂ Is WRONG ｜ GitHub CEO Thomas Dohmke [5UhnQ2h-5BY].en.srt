@@ -1,0 +1,2132 @@
+1
+00:00:00,080 --> 00:00:04,960
+I first of all I strongly believe that
+
+2
+00:00:02,240 --> 00:00:06,400
+every kid uh every child should learn
+
+3
+00:00:04,960 --> 00:00:07,759
+coding. We should actually teach them
+
+4
+00:00:06,400 --> 00:00:10,080
+coding in school in the same way that we
+
+5
+00:00:07,759 --> 00:00:11,679
+teach them physics and geography and uh
+
+6
+00:00:10,080 --> 00:00:13,679
+you know literacy and math and whatn
+
+7
+00:00:11,679 --> 00:00:15,440
+not. Those are all fundamental skills.
+
+8
+00:00:13,679 --> 00:00:17,119
+Coding is one such skill because
+
+9
+00:00:15,440 --> 00:00:18,960
+software is everywhere and in fact our
+
+10
+00:00:17,119 --> 00:00:20,880
+day-to-day is dominated by software
+
+11
+00:00:18,960 --> 00:00:23,039
+already. You can't really live your life
+
+12
+00:00:20,880 --> 00:00:24,960
+travel um wake up in the morning without
+
+13
+00:00:23,039 --> 00:00:27,279
+software anymore. And I think as as
+
+14
+00:00:24,960 --> 00:00:30,000
+humans it is crucial to not only be in
+
+15
+00:00:27,279 --> 00:00:31,519
+readonly mode but also be able to create
+
+16
+00:00:30,000 --> 00:00:33,200
+uh things ourselves or at least
+
+17
+00:00:31,519 --> 00:00:34,960
+understand how how creation is done on
+
+18
+00:00:33,200 --> 00:00:37,280
+these devices. My name is Thomas and I'm
+
+19
+00:00:34,960 --> 00:00:39,840
+a developer. I've been developing uh
+
+20
+00:00:37,280 --> 00:00:42,239
+software since the early 1990s and today
+
+21
+00:00:39,840 --> 00:00:43,840
+my role is mostly being the GitHub CEO
+
+22
+00:00:42,239 --> 00:00:48,040
+leading uh the largest developer
+
+23
+00:00:43,840 --> 00:00:48,040
+platform uh on this planet.
+
+24
+00:00:48,480 --> 00:00:53,760
+I was born in uh 1978 in East Berlin
+
+25
+00:00:51,760 --> 00:00:55,280
+when Germany was divided into two
+
+26
+00:00:53,760 --> 00:00:57,760
+countries. So I was on the on the
+
+27
+00:00:55,280 --> 00:00:59,760
+eastern side uh in Berlin in in a suburb
+
+28
+00:00:57,760 --> 00:01:02,000
+called Matsan. I grew you know had a
+
+29
+00:00:59,760 --> 00:01:04,720
+normal childhood um but was fascinated
+
+30
+00:01:02,000 --> 00:01:06,560
+by technology remote control cars uh uh
+
+31
+00:01:04,720 --> 00:01:09,119
+you know little computer games. Uh in
+
+32
+00:01:06,560 --> 00:01:10,880
+1989 the wall fell and and that opened
+
+33
+00:01:09,119 --> 00:01:13,360
+up you know a whole new world to me as
+
+34
+00:01:10,880 --> 00:01:15,680
+an 11year-old. um obviously from from a
+
+35
+00:01:13,360 --> 00:01:18,560
+toy perspective um getting access to to
+
+36
+00:01:15,680 --> 00:01:20,560
+Lego and and Mickey Mouse but also uh to
+
+37
+00:01:18,560 --> 00:01:23,680
+uh to computers and so in the early 90s
+
+38
+00:01:20,560 --> 00:01:26,560
+um I bought my first computer uh 64 and
+
+39
+00:01:23,680 --> 00:01:28,240
+after um university um I went to
+
+40
+00:01:26,560 --> 00:01:30,159
+technical university in Berlin I
+
+41
+00:01:28,240 --> 00:01:32,479
+actually uh went into the automotive
+
+42
+00:01:30,159 --> 00:01:34,560
+industry uh I started working at uh
+
+43
+00:01:32,479 --> 00:01:36,079
+Mercedes back then it was called Dameler
+
+44
+00:01:34,560 --> 00:01:38,720
+Chrysler working on driver assistance
+
+45
+00:01:36,079 --> 00:01:40,799
+system uh for for the S-Class and I did
+
+46
+00:01:38,720 --> 00:01:43,520
+that uh for a while and then switched to
+
+47
+00:01:40,799 --> 00:01:45,280
+the supplier side to Bosch uh uh which
+
+48
+00:01:43,520 --> 00:01:46,960
+is you know a large automotive supplier
+
+49
+00:01:45,280 --> 00:01:49,360
+amongst amongst other things and and
+
+50
+00:01:46,960 --> 00:01:52,079
+there uh worked you know on parking
+
+51
+00:01:49,360 --> 00:01:53,840
+systems and it was in 2008 uh that two
+
+52
+00:01:52,079 --> 00:01:56,640
+things happened. One is I finished my
+
+53
+00:01:53,840 --> 00:01:58,640
+PhD thesis but also Steve Jobs showed
+
+54
+00:01:56,640 --> 00:02:01,280
+the iPhone SDK. Everybody wanted to
+
+55
+00:01:58,640 --> 00:02:03,200
+build apps um and and at the time only
+
+56
+00:02:01,280 --> 00:02:05,200
+Apple could build native apps and I
+
+57
+00:02:03,200 --> 00:02:06,960
+thought this is this is cool. I got to,
+
+58
+00:02:05,200 --> 00:02:08,560
+you know, build apps myself and I got to
+
+59
+00:02:06,960 --> 00:02:10,560
+get into that space. And so I quit my
+
+60
+00:02:08,560 --> 00:02:12,640
+job at Bosch uh at the height of the
+
+61
+00:02:10,560 --> 00:02:15,520
+financial crisis amongst all things uh
+
+62
+00:02:12,640 --> 00:02:18,640
+in late 2008 and um reconnected with a
+
+63
+00:02:15,520 --> 00:02:19,920
+friend um from from university and um we
+
+64
+00:02:18,640 --> 00:02:22,160
+just became you know two freelance
+
+65
+00:02:19,920 --> 00:02:24,080
+developers building apps uh for the
+
+66
+00:02:22,160 --> 00:02:26,080
+German market. So mostly agency work or
+
+67
+00:02:24,080 --> 00:02:29,120
+or subcontractor for for larger app
+
+68
+00:02:26,080 --> 00:02:31,280
+projects. I think in in 2009 and 10 we
+
+69
+00:02:29,120 --> 00:02:33,360
+built around 30 apps. That work on
+
+70
+00:02:31,280 --> 00:02:35,120
+building apps um for for for mostly
+
+71
+00:02:33,360 --> 00:02:36,959
+German customers um German enterprise
+
+72
+00:02:35,120 --> 00:02:39,840
+customers media and and automotive and
+
+73
+00:02:36,959 --> 00:02:42,080
+so on got us the idea of of building a
+
+74
+00:02:39,840 --> 00:02:44,720
+platform for mobile app developers. And
+
+75
+00:02:42,080 --> 00:02:46,800
+so we um together with three friends
+
+76
+00:02:44,720 --> 00:02:48,400
+Stefan Andreas and and Michael we
+
+77
+00:02:46,800 --> 00:02:49,840
+founded a company called Hockey App
+
+78
+00:02:48,400 --> 00:02:51,680
+which was a platform for mobile app
+
+79
+00:02:49,840 --> 00:02:54,480
+developers. you could distribute your
+
+80
+00:02:51,680 --> 00:02:56,560
+beta builds and um collect uh error
+
+81
+00:02:54,480 --> 00:02:58,319
+reports, crash reports and feedback and
+
+82
+00:02:56,560 --> 00:03:00,800
+those kind of things. And so we built
+
+83
+00:02:58,319 --> 00:03:02,800
+that startup you know the platform for
+
+84
+00:03:00,800 --> 00:03:04,239
+our own you know freelance business
+
+85
+00:03:02,800 --> 00:03:06,480
+because we had that painoint that we
+
+86
+00:03:04,239 --> 00:03:08,000
+wanted to solve uh for ourselves. Um
+
+87
+00:03:06,480 --> 00:03:10,480
+because it was before that you would
+
+88
+00:03:08,000 --> 00:03:13,920
+send you know a build uh over email you
+
+89
+00:03:10,480 --> 00:03:15,680
+know to to a project manager um in
+
+90
+00:03:13,920 --> 00:03:16,959
+Berlin or so and then the project
+
+91
+00:03:15,680 --> 00:03:18,560
+manager would take that build and send
+
+92
+00:03:16,959 --> 00:03:20,400
+it to the customer and explain to them
+
+93
+00:03:18,560 --> 00:03:22,879
+or you have to you know drag and drop
+
+94
+00:03:20,400 --> 00:03:24,879
+that into iTunes and connect you know uh
+
+95
+00:03:22,879 --> 00:03:26,720
+uh the dock cable and and all these kind
+
+96
+00:03:24,879 --> 00:03:28,319
+of things. since we made that way easier
+
+97
+00:03:26,720 --> 00:03:30,000
+which made our own life easier and I
+
+98
+00:03:28,319 --> 00:03:31,519
+think those are some of the greatest
+
+99
+00:03:30,000 --> 00:03:34,400
+startup ideas when you're using it
+
+100
+00:03:31,519 --> 00:03:36,159
+yourself uh uh day in day out and then
+
+101
+00:03:34,400 --> 00:03:37,280
+improving it um based on the feedback
+
+102
+00:03:36,159 --> 00:03:38,959
+that you're getting from your own
+
+103
+00:03:37,280 --> 00:03:40,799
+customers. So we basically started
+
+104
+00:03:38,959 --> 00:03:42,400
+building out the the hockey app business
+
+105
+00:03:40,799 --> 00:03:45,040
+while we had the the contracting
+
+106
+00:03:42,400 --> 00:03:47,120
+business and they were companies um both
+
+107
+00:03:45,040 --> 00:03:50,080
+about the same size and um when
+
+108
+00:03:47,120 --> 00:03:52,080
+Microsoft came in in 2014, we thought
+
+109
+00:03:50,080 --> 00:03:53,440
+they would only buy the hockey air
+
+110
+00:03:52,080 --> 00:03:55,680
+platform and the product business and
+
+111
+00:03:53,440 --> 00:03:58,000
+and leave the contracting business alone
+
+112
+00:03:55,680 --> 00:04:00,640
+uh given there were existing customer uh
+
+113
+00:03:58,000 --> 00:04:02,799
+contracts and and what have you. uh but
+
+114
+00:04:00,640 --> 00:04:04,640
+in fact Microsoft bought both companies
+
+115
+00:04:02,799 --> 00:04:06,720
+uh the the subsidiary the product
+
+116
+00:04:04,640 --> 00:04:08,400
+company and the the mothership the the
+
+117
+00:04:06,720 --> 00:04:10,640
+contracting company because the
+
+118
+00:04:08,400 --> 00:04:12,720
+contracting company had a number of iOS
+
+119
+00:04:10,640 --> 00:04:15,760
+and Android developers uh that were a
+
+120
+00:04:12,720 --> 00:04:18,560
+hot commodity uh in 2014 and and hard to
+
+121
+00:04:15,760 --> 00:04:20,479
+hire um certainly you know at at startup
+
+122
+00:04:18,560 --> 00:04:22,639
+rates and so Microsoft actually took
+
+123
+00:04:20,479 --> 00:04:25,600
+over both of those companies and uh a
+
+124
+00:04:22,639 --> 00:04:28,000
+fun funny story is today of these 11
+
+125
+00:04:25,600 --> 00:04:30,639
+employees seven including myself work
+
+126
+00:04:28,000 --> 00:04:32,639
+for GitHub and so different paths Um uh
+
+127
+00:04:30,639 --> 00:04:34,160
+they all got to Microsoft and then from
+
+128
+00:04:32,639 --> 00:04:37,759
+Microsoft into GitHub. You know coming
+
+129
+00:04:34,160 --> 00:04:39,759
+from a small company of of our size
+
+130
+00:04:37,759 --> 00:04:42,240
+based in Germany in Stutka Germany,
+
+131
+00:04:39,759 --> 00:04:44,240
+southwest Germany. Uh moving you know
+
+132
+00:04:42,240 --> 00:04:46,720
+halfway around the world I moved with my
+
+133
+00:04:44,240 --> 00:04:49,040
+wife and back then two very young kids
+
+134
+00:04:46,720 --> 00:04:51,919
+uh to Seattle that alone was a big
+
+135
+00:04:49,040 --> 00:04:54,040
+change. And looking back now um 10 years
+
+136
+00:04:51,919 --> 00:04:57,040
+later and we moved we moved in in early
+
+137
+00:04:54,040 --> 00:04:59,759
+2015 it feels all like a blur like
+
+138
+00:04:57,040 --> 00:05:01,280
+things moved so fast and sometimes I
+
+139
+00:04:59,759 --> 00:05:02,800
+don't even realize how we did all that.
+
+140
+00:05:01,280 --> 00:05:04,400
+Our startup was very small and
+
+141
+00:05:02,800 --> 00:05:06,639
+bootstrapped um for the whole time. So
+
+142
+00:05:04,400 --> 00:05:09,039
+we never took any outside investment uh
+
+143
+00:05:06,639 --> 00:05:11,600
+until Microsoft acquired us and at that
+
+144
+00:05:09,039 --> 00:05:13,919
+point in time I think it was about 11 or
+
+145
+00:05:11,600 --> 00:05:16,160
+or 12 employees. a still very small
+
+146
+00:05:13,919 --> 00:05:17,720
+team. all of all of engineers, you know,
+
+147
+00:05:16,160 --> 00:05:20,400
+building building the product together
+
+148
+00:05:17,720 --> 00:05:24,639
+and in some ways you know my role today
+
+149
+00:05:20,400 --> 00:05:27,360
+as GitHub CEO um is very similar uh in
+
+150
+00:05:24,639 --> 00:05:30,320
+that you know um my developer skills uh
+
+151
+00:05:27,360 --> 00:05:32,560
+my understanding of code my um you know
+
+152
+00:05:30,320 --> 00:05:35,120
+empathy for for how software developers
+
+153
+00:05:32,560 --> 00:05:37,600
+work helped me both with my you know
+
+154
+00:05:35,120 --> 00:05:39,600
+internal team of about a thousand uh
+
+155
+00:05:37,600 --> 00:05:41,600
+engineers and with our customer base
+
+156
+00:05:39,600 --> 00:05:43,360
+which are also all software developers
+
+157
+00:05:41,600 --> 00:05:45,280
+or those that aspire to become software
+
+158
+00:05:43,360 --> 00:05:47,440
+developer And so I think you know a lot
+
+159
+00:05:45,280 --> 00:05:50,400
+of the you know my passion for software
+
+160
+00:05:47,440 --> 00:05:55,039
+development is actually perfect you know
+
+161
+00:05:50,400 --> 00:05:55,039
+for me being being the GitHub
+
+162
+00:05:55,720 --> 00:06:00,960
+CEO I don't think I've seen anything
+
+163
+00:05:58,320 --> 00:06:02,880
+more exciting and and and changing how
+
+164
+00:06:00,960 --> 00:06:05,919
+uh we think about software development
+
+165
+00:06:02,880 --> 00:06:07,280
+in my in my 30 plus year career as a
+
+166
+00:06:05,919 --> 00:06:10,160
+software developer. You know, when I
+
+167
+00:06:07,280 --> 00:06:12,240
+started coding in the early 1990s, uh
+
+168
+00:06:10,160 --> 00:06:13,680
+there wasn't even the internet or I I
+
+169
+00:06:12,240 --> 00:06:15,680
+certainly had no internet access and so
+
+170
+00:06:13,680 --> 00:06:17,919
+I had to figure it all out all out all
+
+171
+00:06:15,680 --> 00:06:20,720
+by myself with with books, with
+
+172
+00:06:17,919 --> 00:06:22,240
+magazines, um going to computer club in
+
+173
+00:06:20,720 --> 00:06:24,160
+the community center kind of hoping that
+
+174
+00:06:22,240 --> 00:06:26,000
+somebody will be there. Um if we fast
+
+175
+00:06:24,160 --> 00:06:28,880
+forward to where we are now is that it's
+
+176
+00:06:26,000 --> 00:06:30,160
+so much easier to get into into software
+
+177
+00:06:28,880 --> 00:06:32,720
+development. you can, you know, just
+
+178
+00:06:30,160 --> 00:06:35,680
+write a prompt into Copilot or or Chat
+
+179
+00:06:32,720 --> 00:06:38,160
+GPT or or similar tools and it uh will
+
+180
+00:06:35,680 --> 00:06:41,280
+likely write you um um you know, a basic
+
+181
+00:06:38,160 --> 00:06:45,039
+web page um or a small uh application, a
+
+182
+00:06:41,280 --> 00:06:46,800
+game uh in Python. And so AI makes
+
+183
+00:06:45,039 --> 00:06:48,720
+software development uh so much more
+
+184
+00:06:46,800 --> 00:06:50,160
+accessible um for anyone who wants to
+
+185
+00:06:48,720 --> 00:06:51,919
+learn coding. And on the other side of
+
+186
+00:06:50,160 --> 00:06:54,400
+the spectrum, it makes developers so
+
+187
+00:06:51,919 --> 00:06:57,280
+much more productive. Most uh developers
+
+188
+00:06:54,400 --> 00:06:59,039
+that uh work on a project have way uh
+
+189
+00:06:57,280 --> 00:07:01,280
+too much work to do. uh they have long
+
+190
+00:06:59,039 --> 00:07:03,440
+backlogs um of their own ideas of
+
+191
+00:07:01,280 --> 00:07:04,960
+customer feedback, you know, uh things
+
+192
+00:07:03,440 --> 00:07:07,039
+that they're hearing from their managers
+
+193
+00:07:04,960 --> 00:07:10,240
+or from the market or what they're
+
+194
+00:07:07,039 --> 00:07:12,240
+seeing at competitors. And so almost any
+
+195
+00:07:10,240 --> 00:07:14,560
+software project that has a certain, you
+
+196
+00:07:12,240 --> 00:07:16,479
+know, age um has way too much work on
+
+197
+00:07:14,560 --> 00:07:18,479
+the innovation side, but they also have
+
+198
+00:07:16,479 --> 00:07:20,560
+what we call technical debt. Uh you
+
+199
+00:07:18,479 --> 00:07:22,960
+know, legacy code, things that have, you
+
+200
+00:07:20,560 --> 00:07:24,800
+know, been created over over months or
+
+201
+00:07:22,960 --> 00:07:26,560
+years that need a cleanup, that need
+
+202
+00:07:24,800 --> 00:07:28,240
+what we call refactoring. And so
+
+203
+00:07:26,560 --> 00:07:29,520
+engineers constantly balance those two
+
+204
+00:07:28,240 --> 00:07:31,360
+backlogs. So having something that
+
+205
+00:07:29,520 --> 00:07:34,400
+brings the effort down and makes them
+
+206
+00:07:31,360 --> 00:07:37,520
+you know 10% 20% maybe even 50% more
+
+207
+00:07:34,400 --> 00:07:39,680
+productive is is completely changing uh
+
+208
+00:07:37,520 --> 00:07:41,759
+how software developers work. the role
+
+209
+00:07:39,680 --> 00:07:43,520
+of GitHub you know in this in the first
+
+210
+00:07:41,759 --> 00:07:45,280
+uh let's say you know five years of the
+
+211
+00:07:43,520 --> 00:07:47,520
+age of AI um given that we started
+
+212
+00:07:45,280 --> 00:07:51,120
+working on GitHub copilot in uh June
+
+213
+00:07:47,520 --> 00:07:53,280
+2020 right after uh GP3 uh uh was was
+
+214
+00:07:51,120 --> 00:07:55,599
+first shown to the world is that we want
+
+215
+00:07:53,280 --> 00:07:58,479
+to be you know on the forefront um of uh
+
+216
+00:07:55,599 --> 00:08:01,039
+AI code generation we want to provide um
+
+217
+00:07:58,479 --> 00:08:03,840
+tools to developer to be more productive
+
+218
+00:08:01,039 --> 00:08:05,919
+and more happy uh when when writing code
+
+219
+00:08:03,840 --> 00:08:08,240
+because the reality is the dream I think
+
+220
+00:08:05,919 --> 00:08:11,360
+for most developers that start their
+
+221
+00:08:08,240 --> 00:08:13,199
+their journey um uh as a programmer is
+
+222
+00:08:11,360 --> 00:08:15,199
+that they have an idea in their head and
+
+223
+00:08:13,199 --> 00:08:17,599
+they're trying to find a way how they
+
+224
+00:08:15,199 --> 00:08:19,759
+can can get the fastest from that idea
+
+225
+00:08:17,599 --> 00:08:21,360
+to an app or or web page or service,
+
+226
+00:08:19,759 --> 00:08:23,759
+right? Like the challenge is not that
+
+227
+00:08:21,360 --> 00:08:25,599
+developers uh uh don't have enough
+
+228
+00:08:23,759 --> 00:08:27,360
+ideas. The challenge is that you take
+
+229
+00:08:25,599 --> 00:08:28,879
+that big idea and you have to break it
+
+230
+00:08:27,360 --> 00:08:30,400
+down into small building blocks. And as
+
+231
+00:08:28,879 --> 00:08:33,120
+you're working on the first block or the
+
+232
+00:08:30,400 --> 00:08:34,640
+first module or the first class or uh
+
+233
+00:08:33,120 --> 00:08:36,800
+micros service, whatever it is, you're
+
+234
+00:08:34,640 --> 00:08:39,360
+you're realizing that this this idea
+
+235
+00:08:36,800 --> 00:08:41,039
+that you have is so much more complex to
+
+236
+00:08:39,360 --> 00:08:43,360
+implement than than you thought. And so
+
+237
+00:08:41,039 --> 00:08:44,720
+from what became a weekend project, it
+
+238
+00:08:43,360 --> 00:08:46,720
+becomes a month-long or sometimes
+
+239
+00:08:44,720 --> 00:08:49,600
+year-long project. And many, you know,
+
+240
+00:08:46,720 --> 00:08:51,200
+apps that, uh, I wrote as a teenager and
+
+241
+00:08:49,600 --> 00:08:53,120
+I know, you know, many of my friends and
+
+242
+00:08:51,200 --> 00:08:54,800
+and my employees wrote never get
+
+243
+00:08:53,120 --> 00:08:56,320
+anywhere because you you ultimately
+
+244
+00:08:54,800 --> 00:08:57,920
+realize it's much more complex than you
+
+245
+00:08:56,320 --> 00:08:59,920
+thought and it's not worth spending the
+
+246
+00:08:57,920 --> 00:09:01,200
+time on it. And in in the world that we
+
+247
+00:08:59,920 --> 00:09:02,640
+live today, you can always, you know,
+
+248
+00:09:01,200 --> 00:09:04,480
+download an app from the app store or
+
+249
+00:09:02,640 --> 00:09:06,320
+find, you know, some online service that
+
+250
+00:09:04,480 --> 00:09:08,240
+does the same thing. So, I think AI
+
+251
+00:09:06,320 --> 00:09:10,560
+helps us, you know, to realize the dream
+
+252
+00:09:08,240 --> 00:09:12,720
+of taking an idea and implementing it
+
+253
+00:09:10,560 --> 00:09:14,640
+much faster. And you see um some of the
+
+254
+00:09:12,720 --> 00:09:16,560
+early signs of that where very small
+
+255
+00:09:14,640 --> 00:09:18,320
+startups sometimes you know five
+
+256
+00:09:16,560 --> 00:09:20,720
+developers um and some of them actually
+
+257
+00:09:18,320 --> 00:09:22,640
+only one developers uh uh believe they
+
+258
+00:09:20,720 --> 00:09:25,040
+can become million uh if not billion
+
+259
+00:09:22,640 --> 00:09:27,360
+dollar businesses by leveraging all the
+
+260
+00:09:25,040 --> 00:09:29,600
+AI agents uh that are available to them
+
+261
+00:09:27,360 --> 00:09:31,519
+and maybe building their own uh to to
+
+262
+00:09:29,600 --> 00:09:33,440
+write code uh to write software much
+
+263
+00:09:31,519 --> 00:09:35,360
+faster. Now the flip side of that is
+
+264
+00:09:33,440 --> 00:09:36,959
+that you know uh I don't think we're
+
+265
+00:09:35,360 --> 00:09:38,640
+anywhere close to a world where you can
+
+266
+00:09:36,959 --> 00:09:41,200
+just write a single prompt and say build
+
+267
+00:09:38,640 --> 00:09:43,360
+GitHub and then an AI agent builds all
+
+268
+00:09:41,200 --> 00:09:45,680
+of the features of GitHub um or even
+
+269
+00:09:43,360 --> 00:09:47,760
+just the very basic primitives like
+
+270
+00:09:45,680 --> 00:09:50,800
+repository storage you know git storage
+
+271
+00:09:47,760 --> 00:09:53,519
+and uh issue tracking um because the the
+
+272
+00:09:50,800 --> 00:09:55,360
+decisions um that we as developers as
+
+273
+00:09:53,519 --> 00:09:57,440
+engineers as product managers have to
+
+274
+00:09:55,360 --> 00:09:59,760
+make to build a complex system like
+
+275
+00:09:57,440 --> 00:10:01,600
+GitHub you know thousands if not tens of
+
+276
+00:09:59,760 --> 00:10:02,560
+thousands decisions um there's the
+
+277
+00:10:01,600 --> 00:10:04,000
+simple ones, right? Like which
+
+278
+00:10:02,560 --> 00:10:06,160
+programming language, which which open
+
+279
+00:10:04,000 --> 00:10:08,160
+source framework, which cloud to use or
+
+280
+00:10:06,160 --> 00:10:10,080
+do we even use a cloud, which operating
+
+281
+00:10:08,160 --> 00:10:12,240
+system and and so on. But there's the
+
+282
+00:10:10,080 --> 00:10:14,399
+much more complex decisions of how you
+
+283
+00:10:12,240 --> 00:10:16,240
+architect the system, you know, are you
+
+284
+00:10:14,399 --> 00:10:18,320
+building a monolith and or you building
+
+285
+00:10:16,240 --> 00:10:19,920
+microservices? And getting to a point
+
+286
+00:10:18,320 --> 00:10:22,000
+where agents can make all these
+
+287
+00:10:19,920 --> 00:10:23,680
+decisions and write an app that actually
+
+288
+00:10:22,000 --> 00:10:25,519
+is a viable business, you know, finds
+
+289
+00:10:23,680 --> 00:10:27,200
+product market fit, has a great user
+
+290
+00:10:25,519 --> 00:10:30,079
+experience, and and ultimately generates
+
+291
+00:10:27,200 --> 00:10:31,680
+both revenue and profit. uh because any
+
+292
+00:10:30,079 --> 00:10:32,880
+business at some point has to get to the
+
+293
+00:10:31,680 --> 00:10:34,480
+place where they're making profit and
+
+294
+00:10:32,880 --> 00:10:36,160
+and return that profit to the to the
+
+295
+00:10:34,480 --> 00:10:37,839
+founders or shareholders that I think
+
+296
+00:10:36,160 --> 00:10:40,399
+we're we're quite far away and so we
+
+297
+00:10:37,839 --> 00:10:42,160
+need uh engineers uh to do engineering
+
+298
+00:10:40,399 --> 00:10:45,360
+stuff. They they need to exercise their
+
+299
+00:10:42,160 --> 00:10:47,519
+craft and uh apply systems thinking and
+
+300
+00:10:45,360 --> 00:10:50,519
+design and and and build really great
+
+301
+00:10:47,519 --> 00:10:50,519
+applications.
+
+302
+00:10:51,440 --> 00:10:56,000
+I think the unique thing about GitHub is
+
+303
+00:10:53,440 --> 00:10:58,880
+its size and both the love uh that
+
+304
+00:10:56,000 --> 00:11:01,760
+developers have for you know our brand
+
+305
+00:10:58,880 --> 00:11:04,959
+um for our mascot um the octoat or we
+
+306
+00:11:01,760 --> 00:11:07,360
+call it internally Mona um and um the
+
+307
+00:11:04,959 --> 00:11:09,600
+reputation uh that GitHub has created
+
+308
+00:11:07,360 --> 00:11:11,680
+for itself um since the very early days
+
+309
+00:11:09,600 --> 00:11:13,920
+since the I remember the early launch of
+
+310
+00:11:11,680 --> 00:11:16,000
+GitHub and and meeting um or seeing um
+
+311
+00:11:13,920 --> 00:11:19,040
+Chris one of the founders speaking at
+
+312
+00:11:16,000 --> 00:11:20,560
+RailsCon in in Las Vegas in in 2009 and
+
+313
+00:11:19,040 --> 00:11:23,279
+then signing up for my own account and
+
+314
+00:11:20,560 --> 00:11:26,160
+and started using it. I I was excited
+
+315
+00:11:23,279 --> 00:11:27,839
+about using GitHub and now we are in in
+
+316
+00:11:26,160 --> 00:11:30,240
+2025 and there are still many people
+
+317
+00:11:27,839 --> 00:11:32,720
+that uh love GitHub but you know what
+
+318
+00:11:30,240 --> 00:11:34,720
+what comes with love is also that you're
+
+319
+00:11:32,720 --> 00:11:37,839
+not holding back your criticism and that
+
+320
+00:11:34,720 --> 00:11:40,000
+we have 150 million users and uh on the
+
+321
+00:11:37,839 --> 00:11:42,320
+platform and so there's at least you
+
+322
+00:11:40,000 --> 00:11:44,079
+know a million opinions of what are the
+
+323
+00:11:42,320 --> 00:11:45,600
+things we should invest on and what's
+
+324
+00:11:44,079 --> 00:11:47,279
+working well and and what's not working
+
+325
+00:11:45,600 --> 00:11:50,000
+well and what's the one feature that is
+
+326
+00:11:47,279 --> 00:11:52,320
+important you know to that set of users
+
+327
+00:11:50,000 --> 00:11:54,079
+while it's not important uh to to me and
+
+328
+00:11:52,320 --> 00:11:56,320
+and my product leadership team because
+
+329
+00:11:54,079 --> 00:11:58,240
+we have you know our own uh strategy and
+
+330
+00:11:56,320 --> 00:12:00,560
+decisions to make. So filtering out the
+
+331
+00:11:58,240 --> 00:12:03,040
+signal from the noise and I don't mean
+
+332
+00:12:00,560 --> 00:12:05,200
+noise in any negative way just so much
+
+333
+00:12:03,040 --> 00:12:07,040
+feedback that we're getting. I remember
+
+334
+00:12:05,200 --> 00:12:09,360
+when we when we did the acquisition in
+
+335
+00:12:07,040 --> 00:12:11,120
+2018 and I joined GitHub and afterwards
+
+336
+00:12:09,360 --> 00:12:12,880
+um we sent an email to 10 GitHub users
+
+337
+00:12:11,120 --> 00:12:14,399
+and say hey we we're looking into a new
+
+338
+00:12:12,880 --> 00:12:16,079
+project we would love your feedback. I
+
+339
+00:12:14,399 --> 00:12:17,760
+think we got nine responses of exciting
+
+340
+00:12:16,079 --> 00:12:20,000
+users saying if you want to I want to
+
+341
+00:12:17,760 --> 00:12:21,839
+provide feedback. If you do that in many
+
+342
+00:12:20,000 --> 00:12:23,360
+other companies and startups you get one
+
+343
+00:12:21,839 --> 00:12:25,440
+response and the one response is kind of
+
+344
+00:12:23,360 --> 00:12:27,279
+like well I have like 10 minutes time to
+
+345
+00:12:25,440 --> 00:12:29,839
+to give you some feedback. There's just
+
+346
+00:12:27,279 --> 00:12:32,160
+so much um uh uh information that's
+
+347
+00:12:29,839 --> 00:12:34,000
+that's coming back to us um on on social
+
+348
+00:12:32,160 --> 00:12:35,440
+media and our platform in email and
+
+349
+00:12:34,000 --> 00:12:37,040
+support tickets and so on. The second
+
+350
+00:12:35,440 --> 00:12:39,600
+piece you know that comes to mind is
+
+351
+00:12:37,040 --> 00:12:41,519
+that GitHub um for the longest time has
+
+352
+00:12:39,600 --> 00:12:43,680
+been a company with a very strong remote
+
+353
+00:12:41,519 --> 00:12:46,160
+culture like long before co uh the
+
+354
+00:12:43,680 --> 00:12:48,800
+GitHub founders started hiring um
+
+355
+00:12:46,160 --> 00:12:50,959
+developers uh sales folks support folks
+
+356
+00:12:48,800 --> 00:12:53,040
+all over the world and today I think
+
+357
+00:12:50,959 --> 00:12:54,959
+we're one of the largest remote only
+
+358
+00:12:53,040 --> 00:12:58,320
+companies where all work you know from
+
+359
+00:12:54,959 --> 00:13:00,959
+our homes or from you know hotel in in
+
+360
+00:12:58,320 --> 00:13:03,360
+soul um or from from wherever we are and
+
+361
+00:13:00,959 --> 00:13:05,200
+so a lot of um our culture is focused
+
+362
+00:13:03,360 --> 00:13:07,600
+around GitHub as a platform form which
+
+363
+00:13:05,200 --> 00:13:11,040
+obviously through open source encourages
+
+364
+00:13:07,600 --> 00:13:14,320
+um uh asynchronous uh collaboration uh
+
+365
+00:13:11,040 --> 00:13:17,839
+and then tools like Slack um um and and
+
+366
+00:13:14,320 --> 00:13:20,000
+video video calls um uh that we use much
+
+367
+00:13:17,839 --> 00:13:22,160
+more heavily internally than we're using
+
+368
+00:13:20,000 --> 00:13:24,160
+email like like old school uh companies
+
+369
+00:13:22,160 --> 00:13:26,160
+do. And so when I wake up in the morning
+
+370
+00:13:24,160 --> 00:13:28,560
+especially here you know in Seoul uh
+
+371
+00:13:26,160 --> 00:13:31,440
+which is like lots of time zones away uh
+
+372
+00:13:28,560 --> 00:13:33,360
+from from the US uh where about 80% of
+
+373
+00:13:31,440 --> 00:13:36,480
+our employee population is is that I
+
+374
+00:13:33,360 --> 00:13:38,480
+wake up to 30 40 Slack messages plus you
+
+375
+00:13:36,480 --> 00:13:40,240
+know uh uh hundreds of channels uh with
+
+376
+00:13:38,480 --> 00:13:41,680
+with conversation and then figuring out
+
+377
+00:13:40,240 --> 00:13:44,480
+you know what is actually important for
+
+378
+00:13:41,680 --> 00:13:46,560
+me as CEO what what to react to what can
+
+379
+00:13:44,480 --> 00:13:49,040
+I snooze uh for a while and what can I
+
+380
+00:13:46,560 --> 00:13:50,959
+just ignore that that's the you know a
+
+381
+00:13:49,040 --> 00:13:53,279
+big part of my job but it's also so
+
+382
+00:13:50,959 --> 00:13:55,920
+exciting because you know, I can be here
+
+383
+00:13:53,279 --> 00:13:58,160
+in South Korea um at at this event and
+
+384
+00:13:55,920 --> 00:13:59,680
+and still still run the company. And a
+
+385
+00:13:58,160 --> 00:14:01,440
+lot of, you know, what we do on a
+
+386
+00:13:59,680 --> 00:14:02,880
+day-to-day basis doesn't actually matter
+
+387
+00:14:01,440 --> 00:14:04,800
+whether I'm here in Seoul, or whether
+
+388
+00:14:02,880 --> 00:14:06,240
+I'm in Berlin or whether in I'm in New
+
+389
+00:14:04,800 --> 00:14:08,639
+York or anywhere else in the world. And
+
+390
+00:14:06,240 --> 00:14:10,560
+and I think that's for for many hubbers,
+
+391
+00:14:08,639 --> 00:14:12,639
+how we call our employees. A really
+
+392
+00:14:10,560 --> 00:14:14,959
+strong part of our culture that we are
+
+393
+00:14:12,639 --> 00:14:17,440
+remote company. Uh it's not related to
+
+394
+00:14:14,959 --> 00:14:19,360
+the pandemic. It's a choice that we made
+
+395
+00:14:17,440 --> 00:14:21,600
+of how we want to run the company. you
+
+396
+00:14:19,360 --> 00:14:25,440
+know how we select GitHub as an employer
+
+397
+00:14:21,600 --> 00:14:25,440
+and ultimately how we believe we can be
+
+398
+00:14:26,199 --> 00:14:31,600
+successful. I first of all I strongly
+
+399
+00:14:28,560 --> 00:14:33,120
+believe that every kid uh every child
+
+400
+00:14:31,600 --> 00:14:34,480
+should learn coding and we should
+
+401
+00:14:33,120 --> 00:14:36,240
+actually teach them coding in school in
+
+402
+00:14:34,480 --> 00:14:38,480
+the same way that we teach them physics
+
+403
+00:14:36,240 --> 00:14:40,320
+and geography and uh you know literacy
+
+404
+00:14:38,480 --> 00:14:42,399
+and math and whatnot. Those are all
+
+405
+00:14:40,320 --> 00:14:44,320
+fundamental skills. Coding is one such
+
+406
+00:14:42,399 --> 00:14:46,000
+skill and it just has taken us too long
+
+407
+00:14:44,320 --> 00:14:48,320
+to actually realize that because
+
+408
+00:14:46,000 --> 00:14:50,000
+software is everywhere. Um hardware is
+
+409
+00:14:48,320 --> 00:14:51,680
+also everywhere. We carry we carry both
+
+410
+00:14:50,000 --> 00:14:53,839
+software and hardware with us uh through
+
+411
+00:14:51,680 --> 00:14:55,440
+our day. And in fact our day-to-day is
+
+412
+00:14:53,839 --> 00:14:58,240
+dominated by software already. You can't
+
+413
+00:14:55,440 --> 00:14:59,760
+really uh live your life uh travel um
+
+414
+00:14:58,240 --> 00:15:02,320
+wake up in the morning without software
+
+415
+00:14:59,760 --> 00:15:04,959
+anymore. And I think as as humans it is
+
+416
+00:15:02,320 --> 00:15:07,360
+crucial to not only be in read only mode
+
+417
+00:15:04,959 --> 00:15:09,360
+but also be able to create uh things
+
+418
+00:15:07,360 --> 00:15:11,040
+ourselves or at least understand how how
+
+419
+00:15:09,360 --> 00:15:12,800
+creation is done on these devices. That
+
+420
+00:15:11,040 --> 00:15:14,399
+doesn't mean that every you know 18
+
+421
+00:15:12,800 --> 00:15:16,000
+19year-old when they leave high school
+
+422
+00:15:14,399 --> 00:15:18,639
+become a software developer. In the same
+
+423
+00:15:16,000 --> 00:15:20,240
+way that not every uh uh kid that learns
+
+424
+00:15:18,639 --> 00:15:21,839
+physics or or chemistry in school
+
+425
+00:15:20,240 --> 00:15:23,279
+becomes a physicist, right? Just because
+
+426
+00:15:21,839 --> 00:15:24,480
+you learn those fundamental skills
+
+427
+00:15:23,279 --> 00:15:26,079
+doesn't mean that you decide for
+
+428
+00:15:24,480 --> 00:15:27,839
+yourself that that's the career path to
+
+429
+00:15:26,079 --> 00:15:29,440
+take. So that's number one. You you got
+
+430
+00:15:27,839 --> 00:15:31,839
+to you got to learn coding. I think
+
+431
+00:15:29,440 --> 00:15:34,639
+number number two is you got to use AI
+
+432
+00:15:31,839 --> 00:15:36,639
+to do that. And and you know whether
+
+433
+00:15:34,639 --> 00:15:39,199
+it's here in Korea or in Germany uh most
+
+434
+00:15:36,639 --> 00:15:41,120
+kids um uh and in fact you know most
+
+435
+00:15:39,199 --> 00:15:42,800
+most people don't speak fluent English
+
+436
+00:15:41,120 --> 00:15:44,320
+um which is the primary language of
+
+437
+00:15:42,800 --> 00:15:46,079
+software development. And so it
+
+438
+00:15:44,320 --> 00:15:47,920
+democratizes access to technology and
+
+439
+00:15:46,079 --> 00:15:50,160
+that's true for many other uh things in
+
+440
+00:15:47,920 --> 00:15:52,079
+the world. And so having uh an agent
+
+441
+00:15:50,160 --> 00:15:54,000
+available uh that answers you any
+
+442
+00:15:52,079 --> 00:15:56,079
+question but also lets you you know
+
+443
+00:15:54,000 --> 00:15:57,680
+realize your dream building your dream
+
+444
+00:15:56,079 --> 00:15:59,519
+uh is incredibly exciting. And then the
+
+445
+00:15:57,680 --> 00:16:01,440
+third thing you know for anyone who is
+
+446
+00:15:59,519 --> 00:16:03,120
+already a software developer or wants to
+
+447
+00:16:01,440 --> 00:16:04,880
+you know develop their craft is you got
+
+448
+00:16:03,120 --> 00:16:06,720
+to keep you got to keep rehearsing. You
+
+449
+00:16:04,880 --> 00:16:08,560
+got to keep training. Yeah. You got to
+
+450
+00:16:06,720 --> 00:16:10,240
+keep learning. There's you're never done
+
+451
+00:16:08,560 --> 00:16:11,680
+with learning. If I look back 30 years
+
+452
+00:16:10,240 --> 00:16:13,759
+of what development looked like back
+
+453
+00:16:11,680 --> 00:16:15,519
+then and what it looks like now, um I
+
+454
+00:16:13,759 --> 00:16:17,759
+would have been, you know, um very
+
+455
+00:16:15,519 --> 00:16:20,560
+behind if I hadn't constantly read blog
+
+456
+00:16:17,759 --> 00:16:22,880
+posts, um uh literature and and tried
+
+457
+00:16:20,560 --> 00:16:24,560
+out things myself. So I think those are
+
+458
+00:16:22,880 --> 00:16:26,639
+uh as as crucial as they were in the '
+
+459
+00:16:24,560 --> 00:16:27,920
+90s, they are still crucial in 2025. You
+
+460
+00:16:26,639 --> 00:16:30,079
+just have so much more access to
+
+461
+00:16:27,920 --> 00:16:32,399
+information uh to become, you know, top
+
+462
+00:16:30,079 --> 00:16:32,399
+of the
+
+463
+00:16:32,920 --> 00:16:37,360
+field. The obvious answer is that I most
+
+464
+00:16:35,440 --> 00:16:40,160
+enjoy using GitHub Copi, right? like
+
+465
+00:16:37,360 --> 00:16:42,240
+that's our product. Uh it's our baby. Uh
+
+466
+00:16:40,160 --> 00:16:44,800
+we're working on this day in day out. I
+
+467
+00:16:42,240 --> 00:16:46,959
+often, you know, uh see features long
+
+468
+00:16:44,800 --> 00:16:48,639
+before the world sees that. And and the
+
+469
+00:16:46,959 --> 00:16:50,079
+flip side is also true that I often
+
+470
+00:16:48,639 --> 00:16:51,920
+don't actually know what's shipped
+
+471
+00:16:50,079 --> 00:16:54,720
+versus what is, you know, in in preview
+
+472
+00:16:51,920 --> 00:16:56,160
+or in in internal ships. And so I'm
+
+473
+00:16:54,720 --> 00:16:57,839
+daily excited about what we're building
+
+474
+00:16:56,160 --> 00:17:00,000
+there and I'm using a lot of that myself
+
+475
+00:16:57,839 --> 00:17:01,519
+as I am at heart a developer. And
+
+476
+00:17:00,000 --> 00:17:04,000
+sometimes it's very simple, you know,
+
+477
+00:17:01,519 --> 00:17:05,839
+asking it to to write me a quick script
+
+478
+00:17:04,000 --> 00:17:08,720
+that that downloads, you know, ids of
+
+479
+00:17:05,839 --> 00:17:10,160
+all our repositories um from our API.
+
+480
+00:17:08,720 --> 00:17:11,679
+And in the past, I would have gone, you
+
+481
+00:17:10,160 --> 00:17:13,360
+know, to our API documentation and
+
+482
+00:17:11,679 --> 00:17:15,199
+figure that out all myself and probably
+
+483
+00:17:13,360 --> 00:17:18,160
+would have taken me like half an hour to
+
+484
+00:17:15,199 --> 00:17:20,000
+to get to, you know, a shell script that
+
+485
+00:17:18,160 --> 00:17:22,000
+does that. Today, I just ask Copil and
+
+486
+00:17:20,000 --> 00:17:24,079
+it writes me the script and it works
+
+487
+00:17:22,000 --> 00:17:25,919
+within within minutes. Um, and I think
+
+488
+00:17:24,079 --> 00:17:27,520
+actually that's the one of the true
+
+489
+00:17:25,919 --> 00:17:29,520
+superpowers of AI. Whether that's
+
+490
+00:17:27,520 --> 00:17:32,000
+learning to code or exploring the world,
+
+491
+00:17:29,520 --> 00:17:33,600
+you have um an assistant available to
+
+492
+00:17:32,000 --> 00:17:35,360
+you that has infinite patience. You
+
+493
+00:17:33,600 --> 00:17:37,360
+know, it doesn't judge you. Um, it will,
+
+494
+00:17:35,360 --> 00:17:39,039
+you know, chat GPT or co-pilot never
+
+495
+00:17:37,360 --> 00:17:40,880
+tells you what what a stupid question
+
+496
+00:17:39,039 --> 00:17:42,559
+is. It always gives you an answer and it
+
+497
+00:17:40,880 --> 00:17:44,720
+even accepts when you tell it it's wrong
+
+498
+00:17:42,559 --> 00:17:46,160
+or it needs to, you know, explore the
+
+499
+00:17:44,720 --> 00:17:48,400
+topic a little bit further. You know,
+
+500
+00:17:46,160 --> 00:17:50,720
+you have seen uh the prompt examples
+
+501
+00:17:48,400 --> 00:17:52,240
+where by telling it to outline its
+
+502
+00:17:50,720 --> 00:17:54,799
+thought process, it actually gets to a
+
+503
+00:17:52,240 --> 00:17:56,799
+better answer. I love using it for my
+
+504
+00:17:54,799 --> 00:17:59,840
+blog posts and PowerPoint presentation
+
+505
+00:17:56,799 --> 00:18:02,240
+to just uh generate some images and and
+
+506
+00:17:59,840 --> 00:18:04,320
+play with that. Um I'm I'm really bad at
+
+507
+00:18:02,240 --> 00:18:06,480
+using Photoshop and and and drawing
+
+508
+00:18:04,320 --> 00:18:08,480
+myself, but I'm I'm really creative and
+
+509
+00:18:06,480 --> 00:18:10,240
+I can write prompts and and figure out
+
+510
+00:18:08,480 --> 00:18:12,640
+how to rewrite the prompt to make the
+
+511
+00:18:10,240 --> 00:18:14,000
+image look more than uh more more
+
+512
+00:18:12,640 --> 00:18:15,520
+closely to what I had in my head.
+
+513
+00:18:14,000 --> 00:18:17,280
+There's, you know, tools that we're
+
+514
+00:18:15,520 --> 00:18:18,799
+using like teams copilot to summarize
+
+515
+00:18:17,280 --> 00:18:20,640
+meetings, especially when I I'm on
+
+516
+00:18:18,799 --> 00:18:22,480
+business trips like that. Um, where I
+
+517
+00:18:20,640 --> 00:18:24,320
+miss a lot of the meetings that happen
+
+518
+00:18:22,480 --> 00:18:26,080
+uh in on the west coast and west coast
+
+519
+00:18:24,320 --> 00:18:28,160
+time zone. Just getting a summary,
+
+520
+00:18:26,080 --> 00:18:30,640
+figuring out other action items for me.
+
+521
+00:18:28,160 --> 00:18:32,320
+Uh, same for summarizing emails. Um, uh,
+
+522
+00:18:30,640 --> 00:18:34,160
+you know, using something like reclaim
+
+523
+00:18:32,320 --> 00:18:35,840
+AI to to manage my calendar. Those
+
+524
+00:18:34,160 --> 00:18:37,840
+things are making me more productive.
+
+525
+00:18:35,840 --> 00:18:39,840
+And I think the really exciting thing is
+
+526
+00:18:37,840 --> 00:18:42,240
+that there's always a new tool to try
+
+527
+00:18:39,840 --> 00:18:44,559
+out and see is that how far along that
+
+528
+00:18:42,240 --> 00:18:46,000
+journey is AI and how much more do we
+
+529
+00:18:44,559 --> 00:18:48,320
+still have to do as an industry to
+
+530
+00:18:46,000 --> 00:18:50,240
+actually get to that to that dream of of
+
+531
+00:18:48,320 --> 00:18:51,840
+having an orchestra of agent uh that
+
+532
+00:18:50,240 --> 00:18:55,039
+that we're controlling during our
+
+533
+00:18:51,840 --> 00:18:55,039
+personal and in our professional lives.
+

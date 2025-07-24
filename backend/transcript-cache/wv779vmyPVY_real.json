@@ -1,0 +1,1306 @@
+{
+  "success": true,
+  "videoId": "wv779vmyPVY",
+  "videoTitle": "How Stanford Teaches AI-Powered Creativity in Just 13 MinutesㅣJeremy Utley",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "I've always been jealous of Winston"
+    },
+    {
+      "start": 2,
+      "text": "Churchill. There's a quote, by the way,"
+    },
+    {
+      "start": 4,
+      "text": "the history of innovation is the bed,"
+    },
+    {
+      "start": 6,
+      "text": "the bus, and the bathtub. It's always"
+    },
+    {
+      "start": 9,
+      "text": "these moments when we're not really"
+    },
+    {
+      "start": 10,
+      "text": "thinking about work or we're kind of"
+    },
+    {
+      "start": 12,
+      "text": "doing something else that good ideas"
+    },
+    {
+      "start": 14,
+      "text": "come to us. Winston Churchill, he's"
+    },
+    {
+      "start": 16,
+      "text": "sitting in the bathtub and he's"
+    },
+    {
+      "start": 18,
+      "text": "dictating a national address to his"
+    },
+    {
+      "start": 20,
+      "text": "assistant who's in the other room. She's"
+    },
+    {
+      "start": 22,
+      "text": "saying, \"Distinguished ladies and"
+    },
+    {
+      "start": 24,
+      "text": "gentlemen, don't call them"
+    },
+    {
+      "start": 26,
+      "text": "distinguished. They're not just, this is"
+    },
+    {
+      "start": 28,
+      "text": "the Gary Oldman version, they're not"
+    },
+    {
+      "start": 30,
+      "text": "distinguished, you know, dear ladies and"
+    },
+    {
+      "start": 33,
+      "text": "gentlemen, we have gathered together."
+    },
+    {
+      "start": 35,
+      "text": "Get to the point, you know, and I'm"
+    },
+    {
+      "start": 38,
+      "text": "watching this going, I would give"
+    },
+    {
+      "start": 41,
+      "text": "anything to have an assistant who"
+    },
+    {
+      "start": 43,
+      "text": "understood my context and my voice and"
+    },
+    {
+      "start": 46,
+      "text": "my intent well enough that I could sit"
+    },
+    {
+      "start": 48,
+      "text": "in the bath and they could write my"
+    },
+    {
+      "start": 50,
+      "text": "speech. Now, the poorest villager in"
+    },
+    {
+      "start": 53,
+      "text": "PaloAlto can have what only Winston"
+    },
+    {
+      "start": 56,
+      "text": "Churchill used to have, which is an"
+    },
+    {
+      "start": 59,
+      "text": "assistant that has my context and my"
+    },
+    {
+      "start": 61,
+      "text": "voice and my intent available to me so"
+    },
+    {
+      "start": 64,
+      "text": "that when I'm in the bathtub, I can be"
+    },
+    {
+      "start": 67,
+      "text": "dictating my address. That is absolutely"
+    },
+    {
+      "start": 70,
+      "text": "technically possible today."
+    },
+    {
+      "start": 74,
+      "text": "[Music]"
+    },
+    {
+      "start": 80,
+      "text": "I'm Jeremy Utley. I am an adjunct"
+    },
+    {
+      "start": 82,
+      "text": "professor of creativity and AI at"
+    },
+    {
+      "start": 85,
+      "text": "Stanford University. I've been teaching"
+    },
+    {
+      "start": 87,
+      "text": "at Stanford for the last 15 years at the"
+    },
+    {
+      "start": 90,
+      "text": "intersection of creativity, innovation,"
+    },
+    {
+      "start": 92,
+      "text": "entrepreneurship, and now increasingly"
+    },
+    {
+      "start": 94,
+      "text": "artificial intelligence. The topic that"
+    },
+    {
+      "start": 96,
+      "text": "I'm most focused on right now is helping"
+    },
+    {
+      "start": 99,
+      "text": "non-technical professionals learn to be"
+    },
+    {
+      "start": 102,
+      "text": "good collaborators to or with generative"
+    },
+    {
+      "start": 105,
+      "text": "AI. And then two years ago, myself and"
+    },
+    {
+      "start": 108,
+      "text": "my partner at the time, Perry Claybond,"
+    },
+    {
+      "start": 110,
+      "text": "wrote a book called Idea Flow, which was"
+    },
+    {
+      "start": 112,
+      "text": "the canonical book on idea generation"
+    },
+    {
+      "start": 115,
+      "text": "and prototyping. So super proud of that."
+    },
+    {
+      "start": 118,
+      "text": "It was the culmination of a dozen years"
+    },
+    {
+      "start": 120,
+      "text": "of leading executive programs and the"
+    },
+    {
+      "start": 122,
+      "text": "leadership program and the"
+    },
+    {
+      "start": 124,
+      "text": "entrepreneurship program at Stanford."
+    },
+    {
+      "start": 126,
+      "text": "And one month after our book came out,"
+    },
+    {
+      "start": 129,
+      "text": "Chad GBT came"
+    },
+    {
+      "start": 130,
+      "text": "out. To me, the fact that I wrote the"
+    },
+    {
+      "start": 134,
+      "text": "canonical book on idea generation, just"
+    },
+    {
+      "start": 137,
+      "text": "prior to AI is like writing the best"
+    },
+    {
+      "start": 139,
+      "text": "book on retail just before the internet."
+    },
+    {
+      "start": 143,
+      "text": "AI is a tool to dramatically augment and"
+    },
+    {
+      "start": 146,
+      "text": "amplify our creativity. And the truth"
+    },
+    {
+      "start": 148,
+      "text": "is, I didn't know a lot about it when"
+    },
+    {
+      "start": 150,
+      "text": "the book came out. So, one month after"
+    },
+    {
+      "start": 153,
+      "text": "my book came out, instead of going on a"
+    },
+    {
+      "start": 155,
+      "text": "world book tour, I strapped myself back"
+    },
+    {
+      "start": 158,
+      "text": "into the front row as a student and"
+    },
+    {
+      "start": 160,
+      "text": "said, I need to be learning about this"
+    },
+    {
+      "start": 162,
+      "text": "transformative new technology. So, I"
+    },
+    {
+      "start": 164,
+      "text": "started taking classes. I started"
+    },
+    {
+      "start": 166,
+      "text": "conducting research. which I started"
+    },
+    {
+      "start": 168,
+      "text": "work working with and studying teams"
+    },
+    {
+      "start": 171,
+      "text": "inside of organizations using the tool"
+    },
+    {
+      "start": 173,
+      "text": "to understand the simple question how"
+    },
+    {
+      "start": 175,
+      "text": "does generative AI impact the individual"
+    },
+    {
+      "start": 179,
+      "text": "and the team and the organization's"
+    },
+    {
+      "start": 182,
+      "text": "ability to solve"
+    },
+    {
+      "start": 185,
+      "text": "problems. You can give an AI a prompt."
+    },
+    {
+      "start": 189,
+      "text": "For example, how should I answer this"
+    },
+    {
+      "start": 191,
+      "text": "question? Or you could give an AI the"
+    },
+    {
+      "start": 195,
+      "text": "question, I want to ask how I should"
+    },
+    {
+      "start": 197,
+      "text": "answer this question. What's the best"
+    },
+    {
+      "start": 199,
+      "text": "way of framing that question to an AI?"
+    },
+    {
+      "start": 202,
+      "text": "So, you see what I did there? I asked AI"
+    },
+    {
+      "start": 205,
+      "text": "for how to ask AI my question. But you"
+    },
+    {
+      "start": 208,
+      "text": "can use AI to use AI, which is you"
+    },
+    {
+      "start": 211,
+      "text": "couldn't use Excel to use Excel."
+    },
+    {
+      "start": 214,
+      "text": "PowerPoint can't teach you how to use"
+    },
+    {
+      "start": 215,
+      "text": "PowerPoint. Email can't teach you how to"
+    },
+    {
+      "start": 217,
+      "text": "use email. AI strangely can teach you"
+    },
+    {
+      "start": 220,
+      "text": "how to use itself. If you think to ask,"
+    },
+    {
+      "start": 222,
+      "text": "go to your language model of choice and"
+    },
+    {
+      "start": 224,
+      "text": "just say the following. Hey, you're an"
+    },
+    {
+      "start": 226,
+      "text": "AI expert. I would love your help and a"
+    },
+    {
+      "start": 230,
+      "text": "consultation with you to help me figure"
+    },
+    {
+      "start": 233,
+      "text": "out where I can best leverage AI in my"
+    },
+    {
+      "start": 236,
+      "text": "life. As an AI expert, would you please"
+    },
+    {
+      "start": 239,
+      "text": "ask me questions, one question at a"
+    },
+    {
+      "start": 241,
+      "text": "time, until you have enough context"
+    },
+    {
+      "start": 242,
+      "text": "about my workflows and responsibilities"
+    },
+    {
+      "start": 244,
+      "text": "and KPIs and objectives that you could"
+    },
+    {
+      "start": 247,
+      "text": "make to obvious recommendations and two"
+    },
+    {
+      "start": 251,
+      "text": "nonobvious recommendations for how I"
+    },
+    {
+      "start": 253,
+      "text": "could leverage AI in my work. You will"
+    },
+    {
+      "start": 256,
+      "text": "have one of the most enlightening and"
+    },
+    {
+      "start": 258,
+      "text": "illuminating conversations you've ever"
+    },
+    {
+      "start": 259,
+      "text": "had. And it's all because of AI's"
+    },
+    {
+      "start": 262,
+      "text": "ability to evaluate its own work. What"
+    },
+    {
+      "start": 264,
+      "text": "I've seen is non-technical employees are"
+    },
+    {
+      "start": 267,
+      "text": "able to do incredible things. Here's one"
+    },
+    {
+      "start": 269,
+      "text": "example. The National Park Service"
+    },
+    {
+      "start": 271,
+      "text": "called me and asked me if I would"
+    },
+    {
+      "start": 273,
+      "text": "conduct a training program for a bunch"
+    },
+    {
+      "start": 275,
+      "text": "of backcountry rangers. So, they"
+    },
+    {
+      "start": 277,
+      "text": "gathered a group of about 60 backcountry"
+    },
+    {
+      "start": 280,
+      "text": "rangers and facilities managers into a"
+    },
+    {
+      "start": 282,
+      "text": "training session. And I spent a couple"
+    },
+    {
+      "start": 284,
+      "text": "of hours over Zoom teaching folks the"
+    },
+    {
+      "start": 287,
+      "text": "basics of collaborating with AI. One of"
+    },
+    {
+      "start": 290,
+      "text": "the people in that session was a"
+    },
+    {
+      "start": 292,
+      "text": "gentleman named Adam Rhymer who works at"
+    },
+    {
+      "start": 294,
+      "text": "Glen Canyon National Park. And one of"
+    },
+    {
+      "start": 296,
+      "text": "the things I say is you should focus on"
+    },
+    {
+      "start": 298,
+      "text": "parts of your work that you dread, parts"
+    },
+    {
+      "start": 301,
+      "text": "of your work that you don't enjoy, that"
+    },
+    {
+      "start": 303,
+      "text": "you think, h I have to do this again."
+    },
+    {
+      "start": 305,
+      "text": "And Adam said, if I have to replace the"
+    },
+    {
+      "start": 307,
+      "text": "carpet tiles in the lodge, I have to"
+    },
+    {
+      "start": 309,
+      "text": "fill out all of this paperwork. And so"
+    },
+    {
+      "start": 311,
+      "text": "to replace a carpet tile will sometimes"
+    },
+    {
+      "start": 313,
+      "text": "take 2 or 3 days of paperwork. Then he"
+    },
+    {
+      "start": 316,
+      "text": "thought, could AI help me write that"
+    },
+    {
+      "start": 318,
+      "text": "paperwork? And in 45 minutes, he built a"
+    },
+    {
+      "start": 321,
+      "text": "tool with natural language that saves"
+    },
+    {
+      "start": 325,
+      "text": "him two days of work. Every day he makes"
+    },
+    {
+      "start": 328,
+      "text": "a statement of work. And then listen to"
+    },
+    {
+      "start": 330,
+      "text": "this. Someone got access to that tool"
+    },
+    {
+      "start": 333,
+      "text": "and shared it across the other parks."
+    },
+    {
+      "start": 335,
+      "text": "There's about 430 parks in the service."
+    },
+    {
+      "start": 338,
+      "text": "The National Park Service is estimating"
+    },
+    {
+      "start": 340,
+      "text": "that the tool that Adam built in 45"
+    },
+    {
+      "start": 342,
+      "text": "minutes is going to save the service"
+    },
+    {
+      "start": 344,
+      "text": "7,000 days of human labor this year."
+    },
+    {
+      "start": 348,
+      "text": "That's the kind of impact that normal"
+    },
+    {
+      "start": 352,
+      "text": "professionals can have even without any"
+    },
+    {
+      "start": 355,
+      "text": "technical ability if only they're given"
+    },
+    {
+      "start": 358,
+      "text": "very basic foundational"
+    },
+    {
+      "start": 363,
+      "text": "training. People are wanting to learn AI"
+    },
+    {
+      "start": 366,
+      "text": "and how it can be transformative for"
+    },
+    {
+      "start": 367,
+      "text": "their business but they don't have the"
+    },
+    {
+      "start": 370,
+      "text": "basic language. And so while lots of"
+    },
+    {
+      "start": 373,
+      "text": "organizations are asking me how can we"
+    },
+    {
+      "start": 375,
+      "text": "work with AI to transform our business"
+    },
+    {
+      "start": 376,
+      "text": "where I have to start with them is how"
+    },
+    {
+      "start": 378,
+      "text": "do you work with AI? The research I'm"
+    },
+    {
+      "start": 381,
+      "text": "familiar with suggests that while on the"
+    },
+    {
+      "start": 383,
+      "text": "one hand AI makes people 25% faster and"
+    },
+    {
+      "start": 386,
+      "text": "12% more work and 40% better quality."
+    },
+    {
+      "start": 389,
+      "text": "It's also true that less than 10% of"
+    },
+    {
+      "start": 392,
+      "text": "working professionals are driving"
+    },
+    {
+      "start": 394,
+      "text": "meaningful productivity gains from"
+    },
+    {
+      "start": 396,
+      "text": "collaboration with AI. To me there's"
+    },
+    {
+      "start": 398,
+      "text": "this enormous gap. I call it the"
+    },
+    {
+      "start": 400,
+      "text": "realization gap. We conducted studies"
+    },
+    {
+      "start": 403,
+      "text": "both in Europe and in the United States."
+    },
+    {
+      "start": 406,
+      "text": "And what we found is surprisingly AI"
+    },
+    {
+      "start": 409,
+      "text": "didn't help most people be more"
+    },
+    {
+      "start": 410,
+      "text": "creative. In fact, in many cases the"
+    },
+    {
+      "start": 413,
+      "text": "people that we studied, AI made them"
+    },
+    {
+      "start": 415,
+      "text": "less creative. And as we started digging"
+    },
+    {
+      "start": 417,
+      "text": "into the research, we were surprised and"
+    },
+    {
+      "start": 419,
+      "text": "looked at the data we were confused"
+    },
+    {
+      "start": 421,
+      "text": "because you think AI should make people"
+    },
+    {
+      "start": 424,
+      "text": "more creative, not less. And we studied"
+    },
+    {
+      "start": 427,
+      "text": "the underperformers and then we studied"
+    },
+    {
+      "start": 429,
+      "text": "the outperformers. And what we found is"
+    },
+    {
+      "start": 432,
+      "text": "the outperformers had a fundamentally"
+    },
+    {
+      "start": 434,
+      "text": "different orientation towards AI than"
+    },
+    {
+      "start": 438,
+      "text": "the underperformers did. Whereas the"
+    },
+    {
+      "start": 441,
+      "text": "underperformers treated AI like a tool,"
+    },
+    {
+      "start": 444,
+      "text": "the outperformers treated AI like a"
+    },
+    {
+      "start": 447,
+      "text": "teammate. And shifting your orientation"
+    },
+    {
+      "start": 450,
+      "text": "from tool to teammate changes everything"
+    },
+    {
+      "start": 453,
+      "text": "about the kinds of outcomes that you can"
+    },
+    {
+      "start": 455,
+      "text": "achieve working with generative AI. A"
+    },
+    {
+      "start": 458,
+      "text": "simple example is what do you do when it"
+    },
+    {
+      "start": 460,
+      "text": "gives you mediocre results? If it's a"
+    },
+    {
+      "start": 464,
+      "text": "tool, you get a mediocre result and then"
+    },
+    {
+      "start": 467,
+      "text": "maybe you improve it or maybe you say,"
+    },
+    {
+      "start": 469,
+      "text": "\"Ah, it's no good at doing that.\" If"
+    },
+    {
+      "start": 471,
+      "text": "it's a teammate who's given you a"
+    },
+    {
+      "start": 473,
+      "text": "mediocre results, think about the last"
+    },
+    {
+      "start": 475,
+      "text": "teammate who gave you work product that"
+    },
+    {
+      "start": 477,
+      "text": "wasn't sufficient. You gave them"
+    },
+    {
+      "start": 478,
+      "text": "feedback. You gave them coaching. You"
+    },
+    {
+      "start": 481,
+      "text": "gave them mentorship. You helped them"
+    },
+    {
+      "start": 483,
+      "text": "improve it. And so what we found is the"
+    },
+    {
+      "start": 486,
+      "text": "people who treat AI like a teammate,"
+    },
+    {
+      "start": 488,
+      "text": "coach it and give it feedback and"
+    },
+    {
+      "start": 490,
+      "text": "importantly get it to ask them"
+    },
+    {
+      "start": 492,
+      "text": "questions. The fundamental orientation a"
+    },
+    {
+      "start": 495,
+      "text": "lot of people take towards AI is I'm the"
+    },
+    {
+      "start": 497,
+      "text": "question asker. AI is the answer giver."
+    },
+    {
+      "start": 500,
+      "text": "But if you think about AI like a"
+    },
+    {
+      "start": 502,
+      "text": "teammate, you say, \"Hey, what are 10"
+    },
+    {
+      "start": 505,
+      "text": "questions I should ask about this?\" Or,"
+    },
+    {
+      "start": 507,
+      "text": "\"What do you need to know from me in"
+    },
+    {
+      "start": 509,
+      "text": "order to get the best response?\" So"
+    },
+    {
+      "start": 511,
+      "text": "things, for example, like, \"You have a"
+    },
+    {
+      "start": 513,
+      "text": "difficult conversation coming up with a"
+    },
+    {
+      "start": 515,
+      "text": "coworker.\" Did you know you could"
+    },
+    {
+      "start": 517,
+      "text": "leverage a large language model to"
+    },
+    {
+      "start": 519,
+      "text": "roleplay that conversation? You can get"
+    },
+    {
+      "start": 522,
+      "text": "an AI to interview you about your"
+    },
+    {
+      "start": 524,
+      "text": "conversation partner and then construct"
+    },
+    {
+      "start": 526,
+      "text": "a psychological profile of your"
+    },
+    {
+      "start": 528,
+      "text": "conversation partner and then play the"
+    },
+    {
+      "start": 530,
+      "text": "role of your conversation partner in a"
+    },
+    {
+      "start": 532,
+      "text": "role play and then give you feedback"
+    },
+    {
+      "start": 534,
+      "text": "from the perspective of your"
+    },
+    {
+      "start": 536,
+      "text": "conversation partner on how you approach"
+    },
+    {
+      "start": 538,
+      "text": "the"
+    },
+    {
+      "start": 539,
+      "text": "conversation. That's something you can"
+    },
+    {
+      "start": 541,
+      "text": "do today. And there are many things like"
+    },
+    {
+      "start": 543,
+      "text": "that. I call them drills, but there are"
+    },
+    {
+      "start": 545,
+      "text": "many things like that where if someone"
+    },
+    {
+      "start": 547,
+      "text": "will just shift their consideration set"
+    },
+    {
+      "start": 551,
+      "text": "of what are the things I can do with AI,"
+    },
+    {
+      "start": 554,
+      "text": "they end up discovering applications"
+    },
+    {
+      "start": 556,
+      "text": "that I've never even dreamed of. I've"
+    },
+    {
+      "start": 558,
+      "text": "been doing this stuff for 2 years and my"
+    },
+    {
+      "start": 560,
+      "text": "students are regularly coming to me with"
+    },
+    {
+      "start": 562,
+      "text": "use cases I've never imagined that"
+    },
+    {
+      "start": 564,
+      "text": "landed them in a destination I could"
+    },
+    {
+      "start": 566,
+      "text": "have never predicted and they could"
+    },
+    {
+      "start": 568,
+      "text": "never have predicted."
+    },
+    {
+      "start": 570,
+      "text": "For me, I never thought about myself as"
+    },
+    {
+      "start": 572,
+      "text": "a creative individual. Now, I fully and"
+    },
+    {
+      "start": 575,
+      "text": "fundamentally believe every single human"
+    },
+    {
+      "start": 577,
+      "text": "being has innate creative capacity."
+    },
+    {
+      "start": 580,
+      "text": "Every single one of us. What the D"
+    },
+    {
+      "start": 582,
+      "text": "school has helped me do is unlock"
+    },
+    {
+      "start": 585,
+      "text": "others. Everyone has this latent"
+    },
+    {
+      "start": 587,
+      "text": "creative capacity. Once I was teaching a"
+    },
+    {
+      "start": 590,
+      "text": "class with a hip-hop artist named LRA."
+    },
+    {
+      "start": 592,
+      "text": "He's a multi-time Grammy award-winning"
+    },
+    {
+      "start": 594,
+      "text": "artist. And he and I are teaching a"
+    },
+    {
+      "start": 595,
+      "text": "class to graduate students at Stanford."
+    },
+    {
+      "start": 597,
+      "text": "and we're giving them the assignment,"
+    },
+    {
+      "start": 599,
+      "text": "you've got to go get inspiration in the"
+    },
+    {
+      "start": 601,
+      "text": "world. And what I can see is it's like"
+    },
+    {
+      "start": 603,
+      "text": "looking at myself in the mirror 10 years"
+    },
+    {
+      "start": 605,
+      "text": "ago because all of the business school"
+    },
+    {
+      "start": 606,
+      "text": "students in the class are going"
+    },
+    {
+      "start": 609,
+      "text": "inspiration and I just felt LRae is"
+    },
+    {
+      "start": 613,
+      "text": "clearly the creative legend in the room."
+    },
+    {
+      "start": 615,
+      "text": "I said, \"Lae, what do you think about"
+    },
+    {
+      "start": 617,
+      "text": "inspiration?\" And of course, as only a"
+    },
+    {
+      "start": 619,
+      "text": "hip-hop artist could do, he dropped a"
+    },
+    {
+      "start": 621,
+      "text": "bar. He said, \"Inspiration's a"
+    },
+    {
+      "start": 623,
+      "text": "discipline.\""
+    },
+    {
+      "start": 624,
+      "text": "And I realized in that moment for these"
+    },
+    {
+      "start": 627,
+      "text": "students, it's not even on their radar"
+    },
+    {
+      "start": 629,
+      "text": "as a tool, let alone a routine part of"
+    },
+    {
+      "start": 633,
+      "text": "their life. But the most wildly creative"
+    },
+    {
+      "start": 635,
+      "text": "individuals I know are disciplined about"
+    },
+    {
+      "start": 638,
+      "text": "cultivating the inputs to their thinking"
+    },
+    {
+      "start": 640,
+      "text": "because they know it affects the outputs"
+    },
+    {
+      "start": 642,
+      "text": "of their thinking. And so even in"
+    },
+    {
+      "start": 644,
+      "text": "regards to AI, I push people, what is"
+    },
+    {
+      "start": 647,
+      "text": "the inspiration you're bringing to the"
+    },
+    {
+      "start": 649,
+      "text": "model? Everybody has the same access to"
+    },
+    {
+      "start": 651,
+      "text": "the same chat GPT. How do I get a"
+    },
+    {
+      "start": 654,
+      "text": "different output than you do? It's"
+    },
+    {
+      "start": 655,
+      "text": "because of what I bring to the model."
+    },
+    {
+      "start": 657,
+      "text": "And what do I bring to the model?"
+    },
+    {
+      "start": 659,
+      "text": "Certainly, I bring technique, but I also"
+    },
+    {
+      "start": 661,
+      "text": "bring my experience. I bring my"
+    },
+    {
+      "start": 664,
+      "text": "perspective. I bring all the inspiration"
+    },
+    {
+      "start": 666,
+      "text": "I've gleaned from the world. That's what"
+    },
+    {
+      "start": 668,
+      "text": "gets a user a differential output from a"
+    },
+    {
+      "start": 673,
+      "text": "model. A seventh grader in Ohio, who I"
+    },
+    {
+      "start": 677,
+      "text": "don't even know what her name is, but"
+    },
+    {
+      "start": 678,
+      "text": "her teacher asked, \"What is creativity?\""
+    },
+    {
+      "start": 680,
+      "text": "and she put a post-it note up on the"
+    },
+    {
+      "start": 681,
+      "text": "board that says, \"Creativity is doing"
+    },
+    {
+      "start": 684,
+      "text": "more than the first thing you think"
+    },
+    {
+      "start": 686,
+      "text": "of.\" And that's my favorite definition"
+    },
+    {
+      "start": 689,
+      "text": "because it speaks to a profound"
+    },
+    {
+      "start": 692,
+      "text": "cognitive bias that we hold. It's been"
+    },
+    {
+      "start": 694,
+      "text": "called functional fixedness. It's been"
+    },
+    {
+      "start": 696,
+      "text": "called the Einsteining effect. But the"
+    },
+    {
+      "start": 698,
+      "text": "basic premise is humans tend to fixate"
+    },
+    {
+      "start": 702,
+      "text": "on an early solution and be satisfied."
+    },
+    {
+      "start": 705,
+      "text": "Herbert Simon called it satisficing. But"
+    },
+    {
+      "start": 708,
+      "text": "it's the idea that if we get to good"
+    },
+    {
+      "start": 709,
+      "text": "enough, it's enough. And that's why I"
+    },
+    {
+      "start": 712,
+      "text": "love that seventh grader's definition."
+    },
+    {
+      "start": 714,
+      "text": "Creativity is doing more than the first"
+    },
+    {
+      "start": 715,
+      "text": "thing you think of. It's pushing past"
+    },
+    {
+      "start": 718,
+      "text": "good enough. Is the definition of"
+    },
+    {
+      "start": 720,
+      "text": "creativity changing in the age of AI? I"
+    },
+    {
+      "start": 723,
+      "text": "don't think so. The reality is with AI,"
+    },
+    {
+      "start": 727,
+      "text": "it's now easier than ever to get good"
+    },
+    {
+      "start": 729,
+      "text": "enough. If your goal is world class, if"
+    },
+    {
+      "start": 732,
+      "text": "your goal is exceptional, then what you"
+    },
+    {
+      "start": 734,
+      "text": "want to be prompting for is actually"
+    },
+    {
+      "start": 736,
+      "text": "volume and variation. And that takes"
+    },
+    {
+      "start": 739,
+      "text": "time. It takes time to not only read"
+    },
+    {
+      "start": 743,
+      "text": "through it, but to sort it and to"
+    },
+    {
+      "start": 744,
+      "text": "process it. But fundamentally, the"
+    },
+    {
+      "start": 747,
+      "text": "definition of creativity doesn't change"
+    },
+    {
+      "start": 749,
+      "text": "in the age of AI. It's just that the"
+    },
+    {
+      "start": 751,
+      "text": "human's ability or inability to arrive"
+    },
+    {
+      "start": 754,
+      "text": "at a creative state is affected not only"
+    },
+    {
+      "start": 757,
+      "text": "by the technology but also by their"
+    },
+    {
+      "start": 760,
+      "text": "stated or unstated objectives in"
+    },
+    {
+      "start": 764,
+      "text": "collaborating with it. Creators don't"
+    },
+    {
+      "start": 766,
+      "text": "need to be afraid of AI. Creators need"
+    },
+    {
+      "start": 768,
+      "text": "to dive in. They need to lean in."
+    },
+    {
+      "start": 770,
+      "text": "Creators are about to be unleashed in a"
+    },
+    {
+      "start": 773,
+      "text": "way they've never been unleashed before."
+    },
+    {
+      "start": 775,
+      "text": "The only correct answer to the question"
+    },
+    {
+      "start": 778,
+      "text": "how do you use AI is I don't I don't use"
+    },
+    {
+      "start": 782,
+      "text": "AI I work with it. When you start"
+    },
+    {
+      "start": 785,
+      "text": "working with AI, it will change"
+    },
+    {
+      "start": 787,
+      "text": "everything."
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 324,
+  "timestamp": "2025-07-24T08:16:52.943Z"
+}

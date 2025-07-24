@@ -1,0 +1,1936 @@
+1
+00:00:00,120 --> 00:00:05,440
+I think there is no one siiz fits all
+
+2
+00:00:03,520 --> 00:00:08,000
+for an exceptional entrepreneur one of
+
+3
+00:00:05,440 --> 00:00:11,360
+the key characteristics though that I
+
+4
+00:00:08,000 --> 00:00:14,160
+often see in great Founders is they have
+
+5
+00:00:11,360 --> 00:00:16,320
+this really strong sense of always doing
+
+6
+00:00:14,160 --> 00:00:18,520
+what's best for the company in many ways
+
+7
+00:00:16,320 --> 00:00:20,039
+can be sa self-sacrificial that they
+
+8
+00:00:18,520 --> 00:00:22,359
+always put the company first and the
+
+9
+00:00:20,039 --> 00:00:24,000
+mission first if you want to be famous
+
+10
+00:00:22,359 --> 00:00:26,240
+this is not the place for you being
+
+11
+00:00:24,000 --> 00:00:29,039
+famous versus being paid a lot versus
+
+12
+00:00:26,240 --> 00:00:30,519
+being having an easy lifestyle all of
+
+13
+00:00:29,039 --> 00:00:32,480
+which is not true
+
+14
+00:00:30,519 --> 00:00:34,160
+hi my name is Eric Kim I'm the
+
+15
+00:00:32,480 --> 00:00:36,160
+co-founder and managing partner of
+
+16
+00:00:34,160 --> 00:00:37,680
+goodwater capital goodwater capital is a
+
+17
+00:00:36,160 --> 00:00:40,480
+global Venture Capital firm that we
+
+18
+00:00:37,680 --> 00:00:42,800
+founded in 2014 we're entirely focused
+
+19
+00:00:40,480 --> 00:00:45,160
+on consumer Tech investing so today
+
+20
+00:00:42,800 --> 00:00:47,480
+goodwater Capital has grown to over $3.3
+
+21
+00:00:45,160 --> 00:00:49,559
+billion in committed Capital we're in
+
+22
+00:00:47,480 --> 00:00:51,160
+close to over 50 countries at this point
+
+23
+00:00:49,559 --> 00:00:53,520
+through our Genesis portfolio which is
+
+24
+00:00:51,160 --> 00:00:55,320
+over 700 seed portfolio companies and in
+
+25
+00:00:53,520 --> 00:00:56,719
+our core portfolio companies that's for
+
+26
+00:00:55,320 --> 00:00:58,559
+our early stage fund and our growth
+
+27
+00:00:56,719 --> 00:01:00,440
+stage fund that's about 80 companies at
+
+28
+00:00:58,559 --> 00:01:02,480
+this point in about 20 countries our
+
+29
+00:01:00,440 --> 00:01:04,119
+thesis is that consumer technology is
+
+30
+00:01:02,480 --> 00:01:05,920
+changing the world and there's an
+
+31
+00:01:04,119 --> 00:01:08,080
+opportunity to use the internet and
+
+32
+00:01:05,920 --> 00:01:09,759
+digital technology for good our mission
+
+33
+00:01:08,080 --> 00:01:12,200
+is to empower exceptional entrepreneurs
+
+34
+00:01:09,759 --> 00:01:15,260
+everywhere change the world for
+
+35
+00:01:12,200 --> 00:01:15,260
+[Music]
+
+36
+00:01:17,439 --> 00:01:22,640
+good I'm so thankful to my parents my
+
+37
+00:01:20,960 --> 00:01:24,600
+mother and father lived through the
+
+38
+00:01:22,640 --> 00:01:27,280
+Korean War they came to the United
+
+39
+00:01:24,600 --> 00:01:29,560
+States to seek a better life uh with one
+
+40
+00:01:27,280 --> 00:01:32,040
+suitcase uh with the little money they
+
+41
+00:01:29,560 --> 00:01:33,880
+had uh in their pockets uh but what they
+
+42
+00:01:32,040 --> 00:01:36,000
+did have was an education that they were
+
+43
+00:01:33,880 --> 00:01:37,960
+both trained as medical doctors at that
+
+44
+00:01:36,000 --> 00:01:40,320
+time the United States had a severe
+
+45
+00:01:37,960 --> 00:01:42,600
+shortage shortage of medical doctors and
+
+46
+00:01:40,320 --> 00:01:44,360
+they were inviting overseas doctors to
+
+47
+00:01:42,600 --> 00:01:46,320
+come even if they didn't speak English
+
+48
+00:01:44,360 --> 00:01:48,520
+very well I think in my school we were
+
+49
+00:01:46,320 --> 00:01:51,079
+the only Koreans and I remember
+
+50
+00:01:48,520 --> 00:01:53,360
+distinctly one day my father calling me
+
+51
+00:01:51,079 --> 00:01:55,680
+in to his room to his bedroom I was 12
+
+52
+00:01:53,360 --> 00:01:57,759
+years old old at the time that's the
+
+53
+00:01:55,680 --> 00:02:00,399
+same age my as my oldest son at this
+
+54
+00:01:57,759 --> 00:02:02,880
+point and my father just sat me and said
+
+55
+00:02:00,399 --> 00:02:05,799
+hey Eric I need to have a talk with you
+
+56
+00:02:02,880 --> 00:02:08,800
+at that time my father with these
+
+57
+00:02:05,799 --> 00:02:10,720
+intense tears in his eyes told me Eric
+
+58
+00:02:08,800 --> 00:02:13,400
+you're growing up now you're 12 years
+
+59
+00:02:10,720 --> 00:02:15,239
+old you're about to become a teenager
+
+60
+00:02:13,400 --> 00:02:16,920
+and life is going to be hard because
+
+61
+00:02:15,239 --> 00:02:19,239
+you're an Asian American because you're
+
+62
+00:02:16,920 --> 00:02:20,920
+Korean because of the color of your hair
+
+63
+00:02:19,239 --> 00:02:23,040
+the color of your eyes the shape of your
+
+64
+00:02:20,920 --> 00:02:24,640
+eyes the color of your skin life is
+
+65
+00:02:23,040 --> 00:02:26,599
+going to be difficult you will
+
+66
+00:02:24,640 --> 00:02:28,160
+immediately be discounted and I think
+
+67
+00:02:26,599 --> 00:02:30,080
+part of this was my father's own
+
+68
+00:02:28,160 --> 00:02:34,200
+experience in the workplace facing
+
+69
+00:02:30,080 --> 00:02:36,360
+racism uh there or uh maybe some bias as
+
+70
+00:02:34,200 --> 00:02:38,280
+well but he understood that for me as an
+
+71
+00:02:36,360 --> 00:02:41,040
+Asian-American that it was important for
+
+72
+00:02:38,280 --> 00:02:44,000
+me to understand that because of that
+
+73
+00:02:41,040 --> 00:02:48,760
+discount he instilled into me that we
+
+74
+00:02:44,000 --> 00:02:51,560
+really needed to be 12% 150% better so
+
+75
+00:02:48,760 --> 00:02:54,080
+to speak to uh really compare with our
+
+76
+00:02:51,560 --> 00:02:56,720
+our peers who didn't have this Asian
+
+77
+00:02:54,080 --> 00:02:58,879
+face or this background or so and that
+
+78
+00:02:56,720 --> 00:03:01,360
+really had a tremendous impact on my
+
+79
+00:02:58,879 --> 00:03:03,920
+life in many ways I felt a sense of
+
+80
+00:03:01,360 --> 00:03:06,560
+urgency that I had to perform that I had
+
+81
+00:03:03,920 --> 00:03:08,440
+to just be better in many ways that was
+
+82
+00:03:06,560 --> 00:03:10,080
+a really important lesson I think as
+
+83
+00:03:08,440 --> 00:03:12,799
+I've grown up and as I've matured I
+
+84
+00:03:10,080 --> 00:03:16,159
+realized that in many ways yes that bias
+
+85
+00:03:12,799 --> 00:03:19,080
+exists and yes the Prejudice exists and
+
+86
+00:03:16,159 --> 00:03:21,560
+and racism exists and yes education hard
+
+87
+00:03:19,080 --> 00:03:24,120
+work all those elements were keys for me
+
+88
+00:03:21,560 --> 00:03:26,400
+to be hopefully successful in life over
+
+89
+00:03:24,120 --> 00:03:29,040
+time what I've realized as well is that
+
+90
+00:03:26,400 --> 00:03:31,720
+I also need to embrace and not always
+
+91
+00:03:29,040 --> 00:03:34,480
+just perform for the sake of trying to
+
+92
+00:03:31,720 --> 00:03:37,120
+be better itself what if humility was a
+
+93
+00:03:34,480 --> 00:03:39,120
+superpower what if as myself I could
+
+94
+00:03:37,120 --> 00:03:41,000
+Embrace that and not be afraid of that
+
+95
+00:03:39,120 --> 00:03:43,799
+that's something I'm really interested
+
+96
+00:03:41,000 --> 00:03:46,319
+and excited about going forward
+
+97
+00:03:43,799 --> 00:03:48,280
+too as an undergrad I had the
+
+98
+00:03:46,319 --> 00:03:50,040
+opportunity when I was at Yale to also
+
+99
+00:03:48,280 --> 00:03:54,280
+intern at McKenzie and Company during
+
+100
+00:03:50,040 --> 00:03:56,599
+the summer so in 2002 I I graduated from
+
+101
+00:03:54,280 --> 00:03:58,519
+undergrad and I was expected to start at
+
+102
+00:03:56,599 --> 00:04:00,560
+McKenzie right away I eventually I went
+
+103
+00:03:58,519 --> 00:04:02,400
+back to McKenzie and spent time there
+
+104
+00:04:00,560 --> 00:04:04,159
+for 2 years as a business analyst and
+
+105
+00:04:02,400 --> 00:04:06,480
+consultant I learned a lot I did a lot
+
+106
+00:04:04,159 --> 00:04:09,000
+of global projects I spent over 6 months
+
+107
+00:04:06,480 --> 00:04:11,079
+in China I spent time in Southeast Asia
+
+108
+00:04:09,000 --> 00:04:13,079
+as well spent time all over Europe and
+
+109
+00:04:11,079 --> 00:04:14,439
+so that really helped provide a Global
+
+110
+00:04:13,079 --> 00:04:16,759
+Perspective which is something you see
+
+111
+00:04:14,439 --> 00:04:19,320
+in goodw today as well then went to
+
+112
+00:04:16,759 --> 00:04:21,160
+Stanford University in 2005 and that's
+
+113
+00:04:19,320 --> 00:04:23,400
+where I met my co-founder chihua Chen
+
+114
+00:04:21,160 --> 00:04:25,520
+who was class of 2006 so we overlapped
+
+115
+00:04:23,400 --> 00:04:27,240
+for a year so in 2007 I had the
+
+116
+00:04:25,520 --> 00:04:28,960
+opportunity to join Maverick Capital
+
+117
+00:04:27,240 --> 00:04:31,280
+they were starting to build out their
+
+118
+00:04:28,960 --> 00:04:33,639
+private investing practice and so myself
+
+119
+00:04:31,280 --> 00:04:36,120
+and a gentleman named David singer we we
+
+120
+00:04:33,639 --> 00:04:38,639
+work very closely together from 2007 to
+
+121
+00:04:36,120 --> 00:04:40,880
+2014 and during that time we invested
+
+122
+00:04:38,639 --> 00:04:42,680
+all over the world and uh from early
+
+123
+00:04:40,880 --> 00:04:45,039
+stage to late stage we were part of the
+
+124
+00:04:42,680 --> 00:04:46,960
+YC y commentator Venture Capital
+
+125
+00:04:45,039 --> 00:04:48,840
+Syndicate so we invested in every single
+
+126
+00:04:46,960 --> 00:04:50,720
+y commentator company to really late
+
+127
+00:04:48,840 --> 00:04:52,240
+stage companies as well pre-ipo
+
+128
+00:04:50,720 --> 00:04:54,240
+companies too and that really gave me a
+
+129
+00:04:52,240 --> 00:04:56,479
+sense of the Art and Science of
+
+130
+00:04:54,240 --> 00:04:58,610
+investing and and really to adopt an
+
+131
+00:04:56,479 --> 00:05:00,560
+investor mindset
+
+132
+00:04:58,610 --> 00:05:02,120
+[Music]
+
+133
+00:05:00,560 --> 00:05:04,440
+actually our first deal in Korea was
+
+134
+00:05:02,120 --> 00:05:06,360
+coupon it was March of 2011 and then
+
+135
+00:05:04,440 --> 00:05:07,960
+soon after that we invested in cacao in
+
+136
+00:05:06,360 --> 00:05:10,199
+their series a yeah when we first
+
+137
+00:05:07,960 --> 00:05:12,400
+invested in Kong they were the 28th
+
+138
+00:05:10,199 --> 00:05:15,000
+social commerce company to launch in
+
+139
+00:05:12,400 --> 00:05:17,680
+just South Korea itself we launched a
+
+140
+00:05:15,000 --> 00:05:20,120
+survey in South Korea and we asked
+
+141
+00:05:17,680 --> 00:05:22,840
+dozens of people asking them to compare
+
+142
+00:05:20,120 --> 00:05:25,639
+Ticket Monster we make price coupon
+
+143
+00:05:22,840 --> 00:05:28,319
+others your retail experience as well
+
+144
+00:05:25,639 --> 00:05:31,840
+and over and over again for specifically
+
+145
+00:05:28,319 --> 00:05:33,919
+women in their 20s 30s they loved coupon
+
+146
+00:05:31,840 --> 00:05:35,680
+because of their customer service why
+
+147
+00:05:33,919 --> 00:05:37,360
+was that so important was because it
+
+148
+00:05:35,680 --> 00:05:39,479
+then created loyalty that if you had
+
+149
+00:05:37,360 --> 00:05:41,199
+really really strong customer service
+
+150
+00:05:39,479 --> 00:05:42,919
+consumers would come back to you because
+
+151
+00:05:41,199 --> 00:05:44,720
+they knew that they would be treated
+
+152
+00:05:42,919 --> 00:05:47,039
+well and that was a strong philosophy
+
+153
+00:05:44,720 --> 00:05:49,479
+that kpong had from the first day was
+
+154
+00:05:47,039 --> 00:05:51,479
+how do you wow your end your end
+
+155
+00:05:49,479 --> 00:05:53,600
+customer if you are doing something that
+
+156
+00:05:51,479 --> 00:05:55,960
+the market generally agrees with that is
+
+157
+00:05:53,600 --> 00:05:57,440
+a really hard way to make a profitable
+
+158
+00:05:55,960 --> 00:05:59,080
+investment because the the rest of the
+
+159
+00:05:57,440 --> 00:06:00,520
+Market's already there you have to have
+
+160
+00:05:59,080 --> 00:06:02,400
+some kind of contrarian or
+
+161
+00:06:00,520 --> 00:06:04,479
+differentiated insight and usually
+
+162
+00:06:02,400 --> 00:06:06,360
+that's through some kind of primary
+
+163
+00:06:04,479 --> 00:06:08,520
+research that you've done that no one
+
+164
+00:06:06,360 --> 00:06:11,599
+else has done itself and that was a key
+
+165
+00:06:08,520 --> 00:06:13,880
+to making that investment back in 2011
+
+166
+00:06:11,599 --> 00:06:16,400
+caca is a really interesting story I'm
+
+167
+00:06:13,880 --> 00:06:18,160
+I'm very thankful to Han Kim who's a
+
+168
+00:06:16,400 --> 00:06:19,960
+very close mentor and friend of mine
+
+169
+00:06:18,160 --> 00:06:21,880
+that helped introduce me to the company
+
+170
+00:06:19,960 --> 00:06:23,960
+prior to that we had an overall thesis
+
+171
+00:06:21,880 --> 00:06:26,080
+about mobile the the power of
+
+172
+00:06:23,960 --> 00:06:28,520
+smartphones and this whole transition
+
+173
+00:06:26,080 --> 00:06:30,120
+away from desktop to mobile Computing
+
+174
+00:06:28,520 --> 00:06:32,000
+and how there opportunity
+
+175
+00:06:30,120 --> 00:06:33,759
+for gaming for Commerce for
+
+176
+00:06:32,000 --> 00:06:35,440
+communications to happen on mobile and
+
+177
+00:06:33,759 --> 00:06:37,479
+we were looking for that killer out what
+
+178
+00:06:35,440 --> 00:06:40,520
+prompted me to really become interested
+
+179
+00:06:37,479 --> 00:06:42,120
+in caca and and to seek out the company
+
+180
+00:06:40,520 --> 00:06:44,360
+was a really close friend of mine
+
+181
+00:06:42,120 --> 00:06:46,919
+actually was visiting from South Korea
+
+182
+00:06:44,360 --> 00:06:49,120
+at the time that person had a Samsung
+
+183
+00:06:46,919 --> 00:06:51,360
+smartphone and I asked her why did you
+
+184
+00:06:49,120 --> 00:06:53,360
+buy this Samsung smartphone and she said
+
+185
+00:06:51,360 --> 00:06:55,160
+so I could use caca it actually saved
+
+186
+00:06:53,360 --> 00:06:57,120
+her money at the time every time you
+
+187
+00:06:55,160 --> 00:06:59,639
+sent a text message you were charged per
+
+188
+00:06:57,120 --> 00:07:01,560
+text and cacao made that free buying a
+
+189
+00:06:59,639 --> 00:07:03,800
+smartphone which was very expensive that
+
+190
+00:07:01,560 --> 00:07:06,080
+upfront cost was an investment to save
+
+191
+00:07:03,800 --> 00:07:07,960
+money over time because it provided this
+
+192
+00:07:06,080 --> 00:07:09,840
+core utility to everyone to be able to
+
+193
+00:07:07,960 --> 00:07:12,319
+communicate for free and that was an
+
+194
+00:07:09,840 --> 00:07:15,879
+Insight that it really struck me is that
+
+195
+00:07:12,319 --> 00:07:18,680
+people were willing to buy 300 400 $500
+
+196
+00:07:15,879 --> 00:07:20,319
+smartphones so they could just use caca
+
+197
+00:07:18,680 --> 00:07:22,240
+because they were saving money on the
+
+198
+00:07:20,319 --> 00:07:24,360
+other end of that that love that
+
+199
+00:07:22,240 --> 00:07:26,639
+customer love was something we saw
+
+200
+00:07:24,360 --> 00:07:28,479
+tremendous potential in so I remember
+
+201
+00:07:26,639 --> 00:07:30,560
+approaching the CEO the founder the
+
+202
+00:07:28,479 --> 00:07:32,800
+management team at k C once I got
+
+203
+00:07:30,560 --> 00:07:35,599
+introduced I remember flying to South
+
+204
+00:07:32,800 --> 00:07:38,280
+Korea and practicing the night before
+
+205
+00:07:35,599 --> 00:07:40,720
+presenting in Korean and the next day
+
+206
+00:07:38,280 --> 00:07:42,240
+actually when I I visited the the caca
+
+207
+00:07:40,720 --> 00:07:45,639
+headquarters and there was only like 20
+
+208
+00:07:42,240 --> 00:07:48,159
+people I remember pitching in Korean to
+
+209
+00:07:45,639 --> 00:07:49,479
+the to the the team there they w't
+
+210
+00:07:48,159 --> 00:07:51,159
+pitching me I made this whole
+
+211
+00:07:49,479 --> 00:07:53,199
+presentation about our thesis and the
+
+212
+00:07:51,159 --> 00:07:55,159
+research we had done all the consumers
+
+213
+00:07:53,199 --> 00:07:57,919
+we had talked to it was in Korean so I'm
+
+214
+00:07:55,159 --> 00:07:59,720
+sure it was terrible and it was uh with
+
+215
+00:07:57,919 --> 00:08:01,560
+a lot of stuttering they were maybe were
+
+216
+00:07:59,720 --> 00:08:03,879
+impressed by that and uh they were
+
+217
+00:08:01,560 --> 00:08:06,800
+willing to take our Capital early on but
+
+218
+00:08:03,879 --> 00:08:09,759
+we really saw not from the outside in
+
+219
+00:08:06,800 --> 00:08:11,479
+but through the consumer voice the love
+
+220
+00:08:09,759 --> 00:08:13,360
+for the product I remember at the time
+
+221
+00:08:11,479 --> 00:08:15,759
+there's a lot of people who thought that
+
+222
+00:08:13,360 --> 00:08:17,759
+investment in caca was crazy maybe even
+
+223
+00:08:15,759 --> 00:08:20,280
+some of the early team members weren't
+
+224
+00:08:17,759 --> 00:08:22,520
+quite sure about the future but when we
+
+225
+00:08:20,280 --> 00:08:24,599
+talk to Consumers when we talk to people
+
+226
+00:08:22,520 --> 00:08:26,879
+who actually use the product they loved
+
+227
+00:08:24,599 --> 00:08:29,080
+it so so much often times one of the
+
+228
+00:08:26,879 --> 00:08:31,199
+things I love to do when I go to cities
+
+229
+00:08:29,080 --> 00:08:33,320
+whether it's London or New York I just
+
+230
+00:08:31,199 --> 00:08:34,800
+like to hang out in the subway you can
+
+231
+00:08:33,320 --> 00:08:36,519
+see what apps they're using just the
+
+232
+00:08:34,800 --> 00:08:39,240
+color the icons they're using and when
+
+233
+00:08:36,519 --> 00:08:42,360
+you go to Korea a lot more people were
+
+234
+00:08:39,240 --> 00:08:43,760
+starting to use this yellow icon cacao
+
+235
+00:08:42,360 --> 00:08:45,560
+and then you would talk to them why did
+
+236
+00:08:43,760 --> 00:08:47,080
+they use it I can save money I can
+
+237
+00:08:45,560 --> 00:08:49,120
+communicate with my friends there's a
+
+238
+00:08:47,080 --> 00:08:50,600
+group chat that becomes my community and
+
+239
+00:08:49,120 --> 00:08:52,760
+so that was our key Insight is that you
+
+240
+00:08:50,600 --> 00:08:55,080
+could scale this and create a powerful
+
+241
+00:08:52,760 --> 00:08:57,720
+Network effect that as more people got
+
+242
+00:08:55,080 --> 00:08:59,640
+on the platform it would benefit all the
+
+243
+00:08:57,720 --> 00:09:01,720
+pre-existing users as well that's it's a
+
+244
+00:08:59,640 --> 00:09:04,160
+really powerful phenomenon that
+
+245
+00:09:01,720 --> 00:09:05,800
+increases retention that as more people
+
+246
+00:09:04,160 --> 00:09:07,680
+get onto the product the product gets
+
+247
+00:09:05,800 --> 00:09:09,079
+better how many of those can you name
+
+248
+00:09:07,680 --> 00:09:12,079
+there are very very few companies that
+
+249
+00:09:09,079 --> 00:09:14,360
+do that and so once we saw that Insight
+
+250
+00:09:12,079 --> 00:09:16,560
+we felt a very strong Comm uh conviction
+
+251
+00:09:14,360 --> 00:09:18,959
+to invest in the company they were both
+
+252
+00:09:16,560 --> 00:09:22,320
+very early stage deals series a for the
+
+253
+00:09:18,959 --> 00:09:25,079
+caca and kind of series a plus for kpong
+
+254
+00:09:22,320 --> 00:09:27,839
+the returns were massive on kind of a
+
+255
+00:09:25,079 --> 00:09:30,839
+venture scale kind of the 100x 300X type
+
+256
+00:09:27,839 --> 00:09:30,839
+scales
+
+257
+00:09:31,440 --> 00:09:36,839
+I think most Venture Capital firms in my
+
+258
+00:09:34,560 --> 00:09:38,640
+experience do great work but they don't
+
+259
+00:09:36,839 --> 00:09:40,760
+necessarily have a strong sense of
+
+260
+00:09:38,640 --> 00:09:42,760
+mission and that's what was important to
+
+261
+00:09:40,760 --> 00:09:44,519
+us when we started goodw was to have a
+
+262
+00:09:42,760 --> 00:09:47,120
+really clear mission statement again to
+
+263
+00:09:44,519 --> 00:09:49,079
+empower exal MERS everywhere to change
+
+264
+00:09:47,120 --> 00:09:51,000
+the world for good good water had a
+
+265
+00:09:49,079 --> 00:09:53,600
+tremendous impact on the Venture Capital
+
+266
+00:09:51,000 --> 00:09:56,360
+ecosystem because we changed the mindset
+
+267
+00:09:53,600 --> 00:09:58,440
+to go from a Ecentric mindset where you
+
+268
+00:09:56,360 --> 00:10:00,560
+have individual venture capitalist being
+
+269
+00:09:58,440 --> 00:10:02,160
+celebrated for how much money they made
+
+270
+00:10:00,560 --> 00:10:04,519
+shifting that there's nothing wrong with
+
+271
+00:10:02,160 --> 00:10:06,480
+that but shifting it more to a mindset
+
+272
+00:10:04,519 --> 00:10:09,920
+of how can we as a vendor Capital
+
+273
+00:10:06,480 --> 00:10:13,200
+industry have positive impact itself if
+
+274
+00:10:09,920 --> 00:10:15,800
+good water many many many years from now
+
+275
+00:10:13,200 --> 00:10:17,440
+is known for that capital is a really
+
+276
+00:10:15,800 --> 00:10:19,079
+really valuable resource that you have
+
+277
+00:10:17,440 --> 00:10:21,360
+to Steward and that's why we're called
+
+278
+00:10:19,079 --> 00:10:23,160
+good water we think water is similar to
+
+279
+00:10:21,360 --> 00:10:25,519
+technology and capital water is the
+
+280
+00:10:23,160 --> 00:10:27,240
+source of life for every living organism
+
+281
+00:10:25,519 --> 00:10:29,839
+but the lack of water or too much water
+
+282
+00:10:27,240 --> 00:10:31,640
+can lead to destruction it's itself and
+
+283
+00:10:29,839 --> 00:10:33,160
+technology and capital is the exact same
+
+284
+00:10:31,640 --> 00:10:35,519
+thing that you have to Steward it it can
+
+285
+00:10:33,160 --> 00:10:37,160
+be the source for so much positive
+
+286
+00:10:35,519 --> 00:10:39,399
+influence in the world but it can also
+
+287
+00:10:37,160 --> 00:10:41,200
+be used for not so good things too that
+
+288
+00:10:39,399 --> 00:10:43,519
+technology and capital isn't always the
+
+289
+00:10:41,200 --> 00:10:45,399
+source of goodness in the world too so
+
+290
+00:10:43,519 --> 00:10:47,279
+we want to be the good water in the
+
+291
+00:10:45,399 --> 00:10:49,320
+Venture Capital ecosystem we also
+
+292
+00:10:47,279 --> 00:10:51,040
+thought that the world didn't need
+
+293
+00:10:49,320 --> 00:10:53,399
+another venture capital firm there are
+
+294
+00:10:51,040 --> 00:10:56,399
+so many great Venture Capital firms out
+
+295
+00:10:53,399 --> 00:10:58,079
+there sequoia Benchmark you know Excel
+
+296
+00:10:56,399 --> 00:10:59,519
+Partners there there are so many great
+
+297
+00:10:58,079 --> 00:11:01,200
+Venture Capital firms out there the
+
+298
+00:10:59,519 --> 00:11:02,839
+world didn't need necessarily another
+
+299
+00:11:01,200 --> 00:11:04,600
+venture capital firm but what if you
+
+300
+00:11:02,839 --> 00:11:06,399
+could create a venture capital firm that
+
+301
+00:11:04,600 --> 00:11:08,639
+was not only Mission oriented but
+
+302
+00:11:06,399 --> 00:11:10,399
+focused on consumer internet consumer
+
+303
+00:11:08,639 --> 00:11:12,320
+technology itself a lot of venture
+
+304
+00:11:10,399 --> 00:11:14,480
+capital firms at the time and still
+
+305
+00:11:12,320 --> 00:11:16,760
+today Diversified away from consumer
+
+306
+00:11:14,480 --> 00:11:19,600
+Tech they went to Enterprise SAS or
+
+307
+00:11:16,760 --> 00:11:21,600
+security or Hardware or climate Tech or
+
+308
+00:11:19,600 --> 00:11:23,800
+biotech if you think about the best
+
+309
+00:11:21,600 --> 00:11:25,600
+Venture Capital firms where they started
+
+310
+00:11:23,800 --> 00:11:28,680
+was by investing in companies like
+
+311
+00:11:25,600 --> 00:11:30,200
+Google like Amazon like eBay six out of
+
+312
+00:11:28,680 --> 00:11:32,279
+the eight large companies in the world
+
+313
+00:11:30,200 --> 00:11:34,440
+are all consumer tech companies like
+
+314
+00:11:32,279 --> 00:11:37,000
+Facebook as well not only are there
+
+315
+00:11:34,440 --> 00:11:39,720
+great Equity returns there but if you
+
+316
+00:11:37,000 --> 00:11:41,519
+own that end cut customer relationship
+
+317
+00:11:39,720 --> 00:11:43,200
+then you can create so much Innovation
+
+318
+00:11:41,519 --> 00:11:45,600
+that backward integrates all the way
+
+319
+00:11:43,200 --> 00:11:48,279
+into the Enterprise as well so we had
+
+320
+00:11:45,600 --> 00:11:49,959
+this thesis that consumer technology
+
+321
+00:11:48,279 --> 00:11:52,079
+consumer internet was incredibly
+
+322
+00:11:49,959 --> 00:11:54,120
+powerful that owning those End customer
+
+323
+00:11:52,079 --> 00:11:57,839
+relationships was very powerful that
+
+324
+00:11:54,120 --> 00:12:00,079
+would span not just social networking
+
+325
+00:11:57,839 --> 00:12:03,639
+not just e-commerce but that span also
+
+326
+00:12:00,079 --> 00:12:05,360
+Financial Services Healthcare education
+
+327
+00:12:03,639 --> 00:12:07,519
+all these big Industries would be
+
+328
+00:12:05,360 --> 00:12:09,079
+increasingly consumerized because you
+
+329
+00:12:07,519 --> 00:12:11,519
+could own those End customer
+
+330
+00:12:09,079 --> 00:12:13,320
+relationships through digital technology
+
+331
+00:12:11,519 --> 00:12:15,639
+that was our big thesis when we started
+
+332
+00:12:13,320 --> 00:12:17,680
+the firm in 2014 at goodwi our
+
+333
+00:12:15,639 --> 00:12:20,040
+philosophy is that investing is both an
+
+334
+00:12:17,680 --> 00:12:21,959
+art and a science and so we leverage our
+
+335
+00:12:20,040 --> 00:12:24,600
+technology and our software to get to
+
+336
+00:12:21,959 --> 00:12:27,639
+the truth of the science part as quickly
+
+337
+00:12:24,600 --> 00:12:29,480
+as possible of our 65 66 person team
+
+338
+00:12:27,639 --> 00:12:31,240
+two-thirds of that team are actually
+
+339
+00:12:29,480 --> 00:12:33,320
+data scientists product managers and
+
+340
+00:12:31,240 --> 00:12:35,600
+engineers and since day one we've been
+
+341
+00:12:33,320 --> 00:12:38,000
+building an infrastructure a software
+
+342
+00:12:35,600 --> 00:12:40,199
+layer to enable us to look at consumer
+
+343
+00:12:38,000 --> 00:12:42,760
+technology companies so we find so much
+
+344
+00:12:40,199 --> 00:12:44,959
+value in looking at the data being able
+
+345
+00:12:42,760 --> 00:12:46,760
+to have this infrastructure to see
+
+346
+00:12:44,959 --> 00:12:49,440
+companies on a global basis we track
+
+347
+00:12:46,760 --> 00:12:53,079
+over 10 million companies in real time
+
+348
+00:12:49,440 --> 00:12:55,839
+so we have very very accessible reports
+
+349
+00:12:53,079 --> 00:12:57,639
+consumer research analytics benchmarks
+
+350
+00:12:55,839 --> 00:12:59,600
+that allow us to understand a company we
+
+351
+00:12:57,639 --> 00:13:01,680
+think better than any other firm because
+
+352
+00:12:59,600 --> 00:13:03,600
+we have so much data around it and we
+
+353
+00:13:01,680 --> 00:13:06,639
+know how to apply it so when we see a
+
+354
+00:13:03,600 --> 00:13:09,360
+new opportunity to invest in we're very
+
+355
+00:13:06,639 --> 00:13:11,760
+quickly able to assess is this company
+
+356
+00:13:09,360 --> 00:13:13,760
+Best in Class not only on growth but
+
+357
+00:13:11,760 --> 00:13:15,560
+also retention customer love what's
+
+358
+00:13:13,760 --> 00:13:18,760
+their differentiation all the hard
+
+359
+00:13:15,560 --> 00:13:20,800
+science of investing we've really locked
+
+360
+00:13:18,760 --> 00:13:23,680
+into a very strong process and a
+
+361
+00:13:20,800 --> 00:13:26,519
+platform itself what's as important and
+
+362
+00:13:23,680 --> 00:13:27,959
+it goes with it is the art part and
+
+363
+00:13:26,519 --> 00:13:29,959
+that's really understanding the
+
+364
+00:13:27,959 --> 00:13:32,519
+entrepreneur understanding that person's
+
+365
+00:13:29,959 --> 00:13:35,079
+will and desire to win that person's
+
+366
+00:13:32,519 --> 00:13:38,560
+desire to have impact Itself by taking
+
+367
+00:13:35,079 --> 00:13:41,040
+all the science and being able to really
+
+368
+00:13:38,560 --> 00:13:42,720
+get to truth as quickly as possible then
+
+369
+00:13:41,040 --> 00:13:44,160
+you can spend a lot more time on
+
+370
+00:13:42,720 --> 00:13:46,279
+spending time with the entrepreneur
+
+371
+00:13:44,160 --> 00:13:47,600
+understanding their M motivations
+
+372
+00:13:46,279 --> 00:13:49,320
+understanding what their long-term goal
+
+373
+00:13:47,600 --> 00:13:50,920
+is their vision for the company so if
+
+374
+00:13:49,320 --> 00:13:52,880
+you have seven days in the week in the
+
+375
+00:13:50,920 --> 00:13:54,800
+old process it used to take six days in
+
+376
+00:13:52,880 --> 00:13:56,480
+the week to do all the science and then
+
+377
+00:13:54,800 --> 00:13:58,720
+you have one day to maybe understand the
+
+378
+00:13:56,480 --> 00:14:00,920
+soft part or the art we've reversed that
+
+379
+00:13:58,720 --> 00:14:03,120
+is that it takes one day to understand
+
+380
+00:14:00,920 --> 00:14:04,880
+the science part of it the analytics all
+
+381
+00:14:03,120 --> 00:14:07,920
+the components that you can have
+
+382
+00:14:04,880 --> 00:14:09,320
+software and our data platform really
+
+383
+00:14:07,920 --> 00:14:10,839
+understand very quickly and spend the
+
+384
+00:14:09,320 --> 00:14:12,880
+other six days to really understand the
+
+385
+00:14:10,839 --> 00:14:15,079
+entrepreneur can we partner with this
+
+386
+00:14:12,880 --> 00:14:17,000
+person they have a similar philosophy
+
+387
+00:14:15,079 --> 00:14:19,079
+around putting the company first are
+
+388
+00:14:17,000 --> 00:14:21,440
+they open to feedback doing reference
+
+389
+00:14:19,079 --> 00:14:22,720
+checks deeply those soft elements of
+
+390
+00:14:21,440 --> 00:14:24,720
+what makes for a great entrepreneur
+
+391
+00:14:22,720 --> 00:14:26,680
+we're able to spend the vast majority of
+
+392
+00:14:24,720 --> 00:14:28,680
+time because of this dual approach
+
+393
+00:14:26,680 --> 00:14:30,639
+between Art and Science and so that's
+
+394
+00:14:28,680 --> 00:14:32,759
+been the harded soul of good water since
+
+395
+00:14:30,639 --> 00:14:35,399
+day one and something we continue to
+
+396
+00:14:32,759 --> 00:14:35,399
+innovate on
+
+397
+00:14:36,720 --> 00:14:42,320
+too we interview a lot Venture Capital
+
+398
+00:14:39,920 --> 00:14:44,480
+Associates VPS principles and partners
+
+399
+00:14:42,320 --> 00:14:47,079
+one of our screening criteria if you
+
+400
+00:14:44,480 --> 00:14:49,320
+want to be famous this is not the place
+
+401
+00:14:47,079 --> 00:14:52,040
+for you the goodw approach is one that
+
+402
+00:14:49,320 --> 00:14:53,360
+is obsessed with finding generational
+
+403
+00:14:52,040 --> 00:14:55,199
+companies that will have tremendous
+
+404
+00:14:53,360 --> 00:14:57,160
+impact one firm that I admire greatly is
+
+405
+00:14:55,199 --> 00:14:59,360
+seoa capital and they had this saying
+
+406
+00:14:57,160 --> 00:15:01,440
+that they were just one away if they
+
+407
+00:14:59,360 --> 00:15:03,279
+just missed one great deal then that
+
+408
+00:15:01,440 --> 00:15:05,240
+would lead them to potentially being a
+
+409
+00:15:03,279 --> 00:15:07,519
+mediocre firm and so they had this
+
+410
+00:15:05,240 --> 00:15:10,120
+obsession with finding great companies
+
+411
+00:15:07,519 --> 00:15:12,759
+if that is someone's singular purpose if
+
+412
+00:15:10,120 --> 00:15:15,160
+that is their Obsession as well which is
+
+413
+00:15:12,759 --> 00:15:16,920
+to find great companies and to invest in
+
+414
+00:15:15,160 --> 00:15:18,720
+them that's what we look for in young
+
+415
+00:15:16,920 --> 00:15:20,440
+Venture capitals and I think that's what
+
+416
+00:15:18,720 --> 00:15:21,800
+young people who are looking to get into
+
+417
+00:15:20,440 --> 00:15:23,440
+the Venture Capital should ask
+
+418
+00:15:21,800 --> 00:15:25,040
+themselves is this something that I'm
+
+419
+00:15:23,440 --> 00:15:27,560
+really obsessed with that I would go the
+
+420
+00:15:25,040 --> 00:15:30,560
+ends of the Earth to I will fly over
+
+421
+00:15:27,560 --> 00:15:32,399
+200,000 plus miles going back and forth
+
+422
+00:15:30,560 --> 00:15:34,199
+to countries to visit entrepreneurs it's
+
+423
+00:15:32,399 --> 00:15:36,399
+a really hard lifestyle it's not
+
+424
+00:15:34,199 --> 00:15:39,720
+glamorous but you do it because you love
+
+425
+00:15:36,399 --> 00:15:41,800
+it that you are obsessed with finding
+
+426
+00:15:39,720 --> 00:15:44,360
+that insight about a company that will
+
+427
+00:15:41,800 --> 00:15:46,040
+lead to investment that no one else in
+
+428
+00:15:44,360 --> 00:15:48,399
+the world might see and if that's
+
+429
+00:15:46,040 --> 00:15:50,519
+something that young people really want
+
+430
+00:15:48,399 --> 00:15:52,360
+to do and they're willing to put in the
+
+431
+00:15:50,519 --> 00:15:54,079
+hard work to have the discipline it's
+
+432
+00:15:52,360 --> 00:15:56,759
+like playing a sport you have to be like
+
+433
+00:15:54,079 --> 00:15:59,079
+an athlete you have to be able to invest
+
+434
+00:15:56,759 --> 00:16:01,079
+in your craft day in day out and get
+
+435
+00:15:59,079 --> 00:16:02,560
+incrementally better every week and it's
+
+436
+00:16:01,079 --> 00:16:04,680
+not something that will ever be handed
+
+437
+00:16:02,560 --> 00:16:06,959
+to you maybe some venture capitalist
+
+438
+00:16:04,680 --> 00:16:08,759
+just get lucky that's certainly possible
+
+439
+00:16:06,959 --> 00:16:10,880
+but to sustain a franchise and to
+
+440
+00:16:08,759 --> 00:16:12,959
+sustain a career over the long term it
+
+441
+00:16:10,880 --> 00:16:15,240
+really takes a lot of discipline hard
+
+442
+00:16:12,959 --> 00:16:17,480
+work and an intensity that is driven by
+
+443
+00:16:15,240 --> 00:16:19,279
+a passion to find and invest in great
+
+444
+00:16:17,480 --> 00:16:21,600
+companies and support them throughout
+
+445
+00:16:19,279 --> 00:16:23,600
+the life cycle of growth I teach a class
+
+446
+00:16:21,600 --> 00:16:25,800
+on this at various institutions but how
+
+447
+00:16:23,600 --> 00:16:28,440
+do you have an investor mindset that is
+
+448
+00:16:25,800 --> 00:16:31,079
+a able to see the big picture always
+
+449
+00:16:28,440 --> 00:16:33,360
+having that big picture that home run
+
+450
+00:16:31,079 --> 00:16:35,480
+Vision in your mind B understand what
+
+451
+00:16:33,360 --> 00:16:37,720
+are the key components that allows that
+
+452
+00:16:35,480 --> 00:16:40,319
+to come true what do you have to believe
+
+453
+00:16:37,720 --> 00:16:41,800
+for that big Vision to come true C
+
+454
+00:16:40,319 --> 00:16:44,600
+understand what are the key risks to
+
+455
+00:16:41,800 --> 00:16:47,120
+those and being able to D then research
+
+456
+00:16:44,600 --> 00:16:50,000
+those and underwrite those risks and
+
+457
+00:16:47,120 --> 00:16:52,120
+ultimately e taking a leap of faith that
+
+458
+00:16:50,000 --> 00:16:54,000
+allows you to put it all together to
+
+459
+00:16:52,120 --> 00:16:55,360
+have conviction in your idea whether
+
+460
+00:16:54,000 --> 00:16:57,440
+you're an investor or whether you're a
+
+461
+00:16:55,360 --> 00:16:59,680
+Founder having those key components and
+
+462
+00:16:57,440 --> 00:17:01,279
+being able to break it down I think
+
+463
+00:16:59,680 --> 00:17:02,839
+having this mindset for the key
+
+464
+00:17:01,279 --> 00:17:05,039
+decisions you need to make is something
+
+465
+00:17:02,839 --> 00:17:07,039
+that we talk about internally we
+
+466
+00:17:05,039 --> 00:17:09,480
+certainly teach it for our investors and
+
+467
+00:17:07,039 --> 00:17:10,839
+also I think great CEOs also have this
+
+468
+00:17:09,480 --> 00:17:12,559
+investor mindset too because they're
+
+469
+00:17:10,839 --> 00:17:14,280
+doing Capital allocation and they're
+
+470
+00:17:12,559 --> 00:17:16,400
+making decisions so how do you go
+
+471
+00:17:14,280 --> 00:17:18,439
+through that framework and be able to
+
+472
+00:17:16,400 --> 00:17:20,079
+follow it and then also know when not to
+
+473
+00:17:18,439 --> 00:17:22,520
+follow it when do you know to break the
+
+474
+00:17:20,079 --> 00:17:24,679
+rules too that's really where the Poetry
+
+475
+00:17:22,520 --> 00:17:26,480
+comes up about that you can able to
+
+476
+00:17:24,679 --> 00:17:28,679
+innovate and create new things when
+
+477
+00:17:26,480 --> 00:17:29,840
+you're able to have exceptions but to do
+
+478
+00:17:28,679 --> 00:17:32,080
+that you actually have to know the
+
+479
+00:17:29,840 --> 00:17:33,720
+Frameworks and the rules first we preach
+
+480
+00:17:32,080 --> 00:17:36,039
+both that the Frameworks are really
+
+481
+00:17:33,720 --> 00:17:37,919
+helpful but also really importantly
+
+482
+00:17:36,039 --> 00:17:39,800
+knowing when to break the rules too is
+
+483
+00:17:37,919 --> 00:17:55,180
+really important too
+
+484
+00:17:39,800 --> 00:17:55,180
+[Music]
+

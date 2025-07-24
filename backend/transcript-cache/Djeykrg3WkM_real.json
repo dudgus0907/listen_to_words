@@ -1,0 +1,1006 @@
+{
+  "success": true,
+  "videoId": "Djeykrg3WkM",
+  "videoTitle": "Built to Share： 2M Users in 18 Months ｜ Julius AI, Rahul Sonwalkar",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "I quit my job and then it took a year"
+    },
+    {
+      "start": 1,
+      "text": "and a half for me to launch Julius after"
+    },
+    {
+      "start": 4,
+      "text": "that. When I when I went all in, I was"
+    },
+    {
+      "start": 6,
+      "text": "nervous to be honest. I was scared, but"
+    },
+    {
+      "start": 8,
+      "text": "it's being a little scared is good. I"
+    },
+    {
+      "start": 10,
+      "text": "think fear is good. You It keeps you"
+    },
+    {
+      "start": 12,
+      "text": "sharp. It keeps you on your toes. You're"
+    },
+    {
+      "start": 14,
+      "text": "able to see through things. When you're"
+    },
+    {
+      "start": 17,
+      "text": "in a comfortable place, it it breeds"
+    },
+    {
+      "start": 19,
+      "text": "complacency and you're often, you know,"
+    },
+    {
+      "start": 22,
+      "text": "fooling yourself into believing that"
+    },
+    {
+      "start": 23,
+      "text": "your ideas are going to work one day."
+    },
+    {
+      "start": 25,
+      "text": "But then when all the bridges are burned"
+    },
+    {
+      "start": 27,
+      "text": "and you really have to make a thing"
+    },
+    {
+      "start": 28,
+      "text": "work, you start thinking, you start"
+    },
+    {
+      "start": 30,
+      "text": "taking risks, taking shots at goal. But"
+    },
+    {
+      "start": 33,
+      "text": "having no other boats, you know, no life"
+    },
+    {
+      "start": 36,
+      "text": "boats, it it was a little scary, but I"
+    },
+    {
+      "start": 38,
+      "text": "think it was good."
+    },
+    {
+      "start": 44,
+      "text": "I'm Rahul, founder and CEO of Julius AI."
+    },
+    {
+      "start": 47,
+      "text": "Julius is an AI data analyst. If you"
+    },
+    {
+      "start": 49,
+      "text": "have data on your hands, Julius will"
+    },
+    {
+      "start": 51,
+      "text": "help you get insights from your data"
+    },
+    {
+      "start": 52,
+      "text": "within seconds and help you make charts"
+    },
+    {
+      "start": 54,
+      "text": "and data visualizations. Since launching"
+    },
+    {
+      "start": 56,
+      "text": "in 2023, our users have used Julius to"
+    },
+    {
+      "start": 59,
+      "text": "make over 10 million data"
+    },
+    {
+      "start": 61,
+      "text": "visualizations. Every day, Julius writes"
+    },
+    {
+      "start": 64,
+      "text": "over 4 million lines of analysis code. 4"
+    },
+    {
+      "start": 67,
+      "text": "million lines of code is more than an"
+    },
+    {
+      "start": 69,
+      "text": "army of data scientists can write every"
+    },
+    {
+      "start": 71,
+      "text": "day. It took about a year and a half to"
+    },
+    {
+      "start": 73,
+      "text": "get to 2 million users."
+    },
+    {
+      "start": 82,
+      "text": "For AI startups, I'll say focus. Don't"
+    },
+    {
+      "start": 86,
+      "text": "build a general purpose tool. Startups"
+    },
+    {
+      "start": 89,
+      "text": "win because of focus. That's the only"
+    },
+    {
+      "start": 92,
+      "text": "advantage you have as a startup. Now,"
+    },
+    {
+      "start": 93,
+      "text": "Chad GBD is like all-in-one tool. Making"
+    },
+    {
+      "start": 96,
+      "text": "videos, making images, doing internet"
+    },
+    {
+      "start": 98,
+      "text": "search, writing essays, and it's just"
+    },
+    {
+      "start": 100,
+      "text": "allin-one tool. And it's not focused on"
+    },
+    {
+      "start": 103,
+      "text": "data analysis. So, the experience is"
+    },
+    {
+      "start": 104,
+      "text": "much worse. A lot of our users they"
+    },
+    {
+      "start": 107,
+      "text": "start with using Chad GPT and they"
+    },
+    {
+      "start": 110,
+      "text": "realize that to analyze any kind of real"
+    },
+    {
+      "start": 114,
+      "text": "data to get any kind of meaningful"
+    },
+    {
+      "start": 116,
+      "text": "insights Chad GPD falls short. The"
+    },
+    {
+      "start": 119,
+      "text": "quality of insights you get aren't that"
+    },
+    {
+      "start": 121,
+      "text": "deep. It cannot handle any kind of real"
+    },
+    {
+      "start": 123,
+      "text": "data. The charts don't look good. You"
+    },
+    {
+      "start": 125,
+      "text": "can't collaborate with your colleagues"
+    },
+    {
+      "start": 126,
+      "text": "on the analysis. So all these problems"
+    },
+    {
+      "start": 129,
+      "text": "people run into after using it for a day"
+    },
+    {
+      "start": 131,
+      "text": "for analysis and they all go to Google"
+    },
+    {
+      "start": 134,
+      "text": "and they look up AI data analysis and"
+    },
+    {
+      "start": 137,
+      "text": "the number one search result on Google"
+    },
+    {
+      "start": 139,
+      "text": "for that is Julius."
+    },
+    {
+      "start": 142,
+      "text": "It's kind of like think about hiring"
+    },
+    {
+      "start": 143,
+      "text": "humans. Would you want to hire one human"
+    },
+    {
+      "start": 146,
+      "text": "that can do everything? You you can and"
+    },
+    {
+      "start": 148,
+      "text": "that will help you get decent results."
+    },
+    {
+      "start": 151,
+      "text": "But then there's comes a point where you"
+    },
+    {
+      "start": 153,
+      "text": "want someone with deep expertise,"
+    },
+    {
+      "start": 155,
+      "text": "someone who's really really good at one"
+    },
+    {
+      "start": 157,
+      "text": "function like a marketer, finance prof,"
+    },
+    {
+      "start": 160,
+      "text": "finance person, an engineer. I think"
+    },
+    {
+      "start": 162,
+      "text": "focus agents for a task have much more"
+    },
+    {
+      "start": 166,
+      "text": "competitive advantage than like the"
+    },
+    {
+      "start": 167,
+      "text": "general purpose agent."
+    },
+    {
+      "start": 174,
+      "text": "You know, there's this like conventional"
+    },
+    {
+      "start": 176,
+      "text": "meme like Google just killed your"
+    },
+    {
+      "start": 177,
+      "text": "startup, OpenAI just killed your"
+    },
+    {
+      "start": 179,
+      "text": "startup, XYZ just killed this all"
+    },
+    {
+      "start": 181,
+      "text": "startup. I think all that is very"
+    },
+    {
+      "start": 182,
+      "text": "overblown. As long as your users don't"
+    },
+    {
+      "start": 185,
+      "text": "care about that stuff, it shouldn't"
+    },
+    {
+      "start": 186,
+      "text": "matter. If you're building something"
+    },
+    {
+      "start": 187,
+      "text": "that solves a problem for people, if"
+    },
+    {
+      "start": 189,
+      "text": "you're doing that good job at that"
+    },
+    {
+      "start": 190,
+      "text": "better than everyone else, that all"
+    },
+    {
+      "start": 192,
+      "text": "that's all that matters. So, this is"
+    },
+    {
+      "start": 194,
+      "text": "back in college when I got into the"
+    },
+    {
+      "start": 196,
+      "text": "hackathon scene. I would go to these"
+    },
+    {
+      "start": 197,
+      "text": "hackathons. The big problem I noticed is"
+    },
+    {
+      "start": 200,
+      "text": "you have 48 hours to build and launch"
+    },
+    {
+      "start": 202,
+      "text": "idea. A lot of the time people would"
+    },
+    {
+      "start": 204,
+      "text": "spend on setting up a backend service,"
+    },
+    {
+      "start": 207,
+      "text": "setting up their database and I thought"
+    },
+    {
+      "start": 210,
+      "text": "that was a waste of time. So water"
+    },
+    {
+      "start": 212,
+      "text": "review was this, you know, managed"
+    },
+    {
+      "start": 214,
+      "text": "service. You would get out of box like a"
+    },
+    {
+      "start": 216,
+      "text": "backend server or database that just"
+    },
+    {
+      "start": 218,
+      "text": "kind of worked. It got a lot of users"
+    },
+    {
+      "start": 220,
+      "text": "and I would go to these hackathons, give"
+    },
+    {
+      "start": 222,
+      "text": "it to people and they would try it. It"
+    },
+    {
+      "start": 224,
+      "text": "would save them time. But problem was"
+    },
+    {
+      "start": 226,
+      "text": "none of the people that built their"
+    },
+    {
+      "start": 228,
+      "text": "hackathon projects, their weekend"
+    },
+    {
+      "start": 230,
+      "text": "projects on waterview continued to work"
+    },
+    {
+      "start": 231,
+      "text": "on those projects after that weekend."
+    },
+    {
+      "start": 233,
+      "text": "You know, it was like a weekend thing."
+    },
+    {
+      "start": 235,
+      "text": "The big lesson there was you can solve"
+    },
+    {
+      "start": 238,
+      "text": "the right problem. You can solve a"
+    },
+    {
+      "start": 240,
+      "text": "painoint for people, but if they don't"
+    },
+    {
+      "start": 242,
+      "text": "have that pain point daily or weekly,"
+    },
+    {
+      "start": 245,
+      "text": "they're not going to retain. They're not"
+    },
+    {
+      "start": 246,
+      "text": "going to come back to the product. You"
+    },
+    {
+      "start": 248,
+      "text": "you have to solve a problem people have."
+    },
+    {
+      "start": 249,
+      "text": "If they have it only once a year or once"
+    },
+    {
+      "start": 252,
+      "text": "every 6 months or once a month, they're"
+    },
+    {
+      "start": 254,
+      "text": "not going to retain to your product."
+    },
+    {
+      "start": 256,
+      "text": "That's the reason why water we failed."
+    },
+    {
+      "start": 258,
+      "text": "And that was a very valuable lesson."
+    },
+    {
+      "start": 265,
+      "text": "I worked as an engineer at Uber and"
+    },
+    {
+      "start": 267,
+      "text": "Facebook. When you're at a big company"
+    },
+    {
+      "start": 269,
+      "text": "and you have an idea, one no can kill"
+    },
+    {
+      "start": 271,
+      "text": "that idea. Get a yes from your manager."
+    },
+    {
+      "start": 273,
+      "text": "You have to get a yes from your"
+    },
+    {
+      "start": 274,
+      "text": "manager's manager, design manager,"
+    },
+    {
+      "start": 276,
+      "text": "product manager. You have to get all"
+    },
+    {
+      "start": 278,
+      "text": "these yeses and even one no can kill"
+    },
+    {
+      "start": 281,
+      "text": "your idea. So innovation doesn't really"
+    },
+    {
+      "start": 284,
+      "text": "happen in big companies. And then at a"
+    },
+    {
+      "start": 286,
+      "text": "startup it's complete opposite. All you"
+    },
+    {
+      "start": 288,
+      "text": "need is one yes. Looking for customers"
+    },
+    {
+      "start": 290,
+      "text": "you know you can get 50 nos but one yes"
+    },
+    {
+      "start": 293,
+      "text": "your first customer that's all that"
+    },
+    {
+      "start": 294,
+      "text": "matters. Instead of one no killing your"
+    },
+    {
+      "start": 296,
+      "text": "idea. One yes can really make your"
+    },
+    {
+      "start": 298,
+      "text": "company work. So, one of the problems I"
+    },
+    {
+      "start": 300,
+      "text": "was trying to solve at Uber is people"
+    },
+    {
+      "start": 303,
+      "text": "book Uber rides usually for things that"
+    },
+    {
+      "start": 307,
+      "text": "they can't drive to, like uh like an"
+    },
+    {
+      "start": 310,
+      "text": "airport or from an airport or when"
+    },
+    {
+      "start": 312,
+      "text": "they're out going out at night to bars"
+    },
+    {
+      "start": 315,
+      "text": "or restaurants. That sporadic usage is"
+    },
+    {
+      "start": 318,
+      "text": "not good for Uber. One of the things I"
+    },
+    {
+      "start": 320,
+      "text": "wanted to solve for is how could we get"
+    },
+    {
+      "start": 322,
+      "text": "people to use Uber on a daily and weekly"
+    },
+    {
+      "start": 324,
+      "text": "basis? So, I wanted to launch this"
+    },
+    {
+      "start": 326,
+      "text": "commuter product at Uber. How can we"
+    },
+    {
+      "start": 328,
+      "text": "help people use you know Uber's"
+    },
+    {
+      "start": 330,
+      "text": "offerings Uber transit Uber X Uber um"
+    },
+    {
+      "start": 335,
+      "text": "Uber mobility like bikes as scooters all"
+    },
+    {
+      "start": 337,
+      "text": "that as a part of a commuter package"
+    },
+    {
+      "start": 339,
+      "text": "that companies could offer their"
+    },
+    {
+      "start": 340,
+      "text": "employees. So I wanted to pitch the"
+    },
+    {
+      "start": 341,
+      "text": "idea. I was pushing it really really"
+    },
+    {
+      "start": 343,
+      "text": "hard and you know I got buy in from a"
+    },
+    {
+      "start": 346,
+      "text": "lot of cross functional management. I"
+    },
+    {
+      "start": 348,
+      "text": "couldn't get behind from our um"
+    },
+    {
+      "start": 350,
+      "text": "engineering leader and I couldn't get in"
+    },
+    {
+      "start": 352,
+      "text": "from the engineering leader and that"
+    },
+    {
+      "start": 354,
+      "text": "crush idea but at the same time I was"
+    },
+    {
+      "start": 355,
+      "text": "building apps and different ideas on the"
+    },
+    {
+      "start": 358,
+      "text": "side on the weekends and that motivated"
+    },
+    {
+      "start": 360,
+      "text": "me to just like quit my job and spend a"
+    },
+    {
+      "start": 363,
+      "text": "year exploring my ideas full-time."
+    },
+    {
+      "start": 371,
+      "text": "Every failure is is is good. Failing is"
+    },
+    {
+      "start": 375,
+      "text": "good because you know what's what's not"
+    },
+    {
+      "start": 378,
+      "text": "working. I I I talk to founders and they"
+    },
+    {
+      "start": 381,
+      "text": "they're too scared to launch, too scared"
+    },
+    {
+      "start": 383,
+      "text": "to tell people what their idea is."
+    },
+    {
+      "start": 385,
+      "text": "They're too scared to put the product"
+    },
+    {
+      "start": 386,
+      "text": "out there. I'm the opposite. You know,"
+    },
+    {
+      "start": 388,
+      "text": "at Julius, we launch things when they're"
+    },
+    {
+      "start": 390,
+      "text": "barely working because you want to get"
+    },
+    {
+      "start": 392,
+      "text": "early feedback from our users, our"
+    },
+    {
+      "start": 394,
+      "text": "customers. We want them to try it out."
+    },
+    {
+      "start": 395,
+      "text": "We want to learn from our users and"
+    },
+    {
+      "start": 397,
+      "text": "customers on what they actually want and"
+    },
+    {
+      "start": 399,
+      "text": "how the things should work. So, I'll"
+    },
+    {
+      "start": 400,
+      "text": "give you one of the examples. We were"
+    },
+    {
+      "start": 402,
+      "text": "building in you know data and AI and"
+    },
+    {
+      "start": 404,
+      "text": "insights and we thought you know one of"
+    },
+    {
+      "start": 407,
+      "text": "the one of the group of people that want"
+    },
+    {
+      "start": 409,
+      "text": "insights from data but don't have the"
+    },
+    {
+      "start": 411,
+      "text": "expertise to go do data science on their"
+    },
+    {
+      "start": 413,
+      "text": "own is is sports fans. We built this"
+    },
+    {
+      "start": 415,
+      "text": "thing called NBA GPD was called hoops"
+    },
+    {
+      "start": 418,
+      "text": "GPD could help you query NBA data"
+    },
+    {
+      "start": 420,
+      "text": "playby-play data but just asking simple"
+    },
+    {
+      "start": 423,
+      "text": "questions. We had to build the UI, the"
+    },
+    {
+      "start": 425,
+      "text": "interface, figure out how this text to"
+    },
+    {
+      "start": 428,
+      "text": "querying engine is going to work and"
+    },
+    {
+      "start": 431,
+      "text": "ship the whole thing in like two weeks"
+    },
+    {
+      "start": 433,
+      "text": "because if you were too late, the NBA"
+    },
+    {
+      "start": 435,
+      "text": "season would be over. It was no point to"
+    },
+    {
+      "start": 438,
+      "text": "wait a year to try the idea again. And"
+    },
+    {
+      "start": 441,
+      "text": "turns out like sports fans aren't that"
+    },
+    {
+      "start": 444,
+      "text": "savvy about data. Turns out it's only"
+    },
+    {
+      "start": 446,
+      "text": "the people that want to do betting. Yep."
+    },
+    {
+      "start": 448,
+      "text": "Really aren't the users you want to"
+    },
+    {
+      "start": 449,
+      "text": "serve. So we learn very quickly know"
+    },
+    {
+      "start": 452,
+      "text": "whether it's something people want or"
+    },
+    {
+      "start": 454,
+      "text": "don't want. We don't want to build"
+    },
+    {
+      "start": 455,
+      "text": "something that no one will ever want to"
+    },
+    {
+      "start": 457,
+      "text": "use. I think failing is important."
+    },
+    {
+      "start": 459,
+      "text": "Failing fast is really really important."
+    },
+    {
+      "start": 461,
+      "text": "Paul Graham talks about this in his"
+    },
+    {
+      "start": 462,
+      "text": "essays all the time. It's like failing"
+    },
+    {
+      "start": 464,
+      "text": "fast is super important."
+    },
+    {
+      "start": 470,
+      "text": "This is months after launching Julius."
+    },
+    {
+      "start": 473,
+      "text": "We had about 10 15,000 users and most of"
+    },
+    {
+      "start": 476,
+      "text": "our users at that point were actually"
+    },
+    {
+      "start": 478,
+      "text": "coming from Chad GPT. Chad GP is this"
+    },
+    {
+      "start": 480,
+      "text": "plug-in store where users would discover"
+    },
+    {
+      "start": 483,
+      "text": "Julius and they would come to Julius,"
+    },
+    {
+      "start": 486,
+      "text": "stay with Julius and use Julius over and"
+    },
+    {
+      "start": 488,
+      "text": "over and it's going great and it's going"
+    },
+    {
+      "start": 490,
+      "text": "great. We're growing overnight. Open"
+    },
+    {
+      "start": 493,
+      "text": "announces that the plug-in store is"
+    },
+    {
+      "start": 494,
+      "text": "going to get shut down and our biggest"
+    },
+    {
+      "start": 496,
+      "text": "source of users disappeared overnight."
+    },
+    {
+      "start": 499,
+      "text": "So we had to scramble and figure out how"
+    },
+    {
+      "start": 503,
+      "text": "we're going to get more users and where"
+    },
+    {
+      "start": 504,
+      "text": "we're going to get users from. So that"
+    },
+    {
+      "start": 507,
+      "text": "was an existential moment and that is"
+    },
+    {
+      "start": 510,
+      "text": "what really got us to move fast and"
+    },
+    {
+      "start": 512,
+      "text": "figure out okay how do we get our users"
+    },
+    {
+      "start": 514,
+      "text": "to become champions of Julius. Then we"
+    },
+    {
+      "start": 517,
+      "text": "realized that when people analyze data"
+    },
+    {
+      "start": 520,
+      "text": "they want to tell their colleagues about"
+    },
+    {
+      "start": 522,
+      "text": "it. When you get an insight you don't"
+    },
+    {
+      "start": 524,
+      "text": "keep it to yourself. You want to tell"
+    },
+    {
+      "start": 525,
+      "text": "your colleagues you want to tell your"
+    },
+    {
+      "start": 526,
+      "text": "team. And so we build sharing into the"
+    },
+    {
+      "start": 529,
+      "text": "product. If you solve a problem that"
+    },
+    {
+      "start": 531,
+      "text": "people have, they will come to you."
+    },
+    {
+      "start": 532,
+      "text": "They'll come to you and they will use"
+    },
+    {
+      "start": 534,
+      "text": "your product and they'll tell their"
+    },
+    {
+      "start": 536,
+      "text": "friends about it. So word of mouth is a"
+    },
+    {
+      "start": 539,
+      "text": "free way to grow your product."
+    },
+    {
+      "start": 543,
+      "text": "If I were to start from scratch today,"
+    },
+    {
+      "start": 545,
+      "text": "what would I do differently?"
+    },
+    {
+      "start": 549,
+      "text": "Nothing. I think you know all the things"
+    },
+    {
+      "start": 552,
+      "text": "I would consider as like missteps things"
+    },
+    {
+      "start": 556,
+      "text": "um I could have avoided I think those"
+    },
+    {
+      "start": 558,
+      "text": "are valuable lessons you know all the"
+    },
+    {
+      "start": 561,
+      "text": "features we tried and didn't work out"
+    },
+    {
+      "start": 563,
+      "text": "all that is really valuable lesson"
+    },
+    {
+      "start": 565,
+      "text": "that's helpful data you can if you have"
+    },
+    {
+      "start": 568,
+      "text": "only data from successes then that's"
+    },
+    {
+      "start": 570,
+      "text": "very skewed you know what doesn't work"
+    },
+    {
+      "start": 573,
+      "text": "so it's really important to try a lot of"
+    },
+    {
+      "start": 574,
+      "text": "things things that don't work also"
+    },
+    {
+      "start": 577,
+      "text": "important because now you know what"
+    },
+    {
+      "start": 578,
+      "text": "doesn't work honestly like I would not"
+    },
+    {
+      "start": 579,
+      "text": "do anything differently."
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 249,
+  "timestamp": "2025-07-24T08:16:52.888Z"
+}

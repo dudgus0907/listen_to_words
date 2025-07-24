@@ -1,0 +1,1028 @@
+1
+00:00:03,120 --> 00:00:07,120
+that's really been exciting about
+
+2
+00:00:05,359 --> 00:00:08,800
+building this company, especially over
+
+3
+00:00:07,120 --> 00:00:11,120
+the past year as code generation has
+
+4
+00:00:08,800 --> 00:00:13,040
+gotten so good. As agents get better and
+
+5
+00:00:11,120 --> 00:00:14,559
+better at generating code, the the way
+
+6
+00:00:13,040 --> 00:00:16,560
+that you're interacting with them
+
+7
+00:00:14,559 --> 00:00:19,359
+probably isn't going to look like how we
+
+8
+00:00:16,560 --> 00:00:21,760
+we write code today. it's v 0ero bolt
+
+9
+00:00:19,359 --> 00:00:23,119
+new replet agent like something like
+
+10
+00:00:21,760 --> 00:00:24,800
+that where you know where you're
+
+11
+00:00:23,119 --> 00:00:26,880
+interacting with these agents and
+
+12
+00:00:24,800 --> 00:00:29,439
+prompting them and and iterating on
+
+13
+00:00:26,880 --> 00:00:31,920
+their experiences and it's almost more
+
+14
+00:00:29,439 --> 00:00:34,320
+analogous to code review than it is to
+
+15
+00:00:31,920 --> 00:00:36,160
+how we would write code previously and
+
+16
+00:00:34,320 --> 00:00:38,399
+that's why we think like owning code
+
+17
+00:00:36,160 --> 00:00:40,800
+review as as the starting point is what
+
+18
+00:00:38,399 --> 00:00:42,480
+matters you know far more so than the
+
+19
+00:00:40,800 --> 00:00:45,600
+fist fight that's happening over like in
+
+20
+00:00:42,480 --> 00:00:45,600
+loop code generation right
+
+21
+00:00:48,480 --> 00:00:52,960
+Hi, I'm Mel Lutzky, co-founder and CEO
+
+22
+00:00:50,800 --> 00:00:55,039
+of Graphite. Graphite is the code review
+
+23
+00:00:52,960 --> 00:00:57,039
+platform for the age of AI. We take
+
+24
+00:00:55,039 --> 00:00:58,960
+best-in-class workflows and tooling from
+
+25
+00:00:57,039 --> 00:01:01,280
+companies like Google and Meta and
+
+26
+00:00:58,960 --> 00:01:03,760
+combine them with our agentic AI code
+
+27
+00:01:01,280 --> 00:01:05,760
+review companion to help engineers uh
+
+28
+00:01:03,760 --> 00:01:07,760
+create, review, and merge code changes
+
+29
+00:01:05,760 --> 00:01:10,880
+faster than ever. We work closely with
+
+30
+00:01:07,760 --> 00:01:13,119
+the team at Enthropic um to power our AI
+
+31
+00:01:10,880 --> 00:01:16,000
+code review agent um called Diamond. The
+
+32
+00:01:13,119 --> 00:01:18,799
+series B that we just announced was $52
+
+33
+00:01:16,000 --> 00:01:20,150
+million. Um, and Graphite has grown 20x
+
+34
+00:01:18,799 --> 00:01:24,600
+in the past
+
+35
+00:01:20,150 --> 00:01:28,560
+[Music]
+
+36
+00:01:24,600 --> 00:01:30,400
+year. Graphite started on a completely
+
+37
+00:01:28,560 --> 00:01:32,479
+different idea. We actually we actually
+
+38
+00:01:30,400 --> 00:01:33,759
+had sort of two one small pivot in the
+
+39
+00:01:32,479 --> 00:01:36,640
+beginning in the first three months and
+
+40
+00:01:33,759 --> 00:01:39,520
+then then the iOS tool. We'd hired in
+
+41
+00:01:36,640 --> 00:01:42,640
+the process then a few engineers uh a
+
+42
+00:01:39,520 --> 00:01:44,320
+few of Tomas's ex-coorkers from Meta and
+
+43
+00:01:42,640 --> 00:01:46,399
+this we'd had this really peculiar thing
+
+44
+00:01:44,320 --> 00:01:48,560
+that happened when when they onboarded.
+
+45
+00:01:46,399 --> 00:01:50,479
+So they'd start on their first day we'd
+
+46
+00:01:48,560 --> 00:01:52,079
+get them set up on GitHub. We'd show
+
+47
+00:01:50,479 --> 00:01:55,040
+them how we do code review at the
+
+48
+00:01:52,079 --> 00:01:57,360
+company and all of them had this kind of
+
+49
+00:01:55,040 --> 00:01:59,280
+allergic reaction to it immediately and
+
+50
+00:01:57,360 --> 00:02:00,960
+they all said you know this feels like
+
+51
+00:01:59,280 --> 00:02:03,200
+so much slower than the tooling that I'd
+
+52
+00:02:00,960 --> 00:02:06,560
+had at Meta. I I feel like a caveman
+
+53
+00:02:03,200 --> 00:02:08,640
+using this. Google and Meta have both
+
+54
+00:02:06,560 --> 00:02:10,560
+built amazing internal tools to help
+
+55
+00:02:08,640 --> 00:02:12,720
+their their teams of thousands or tens
+
+56
+00:02:10,560 --> 00:02:16,080
+of thousands of engineers um all working
+
+57
+00:02:12,720 --> 00:02:18,239
+on on one monor repo at once even across
+
+58
+00:02:16,080 --> 00:02:20,640
+across time zones and across you know
+
+59
+00:02:18,239 --> 00:02:22,800
+spanning these massive code bases. And
+
+60
+00:02:20,640 --> 00:02:25,920
+um if you go outside of those walls
+
+61
+00:02:22,800 --> 00:02:28,400
+though u it's very hard to to get that
+
+62
+00:02:25,920 --> 00:02:30,560
+same level of of productivity and uh
+
+63
+00:02:28,400 --> 00:02:32,319
+have that same that same tool chain. And
+
+64
+00:02:30,560 --> 00:02:34,400
+that was a lot of why, you know, why we
+
+65
+00:02:32,319 --> 00:02:36,800
+started Graphite was we saw kind of the
+
+66
+00:02:34,400 --> 00:02:38,319
+the gap between what we'd had at at the
+
+67
+00:02:36,800 --> 00:02:40,480
+large companies that that all us and the
+
+68
+00:02:38,319 --> 00:02:43,040
+founding team had worked on and what was
+
+69
+00:02:40,480 --> 00:02:44,959
+available to every company when they're
+
+70
+00:02:43,040 --> 00:02:46,879
+just getting started. And um that was
+
+71
+00:02:44,959 --> 00:02:49,280
+really what inspired us to to build
+
+72
+00:02:46,879 --> 00:02:51,519
+graphite. I think it's so important to
+
+73
+00:02:49,280 --> 00:02:53,360
+like deeply understand and care about
+
+74
+00:02:51,519 --> 00:02:55,120
+the user that you're building for.
+
+75
+00:02:53,360 --> 00:02:57,519
+You're going to spend if your company is
+
+76
+00:02:55,120 --> 00:02:58,959
+successful, you know, 10 plus years
+
+77
+00:02:57,519 --> 00:03:01,200
+talking to these people every single
+
+78
+00:02:58,959 --> 00:03:02,879
+day. And if you don't genuinely care
+
+79
+00:03:01,200 --> 00:03:04,800
+about making their lives better, about
+
+80
+00:03:02,879 --> 00:03:07,120
+solving their problems and about
+
+81
+00:03:04,800 --> 00:03:09,120
+building uh product experience they
+
+82
+00:03:07,120 --> 00:03:11,040
+really enjoy using and get a ton of
+
+83
+00:03:09,120 --> 00:03:12,800
+value from, it's going to be really hard
+
+84
+00:03:11,040 --> 00:03:14,800
+to just sustain your your level of
+
+85
+00:03:12,800 --> 00:03:17,120
+enthusiasm about that. And one of the
+
+86
+00:03:14,800 --> 00:03:18,400
+the things that's so fun about graphite
+
+87
+00:03:17,120 --> 00:03:20,239
+and one of the best parts about getting
+
+88
+00:03:18,400 --> 00:03:23,120
+to work on this is that it is something
+
+89
+00:03:20,239 --> 00:03:24,640
+that we all on the team use every day. A
+
+90
+00:03:23,120 --> 00:03:26,720
+lot of like great companies use every
+
+91
+00:03:24,640 --> 00:03:28,879
+day. our friends at at these companies
+
+92
+00:03:26,720 --> 00:03:30,720
+are are using and are constantly texting
+
+93
+00:03:28,879 --> 00:03:32,799
+me with feedback. It's just fun to be
+
+94
+00:03:30,720 --> 00:03:35,599
+able to to build something that that's
+
+95
+00:03:32,799 --> 00:03:37,760
+for um a user that we're so you know
+
+96
+00:03:35,599 --> 00:03:39,920
+that we're so deeply familiar with and
+
+97
+00:03:37,760 --> 00:03:41,920
+um that we genuinely care about and and
+
+98
+00:03:39,920 --> 00:03:44,000
+want to like make their lives better. So
+
+99
+00:03:41,920 --> 00:03:46,239
+in the beginning we started with tool
+
+100
+00:03:44,000 --> 00:03:48,799
+for creating stacked pull requests. The
+
+101
+00:03:46,239 --> 00:03:50,799
+idea of stack pull requests um is that
+
+102
+00:03:48,799 --> 00:03:53,120
+instead you you break and having that
+
+103
+00:03:50,799 --> 00:03:56,319
+all be one pull request um instead you
+
+104
+00:03:53,120 --> 00:03:58,480
+break that up into a series of small
+
+105
+00:03:56,319 --> 00:04:00,080
+dependent changes um that all sort of
+
+106
+00:03:58,480 --> 00:04:01,840
+chain together and build upon each
+
+107
+00:04:00,080 --> 00:04:03,360
+other. And the advantage of this is that
+
+108
+00:04:01,840 --> 00:04:05,200
+you know first of all nobody likes to
+
+109
+00:04:03,360 --> 00:04:06,480
+review like a thousand line pull
+
+110
+00:04:05,200 --> 00:04:07,920
+request. that's like, you know, there's
+
+111
+00:04:06,480 --> 00:04:10,239
+that meme that's like, you know,
+
+112
+00:04:07,920 --> 00:04:11,920
+thousand lines like looks good to me.
+
+113
+00:04:10,239 --> 00:04:14,400
+And I think that that really is is what
+
+114
+00:04:11,920 --> 00:04:16,639
+you see play play out in the data. Like
+
+115
+00:04:14,400 --> 00:04:18,959
+nobody wants to to like give a detailed
+
+116
+00:04:16,639 --> 00:04:21,040
+review to a change that big. Um that's
+
+117
+00:04:18,959 --> 00:04:23,520
+really why, you know, why stacking is is
+
+118
+00:04:21,040 --> 00:04:25,199
+so powerful is it just it gives you so
+
+119
+00:04:23,520 --> 00:04:26,800
+much time back um that you would have
+
+120
+00:04:25,199 --> 00:04:28,400
+spent kind of sitting on your hands or
+
+121
+00:04:26,800 --> 00:04:30,960
+trying to find something else to build.
+
+122
+00:04:28,400 --> 00:04:32,880
+And we've seen like really meaningful
+
+123
+00:04:30,960 --> 00:04:35,280
+improvements in in development speed at
+
+124
+00:04:32,880 --> 00:04:37,759
+many of our top customers. ASA was the
+
+125
+00:04:35,280 --> 00:04:39,919
+one where where we save 7 hours per
+
+126
+00:04:37,759 --> 00:04:42,320
+developer per week. At RAMP, we
+
+127
+00:04:39,919 --> 00:04:43,919
+increased their development speed by 3x.
+
+128
+00:04:42,320 --> 00:04:45,680
+One of our adviserss kind of famously
+
+129
+00:04:43,919 --> 00:04:47,440
+said like once you stack, you don't go
+
+130
+00:04:45,680 --> 00:04:49,600
+back. And I think that that's really
+
+131
+00:04:47,440 --> 00:04:51,440
+true in terms of the both like the user
+
+132
+00:04:49,600 --> 00:04:53,440
+excitement and then also just the the
+
+133
+00:04:51,440 --> 00:04:55,360
+retention numbers and and you know the
+
+134
+00:04:53,440 --> 00:04:57,919
+engagement that we see with graphite
+
+135
+00:04:55,360 --> 00:04:57,919
+pretty much every
+
+136
+00:05:02,520 --> 00:05:08,080
+day as every engineer has tools like you
+
+137
+00:05:05,520 --> 00:05:09,759
+know cursor and windsurf and copilot and
+
+138
+00:05:08,080 --> 00:05:12,240
+even some of these more agentic code
+
+139
+00:05:09,759 --> 00:05:14,800
+generation tools now uh they're able to
+
+140
+00:05:12,240 --> 00:05:17,039
+like write code faster than ever uh they
+
+141
+00:05:14,800 --> 00:05:18,880
+can they can do or they're creating more
+
+142
+00:05:17,039 --> 00:05:20,800
+code changes than than they ever have
+
+143
+00:05:18,880 --> 00:05:22,800
+before. That's only really the first
+
+144
+00:05:20,800 --> 00:05:24,479
+part of the story. I think even what
+
+145
+00:05:22,800 --> 00:05:26,560
+we're seeing with with vibe coding right
+
+146
+00:05:24,479 --> 00:05:29,120
+now is a lot of those products are kind
+
+147
+00:05:26,560 --> 00:05:31,039
+of MVP like there. You still need to
+
+148
+00:05:29,120 --> 00:05:32,639
+take that change and get it through code
+
+149
+00:05:31,039 --> 00:05:34,720
+review. You still need to test it. You
+
+150
+00:05:32,639 --> 00:05:36,960
+still need to deploy it and measure the
+
+151
+00:05:34,720 --> 00:05:38,720
+impact. and that whole kind of outer
+
+152
+00:05:36,960 --> 00:05:40,880
+loop process um where you're
+
+153
+00:05:38,720 --> 00:05:42,800
+collaborating with your teammates that's
+
+154
+00:05:40,880 --> 00:05:45,199
+like a huge part of of your life you
+
+155
+00:05:42,800 --> 00:05:47,280
+know almost as much in many cases as the
+
+156
+00:05:45,199 --> 00:05:49,199
+inner loop of of how I'm like writing
+
+157
+00:05:47,280 --> 00:05:52,160
+code testing locally and getting it
+
+158
+00:05:49,199 --> 00:05:55,039
+ready to uh to like push up to to a pull
+
+159
+00:05:52,160 --> 00:05:57,360
+request. So I think that as you know as
+
+160
+00:05:55,039 --> 00:06:00,080
+you have like this this idea of like
+
+161
+00:05:57,360 --> 00:06:01,919
+vibe coding and AI code generation it's
+
+162
+00:06:00,080 --> 00:06:04,160
+almost not enough to be just you know
+
+163
+00:06:01,919 --> 00:06:06,720
+engineer anymore like the best engineers
+
+164
+00:06:04,160 --> 00:06:08,720
+are also great product thinkers and
+
+165
+00:06:06,720 --> 00:06:10,960
+great business thinkers great designers
+
+166
+00:06:08,720 --> 00:06:12,400
+in some cases it's really it used to be
+
+167
+00:06:10,960 --> 00:06:15,680
+the case I think that the limiting
+
+168
+00:06:12,400 --> 00:06:17,680
+factor on creating anything was was you
+
+169
+00:06:15,680 --> 00:06:20,000
+know asking like how do I actually build
+
+170
+00:06:17,680 --> 00:06:21,600
+this and how do I implement it now you
+
+171
+00:06:20,000 --> 00:06:23,919
+have these great tools that can help you
+
+172
+00:06:21,600 --> 00:06:26,080
+answer that question and kind of get to
+
+173
+00:06:23,919 --> 00:06:28,319
+an early version like a working
+
+174
+00:06:26,080 --> 00:06:30,880
+prototype of of something like quite
+
+175
+00:06:28,319 --> 00:06:34,160
+quickly. So then the question shifts
+
+176
+00:06:30,880 --> 00:06:36,319
+from being like how do I build this to a
+
+177
+00:06:34,160 --> 00:06:38,319
+little bit further upstream of like what
+
+178
+00:06:36,319 --> 00:06:40,000
+should I build in the first place that's
+
+179
+00:06:38,319 --> 00:06:42,000
+actually going to be of value? you know
+
+180
+00:06:40,000 --> 00:06:44,560
+how do I actually interact with this and
+
+181
+00:06:42,000 --> 00:06:47,120
+what is the optimal experience here and
+
+182
+00:06:44,560 --> 00:06:49,759
+then how do I differentiate that and how
+
+183
+00:06:47,120 --> 00:06:51,680
+do I in a world where like anybody can
+
+184
+00:06:49,759 --> 00:06:53,600
+you know go on replet agent and prompt
+
+185
+00:06:51,680 --> 00:06:55,600
+you with a few prompts make you make
+
+186
+00:06:53,600 --> 00:06:57,280
+make like a working prototype of
+
+187
+00:06:55,600 --> 00:06:59,759
+something how is that different from
+
+188
+00:06:57,280 --> 00:07:02,000
+anybody else's like vibecoded version of
+
+189
+00:06:59,759 --> 00:07:03,759
+this and I think that that software
+
+190
+00:07:02,000 --> 00:07:06,080
+engineering looks a lot more like you
+
+191
+00:07:03,759 --> 00:07:09,360
+know reviewing or even designing or or
+
+192
+00:07:06,080 --> 00:07:13,720
+like you pming in the future versus like
+
+193
+00:07:09,360 --> 00:07:13,720
+writing code as we know it today.
+
+194
+00:07:17,599 --> 00:07:21,039
+the transformation of software
+
+195
+00:07:18,800 --> 00:07:23,360
+engineering uh with AI code generation
+
+196
+00:07:21,039 --> 00:07:25,440
+is has just been the sort of seismic
+
+197
+00:07:23,360 --> 00:07:27,039
+shift that's happened in you know as
+
+198
+00:07:25,440 --> 00:07:28,639
+we've been building the company and you
+
+199
+00:07:27,039 --> 00:07:31,039
+know we were fortunate in that we were
+
+200
+00:07:28,639 --> 00:07:33,440
+working on solving a problem that was
+
+201
+00:07:31,039 --> 00:07:36,160
+now made 10 times worse by AI code
+
+202
+00:07:33,440 --> 00:07:38,240
+generation code review has always been
+
+203
+00:07:36,160 --> 00:07:40,000
+and this outer loop of review and
+
+204
+00:07:38,240 --> 00:07:41,840
+testing and deployments has always been
+
+205
+00:07:40,000 --> 00:07:43,440
+a bottleneck at large companies it's
+
+206
+00:07:41,840 --> 00:07:46,720
+always been an area that that needs
+
+207
+00:07:43,440 --> 00:07:49,680
+better tools And that was true before
+
+208
+00:07:46,720 --> 00:07:52,000
+AI, but now with with all these great AI
+
+209
+00:07:49,680 --> 00:07:53,759
+code generation tools, that need is is
+
+210
+00:07:52,000 --> 00:07:55,440
+all the more acute. And I think that's
+
+211
+00:07:53,759 --> 00:07:56,560
+that's one of the things that's been I
+
+212
+00:07:55,440 --> 00:07:58,400
+think we were lucky that we were
+
+213
+00:07:56,560 --> 00:08:01,520
+building kind of the the right thing at
+
+214
+00:07:58,400 --> 00:08:03,840
+the right time. U because we built uh we
+
+215
+00:08:01,520 --> 00:08:06,160
+built tooling for accelerating the outer
+
+216
+00:08:03,840 --> 00:08:08,639
+loop and we got that into a lot of great
+
+217
+00:08:06,160 --> 00:08:11,120
+enterprise customers. We also built the
+
+218
+00:08:08,639 --> 00:08:13,440
+trust with those organizations to be
+
+219
+00:08:11,120 --> 00:08:15,360
+able to now deploy AI to help them
+
+220
+00:08:13,440 --> 00:08:17,360
+review code faster. Uh I think it's
+
+221
+00:08:15,360 --> 00:08:20,160
+really hard if you're just starting an
+
+222
+00:08:17,360 --> 00:08:21,680
+AI code review company to convince an
+
+223
+00:08:20,160 --> 00:08:23,520
+enterprise or convince a company like
+
+224
+00:08:21,680 --> 00:08:25,919
+Shopify to give you access to their
+
+225
+00:08:23,520 --> 00:08:27,599
+entire GitHub repo from day one. It's
+
+226
+00:08:25,919 --> 00:08:29,599
+taken us a long time to build up that
+
+227
+00:08:27,599 --> 00:08:31,840
+level of trust. And I I think there are
+
+228
+00:08:29,599 --> 00:08:33,919
+a few factors there. One is just like
+
+229
+00:08:31,840 --> 00:08:36,399
+building just adding value progressively
+
+230
+00:08:33,919 --> 00:08:38,320
+over time, shipping features constantly,
+
+231
+00:08:36,399 --> 00:08:40,080
+like showing the customers that we work
+
+232
+00:08:38,320 --> 00:08:42,320
+with early on that we are consistently
+
+233
+00:08:40,080 --> 00:08:44,080
+able to like deliver on our promises and
+
+234
+00:08:42,320 --> 00:08:45,839
+you know continue to just add more and
+
+235
+00:08:44,080 --> 00:08:47,760
+more great features to the graphite
+
+236
+00:08:45,839 --> 00:08:49,440
+platform. Um we spend a lot of time
+
+237
+00:08:47,760 --> 00:08:51,360
+making sure that that everything we do
+
+238
+00:08:49,440 --> 00:08:53,200
+is like you know best practices for
+
+239
+00:08:51,360 --> 00:08:55,200
+security. We're pentested very
+
+240
+00:08:53,200 --> 00:08:57,279
+regularly. Like we really want to invest
+
+241
+00:08:55,200 --> 00:08:59,519
+in in making sure that that that piece
+
+242
+00:08:57,279 --> 00:09:00,880
+is is central to what we're doing you
+
+243
+00:08:59,519 --> 00:09:02,480
+know. And then and then part of it is
+
+244
+00:09:00,880 --> 00:09:04,320
+just climbing the ladder. I think you
+
+245
+00:09:02,480 --> 00:09:06,000
+have to you have to start with like
+
+246
+00:09:04,320 --> 00:09:07,760
+smaller companies first like you're
+
+247
+00:09:06,000 --> 00:09:09,200
+always going to have kind of more you
+
+248
+00:09:07,760 --> 00:09:11,839
+know smaller companies that are willing
+
+249
+00:09:09,200 --> 00:09:13,600
+to adopt tools tools in the beginning
+
+250
+00:09:11,839 --> 00:09:15,760
+and then like building up trust over
+
+251
+00:09:13,600 --> 00:09:17,839
+time and I think now that snowball has
+
+252
+00:09:15,760 --> 00:09:19,200
+really like started to roll and um we
+
+253
+00:09:17,839 --> 00:09:21,040
+have you know some of some of the
+
+254
+00:09:19,200 --> 00:09:22,880
+largest technology companies out there
+
+255
+00:09:21,040 --> 00:09:24,560
+that are are trusting graphite every day
+
+256
+00:09:22,880 --> 00:09:27,839
+and u you know we're we're really
+
+257
+00:09:24,560 --> 00:09:27,839
+privileged to be able to serve
+

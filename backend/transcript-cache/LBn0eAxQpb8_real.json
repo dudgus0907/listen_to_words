@@ -1,0 +1,1774 @@
+{
+  "success": true,
+  "videoId": "LBn0eAxQpb8",
+  "videoTitle": "How Luma Built a $200M AI by Shipping Fast, Not Perfect ｜ Luma AI, Amit Jain",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "The worst thing that can happen to"
+    },
+    {
+      "start": 3,
+      "text": "someone who's making anything in the"
+    },
+    {
+      "start": 4,
+      "text": "world is"
+    },
+    {
+      "start": 6,
+      "text": "apathy. You put something out and nobody"
+    },
+    {
+      "start": 8,
+      "text": "cares. The second worst scenario is you"
+    },
+    {
+      "start": 10,
+      "text": "put something out and everybody is very"
+    },
+    {
+      "start": 12,
+      "text": "happy with it because that means there's"
+    },
+    {
+      "start": 14,
+      "text": "nothing else left to do. When these are"
+    },
+    {
+      "start": 16,
+      "text": "your most dedicated user, they have a"
+    },
+    {
+      "start": 18,
+      "text": "thousand things to complain about. In AI"
+    },
+    {
+      "start": 20,
+      "text": "especially, if you can do X, people now"
+    },
+    {
+      "start": 23,
+      "text": "want to do Y. Unlike traditional"
+    },
+    {
+      "start": 24,
+      "text": "products where you know okay this has"
+    },
+    {
+      "start": 26,
+      "text": "feature A, B and C and this is how"
+    },
+    {
+      "start": 29,
+      "text": "feature A interacts with feature B like"
+    },
+    {
+      "start": 31,
+      "text": "you know the whole state with large"
+    },
+    {
+      "start": 33,
+      "text": "models people can do anything in it."
+    },
+    {
+      "start": 36,
+      "text": "People can generate anime. People can"
+    },
+    {
+      "start": 37,
+      "text": "generate videos of a tomato rolling down"
+    },
+    {
+      "start": 39,
+      "text": "a hill. With large models you don't know"
+    },
+    {
+      "start": 42,
+      "text": "what your users are going to do and"
+    },
+    {
+      "start": 44,
+      "text": "there's no physical scenario in which"
+    },
+    {
+      "start": 46,
+      "text": "you could test all the capabilities of"
+    },
+    {
+      "start": 48,
+      "text": "the"
+    },
+    {
+      "start": 49,
+      "text": "model. So you really have to see what"
+    },
+    {
+      "start": 52,
+      "text": "people are doing with it, where it's"
+    },
+    {
+      "start": 54,
+      "text": "succeeding, where it's"
+    },
+    {
+      "start": 57,
+      "text": "failing. Hey, my name is Amed. I'm one"
+    },
+    {
+      "start": 59,
+      "text": "of the co-founders and CEO of Luma AI."
+    },
+    {
+      "start": 62,
+      "text": "At Luma, we are building multimodal"
+    },
+    {
+      "start": 63,
+      "text": "general intelligence and that starts"
+    },
+    {
+      "start": 65,
+      "text": "with building world's best video models."
+    },
+    {
+      "start": 67,
+      "text": "We have so far raised $200 million from"
+    },
+    {
+      "start": 70,
+      "text": "Andre and Horovitz, Amplify Partners,"
+    },
+    {
+      "start": 72,
+      "text": "Matrix partners, Nvidia, AMD, as well as"
+    },
+    {
+      "start": 76,
+      "text": "Amazon. Lumi is training models that are"
+    },
+    {
+      "start": 79,
+      "text": "able to learn and generate video, audio,"
+    },
+    {
+      "start": 82,
+      "text": "text all together. Our premise is that"
+    },
+    {
+      "start": 85,
+      "text": "by building models that train like human"
+    },
+    {
+      "start": 87,
+      "text": "brain, we will be able to not only"
+    },
+    {
+      "start": 89,
+      "text": "generate worlds but actually solve the"
+    },
+    {
+      "start": 91,
+      "text": "limitations of"
+    },
+    {
+      "start": 96,
+      "text": "LLMs. I grew up in India. As a child"
+    },
+    {
+      "start": 99,
+      "text": "growing up, I was mostly very deeply"
+    },
+    {
+      "start": 101,
+      "text": "interested in in physics from from very"
+    },
+    {
+      "start": 103,
+      "text": "early on. Actually I spent majority of"
+    },
+    {
+      "start": 105,
+      "text": "my time honestly uh you know learning"
+    },
+    {
+      "start": 106,
+      "text": "about advanced physics and trying to you"
+    },
+    {
+      "start": 109,
+      "text": "know understand how the world works."
+    },
+    {
+      "start": 111,
+      "text": "Honestly I studied math and physics in"
+    },
+    {
+      "start": 113,
+      "text": "college. I was about to go for a"
+    },
+    {
+      "start": 115,
+      "text": "graduate school PhD in in physics."
+    },
+    {
+      "start": 117,
+      "text": "Around the same time I also started like"
+    },
+    {
+      "start": 119,
+      "text": "building iOS apps. My first one was"
+    },
+    {
+      "start": 120,
+      "text": "actually uh uh this one for solving"
+    },
+    {
+      "start": 122,
+      "text": "differential equations got actually"
+    },
+    {
+      "start": 124,
+      "text": "relatively popular uh in the app"
+    },
+    {
+      "start": 127,
+      "text": "store. That was very interesting like"
+    },
+    {
+      "start": 129,
+      "text": "you know once you make something that"
+    },
+    {
+      "start": 131,
+      "text": "other people find useful doesn't matter"
+    },
+    {
+      "start": 133,
+      "text": "large number or small number that really"
+    },
+    {
+      "start": 135,
+      "text": "kind of changes you then a couple of my"
+    },
+    {
+      "start": 136,
+      "text": "friends uh started a company I left to"
+    },
+    {
+      "start": 138,
+      "text": "join them instead and as time has gone"
+    },
+    {
+      "start": 140,
+      "text": "on a few of my friends uh their company"
+    },
+    {
+      "start": 142,
+      "text": "was acquired by Apple at Apple I started"
+    },
+    {
+      "start": 145,
+      "text": "working on this agent system called"
+    },
+    {
+      "start": 147,
+      "text": "shortcuts or workflows when we shipped"
+    },
+    {
+      "start": 149,
+      "text": "that I learned that there was this part"
+    },
+    {
+      "start": 151,
+      "text": "of the world where in Apple where this"
+    },
+    {
+      "start": 153,
+      "text": "new thing was being built some of my"
+    },
+    {
+      "start": 155,
+      "text": "friends had gone there already and they"
+    },
+    {
+      "start": 156,
+      "text": "got completely silent about what they"
+    },
+    {
+      "start": 158,
+      "text": "were doing and it was this insane secret"
+    },
+    {
+      "start": 160,
+      "text": "like if you don't want me to know"
+    },
+    {
+      "start": 161,
+      "text": "anything don't tell me it's a secret. I"
+    },
+    {
+      "start": 163,
+      "text": "really wanted to figure out what the"
+    },
+    {
+      "start": 164,
+      "text": "hell was going on and turns out they"
+    },
+    {
+      "start": 166,
+      "text": "were building this new thing called the"
+    },
+    {
+      "start": 167,
+      "text": "vision pro. So I joined the team that"
+    },
+    {
+      "start": 170,
+      "text": "was working on this really ambitious"
+    },
+    {
+      "start": 172,
+      "text": "project for 3D capturing the world with"
+    },
+    {
+      "start": 175,
+      "text": "vision pro. The idea was if you're"
+    },
+    {
+      "start": 178,
+      "text": "wearing this thing we can take you"
+    },
+    {
+      "start": 179,
+      "text": "anywhere because we have full control"
+    },
+    {
+      "start": 182,
+      "text": "over what your eyes see. And this was"
+    },
+    {
+      "start": 185,
+      "text": "really close to my heart because like"
+    },
+    {
+      "start": 186,
+      "text": "you know anything that has to do"
+    },
+    {
+      "start": 187,
+      "text": "anything with simulating reality that"
+    },
+    {
+      "start": 189,
+      "text": "really draws me very close. I started to"
+    },
+    {
+      "start": 192,
+      "text": "work on that project and I worked on"
+    },
+    {
+      "start": 193,
+      "text": "that for about 3"
+    },
+    {
+      "start": 195,
+      "text": "years. This was around also the time"
+    },
+    {
+      "start": 197,
+      "text": "when huge things were happening in"
+    },
+    {
+      "start": 199,
+      "text": "language model. In 2020 it like really"
+    },
+    {
+      "start": 201,
+      "text": "hit me in the head because uh the two"
+    },
+    {
+      "start": 203,
+      "text": "things came out. It was the Delhi paper"
+    },
+    {
+      "start": 206,
+      "text": "uh from OpenAI and this paper for 3D"
+    },
+    {
+      "start": 209,
+      "text": "instruction called Nerf neural radiance"
+    },
+    {
+      "start": 210,
+      "text": "fields. And honestly like that was"
+    },
+    {
+      "start": 212,
+      "text": "really interesting to me because all the"
+    },
+    {
+      "start": 214,
+      "text": "things we were doing procedurally by"
+    },
+    {
+      "start": 216,
+      "text": "writing like you know a handwritten code"
+    },
+    {
+      "start": 217,
+      "text": "and for rendering and for for capturing"
+    },
+    {
+      "start": 219,
+      "text": "and reconstruction if these two things"
+    },
+    {
+      "start": 221,
+      "text": "work you can learn to represent the"
+    },
+    {
+      "start": 225,
+      "text": "world you don't you don't need to do any"
+    },
+    {
+      "start": 227,
+      "text": "rendering you don't need to like write"
+    },
+    {
+      "start": 228,
+      "text": "any graphics algorithms and what Dali"
+    },
+    {
+      "start": 229,
+      "text": "proved was that from"
+    },
+    {
+      "start": 232,
+      "text": "nothing you can generate images you know"
+    },
+    {
+      "start": 234,
+      "text": "that was a huge thing for me Nerf gave"
+    },
+    {
+      "start": 236,
+      "text": "you like static 3D worlds and Dali gave"
+    },
+    {
+      "start": 240,
+      "text": "you images But our world is extremely"
+    },
+    {
+      "start": 242,
+      "text": "dynamic. There's like a lot of stuff"
+    },
+    {
+      "start": 244,
+      "text": "happening right like you know we walk"
+    },
+    {
+      "start": 245,
+      "text": "around cars move around clouds move all"
+    },
+    {
+      "start": 248,
+      "text": "these kind of things. The question was"
+    },
+    {
+      "start": 250,
+      "text": "how can we actually simulate that world?"
+    },
+    {
+      "start": 253,
+      "text": "So I started experimenting with these"
+    },
+    {
+      "start": 255,
+      "text": "things. All I did was really like you"
+    },
+    {
+      "start": 256,
+      "text": "know experiment with these methods write"
+    },
+    {
+      "start": 258,
+      "text": "all kinds of networks train them. In"
+    },
+    {
+      "start": 260,
+      "text": "about like you know 3 months time I was"
+    },
+    {
+      "start": 262,
+      "text": "extremely convinced that this is how"
+    },
+    {
+      "start": 265,
+      "text": "most videos things humans see will be"
+    },
+    {
+      "start": 268,
+      "text": "made. And at my work, I was doing all"
+    },
+    {
+      "start": 271,
+      "text": "these traditional techniques, right? So"
+    },
+    {
+      "start": 273,
+      "text": "my choices were stay at Apple, right?"
+    },
+    {
+      "start": 276,
+      "text": "Try to convince this big giant"
+    },
+    {
+      "start": 277,
+      "text": "organization that like, hey, this is the"
+    },
+    {
+      "start": 278,
+      "text": "future and and that we should do this"
+    },
+    {
+      "start": 280,
+      "text": "and that like, you know, I need $100"
+    },
+    {
+      "start": 282,
+      "text": "million to actually do this or go find"
+    },
+    {
+      "start": 284,
+      "text": "15, 20 of the most brilliant people on"
+    },
+    {
+      "start": 286,
+      "text": "the planet who can actually do this for"
+    },
+    {
+      "start": 288,
+      "text": "us. I tried this at Apple first like,"
+    },
+    {
+      "start": 290,
+      "text": "yeah, this is not going to happen here."
+    },
+    {
+      "start": 291,
+      "text": "Uh, I left and we started Lumi in 2022."
+    },
+    {
+      "start": 296,
+      "text": "In 2023, we built a 3D generative model"
+    },
+    {
+      "start": 298,
+      "text": "actually called Genie. At that time,"
+    },
+    {
+      "start": 300,
+      "text": "large scale infrastructure for training"
+    },
+    {
+      "start": 302,
+      "text": "and coders and things like that didn't"
+    },
+    {
+      "start": 304,
+      "text": "exist. So, we had to build and invent"
+    },
+    {
+      "start": 306,
+      "text": "all these pieces basically. So, we"
+    },
+    {
+      "start": 308,
+      "text": "started that work. We built a lot lot of"
+    },
+    {
+      "start": 310,
+      "text": "large scale data collection systems,"
+    },
+    {
+      "start": 312,
+      "text": "large scale training systems, all those"
+    },
+    {
+      "start": 313,
+      "text": "kind of things. It took us about a year,"
+    },
+    {
+      "start": 314,
+      "text": "year and a half actually. We started the"
+    },
+    {
+      "start": 316,
+      "text": "work on the first video model that Luma"
+    },
+    {
+      "start": 318,
+      "text": "had released in 2024 called Dream"
+    },
+    {
+      "start": 320,
+      "text": "Machine. At that time, our chief"
+    },
+    {
+      "start": 321,
+      "text": "scientist Jaing had joined our team,"
+    },
+    {
+      "start": 323,
+      "text": "right? like you know Xiaaming was a"
+    },
+    {
+      "start": 324,
+      "text": "leading image and video generation at"
+    },
+    {
+      "start": 326,
+      "text": "Nvidia. At the time these new graphics"
+    },
+    {
+      "start": 328,
+      "text": "cards were coming about or these new"
+    },
+    {
+      "start": 329,
+      "text": "training chips were coming about from"
+    },
+    {
+      "start": 330,
+      "text": "Nvidia H100s. When we looked at that for"
+    },
+    {
+      "start": 333,
+      "text": "the first time we were like okay the"
+    },
+    {
+      "start": 334,
+      "text": "cards are capable enough the chips are"
+    },
+    {
+      "start": 336,
+      "text": "capable enough I think we can gather"
+    },
+    {
+      "start": 337,
+      "text": "enough data and the algorithms are there"
+    },
+    {
+      "start": 340,
+      "text": "from our previous work on 3D generative"
+    },
+    {
+      "start": 341,
+      "text": "models and things like that that we can"
+    },
+    {
+      "start": 342,
+      "text": "actually do this. So we started that"
+    },
+    {
+      "start": 345,
+      "text": "process and it took us like you know"
+    },
+    {
+      "start": 348,
+      "text": "about five or six months actually about"
+    },
+    {
+      "start": 350,
+      "text": "four and a half months to be honest with"
+    },
+    {
+      "start": 351,
+      "text": "you to go from this first place where we"
+    },
+    {
+      "start": 354,
+      "text": "had some of the infrastructure and"
+    },
+    {
+      "start": 355,
+      "text": "things like that to training a proper"
+    },
+    {
+      "start": 357,
+      "text": "model that we could actually release to"
+    },
+    {
+      "start": 359,
+      "text": "the world but it came after a year year"
+    },
+    {
+      "start": 362,
+      "text": "and a half of work on encoders of"
+    },
+    {
+      "start": 364,
+      "text": "learning models of building"
+    },
+    {
+      "start": 365,
+      "text": "infrastructure all those kind of things"
+    },
+    {
+      "start": 366,
+      "text": "so it was also at the heels of open sora"
+    },
+    {
+      "start": 370,
+      "text": "so open had announced sora in February"
+    },
+    {
+      "start": 372,
+      "text": "and that was actually really interesting"
+    },
+    {
+      "start": 373,
+      "text": "Because you know before Sora our video"
+    },
+    {
+      "start": 376,
+      "text": "efforts were a little bit smaller"
+    },
+    {
+      "start": 377,
+      "text": "because we were very small company at"
+    },
+    {
+      "start": 378,
+      "text": "the time. We were barely uh we were"
+    },
+    {
+      "start": 380,
+      "text": "barely like 20 people. We had good"
+    },
+    {
+      "start": 382,
+      "text": "amount of compute but we didn't have"
+    },
+    {
+      "start": 383,
+      "text": "anywhere open AI level of compute. So we"
+    },
+    {
+      "start": 385,
+      "text": "could not have scaled it without knowing"
+    },
+    {
+      "start": 387,
+      "text": "that oh scaling could work. Once that"
+    },
+    {
+      "start": 389,
+      "text": "evidence was in front of us like we just"
+    },
+    {
+      "start": 391,
+      "text": "scaled our efforts significantly at that"
+    },
+    {
+      "start": 393,
+      "text": "point. 3 months later we had uh the"
+    },
+    {
+      "start": 396,
+      "text": "first dream machine model which was"
+    },
+    {
+      "start": 397,
+      "text": "really funny. It was like very first"
+    },
+    {
+      "start": 399,
+      "text": "early model. Today you wouldn't consider"
+    },
+    {
+      "start": 401,
+      "text": "that to be very good, right? But at that"
+    },
+    {
+      "start": 403,
+      "text": "time that was huge and got so popular."
+    },
+    {
+      "start": 406,
+      "text": "It was on Good Morning America. It was"
+    },
+    {
+      "start": 407,
+      "text": "on CNN and then people were absolutely"
+    },
+    {
+      "start": 410,
+      "text": "astonished and mesmerized by it like oh"
+    },
+    {
+      "start": 411,
+      "text": "you can generate video. So that made"
+    },
+    {
+      "start": 413,
+      "text": "Luma into a very well-known household"
+    },
+    {
+      "start": 415,
+      "text": "name at that time and then now and gave"
+    },
+    {
+      "start": 418,
+      "text": "us you know all the resources we need to"
+    },
+    {
+      "start": 421,
+      "text": "continue our research to continue our"
+    },
+    {
+      "start": 422,
+      "text": "work. So yeah that was the first"
+    },
+    {
+      "start": 423,
+      "text": "streaming machine. Whenever you're"
+    },
+    {
+      "start": 425,
+      "text": "developing a new capability into the"
+    },
+    {
+      "start": 428,
+      "text": "world, when you're developing a new"
+    },
+    {
+      "start": 429,
+      "text": "technology, oh man, it never worked the"
+    },
+    {
+      "start": 432,
+      "text": "first try. It never worked the 10th try."
+    },
+    {
+      "start": 434,
+      "text": "I would really say if you have found a"
+    },
+    {
+      "start": 436,
+      "text": "good market and you want to find what"
+    },
+    {
+      "start": 439,
+      "text": "fits into that market, iterate like"
+    },
+    {
+      "start": 441,
+      "text": "hell. Anything that slows down your"
+    },
+    {
+      "start": 443,
+      "text": "iteration velocity, avoid. If you're an"
+    },
+    {
+      "start": 446,
+      "text": "engineering mindset like myself, you"
+    },
+    {
+      "start": 447,
+      "text": "want to like, you know, build a very"
+    },
+    {
+      "start": 448,
+      "text": "stable system, right? Extensible system"
+    },
+    {
+      "start": 450,
+      "text": "with like, you know, all all good"
+    },
+    {
+      "start": 452,
+      "text": "technologies and all these kind of"
+    },
+    {
+      "start": 453,
+      "text": "things. But sometimes those systems"
+    },
+    {
+      "start": 454,
+      "text": "really slow you down because you you"
+    },
+    {
+      "start": 457,
+      "text": "build this monolith and it's good. It's"
+    },
+    {
+      "start": 458,
+      "text": "very scalable. It's all the things"
+    },
+    {
+      "start": 460,
+      "text": "right. But the problem is to change one"
+    },
+    {
+      "start": 461,
+      "text": "thing you need to now change like you"
+    },
+    {
+      "start": 463,
+      "text": "know five modules compared to that just"
+    },
+    {
+      "start": 465,
+      "text": "a barebones thing you built in Python"
+    },
+    {
+      "start": 468,
+      "text": "and like you know you just put it up"
+    },
+    {
+      "start": 469,
+      "text": "there. You have no allegiance to it."
+    },
+    {
+      "start": 471,
+      "text": "It's already so you don't care. You"
+    },
+    {
+      "start": 473,
+      "text": "just iterate. You change it all day all"
+    },
+    {
+      "start": 475,
+      "text": "night right? Like you know and I think"
+    },
+    {
+      "start": 476,
+      "text": "that's really really important."
+    },
+    {
+      "start": 480,
+      "text": "This episode is sponsored by Atio, the"
+    },
+    {
+      "start": 483,
+      "text": "AI native CRM for the next era of"
+    },
+    {
+      "start": 485,
+      "text": "companies. Connect your email and ATIO"
+    },
+    {
+      "start": 487,
+      "text": "instantly builds your CRM right before"
+    },
+    {
+      "start": 490,
+      "text": "your eyes with every company contact and"
+    },
+    {
+      "start": 492,
+      "text": "interaction you've ever had enriched and"
+    },
+    {
+      "start": 494,
+      "text": "organized. That's ATIO. And here's what"
+    },
+    {
+      "start": 497,
+      "text": "makes it even more game-changing. You"
+    },
+    {
+      "start": 499,
+      "text": "can build AI powered automations and use"
+    },
+    {
+      "start": 501,
+      "text": "its research agents to tackle some of"
+    },
+    {
+      "start": 503,
+      "text": "your most complex business processes,"
+    },
+    {
+      "start": 505,
+      "text": "freeing you to focus on what matters"
+    },
+    {
+      "start": 507,
+      "text": "most, building your company. Join"
+    },
+    {
+      "start": 510,
+      "text": "thousands of companies who are already"
+    },
+    {
+      "start": 511,
+      "text": "using Atio to power their businesses."
+    },
+    {
+      "start": 514,
+      "text": "Visit the link in the description to"
+    },
+    {
+      "start": 516,
+      "text": "begin your 2e free trial with"
+    },
+    {
+      "start": 524,
+      "text": "Atio. The dream machine created by tech"
+    },
+    {
+      "start": 527,
+      "text": "company Luma featuring a new tool that"
+    },
+    {
+      "start": 530,
+      "text": "lets users turn images into video."
+    },
+    {
+      "start": 532,
+      "text": "Honestly, we thought not many people"
+    },
+    {
+      "start": 534,
+      "text": "will try it because you know it's a"
+    },
+    {
+      "start": 536,
+      "text": "really new thing. We know eventually the"
+    },
+    {
+      "start": 538,
+      "text": "demand will be huge but initially we"
+    },
+    {
+      "start": 539,
+      "text": "thought like you know not many people"
+    },
+    {
+      "start": 541,
+      "text": "would try it but man the number of"
+    },
+    {
+      "start": 542,
+      "text": "people that tried it was insane. So we"
+    },
+    {
+      "start": 544,
+      "text": "put some pricing on it. It was only"
+    },
+    {
+      "start": 546,
+      "text": "because I was like okay well let's see"
+    },
+    {
+      "start": 548,
+      "text": "you know how much are people willing to"
+    },
+    {
+      "start": 549,
+      "text": "pay for it. So I had this extremely"
+    },
+    {
+      "start": 551,
+      "text": "unscientific way. Let's make it really"
+    },
+    {
+      "start": 553,
+      "text": "expensive like you know we'll give a"
+    },
+    {
+      "start": 555,
+      "text": "small number of videos for free and then"
+    },
+    {
+      "start": 557,
+      "text": "it will be 30 bucks and then 100 bucks"
+    },
+    {
+      "start": 559,
+      "text": "and then 500 bucks and the reason was"
+    },
+    {
+      "start": 561,
+      "text": "solely to discover customer bases"
+    },
+    {
+      "start": 564,
+      "text": "discover who is willing to pay for it"
+    },
+    {
+      "start": 565,
+      "text": "because if someone is willing to pay $30"
+    },
+    {
+      "start": 568,
+      "text": "they are getting something out of it if"
+    },
+    {
+      "start": 569,
+      "text": "someone is willing to pay $100 they're"
+    },
+    {
+      "start": 571,
+      "text": "clearly making money from it and if"
+    },
+    {
+      "start": 573,
+      "text": "someone is willing to pay 500 bucks"
+    },
+    {
+      "start": 574,
+      "text": "right I need to go talk to them because"
+    },
+    {
+      "start": 576,
+      "text": "I need to understand well why are you"
+    },
+    {
+      "start": 577,
+      "text": "paying so much per month to to use this"
+    },
+    {
+      "start": 580,
+      "text": "product so we took the approach of"
+    },
+    {
+      "start": 582,
+      "text": "putting something out there in very"
+    },
+    {
+      "start": 584,
+      "text": "unpolished state. If someone found it"
+    },
+    {
+      "start": 585,
+      "text": "valuable, we would know a lot, we would"
+    },
+    {
+      "start": 587,
+      "text": "learn a lot and we did. Uh so this was"
+    },
+    {
+      "start": 588,
+      "text": "one of the people who were paying like"
+    },
+    {
+      "start": 590,
+      "text": "100 or 500 bucks. I was curious what are"
+    },
+    {
+      "start": 592,
+      "text": "they doing with this thing. I got on the"
+    },
+    {
+      "start": 593,
+      "text": "call and and like you know this person"
+    },
+    {
+      "start": 595,
+      "text": "was um very happy grinning like you know"
+    },
+    {
+      "start": 597,
+      "text": "uh ear to ear at that time and they were"
+    },
+    {
+      "start": 599,
+      "text": "like oh I'm really great to meet you and"
+    },
+    {
+      "start": 602,
+      "text": "I was"
+    },
+    {
+      "start": 603,
+      "text": "like is that you? They're well known"
+    },
+    {
+      "start": 605,
+      "text": "especially if you know like the art"
+    },
+    {
+      "start": 607,
+      "text": "directors and and like you know people"
+    },
+    {
+      "start": 608,
+      "text": "in the world who make movies. What I"
+    },
+    {
+      "start": 610,
+      "text": "learned was that they were trying to"
+    },
+    {
+      "start": 612,
+      "text": "create this scene in one of the more"
+    },
+    {
+      "start": 614,
+      "text": "famous movies, right? They weren't able"
+    },
+    {
+      "start": 616,
+      "text": "to do that with their traditional"
+    },
+    {
+      "start": 617,
+      "text": "techniques. They tried Dream Machine and"
+    },
+    {
+      "start": 619,
+      "text": "they got a really great scene out in"
+    },
+    {
+      "start": 621,
+      "text": "like 30 minutes and now this person was"
+    },
+    {
+      "start": 623,
+      "text": "talking to me because they were asking"
+    },
+    {
+      "start": 624,
+      "text": "me to release the rights so that they"
+    },
+    {
+      "start": 627,
+      "text": "could use it in the movie and I was just"
+    },
+    {
+      "start": 629,
+      "text": "blown away. First version of the model"
+    },
+    {
+      "start": 631,
+      "text": "like it was not good enough to be used"
+    },
+    {
+      "start": 632,
+      "text": "in movies generally like really it"
+    },
+    {
+      "start": 635,
+      "text": "wasn't. But here was someone who"
+    },
+    {
+      "start": 637,
+      "text": "actually found even that useful early"
+    },
+    {
+      "start": 639,
+      "text": "days. Put it out. Talk to your users."
+    },
+    {
+      "start": 641,
+      "text": "See what they're doing, what they're not"
+    },
+    {
+      "start": 642,
+      "text": "doing. Talk to them like, \"Hey, how are"
+    },
+    {
+      "start": 644,
+      "text": "you using our stuff? If you're not using"
+    },
+    {
+      "start": 646,
+      "text": "our stuff, how are you not using our"
+    },
+    {
+      "start": 647,
+      "text": "stuff?\" Right? Do you know about our"
+    },
+    {
+      "start": 648,
+      "text": "stuff? How did you find out? How did you"
+    },
+    {
+      "start": 650,
+      "text": "not find out? We have a group of about"
+    },
+    {
+      "start": 652,
+      "text": "like, you know, 2,000 3,000 of our most"
+    },
+    {
+      "start": 654,
+      "text": "engaged users in Discord. Myself, but"
+    },
+    {
+      "start": 657,
+      "text": "also our research team, our product"
+    },
+    {
+      "start": 658,
+      "text": "team, our engineers, they're all in that"
+    },
+    {
+      "start": 661,
+      "text": "chat all day. When these are your most"
+    },
+    {
+      "start": 664,
+      "text": "dedicated users, right, like you know,"
+    },
+    {
+      "start": 666,
+      "text": "paying users, people who are like, you"
+    },
+    {
+      "start": 667,
+      "text": "know, spending a lot of time on your"
+    },
+    {
+      "start": 669,
+      "text": "platform, they have a thousand things to"
+    },
+    {
+      "start": 671,
+      "text": "complain about and that's very good. The"
+    },
+    {
+      "start": 674,
+      "text": "worst thing that can happen to someone"
+    },
+    {
+      "start": 677,
+      "text": "who's making anything in the world is"
+    },
+    {
+      "start": 680,
+      "text": "apathy. You put something out and nobody"
+    },
+    {
+      "start": 682,
+      "text": "cares. That's the worst scenario. The"
+    },
+    {
+      "start": 685,
+      "text": "second worst scenario is you put"
+    },
+    {
+      "start": 686,
+      "text": "something out and everybody is very"
+    },
+    {
+      "start": 688,
+      "text": "happy with it because that means there's"
+    },
+    {
+      "start": 690,
+      "text": "nothing else left to do. Generally, if"
+    },
+    {
+      "start": 692,
+      "text": "everybody's just really telling you all"
+    },
+    {
+      "start": 693,
+      "text": "good things about it, that probably"
+    },
+    {
+      "start": 696,
+      "text": "means they just want to interview you or"
+    },
+    {
+      "start": 698,
+      "text": "or they're lying to you. Unlike"
+    },
+    {
+      "start": 700,
+      "text": "traditional products where you know,"
+    },
+    {
+      "start": 702,
+      "text": "okay, this has feature A, B, and C, and"
+    },
+    {
+      "start": 704,
+      "text": "this is how feature A interacts with"
+    },
+    {
+      "start": 706,
+      "text": "feature B, like you know the whole state"
+    },
+    {
+      "start": 709,
+      "text": "very well, with large models, people can"
+    },
+    {
+      "start": 711,
+      "text": "do anything with it. People can generate"
+    },
+    {
+      "start": 713,
+      "text": "anime, people can generate videos of a"
+    },
+    {
+      "start": 715,
+      "text": "tomato rolling down a hill. With large"
+    },
+    {
+      "start": 717,
+      "text": "models, you don't know what your users"
+    },
+    {
+      "start": 720,
+      "text": "are going to do. And there's no physical"
+    },
+    {
+      "start": 722,
+      "text": "scenario in which you could test all the"
+    },
+    {
+      "start": 724,
+      "text": "capabilities of the model. So you really"
+    },
+    {
+      "start": 727,
+      "text": "have to see what people are doing with"
+    },
+    {
+      "start": 728,
+      "text": "it, where it's succeeding, where it's"
+    },
+    {
+      "start": 734,
+      "text": "failing. We are not a video model"
+    },
+    {
+      "start": 736,
+      "text": "company. We are not building video"
+    },
+    {
+      "start": 738,
+      "text": "models or image models. We our goal is"
+    },
+    {
+      "start": 741,
+      "text": "very simply to solve multimodal general"
+    },
+    {
+      "start": 747,
+      "text": "intelligence. What does that mean? Our"
+    },
+    {
+      "start": 749,
+      "text": "belief is that people don't want image"
+    },
+    {
+      "start": 752,
+      "text": "generation models or video generation"
+    },
+    {
+      "start": 753,
+      "text": "models. What people want are"
+    },
+    {
+      "start": 755,
+      "text": "worldbuilders. Every video, every movie"
+    },
+    {
+      "start": 758,
+      "text": "is a world, a universe that like, you"
+    },
+    {
+      "start": 759,
+      "text": "know, someone created. Whether you're"
+    },
+    {
+      "start": 761,
+      "text": "talking about high fantasy like Lord of"
+    },
+    {
+      "start": 762,
+      "text": "the Rings for instance, that's a whole"
+    },
+    {
+      "start": 764,
+      "text": "universe with different laws of physics"
+    },
+    {
+      "start": 766,
+      "text": "with like you know different characters,"
+    },
+    {
+      "start": 767,
+      "text": "their their personalities, all these"
+    },
+    {
+      "start": 769,
+      "text": "things. Or if you think about a YouTube"
+    },
+    {
+      "start": 770,
+      "text": "video or Tik Tok, they they create a"
+    },
+    {
+      "start": 772,
+      "text": "personality, a persona, all these kind"
+    },
+    {
+      "start": 774,
+      "text": "of things. We need models that let"
+    },
+    {
+      "start": 777,
+      "text": "people"
+    },
+    {
+      "start": 778,
+      "text": "create worlds and then hit play. For"
+    },
+    {
+      "start": 782,
+      "text": "that, you need to build a very different"
+    },
+    {
+      "start": 783,
+      "text": "kind of intelligence. To build that kind"
+    },
+    {
+      "start": 785,
+      "text": "of intelligence, text alone is just not"
+    },
+    {
+      "start": 788,
+      "text": "enough. Think about the way humans learn"
+    },
+    {
+      "start": 790,
+      "text": "a concept. We see it with our eyes and"
+    },
+    {
+      "start": 794,
+      "text": "video. We hear about it with our ears"
+    },
+    {
+      "start": 796,
+      "text": "and we reason about it logically in"
+    },
+    {
+      "start": 798,
+      "text": "text. Everything humans learn from day"
+    },
+    {
+      "start": 800,
+      "text": "in and day out doesn't just happen in"
+    },
+    {
+      "start": 802,
+      "text": "text. It happens in all these"
+    },
+    {
+      "start": 803,
+      "text": "modalities. So if you want to build"
+    },
+    {
+      "start": 807,
+      "text": "intelligence that can collaborate with"
+    },
+    {
+      "start": 809,
+      "text": "humans digitally and physically that can"
+    },
+    {
+      "start": 812,
+      "text": "understand us that can entertain us you"
+    },
+    {
+      "start": 814,
+      "text": "need to build intelligence that is"
+    },
+    {
+      "start": 817,
+      "text": "trained on all the data human brain is"
+    },
+    {
+      "start": 819,
+      "text": "trained on right so video is a big part"
+    },
+    {
+      "start": 823,
+      "text": "of that so we believe that multimodal"
+    },
+    {
+      "start": 826,
+      "text": "intelligence or multimodal data actually"
+    },
+    {
+      "start": 827,
+      "text": "is on the critical path to"
+    },
+    {
+      "start": 830,
+      "text": "AGI when you're working on a problem"
+    },
+    {
+      "start": 833,
+      "text": "that is worth solving doing that really"
+    },
+    {
+      "start": 834,
+      "text": "motivates you. I find anything"
+    },
+    {
+      "start": 836,
+      "text": "interesting but finding something"
+    },
+    {
+      "start": 838,
+      "text": "interesting and finding something you"
+    },
+    {
+      "start": 840,
+      "text": "are just so mad about like you know that"
+    },
+    {
+      "start": 842,
+      "text": "you want to do it right it's very"
+    },
+    {
+      "start": 844,
+      "text": "different passion could be a moment in"
+    },
+    {
+      "start": 847,
+      "text": "time and it can come and go oh this"
+    },
+    {
+      "start": 849,
+      "text": "problem it would be so great if you"
+    },
+    {
+      "start": 850,
+      "text": "could do that and you can imagine that"
+    },
+    {
+      "start": 851,
+      "text": "oh I'm going to spend all my life doing"
+    },
+    {
+      "start": 853,
+      "text": "it generally that's not the case my"
+    },
+    {
+      "start": 855,
+      "text": "suggestion would be really try a lot of"
+    },
+    {
+      "start": 856,
+      "text": "things and try to go deep into them and"
+    },
+    {
+      "start": 859,
+      "text": "what you want to find is not that you"
+    },
+    {
+      "start": 861,
+      "text": "were interested in the depth of the"
+    },
+    {
+      "start": 863,
+      "text": "problem but whether that depth gets gets"
+    },
+    {
+      "start": 865,
+      "text": "you more excited or less excited. When"
+    },
+    {
+      "start": 867,
+      "text": "you go deep into it, you have to put"
+    },
+    {
+      "start": 869,
+      "text": "effort. Sometimes when you're putting"
+    },
+    {
+      "start": 870,
+      "text": "effort into like, oh, this is as boring"
+    },
+    {
+      "start": 872,
+      "text": "as it gets, right? Don't do that. If you"
+    },
+    {
+      "start": 875,
+      "text": "found something, when when then it gets"
+    },
+    {
+      "start": 877,
+      "text": "harder, you get more excited about that,"
+    },
+    {
+      "start": 879,
+      "text": "right? That's a unique thing. Honestly,"
+    },
+    {
+      "start": 882,
+      "text": "I can guarantee you that most people"
+    },
+    {
+      "start": 883,
+      "text": "around you will just quit. Try a lot of"
+    },
+    {
+      "start": 886,
+      "text": "things. Try to go deep into them and try"
+    },
+    {
+      "start": 888,
+      "text": "to see, can you stay excited, not"
+    },
+    {
+      "start": 890,
+      "text": "artificially, even after you're you're"
+    },
+    {
+      "start": 892,
+      "text": "done thinking about that problem, right?"
+    },
+    {
+      "start": 894,
+      "text": "you know but you can't stop thinking"
+    },
+    {
+      "start": 896,
+      "text": "about that problem like it comes to you"
+    },
+    {
+      "start": 897,
+      "text": "at night it comes to you like oh but how"
+    },
+    {
+      "start": 900,
+      "text": "do I do that right like you know that"
+    },
+    {
+      "start": 901,
+      "text": "kind of thing if you can find that and"
+    },
+    {
+      "start": 904,
+      "text": "somehow magically or or luckily that"
+    },
+    {
+      "start": 906,
+      "text": "happens to also be an opportunity in"
+    },
+    {
+      "start": 908,
+      "text": "which a company can be built that's it"
+    },
+    {
+      "start": 919,
+      "text": "[Music]"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 441,
+  "timestamp": "2025-07-24T08:16:52.937Z"
+}

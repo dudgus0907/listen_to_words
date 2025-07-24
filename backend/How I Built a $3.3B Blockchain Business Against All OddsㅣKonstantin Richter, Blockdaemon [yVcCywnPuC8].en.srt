@@ -1,0 +1,1220 @@
+1
+00:00:00,160 --> 00:00:04,720
+There is this sort of psychological
+
+2
+00:00:01,920 --> 00:00:07,200
+fallacy as a founder where at one point
+
+3
+00:00:04,720 --> 00:00:09,120
+your logical brain needs to be switched
+
+4
+00:00:07,200 --> 00:00:11,759
+off because obviously you're working on
+
+5
+00:00:09,120 --> 00:00:14,719
+a problem that nobody else sees. I was
+
+6
+00:00:11,759 --> 00:00:16,400
+working on the proof of existence
+
+7
+00:00:14,719 --> 00:00:18,560
+protocol where we worked with an
+
+8
+00:00:16,400 --> 00:00:20,960
+Ethereum node and I told people that I
+
+9
+00:00:18,560 --> 00:00:23,760
+believe in a world where there will be
+
+10
+00:00:20,960 --> 00:00:26,320
+100,000 nodes that will be run by
+
+11
+00:00:23,760 --> 00:00:28,160
+institutions by 2020. That's what I
+
+12
+00:00:26,320 --> 00:00:30,000
+said. And people were laughing at me. I
+
+13
+00:00:28,160 --> 00:00:32,399
+knew one thing for certain that if I
+
+14
+00:00:30,000 --> 00:00:34,719
+hold on and deliver this, it'll be a
+
+15
+00:00:32,399 --> 00:00:36,719
+massive win. And when I told other
+
+16
+00:00:34,719 --> 00:00:39,040
+people about it, they didn't believe it
+
+17
+00:00:36,719 --> 00:00:41,440
+at all. They were telling me we won't do
+
+18
+00:00:39,040 --> 00:00:44,719
+that. And then Block Demon itself now
+
+19
+00:00:41,440 --> 00:00:47,280
+runs 250,000 nodes, you know, and so you
+
+20
+00:00:44,719 --> 00:00:49,840
+need to be stupid enough to also hold on
+
+21
+00:00:47,280 --> 00:00:54,840
+to an idea that most smart people around
+
+22
+00:00:49,840 --> 00:00:54,840
+you will tell you is a very bad idea.
+
+23
+00:00:57,920 --> 00:01:02,399
+I'm Constantine Richtor. I'm the founder
+
+24
+00:00:59,840 --> 00:01:04,400
+and CEO of Blog Demon. Blockdemon is the
+
+25
+00:01:02,399 --> 00:01:06,240
+leading institutional gateway for
+
+26
+00:01:04,400 --> 00:01:08,720
+institutions to connect to really
+
+27
+00:01:06,240 --> 00:01:11,200
+blockchains and the web 3 ecosystem. And
+
+28
+00:01:08,720 --> 00:01:13,680
+so we're one of the market leaders and
+
+29
+00:01:11,200 --> 00:01:16,159
+staples of the crypto industry that it
+
+30
+00:01:13,680 --> 00:01:18,400
+has JP Morgan, Goldman Sachs, and City
+
+31
+00:01:16,159 --> 00:01:21,680
+Bank as investors and customers. Out of
+
+32
+00:01:18,400 --> 00:01:24,400
+the top 500 companies active in crypto,
+
+33
+00:01:21,680 --> 00:01:26,479
+70% are customers of block demon for
+
+34
+00:01:24,400 --> 00:01:29,360
+infrastructure. Ultimately, what we do
+
+35
+00:01:26,479 --> 00:01:32,159
+is the purest form of infrastructure we
+
+36
+00:01:29,360 --> 00:01:34,240
+run in a decentralized network. One easy
+
+37
+00:01:32,159 --> 00:01:36,159
+way to think about it is that the
+
+38
+00:01:34,240 --> 00:01:37,759
+internet ultimately functions via
+
+39
+00:01:36,159 --> 00:01:39,759
+different gateways and so do
+
+40
+00:01:37,759 --> 00:01:42,640
+blockchains. And so one way I used to
+
+41
+00:01:39,759 --> 00:01:45,600
+describe blockchains to people was you
+
+42
+00:01:42,640 --> 00:01:47,520
+have ultimately nodes. A node are the
+
+43
+00:01:45,600 --> 00:01:50,159
+different members of the network that
+
+44
+00:01:47,520 --> 00:01:52,479
+contain a copy of the ledger. Nodes are
+
+45
+00:01:50,159 --> 00:01:54,720
+actually like cell towers. It's these
+
+46
+00:01:52,479 --> 00:01:56,799
+groupings of individual ledgers that
+
+47
+00:01:54,720 --> 00:01:59,600
+make a blockchain. And Block Demon
+
+48
+00:01:56,799 --> 00:02:03,040
+manages the individual ledgers. We
+
+49
+00:01:59,600 --> 00:02:05,600
+basically run these cell towers for
+
+50
+00:02:03,040 --> 00:02:07,920
+blockchains for institutions. We assume
+
+51
+00:02:05,600 --> 00:02:10,399
+that we run around 10% of the global
+
+52
+00:02:07,920 --> 00:02:12,560
+institutional volume of nodes around the
+
+53
+00:02:10,399 --> 00:02:15,760
+world. Block Demon has raised around
+
+54
+00:02:12,560 --> 00:02:18,959
+$430 million. The last valuation we've
+
+55
+00:02:15,760 --> 00:02:18,959
+had was $3.3
+
+56
+00:02:19,959 --> 00:02:25,120
+billion. One memory I always have is
+
+57
+00:02:22,560 --> 00:02:27,520
+when the wall came down in Germany. I
+
+58
+00:02:25,120 --> 00:02:30,319
+was a teenager at the time. I remember
+
+59
+00:02:27,520 --> 00:02:33,840
+the cold war ending when the world
+
+60
+00:02:30,319 --> 00:02:35,920
+somehow got a lot closer and also in the
+
+61
+00:02:33,840 --> 00:02:38,239
+context of the history of Germany from
+
+62
+00:02:35,920 --> 00:02:40,480
+the second world war being very aware
+
+63
+00:02:38,239 --> 00:02:43,360
+that it's important to have systems that
+
+64
+00:02:40,480 --> 00:02:47,040
+are uncorruptible in order to establish
+
+65
+00:02:43,360 --> 00:02:49,040
+truth. And so I remember that time as a
+
+66
+00:02:47,040 --> 00:02:51,440
+really important moment to think about
+
+67
+00:02:49,040 --> 00:02:52,879
+how do we become closer as humanity? How
+
+68
+00:02:51,440 --> 00:02:55,280
+do we communicate and then how do we
+
+69
+00:02:52,879 --> 00:02:58,080
+ensure that the forms of communications
+
+70
+00:02:55,280 --> 00:03:00,480
+are uncorruptible. What I found really
+
+71
+00:02:58,080 --> 00:03:03,440
+exciting about Bitcoin specifically was
+
+72
+00:03:00,480 --> 00:03:06,159
+one the immaculate conception story of
+
+73
+00:03:03,440 --> 00:03:08,800
+Satoshi ultimately a value system that
+
+74
+00:03:06,159 --> 00:03:10,640
+basically gets birthed by itself and
+
+75
+00:03:08,800 --> 00:03:12,959
+then the people who can control it
+
+76
+00:03:10,640 --> 00:03:14,879
+vanish in the background and leave it
+
+77
+00:03:12,959 --> 00:03:16,800
+for the community. And I like the
+
+78
+00:03:14,879 --> 00:03:19,280
+encryption and a little bit the sort of
+
+79
+00:03:16,800 --> 00:03:21,680
+hackery nature of it. I did like that it
+
+80
+00:03:19,280 --> 00:03:23,519
+was a currency of the underdog. Bitcoin
+
+81
+00:03:21,680 --> 00:03:26,480
+was started as a result to the financial
+
+82
+00:03:23,519 --> 00:03:29,519
+crisis in 2008. And the whole idea was
+
+83
+00:03:26,480 --> 00:03:32,319
+to basically take control of money away
+
+84
+00:03:29,519 --> 00:03:34,640
+from banks into a system that's
+
+85
+00:03:32,319 --> 00:03:37,680
+transparent and fair and accessible to
+
+86
+00:03:34,640 --> 00:03:39,760
+anyone. And um that excited me and I
+
+87
+00:03:37,680 --> 00:03:41,200
+felt I can actually contribute to it
+
+88
+00:03:39,760 --> 00:03:43,440
+because I know how to build and scale
+
+89
+00:03:41,200 --> 00:03:45,280
+software companies and I know how to
+
+90
+00:03:43,440 --> 00:03:47,280
+corral capital together to work on
+
+91
+00:03:45,280 --> 00:03:50,080
+succinct problems and belief is
+
+92
+00:03:47,280 --> 00:03:52,000
+important. I believed Bitcoin is one way
+
+93
+00:03:50,080 --> 00:03:53,840
+to make the world better, but you also
+
+94
+00:03:52,000 --> 00:03:56,080
+have to be an active part in creating
+
+95
+00:03:53,840 --> 00:03:58,080
+that world. I didn't just want to make
+
+96
+00:03:56,080 --> 00:03:59,920
+money. I also wanted to change the world
+
+97
+00:03:58,080 --> 00:04:01,920
+a little bit. And I understand there's
+
+98
+00:03:59,920 --> 00:04:03,439
+also lots of concerns and some of it
+
+99
+00:04:01,920 --> 00:04:05,360
+might be bad, some of it might be good,
+
+100
+00:04:03,439 --> 00:04:07,439
+but the system in itself I really hold
+
+101
+00:04:05,360 --> 00:04:09,599
+very dearly. And so I was thinking what
+
+102
+00:04:07,439 --> 00:04:11,840
+company in cryptocurrency can you build
+
+103
+00:04:09,599 --> 00:04:14,159
+that is part of it but not so
+
+104
+00:04:11,840 --> 00:04:16,479
+susceptible to the short-term velocity
+
+105
+00:04:14,159 --> 00:04:18,720
+of tokens. And so that's why we started
+
+106
+00:04:16,479 --> 00:04:18,720
+with
+
+107
+00:04:19,639 --> 00:04:25,759
+infrastructure when I was working on the
+
+108
+00:04:23,360 --> 00:04:27,919
+proof of existence protocol where we
+
+109
+00:04:25,759 --> 00:04:29,680
+worked with an Ethereum node and saw
+
+110
+00:04:27,919 --> 00:04:31,680
+that the physical node and
+
+111
+00:04:29,680 --> 00:04:33,680
+infrastructure was very unstable and
+
+112
+00:04:31,680 --> 00:04:36,080
+there weren't any tools available. When
+
+113
+00:04:33,680 --> 00:04:38,720
+I started researching that subject and
+
+114
+00:04:36,080 --> 00:04:40,720
+talking to my friends about it, I saw an
+
+115
+00:04:38,720 --> 00:04:42,560
+opportunity and I got really excited
+
+116
+00:04:40,720 --> 00:04:46,080
+about it. You know, it feels so great
+
+117
+00:04:42,560 --> 00:04:48,240
+when you see a gap in the current
+
+118
+00:04:46,080 --> 00:04:49,919
+product landscape. What was very
+
+119
+00:04:48,240 --> 00:04:52,320
+apparent was like you couldn't go
+
+120
+00:04:49,919 --> 00:04:54,479
+anywhere online and say, "Hey, is there
+
+121
+00:04:52,320 --> 00:04:56,479
+a tool that helps me to run an Ethereum
+
+122
+00:04:54,479 --> 00:04:58,479
+node really efficiently? Okay, if this
+
+123
+00:04:56,479 --> 00:05:00,560
+is hard for us people who are really
+
+124
+00:04:58,479 --> 00:05:02,880
+passionate about crypto and blockchain,
+
+125
+00:05:00,560 --> 00:05:05,040
+how are institutions and banks going to
+
+126
+00:05:02,880 --> 00:05:07,360
+engage in this if there's no tooling,
+
+127
+00:05:05,040 --> 00:05:09,680
+nothing available?" What I saw is a
+
+128
+00:05:07,360 --> 00:05:12,639
+world in which institutions would want
+
+129
+00:05:09,680 --> 00:05:14,720
+to run these Ethereum nodes. And when I
+
+130
+00:05:12,639 --> 00:05:16,880
+told other people about it, they didn't
+
+131
+00:05:14,720 --> 00:05:19,120
+believe it at all. They were telling me
+
+132
+00:05:16,880 --> 00:05:21,440
+we won't do that. But the more I learned
+
+133
+00:05:19,120 --> 00:05:24,800
+about the structure of transactions, the
+
+134
+00:05:21,440 --> 00:05:27,280
+cost of transactions, the more I saw the
+
+135
+00:05:24,800 --> 00:05:29,440
+future in which blockchains become an
+
+136
+00:05:27,280 --> 00:05:31,280
+integral part at this, I knew one thing
+
+137
+00:05:29,440 --> 00:05:34,479
+for certain that if I hold on and
+
+138
+00:05:31,280 --> 00:05:36,800
+deliver this, it'll be a massive win. I
+
+139
+00:05:34,479 --> 00:05:38,720
+believed in the vision of the company to
+
+140
+00:05:36,800 --> 00:05:40,160
+a point where nobody else believed it
+
+141
+00:05:38,720 --> 00:05:42,240
+because obviously you're working on a
+
+142
+00:05:40,160 --> 00:05:44,560
+problem that nobody else sees. I think
+
+143
+00:05:42,240 --> 00:05:46,720
+that's the resilient part is then to
+
+144
+00:05:44,560 --> 00:05:49,360
+continue to work on it while people are
+
+145
+00:05:46,720 --> 00:05:51,280
+telling you this is not a problem. Why
+
+146
+00:05:49,360 --> 00:05:53,919
+are you working on this? I remember
+
+147
+00:05:51,280 --> 00:05:56,000
+raising money in 2017 2018. I told
+
+148
+00:05:53,919 --> 00:05:59,360
+people that I believe in a world where
+
+149
+00:05:56,000 --> 00:06:02,320
+there will be 100,000 nodes that will be
+
+150
+00:05:59,360 --> 00:06:04,080
+run by institutions by 2020. That's what
+
+151
+00:06:02,320 --> 00:06:06,600
+I said. and people were laughing at me.
+
+152
+00:06:04,080 --> 00:06:10,080
+And then Block Demon itself now runs
+
+153
+00:06:06,600 --> 00:06:13,199
+250,000 nodes. Uh you need to be stupid
+
+154
+00:06:10,080 --> 00:06:15,280
+enough to also hold on to an idea that
+
+155
+00:06:13,199 --> 00:06:19,479
+most smart people around you will tell
+
+156
+00:06:15,280 --> 00:06:19,479
+you is a very bad idea.
+
+157
+00:06:20,080 --> 00:06:25,680
+Within 6 months of starting the company,
+
+158
+00:06:22,880 --> 00:06:27,840
+the markets of crypto fell down a cliff
+
+159
+00:06:25,680 --> 00:06:29,759
+which we call the crypto winter which is
+
+160
+00:06:27,840 --> 00:06:31,919
+like when the tokens that drive a lot of
+
+161
+00:06:29,759 --> 00:06:34,560
+the momentum in blockchain suddenly
+
+162
+00:06:31,919 --> 00:06:36,800
+devalue by like 80 90%. Everybody
+
+163
+00:06:34,560 --> 00:06:39,039
+stopped investing. Banks started
+
+164
+00:06:36,800 --> 00:06:41,520
+exploding. We had two banks at the time.
+
+165
+00:06:39,039 --> 00:06:43,520
+One bank went bankrupt and so a lot of
+
+166
+00:06:41,520 --> 00:06:45,759
+the inherent growth for the business
+
+167
+00:06:43,520 --> 00:06:48,000
+dried up right when I started the
+
+168
+00:06:45,759 --> 00:06:49,919
+company. You know, quite frankly, at
+
+169
+00:06:48,000 --> 00:06:52,639
+that point in time, everything was so
+
+170
+00:06:49,919 --> 00:06:54,639
+bad. We ran out of money a few times.
+
+171
+00:06:52,639 --> 00:06:57,039
+Uh, I had to subsidize payroll, for
+
+172
+00:06:54,639 --> 00:07:00,000
+example. The only way for Block Demon to
+
+173
+00:06:57,039 --> 00:07:02,479
+survive is if I put in everything I have
+
+174
+00:07:00,000 --> 00:07:04,080
+without a clear promise of a better
+
+175
+00:07:02,479 --> 00:07:06,639
+market environment, and I just have to
+
+176
+00:07:04,080 --> 00:07:08,400
+make it last as long as I can with as
+
+177
+00:07:06,639 --> 00:07:10,479
+much output as I can. And so there were
+
+178
+00:07:08,400 --> 00:07:12,720
+a lot of moments where it felt like wow
+
+179
+00:07:10,479 --> 00:07:15,680
+I don't really have a believable path
+
+180
+00:07:12,720 --> 00:07:17,199
+forward but still I have to convince
+
+181
+00:07:15,680 --> 00:07:19,199
+people that there is one. As an
+
+182
+00:07:17,199 --> 00:07:20,800
+entrepreneur that's your job ultimately
+
+183
+00:07:19,199 --> 00:07:22,319
+you have to find resources where other
+
+184
+00:07:20,800 --> 00:07:24,960
+people can't. You have to keep people
+
+185
+00:07:22,319 --> 00:07:26,960
+motivated and inspired when uh it looks
+
+186
+00:07:24,960 --> 00:07:30,759
+very bleak and uh you just have to keep
+
+187
+00:07:26,960 --> 00:07:30,759
+on leading by example.
+
+188
+00:07:32,660 --> 00:07:36,960
+[Music]
+
+189
+00:07:34,800 --> 00:07:38,880
+The first one was block demon was very
+
+190
+00:07:36,960 --> 00:07:40,800
+small. I think the second time around
+
+191
+00:07:38,880 --> 00:07:42,639
+was unique because at that point we
+
+192
+00:07:40,800 --> 00:07:44,479
+raised a lot of money. So we had a lot
+
+193
+00:07:42,639 --> 00:07:47,440
+of capital. What was difficult is that
+
+194
+00:07:44,479 --> 00:07:49,520
+we started 2022 by raising a lot of
+
+195
+00:07:47,440 --> 00:07:52,000
+money buying companies to build a sort
+
+196
+00:07:49,520 --> 00:07:54,800
+of really cohesive product suite that we
+
+197
+00:07:52,000 --> 00:07:57,199
+thought we could sell within the year to
+
+198
+00:07:54,800 --> 00:08:00,080
+institutions. And what happened is that
+
+199
+00:07:57,199 --> 00:08:02,879
+market just died. There was suddenly a
+
+200
+00:08:00,080 --> 00:08:05,680
+lot of pressure on ultimately scaling
+
+201
+00:08:02,879 --> 00:08:07,599
+down the projects we worked on that
+
+202
+00:08:05,680 --> 00:08:09,759
+created operational pressure on the
+
+203
+00:08:07,599 --> 00:08:12,319
+company to how do we rightsize the
+
+204
+00:08:09,759 --> 00:08:14,000
+company? How do we losing money in
+
+205
+00:08:12,319 --> 00:08:16,319
+developing products that currently have
+
+206
+00:08:14,000 --> 00:08:19,120
+no market? It was a lot harder because
+
+207
+00:08:16,319 --> 00:08:21,120
+we had to make the hard choice to also
+
+208
+00:08:19,120 --> 00:08:23,199
+let go of a lot of block demons and
+
+209
+00:08:21,120 --> 00:08:25,840
+people that worked with us in order to
+
+210
+00:08:23,199 --> 00:08:28,319
+um ultimately be operational efficient.
+
+211
+00:08:25,840 --> 00:08:31,360
+changing strategies and letting go of
+
+212
+00:08:28,319 --> 00:08:34,080
+people in order to adjust for a longer
+
+213
+00:08:31,360 --> 00:08:37,120
+period of time without any growth of a
+
+214
+00:08:34,080 --> 00:08:40,000
+more mature company. And so I'd say that
+
+215
+00:08:37,120 --> 00:08:43,360
+crypto winter felt harder to me because
+
+216
+00:08:40,000 --> 00:08:45,680
+obviously um losing people from your
+
+217
+00:08:43,360 --> 00:08:48,000
+team because of that is really really
+
+218
+00:08:45,680 --> 00:08:50,480
+hard. The way I describe it to people,
+
+219
+00:08:48,000 --> 00:08:52,399
+it actually just felt like another
+
+220
+00:08:50,480 --> 00:08:53,920
+Wednesday. You just take it on the chin
+
+221
+00:08:52,399 --> 00:08:55,600
+and are like, "Okay, now I need to solve
+
+222
+00:08:53,920 --> 00:08:59,760
+this problem." So you have to maintain
+
+223
+00:08:55,600 --> 00:09:01,519
+an illusion of um competence and vision
+
+224
+00:08:59,760 --> 00:09:03,040
+where like hey this is not a problem.
+
+225
+00:09:01,519 --> 00:09:04,480
+This is just a little bump on the road.
+
+226
+00:09:03,040 --> 00:09:06,560
+I know exactly how we're going to solve
+
+227
+00:09:04,480 --> 00:09:09,200
+it. It's challenging because as a
+
+228
+00:09:06,560 --> 00:09:11,839
+founder you know that a lot of the plans
+
+229
+00:09:09,200 --> 00:09:13,440
+and thoughts I had very early on are
+
+230
+00:09:11,839 --> 00:09:15,360
+assumptions. I don't know if they're
+
+231
+00:09:13,440 --> 00:09:17,760
+right or wrong but I have to pretend I
+
+232
+00:09:15,360 --> 00:09:20,720
+do. But you know I mean like anything
+
+233
+00:09:17,760 --> 00:09:22,480
+else you just try to not tell yourself
+
+234
+00:09:20,720 --> 00:09:25,279
+it's so bad and you just keep moving.
+
+235
+00:09:22,480 --> 00:09:27,120
+and we found solutions for it. You know,
+
+236
+00:09:25,279 --> 00:09:30,640
+um having a really strong team and
+
+237
+00:09:27,120 --> 00:09:32,320
+people who uh have good integrity is
+
+238
+00:09:30,640 --> 00:09:34,240
+really important in moments like that.
+
+239
+00:09:32,320 --> 00:09:36,320
+And I'm very lucky that I do have a
+
+240
+00:09:34,240 --> 00:09:38,880
+great team and people who stuck it out
+
+241
+00:09:36,320 --> 00:09:38,880
+with me
+
+242
+00:09:40,360 --> 00:09:45,760
+basically in a world where it's so hard
+
+243
+00:09:43,600 --> 00:09:48,160
+for us to develop consensus between
+
+244
+00:09:45,760 --> 00:09:51,279
+human beings when news and social media
+
+245
+00:09:48,160 --> 00:09:53,440
+and everything is so um polarized and
+
+246
+00:09:51,279 --> 00:09:56,320
+it's hard to know what's true and what's
+
+247
+00:09:53,440 --> 00:09:59,360
+not that systems that are I want to air
+
+248
+00:09:56,320 --> 00:10:02,000
+quote infallible and always true are
+
+249
+00:09:59,360 --> 00:10:03,680
+really important. When the internet was
+
+250
+00:10:02,000 --> 00:10:05,360
+created, people scammed people on the
+
+251
+00:10:03,680 --> 00:10:06,959
+internet. I never thought the internet
+
+252
+00:10:05,360 --> 00:10:09,839
+shouldn't exist. I thought there should
+
+253
+00:10:06,959 --> 00:10:11,760
+be regulation and rules and education to
+
+254
+00:10:09,839 --> 00:10:14,320
+protect people from scammers, but that
+
+255
+00:10:11,760 --> 00:10:18,320
+the benefit of the technology of open
+
+256
+00:10:14,320 --> 00:10:22,279
+access and trade outweighs the downside.
+
+257
+00:10:18,320 --> 00:10:24,800
+If done correctly, crypto is the
+
+258
+00:10:22,279 --> 00:10:26,959
+antithesis to scamming. It's fully
+
+259
+00:10:24,800 --> 00:10:29,200
+transparent. It's traceable. You can see
+
+260
+00:10:26,959 --> 00:10:32,160
+every wallet that's active on the
+
+261
+00:10:29,200 --> 00:10:35,440
+network. And so it's actually the most
+
+262
+00:10:32,160 --> 00:10:38,240
+scam resilient system at its core. I
+
+263
+00:10:35,440 --> 00:10:40,880
+think it took us 3 years before
+
+264
+00:10:38,240 --> 00:10:43,200
+institutions started engaging with us in
+
+265
+00:10:40,880 --> 00:10:44,800
+order to engage with institutions. I
+
+266
+00:10:43,200 --> 00:10:46,720
+think we also made the decision at the
+
+267
+00:10:44,800 --> 00:10:48,720
+time that the only way institutions are
+
+268
+00:10:46,720 --> 00:10:51,120
+going to engage with us is if they also
+
+269
+00:10:48,720 --> 00:10:53,120
+own part of blockdemon are part of the
+
+270
+00:10:51,120 --> 00:10:55,040
+governance of block demon. And so JP
+
+271
+00:10:53,120 --> 00:10:57,040
+Morgan and Goldman Sachs for example
+
+272
+00:10:55,040 --> 00:10:59,120
+have uh participate in the board of
+
+273
+00:10:57,040 --> 00:11:01,440
+blockdemon. So they're basically also my
+
+274
+00:10:59,120 --> 00:11:03,680
+bosses which means that they get to see
+
+275
+00:11:01,440 --> 00:11:05,920
+the inside of the company. They get to
+
+276
+00:11:03,680 --> 00:11:08,640
+question my choices. They're not just
+
+277
+00:11:05,920 --> 00:11:11,040
+outside customers. They also in are
+
+278
+00:11:08,640 --> 00:11:12,240
+parts of creating the company. And so I
+
+279
+00:11:11,040 --> 00:11:13,920
+think that gave them a lot of
+
+280
+00:11:12,240 --> 00:11:16,279
+confidence, right? And so that was an
+
+281
+00:11:13,920 --> 00:11:19,680
+important initial step for the first
+
+282
+00:11:16,279 --> 00:11:22,079
+customers. And the US has uh started to
+
+283
+00:11:19,680 --> 00:11:25,680
+look very very different than it did in
+
+284
+00:11:22,079 --> 00:11:27,360
+2024. We see a huge shift that's uh
+
+285
+00:11:25,680 --> 00:11:30,079
+materializing very quickly. The
+
+286
+00:11:27,360 --> 00:11:32,399
+landscape of crypto will look really
+
+287
+00:11:30,079 --> 00:11:34,800
+really different in the US with a lot
+
+288
+00:11:32,399 --> 00:11:38,079
+more enterprises and institutions
+
+289
+00:11:34,800 --> 00:11:40,399
+actively launching services uh for their
+
+290
+00:11:38,079 --> 00:11:42,880
+respective customers around crypto. Uh I
+
+291
+00:11:40,399 --> 00:11:44,560
+think in a complicated convoluted world
+
+292
+00:11:42,880 --> 00:11:46,640
+that we live in transparency and
+
+293
+00:11:44,560 --> 00:11:49,200
+efficiency are really really important.
+
+294
+00:11:46,640 --> 00:11:51,519
+They're not a luxury. They're
+
+295
+00:11:49,200 --> 00:11:53,519
+requirement for fair governance and
+
+296
+00:11:51,519 --> 00:11:55,839
+efficiency. And so I think it is indeed
+
+297
+00:11:53,519 --> 00:11:59,200
+a golden age for cryptocurrencies. Yes,
+
+298
+00:11:55,839 --> 00:12:02,800
+I've seen it from it being the underdog
+
+299
+00:11:59,200 --> 00:12:05,040
+to now becoming basically the not the
+
+300
+00:12:02,800 --> 00:12:06,880
+main dog, but the standard, right? And
+
+301
+00:12:05,040 --> 00:12:09,440
+so I think we're halfway there. And it's
+
+302
+00:12:06,880 --> 00:12:14,040
+so exciting to be a fundamental part of
+
+303
+00:12:09,440 --> 00:12:14,040
+something that I want to see it through.
+
+304
+00:12:14,950 --> 00:12:19,730
+[Music]
+
+305
+00:12:22,650 --> 00:12:25,789
+[Music]
+

@@ -1,0 +1,1078 @@
+{
+  "success": true,
+  "videoId": "VGPUg24tsQ8",
+  "videoTitle": "How We Went from Zero Buyers to One of the Fastest-Growing B2B StartupsㅣTranscend, Ben Brook",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "throw out a big number, see what"
+    },
+    {
+      "start": 1,
+      "text": "happens. If somebody bulks at it and"
+    },
+    {
+      "start": 3,
+      "text": "says that's way too high, you know,"
+    },
+    {
+      "start": 4,
+      "text": "you've at least done the right thing and"
+    },
+    {
+      "start": 6,
+      "text": "figured out what the top of the market"
+    },
+    {
+      "start": 7,
+      "text": "might be. Most founders are shocked at"
+    },
+    {
+      "start": 10,
+      "text": "the market uh will pay for their"
+    },
+    {
+      "start": 11,
+      "text": "product. And especially if you're a"
+    },
+    {
+      "start": 13,
+      "text": "first-time founder, you almost feel like"
+    },
+    {
+      "start": 15,
+      "text": "guilty or greedy asking for certain"
+    },
+    {
+      "start": 18,
+      "text": "numbers, but ultimately for pricing, you"
+    },
+    {
+      "start": 20,
+      "text": "really have to understand the business"
+    },
+    {
+      "start": 23,
+      "text": "value that a company is getting by using"
+    },
+    {
+      "start": 25,
+      "text": "your product."
+    },
+    {
+      "start": 30,
+      "text": "So, I'm Ben Brookke. I'm the co-founder"
+    },
+    {
+      "start": 32,
+      "text": "and CEO of Transcend. We are a data"
+    },
+    {
+      "start": 34,
+      "text": "privacy infrastructure company. We help"
+    },
+    {
+      "start": 36,
+      "text": "other businesses uh encode privacy rules"
+    },
+    {
+      "start": 39,
+      "text": "across all of their technology. We're"
+    },
+    {
+      "start": 41,
+      "text": "helping them comply with privacy laws"
+    },
+    {
+      "start": 44,
+      "text": "and really adopting the spirit of"
+    },
+    {
+      "start": 46,
+      "text": "privacy and giving consumers far better"
+    },
+    {
+      "start": 48,
+      "text": "control over their personal data. We're"
+    },
+    {
+      "start": 50,
+      "text": "backed by uh Excel Index. We're now a"
+    },
+    {
+      "start": 53,
+      "text": "series B startup."
+    },
+    {
+      "start": 58,
+      "text": "I think the biggest challenge for us um"
+    },
+    {
+      "start": 61,
+      "text": "like many founders were finding that"
+    },
+    {
+      "start": 63,
+      "text": "first product market fit. As a founder"
+    },
+    {
+      "start": 66,
+      "text": "in the weeds, you're like so excited"
+    },
+    {
+      "start": 68,
+      "text": "about this thing and you think like"
+    },
+    {
+      "start": 69,
+      "text": "we've got it. This is going to land."
+    },
+    {
+      "start": 71,
+      "text": "People are going to love it. Nobody"
+    },
+    {
+      "start": 72,
+      "text": "wants to buy it. And then like really"
+    },
+    {
+      "start": 75,
+      "text": "kind of learning to trust the data and"
+    },
+    {
+      "start": 79,
+      "text": "test understand what the customer really"
+    },
+    {
+      "start": 81,
+      "text": "needs. like you can't stress enough when"
+    },
+    {
+      "start": 84,
+      "text": "you're building a product to like really"
+    },
+    {
+      "start": 85,
+      "text": "understand your customer. What we ended"
+    },
+    {
+      "start": 87,
+      "text": "up doing was we found a few early"
+    },
+    {
+      "start": 91,
+      "text": "customers. We basically just said like"
+    },
+    {
+      "start": 93,
+      "text": "what if we just automated this for you?"
+    },
+    {
+      "start": 94,
+      "text": "We'll be like your extended privacy"
+    },
+    {
+      "start": 96,
+      "text": "engineering team. Let us build the"
+    },
+    {
+      "start": 99,
+      "text": "solution and kind of just like help us"
+    },
+    {
+      "start": 101,
+      "text": "understand every aspect of it. It was"
+    },
+    {
+      "start": 103,
+      "text": "actually a fairly consultative"
+    },
+    {
+      "start": 105,
+      "text": "engagement with the first two or three"
+    },
+    {
+      "start": 107,
+      "text": "customers and we made sure that like"
+    },
+    {
+      "start": 110,
+      "text": "they were aligned to the fact that yes"
+    },
+    {
+      "start": 112,
+      "text": "we are going to build a product here but"
+    },
+    {
+      "start": 113,
+      "text": "that was how we approached it. So"
+    },
+    {
+      "start": 114,
+      "text": "especially when it's in I think like a"
+    },
+    {
+      "start": 117,
+      "text": "little bit more toward like the"
+    },
+    {
+      "start": 118,
+      "text": "enterprise software motion I think"
+    },
+    {
+      "start": 120,
+      "text": "that's like absolutely a path you can"
+    },
+    {
+      "start": 121,
+      "text": "take where you just kind of let"
+    },
+    {
+      "start": 123,
+      "text": "customers vent their problems and offer"
+    },
+    {
+      "start": 126,
+      "text": "to just find a way to fix them. As for"
+    },
+    {
+      "start": 128,
+      "text": "scaling from you know 10 to 100"
+    },
+    {
+      "start": 130,
+      "text": "customers in enterprise this is when you"
+    },
+    {
+      "start": 133,
+      "text": "need to have your first sellers."
+    },
+    {
+      "start": 136,
+      "text": "Typically, you can do founderled sales"
+    },
+    {
+      "start": 137,
+      "text": "for the first call it 20, 30 customers,"
+    },
+    {
+      "start": 141,
+      "text": "but not only should you start handing"
+    },
+    {
+      "start": 144,
+      "text": "that off, but also like it's an"
+    },
+    {
+      "start": 145,
+      "text": "important part of proving that you're"
+    },
+    {
+      "start": 147,
+      "text": "able to scale the business past yourself"
+    },
+    {
+      "start": 149,
+      "text": "who knows every nook and cranny of the"
+    },
+    {
+      "start": 151,
+      "text": "product and you've been thinking about"
+    },
+    {
+      "start": 152,
+      "text": "this problem for like, you know, 5 years"
+    },
+    {
+      "start": 154,
+      "text": "or whatever. To be able to have a seller"
+    },
+    {
+      "start": 156,
+      "text": "become successful in selling your"
+    },
+    {
+      "start": 158,
+      "text": "product is an important first milestone."
+    },
+    {
+      "start": 160,
+      "text": "And we we really spent the time to find"
+    },
+    {
+      "start": 163,
+      "text": "that right sort of first seller. And the"
+    },
+    {
+      "start": 165,
+      "text": "first seller is completely different"
+    },
+    {
+      "start": 167,
+      "text": "from like the latest stage seller where"
+    },
+    {
+      "start": 169,
+      "text": "they're super creative. They kind of do"
+    },
+    {
+      "start": 171,
+      "text": "every sales role alone which includes"
+    },
+    {
+      "start": 174,
+      "text": "generating pipeline, you know, actually"
+    },
+    {
+      "start": 177,
+      "text": "running the deal with as an account"
+    },
+    {
+      "start": 179,
+      "text": "executive would and then even a lot of"
+    },
+    {
+      "start": 180,
+      "text": "like sales engineering in some cases"
+    },
+    {
+      "start": 183,
+      "text": "probably contracting all of the sort of"
+    },
+    {
+      "start": 185,
+      "text": "the full endto-end sales process. And we"
+    },
+    {
+      "start": 188,
+      "text": "found somebody who's just incredible at"
+    },
+    {
+      "start": 190,
+      "text": "this. I I really believe there's nothing"
+    },
+    {
+      "start": 192,
+      "text": "more important than like finding the"
+    },
+    {
+      "start": 193,
+      "text": "best hire. If you need to slow down to"
+    },
+    {
+      "start": 195,
+      "text": "get it right, it's 100% worth it. And"
+    },
+    {
+      "start": 198,
+      "text": "then after that, depending on what your"
+    },
+    {
+      "start": 200,
+      "text": "sort of AR is at around 100 customers,"
+    },
+    {
+      "start": 202,
+      "text": "you either need to scale your sales team"
+    },
+    {
+      "start": 204,
+      "text": "or you probably like if it's way up"
+    },
+    {
+      "start": 206,
+      "text": "market, you probably already have. But"
+    },
+    {
+      "start": 208,
+      "text": "in any case, being able to scale a sales"
+    },
+    {
+      "start": 210,
+      "text": "team really is about if you don't have a"
+    },
+    {
+      "start": 212,
+      "text": "sales background, like you should find a"
+    },
+    {
+      "start": 214,
+      "text": "sales leader. It is such a huge subject"
+    },
+    {
+      "start": 217,
+      "text": "with so much expertise that it is one of"
+    },
+    {
+      "start": 219,
+      "text": "the things where you just you need to"
+    },
+    {
+      "start": 221,
+      "text": "find a great leader who can do all of"
+    },
+    {
+      "start": 223,
+      "text": "the right pieces of like building"
+    },
+    {
+      "start": 225,
+      "text": "playbooks, breaking out the sales"
+    },
+    {
+      "start": 227,
+      "text": "process with like uh sales development"
+    },
+    {
+      "start": 229,
+      "text": "representatives, account executives,"
+    },
+    {
+      "start": 231,
+      "text": "sales engineering, revenue operations"
+    },
+    {
+      "start": 233,
+      "text": "and so forth. There's a whole"
+    },
+    {
+      "start": 234,
+      "text": "organization and that sort of meta"
+    },
+    {
+      "start": 236,
+      "text": "process is very playooked but not"
+    },
+    {
+      "start": 238,
+      "text": "something a founder should do. They"
+    },
+    {
+      "start": 239,
+      "text": "should absolutely find the the best"
+    },
+    {
+      "start": 242,
+      "text": "leader that they can. That's really the"
+    },
+    {
+      "start": 244,
+      "text": "sort of like 0 to 10, 10 to 100 and"
+    },
+    {
+      "start": 251,
+      "text": "beyond. There's a few things I'll say"
+    },
+    {
+      "start": 253,
+      "text": "about pricing. The first is make it"
+    },
+    {
+      "start": 254,
+      "text": "super iterative. You really need to"
+    },
+    {
+      "start": 256,
+      "text": "adapt it and change it until you find"
+    },
+    {
+      "start": 258,
+      "text": "your price point. Even then, like it's"
+    },
+    {
+      "start": 261,
+      "text": "only going to last for maybe a year, a"
+    },
+    {
+      "start": 262,
+      "text": "year and a half before you have gotten"
+    },
+    {
+      "start": 264,
+      "text": "enough data to say certain parts of this"
+    },
+    {
+      "start": 266,
+      "text": "are stupid. We need to change it. The"
+    },
+    {
+      "start": 268,
+      "text": "second is you should start as high as"
+    },
+    {
+      "start": 269,
+      "text": "pro possible because most founders are"
+    },
+    {
+      "start": 272,
+      "text": "shocked at the market uh will pay for"
+    },
+    {
+      "start": 274,
+      "text": "their product and especially if you're a"
+    },
+    {
+      "start": 276,
+      "text": "first-time founder you almost feel like"
+    },
+    {
+      "start": 278,
+      "text": "guilty or greedy asking for certain"
+    },
+    {
+      "start": 281,
+      "text": "numbers but ultimately for pricing you"
+    },
+    {
+      "start": 284,
+      "text": "really have to understand the business"
+    },
+    {
+      "start": 287,
+      "text": "value that a company is getting by using"
+    },
+    {
+      "start": 290,
+      "text": "your product. And it kind of sounds like"
+    },
+    {
+      "start": 293,
+      "text": "just corporate jargon, but this is"
+    },
+    {
+      "start": 296,
+      "text": "actually how companies buy. And so if"
+    },
+    {
+      "start": 298,
+      "text": "you're not articulating the actual"
+    },
+    {
+      "start": 300,
+      "text": "dollar value of your product or if you"
+    },
+    {
+      "start": 302,
+      "text": "have no idea how to even start, the"
+    },
+    {
+      "start": 303,
+      "text": "person who's buying your product is"
+    },
+    {
+      "start": 305,
+      "text": "going to try to create that assessment"
+    },
+    {
+      "start": 307,
+      "text": "themselves so that they can take it to"
+    },
+    {
+      "start": 309,
+      "text": "the CFO and get it approved. And so it's"
+    },
+    {
+      "start": 311,
+      "text": "the the real answer is like, do you want"
+    },
+    {
+      "start": 313,
+      "text": "to be involved in that process or do you"
+    },
+    {
+      "start": 314,
+      "text": "not? If it's going to get approved, you"
+    },
+    {
+      "start": 316,
+      "text": "better be involved in that process. So"
+    },
+    {
+      "start": 317,
+      "text": "you actually do have to articulate if"
+    },
+    {
+      "start": 319,
+      "text": "you're going to drive revenue in the"
+    },
+    {
+      "start": 320,
+      "text": "company, how much can you drive? If"
+    },
+    {
+      "start": 322,
+      "text": "you're going to decrease cost, how much"
+    },
+    {
+      "start": 323,
+      "text": "can you decrease cost? Can you actually"
+    },
+    {
+      "start": 325,
+      "text": "articulate what we call value drivers"
+    },
+    {
+      "start": 327,
+      "text": "and educate the person who's trying to"
+    },
+    {
+      "start": 329,
+      "text": "buy your product who's interested in it"
+    },
+    {
+      "start": 331,
+      "text": "and work with them to sort of build this"
+    },
+    {
+      "start": 332,
+      "text": "value case together? And then whatever"
+    },
+    {
+      "start": 334,
+      "text": "that value is, your price should be"
+    },
+    {
+      "start": 336,
+      "text": "about a quarter, two or one/3 of that so"
+    },
+    {
+      "start": 339,
+      "text": "that they get the ROI number on top for"
+    },
+    {
+      "start": 341,
+      "text": "the remaining three quarters."
+    },
+    {
+      "start": 345,
+      "text": "The real sort of key to our series B was"
+    },
+    {
+      "start": 348,
+      "text": "proving that we could repeatably switch"
+    },
+    {
+      "start": 351,
+      "text": "customers off of the status quo in"
+    },
+    {
+      "start": 354,
+      "text": "privacy, which is incredibly manual"
+    },
+    {
+      "start": 357,
+      "text": "operational work where data owners are"
+    },
+    {
+      "start": 360,
+      "text": "consistently being interviewed, asked to"
+    },
+    {
+      "start": 362,
+      "text": "manually operate on one individual's"
+    },
+    {
+      "start": 365,
+      "text": "data when that individual asks to be"
+    },
+    {
+      "start": 367,
+      "text": "deleted. And that is the status quo sort"
+    },
+    {
+      "start": 370,
+      "text": "of encoded by legacy incumbent software."
+    },
+    {
+      "start": 373,
+      "text": "The real bet at our series A was like,"
+    },
+    {
+      "start": 375,
+      "text": "can we repeatably show that we can take"
+    },
+    {
+      "start": 378,
+      "text": "market share? Is there a long-term"
+    },
+    {
+      "start": 380,
+      "text": "outcome where transcend takes that sort"
+    },
+    {
+      "start": 382,
+      "text": "of top spot in the market? And so our"
+    },
+    {
+      "start": 384,
+      "text": "series A to our series B was really all"
+    },
+    {
+      "start": 387,
+      "text": "about building our sales team, scaling"
+    },
+    {
+      "start": 389,
+      "text": "up marketing operation, and really like"
+    },
+    {
+      "start": 391,
+      "text": "delivering a customer experience that"
+    },
+    {
+      "start": 393,
+      "text": "customers would be happy to sort of like"
+    },
+    {
+      "start": 396,
+      "text": "do case studies and and sort of shout"
+    },
+    {
+      "start": 398,
+      "text": "shout about us from the rooftops and"
+    },
+    {
+      "start": 399,
+      "text": "tell their friends to switch as well."
+    },
+    {
+      "start": 401,
+      "text": "And so we we we really tracked like"
+    },
+    {
+      "start": 403,
+      "text": "milestones around like uh our win rate"
+    },
+    {
+      "start": 405,
+      "text": "against uh the incumbent competitor and"
+    },
+    {
+      "start": 408,
+      "text": "if we could get it to a certain number"
+    },
+    {
+      "start": 409,
+      "text": "we thought that would be really critical"
+    },
+    {
+      "start": 410,
+      "text": "for our series B story and ultimately"
+    },
+    {
+      "start": 413,
+      "text": "kind of like help unstick the market"
+    },
+    {
+      "start": 414,
+      "text": "that felt like it was kind of like"
+    },
+    {
+      "start": 416,
+      "text": "turning into a bit of a cottage industry"
+    },
+    {
+      "start": 418,
+      "text": "around this this sort of status quo way"
+    },
+    {
+      "start": 420,
+      "text": "of doing things. And so we we really"
+    },
+    {
+      "start": 422,
+      "text": "kind of like had a metric driven process"
+    },
+    {
+      "start": 425,
+      "text": "against that and just executed really"
+    },
+    {
+      "start": 428,
+      "text": "really well on that plan. So that at the"
+    },
+    {
+      "start": 430,
+      "text": "series B we could tell the full story of"
+    },
+    {
+      "start": 432,
+      "text": "customers are making this like mass"
+    },
+    {
+      "start": 435,
+      "text": "migration"
+    },
+    {
+      "start": 439,
+      "text": "switch. The current trend in privacy"
+    },
+    {
+      "start": 442,
+      "text": "right now is first governance of AI"
+    },
+    {
+      "start": 446,
+      "text": "systems. There is a sort of mad dash"
+    },
+    {
+      "start": 449,
+      "text": "inside every business right now to adopt"
+    },
+    {
+      "start": 451,
+      "text": "AI and part of that is uh compiling all"
+    },
+    {
+      "start": 455,
+      "text": "of the data into a format uh that can be"
+    },
+    {
+      "start": 458,
+      "text": "leveraged for the purpose of AI for the"
+    },
+    {
+      "start": 460,
+      "text": "those who are technical these are like"
+    },
+    {
+      "start": 462,
+      "text": "vector databases and building embeddings"
+    },
+    {
+      "start": 464,
+      "text": "but there are very few guard rails"
+    },
+    {
+      "start": 467,
+      "text": "around any of these systems and the way"
+    },
+    {
+      "start": 470,
+      "text": "that you know perhaps personal"
+    },
+    {
+      "start": 471,
+      "text": "information may be processed on one hand"
+    },
+    {
+      "start": 474,
+      "text": "there's the way that personal data is"
+    },
+    {
+      "start": 477,
+      "text": "being used uh in AI systems and then on"
+    },
+    {
+      "start": 480,
+      "text": "the other there's the way that AI"
+    },
+    {
+      "start": 482,
+      "text": "systems may be impacting individuals so"
+    },
+    {
+      "start": 485,
+      "text": "like bias and harm fairness uh"
+    },
+    {
+      "start": 488,
+      "text": "particularly when AI systems are being"
+    },
+    {
+      "start": 490,
+      "text": "used for decision-m and so the most"
+    },
+    {
+      "start": 492,
+      "text": "recent kind of landmark regulation was"
+    },
+    {
+      "start": 496,
+      "text": "the AI act in Europe many businesses are"
+    },
+    {
+      "start": 499,
+      "text": "trying to understand how they're using"
+    },
+    {
+      "start": 501,
+      "text": "AI put processes in place around"
+    },
+    {
+      "start": 504,
+      "text": "ensuring that the guard rails are in"
+    },
+    {
+      "start": 506,
+      "text": "place or that they've appropriately"
+    },
+    {
+      "start": 509,
+      "text": "assessed the impacts of using that AI."
+    },
+    {
+      "start": 512,
+      "text": "And so that's certainly a current trend"
+    },
+    {
+      "start": 514,
+      "text": "in uh privacy today. And one of the"
+    },
+    {
+      "start": 517,
+      "text": "effects of that a lot of the people who"
+    },
+    {
+      "start": 520,
+      "text": "became like the chief privacy officer"
+    },
+    {
+      "start": 522,
+      "text": "are going through a title change uh and"
+    },
+    {
+      "start": 525,
+      "text": "sort of role and scope change to also be"
+    },
+    {
+      "start": 528,
+      "text": "the owner of AI governance. Uh and a lot"
+    },
+    {
+      "start": 532,
+      "text": "of companies are saying kind of like"
+    },
+    {
+      "start": 533,
+      "text": "while we're at it, let's make it like"
+    },
+    {
+      "start": 535,
+      "text": "everything digital governance, all"
+    },
+    {
+      "start": 537,
+      "text": "regulatory policy, all governance of our"
+    },
+    {
+      "start": 540,
+      "text": "systems short of security. And that has"
+    },
+    {
+      "start": 544,
+      "text": "been like a big sort of industry shift."
+    },
+    {
+      "start": 546,
+      "text": "The customers and the buyer, the the"
+    },
+    {
+      "start": 548,
+      "text": "people that we sell to are undergoing"
+    },
+    {
+      "start": 550,
+      "text": "just a massive sort of change in scope."
+    },
+    {
+      "start": 552,
+      "text": "And so that's that's a really important"
+    },
+    {
+      "start": 553,
+      "text": "trend right now. And then like every day"
+    },
+    {
+      "start": 556,
+      "text": "there's something with in privacy that's"
+    },
+    {
+      "start": 559,
+      "text": "like wow that's a really creepy thing"
+    },
+    {
+      "start": 561,
+      "text": "and like or there'll be a data breach or"
+    },
+    {
+      "start": 562,
+      "text": "there'll be you know something that is"
+    },
+    {
+      "start": 564,
+      "text": "like always driving the news you know"
+    },
+    {
+      "start": 566,
+      "text": "the news meta sunglasses for example um"
+    },
+    {
+      "start": 570,
+      "text": "it took about like 3 days for someone at"
+    },
+    {
+      "start": 572,
+      "text": "uh some two kids at Harvard uh turn that"
+    },
+    {
+      "start": 575,
+      "text": "into a system which can like literally"
+    },
+    {
+      "start": 577,
+      "text": "just tell like find people's online"
+    },
+    {
+      "start": 580,
+      "text": "profiles as you walk down the street."
+    },
+    {
+      "start": 581,
+      "text": "it's just like overlaying their like"
+    },
+    {
+      "start": 583,
+      "text": "name, LinkedIn, job title, just by"
+    },
+    {
+      "start": 585,
+      "text": "facial recognition. So there's like all"
+    },
+    {
+      "start": 587,
+      "text": "kinds of crazy stuff um just like in the"
+    },
+    {
+      "start": 590,
+      "text": "the the daily news. But categorically"
+    },
+    {
+      "start": 592,
+      "text": "the shift toward u AI governance and"
+    },
+    {
+      "start": 596,
+      "text": "this broadening sort of supererset of"
+    },
+    {
+      "start": 598,
+      "text": "privacy."
+    },
+    {
+      "start": 600,
+      "text": "[Music]"
+    },
+    {
+      "start": 618,
+      "text": "What's up?"
+    },
+    {
+      "start": 619,
+      "text": "[Music]"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 267,
+  "timestamp": "2025-07-24T08:16:52.947Z"
+}

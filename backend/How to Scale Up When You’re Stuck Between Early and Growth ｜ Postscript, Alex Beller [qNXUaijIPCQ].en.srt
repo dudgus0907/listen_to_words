@@ -1,0 +1,1568 @@
+1
+00:00:00,240 --> 00:00:05,319
+every time your company doubles in
+
+2
+00:00:02,720 --> 00:00:07,800
+headcount size it breaks especially
+
+3
+00:00:05,319 --> 00:00:11,000
+within the tech and the startup
+
+4
+00:00:07,800 --> 00:00:13,240
+landscape we're all attracted to Big
+
+5
+00:00:11,000 --> 00:00:16,840
+names and big dollar signs and big
+
+6
+00:00:13,240 --> 00:00:19,439
+markets but focusing on a core product
+
+7
+00:00:16,840 --> 00:00:21,560
+and a core user in a core use case I
+
+8
+00:00:19,439 --> 00:00:24,400
+believe that that breeds excellence in a
+
+9
+00:00:21,560 --> 00:00:26,119
+product the riches are in the niches and
+
+10
+00:00:24,400 --> 00:00:27,720
+that's a difficult thing to do it
+
+11
+00:00:26,119 --> 00:00:28,960
+requires a lot of discipline and this is
+
+12
+00:00:27,720 --> 00:00:31,359
+a secret that I would recommend to
+
+13
+00:00:28,960 --> 00:00:34,079
+everyone I'm Alex Beller one of the
+
+14
+00:00:31,359 --> 00:00:36,040
+co-founders of postcript postcript is an
+
+15
+00:00:34,079 --> 00:00:37,960
+SMS marketing platform for e-commerce
+
+16
+00:00:36,040 --> 00:00:40,320
+businesses and the idea from the start
+
+17
+00:00:37,960 --> 00:00:42,320
+was SMS marketing for Brands built on
+
+18
+00:00:40,320 --> 00:00:44,879
+top of Shopify make a really easy really
+
+19
+00:00:42,320 --> 00:00:47,440
+powerful solution that lets people
+
+20
+00:00:44,879 --> 00:00:49,360
+retarget transact converse with their
+
+21
+00:00:47,440 --> 00:00:52,440
+customers over text message postcript
+
+22
+00:00:49,360 --> 00:00:55,039
+found product Market fit very early
+
+23
+00:00:52,440 --> 00:00:57,359
+customers wanted to send text messages
+
+24
+00:00:55,039 --> 00:00:59,519
+to their and subscribers to their
+
+25
+00:00:57,359 --> 00:01:01,359
+Shoppers and as long as it generates
+
+26
+00:00:59,519 --> 00:01:03,960
+clear Roi they're going to want to send
+
+27
+00:01:01,359 --> 00:01:05,840
+more and around this time we decided to
+
+28
+00:01:03,960 --> 00:01:07,680
+apply to Y combinator and we did that
+
+29
+00:01:05,840 --> 00:01:10,000
+for many reasons uh we were kind of
+
+30
+00:01:07,680 --> 00:01:11,400
+Outsiders we were based in LA in Arizona
+
+31
+00:01:10,000 --> 00:01:14,799
+we weren't very connected to the tech
+
+32
+00:01:11,400 --> 00:01:16,640
+scene and I went into our application
+
+33
+00:01:14,799 --> 00:01:18,119
+after we filed it every few days and I
+
+34
+00:01:16,640 --> 00:01:20,240
+would update it with our new Revenue
+
+35
+00:01:18,119 --> 00:01:22,000
+number so that when they logged into our
+
+36
+00:01:20,240 --> 00:01:23,600
+application to review it they would see
+
+37
+00:01:22,000 --> 00:01:24,880
+on this date this was their revenue on
+
+38
+00:01:23,600 --> 00:01:26,400
+this date the revenue was higher on this
+
+39
+00:01:24,880 --> 00:01:28,240
+day the revenue was higher and this was
+
+40
+00:01:26,400 --> 00:01:29,799
+like our second or third month and that
+
+41
+00:01:28,240 --> 00:01:32,240
+was the time when our Revenue each week
+
+42
+00:01:29,799 --> 00:01:35,680
+was was going from like $200 a month to$
+
+43
+00:01:32,240 --> 00:01:38,119
+800 to 2,000 to 3,000 I believe that the
+
+44
+00:01:35,680 --> 00:01:40,439
+reason that we got in to YC was because
+
+45
+00:01:38,119 --> 00:01:41,840
+they saw this growth trajectory and all
+
+46
+00:01:40,439 --> 00:01:43,560
+that growth was coming from word of
+
+47
+00:01:41,840 --> 00:01:45,880
+mouth and it was coming from the Shopify
+
+48
+00:01:43,560 --> 00:01:47,360
+App Store it was all inbound to us we
+
+49
+00:01:45,880 --> 00:01:48,600
+were in the right time at the right
+
+50
+00:01:47,360 --> 00:01:51,119
+place with the right product that
+
+51
+00:01:48,600 --> 00:01:53,479
+generated value for our users and by the
+
+52
+00:01:51,119 --> 00:01:55,200
+time we left YC combinator we were past
+
+53
+00:01:53,479 --> 00:01:57,479
+a million in annual revenue
+
+54
+00:01:55,200 --> 00:01:59,159
+approximately 6 to 7 months after we
+
+55
+00:01:57,479 --> 00:02:01,719
+launched we've raised several rounds of
+
+56
+00:01:59,159 --> 00:02:04,200
+funding since then then through series C
+
+57
+00:02:01,719 --> 00:02:07,719
+we bought a company called fondue and we
+
+58
+00:02:04,200 --> 00:02:10,399
+are now about 270 or 280 people spread
+
+59
+00:02:07,719 --> 00:02:10,399
+out across the
+
+60
+00:02:11,080 --> 00:02:14,480
+US you know we were talking about
+
+61
+00:02:13,040 --> 00:02:16,239
+different startup ideas me and Adam our
+
+62
+00:02:14,480 --> 00:02:19,360
+third partner Colin they started
+
+63
+00:02:16,239 --> 00:02:22,080
+building what became postcript our early
+
+64
+00:02:19,360 --> 00:02:25,680
+customers were amazing they're very
+
+65
+00:02:22,080 --> 00:02:27,680
+funny they were small e-commerce
+
+66
+00:02:25,680 --> 00:02:30,440
+entrepreneurs so a couple of things
+
+67
+00:02:27,680 --> 00:02:32,840
+worked for us really well in early days
+
+68
+00:02:30,440 --> 00:02:34,000
+we did something that in hindsight we
+
+69
+00:02:32,840 --> 00:02:35,720
+like hadn't put much thought into but
+
+70
+00:02:34,000 --> 00:02:36,959
+ended up being a really good idea and
+
+71
+00:02:35,720 --> 00:02:41,000
+this is a secret that I would recommend
+
+72
+00:02:36,959 --> 00:02:43,560
+to everyone we put a live chat widget on
+
+73
+00:02:41,000 --> 00:02:45,480
+our website and inside the postcript
+
+74
+00:02:43,560 --> 00:02:47,599
+application and we set it up so that
+
+75
+00:02:45,480 --> 00:02:50,319
+whenever anyone chatted in whenever any
+
+76
+00:02:47,599 --> 00:02:52,400
+User submitted a chat it would call all
+
+77
+00:02:50,319 --> 00:02:54,120
+three of our cell phones NE and Adam
+
+78
+00:02:52,400 --> 00:02:56,239
+calling it would ring us and we would
+
+79
+00:02:54,120 --> 00:02:58,200
+immediately stop whatever we were doing
+
+80
+00:02:56,239 --> 00:03:00,319
+and we would like to we would drop it
+
+81
+00:02:58,200 --> 00:03:01,400
+and we would go log in Andy try to help
+
+82
+00:03:00,319 --> 00:03:03,319
+that person we would answer their
+
+83
+00:03:01,400 --> 00:03:04,760
+questions we would take feedback from
+
+84
+00:03:03,319 --> 00:03:08,120
+them we would help them use the product
+
+85
+00:03:04,760 --> 00:03:10,200
+whatever that turned out to be an
+
+86
+00:03:08,120 --> 00:03:12,040
+incredible secret that accelerated us so
+
+87
+00:03:10,200 --> 00:03:14,200
+much and there's a bunch of reasons why
+
+88
+00:03:12,040 --> 00:03:15,920
+first we learned so much from these
+
+89
+00:03:14,200 --> 00:03:18,040
+early customers I mean they were giving
+
+90
+00:03:15,920 --> 00:03:20,879
+us feedback on holes in our product and
+
+91
+00:03:18,040 --> 00:03:22,159
+and what we needed to build next and
+
+92
+00:03:20,879 --> 00:03:23,400
+pricing they're giving us feedback on
+
+93
+00:03:22,159 --> 00:03:25,000
+everything and so then we could just
+
+94
+00:03:23,400 --> 00:03:26,239
+build exactly what they were asking for
+
+95
+00:03:25,000 --> 00:03:28,720
+and they'd be happier but the other
+
+96
+00:03:26,239 --> 00:03:30,920
+thing that came out of it is people were
+
+97
+00:03:28,720 --> 00:03:32,599
+getting great amazing Hands-On support
+
+98
+00:03:30,920 --> 00:03:34,239
+from the founders and we would be super
+
+99
+00:03:32,599 --> 00:03:37,159
+open that we were the founders of this
+
+100
+00:03:34,239 --> 00:03:39,680
+tiny little business and people really
+
+101
+00:03:37,159 --> 00:03:41,920
+like that and so they started to tell
+
+102
+00:03:39,680 --> 00:03:44,000
+their friends or other people they knew
+
+103
+00:03:41,920 --> 00:03:47,040
+about the post trip product they started
+
+104
+00:03:44,000 --> 00:03:49,439
+leaving us good reviews on the Shopify
+
+105
+00:03:47,040 --> 00:03:52,720
+App Store that then had our application
+
+106
+00:03:49,439 --> 00:03:54,480
+listing rank even higher there and so us
+
+107
+00:03:52,720 --> 00:03:56,360
+just talking to our customers as much as
+
+108
+00:03:54,480 --> 00:03:58,120
+possible and being super available I
+
+109
+00:03:56,360 --> 00:03:59,400
+mean we would wake up in the middle of
+
+110
+00:03:58,120 --> 00:04:01,079
+the night when our cell phone rang to
+
+111
+00:03:59,400 --> 00:04:04,959
+help customers we would leave leave the
+
+112
+00:04:01,079 --> 00:04:06,560
+ringer on and that created a lot of our
+
+113
+00:04:04,959 --> 00:04:08,720
+ground swell that led to our early
+
+114
+00:04:06,560 --> 00:04:10,840
+growth and so our first 100 users a lot
+
+115
+00:04:08,720 --> 00:04:13,239
+of it came from being hyper available
+
+116
+00:04:10,840 --> 00:04:14,560
+from being public but listening to our
+
+117
+00:04:13,239 --> 00:04:17,199
+customers talking to them and just
+
+118
+00:04:14,560 --> 00:04:19,280
+providing completely over-the-top
+
+119
+00:04:17,199 --> 00:04:20,720
+support it's actually a lot of what Paul
+
+120
+00:04:19,280 --> 00:04:22,720
+Graham talks about when he says do
+
+121
+00:04:20,720 --> 00:04:25,600
+things that don't scale you know now
+
+122
+00:04:22,720 --> 00:04:28,199
+posted his 18,000 customers I cannot do
+
+123
+00:04:25,600 --> 00:04:30,639
+the chat support for all of them anymore
+
+124
+00:04:28,199 --> 00:04:32,039
+but doing that for so long we spent
+
+125
+00:04:30,639 --> 00:04:33,440
+months and months and months we were the
+
+126
+00:04:32,039 --> 00:04:36,280
+only ones who did support for postcript
+
+127
+00:04:33,440 --> 00:04:38,240
+and we did it all the time live that we
+
+128
+00:04:36,280 --> 00:04:40,880
+learned so much the product advance so
+
+129
+00:04:38,240 --> 00:04:43,759
+much and and we got to spread a lot of
+
+130
+00:04:40,880 --> 00:04:47,320
+Word of Mouth came from that
+
+131
+00:04:43,759 --> 00:04:50,000
+too so uh we launched really with an MVP
+
+132
+00:04:47,320 --> 00:04:52,320
+that directly grew into postcript we've
+
+133
+00:04:50,000 --> 00:04:54,880
+enhanced it and we've expanded it but we
+
+134
+00:04:52,320 --> 00:04:56,680
+never pivoted it was SMS marketing for
+
+135
+00:04:54,880 --> 00:04:58,360
+e-commerce on Shopify and that's still
+
+136
+00:04:56,680 --> 00:05:01,440
+what it is today in early days of
+
+137
+00:04:58,360 --> 00:05:03,400
+postcript we had had Brands come to us
+
+138
+00:05:01,440 --> 00:05:06,199
+big brands that heard about us that
+
+139
+00:05:03,400 --> 00:05:08,360
+weren't on Shopify and they wanted to
+
+140
+00:05:06,199 --> 00:05:10,720
+give us a lot of money to send text
+
+141
+00:05:08,360 --> 00:05:12,759
+messages right so they're an e-commerce
+
+142
+00:05:10,720 --> 00:05:14,320
+brand that's SAR sweet spot they want to
+
+143
+00:05:12,759 --> 00:05:17,000
+use postcript for exactly what everyone
+
+144
+00:05:14,320 --> 00:05:18,280
+else uses it for but they had a
+
+145
+00:05:17,000 --> 00:05:19,600
+different underlying technology they
+
+146
+00:05:18,280 --> 00:05:21,840
+weren't on Shopify they were using a
+
+147
+00:05:19,600 --> 00:05:21,840
+different
+
+148
+00:05:22,759 --> 00:05:26,680
+platform I'm the revenue leader of the
+
+149
+00:05:24,759 --> 00:05:28,160
+company that's a hard thing to say no to
+
+150
+00:05:26,680 --> 00:05:30,000
+right that's hard to walk away from a
+
+151
+00:05:28,160 --> 00:05:31,840
+huge prominent brand who wants to pay us
+
+152
+00:05:30,000 --> 00:05:35,360
+a lot of money and be our friend and do
+
+153
+00:05:31,840 --> 00:05:37,000
+a case study with us but we decided to
+
+154
+00:05:35,360 --> 00:05:38,560
+pass on that and we said you know what
+
+155
+00:05:37,000 --> 00:05:39,960
+we'll we'll see you later on down the
+
+156
+00:05:38,560 --> 00:05:42,479
+road but right now we're focused on this
+
+157
+00:05:39,960 --> 00:05:44,600
+one thing and that's a difficult thing
+
+158
+00:05:42,479 --> 00:05:47,240
+to do it requires a lot of discipline
+
+159
+00:05:44,600 --> 00:05:48,680
+but it would have taken us off track it
+
+160
+00:05:47,240 --> 00:05:50,120
+would have led to distraction we would
+
+161
+00:05:48,680 --> 00:05:52,120
+have been building in many different
+
+162
+00:05:50,120 --> 00:05:54,199
+directions then with limited resources
+
+163
+00:05:52,120 --> 00:05:56,800
+and it would have been a mistake because
+
+164
+00:05:54,199 --> 00:05:59,120
+of that Focus so much of our value has
+
+165
+00:05:56,800 --> 00:06:00,720
+been created and so yes we've considered
+
+166
+00:05:59,120 --> 00:06:02,360
+expansion many times we've considered
+
+167
+00:06:00,720 --> 00:06:05,680
+expanding markets we've considered
+
+168
+00:06:02,360 --> 00:06:07,319
+expanding use cases outside of SMS but
+
+169
+00:06:05,680 --> 00:06:09,759
+what we keep coming back to is that
+
+170
+00:06:07,319 --> 00:06:12,840
+there remains more opportunity in this
+
+171
+00:06:09,759 --> 00:06:14,639
+core space and no one has really solved
+
+172
+00:06:12,840 --> 00:06:16,479
+it yet we think we're doing an excellent
+
+173
+00:06:14,639 --> 00:06:18,039
+job but there's still so much more to BU
+
+174
+00:06:16,479 --> 00:06:19,720
+build and so much more value to deliver
+
+175
+00:06:18,039 --> 00:06:21,160
+to these customers we want to do that
+
+176
+00:06:19,720 --> 00:06:23,479
+first we like to be the one that goes
+
+177
+00:06:21,160 --> 00:06:26,120
+deeper I think there's many traps and
+
+178
+00:06:23,479 --> 00:06:28,960
+many mistakes that all of us fall into
+
+179
+00:06:26,120 --> 00:06:33,160
+in the early days myself and and US
+
+180
+00:06:28,960 --> 00:06:35,160
+included but focus is one that is
+
+181
+00:06:33,160 --> 00:06:36,919
+underrated especially within the tech
+
+182
+00:06:35,160 --> 00:06:39,800
+and the startup landscape we're all
+
+183
+00:06:36,919 --> 00:06:43,960
+attracted to Big names and big dollar
+
+184
+00:06:39,800 --> 00:06:46,080
+signs and big markets but focusing on a
+
+185
+00:06:43,960 --> 00:06:48,680
+core product and a core user in a core
+
+186
+00:06:46,080 --> 00:06:51,000
+use case to start not forever but to
+
+187
+00:06:48,680 --> 00:06:53,400
+start I believe that that breeds
+
+188
+00:06:51,000 --> 00:06:55,879
+excellence in a product the riches are
+
+189
+00:06:53,400 --> 00:06:57,720
+in the niches I I really believe and
+
+190
+00:06:55,879 --> 00:07:00,319
+that's paid off for us where we've been
+
+191
+00:06:57,720 --> 00:07:02,400
+so laser focused on E Commerce marketers
+
+192
+00:07:00,319 --> 00:07:04,360
+that use Shopify and delivering them an
+
+193
+00:07:02,400 --> 00:07:05,840
+amazing SMS experience and that's really
+
+194
+00:07:04,360 --> 00:07:07,800
+paid off for us and I think that anyone
+
+195
+00:07:05,840 --> 00:07:10,560
+who uses postcript or works with the
+
+196
+00:07:07,800 --> 00:07:11,919
+postcript team experiences that craft
+
+197
+00:07:10,560 --> 00:07:14,599
+because they can tell that there's so
+
+198
+00:07:11,919 --> 00:07:17,960
+much expertise there what makes great
+
+199
+00:07:14,599 --> 00:07:19,840
+CEOs and great leaders is the ability to
+
+200
+00:07:17,960 --> 00:07:21,639
+look at your resourcing look at your
+
+201
+00:07:19,840 --> 00:07:23,240
+organization look at the all the
+
+202
+00:07:21,639 --> 00:07:25,520
+opportunities in front of you and
+
+203
+00:07:23,240 --> 00:07:29,199
+sequence things properly so that as much
+
+204
+00:07:25,520 --> 00:07:29,199
+lines up as possible
+
+205
+00:07:29,720 --> 00:07:33,400
+so there's a common framing that I hear
+
+206
+00:07:31,919 --> 00:07:35,440
+from a lot of other late stage Founders
+
+207
+00:07:33,400 --> 00:07:37,960
+or investors that I believe is true
+
+208
+00:07:35,440 --> 00:07:41,560
+which is that every time your company
+
+209
+00:07:37,960 --> 00:07:43,840
+doubles in headcount size it breaks and
+
+210
+00:07:41,560 --> 00:07:46,000
+I've really seen that to be the case you
+
+211
+00:07:43,840 --> 00:07:47,199
+know when it's 10 people everyone's
+
+212
+00:07:46,000 --> 00:07:49,280
+connected to everyone and it's all
+
+213
+00:07:47,199 --> 00:07:51,400
+automatic and then suddenly it's 25
+
+214
+00:07:49,280 --> 00:07:53,159
+people and you need management layers of
+
+215
+00:07:51,400 --> 00:07:55,039
+some kind and then it's 50 and it's a
+
+216
+00:07:53,159 --> 00:07:56,800
+completely different company and 100 and
+
+217
+00:07:55,039 --> 00:07:58,560
+200 they're totally different companies
+
+218
+00:07:56,800 --> 00:08:00,039
+and they require different styles of
+
+219
+00:07:58,560 --> 00:08:01,159
+communication and man agement and they
+
+220
+00:08:00,039 --> 00:08:03,240
+require a lot of different things from
+
+221
+00:08:01,159 --> 00:08:05,800
+their Founders when you advance to the
+
+222
+00:08:03,240 --> 00:08:08,840
+growth stage the people challeng is
+
+223
+00:08:05,800 --> 00:08:11,720
+really set in your organization becomes
+
+224
+00:08:08,840 --> 00:08:14,120
+so much more about how you can direct
+
+225
+00:08:11,720 --> 00:08:16,759
+the resources at your disposal instead
+
+226
+00:08:14,120 --> 00:08:19,199
+of how can you as a Craftsman or a
+
+227
+00:08:16,759 --> 00:08:21,720
+practitioner build product or work with
+
+228
+00:08:19,199 --> 00:08:23,919
+customers and those are very different
+
+229
+00:08:21,720 --> 00:08:26,159
+skill sets when I think about some of
+
+230
+00:08:23,919 --> 00:08:28,720
+the biggest lessons or tips that I could
+
+231
+00:08:26,159 --> 00:08:31,159
+give entrepreneurs thinking about
+
+232
+00:08:28,720 --> 00:08:35,120
+scaling uh what comes to mind more than
+
+233
+00:08:31,159 --> 00:08:37,120
+anything else is values when we started
+
+234
+00:08:35,120 --> 00:08:39,360
+the business we didn't create a set of
+
+235
+00:08:37,120 --> 00:08:41,839
+values and the reason for this was
+
+236
+00:08:39,360 --> 00:08:45,240
+because we'd all worked in companies
+
+237
+00:08:41,839 --> 00:08:47,399
+before that you know had values but
+
+238
+00:08:45,240 --> 00:08:49,160
+maybe they weren't that important or you
+
+239
+00:08:47,399 --> 00:08:50,720
+know they just they hung on the wall but
+
+240
+00:08:49,160 --> 00:08:53,279
+no one really knew them or was connected
+
+241
+00:08:50,720 --> 00:08:56,200
+to them and so we just thought it was
+
+242
+00:08:53,279 --> 00:08:58,040
+Superfluous but Tim Brady who was one of
+
+243
+00:08:56,200 --> 00:08:59,920
+our partners at y combinator when we
+
+244
+00:08:58,040 --> 00:09:02,399
+were about to hire our first team member
+
+245
+00:08:59,920 --> 00:09:03,959
+he said to us create a couple values
+
+246
+00:09:02,399 --> 00:09:05,959
+it'll help you anchor the culture in
+
+247
+00:09:03,959 --> 00:09:07,519
+something and that's what we did the
+
+248
+00:09:05,959 --> 00:09:08,880
+three of us sat down and we banged our
+
+249
+00:09:07,519 --> 00:09:11,240
+head against the wall and we got the
+
+250
+00:09:08,880 --> 00:09:15,399
+Whiteboard out and we created a set of
+
+251
+00:09:11,240 --> 00:09:16,480
+values that value set has been core to
+
+252
+00:09:15,399 --> 00:09:20,440
+the culture that has been built a
+
+253
+00:09:16,480 --> 00:09:22,120
+postcript for now almost 7 years the key
+
+254
+00:09:20,440 --> 00:09:24,839
+tip that I would give people is not just
+
+255
+00:09:22,120 --> 00:09:27,760
+to create a set of values but to make
+
+256
+00:09:24,839 --> 00:09:29,959
+sure it has a great acronym this is
+
+257
+00:09:27,760 --> 00:09:33,240
+actually the hack because what's more
+
+258
+00:09:29,959 --> 00:09:34,839
+important than what the values are it's
+
+259
+00:09:33,240 --> 00:09:36,519
+that everyone knows them like the
+
+260
+00:09:34,839 --> 00:09:38,880
+specific things I'm sure everyone can
+
+261
+00:09:36,519 --> 00:09:41,279
+pick inspirational good values but
+
+262
+00:09:38,880 --> 00:09:44,399
+what's more important is just that
+
+263
+00:09:41,279 --> 00:09:47,200
+everyone can remember them and that they
+
+264
+00:09:44,399 --> 00:09:51,240
+uh reflect how you believe work should
+
+265
+00:09:47,200 --> 00:09:55,360
+occur so to get specific the values at
+
+266
+00:09:51,240 --> 00:09:58,640
+postcript the acronym for them is Fe Fe
+
+267
+00:09:55,360 --> 00:10:01,120
+it's kind of a funny word it's f a c h
+
+268
+00:09:58,640 --> 00:10:04,279
+it's Fearless
+
+269
+00:10:01,120 --> 00:10:06,480
+Excellence animal customer first
+
+270
+00:10:04,279 --> 00:10:08,240
+humility every time a new person joins
+
+271
+00:10:06,480 --> 00:10:10,519
+postcript they go through a training
+
+272
+00:10:08,240 --> 00:10:13,360
+with me where I walk them through all of
+
+273
+00:10:10,519 --> 00:10:15,440
+our values what Fe stands for the story
+
+274
+00:10:13,360 --> 00:10:17,720
+behind each one how we believe it should
+
+275
+00:10:15,440 --> 00:10:19,440
+show up at work and then people get
+
+276
+00:10:17,720 --> 00:10:21,120
+recognized for living these values and
+
+277
+00:10:19,440 --> 00:10:22,800
+it comes up in their annual reviews and
+
+278
+00:10:21,120 --> 00:10:24,640
+we have a slack Channel going where
+
+279
+00:10:22,800 --> 00:10:26,760
+people get shouted out for living within
+
+280
+00:10:24,640 --> 00:10:28,120
+these values and that has really helped
+
+281
+00:10:26,760 --> 00:10:31,040
+guide our culture and keep us all
+
+282
+00:10:28,120 --> 00:10:32,320
+together as we've grown remotely but I
+
+283
+00:10:31,040 --> 00:10:34,240
+believe that the values that are going
+
+284
+00:10:32,320 --> 00:10:36,440
+to be relevant to an organization are
+
+285
+00:10:34,240 --> 00:10:38,920
+going to change over time they're not
+
+286
+00:10:36,440 --> 00:10:41,920
+always the same I'll give you an example
+
+287
+00:10:38,920 --> 00:10:44,320
+the e in Fe of our company's values
+
+288
+00:10:41,920 --> 00:10:45,560
+today it stands for excellence it didn't
+
+289
+00:10:44,320 --> 00:10:49,240
+always stand for that it used to stand
+
+290
+00:10:45,560 --> 00:10:51,639
+for 8020 8020 meaning we wanted people
+
+291
+00:10:49,240 --> 00:10:53,959
+to be operating from an 8020 mindset we
+
+292
+00:10:51,639 --> 00:10:55,920
+didn't want folks to focus on Perfection
+
+293
+00:10:53,959 --> 00:10:57,480
+we wanted to be moving really quickly we
+
+294
+00:10:55,920 --> 00:10:59,639
+wanted to be doing whatever we could to
+
+295
+00:10:57,480 --> 00:11:00,880
+capture as much value as we can with 20%
+
+296
+00:10:59,639 --> 00:11:02,399
+of the effort and then move on to the
+
+297
+00:11:00,880 --> 00:11:03,959
+next thing and that was great that
+
+298
+00:11:02,399 --> 00:11:06,120
+helped us move quickly and that helped
+
+299
+00:11:03,959 --> 00:11:08,120
+us inform how we built product and that
+
+300
+00:11:06,120 --> 00:11:10,079
+helped us inform how we built process
+
+301
+00:11:08,120 --> 00:11:11,519
+and that was an amazing early stage
+
+302
+00:11:10,079 --> 00:11:15,399
+value I mean I would recommend it to
+
+303
+00:11:11,519 --> 00:11:16,680
+many folks but after a while we realized
+
+304
+00:11:15,399 --> 00:11:19,200
+we were running into issues because of
+
+305
+00:11:16,680 --> 00:11:21,440
+it we were well past 100 people and we
+
+306
+00:11:19,200 --> 00:11:23,800
+needed more robust processes and systems
+
+307
+00:11:21,440 --> 00:11:25,399
+we needed our product to be sturdier and
+
+308
+00:11:23,800 --> 00:11:26,639
+more stable right and less about just
+
+309
+00:11:25,399 --> 00:11:28,079
+shipping everything that's new and
+
+310
+00:11:26,639 --> 00:11:29,560
+making sure what we had was really
+
+311
+00:11:28,079 --> 00:11:31,680
+robust as we were serving bigger and
+
+312
+00:11:29,560 --> 00:11:33,680
+bigger customers and at that point we
+
+313
+00:11:31,680 --> 00:11:36,560
+went in and we changed the value from
+
+314
+00:11:33,680 --> 00:11:38,680
+8020 which starts with an E to
+
+315
+00:11:36,560 --> 00:11:41,120
+Excellence which also starts with an E
+
+316
+00:11:38,680 --> 00:11:43,320
+and that way the acronym for our value
+
+317
+00:11:41,120 --> 00:11:45,600
+stayed the same but we got to change the
+
+318
+00:11:43,320 --> 00:11:47,000
+DNA of the company and we haven't done
+
+319
+00:11:45,600 --> 00:11:48,800
+that many times it's probably happened
+
+320
+00:11:47,000 --> 00:11:51,360
+three times but each time it's been
+
+321
+00:11:48,800 --> 00:11:53,560
+really valuable and it's kind of a weird
+
+322
+00:11:51,360 --> 00:11:55,240
+quirky little learned secret but I would
+
+323
+00:11:53,560 --> 00:11:57,160
+really recommend other entrepreneurs as
+
+324
+00:11:55,240 --> 00:11:59,240
+they as they're scaling think about
+
+325
+00:11:57,160 --> 00:12:00,880
+doing something similar be comfortable
+
+326
+00:11:59,240 --> 00:12:03,040
+going back and changing your company
+
+327
+00:12:00,880 --> 00:12:05,440
+values sometimes it's incumbent on a
+
+328
+00:12:03,040 --> 00:12:07,639
+Founder to reset something and to make
+
+329
+00:12:05,440 --> 00:12:09,120
+it clear that you know I'm hearing all
+
+330
+00:12:07,639 --> 00:12:10,600
+this feedback but actually I disagree
+
+331
+00:12:09,120 --> 00:12:13,839
+and we're going in this direction here
+
+332
+00:12:10,600 --> 00:12:13,839
+and values are a great way to do
+
+333
+00:12:14,120 --> 00:12:18,600
+it about what's going on with AI today
+
+334
+00:12:16,920 --> 00:12:20,560
+with generative Ai and when I think
+
+335
+00:12:18,600 --> 00:12:21,839
+about what's going on uh what's been
+
+336
+00:12:20,560 --> 00:12:25,399
+going on for a long time with predictive
+
+337
+00:12:21,839 --> 00:12:27,920
+machine learning what I see is a future
+
+338
+00:12:25,399 --> 00:12:31,279
+where on to many marketing goes away and
+
+339
+00:12:27,920 --> 00:12:34,440
+where it becomes highly personalized and
+
+340
+00:12:31,279 --> 00:12:37,760
+in the SMS space highly conversational
+
+341
+00:12:34,440 --> 00:12:40,399
+since the beginning of the e-commerce
+
+342
+00:12:37,760 --> 00:12:43,320
+use case marketing has been generally
+
+343
+00:12:40,399 --> 00:12:44,959
+one way it's I'm an e-commerce marketer
+
+344
+00:12:43,320 --> 00:12:47,320
+I am pushing out a notification to my
+
+345
+00:12:44,959 --> 00:12:50,519
+audience to try to get them to go by
+
+346
+00:12:47,320 --> 00:12:53,560
+that works it's fine but that's not how
+
+347
+00:12:50,519 --> 00:12:55,040
+we actually use messaging we all text
+
+348
+00:12:53,560 --> 00:12:57,160
+one another back and forth in
+
+349
+00:12:55,040 --> 00:12:58,399
+conversations and at postcript we've
+
+350
+00:12:57,160 --> 00:13:00,880
+always believed that there is an
+
+351
+00:12:58,399 --> 00:13:02,360
+enormous opportunity for Brands to see
+
+352
+00:13:00,880 --> 00:13:04,880
+even higher performance and for
+
+353
+00:13:02,360 --> 00:13:06,680
+consumers to be even happier if the
+
+354
+00:13:04,880 --> 00:13:08,480
+interactions are conversational between
+
+355
+00:13:06,680 --> 00:13:10,079
+them first more of a push marketing
+
+356
+00:13:08,480 --> 00:13:12,360
+Approach at postcript we've been
+
+357
+00:13:10,079 --> 00:13:15,320
+invested in this for a while we built
+
+358
+00:13:12,360 --> 00:13:16,959
+and launched a product called SMS sales
+
+359
+00:13:15,320 --> 00:13:20,800
+it is the only part of our company that
+
+360
+00:13:16,959 --> 00:13:23,440
+is in person and we have a huge office
+
+361
+00:13:20,800 --> 00:13:25,880
+in Phoenix Arizona that is filled with
+
+362
+00:13:23,440 --> 00:13:28,480
+e-commerce salespeople who work on
+
+363
+00:13:25,880 --> 00:13:31,120
+behalf of our Brands to sell and drive
+
+364
+00:13:28,480 --> 00:13:33,160
+more trans actions over the SMS channel
+
+365
+00:13:31,120 --> 00:13:35,120
+it's kind of old school it's like if you
+
+366
+00:13:33,160 --> 00:13:37,079
+walk into a retail store and someone
+
+367
+00:13:35,120 --> 00:13:39,399
+helps you shop or buy or answers your
+
+368
+00:13:37,079 --> 00:13:40,519
+questions it's like that for e-commerce
+
+369
+00:13:39,399 --> 00:13:42,040
+and we've been doing this for several
+
+370
+00:13:40,519 --> 00:13:44,519
+years and we built up an enormous amount
+
+371
+00:13:42,040 --> 00:13:46,600
+of expertise in it and many of our
+
+372
+00:13:44,519 --> 00:13:48,440
+largest customers many huge brands are
+
+373
+00:13:46,600 --> 00:13:51,279
+using it to drive more sales and to keep
+
+374
+00:13:48,440 --> 00:13:53,680
+their customers happy and we are so
+
+375
+00:13:51,279 --> 00:13:56,160
+excited at the opportunity of bringing
+
+376
+00:13:53,680 --> 00:13:58,519
+that to further scale with new
+
+377
+00:13:56,160 --> 00:13:59,720
+advancements in Ai and the data sets
+
+378
+00:13:58,519 --> 00:14:01,120
+that we've been building and the
+
+379
+00:13:59,720 --> 00:14:03,240
+conversational training that we've been
+
+380
+00:14:01,120 --> 00:14:04,920
+doing over the last several years uh we
+
+381
+00:14:03,240 --> 00:14:07,399
+believe puts us in a unique position to
+
+382
+00:14:04,920 --> 00:14:08,839
+capitalize on that Trend Ai and
+
+383
+00:14:07,399 --> 00:14:10,160
+predictive machine learning together are
+
+384
+00:14:08,839 --> 00:14:11,959
+not only going to unlock the
+
+385
+00:14:10,160 --> 00:14:13,519
+personalization I was just talking about
+
+386
+00:14:11,959 --> 00:14:15,519
+but they're also going to allow for a
+
+387
+00:14:13,519 --> 00:14:17,839
+much more conversational marketing
+
+388
+00:14:15,519 --> 00:14:19,279
+experience that phrase conversational
+
+389
+00:14:17,839 --> 00:14:20,959
+Commerce has been like floating in The
+
+390
+00:14:19,279 --> 00:14:22,480
+Ether forever and no one's really done
+
+391
+00:14:20,959 --> 00:14:25,680
+it and I believe now it's actually going
+
+392
+00:14:22,480 --> 00:14:25,680
+to happen
+

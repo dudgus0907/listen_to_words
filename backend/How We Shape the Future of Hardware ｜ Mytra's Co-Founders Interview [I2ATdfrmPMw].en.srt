@@ -1,0 +1,2320 @@
+1
+00:00:00,160 --> 00:00:03,199
+actually the advice I would give to
+
+2
+00:00:01,880 --> 00:00:06,279
+people trying to create their own
+
+3
+00:00:03,199 --> 00:00:08,440
+company really work in the field a
+
+4
+00:00:06,279 --> 00:00:11,280
+little bit like work in the field you
+
+5
+00:00:08,440 --> 00:00:13,799
+think you have an idea for some new
+
+6
+00:00:11,280 --> 00:00:16,199
+service or product work in that field
+
+7
+00:00:13,799 --> 00:00:19,199
+and get insight that's something I got
+
+8
+00:00:16,199 --> 00:00:21,160
+out of my Stanford experience you maybe
+
+9
+00:00:19,199 --> 00:00:23,720
+you have an idea of what's really
+
+10
+00:00:21,160 --> 00:00:26,080
+valuable and useful as a product but the
+
+11
+00:00:23,720 --> 00:00:28,279
+best approach to creating value is first
+
+12
+00:00:26,080 --> 00:00:31,240
+that you get insight into what the
+
+13
+00:00:28,279 --> 00:00:33,760
+problem is my name's Chris qualty I'm
+
+14
+00:00:31,240 --> 00:00:35,480
+the CEO and co-founder of Mitra we're a
+
+15
+00:00:33,760 --> 00:00:37,680
+2-year-old company based out of South
+
+16
+00:00:35,480 --> 00:00:40,879
+San Francisco a little bit about my
+
+17
+00:00:37,680 --> 00:00:44,079
+background before starting Mitra I was
+
+18
+00:00:40,879 --> 00:00:45,800
+at Tesla for 7 and A2 years before Tesla
+
+19
+00:00:44,079 --> 00:00:48,399
+I had various positions in renewable
+
+20
+00:00:45,800 --> 00:00:50,800
+energy and Consulting I was electrical
+
+21
+00:00:48,399 --> 00:00:52,719
+engineer undergrad but at Tesla I joined
+
+22
+00:00:50,800 --> 00:00:55,520
+to lead product and hardware for the
+
+23
+00:00:52,719 --> 00:00:58,559
+supercharger team and I launched various
+
+24
+00:00:55,520 --> 00:01:01,680
+products like paid supercharging and my
+
+25
+00:00:58,559 --> 00:01:05,159
+name is Ahmed Bal I am the CTO and
+
+26
+00:01:01,680 --> 00:01:07,600
+co-founder and Mitra Mitra is building
+
+27
+00:01:05,159 --> 00:01:09,600
+robots for warehouse material flow of
+
+28
+00:01:07,600 --> 00:01:11,640
+trying to solve a fundamental problem
+
+29
+00:01:09,600 --> 00:01:15,200
+with theerror flow in in warehousing
+
+30
+00:01:11,640 --> 00:01:15,200
+Logistics and Manufacturing as
+
+31
+00:01:16,560 --> 00:01:21,840
+well so I joined Tesla in 2014 I think
+
+32
+00:01:19,680 --> 00:01:23,840
+this is after the dual motor b s was
+
+33
+00:01:21,840 --> 00:01:26,600
+launched or was announced you know
+
+34
+00:01:23,840 --> 00:01:30,159
+there's a lot of skepticism are electric
+
+35
+00:01:26,600 --> 00:01:32,280
+vehicles going to be successful is fully
+
+36
+00:01:30,159 --> 00:01:34,479
+battery electric vehicle or plug in
+
+37
+00:01:32,280 --> 00:01:36,159
+hybrid you know Tesla versus Fisker a
+
+38
+00:01:34,479 --> 00:01:38,840
+lot of uncertainty in the market then
+
+39
+00:01:36,159 --> 00:01:41,119
+but you know I joined Tesla to to solve
+
+40
+00:01:38,840 --> 00:01:43,360
+a very clear problem I was working on
+
+41
+00:01:41,119 --> 00:01:45,240
+more traditional wield Automation and of
+
+42
+00:01:43,360 --> 00:01:46,840
+course a lot of the fixed infrastructure
+
+43
+00:01:45,240 --> 00:01:48,680
+projects that we had a tuss it
+
+44
+00:01:46,840 --> 00:01:50,719
+beforehand and then you know this
+
+45
+00:01:48,680 --> 00:01:52,880
+challenge of let's build a humanoid
+
+46
+00:01:50,719 --> 00:01:54,920
+robot was was given to our team because
+
+47
+00:01:52,880 --> 00:01:56,640
+we had an integrated robotics team but
+
+48
+00:01:54,920 --> 00:01:58,880
+the challenges of a humanoid are are
+
+49
+00:01:56,640 --> 00:02:01,280
+very different than building a wheeled
+
+50
+00:01:58,880 --> 00:02:03,960
+robot on the floor legged Locomotion
+
+51
+00:02:01,280 --> 00:02:06,200
+grasping and manipulation the kinds of
+
+52
+00:02:03,960 --> 00:02:08,440
+of of decisions that this robot has to
+
+53
+00:02:06,200 --> 00:02:11,640
+process a perception systems are are
+
+54
+00:02:08,440 --> 00:02:13,560
+wildly different and so first Tesla had
+
+55
+00:02:11,640 --> 00:02:15,480
+precisely zero expertise of humanoid
+
+56
+00:02:13,560 --> 00:02:17,280
+robotics at the time so I had to go and
+
+57
+00:02:15,480 --> 00:02:19,400
+figure out who the experts were meet
+
+58
+00:02:17,280 --> 00:02:21,440
+with them try to establish a recruiting
+
+59
+00:02:19,400 --> 00:02:23,920
+pipeline try to find the internal
+
+60
+00:02:21,440 --> 00:02:25,800
+experts within Tesla who were willing
+
+61
+00:02:23,920 --> 00:02:27,879
+and able and also had the foundational
+
+62
+00:02:25,800 --> 00:02:29,920
+skill sets to be able to solve this
+
+63
+00:02:27,879 --> 00:02:31,840
+problem I had to get myself a two month
+
+64
+00:02:29,920 --> 00:02:34,280
+crash course in human orotic so that was
+
+65
+00:02:31,840 --> 00:02:35,440
+really an interesting time but you know
+
+66
+00:02:34,280 --> 00:02:37,519
+I think one of the things that Tesla
+
+67
+00:02:35,440 --> 00:02:39,239
+teaches you to be very resourceful that
+
+68
+00:02:37,519 --> 00:02:42,000
+wasn't the first time I've been asked to
+
+69
+00:02:39,239 --> 00:02:44,080
+solve the problem which I had no really
+
+70
+00:02:42,000 --> 00:02:45,480
+like deep or meaningful background in
+
+71
+00:02:44,080 --> 00:02:48,080
+but you structure the problem you go
+
+72
+00:02:45,480 --> 00:02:49,680
+find the information you need hop on a
+
+73
+00:02:48,080 --> 00:02:51,319
+plane to meet with the experts as you
+
+74
+00:02:49,680 --> 00:02:53,239
+need you do what it takes to to figure
+
+75
+00:02:51,319 --> 00:02:54,760
+it out you know neon laid a mandate out
+
+76
+00:02:53,239 --> 00:02:57,000
+that we needed to get a some robot
+
+77
+00:02:54,760 --> 00:02:59,400
+walking in three months it's so between
+
+78
+00:02:57,000 --> 00:03:01,319
+internal experts talking with some some
+
+79
+00:02:59,400 --> 00:03:03,799
+folks out outside the company with to to
+
+80
+00:03:01,319 --> 00:03:05,760
+get accomplish that goal I think as a
+
+81
+00:03:03,799 --> 00:03:08,319
+whole though all robots are not created
+
+82
+00:03:05,760 --> 00:03:10,080
+equal all robot challenges are not equal
+
+83
+00:03:08,319 --> 00:03:13,480
+anytime you're talking about Led
+
+84
+00:03:10,080 --> 00:03:15,519
+Locomotion or just Advanced grasping the
+
+85
+00:03:13,480 --> 00:03:17,799
+perception that the type of data and the
+
+86
+00:03:15,519 --> 00:03:20,000
+consistency of data the frequency of the
+
+87
+00:03:17,799 --> 00:03:22,040
+refresh rates like I'm not just looking
+
+88
+00:03:20,000 --> 00:03:24,280
+at a hand like I need to understand like
+
+89
+00:03:22,040 --> 00:03:26,000
+the forces and yeah there's there's
+
+90
+00:03:24,280 --> 00:03:28,239
+literally infinite ways I could grab
+
+91
+00:03:26,000 --> 00:03:29,840
+something the difficulty of of repeating
+
+92
+00:03:28,239 --> 00:03:32,920
+that and making that some sort of
+
+93
+00:03:29,840 --> 00:03:35,360
+industrial process is many orders of
+
+94
+00:03:32,920 --> 00:03:37,000
+magnitude more difficult than just
+
+95
+00:03:35,360 --> 00:03:39,040
+driving a bot around the floor of a
+
+96
+00:03:37,000 --> 00:03:41,400
+factory and you know if we think about
+
+97
+00:03:39,040 --> 00:03:43,920
+how difficult it has been to do full
+
+98
+00:03:41,400 --> 00:03:45,040
+self-driving cars or autonomous vehicles
+
+99
+00:03:43,920 --> 00:03:46,799
+you know you could argue that that
+
+100
+00:03:45,040 --> 00:03:49,239
+problem is not a solved problem yet
+
+101
+00:03:46,799 --> 00:03:51,400
+because we don't have ubiquitous cars no
+
+102
+00:03:49,239 --> 00:03:54,360
+driving highways and and surface streets
+
+103
+00:03:51,400 --> 00:03:56,400
+yet right you do have companies that are
+
+104
+00:03:54,360 --> 00:03:57,680
+driving like you can walk outside of
+
+105
+00:03:56,400 --> 00:04:00,239
+this building you will see a car
+
+106
+00:03:57,680 --> 00:04:02,079
+unmanned car drive by this this facility
+
+107
+00:04:00,239 --> 00:04:04,280
+probably in 30 minutes but it's not
+
+108
+00:04:02,079 --> 00:04:06,239
+ubiquitous right hasn't been adopted
+
+109
+00:04:04,280 --> 00:04:09,400
+building a humanoid to operate at full
+
+110
+00:04:06,239 --> 00:04:12,400
+scale in Factory or a home at the
+
+111
+00:04:09,400 --> 00:04:14,439
+comparable productivity of a human is a
+
+112
+00:04:12,400 --> 00:04:16,759
+very very challenging problem to solve
+
+113
+00:04:14,439 --> 00:04:18,759
+I'm confident it will be solved I think
+
+114
+00:04:16,759 --> 00:04:20,759
+the timing is everything right is this a
+
+115
+00:04:18,759 --> 00:04:23,880
+one-year problem is this a 5year is this
+
+116
+00:04:20,759 --> 00:04:25,759
+a 10e is this a 30-year problem unclear
+
+117
+00:04:23,880 --> 00:04:27,680
+so after spending a year there it was
+
+118
+00:04:25,759 --> 00:04:29,120
+it's a fascinating problem where again
+
+119
+00:04:27,680 --> 00:04:31,320
+was able to work with some of the best
+
+120
+00:04:29,120 --> 00:04:33,039
+and brightest at Tesla and and Beyond
+
+121
+00:04:31,320 --> 00:04:35,039
+Tesla was fortunate to be able to to
+
+122
+00:04:33,039 --> 00:04:37,479
+hire some wonderful people to work on
+
+123
+00:04:35,039 --> 00:04:39,759
+these huge challenges but ultimately I
+
+124
+00:04:37,479 --> 00:04:41,759
+join Tesla to ship you know millions of
+
+125
+00:04:39,759 --> 00:04:44,320
+products to the public to make real
+
+126
+00:04:41,759 --> 00:04:47,400
+impacts and I felt that most of the
+
+127
+00:04:44,320 --> 00:04:49,360
+impact by the humanoid is dependent on
+
+128
+00:04:47,400 --> 00:04:51,800
+solving effectively some research
+
+129
+00:04:49,360 --> 00:04:53,520
+problems with what we're doing at Mitra
+
+130
+00:04:51,800 --> 00:04:55,479
+this is not in the research domain this
+
+131
+00:04:53,520 --> 00:04:57,520
+is a very like we're solving tangible
+
+132
+00:04:55,479 --> 00:05:00,840
+problems with technology that doesn't
+
+133
+00:04:57,520 --> 00:05:04,400
+require moonshot levels of of innovation
+
+134
+00:05:00,840 --> 00:05:07,240
+to have meaningful impact on the economy
+
+135
+00:05:04,400 --> 00:05:09,560
+after Tesla I I tried to just focus a
+
+136
+00:05:07,240 --> 00:05:11,400
+little bit away from manufacturer let me
+
+137
+00:05:09,560 --> 00:05:13,680
+think a little bit you know do something
+
+138
+00:05:11,400 --> 00:05:15,840
+else derivatives trading and try to
+
+139
+00:05:13,680 --> 00:05:18,680
+learn more about Ai and financial
+
+140
+00:05:15,840 --> 00:05:21,280
+systems but the bug of manufacturing
+
+141
+00:05:18,680 --> 00:05:23,360
+working on Hardware gotten me again and
+
+142
+00:05:21,280 --> 00:05:25,720
+the things I did at Tesla were very
+
+143
+00:05:23,360 --> 00:05:28,199
+applicable to rev and I thought I really
+
+144
+00:05:25,720 --> 00:05:30,199
+wanted to help one more us auto
+
+145
+00:05:28,199 --> 00:05:31,960
+manufacturer get off the brown I was
+
+146
+00:05:30,199 --> 00:05:33,880
+really excited about rivan trying to
+
+147
+00:05:31,960 --> 00:05:36,400
+help them out so I went and you know
+
+148
+00:05:33,880 --> 00:05:38,680
+spent time at rivian helping them scale
+
+149
+00:05:36,400 --> 00:05:41,600
+their manufacturing assistance as well
+
+150
+00:05:38,680 --> 00:05:43,919
+that's the journey after that I was at a
+
+151
+00:05:41,600 --> 00:05:46,080
+beach in Hawaii I still have the video
+
+152
+00:05:43,919 --> 00:05:48,600
+while I'm recording the beach and I was
+
+153
+00:05:46,080 --> 00:05:50,360
+going like wonderful this is great I'm
+
+154
+00:05:48,600 --> 00:05:51,919
+done I don't want to do anything else
+
+155
+00:05:50,360 --> 00:05:54,600
+I've solved every problem I want to
+
+156
+00:05:51,919 --> 00:05:57,600
+solve as I'm recording the video I get a
+
+157
+00:05:54,600 --> 00:05:59,120
+call from walty and he's asking me about
+
+158
+00:05:57,600 --> 00:06:01,800
+hey do you remember the problems we went
+
+159
+00:05:59,120 --> 00:06:03,960
+into Tesla during manufacturing let's
+
+160
+00:06:01,800 --> 00:06:06,199
+really solve it at the beginning I was
+
+161
+00:06:03,960 --> 00:06:08,639
+like I don't want to do this I don't
+
+162
+00:06:06,199 --> 00:06:10,800
+want to do manufacturing again I want to
+
+163
+00:06:08,639 --> 00:06:12,960
+be stay at the beach but the more we
+
+164
+00:06:10,800 --> 00:06:14,479
+talked about how we would solve the spot
+
+165
+00:06:12,960 --> 00:06:16,479
+go back to the fundamentals let's not
+
+166
+00:06:14,479 --> 00:06:18,440
+just build another automation company
+
+167
+00:06:16,479 --> 00:06:19,880
+let's do something completely different
+
+168
+00:06:18,440 --> 00:06:22,199
+the more we talked about it the more I
+
+169
+00:06:19,880 --> 00:06:24,199
+got excited because it's it wasn't just
+
+170
+00:06:22,199 --> 00:06:28,160
+another implementation it's a complete
+
+171
+00:06:24,199 --> 00:06:30,400
+rethink and that was very excited so I
+
+172
+00:06:28,160 --> 00:06:31,919
+said okay yes let's start this company
+
+173
+00:06:30,400 --> 00:06:35,639
+let's find the best people that we can
+
+174
+00:06:31,919 --> 00:06:38,560
+find from our Network and pack a this
+
+175
+00:06:35,639 --> 00:06:40,960
+B with the global Venture Capital volume
+
+176
+00:06:38,560 --> 00:06:44,080
+decreasing dramatically startup must
+
+177
+00:06:40,960 --> 00:06:46,599
+find a better way to stay informed of
+
+178
+00:06:44,080 --> 00:06:49,319
+investment sentiment to survive hi I'm
+
+179
+00:06:46,599 --> 00:06:51,720
+Si from you and we know that many of you
+
+180
+00:06:49,319 --> 00:06:53,960
+watching are startup Founders that's why
+
+181
+00:06:51,720 --> 00:06:56,280
+we have something to share with you guys
+
+182
+00:06:53,960 --> 00:06:58,560
+that's going to be helpful for you the
+
+183
+00:06:56,280 --> 00:07:01,000
+startup Capital annual report from
+
+184
+00:06:58,560 --> 00:07:03,120
+HubSpot for startups is their newest
+
+185
+00:07:01,000 --> 00:07:05,400
+report on where startup capitals are
+
+186
+00:07:03,120 --> 00:07:07,879
+flowing the metrics investors care about
+
+187
+00:07:05,400 --> 00:07:10,599
+the most when deciding on investing in a
+
+188
+00:07:07,879 --> 00:07:12,720
+startup and the best tech Stacks to help
+
+189
+00:07:10,599 --> 00:07:15,560
+you manage investor relations in
+
+190
+00:07:12,720 --> 00:07:18,160
+addition to the detailed surveys of 500
+
+191
+00:07:15,560 --> 00:07:20,680
+Founders I found an in-depth interview
+
+192
+00:07:18,160 --> 00:07:23,280
+with seasoned investors from sequia
+
+193
+00:07:20,680 --> 00:07:25,680
+Capital HS with venters and more to be
+
+194
+00:07:23,280 --> 00:07:28,199
+especially interesting and packed with
+
+195
+00:07:25,680 --> 00:07:30,039
+insights the report is free to download
+
+196
+00:07:28,199 --> 00:07:31,479
+through the link in description
+
+197
+00:07:30,039 --> 00:07:33,479
+be sure to check it out and take your
+
+198
+00:07:31,479 --> 00:07:37,000
+startup to the next round and thanks to
+
+199
+00:07:33,479 --> 00:07:37,000
+hpot for sponsoring the
+
+200
+00:07:38,280 --> 00:07:44,120
+video so Mitra was founded because am on
+
+201
+00:07:42,520 --> 00:07:45,840
+and I having seen a lot of these
+
+202
+00:07:44,120 --> 00:07:48,800
+different types of challenges at Tesla
+
+203
+00:07:45,840 --> 00:07:51,240
+and rivan wanted to find a problem that
+
+204
+00:07:48,800 --> 00:07:54,080
+we could solve we uniquely positioned
+
+205
+00:07:51,240 --> 00:07:57,479
+knowledgeable to tackle but also was
+
+206
+00:07:54,080 --> 00:07:59,240
+just simply not being solved right you
+
+207
+00:07:57,479 --> 00:08:02,400
+think of the lowest hanging fruit in
+
+208
+00:07:59,240 --> 00:08:04,360
+your tree and again material flow is
+
+209
+00:08:02,400 --> 00:08:06,720
+most of the work across industry just
+
+210
+00:08:04,360 --> 00:08:08,159
+moving things around yet it's clearly
+
+211
+00:08:06,720 --> 00:08:09,960
+unsolved I can go out and buy an
+
+212
+00:08:08,159 --> 00:08:12,560
+industrial automation system to do
+
+213
+00:08:09,960 --> 00:08:15,080
+almost anything I need the problem is is
+
+214
+00:08:12,560 --> 00:08:18,560
+it cost effective is it simple is it
+
+215
+00:08:15,080 --> 00:08:21,080
+extensible is it flexible and we said if
+
+216
+00:08:18,560 --> 00:08:23,560
+we can design something that's just far
+
+217
+00:08:21,080 --> 00:08:24,800
+simpler iPhone's a great example Tesla
+
+218
+00:08:23,560 --> 00:08:27,520
+there's lots of great examples of
+
+219
+00:08:24,800 --> 00:08:29,479
+History where to follow a new scurve
+
+220
+00:08:27,520 --> 00:08:31,879
+scurve of adoption right a new tech
+
+221
+00:08:29,479 --> 00:08:33,320
+technology it starts off slowly it then
+
+222
+00:08:31,879 --> 00:08:35,479
+you know there's some acceleration then
+
+223
+00:08:33,320 --> 00:08:37,760
+it kind of tapers off but to truly
+
+224
+00:08:35,479 --> 00:08:39,479
+continue like linear adoption and
+
+225
+00:08:37,760 --> 00:08:40,880
+Improvement of Technologies it's
+
+226
+00:08:39,479 --> 00:08:43,320
+comprised of a whole bunch of small
+
+227
+00:08:40,880 --> 00:08:46,040
+s-curves right we needed to create that
+
+228
+00:08:43,320 --> 00:08:48,839
+new s-curve for industrial aeration
+
+229
+00:08:46,040 --> 00:08:50,760
+there needed to be a new paradigm and to
+
+230
+00:08:48,839 --> 00:08:53,080
+do that again when you look across
+
+231
+00:08:50,760 --> 00:08:55,959
+history It's usually the simpler thing
+
+232
+00:08:53,080 --> 00:08:58,760
+Waits how do we find the absolute
+
+233
+00:08:55,959 --> 00:09:00,640
+simplest way to do this work and what we
+
+234
+00:08:58,760 --> 00:09:02,959
+realized was that that no there is no
+
+235
+00:09:00,640 --> 00:09:04,240
+system that was designed that was
+
+236
+00:09:02,959 --> 00:09:06,920
+physically or kinematically
+
+237
+00:09:04,240 --> 00:09:09,519
+unconstrained meaning I want to move
+
+238
+00:09:06,920 --> 00:09:12,320
+things in 3D how do I move it up down
+
+239
+00:09:09,519 --> 00:09:14,040
+left right from any cell to any cell in
+
+240
+00:09:12,320 --> 00:09:16,399
+full 3d that was just an unsolved
+
+241
+00:09:14,040 --> 00:09:18,600
+problem at any payload weate so we
+
+242
+00:09:16,399 --> 00:09:20,240
+simulated said this is a solvable
+
+243
+00:09:18,600 --> 00:09:22,480
+problem and if we can do this we've
+
+244
+00:09:20,240 --> 00:09:25,320
+created a system that is of immense
+
+245
+00:09:22,480 --> 00:09:26,880
+value to the industry so that's uh
+
+246
+00:09:25,320 --> 00:09:29,600
+that's why we decided to tackle this
+
+247
+00:09:26,880 --> 00:09:31,760
+problem fundamentally the material
+
+248
+00:09:29,600 --> 00:09:34,720
+movement for warehouses and
+
+249
+00:09:31,760 --> 00:09:37,760
+Manufacturing happens on pallets pallets
+
+250
+00:09:34,720 --> 00:09:39,720
+in my view are the uh red blood cell of
+
+251
+00:09:37,760 --> 00:09:42,240
+the global GDP everything that you see
+
+252
+00:09:39,720 --> 00:09:44,920
+around you has been on a pallet you know
+
+253
+00:09:42,240 --> 00:09:47,880
+the cameras are clothes or pieces of
+
+254
+00:09:44,920 --> 00:09:51,240
+furniture all of that has been on a pal
+
+255
+00:09:47,880 --> 00:09:53,120
+yet the pallet movement technology has
+
+256
+00:09:51,240 --> 00:09:55,279
+been the same for the past 100 years
+
+257
+00:09:53,120 --> 00:09:57,959
+it's a pallet it's generally the same
+
+258
+00:09:55,279 --> 00:09:59,959
+size it moves uh it's made out of wood
+
+259
+00:09:57,959 --> 00:10:02,800
+and it's moved with for CLI
+
+260
+00:09:59,959 --> 00:10:05,000
+operated by humans it's the same thing
+
+261
+00:10:02,800 --> 00:10:08,160
+and so there hasn't been an optimization
+
+262
+00:10:05,000 --> 00:10:10,120
+on that for quite some time and in our
+
+263
+00:10:08,160 --> 00:10:12,399
+experience when I worked with with wki
+
+264
+00:10:10,120 --> 00:10:14,760
+we saw that the biggest problem
+
+265
+00:10:12,399 --> 00:10:17,079
+hindering the manufacturing process was
+
+266
+00:10:14,760 --> 00:10:19,360
+just trying to move material from one
+
+267
+00:10:17,079 --> 00:10:21,279
+product with Factory to the other and we
+
+268
+00:10:19,360 --> 00:10:23,800
+were thinking well let's improve that
+
+269
+00:10:21,279 --> 00:10:27,000
+how can we build something that is super
+
+270
+00:10:23,800 --> 00:10:29,360
+simple if you were to look at the need
+
+271
+00:10:27,000 --> 00:10:31,120
+the basic need of moving a pallet or
+
+272
+00:10:29,360 --> 00:10:33,320
+looking at 3,000 lb you're trying to
+
+273
+00:10:31,120 --> 00:10:35,279
+move it from one location to the other
+
+274
+00:10:33,320 --> 00:10:38,399
+for you to do that today you have to get
+
+275
+00:10:35,279 --> 00:10:40,839
+a forklift a forklift has to be at least
+
+276
+00:10:38,399 --> 00:10:42,880
+3,000 lb just to balance out cuz it's a
+
+277
+00:10:40,839 --> 00:10:45,320
+forklift heiring something in front of
+
+278
+00:10:42,880 --> 00:10:48,120
+it it has to be at least another 3,000
+
+279
+00:10:45,320 --> 00:10:50,560
+lb so you're moving 3,000 to 9,000 lb
+
+280
+00:10:48,120 --> 00:10:52,000
+the forklift itself and then 3,000 lb
+
+281
+00:10:50,560 --> 00:10:54,399
+that you want to move it just makes no
+
+282
+00:10:52,000 --> 00:10:56,480
+sense we're we're moving 9,000 to move
+
+283
+00:10:54,399 --> 00:10:58,200
+another 3,000 and we thought about it
+
+284
+00:10:56,480 --> 00:11:00,519
+and we said okay this is such a
+
+285
+00:10:58,200 --> 00:11:02,519
+unoptimized system it's nobody's
+
+286
+00:11:00,519 --> 00:11:04,639
+touching it and it's kind of a given
+
+287
+00:11:02,519 --> 00:11:06,279
+people that go into warehousing and
+
+288
+00:11:04,639 --> 00:11:08,320
+Logistics called manufacturing and you
+
+289
+00:11:06,279 --> 00:11:10,519
+see this it's uh they kind of look at it
+
+290
+00:11:08,320 --> 00:11:12,839
+and they go okay this is our lot in life
+
+291
+00:11:10,519 --> 00:11:15,680
+this is how things are while we saw that
+
+292
+00:11:12,839 --> 00:11:17,760
+was like no something has to improve so
+
+293
+00:11:15,680 --> 00:11:20,720
+we're looking at you know designing a a
+
+294
+00:11:17,760 --> 00:11:23,880
+new primitive something completely new
+
+295
+00:11:20,720 --> 00:11:25,639
+let's rethink the problem our Bots are 7
+
+296
+00:11:23,880 --> 00:11:27,760
+pounds they can move 3,000 but they're
+
+297
+00:11:25,639 --> 00:11:30,920
+700 lb so that's it and it doesn't take
+
+298
+00:11:27,760 --> 00:11:33,240
+a larger footprint than the pup itself
+
+299
+00:11:30,920 --> 00:11:36,000
+now when you start from there I can n
+
+300
+00:11:33,240 --> 00:11:39,800
+3,000 lb forward backward left and right
+
+301
+00:11:36,000 --> 00:11:42,639
+up and down in full 3d with 700 lb robot
+
+302
+00:11:39,800 --> 00:11:43,920
+that is a different math compeat and
+
+303
+00:11:42,639 --> 00:11:47,800
+that's the approach that we're taking
+
+304
+00:11:43,920 --> 00:11:51,600
+with Nitra now if you limit the
+
+305
+00:11:47,800 --> 00:11:53,880
+variability of movement to the three uh
+
+306
+00:11:51,600 --> 00:11:55,560
+Dimensions now I can start to solve
+
+307
+00:11:53,880 --> 00:11:58,639
+things with software the boss can only
+
+308
+00:11:55,560 --> 00:12:00,760
+do the three movements and they can uh
+
+309
+00:11:58,639 --> 00:12:03,240
+access any part of the warehouse uh
+
+310
+00:12:00,760 --> 00:12:05,519
+within a structure now I can start to do
+
+311
+00:12:03,240 --> 00:12:06,240
+things with software if I want to build
+
+312
+00:12:05,519 --> 00:12:08,200
+a
+
+313
+00:12:06,240 --> 00:12:09,800
+conveyor I don't have to build a
+
+314
+00:12:08,200 --> 00:12:11,600
+physical conveyor I can tell the Bots
+
+315
+00:12:09,800 --> 00:12:13,800
+move in the direction of a conveyor or
+
+316
+00:12:11,600 --> 00:12:16,240
+lift and so it makes your Warehouse
+
+317
+00:12:13,800 --> 00:12:19,040
+completely software addressable which is
+
+318
+00:12:16,240 --> 00:12:21,720
+a completely new approach to doing any
+
+319
+00:12:19,040 --> 00:12:24,199
+of this and it applies to warehousing
+
+320
+00:12:21,720 --> 00:12:26,279
+Logistics manufacturing anything that
+
+321
+00:12:24,199 --> 00:12:28,120
+moves your standard pallet and that's
+
+322
+00:12:26,279 --> 00:12:31,199
+why we wanted to focus on the pallet
+
+323
+00:12:28,120 --> 00:12:33,560
+because that's 90% of material movement
+
+324
+00:12:31,199 --> 00:12:33,560
+around the
+
+325
+00:12:34,399 --> 00:12:40,000
+war kind of my take on Founder mode is
+
+326
+00:12:37,040 --> 00:12:42,160
+is effectively as companies get larger
+
+327
+00:12:40,000 --> 00:12:45,240
+the gist is do you still kind of
+
+328
+00:12:42,160 --> 00:12:46,600
+maintain your level of awareness and
+
+329
+00:12:45,240 --> 00:12:49,199
+involvement in the details of your
+
+330
+00:12:46,600 --> 00:12:51,880
+company right very large company mode or
+
+331
+00:12:49,199 --> 00:12:53,720
+manager mode it's like I fully rely on
+
+332
+00:12:51,880 --> 00:12:55,199
+my team to do almost everything and I I
+
+333
+00:12:53,720 --> 00:12:57,279
+have this little function maybe I'm just
+
+334
+00:12:55,199 --> 00:12:59,480
+attending dinners and selling customers
+
+335
+00:12:57,279 --> 00:13:01,600
+at a very high level I think you know at
+
+336
+00:12:59,480 --> 00:13:04,199
+a company like Mitra you know even
+
+337
+00:13:01,600 --> 00:13:06,040
+though we're 74 people Aman and I have
+
+338
+00:13:04,199 --> 00:13:07,600
+no choice but to be in founder mode
+
+339
+00:13:06,040 --> 00:13:10,480
+there's just too much going on there's
+
+340
+00:13:07,600 --> 00:13:12,760
+too many aspects of the system you know
+
+341
+00:13:10,480 --> 00:13:15,480
+every time a customer walks in we have
+
+342
+00:13:12,760 --> 00:13:17,519
+one this afternoon and between the two
+
+343
+00:13:15,480 --> 00:13:18,920
+of us we need to be fully versed in the
+
+344
+00:13:17,519 --> 00:13:20,480
+technical stack we need to be able to
+
+345
+00:13:18,920 --> 00:13:23,360
+answer questions of like why did you
+
+346
+00:13:20,480 --> 00:13:25,800
+make this decision for this actuator or
+
+347
+00:13:23,360 --> 00:13:28,120
+this design what other reliability
+
+348
+00:13:25,800 --> 00:13:30,000
+issues how do you plan to lower the cost
+
+349
+00:13:28,120 --> 00:13:32,040
+like things like that if you can't talk
+
+350
+00:13:30,000 --> 00:13:34,639
+intelligently about that you're not
+
+351
+00:13:32,040 --> 00:13:36,480
+going to drive confidence in these very
+
+352
+00:13:34,639 --> 00:13:39,440
+sophisticated potential buyers of
+
+353
+00:13:36,480 --> 00:13:41,680
+Parkers so for us like there's no choice
+
+354
+00:13:39,440 --> 00:13:43,680
+but to be found or M but you know as I
+
+355
+00:13:41,680 --> 00:13:45,880
+think about what I love about this job
+
+356
+00:13:43,680 --> 00:13:47,440
+you know I love being in designer riew
+
+357
+00:13:45,880 --> 00:13:50,560
+so I love the product and the
+
+358
+00:13:47,440 --> 00:13:53,000
+engineering aspects and I know I'm onos
+
+359
+00:13:50,560 --> 00:13:55,040
+too and that's that's something that you
+
+360
+00:13:53,000 --> 00:13:57,240
+know as you get older as you get company
+
+361
+00:13:55,040 --> 00:13:58,759
+gets more mature and larger there's
+
+362
+00:13:57,240 --> 00:14:01,040
+natural pressure to say like you need to
+
+363
+00:13:58,759 --> 00:14:03,720
+de from that you need to let your team
+
+364
+00:14:01,040 --> 00:14:05,839
+do that and I think there's there's a
+
+365
+00:14:03,720 --> 00:14:07,959
+balance that can be achieved where
+
+366
+00:14:05,839 --> 00:14:11,880
+Founders are still in the
+
+367
+00:14:07,959 --> 00:14:14,639
+details not making all the decisions but
+
+368
+00:14:11,880 --> 00:14:16,440
+in the details enough to be aware I mean
+
+369
+00:14:14,639 --> 00:14:19,199
+Tesla's a I don't know if it's a good
+
+370
+00:14:16,440 --> 00:14:21,519
+example it's an example of where you
+
+371
+00:14:19,199 --> 00:14:23,680
+know Elon had you know when he met with
+
+372
+00:14:21,519 --> 00:14:25,600
+Tesla for his one or two days a week it
+
+373
+00:14:23,680 --> 00:14:27,440
+was like 12 meetings in a day and like
+
+374
+00:14:25,600 --> 00:14:29,480
+every hour some different technical team
+
+375
+00:14:27,440 --> 00:14:30,759
+would come in and like walk through
+
+376
+00:14:29,480 --> 00:14:33,120
+here's what's going on here's the
+
+377
+00:14:30,759 --> 00:14:35,920
+challenges what should we do boss right
+
+378
+00:14:33,120 --> 00:14:37,720
+and he would be making calls on like how
+
+379
+00:14:35,920 --> 00:14:40,279
+electronic sourcing and then we'd be
+
+380
+00:14:37,720 --> 00:14:42,279
+making calls on like wind tunnel design
+
+381
+00:14:40,279 --> 00:14:43,800
+optimization they'd be making calls on
+
+382
+00:14:42,279 --> 00:14:46,000
+on a whole bunch of different aspects of
+
+383
+00:14:43,800 --> 00:14:48,079
+the business not suggesting that's what
+
+384
+00:14:46,000 --> 00:14:50,320
+every company should do and that is not
+
+385
+00:14:48,079 --> 00:14:53,320
+what we're going to be doing but I think
+
+386
+00:14:50,320 --> 00:14:55,880
+it does show you that it's not like one
+
+387
+00:14:53,320 --> 00:14:58,120
+or the other you can exist as a large
+
+388
+00:14:55,880 --> 00:15:01,279
+company in founder mode you can exist in
+
+389
+00:14:58,120 --> 00:15:05,000
+manager mode for us you know we're much
+
+390
+00:15:01,279 --> 00:15:08,680
+more towards fure mode and probably will
+
+391
+00:15:05,000 --> 00:15:11,199
+stay that way for as long as we to
+
+392
+00:15:08,680 --> 00:15:13,279
+really understand the technical details
+
+393
+00:15:11,199 --> 00:15:16,000
+which as far as I'm concerned doesn't
+
+394
+00:15:13,279 --> 00:15:17,560
+end actually the advice I would give to
+
+395
+00:15:16,000 --> 00:15:20,680
+people trying to create their own
+
+396
+00:15:17,560 --> 00:15:22,800
+company really work in the field a
+
+397
+00:15:20,680 --> 00:15:25,600
+little bit right work in the field you
+
+398
+00:15:22,800 --> 00:15:27,639
+think you have an idea for some new
+
+399
+00:15:25,600 --> 00:15:30,000
+service or product work in that field
+
+400
+00:15:27,639 --> 00:15:33,000
+and get insight that's something I got
+
+401
+00:15:30,000 --> 00:15:34,920
+out of my Stanford experience you maybe
+
+402
+00:15:33,000 --> 00:15:37,600
+you have an idea of what's really
+
+403
+00:15:34,920 --> 00:15:39,959
+valuable and useful as a product but the
+
+404
+00:15:37,600 --> 00:15:42,120
+best approach to creating value is first
+
+405
+00:15:39,959 --> 00:15:44,519
+that you get insight into what the
+
+406
+00:15:42,120 --> 00:15:46,399
+problem is the reason walty and I
+
+407
+00:15:44,519 --> 00:15:49,079
+started working together is we met at
+
+408
+00:15:46,399 --> 00:15:51,279
+the uh the model 3 production ramp and
+
+409
+00:15:49,079 --> 00:15:54,000
+we were customers of the systems that
+
+410
+00:15:51,279 --> 00:15:55,800
+were there manufacturing and Logistics
+
+411
+00:15:54,000 --> 00:15:58,079
+and material flow systems that were on
+
+412
+00:15:55,800 --> 00:16:01,040
+the system that were in production we
+
+413
+00:15:58,079 --> 00:16:03,959
+met there and we experienced Insight we
+
+414
+00:16:01,040 --> 00:16:06,079
+saw what the problem really is people go
+
+415
+00:16:03,959 --> 00:16:09,639
+hey add more automation add more
+
+416
+00:16:06,079 --> 00:16:11,880
+technology here fine okay but the
+
+417
+00:16:09,639 --> 00:16:14,440
+Insight that we got that the fundamental
+
+418
+00:16:11,880 --> 00:16:16,920
+problem that needed to be solved is
+
+419
+00:16:14,440 --> 00:16:19,680
+moving the material without you
+
+420
+00:16:16,920 --> 00:16:21,720
+experiencing it for firsthand you miss
+
+421
+00:16:19,680 --> 00:16:23,319
+it you think oh I'm going to work on
+
+422
+00:16:21,720 --> 00:16:25,839
+Warehouse robotics you're going to build
+
+423
+00:16:23,319 --> 00:16:28,399
+this nice you know articulated arm it's
+
+424
+00:16:25,839 --> 00:16:30,959
+going to look nice and neat and great
+
+425
+00:16:28,399 --> 00:16:32,399
+are you really really solving it no and
+
+426
+00:16:30,959 --> 00:16:34,600
+the reason you're not solving it is
+
+427
+00:16:32,399 --> 00:16:38,279
+because you lack the insight into what
+
+428
+00:16:34,600 --> 00:16:39,880
+the fundamental problem is for us it was
+
+429
+00:16:38,279 --> 00:16:42,399
+oh the thing that would unlock
+
+430
+00:16:39,880 --> 00:16:44,680
+manufacturing is to move the material
+
+431
+00:16:42,399 --> 00:16:47,240
+efficiently without stopping in a very
+
+432
+00:16:44,680 --> 00:16:49,079
+reliable Safe Way You Move it in that
+
+433
+00:16:47,240 --> 00:16:51,240
+way figure out a way to do it and it
+
+434
+00:16:49,079 --> 00:16:54,000
+would unlock value for you in
+
+435
+00:16:51,240 --> 00:16:56,399
+manufacturing without that Insight I
+
+436
+00:16:54,000 --> 00:16:59,279
+think you're you would be on a long path
+
+437
+00:16:56,399 --> 00:17:01,720
+so my advice would be get immersed in
+
+438
+00:16:59,279 --> 00:17:03,560
+the problem Firs head and then try to
+
+439
+00:17:01,720 --> 00:17:06,679
+come up with a solution I'll give you
+
+440
+00:17:03,560 --> 00:17:09,400
+another very practical example today
+
+441
+00:17:06,679 --> 00:17:12,919
+everybody in the company today everyone
+
+442
+00:17:09,400 --> 00:17:15,760
+almost no exception has to work in the
+
+443
+00:17:12,919 --> 00:17:17,679
+warehouse using our system interacting
+
+444
+00:17:15,760 --> 00:17:20,679
+with the warehouse operators at our
+
+445
+00:17:17,679 --> 00:17:23,360
+customer site everyone even web
+
+446
+00:17:20,679 --> 00:17:26,120
+developers uh marketing everybody has to
+
+447
+00:17:23,360 --> 00:17:27,799
+do it and the reason we did that is from
+
+448
+00:17:26,120 --> 00:17:29,440
+my experience when I was at Tesla and
+
+449
+00:17:27,799 --> 00:17:32,320
+building the software that I told you
+
+450
+00:17:29,440 --> 00:17:35,000
+about it the software for the uh the
+
+451
+00:17:32,320 --> 00:17:36,679
+g410 the way I built the software is I
+
+452
+00:17:35,000 --> 00:17:39,360
+went to the line and I started working
+
+453
+00:17:36,679 --> 00:17:42,280
+on the cars I started you know putting
+
+454
+00:17:39,360 --> 00:17:45,320
+volts head and talking Fasteners and the
+
+455
+00:17:42,280 --> 00:17:47,640
+hood on the model 3 and I experienced
+
+456
+00:17:45,320 --> 00:17:49,760
+what the operator was experienc what
+
+457
+00:17:47,640 --> 00:17:52,880
+kind of software was needed what did I
+
+458
+00:17:49,760 --> 00:17:55,679
+need to finish my job pop and then I
+
+459
+00:17:52,880 --> 00:17:58,679
+built that software and that software
+
+460
+00:17:55,679 --> 00:18:01,000
+infected everywhere that gule that is
+
+461
+00:17:58,679 --> 00:18:03,320
+the Insight that you need to get before
+
+462
+00:18:01,000 --> 00:18:08,039
+you can say oh I'm going to build a new
+
+463
+00:18:03,320 --> 00:18:10,720
+manufacturing software first work as a
+
+464
+00:18:08,039 --> 00:18:12,760
+user of that supposed system or product
+
+465
+00:18:10,720 --> 00:18:14,720
+that you're trying to create get deep
+
+466
+00:18:12,760 --> 00:18:16,240
+Insight so you fundamentally understand
+
+467
+00:18:14,720 --> 00:18:17,480
+what is the thing that you're trying to
+
+468
+00:18:16,240 --> 00:18:19,960
+create what is the value that you're
+
+469
+00:18:17,480 --> 00:18:22,320
+trying to create and then go okay I have
+
+470
+00:18:19,960 --> 00:18:24,360
+enough Insight that I know so much about
+
+471
+00:18:22,320 --> 00:18:26,440
+this I understand it at a basic
+
+472
+00:18:24,360 --> 00:18:29,240
+fundamental level now you can come up
+
+473
+00:18:26,440 --> 00:18:31,080
+with the new value creation after that I
+
+474
+00:18:29,240 --> 00:18:32,919
+think that's the best advice I could
+
+475
+00:18:31,080 --> 00:18:36,000
+give before somebody says I want to go
+
+476
+00:18:32,919 --> 00:18:38,320
+and build Hardware there are many little
+
+477
+00:18:36,000 --> 00:18:40,480
+tiny startups that have YouTube videos
+
+478
+00:18:38,320 --> 00:18:42,919
+or videos that that have amazing
+
+479
+00:18:40,480 --> 00:18:44,760
+wonderful devices and you go but what is
+
+480
+00:18:42,919 --> 00:18:47,080
+it solving is it practical are you
+
+481
+00:18:44,760 --> 00:18:48,120
+solving a problem it's because they did
+
+482
+00:18:47,080 --> 00:18:50,520
+the shortcut they said I'm going to
+
+483
+00:18:48,120 --> 00:18:51,919
+build something that looks cooler great
+
+484
+00:18:50,520 --> 00:18:54,440
+go build it but you're not really
+
+485
+00:18:51,919 --> 00:18:56,760
+solving the thing you need to go and
+
+486
+00:18:54,440 --> 00:18:58,360
+immerse yourself get insight and that's
+
+487
+00:18:56,760 --> 00:19:01,280
+why we have everybody here at the
+
+488
+00:18:58,360 --> 00:19:03,039
+company work at the warehouse with our
+
+489
+00:19:01,280 --> 00:19:05,640
+customers and so when they come and
+
+490
+00:19:03,039 --> 00:19:07,520
+build a solution they build it as a
+
+491
+00:19:05,640 --> 00:19:09,000
+warehouse operator they go oh I'm a
+
+492
+00:19:07,520 --> 00:19:11,000
+warehouse operator who happens to know
+
+493
+00:19:09,000 --> 00:19:12,520
+how to build applications how to build
+
+494
+00:19:11,000 --> 00:19:15,080
+robotics you know here's how I would
+
+495
+00:19:12,520 --> 00:19:17,559
+build it for me that's the best way to
+
+496
+00:19:15,080 --> 00:19:17,559
+build
+
+497
+00:19:18,240 --> 00:19:23,000
+products I mean if you look across the
+
+498
+00:19:20,400 --> 00:19:25,280
+tech Spectrum most companies and you
+
+499
+00:19:23,000 --> 00:19:27,520
+know Andre's famous quote heart software
+
+500
+00:19:25,280 --> 00:19:29,760
+will basically eat the world is very
+
+501
+00:19:27,520 --> 00:19:33,280
+true I think you know when you look at
+
+502
+00:19:29,760 --> 00:19:36,120
+the economy you realize that 85% of the
+
+503
+00:19:33,280 --> 00:19:39,520
+economy or GDP is driven by physical
+
+504
+00:19:36,120 --> 00:19:41,400
+Industries physical problems 90% of the
+
+505
+00:19:39,520 --> 00:19:43,640
+value in the tech economy has been
+
+506
+00:19:41,400 --> 00:19:46,280
+created by mostos software there's a
+
+507
+00:19:43,640 --> 00:19:48,360
+huge discrepancy so when we look at the
+
+508
+00:19:46,280 --> 00:19:50,919
+problems yet to be solved that haven't
+
+509
+00:19:48,360 --> 00:19:53,360
+really been touched by software they all
+
+510
+00:19:50,919 --> 00:19:56,080
+involve some sort of actuation or
+
+511
+00:19:53,360 --> 00:19:58,760
+manipulation of the physical world iot
+
+512
+00:19:56,080 --> 00:20:01,919
+Internet of Things has been around for
+
+513
+00:19:58,760 --> 00:20:03,520
+few decades and that starts to solve
+
+514
+00:20:01,919 --> 00:20:06,400
+some of the problems around Hardware it
+
+515
+00:20:03,520 --> 00:20:08,600
+gives you signal back from the physical
+
+516
+00:20:06,400 --> 00:20:11,000
+environment into some sort of brain or
+
+517
+00:20:08,600 --> 00:20:13,559
+software but ultimately the actuation of
+
+518
+00:20:11,000 --> 00:20:15,880
+that requires people or something else
+
+519
+00:20:13,559 --> 00:20:17,280
+but when you think of Robotics as
+
+520
+00:20:15,880 --> 00:20:19,520
+applied to the physical world that
+
+521
+00:20:17,280 --> 00:20:22,760
+closes the loop like I can build an
+
+522
+00:20:19,520 --> 00:20:25,320
+actuator a thing to move a physical item
+
+523
+00:20:22,760 --> 00:20:27,760
+up down left right that's hardware and
+
+524
+00:20:25,320 --> 00:20:29,320
+the combination of that actuation Clos
+
+525
+00:20:27,760 --> 00:20:31,480
+in the loop along with the software
+
+526
+00:20:29,320 --> 00:20:33,039
+capabilities that can be applied to it
+
+527
+00:20:31,480 --> 00:20:35,280
+there's a ton of potential there right
+
+528
+00:20:33,039 --> 00:20:37,240
+this is the next Frontier the next
+
+529
+00:20:35,280 --> 00:20:39,440
+several decades you know you look around
+
+530
+00:20:37,240 --> 00:20:41,000
+you and you see look at all the
+
+531
+00:20:39,440 --> 00:20:42,600
+inefficiencies in the world you look at
+
+532
+00:20:41,000 --> 00:20:44,640
+how the trash is picked up you look at
+
+533
+00:20:42,600 --> 00:20:46,960
+how houses and buildings are constructed
+
+534
+00:20:44,640 --> 00:20:50,039
+you look at how telephone cable is laid
+
+535
+00:20:46,960 --> 00:20:52,520
+you look at how physical Goods must be
+
+536
+00:20:50,039 --> 00:20:56,080
+you know manufactured and there's a lot
+
+537
+00:20:52,520 --> 00:20:58,400
+of opportunity for for software applied
+
+538
+00:20:56,080 --> 00:21:00,000
+to the physical world and that's why all
+
+539
+00:20:58,400 --> 00:21:01,720
+of of us here at mitro we're super
+
+540
+00:21:00,000 --> 00:21:03,760
+passionate about software fly to the
+
+541
+00:21:01,720 --> 00:21:06,120
+physical world and that comes in the
+
+542
+00:21:03,760 --> 00:21:08,400
+form of Robotics and that is a that is a
+
+543
+00:21:06,120 --> 00:21:10,799
+hardware hardware company the second
+
+544
+00:21:08,400 --> 00:21:12,600
+reason why Hardware is is perhaps more
+
+545
+00:21:10,799 --> 00:21:14,880
+exciting today than it might have been a
+
+546
+00:21:12,600 --> 00:21:16,279
+few decades ago you know when you think
+
+547
+00:21:14,880 --> 00:21:18,640
+of Hardware you think of silicon like
+
+548
+00:21:16,279 --> 00:21:20,520
+making silicon ships that was really you
+
+549
+00:21:18,640 --> 00:21:23,120
+know most of the hardware opportunity
+
+550
+00:21:20,520 --> 00:21:25,880
+but companies like Tesla and SpaceX have
+
+551
+00:21:23,120 --> 00:21:28,799
+come along and they said look these are
+
+552
+00:21:25,880 --> 00:21:30,520
+Legacy Industries the script has been WR
+
+553
+00:21:28,799 --> 00:21:33,120
+for how to build Automotive vehicles and
+
+554
+00:21:30,520 --> 00:21:35,440
+what margins for for decades and Tesla's
+
+555
+00:21:33,120 --> 00:21:38,400
+coming and saying we're going to do it
+
+556
+00:21:35,440 --> 00:21:40,159
+differently everyone told you know Elon
+
+557
+00:21:38,400 --> 00:21:42,200
+and Company they're crazy for doing this
+
+558
+00:21:40,159 --> 00:21:43,840
+there's very low probability for Success
+
+559
+00:21:42,200 --> 00:21:45,880
+there's lots and lots of ways that this
+
+560
+00:21:43,840 --> 00:21:47,840
+go poorly for them but built an
+
+561
+00:21:45,880 --> 00:21:50,480
+architecture that's significantly
+
+562
+00:21:47,840 --> 00:21:52,919
+simpler 10x simpler or more than the
+
+563
+00:21:50,480 --> 00:21:55,480
+existing products right there's bar your
+
+564
+00:21:52,919 --> 00:21:58,720
+parts and shown that you can disrupt
+
+565
+00:21:55,480 --> 00:22:01,120
+some of these industries it's hard
+
+566
+00:21:58,720 --> 00:22:02,880
+Hardware's hard but if done successfully
+
+567
+00:22:01,120 --> 00:22:05,559
+and done correctly there's huge
+
+568
+00:22:02,880 --> 00:22:07,559
+opportunity to make meaningful advances
+
+569
+00:22:05,559 --> 00:22:10,360
+in building you know electric
+
+570
+00:22:07,559 --> 00:22:12,760
+vehicles is for some people it's much
+
+571
+00:22:10,360 --> 00:22:15,880
+more rewarding than you know optimizing
+
+572
+00:22:12,760 --> 00:22:18,760
+some age on a on a website or or
+
+573
+00:22:15,880 --> 00:22:20,960
+increasing ad spend by 5% or something
+
+574
+00:22:18,760 --> 00:22:23,400
+like that so there's been a bit of a
+
+575
+00:22:20,960 --> 00:22:25,200
+blueprint in a Playbook that says you
+
+576
+00:22:23,400 --> 00:22:27,120
+can disrupt very large Industries
+
+577
+00:22:25,200 --> 00:22:29,200
+through Hardware uh through some of the
+
+578
+00:22:27,120 --> 00:22:33,080
+more modern successes like you know
+
+579
+00:22:29,200 --> 00:22:36,279
+Tesla WD rivan SpaceX andal couple balls
+
+580
+00:22:33,080 --> 00:22:36,279
+like that
+
