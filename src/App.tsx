@@ -234,10 +234,6 @@ function App() {
       <header className="header">
         <div className="header-content">
           <h1 className="title">YouGlish Copycat</h1>
-          {/* Tailwind CSS 테스트용 버튼 */}
-          <div className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mb-4">
-            Tailwind CSS 테스트
-          </div>
           <button
             onClick={() => setShowSavedClips(!showSavedClips)}
             className="button"
