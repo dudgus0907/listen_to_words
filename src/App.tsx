@@ -78,6 +78,8 @@ function App() {
 
   // 플레이어 생성
   useEffect(() => {
+    let currentPlayer: any = null;
+
     if (currentClip && (window as any).YT && playerRef.current) {
       // 기존 플레이어 정리
       if (player) {
@@ -85,7 +87,8 @@ function App() {
       }
       setIsPlayerReady(false);
 
-      const newPlayer = new (window as any).YT.Player(playerRef.current, {
+      // YouTube Player 생성
+      currentPlayer = new (window as any).YT.Player(playerRef.current, {
         videoId: currentClip.videoId,
         height: '100%',
         width: '100%',
@@ -109,11 +112,11 @@ function App() {
 
     // 컴포넌트 언마운트 시 플레이어 정리
     return () => {
-      if (player) {
-        player.destroy();
+      if (currentPlayer) {
+        currentPlayer.destroy();
       }
     };
-  }, [currentClip?.videoId, currentClip?.startTime]); // player를 의존성에서 제거
+  }, [currentClip?.videoId, currentClip?.startTime]); // eslint-disable-line react-hooks/exhaustive-deps
 
   const handleSearch = async () => {
     if (!searchQuery.trim()) return;
