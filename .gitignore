@@ -2,8 +2,15 @@
 
 # dependencies
 /node_modules
+/backend/node_modules
 /.pnp
 .pnp.js
+
+# sqlite files
+*.db
+*.db-journal
+backend/*.db
+backend/*.db-journal
 
 # testing
 /coverage
