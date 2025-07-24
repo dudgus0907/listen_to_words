@@ -1,0 +1,2330 @@
+{
+  "success": true,
+  "videoId": "I2ATdfrmPMw",
+  "videoTitle": "How We Shape the Future of Hardware ｜ Mytra's Co-Founders Interview",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "actually the advice I would give to"
+    },
+    {
+      "start": 1,
+      "text": "people trying to create their own"
+    },
+    {
+      "start": 3,
+      "text": "company really work in the field a"
+    },
+    {
+      "start": 6,
+      "text": "little bit like work in the field you"
+    },
+    {
+      "start": 8,
+      "text": "think you have an idea for some new"
+    },
+    {
+      "start": 11,
+      "text": "service or product work in that field"
+    },
+    {
+      "start": 13,
+      "text": "and get insight that's something I got"
+    },
+    {
+      "start": 16,
+      "text": "out of my Stanford experience you maybe"
+    },
+    {
+      "start": 19,
+      "text": "you have an idea of what's really"
+    },
+    {
+      "start": 21,
+      "text": "valuable and useful as a product but the"
+    },
+    {
+      "start": 23,
+      "text": "best approach to creating value is first"
+    },
+    {
+      "start": 26,
+      "text": "that you get insight into what the"
+    },
+    {
+      "start": 28,
+      "text": "problem is my name's Chris qualty I'm"
+    },
+    {
+      "start": 31,
+      "text": "the CEO and co-founder of Mitra we're a"
+    },
+    {
+      "start": 33,
+      "text": "2-year-old company based out of South"
+    },
+    {
+      "start": 35,
+      "text": "San Francisco a little bit about my"
+    },
+    {
+      "start": 37,
+      "text": "background before starting Mitra I was"
+    },
+    {
+      "start": 40,
+      "text": "at Tesla for 7 and A2 years before Tesla"
+    },
+    {
+      "start": 44,
+      "text": "I had various positions in renewable"
+    },
+    {
+      "start": 45,
+      "text": "energy and Consulting I was electrical"
+    },
+    {
+      "start": 48,
+      "text": "engineer undergrad but at Tesla I joined"
+    },
+    {
+      "start": 50,
+      "text": "to lead product and hardware for the"
+    },
+    {
+      "start": 52,
+      "text": "supercharger team and I launched various"
+    },
+    {
+      "start": 55,
+      "text": "products like paid supercharging and my"
+    },
+    {
+      "start": 58,
+      "text": "name is Ahmed Bal I am the CTO and"
+    },
+    {
+      "start": 61,
+      "text": "co-founder and Mitra Mitra is building"
+    },
+    {
+      "start": 65,
+      "text": "robots for warehouse material flow of"
+    },
+    {
+      "start": 67,
+      "text": "trying to solve a fundamental problem"
+    },
+    {
+      "start": 69,
+      "text": "with theerror flow in in warehousing"
+    },
+    {
+      "start": 71,
+      "text": "Logistics and Manufacturing as"
+    },
+    {
+      "start": 76,
+      "text": "well so I joined Tesla in 2014 I think"
+    },
+    {
+      "start": 79,
+      "text": "this is after the dual motor b s was"
+    },
+    {
+      "start": 81,
+      "text": "launched or was announced you know"
+    },
+    {
+      "start": 83,
+      "text": "there's a lot of skepticism are electric"
+    },
+    {
+      "start": 86,
+      "text": "vehicles going to be successful is fully"
+    },
+    {
+      "start": 90,
+      "text": "battery electric vehicle or plug in"
+    },
+    {
+      "start": 92,
+      "text": "hybrid you know Tesla versus Fisker a"
+    },
+    {
+      "start": 94,
+      "text": "lot of uncertainty in the market then"
+    },
+    {
+      "start": 96,
+      "text": "but you know I joined Tesla to to solve"
+    },
+    {
+      "start": 98,
+      "text": "a very clear problem I was working on"
+    },
+    {
+      "start": 101,
+      "text": "more traditional wield Automation and of"
+    },
+    {
+      "start": 103,
+      "text": "course a lot of the fixed infrastructure"
+    },
+    {
+      "start": 105,
+      "text": "projects that we had a tuss it"
+    },
+    {
+      "start": 106,
+      "text": "beforehand and then you know this"
+    },
+    {
+      "start": 108,
+      "text": "challenge of let's build a humanoid"
+    },
+    {
+      "start": 110,
+      "text": "robot was was given to our team because"
+    },
+    {
+      "start": 112,
+      "text": "we had an integrated robotics team but"
+    },
+    {
+      "start": 114,
+      "text": "the challenges of a humanoid are are"
+    },
+    {
+      "start": 116,
+      "text": "very different than building a wheeled"
+    },
+    {
+      "start": 118,
+      "text": "robot on the floor legged Locomotion"
+    },
+    {
+      "start": 121,
+      "text": "grasping and manipulation the kinds of"
+    },
+    {
+      "start": 123,
+      "text": "of of decisions that this robot has to"
+    },
+    {
+      "start": 126,
+      "text": "process a perception systems are are"
+    },
+    {
+      "start": 128,
+      "text": "wildly different and so first Tesla had"
+    },
+    {
+      "start": 131,
+      "text": "precisely zero expertise of humanoid"
+    },
+    {
+      "start": 133,
+      "text": "robotics at the time so I had to go and"
+    },
+    {
+      "start": 135,
+      "text": "figure out who the experts were meet"
+    },
+    {
+      "start": 137,
+      "text": "with them try to establish a recruiting"
+    },
+    {
+      "start": 139,
+      "text": "pipeline try to find the internal"
+    },
+    {
+      "start": 141,
+      "text": "experts within Tesla who were willing"
+    },
+    {
+      "start": 143,
+      "text": "and able and also had the foundational"
+    },
+    {
+      "start": 145,
+      "text": "skill sets to be able to solve this"
+    },
+    {
+      "start": 147,
+      "text": "problem I had to get myself a two month"
+    },
+    {
+      "start": 149,
+      "text": "crash course in human orotic so that was"
+    },
+    {
+      "start": 151,
+      "text": "really an interesting time but you know"
+    },
+    {
+      "start": 154,
+      "text": "I think one of the things that Tesla"
+    },
+    {
+      "start": 155,
+      "text": "teaches you to be very resourceful that"
+    },
+    {
+      "start": 157,
+      "text": "wasn't the first time I've been asked to"
+    },
+    {
+      "start": 159,
+      "text": "solve the problem which I had no really"
+    },
+    {
+      "start": 162,
+      "text": "like deep or meaningful background in"
+    },
+    {
+      "start": 164,
+      "text": "but you structure the problem you go"
+    },
+    {
+      "start": 165,
+      "text": "find the information you need hop on a"
+    },
+    {
+      "start": 168,
+      "text": "plane to meet with the experts as you"
+    },
+    {
+      "start": 169,
+      "text": "need you do what it takes to to figure"
+    },
+    {
+      "start": 171,
+      "text": "it out you know neon laid a mandate out"
+    },
+    {
+      "start": 173,
+      "text": "that we needed to get a some robot"
+    },
+    {
+      "start": 174,
+      "text": "walking in three months it's so between"
+    },
+    {
+      "start": 177,
+      "text": "internal experts talking with some some"
+    },
+    {
+      "start": 179,
+      "text": "folks out outside the company with to to"
+    },
+    {
+      "start": 181,
+      "text": "get accomplish that goal I think as a"
+    },
+    {
+      "start": 183,
+      "text": "whole though all robots are not created"
+    },
+    {
+      "start": 185,
+      "text": "equal all robot challenges are not equal"
+    },
+    {
+      "start": 188,
+      "text": "anytime you're talking about Led"
+    },
+    {
+      "start": 190,
+      "text": "Locomotion or just Advanced grasping the"
+    },
+    {
+      "start": 193,
+      "text": "perception that the type of data and the"
+    },
+    {
+      "start": 195,
+      "text": "consistency of data the frequency of the"
+    },
+    {
+      "start": 197,
+      "text": "refresh rates like I'm not just looking"
+    },
+    {
+      "start": 200,
+      "text": "at a hand like I need to understand like"
+    },
+    {
+      "start": 202,
+      "text": "the forces and yeah there's there's"
+    },
+    {
+      "start": 204,
+      "text": "literally infinite ways I could grab"
+    },
+    {
+      "start": 206,
+      "text": "something the difficulty of of repeating"
+    },
+    {
+      "start": 208,
+      "text": "that and making that some sort of"
+    },
+    {
+      "start": 209,
+      "text": "industrial process is many orders of"
+    },
+    {
+      "start": 212,
+      "text": "magnitude more difficult than just"
+    },
+    {
+      "start": 215,
+      "text": "driving a bot around the floor of a"
+    },
+    {
+      "start": 217,
+      "text": "factory and you know if we think about"
+    },
+    {
+      "start": 219,
+      "text": "how difficult it has been to do full"
+    },
+    {
+      "start": 221,
+      "text": "self-driving cars or autonomous vehicles"
+    },
+    {
+      "start": 223,
+      "text": "you know you could argue that that"
+    },
+    {
+      "start": 225,
+      "text": "problem is not a solved problem yet"
+    },
+    {
+      "start": 226,
+      "text": "because we don't have ubiquitous cars no"
+    },
+    {
+      "start": 229,
+      "text": "driving highways and and surface streets"
+    },
+    {
+      "start": 231,
+      "text": "yet right you do have companies that are"
+    },
+    {
+      "start": 234,
+      "text": "driving like you can walk outside of"
+    },
+    {
+      "start": 236,
+      "text": "this building you will see a car"
+    },
+    {
+      "start": 237,
+      "text": "unmanned car drive by this this facility"
+    },
+    {
+      "start": 240,
+      "text": "probably in 30 minutes but it's not"
+    },
+    {
+      "start": 242,
+      "text": "ubiquitous right hasn't been adopted"
+    },
+    {
+      "start": 244,
+      "text": "building a humanoid to operate at full"
+    },
+    {
+      "start": 246,
+      "text": "scale in Factory or a home at the"
+    },
+    {
+      "start": 249,
+      "text": "comparable productivity of a human is a"
+    },
+    {
+      "start": 252,
+      "text": "very very challenging problem to solve"
+    },
+    {
+      "start": 254,
+      "text": "I'm confident it will be solved I think"
+    },
+    {
+      "start": 256,
+      "text": "the timing is everything right is this a"
+    },
+    {
+      "start": 258,
+      "text": "one-year problem is this a 5year is this"
+    },
+    {
+      "start": 260,
+      "text": "a 10e is this a 30-year problem unclear"
+    },
+    {
+      "start": 263,
+      "text": "so after spending a year there it was"
+    },
+    {
+      "start": 265,
+      "text": "it's a fascinating problem where again"
+    },
+    {
+      "start": 267,
+      "text": "was able to work with some of the best"
+    },
+    {
+      "start": 269,
+      "text": "and brightest at Tesla and and Beyond"
+    },
+    {
+      "start": 271,
+      "text": "Tesla was fortunate to be able to to"
+    },
+    {
+      "start": 273,
+      "text": "hire some wonderful people to work on"
+    },
+    {
+      "start": 275,
+      "text": "these huge challenges but ultimately I"
+    },
+    {
+      "start": 277,
+      "text": "join Tesla to ship you know millions of"
+    },
+    {
+      "start": 279,
+      "text": "products to the public to make real"
+    },
+    {
+      "start": 281,
+      "text": "impacts and I felt that most of the"
+    },
+    {
+      "start": 284,
+      "text": "impact by the humanoid is dependent on"
+    },
+    {
+      "start": 287,
+      "text": "solving effectively some research"
+    },
+    {
+      "start": 289,
+      "text": "problems with what we're doing at Mitra"
+    },
+    {
+      "start": 291,
+      "text": "this is not in the research domain this"
+    },
+    {
+      "start": 293,
+      "text": "is a very like we're solving tangible"
+    },
+    {
+      "start": 295,
+      "text": "problems with technology that doesn't"
+    },
+    {
+      "start": 297,
+      "text": "require moonshot levels of of innovation"
+    },
+    {
+      "start": 300,
+      "text": "to have meaningful impact on the economy"
+    },
+    {
+      "start": 304,
+      "text": "after Tesla I I tried to just focus a"
+    },
+    {
+      "start": 307,
+      "text": "little bit away from manufacturer let me"
+    },
+    {
+      "start": 309,
+      "text": "think a little bit you know do something"
+    },
+    {
+      "start": 311,
+      "text": "else derivatives trading and try to"
+    },
+    {
+      "start": 313,
+      "text": "learn more about Ai and financial"
+    },
+    {
+      "start": 315,
+      "text": "systems but the bug of manufacturing"
+    },
+    {
+      "start": 318,
+      "text": "working on Hardware gotten me again and"
+    },
+    {
+      "start": 321,
+      "text": "the things I did at Tesla were very"
+    },
+    {
+      "start": 323,
+      "text": "applicable to rev and I thought I really"
+    },
+    {
+      "start": 325,
+      "text": "wanted to help one more us auto"
+    },
+    {
+      "start": 328,
+      "text": "manufacturer get off the brown I was"
+    },
+    {
+      "start": 330,
+      "text": "really excited about rivan trying to"
+    },
+    {
+      "start": 331,
+      "text": "help them out so I went and you know"
+    },
+    {
+      "start": 333,
+      "text": "spent time at rivian helping them scale"
+    },
+    {
+      "start": 336,
+      "text": "their manufacturing assistance as well"
+    },
+    {
+      "start": 338,
+      "text": "that's the journey after that I was at a"
+    },
+    {
+      "start": 341,
+      "text": "beach in Hawaii I still have the video"
+    },
+    {
+      "start": 343,
+      "text": "while I'm recording the beach and I was"
+    },
+    {
+      "start": 346,
+      "text": "going like wonderful this is great I'm"
+    },
+    {
+      "start": 348,
+      "text": "done I don't want to do anything else"
+    },
+    {
+      "start": 350,
+      "text": "I've solved every problem I want to"
+    },
+    {
+      "start": 351,
+      "text": "solve as I'm recording the video I get a"
+    },
+    {
+      "start": 354,
+      "text": "call from walty and he's asking me about"
+    },
+    {
+      "start": 357,
+      "text": "hey do you remember the problems we went"
+    },
+    {
+      "start": 359,
+      "text": "into Tesla during manufacturing let's"
+    },
+    {
+      "start": 361,
+      "text": "really solve it at the beginning I was"
+    },
+    {
+      "start": 363,
+      "text": "like I don't want to do this I don't"
+    },
+    {
+      "start": 366,
+      "text": "want to do manufacturing again I want to"
+    },
+    {
+      "start": 368,
+      "text": "be stay at the beach but the more we"
+    },
+    {
+      "start": 370,
+      "text": "talked about how we would solve the spot"
+    },
+    {
+      "start": 372,
+      "text": "go back to the fundamentals let's not"
+    },
+    {
+      "start": 374,
+      "text": "just build another automation company"
+    },
+    {
+      "start": 376,
+      "text": "let's do something completely different"
+    },
+    {
+      "start": 378,
+      "text": "the more we talked about it the more I"
+    },
+    {
+      "start": 379,
+      "text": "got excited because it's it wasn't just"
+    },
+    {
+      "start": 382,
+      "text": "another implementation it's a complete"
+    },
+    {
+      "start": 384,
+      "text": "rethink and that was very excited so I"
+    },
+    {
+      "start": 388,
+      "text": "said okay yes let's start this company"
+    },
+    {
+      "start": 390,
+      "text": "let's find the best people that we can"
+    },
+    {
+      "start": 391,
+      "text": "find from our Network and pack a this"
+    },
+    {
+      "start": 395,
+      "text": "B with the global Venture Capital volume"
+    },
+    {
+      "start": 398,
+      "text": "decreasing dramatically startup must"
+    },
+    {
+      "start": 400,
+      "text": "find a better way to stay informed of"
+    },
+    {
+      "start": 404,
+      "text": "investment sentiment to survive hi I'm"
+    },
+    {
+      "start": 406,
+      "text": "Si from you and we know that many of you"
+    },
+    {
+      "start": 409,
+      "text": "watching are startup Founders that's why"
+    },
+    {
+      "start": 411,
+      "text": "we have something to share with you guys"
+    },
+    {
+      "start": 413,
+      "text": "that's going to be helpful for you the"
+    },
+    {
+      "start": 416,
+      "text": "startup Capital annual report from"
+    },
+    {
+      "start": 418,
+      "text": "HubSpot for startups is their newest"
+    },
+    {
+      "start": 421,
+      "text": "report on where startup capitals are"
+    },
+    {
+      "start": 423,
+      "text": "flowing the metrics investors care about"
+    },
+    {
+      "start": 425,
+      "text": "the most when deciding on investing in a"
+    },
+    {
+      "start": 427,
+      "text": "startup and the best tech Stacks to help"
+    },
+    {
+      "start": 430,
+      "text": "you manage investor relations in"
+    },
+    {
+      "start": 432,
+      "text": "addition to the detailed surveys of 500"
+    },
+    {
+      "start": 435,
+      "text": "Founders I found an in-depth interview"
+    },
+    {
+      "start": 438,
+      "text": "with seasoned investors from sequia"
+    },
+    {
+      "start": 440,
+      "text": "Capital HS with venters and more to be"
+    },
+    {
+      "start": 443,
+      "text": "especially interesting and packed with"
+    },
+    {
+      "start": 445,
+      "text": "insights the report is free to download"
+    },
+    {
+      "start": 448,
+      "text": "through the link in description"
+    },
+    {
+      "start": 450,
+      "text": "be sure to check it out and take your"
+    },
+    {
+      "start": 451,
+      "text": "startup to the next round and thanks to"
+    },
+    {
+      "start": 453,
+      "text": "hpot for sponsoring the"
+    },
+    {
+      "start": 458,
+      "text": "video so Mitra was founded because am on"
+    },
+    {
+      "start": 462,
+      "text": "and I having seen a lot of these"
+    },
+    {
+      "start": 464,
+      "text": "different types of challenges at Tesla"
+    },
+    {
+      "start": 465,
+      "text": "and rivan wanted to find a problem that"
+    },
+    {
+      "start": 468,
+      "text": "we could solve we uniquely positioned"
+    },
+    {
+      "start": 471,
+      "text": "knowledgeable to tackle but also was"
+    },
+    {
+      "start": 474,
+      "text": "just simply not being solved right you"
+    },
+    {
+      "start": 477,
+      "text": "think of the lowest hanging fruit in"
+    },
+    {
+      "start": 479,
+      "text": "your tree and again material flow is"
+    },
+    {
+      "start": 482,
+      "text": "most of the work across industry just"
+    },
+    {
+      "start": 484,
+      "text": "moving things around yet it's clearly"
+    },
+    {
+      "start": 486,
+      "text": "unsolved I can go out and buy an"
+    },
+    {
+      "start": 488,
+      "text": "industrial automation system to do"
+    },
+    {
+      "start": 489,
+      "text": "almost anything I need the problem is is"
+    },
+    {
+      "start": 492,
+      "text": "it cost effective is it simple is it"
+    },
+    {
+      "start": 495,
+      "text": "extensible is it flexible and we said if"
+    },
+    {
+      "start": 498,
+      "text": "we can design something that's just far"
+    },
+    {
+      "start": 501,
+      "text": "simpler iPhone's a great example Tesla"
+    },
+    {
+      "start": 503,
+      "text": "there's lots of great examples of"
+    },
+    {
+      "start": 504,
+      "text": "History where to follow a new scurve"
+    },
+    {
+      "start": 507,
+      "text": "scurve of adoption right a new tech"
+    },
+    {
+      "start": 509,
+      "text": "technology it starts off slowly it then"
+    },
+    {
+      "start": 511,
+      "text": "you know there's some acceleration then"
+    },
+    {
+      "start": 513,
+      "text": "it kind of tapers off but to truly"
+    },
+    {
+      "start": 515,
+      "text": "continue like linear adoption and"
+    },
+    {
+      "start": 517,
+      "text": "Improvement of Technologies it's"
+    },
+    {
+      "start": 519,
+      "text": "comprised of a whole bunch of small"
+    },
+    {
+      "start": 520,
+      "text": "s-curves right we needed to create that"
+    },
+    {
+      "start": 523,
+      "text": "new s-curve for industrial aeration"
+    },
+    {
+      "start": 526,
+      "text": "there needed to be a new paradigm and to"
+    },
+    {
+      "start": 528,
+      "text": "do that again when you look across"
+    },
+    {
+      "start": 530,
+      "text": "history It's usually the simpler thing"
+    },
+    {
+      "start": 533,
+      "text": "Waits how do we find the absolute"
+    },
+    {
+      "start": 535,
+      "text": "simplest way to do this work and what we"
+    },
+    {
+      "start": 538,
+      "text": "realized was that that no there is no"
+    },
+    {
+      "start": 540,
+      "text": "system that was designed that was"
+    },
+    {
+      "start": 542,
+      "text": "physically or kinematically"
+    },
+    {
+      "start": 544,
+      "text": "unconstrained meaning I want to move"
+    },
+    {
+      "start": 546,
+      "text": "things in 3D how do I move it up down"
+    },
+    {
+      "start": 549,
+      "text": "left right from any cell to any cell in"
+    },
+    {
+      "start": 552,
+      "text": "full 3d that was just an unsolved"
+    },
+    {
+      "start": 554,
+      "text": "problem at any payload weate so we"
+    },
+    {
+      "start": 556,
+      "text": "simulated said this is a solvable"
+    },
+    {
+      "start": 558,
+      "text": "problem and if we can do this we've"
+    },
+    {
+      "start": 560,
+      "text": "created a system that is of immense"
+    },
+    {
+      "start": 562,
+      "text": "value to the industry so that's uh"
+    },
+    {
+      "start": 565,
+      "text": "that's why we decided to tackle this"
+    },
+    {
+      "start": 566,
+      "text": "problem fundamentally the material"
+    },
+    {
+      "start": 569,
+      "text": "movement for warehouses and"
+    },
+    {
+      "start": 571,
+      "text": "Manufacturing happens on pallets pallets"
+    },
+    {
+      "start": 574,
+      "text": "in my view are the uh red blood cell of"
+    },
+    {
+      "start": 577,
+      "text": "the global GDP everything that you see"
+    },
+    {
+      "start": 579,
+      "text": "around you has been on a pallet you know"
+    },
+    {
+      "start": 582,
+      "text": "the cameras are clothes or pieces of"
+    },
+    {
+      "start": 584,
+      "text": "furniture all of that has been on a pal"
+    },
+    {
+      "start": 587,
+      "text": "yet the pallet movement technology has"
+    },
+    {
+      "start": 591,
+      "text": "been the same for the past 100 years"
+    },
+    {
+      "start": 593,
+      "text": "it's a pallet it's generally the same"
+    },
+    {
+      "start": 595,
+      "text": "size it moves uh it's made out of wood"
+    },
+    {
+      "start": 597,
+      "text": "and it's moved with for CLI"
+    },
+    {
+      "start": 599,
+      "text": "operated by humans it's the same thing"
+    },
+    {
+      "start": 602,
+      "text": "and so there hasn't been an optimization"
+    },
+    {
+      "start": 605,
+      "text": "on that for quite some time and in our"
+    },
+    {
+      "start": 608,
+      "text": "experience when I worked with with wki"
+    },
+    {
+      "start": 610,
+      "text": "we saw that the biggest problem"
+    },
+    {
+      "start": 612,
+      "text": "hindering the manufacturing process was"
+    },
+    {
+      "start": 614,
+      "text": "just trying to move material from one"
+    },
+    {
+      "start": 617,
+      "text": "product with Factory to the other and we"
+    },
+    {
+      "start": 619,
+      "text": "were thinking well let's improve that"
+    },
+    {
+      "start": 621,
+      "text": "how can we build something that is super"
+    },
+    {
+      "start": 623,
+      "text": "simple if you were to look at the need"
+    },
+    {
+      "start": 627,
+      "text": "the basic need of moving a pallet or"
+    },
+    {
+      "start": 629,
+      "text": "looking at 3,000 lb you're trying to"
+    },
+    {
+      "start": 631,
+      "text": "move it from one location to the other"
+    },
+    {
+      "start": 633,
+      "text": "for you to do that today you have to get"
+    },
+    {
+      "start": 635,
+      "text": "a forklift a forklift has to be at least"
+    },
+    {
+      "start": 638,
+      "text": "3,000 lb just to balance out cuz it's a"
+    },
+    {
+      "start": 640,
+      "text": "forklift heiring something in front of"
+    },
+    {
+      "start": 642,
+      "text": "it it has to be at least another 3,000"
+    },
+    {
+      "start": 645,
+      "text": "lb so you're moving 3,000 to 9,000 lb"
+    },
+    {
+      "start": 648,
+      "text": "the forklift itself and then 3,000 lb"
+    },
+    {
+      "start": 650,
+      "text": "that you want to move it just makes no"
+    },
+    {
+      "start": 652,
+      "text": "sense we're we're moving 9,000 to move"
+    },
+    {
+      "start": 654,
+      "text": "another 3,000 and we thought about it"
+    },
+    {
+      "start": 656,
+      "text": "and we said okay this is such a"
+    },
+    {
+      "start": 658,
+      "text": "unoptimized system it's nobody's"
+    },
+    {
+      "start": 660,
+      "text": "touching it and it's kind of a given"
+    },
+    {
+      "start": 662,
+      "text": "people that go into warehousing and"
+    },
+    {
+      "start": 664,
+      "text": "Logistics called manufacturing and you"
+    },
+    {
+      "start": 666,
+      "text": "see this it's uh they kind of look at it"
+    },
+    {
+      "start": 668,
+      "text": "and they go okay this is our lot in life"
+    },
+    {
+      "start": 670,
+      "text": "this is how things are while we saw that"
+    },
+    {
+      "start": 672,
+      "text": "was like no something has to improve so"
+    },
+    {
+      "start": 675,
+      "text": "we're looking at you know designing a a"
+    },
+    {
+      "start": 677,
+      "text": "new primitive something completely new"
+    },
+    {
+      "start": 680,
+      "text": "let's rethink the problem our Bots are 7"
+    },
+    {
+      "start": 683,
+      "text": "pounds they can move 3,000 but they're"
+    },
+    {
+      "start": 685,
+      "text": "700 lb so that's it and it doesn't take"
+    },
+    {
+      "start": 687,
+      "text": "a larger footprint than the pup itself"
+    },
+    {
+      "start": 690,
+      "text": "now when you start from there I can n"
+    },
+    {
+      "start": 693,
+      "text": "3,000 lb forward backward left and right"
+    },
+    {
+      "start": 696,
+      "text": "up and down in full 3d with 700 lb robot"
+    },
+    {
+      "start": 699,
+      "text": "that is a different math compeat and"
+    },
+    {
+      "start": 702,
+      "text": "that's the approach that we're taking"
+    },
+    {
+      "start": 703,
+      "text": "with Nitra now if you limit the"
+    },
+    {
+      "start": 707,
+      "text": "variability of movement to the three uh"
+    },
+    {
+      "start": 711,
+      "text": "Dimensions now I can start to solve"
+    },
+    {
+      "start": 713,
+      "text": "things with software the boss can only"
+    },
+    {
+      "start": 715,
+      "text": "do the three movements and they can uh"
+    },
+    {
+      "start": 718,
+      "text": "access any part of the warehouse uh"
+    },
+    {
+      "start": 720,
+      "text": "within a structure now I can start to do"
+    },
+    {
+      "start": 723,
+      "text": "things with software if I want to build"
+    },
+    {
+      "start": 725,
+      "text": "a"
+    },
+    {
+      "start": 726,
+      "text": "conveyor I don't have to build a"
+    },
+    {
+      "start": 728,
+      "text": "physical conveyor I can tell the Bots"
+    },
+    {
+      "start": 729,
+      "text": "move in the direction of a conveyor or"
+    },
+    {
+      "start": 731,
+      "text": "lift and so it makes your Warehouse"
+    },
+    {
+      "start": 733,
+      "text": "completely software addressable which is"
+    },
+    {
+      "start": 736,
+      "text": "a completely new approach to doing any"
+    },
+    {
+      "start": 739,
+      "text": "of this and it applies to warehousing"
+    },
+    {
+      "start": 741,
+      "text": "Logistics manufacturing anything that"
+    },
+    {
+      "start": 744,
+      "text": "moves your standard pallet and that's"
+    },
+    {
+      "start": 746,
+      "text": "why we wanted to focus on the pallet"
+    },
+    {
+      "start": 748,
+      "text": "because that's 90% of material movement"
+    },
+    {
+      "start": 751,
+      "text": "around the"
+    },
+    {
+      "start": 754,
+      "text": "war kind of my take on Founder mode is"
+    },
+    {
+      "start": 757,
+      "text": "is effectively as companies get larger"
+    },
+    {
+      "start": 760,
+      "text": "the gist is do you still kind of"
+    },
+    {
+      "start": 762,
+      "text": "maintain your level of awareness and"
+    },
+    {
+      "start": 765,
+      "text": "involvement in the details of your"
+    },
+    {
+      "start": 766,
+      "text": "company right very large company mode or"
+    },
+    {
+      "start": 769,
+      "text": "manager mode it's like I fully rely on"
+    },
+    {
+      "start": 771,
+      "text": "my team to do almost everything and I I"
+    },
+    {
+      "start": 773,
+      "text": "have this little function maybe I'm just"
+    },
+    {
+      "start": 775,
+      "text": "attending dinners and selling customers"
+    },
+    {
+      "start": 777,
+      "text": "at a very high level I think you know at"
+    },
+    {
+      "start": 779,
+      "text": "a company like Mitra you know even"
+    },
+    {
+      "start": 781,
+      "text": "though we're 74 people Aman and I have"
+    },
+    {
+      "start": 784,
+      "text": "no choice but to be in founder mode"
+    },
+    {
+      "start": 786,
+      "text": "there's just too much going on there's"
+    },
+    {
+      "start": 787,
+      "text": "too many aspects of the system you know"
+    },
+    {
+      "start": 790,
+      "text": "every time a customer walks in we have"
+    },
+    {
+      "start": 792,
+      "text": "one this afternoon and between the two"
+    },
+    {
+      "start": 795,
+      "text": "of us we need to be fully versed in the"
+    },
+    {
+      "start": 797,
+      "text": "technical stack we need to be able to"
+    },
+    {
+      "start": 798,
+      "text": "answer questions of like why did you"
+    },
+    {
+      "start": 800,
+      "text": "make this decision for this actuator or"
+    },
+    {
+      "start": 803,
+      "text": "this design what other reliability"
+    },
+    {
+      "start": 805,
+      "text": "issues how do you plan to lower the cost"
+    },
+    {
+      "start": 808,
+      "text": "like things like that if you can't talk"
+    },
+    {
+      "start": 810,
+      "text": "intelligently about that you're not"
+    },
+    {
+      "start": 812,
+      "text": "going to drive confidence in these very"
+    },
+    {
+      "start": 814,
+      "text": "sophisticated potential buyers of"
+    },
+    {
+      "start": 816,
+      "text": "Parkers so for us like there's no choice"
+    },
+    {
+      "start": 819,
+      "text": "but to be found or M but you know as I"
+    },
+    {
+      "start": 821,
+      "text": "think about what I love about this job"
+    },
+    {
+      "start": 823,
+      "text": "you know I love being in designer riew"
+    },
+    {
+      "start": 825,
+      "text": "so I love the product and the"
+    },
+    {
+      "start": 827,
+      "text": "engineering aspects and I know I'm onos"
+    },
+    {
+      "start": 830,
+      "text": "too and that's that's something that you"
+    },
+    {
+      "start": 833,
+      "text": "know as you get older as you get company"
+    },
+    {
+      "start": 835,
+      "text": "gets more mature and larger there's"
+    },
+    {
+      "start": 837,
+      "text": "natural pressure to say like you need to"
+    },
+    {
+      "start": 838,
+      "text": "de from that you need to let your team"
+    },
+    {
+      "start": 841,
+      "text": "do that and I think there's there's a"
+    },
+    {
+      "start": 843,
+      "text": "balance that can be achieved where"
+    },
+    {
+      "start": 845,
+      "text": "Founders are still in the"
+    },
+    {
+      "start": 847,
+      "text": "details not making all the decisions but"
+    },
+    {
+      "start": 851,
+      "text": "in the details enough to be aware I mean"
+    },
+    {
+      "start": 854,
+      "text": "Tesla's a I don't know if it's a good"
+    },
+    {
+      "start": 856,
+      "text": "example it's an example of where you"
+    },
+    {
+      "start": 859,
+      "text": "know Elon had you know when he met with"
+    },
+    {
+      "start": 861,
+      "text": "Tesla for his one or two days a week it"
+    },
+    {
+      "start": 863,
+      "text": "was like 12 meetings in a day and like"
+    },
+    {
+      "start": 865,
+      "text": "every hour some different technical team"
+    },
+    {
+      "start": 867,
+      "text": "would come in and like walk through"
+    },
+    {
+      "start": 869,
+      "text": "here's what's going on here's the"
+    },
+    {
+      "start": 870,
+      "text": "challenges what should we do boss right"
+    },
+    {
+      "start": 873,
+      "text": "and he would be making calls on like how"
+    },
+    {
+      "start": 875,
+      "text": "electronic sourcing and then we'd be"
+    },
+    {
+      "start": 877,
+      "text": "making calls on like wind tunnel design"
+    },
+    {
+      "start": 880,
+      "text": "optimization they'd be making calls on"
+    },
+    {
+      "start": 882,
+      "text": "on a whole bunch of different aspects of"
+    },
+    {
+      "start": 883,
+      "text": "the business not suggesting that's what"
+    },
+    {
+      "start": 886,
+      "text": "every company should do and that is not"
+    },
+    {
+      "start": 888,
+      "text": "what we're going to be doing but I think"
+    },
+    {
+      "start": 890,
+      "text": "it does show you that it's not like one"
+    },
+    {
+      "start": 893,
+      "text": "or the other you can exist as a large"
+    },
+    {
+      "start": 895,
+      "text": "company in founder mode you can exist in"
+    },
+    {
+      "start": 898,
+      "text": "manager mode for us you know we're much"
+    },
+    {
+      "start": 901,
+      "text": "more towards fure mode and probably will"
+    },
+    {
+      "start": 905,
+      "text": "stay that way for as long as we to"
+    },
+    {
+      "start": 908,
+      "text": "really understand the technical details"
+    },
+    {
+      "start": 911,
+      "text": "which as far as I'm concerned doesn't"
+    },
+    {
+      "start": 913,
+      "text": "end actually the advice I would give to"
+    },
+    {
+      "start": 916,
+      "text": "people trying to create their own"
+    },
+    {
+      "start": 917,
+      "text": "company really work in the field a"
+    },
+    {
+      "start": 920,
+      "text": "little bit right work in the field you"
+    },
+    {
+      "start": 922,
+      "text": "think you have an idea for some new"
+    },
+    {
+      "start": 925,
+      "text": "service or product work in that field"
+    },
+    {
+      "start": 927,
+      "text": "and get insight that's something I got"
+    },
+    {
+      "start": 930,
+      "text": "out of my Stanford experience you maybe"
+    },
+    {
+      "start": 933,
+      "text": "you have an idea of what's really"
+    },
+    {
+      "start": 934,
+      "text": "valuable and useful as a product but the"
+    },
+    {
+      "start": 937,
+      "text": "best approach to creating value is first"
+    },
+    {
+      "start": 939,
+      "text": "that you get insight into what the"
+    },
+    {
+      "start": 942,
+      "text": "problem is the reason walty and I"
+    },
+    {
+      "start": 944,
+      "text": "started working together is we met at"
+    },
+    {
+      "start": 946,
+      "text": "the uh the model 3 production ramp and"
+    },
+    {
+      "start": 949,
+      "text": "we were customers of the systems that"
+    },
+    {
+      "start": 951,
+      "text": "were there manufacturing and Logistics"
+    },
+    {
+      "start": 954,
+      "text": "and material flow systems that were on"
+    },
+    {
+      "start": 955,
+      "text": "the system that were in production we"
+    },
+    {
+      "start": 958,
+      "text": "met there and we experienced Insight we"
+    },
+    {
+      "start": 961,
+      "text": "saw what the problem really is people go"
+    },
+    {
+      "start": 963,
+      "text": "hey add more automation add more"
+    },
+    {
+      "start": 966,
+      "text": "technology here fine okay but the"
+    },
+    {
+      "start": 969,
+      "text": "Insight that we got that the fundamental"
+    },
+    {
+      "start": 971,
+      "text": "problem that needed to be solved is"
+    },
+    {
+      "start": 974,
+      "text": "moving the material without you"
+    },
+    {
+      "start": 976,
+      "text": "experiencing it for firsthand you miss"
+    },
+    {
+      "start": 979,
+      "text": "it you think oh I'm going to work on"
+    },
+    {
+      "start": 981,
+      "text": "Warehouse robotics you're going to build"
+    },
+    {
+      "start": 983,
+      "text": "this nice you know articulated arm it's"
+    },
+    {
+      "start": 985,
+      "text": "going to look nice and neat and great"
+    },
+    {
+      "start": 988,
+      "text": "are you really really solving it no and"
+    },
+    {
+      "start": 990,
+      "text": "the reason you're not solving it is"
+    },
+    {
+      "start": 992,
+      "text": "because you lack the insight into what"
+    },
+    {
+      "start": 994,
+      "text": "the fundamental problem is for us it was"
+    },
+    {
+      "start": 998,
+      "text": "oh the thing that would unlock"
+    },
+    {
+      "start": 999,
+      "text": "manufacturing is to move the material"
+    },
+    {
+      "start": 1002,
+      "text": "efficiently without stopping in a very"
+    },
+    {
+      "start": 1004,
+      "text": "reliable Safe Way You Move it in that"
+    },
+    {
+      "start": 1007,
+      "text": "way figure out a way to do it and it"
+    },
+    {
+      "start": 1009,
+      "text": "would unlock value for you in"
+    },
+    {
+      "start": 1011,
+      "text": "manufacturing without that Insight I"
+    },
+    {
+      "start": 1014,
+      "text": "think you're you would be on a long path"
+    },
+    {
+      "start": 1016,
+      "text": "so my advice would be get immersed in"
+    },
+    {
+      "start": 1019,
+      "text": "the problem Firs head and then try to"
+    },
+    {
+      "start": 1021,
+      "text": "come up with a solution I'll give you"
+    },
+    {
+      "start": 1023,
+      "text": "another very practical example today"
+    },
+    {
+      "start": 1026,
+      "text": "everybody in the company today everyone"
+    },
+    {
+      "start": 1029,
+      "text": "almost no exception has to work in the"
+    },
+    {
+      "start": 1032,
+      "text": "warehouse using our system interacting"
+    },
+    {
+      "start": 1035,
+      "text": "with the warehouse operators at our"
+    },
+    {
+      "start": 1037,
+      "text": "customer site everyone even web"
+    },
+    {
+      "start": 1040,
+      "text": "developers uh marketing everybody has to"
+    },
+    {
+      "start": 1043,
+      "text": "do it and the reason we did that is from"
+    },
+    {
+      "start": 1046,
+      "text": "my experience when I was at Tesla and"
+    },
+    {
+      "start": 1047,
+      "text": "building the software that I told you"
+    },
+    {
+      "start": 1049,
+      "text": "about it the software for the uh the"
+    },
+    {
+      "start": 1052,
+      "text": "g410 the way I built the software is I"
+    },
+    {
+      "start": 1055,
+      "text": "went to the line and I started working"
+    },
+    {
+      "start": 1056,
+      "text": "on the cars I started you know putting"
+    },
+    {
+      "start": 1059,
+      "text": "volts head and talking Fasteners and the"
+    },
+    {
+      "start": 1062,
+      "text": "hood on the model 3 and I experienced"
+    },
+    {
+      "start": 1065,
+      "text": "what the operator was experienc what"
+    },
+    {
+      "start": 1067,
+      "text": "kind of software was needed what did I"
+    },
+    {
+      "start": 1069,
+      "text": "need to finish my job pop and then I"
+    },
+    {
+      "start": 1072,
+      "text": "built that software and that software"
+    },
+    {
+      "start": 1075,
+      "text": "infected everywhere that gule that is"
+    },
+    {
+      "start": 1078,
+      "text": "the Insight that you need to get before"
+    },
+    {
+      "start": 1081,
+      "text": "you can say oh I'm going to build a new"
+    },
+    {
+      "start": 1083,
+      "text": "manufacturing software first work as a"
+    },
+    {
+      "start": 1088,
+      "text": "user of that supposed system or product"
+    },
+    {
+      "start": 1090,
+      "text": "that you're trying to create get deep"
+    },
+    {
+      "start": 1092,
+      "text": "Insight so you fundamentally understand"
+    },
+    {
+      "start": 1094,
+      "text": "what is the thing that you're trying to"
+    },
+    {
+      "start": 1096,
+      "text": "create what is the value that you're"
+    },
+    {
+      "start": 1097,
+      "text": "trying to create and then go okay I have"
+    },
+    {
+      "start": 1099,
+      "text": "enough Insight that I know so much about"
+    },
+    {
+      "start": 1102,
+      "text": "this I understand it at a basic"
+    },
+    {
+      "start": 1104,
+      "text": "fundamental level now you can come up"
+    },
+    {
+      "start": 1106,
+      "text": "with the new value creation after that I"
+    },
+    {
+      "start": 1109,
+      "text": "think that's the best advice I could"
+    },
+    {
+      "start": 1111,
+      "text": "give before somebody says I want to go"
+    },
+    {
+      "start": 1112,
+      "text": "and build Hardware there are many little"
+    },
+    {
+      "start": 1116,
+      "text": "tiny startups that have YouTube videos"
+    },
+    {
+      "start": 1118,
+      "text": "or videos that that have amazing"
+    },
+    {
+      "start": 1120,
+      "text": "wonderful devices and you go but what is"
+    },
+    {
+      "start": 1122,
+      "text": "it solving is it practical are you"
+    },
+    {
+      "start": 1124,
+      "text": "solving a problem it's because they did"
+    },
+    {
+      "start": 1127,
+      "text": "the shortcut they said I'm going to"
+    },
+    {
+      "start": 1128,
+      "text": "build something that looks cooler great"
+    },
+    {
+      "start": 1130,
+      "text": "go build it but you're not really"
+    },
+    {
+      "start": 1131,
+      "text": "solving the thing you need to go and"
+    },
+    {
+      "start": 1134,
+      "text": "immerse yourself get insight and that's"
+    },
+    {
+      "start": 1136,
+      "text": "why we have everybody here at the"
+    },
+    {
+      "start": 1138,
+      "text": "company work at the warehouse with our"
+    },
+    {
+      "start": 1141,
+      "text": "customers and so when they come and"
+    },
+    {
+      "start": 1143,
+      "text": "build a solution they build it as a"
+    },
+    {
+      "start": 1145,
+      "text": "warehouse operator they go oh I'm a"
+    },
+    {
+      "start": 1147,
+      "text": "warehouse operator who happens to know"
+    },
+    {
+      "start": 1149,
+      "text": "how to build applications how to build"
+    },
+    {
+      "start": 1151,
+      "text": "robotics you know here's how I would"
+    },
+    {
+      "start": 1152,
+      "text": "build it for me that's the best way to"
+    },
+    {
+      "start": 1155,
+      "text": "build"
+    },
+    {
+      "start": 1158,
+      "text": "products I mean if you look across the"
+    },
+    {
+      "start": 1160,
+      "text": "tech Spectrum most companies and you"
+    },
+    {
+      "start": 1163,
+      "text": "know Andre's famous quote heart software"
+    },
+    {
+      "start": 1165,
+      "text": "will basically eat the world is very"
+    },
+    {
+      "start": 1167,
+      "text": "true I think you know when you look at"
+    },
+    {
+      "start": 1169,
+      "text": "the economy you realize that 85% of the"
+    },
+    {
+      "start": 1173,
+      "text": "economy or GDP is driven by physical"
+    },
+    {
+      "start": 1176,
+      "text": "Industries physical problems 90% of the"
+    },
+    {
+      "start": 1179,
+      "text": "value in the tech economy has been"
+    },
+    {
+      "start": 1181,
+      "text": "created by mostos software there's a"
+    },
+    {
+      "start": 1183,
+      "text": "huge discrepancy so when we look at the"
+    },
+    {
+      "start": 1186,
+      "text": "problems yet to be solved that haven't"
+    },
+    {
+      "start": 1188,
+      "text": "really been touched by software they all"
+    },
+    {
+      "start": 1190,
+      "text": "involve some sort of actuation or"
+    },
+    {
+      "start": 1193,
+      "text": "manipulation of the physical world iot"
+    },
+    {
+      "start": 1196,
+      "text": "Internet of Things has been around for"
+    },
+    {
+      "start": 1198,
+      "text": "few decades and that starts to solve"
+    },
+    {
+      "start": 1201,
+      "text": "some of the problems around Hardware it"
+    },
+    {
+      "start": 1203,
+      "text": "gives you signal back from the physical"
+    },
+    {
+      "start": 1206,
+      "text": "environment into some sort of brain or"
+    },
+    {
+      "start": 1208,
+      "text": "software but ultimately the actuation of"
+    },
+    {
+      "start": 1211,
+      "text": "that requires people or something else"
+    },
+    {
+      "start": 1213,
+      "text": "but when you think of Robotics as"
+    },
+    {
+      "start": 1215,
+      "text": "applied to the physical world that"
+    },
+    {
+      "start": 1217,
+      "text": "closes the loop like I can build an"
+    },
+    {
+      "start": 1219,
+      "text": "actuator a thing to move a physical item"
+    },
+    {
+      "start": 1222,
+      "text": "up down left right that's hardware and"
+    },
+    {
+      "start": 1225,
+      "text": "the combination of that actuation Clos"
+    },
+    {
+      "start": 1227,
+      "text": "in the loop along with the software"
+    },
+    {
+      "start": 1229,
+      "text": "capabilities that can be applied to it"
+    },
+    {
+      "start": 1231,
+      "text": "there's a ton of potential there right"
+    },
+    {
+      "start": 1233,
+      "text": "this is the next Frontier the next"
+    },
+    {
+      "start": 1235,
+      "text": "several decades you know you look around"
+    },
+    {
+      "start": 1237,
+      "text": "you and you see look at all the"
+    },
+    {
+      "start": 1239,
+      "text": "inefficiencies in the world you look at"
+    },
+    {
+      "start": 1241,
+      "text": "how the trash is picked up you look at"
+    },
+    {
+      "start": 1242,
+      "text": "how houses and buildings are constructed"
+    },
+    {
+      "start": 1244,
+      "text": "you look at how telephone cable is laid"
+    },
+    {
+      "start": 1246,
+      "text": "you look at how physical Goods must be"
+    },
+    {
+      "start": 1250,
+      "text": "you know manufactured and there's a lot"
+    },
+    {
+      "start": 1252,
+      "text": "of opportunity for for software applied"
+    },
+    {
+      "start": 1256,
+      "text": "to the physical world and that's why all"
+    },
+    {
+      "start": 1258,
+      "text": "of of us here at mitro we're super"
+    },
+    {
+      "start": 1260,
+      "text": "passionate about software fly to the"
+    },
+    {
+      "start": 1261,
+      "text": "physical world and that comes in the"
+    },
+    {
+      "start": 1263,
+      "text": "form of Robotics and that is a that is a"
+    },
+    {
+      "start": 1266,
+      "text": "hardware hardware company the second"
+    },
+    {
+      "start": 1268,
+      "text": "reason why Hardware is is perhaps more"
+    },
+    {
+      "start": 1270,
+      "text": "exciting today than it might have been a"
+    },
+    {
+      "start": 1272,
+      "text": "few decades ago you know when you think"
+    },
+    {
+      "start": 1274,
+      "text": "of Hardware you think of silicon like"
+    },
+    {
+      "start": 1276,
+      "text": "making silicon ships that was really you"
+    },
+    {
+      "start": 1278,
+      "text": "know most of the hardware opportunity"
+    },
+    {
+      "start": 1280,
+      "text": "but companies like Tesla and SpaceX have"
+    },
+    {
+      "start": 1283,
+      "text": "come along and they said look these are"
+    },
+    {
+      "start": 1285,
+      "text": "Legacy Industries the script has been WR"
+    },
+    {
+      "start": 1288,
+      "text": "for how to build Automotive vehicles and"
+    },
+    {
+      "start": 1290,
+      "text": "what margins for for decades and Tesla's"
+    },
+    {
+      "start": 1293,
+      "text": "coming and saying we're going to do it"
+    },
+    {
+      "start": 1295,
+      "text": "differently everyone told you know Elon"
+    },
+    {
+      "start": 1298,
+      "text": "and Company they're crazy for doing this"
+    },
+    {
+      "start": 1300,
+      "text": "there's very low probability for Success"
+    },
+    {
+      "start": 1302,
+      "text": "there's lots and lots of ways that this"
+    },
+    {
+      "start": 1303,
+      "text": "go poorly for them but built an"
+    },
+    {
+      "start": 1305,
+      "text": "architecture that's significantly"
+    },
+    {
+      "start": 1307,
+      "text": "simpler 10x simpler or more than the"
+    },
+    {
+      "start": 1310,
+      "text": "existing products right there's bar your"
+    },
+    {
+      "start": 1312,
+      "text": "parts and shown that you can disrupt"
+    },
+    {
+      "start": 1315,
+      "text": "some of these industries it's hard"
+    },
+    {
+      "start": 1318,
+      "text": "Hardware's hard but if done successfully"
+    },
+    {
+      "start": 1321,
+      "text": "and done correctly there's huge"
+    },
+    {
+      "start": 1322,
+      "text": "opportunity to make meaningful advances"
+    },
+    {
+      "start": 1325,
+      "text": "in building you know electric"
+    },
+    {
+      "start": 1327,
+      "text": "vehicles is for some people it's much"
+    },
+    {
+      "start": 1330,
+      "text": "more rewarding than you know optimizing"
+    },
+    {
+      "start": 1332,
+      "text": "some age on a on a website or or"
+    },
+    {
+      "start": 1335,
+      "text": "increasing ad spend by 5% or something"
+    },
+    {
+      "start": 1338,
+      "text": "like that so there's been a bit of a"
+    },
+    {
+      "start": 1340,
+      "text": "blueprint in a Playbook that says you"
+    },
+    {
+      "start": 1343,
+      "text": "can disrupt very large Industries"
+    },
+    {
+      "start": 1345,
+      "text": "through Hardware uh through some of the"
+    },
+    {
+      "start": 1347,
+      "text": "more modern successes like you know"
+    },
+    {
+      "start": 1349,
+      "text": "Tesla WD rivan SpaceX andal couple balls"
+    },
+    {
+      "start": 1353,
+      "text": "like that"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 580,
+  "timestamp": "2025-07-24T08:25:15.795Z"
+}

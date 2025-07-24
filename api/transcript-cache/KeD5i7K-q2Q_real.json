@@ -1,0 +1,1450 @@
+{
+  "success": true,
+  "videoId": "KeD5i7K-q2Q",
+  "videoTitle": "Everyone's Chasing AI But This Matters The Most ｜ Ron Gutman, Intrivo",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "The most uh profound experience that I"
+    },
+    {
+      "start": 2,
+      "text": "had in my career uh in healthcare and"
+    },
+    {
+      "start": 5,
+      "text": "one that I consider my most important"
+    },
+    {
+      "start": 7,
+      "text": "accomplishment was uh in in my previous"
+    },
+    {
+      "start": 10,
+      "text": "venture to to get more than 25,000 notes"
+    },
+    {
+      "start": 12,
+      "text": "from people saying thank you for saving"
+    },
+    {
+      "start": 14,
+      "text": "my life. I mean the the really like"
+    },
+    {
+      "start": 17,
+      "text": "amazing it was profound. I mean like"
+    },
+    {
+      "start": 19,
+      "text": "it's you know from somebody who's uh who"
+    },
+    {
+      "start": 22,
+      "text": "had dreams as a child as a you know a"
+    },
+    {
+      "start": 24,
+      "text": "computer geek to to build things that"
+    },
+    {
+      "start": 26,
+      "text": "that have some impact to to really get"
+    },
+    {
+      "start": 28,
+      "text": "you know tens of thousands of notes for"
+    },
+    {
+      "start": 30,
+      "text": "people saying thank you for saving my"
+    },
+    {
+      "start": 32,
+      "text": "life is something that uh you know"
+    },
+    {
+      "start": 36,
+      "text": "it's bringing me to tears right now just"
+    },
+    {
+      "start": 37,
+      "text": "to talk about this right I mean it's"
+    },
+    {
+      "start": 39,
+      "text": "it's it's really like I getting I'm"
+    },
+    {
+      "start": 41,
+      "text": "getting goosebumps and and I think that"
+    },
+    {
+      "start": 42,
+      "text": "like the the it's it's just it just it"
+    },
+    {
+      "start": 46,
+      "text": "really is special always do what you"
+    },
+    {
+      "start": 48,
+      "text": "love."
+    },
+    {
+      "start": 50,
+      "text": "Always do what you love, right? Like,"
+    },
+    {
+      "start": 52,
+      "text": "start by doing what you love. I mean, a"
+    },
+    {
+      "start": 53,
+      "text": "lot of people choose to do things"
+    },
+    {
+      "start": 55,
+      "text": "because they're cool, uh, because"
+    },
+    {
+      "start": 57,
+      "text": "they're going to make a lot of money,"
+    },
+    {
+      "start": 59,
+      "text": "uh, because it's fashionable, uh,"
+    },
+    {
+      "start": 61,
+      "text": "because somebody told them to do that,"
+    },
+    {
+      "start": 63,
+      "text": "because other people are doing that,"
+    },
+    {
+      "start": 64,
+      "text": "right? Like a lot of reasons. Just don't"
+    },
+    {
+      "start": 67,
+      "text": "like go into where your heart is, right?"
+    },
+    {
+      "start": 71,
+      "text": "Like do things that you love. Why?"
+    },
+    {
+      "start": 73,
+      "text": "Because when you do thing that you love,"
+    },
+    {
+      "start": 74,
+      "text": "it doesn't feel like work and you're"
+    },
+    {
+      "start": 76,
+      "text": "going to become a lot more successful"
+    },
+    {
+      "start": 78,
+      "text": "and happier most importantly. It's not"
+    },
+    {
+      "start": 80,
+      "text": "just about success. You want to be happy"
+    },
+    {
+      "start": 82,
+      "text": "in your life. So follow your real"
+    },
+    {
+      "start": 84,
+      "text": "passion and then everything else will"
+    },
+    {
+      "start": 86,
+      "text": "follow like the the money, the fame, the"
+    },
+    {
+      "start": 88,
+      "text": "whatever you want to do when you do"
+    },
+    {
+      "start": 90,
+      "text": "things you love, they will come."
+    },
+    {
+      "start": 92,
+      "text": "[Music]"
+    },
+    {
+      "start": 97,
+      "text": "Okay. Nice to meet you. Uh my name is"
+    },
+    {
+      "start": 99,
+      "text": "Ron Goodman. and uh co-founder and CEO"
+    },
+    {
+      "start": 102,
+      "text": "of uh Intrivo. We really like at the"
+    },
+    {
+      "start": 105,
+      "text": "beginning of Invo the the vision was to"
+    },
+    {
+      "start": 107,
+      "text": "to bring health and care to you where"
+    },
+    {
+      "start": 109,
+      "text": "you are. Now when the pandemic started"
+    },
+    {
+      "start": 111,
+      "text": "we tried to see where we can apply this"
+    },
+    {
+      "start": 114,
+      "text": "to actually help resolve the pandemic"
+    },
+    {
+      "start": 116,
+      "text": "and then we start solving the challenge"
+    },
+    {
+      "start": 118,
+      "text": "of how do we bring efficient testing to"
+    },
+    {
+      "start": 120,
+      "text": "use. So initially testing if you"
+    },
+    {
+      "start": 122,
+      "text": "remember was a terrible user experience."
+    },
+    {
+      "start": 125,
+      "text": "We created this technology platform that"
+    },
+    {
+      "start": 128,
+      "text": "enable us to manage the entire supply"
+    },
+    {
+      "start": 129,
+      "text": "chain. And I really would like to be"
+    },
+    {
+      "start": 132,
+      "text": "part of creating a solution like that"
+    },
+    {
+      "start": 134,
+      "text": "that will change the way we manage our"
+    },
+    {
+      "start": 136,
+      "text": "health and well-being in ways that were"
+    },
+    {
+      "start": 138,
+      "text": "just not possible before. And I think AI"
+    },
+    {
+      "start": 140,
+      "text": "has a a great opportunity to be the"
+    },
+    {
+      "start": 143,
+      "text": "foundation for that. And I'm looking"
+    },
+    {
+      "start": 144,
+      "text": "forward to the next chapter of uh you"
+    },
+    {
+      "start": 147,
+      "text": "know how humanity managing not only"
+    },
+    {
+      "start": 149,
+      "text": "health and well-being but happiness as"
+    },
+    {
+      "start": 151,
+      "text": "well because I want more people to smile"
+    },
+    {
+      "start": 153,
+      "text": "a lot more often."
+    },
+    {
+      "start": 156,
+      "text": "[Music]"
+    },
+    {
+      "start": 161,
+      "text": "The whole idea of helping other people"
+    },
+    {
+      "start": 163,
+      "text": "uh came from home. My mom uh raised me"
+    },
+    {
+      "start": 166,
+      "text": "with the the notion of tikun lam"
+    },
+    {
+      "start": 169,
+      "text": "which is an ancient uh part of Jewish"
+    },
+    {
+      "start": 172,
+      "text": "philosophy and tikunol lam means in"
+    },
+    {
+      "start": 174,
+      "text": "English very simply fixing the world."
+    },
+    {
+      "start": 179,
+      "text": "What does fixing the world mean? My mom"
+    },
+    {
+      "start": 181,
+      "text": "used to explain that fixing the world is"
+    },
+    {
+      "start": 183,
+      "text": "something that is important for me to"
+    },
+    {
+      "start": 184,
+      "text": "engage in just because the world needs"
+    },
+    {
+      "start": 186,
+      "text": "fixing. It doesn't need to give me"
+    },
+    {
+      "start": 189,
+      "text": "anything. It doesn't need to have a"
+    },
+    {
+      "start": 190,
+      "text": "reason for it. But because things are"
+    },
+    {
+      "start": 193,
+      "text": "not the way they should be and I have"
+    },
+    {
+      "start": 195,
+      "text": "the ability to make a positive influence"
+    },
+    {
+      "start": 197,
+      "text": "with them, I should do it. And think"
+    },
+    {
+      "start": 198,
+      "text": "about it. If everybody thought this way"
+    },
+    {
+      "start": 200,
+      "text": "and pay it forward without even needing"
+    },
+    {
+      "start": 202,
+      "text": "to get anything, our world will look"
+    },
+    {
+      "start": 204,
+      "text": "such a better place. Every single day I"
+    },
+    {
+      "start": 208,
+      "text": "do things that help other people improve"
+    },
+    {
+      "start": 211,
+      "text": "their lives, improve their health and"
+    },
+    {
+      "start": 213,
+      "text": "well-being. Some of these uh really"
+    },
+    {
+      "start": 215,
+      "text": "important lessons that I've learned. Uh"
+    },
+    {
+      "start": 218,
+      "text": "first and foremost was traveling,"
+    },
+    {
+      "start": 219,
+      "text": "traveling around the world. So I I I"
+    },
+    {
+      "start": 221,
+      "text": "love travel. I love meeting people all"
+    },
+    {
+      "start": 223,
+      "text": "over the world. I made it a point to"
+    },
+    {
+      "start": 225,
+      "text": "meet people where they are and go and"
+    },
+    {
+      "start": 228,
+      "text": "stay where they stay, eat where they"
+    },
+    {
+      "start": 230,
+      "text": "eat, travel how they travel, volunteer"
+    },
+    {
+      "start": 233,
+      "text": "as much as I could. And when I did that,"
+    },
+    {
+      "start": 235,
+      "text": "I learned a lot from them and that"
+    },
+    {
+      "start": 237,
+      "text": "helped shape me as an entrepreneur"
+    },
+    {
+      "start": 239,
+      "text": "because when you build solutions that"
+    },
+    {
+      "start": 241,
+      "text": "are global solution, you need to"
+    },
+    {
+      "start": 242,
+      "text": "understand the world. And understanding"
+    },
+    {
+      "start": 244,
+      "text": "the world is not enough to just do"
+    },
+    {
+      "start": 245,
+      "text": "internet research. I believe you need to"
+    },
+    {
+      "start": 247,
+      "text": "meet the people and need to see them"
+    },
+    {
+      "start": 249,
+      "text": "where they are. Understand all people"
+    },
+    {
+      "start": 251,
+      "text": "are people and and all humans are very"
+    },
+    {
+      "start": 254,
+      "text": "much similar but they have nuances and"
+    },
+    {
+      "start": 256,
+      "text": "if you understand these nuances and you"
+    },
+    {
+      "start": 258,
+      "text": "understand different approach approaches"
+    },
+    {
+      "start": 260,
+      "text": "to solving problems it creates for you a"
+    },
+    {
+      "start": 262,
+      "text": "toolkit that is a lot richer when you"
+    },
+    {
+      "start": 265,
+      "text": "tackle some of these challenges to not"
+    },
+    {
+      "start": 267,
+      "text": "just look at it the way all of us look"
+    },
+    {
+      "start": 268,
+      "text": "at a certain thing but find different"
+    },
+    {
+      "start": 270,
+      "text": "angles that may be more applicable for"
+    },
+    {
+      "start": 273,
+      "text": "particular challenges than the tools"
+    },
+    {
+      "start": 275,
+      "text": "that you have in your regular toolkit."
+    },
+    {
+      "start": 276,
+      "text": "So one uh was definitely travel and and"
+    },
+    {
+      "start": 278,
+      "text": "and I recommend uh people to do that and"
+    },
+    {
+      "start": 281,
+      "text": "particularly meet a lot of people doing"
+    },
+    {
+      "start": 282,
+      "text": "that"
+    },
+    {
+      "start": 290,
+      "text": "[Music]"
+    },
+    {
+      "start": 295,
+      "text": "being in the valley in a time that was"
+    },
+    {
+      "start": 296,
+      "text": "you know post the the dot crash actually"
+    },
+    {
+      "start": 299,
+      "text": "when most people left here and just a"
+    },
+    {
+      "start": 302,
+      "text": "handful of people uh remained that were"
+    },
+    {
+      "start": 304,
+      "text": "very very passionate about building"
+    },
+    {
+      "start": 305,
+      "text": "businesses. And and some of these people"
+    },
+    {
+      "start": 307,
+      "text": "that were very very early in their"
+    },
+    {
+      "start": 309,
+      "text": "career back then are some of the most"
+    },
+    {
+      "start": 311,
+      "text": "successful entrepreneurs of our time"
+    },
+    {
+      "start": 313,
+      "text": "today. But the people who really stayed"
+    },
+    {
+      "start": 315,
+      "text": "here stayed because they were passionate"
+    },
+    {
+      "start": 316,
+      "text": "about building things that actually make"
+    },
+    {
+      "start": 318,
+      "text": "a difference and change the world. and"
+    },
+    {
+      "start": 320,
+      "text": "having long conversations with them, you"
+    },
+    {
+      "start": 323,
+      "text": "know, early early in their career about"
+    },
+    {
+      "start": 325,
+      "text": "how they think about building companies,"
+    },
+    {
+      "start": 328,
+      "text": "how they think about building teams uh"
+    },
+    {
+      "start": 331,
+      "text": "very early uh in the TED community for"
+    },
+    {
+      "start": 334,
+      "text": "example uh the the TED conference before"
+    },
+    {
+      "start": 336,
+      "text": "there was even TED X before there were"
+    },
+    {
+      "start": 337,
+      "text": "like a million conferences before there"
+    },
+    {
+      "start": 339,
+      "text": "was even a website I used to go to to"
+    },
+    {
+      "start": 341,
+      "text": "Mterrey it was like we used to go a"
+    },
+    {
+      "start": 343,
+      "text": "bunch of people from Silicon Valley uh"
+    },
+    {
+      "start": 345,
+      "text": "to to Monterey every year and and it was"
+    },
+    {
+      "start": 348,
+      "text": "a small handful of people that got It"
+    },
+    {
+      "start": 350,
+      "text": "was all the people that started the most"
+    },
+    {
+      "start": 351,
+      "text": "successful companies that you know in"
+    },
+    {
+      "start": 353,
+      "text": "the world right now. It was back then."
+    },
+    {
+      "start": 354,
+      "text": "And we, you know, we would go and hear"
+    },
+    {
+      "start": 356,
+      "text": "some talks and then at night we'd spend"
+    },
+    {
+      "start": 358,
+      "text": "until 2, three or 4:00 in the morning"
+    },
+    {
+      "start": 360,
+      "text": "just hanging out, chatting, talking"
+    },
+    {
+      "start": 363,
+      "text": "about our challenges, you know, figuring"
+    },
+    {
+      "start": 365,
+      "text": "out what to do. And I think that was"
+    },
+    {
+      "start": 366,
+      "text": "amazingly amazingly important in shaping"
+    },
+    {
+      "start": 369,
+      "text": "how all of us thought about doing"
+    },
+    {
+      "start": 371,
+      "text": "certain things. Just interacting with"
+    },
+    {
+      "start": 373,
+      "text": "one another, working with some of them"
+    },
+    {
+      "start": 375,
+      "text": "that were more accomplished and already"
+    },
+    {
+      "start": 376,
+      "text": "had, you know, some success. Some of"
+    },
+    {
+      "start": 378,
+      "text": "them it was their first time of doing"
+    },
+    {
+      "start": 379,
+      "text": "this but it doesn't matter. The the"
+    },
+    {
+      "start": 381,
+      "text": "sharing was very important. So we did"
+    },
+    {
+      "start": 383,
+      "text": "that at TED. We did it in the early days"
+    },
+    {
+      "start": 385,
+      "text": "of South by Southwest when it was mostly"
+    },
+    {
+      "start": 388,
+      "text": "a music festival that was a tiny little"
+    },
+    {
+      "start": 390,
+      "text": "interactive section to it. There was a"
+    },
+    {
+      "start": 393,
+      "text": "couple hundred people or whatever the"
+    },
+    {
+      "start": 394,
+      "text": "number was back then. And the same thing"
+    },
+    {
+      "start": 396,
+      "text": "we used to go there every year and and"
+    },
+    {
+      "start": 398,
+      "text": "just hang out with each other and and"
+    },
+    {
+      "start": 400,
+      "text": "chat about it."
+    },
+    {
+      "start": 406,
+      "text": "[Music]"
+    },
+    {
+      "start": 414,
+      "text": "It's really really great to be here and"
+    },
+    {
+      "start": 416,
+      "text": "I I really want to say before I start"
+    },
+    {
+      "start": 417,
+      "text": "talking about that Silicon Valley I"
+    },
+    {
+      "start": 419,
+      "text": "really want to say that this is this is"
+    },
+    {
+      "start": 421,
+      "text": "not a community this is a movement I"
+    },
+    {
+      "start": 424,
+      "text": "mean seriously I want to give a huge"
+    },
+    {
+      "start": 425,
+      "text": "hand to Lara and Salomi like from"
+    },
+    {
+      "start": 428,
+      "text": "everyone like it's it's just"
+    },
+    {
+      "start": 431,
+      "text": "it's unbelievable it's so powerful We're"
+    },
+    {
+      "start": 434,
+      "text": "talking about collaboration. We're"
+    },
+    {
+      "start": 435,
+      "text": "talking about what we how can we"
+    },
+    {
+      "start": 436,
+      "text": "leverage the learning that everyone here"
+    },
+    {
+      "start": 439,
+      "text": "has achieved by putting together these"
+    },
+    {
+      "start": 440,
+      "text": "amazing events in universities, in"
+    },
+    {
+      "start": 443,
+      "text": "cities and everything and exchange this"
+    },
+    {
+      "start": 445,
+      "text": "information, share it together and"
+    },
+    {
+      "start": 446,
+      "text": "talking with Lara about trying to create"
+    },
+    {
+      "start": 448,
+      "text": "a platform that will make it very easy"
+    },
+    {
+      "start": 450,
+      "text": "to disseminate this information on an"
+    },
+    {
+      "start": 452,
+      "text": "ongoing basis. You know, you all put"
+    },
+    {
+      "start": 454,
+      "text": "together programs, you all put together"
+    },
+    {
+      "start": 455,
+      "text": "some software or something that helped"
+    },
+    {
+      "start": 458,
+      "text": "you make a better event. And I I felt"
+    },
+    {
+      "start": 460,
+      "text": "putting together TEDx Silicon Valley"
+    },
+    {
+      "start": 462,
+      "text": "that if we could tap into some of that"
+    },
+    {
+      "start": 464,
+      "text": "or if we can share what we've created"
+    },
+    {
+      "start": 466,
+      "text": "with everyone else, it would be"
+    },
+    {
+      "start": 468,
+      "text": "amazingly powerful. So this is something"
+    },
+    {
+      "start": 469,
+      "text": "that uh I'm very excited to help doing"
+    },
+    {
+      "start": 471,
+      "text": "going forward. Uh and and it's really"
+    },
+    {
+      "start": 474,
+      "text": "really uh important to get together in"
+    },
+    {
+      "start": 476,
+      "text": "these gatherings, right, that are"
+    },
+    {
+      "start": 479,
+      "text": "smaller gatherings with people who are"
+    },
+    {
+      "start": 482,
+      "text": "experiencing the same thing that you're"
+    },
+    {
+      "start": 483,
+      "text": "experiencing and share authentically"
+    },
+    {
+      "start": 486,
+      "text": "what you're going through in these long"
+    },
+    {
+      "start": 488,
+      "text": "midnight, you know, conversations, but"
+    },
+    {
+      "start": 491,
+      "text": "also absorb a lot of uh how they're"
+    },
+    {
+      "start": 493,
+      "text": "solving thing and get inspired by that."
+    },
+    {
+      "start": 495,
+      "text": "So that was really awesome."
+    },
+    {
+      "start": 499,
+      "text": "Entrepreneurship"
+    },
+    {
+      "start": 505,
+      "text": "is all about the people. It's all about"
+    },
+    {
+      "start": 507,
+      "text": "you are going to be only as successful"
+    },
+    {
+      "start": 509,
+      "text": "as the people around you. And it's very"
+    },
+    {
+      "start": 511,
+      "text": "important to choose the people that you"
+    },
+    {
+      "start": 513,
+      "text": "don't only think they're the best in"
+    },
+    {
+      "start": 515,
+      "text": "doing what they need to do. And that's"
+    },
+    {
+      "start": 516,
+      "text": "very important as a foundation. Choose"
+    },
+    {
+      "start": 518,
+      "text": "people who have the right skill and"
+    },
+    {
+      "start": 520,
+      "text": "right kind of level of experience to do"
+    },
+    {
+      "start": 523,
+      "text": "what they need to do. but also make sure"
+    },
+    {
+      "start": 525,
+      "text": "that they have the kind of energy right"
+    },
+    {
+      "start": 528,
+      "text": "and the stamina and the kind of"
+    },
+    {
+      "start": 530,
+      "text": "resilience that is required in order to"
+    },
+    {
+      "start": 533,
+      "text": "solve entrepreneurial challenges."
+    },
+    {
+      "start": 534,
+      "text": "Sometimes uh you know I I chose people"
+    },
+    {
+      "start": 537,
+      "text": "who who actually were great and smart"
+    },
+    {
+      "start": 539,
+      "text": "and capable and had great resumes but"
+    },
+    {
+      "start": 542,
+      "text": "you know they did not have this kind of"
+    },
+    {
+      "start": 544,
+      "text": "dynamic and or this kind of character"
+    },
+    {
+      "start": 547,
+      "text": "that would take them through a lot of"
+    },
+    {
+      "start": 549,
+      "text": "ups and downs which entrepreneurship is"
+    },
+    {
+      "start": 551,
+      "text": "has inevitable huge amount of these"
+    },
+    {
+      "start": 553,
+      "text": "things. So think about how to bring"
+    },
+    {
+      "start": 554,
+      "text": "people, communicate to them. Don't"
+    },
+    {
+      "start": 557,
+      "text": "overcommunicate to them something that"
+    },
+    {
+      "start": 558,
+      "text": "like, oh yes, we're going to everything"
+    },
+    {
+      "start": 560,
+      "text": "is going to be great. We're going to"
+    },
+    {
+      "start": 561,
+      "text": "build a huge company. We're going to"
+    },
+    {
+      "start": 562,
+      "text": "change the world. That's great. Get them"
+    },
+    {
+      "start": 563,
+      "text": "inspired, but also be truthful to them."
+    },
+    {
+      "start": 566,
+      "text": "Hey, this journey is going to have ups"
+    },
+    {
+      "start": 568,
+      "text": "and downs. There will be some tough"
+    },
+    {
+      "start": 569,
+      "text": "days. You need to think about that. And"
+    },
+    {
+      "start": 571,
+      "text": "here's what's coming up next. Make sure"
+    },
+    {
+      "start": 573,
+      "text": "that they are the right people. Also,"
+    },
+    {
+      "start": 576,
+      "text": "what's important is that they gel with"
+    },
+    {
+      "start": 577,
+      "text": "each other really well. Choose the right"
+    },
+    {
+      "start": 579,
+      "text": "kind of characters that get along with"
+    },
+    {
+      "start": 582,
+      "text": "each other well, that play well in a"
+    },
+    {
+      "start": 584,
+      "text": "team, right? Unless they're a personal"
+    },
+    {
+      "start": 586,
+      "text": "contributor that really wants to needs"
+    },
+    {
+      "start": 588,
+      "text": "to do one very particular thing and"
+    },
+    {
+      "start": 590,
+      "text": "they're excellent at it and doesn't"
+    },
+    {
+      "start": 591,
+      "text": "require collaboration. That's rare, but"
+    },
+    {
+      "start": 593,
+      "text": "that's sometimes important in things"
+    },
+    {
+      "start": 594,
+      "text": "that you're building. The majority of"
+    },
+    {
+      "start": 596,
+      "text": "people work with each other and teamwork"
+    },
+    {
+      "start": 598,
+      "text": "does make the dream work, right? So you"
+    },
+    {
+      "start": 601,
+      "text": "need to figure out how to choose people"
+    },
+    {
+      "start": 602,
+      "text": "that get not only are great people and"
+    },
+    {
+      "start": 604,
+      "text": "are social, but they get along with each"
+    },
+    {
+      "start": 606,
+      "text": "other really really well, right? And and"
+    },
+    {
+      "start": 609,
+      "text": "so that's that's a very very important"
+    },
+    {
+      "start": 611,
+      "text": "thing. And eventually people that really"
+    },
+    {
+      "start": 614,
+      "text": "resonate with the mission. I learned in"
+    },
+    {
+      "start": 616,
+      "text": "my life that it's important to have"
+    },
+    {
+      "start": 618,
+      "text": "missionaries and not mercenaries. Right?"
+    },
+    {
+      "start": 620,
+      "text": "There's some people who are really good"
+    },
+    {
+      "start": 622,
+      "text": "in what they're doing, but they're just"
+    },
+    {
+      "start": 623,
+      "text": "there for the paycheck and they do what"
+    },
+    {
+      "start": 625,
+      "text": "they need to do and they're done. Right?"
+    },
+    {
+      "start": 627,
+      "text": "I think the best way to identify if"
+    },
+    {
+      "start": 629,
+      "text": "somebody truly uh buys into a mission is"
+    },
+    {
+      "start": 633,
+      "text": "to have a deep conversation with them"
+    },
+    {
+      "start": 635,
+      "text": "that is situational. Don't just ask them"
+    },
+    {
+      "start": 637,
+      "text": "to talk in generalities about uh the"
+    },
+    {
+      "start": 640,
+      "text": "mission itself. Like it's everybody can"
+    },
+    {
+      "start": 642,
+      "text": "say, \"Oh yeah, yeah, I really want to"
+    },
+    {
+      "start": 644,
+      "text": "help hundreds of millions or billions of"
+    },
+    {
+      "start": 646,
+      "text": "people live a healthier life.\" I mean"
+    },
+    {
+      "start": 647,
+      "text": "that's a very easy sentence to practice"
+    },
+    {
+      "start": 650,
+      "text": "at home in a job interview and and then"
+    },
+    {
+      "start": 652,
+      "text": "you know site it back. The best way to"
+    },
+    {
+      "start": 654,
+      "text": "tackle this is to ask them how they"
+    },
+    {
+      "start": 656,
+      "text": "practiced this uh this kind of mission,"
+    },
+    {
+      "start": 660,
+      "text": "this kind of uh world, this kind of"
+    },
+    {
+      "start": 663,
+      "text": "living, this kind of philosophy in their"
+    },
+    {
+      "start": 665,
+      "text": "own life in the past, right? So, so to"
+    },
+    {
+      "start": 668,
+      "text": "give you examples, right, of why they"
+    },
+    {
+      "start": 672,
+      "text": "actually resonate with that mission or"
+    },
+    {
+      "start": 675,
+      "text": "how they resonate with that mission, but"
+    },
+    {
+      "start": 676,
+      "text": "things that they did, not just things"
+    },
+    {
+      "start": 678,
+      "text": "that they're thinking about, right?"
+    },
+    {
+      "start": 680,
+      "text": "Right? And even if it's small things,"
+    },
+    {
+      "start": 681,
+      "text": "you know, some people want to help a"
+    },
+    {
+      "start": 683,
+      "text": "billion people and it's, you know, it's"
+    },
+    {
+      "start": 685,
+      "text": "it's daunting for them to even think"
+    },
+    {
+      "start": 687,
+      "text": "about it because they're early in their"
+    },
+    {
+      "start": 688,
+      "text": "career. So what how do you know because"
+    },
+    {
+      "start": 689,
+      "text": "they're early in their career? But"
+    },
+    {
+      "start": 691,
+      "text": "people who really care about these"
+    },
+    {
+      "start": 692,
+      "text": "things do things in their lives that"
+    },
+    {
+      "start": 695,
+      "text": "actually show that they are very very"
+    },
+    {
+      "start": 698,
+      "text": "interested in the mission. So look for"
+    },
+    {
+      "start": 699,
+      "text": "the doers, not just the thinkers."
+    },
+    {
+      "start": 709,
+      "text": "So every everything that's worth doing"
+    },
+    {
+      "start": 711,
+      "text": "is challenging in my mind, right? I"
+    },
+    {
+      "start": 713,
+      "text": "think that there is a point in life in"
+    },
+    {
+      "start": 715,
+      "text": "which you just embrace challenge, right?"
+    },
+    {
+      "start": 718,
+      "text": "And and one thing that I learned over"
+    },
+    {
+      "start": 720,
+      "text": "the years and I practice right now is,"
+    },
+    {
+      "start": 723,
+      "text": "you know, I don't get too worked up when"
+    },
+    {
+      "start": 725,
+      "text": "things are uh challenging and I don't"
+    },
+    {
+      "start": 727,
+      "text": "get too excited when things are great,"
+    },
+    {
+      "start": 729,
+      "text": "right? I try to just accept the fact"
+    },
+    {
+      "start": 732,
+      "text": "that there's beauty in what we define as"
+    },
+    {
+      "start": 735,
+      "text": "good and pleasurable and nice and and"
+    },
+    {
+      "start": 738,
+      "text": "and you know fulfilling but there's also"
+    },
+    {
+      "start": 741,
+      "text": "beauty in things that are challenging"
+    },
+    {
+      "start": 744,
+      "text": "actually sometime make people sad. I"
+    },
+    {
+      "start": 747,
+      "text": "know that sounds a little bit"
+    },
+    {
+      "start": 748,
+      "text": "controversial but when you understand"
+    },
+    {
+      "start": 750,
+      "text": "that the life is the circular approach"
+    },
+    {
+      "start": 754,
+      "text": "and the whole approach of everything"
+    },
+    {
+      "start": 757,
+      "text": "that's happening to us good and bad and"
+    },
+    {
+      "start": 759,
+      "text": "and when you stop judging them when you"
+    },
+    {
+      "start": 762,
+      "text": "start stop trying to just go to only"
+    },
+    {
+      "start": 764,
+      "text": "figure out how to make things good and"
+    },
+    {
+      "start": 766,
+      "text": "try to avoid the bad because the bad"
+    },
+    {
+      "start": 768,
+      "text": "what we consider as bad or less"
+    },
+    {
+      "start": 771,
+      "text": "favorable will happen. Not strive to"
+    },
+    {
+      "start": 774,
+      "text": "make it happen but accept it. they say,"
+    },
+    {
+      "start": 776,
+      "text": "you know, it's going to be there. It's"
+    },
+    {
+      "start": 778,
+      "text": "fine. And it's it's it's something that"
+    },
+    {
+      "start": 780,
+      "text": "is part of life and we celebrate it. We"
+    },
+    {
+      "start": 782,
+      "text": "celebrate the good. We celebrate the not"
+    },
+    {
+      "start": 784,
+      "text": "so good. It makes us stronger. And I"
+    },
+    {
+      "start": 786,
+      "text": "think that the advice that I give"
+    },
+    {
+      "start": 788,
+      "text": "everybody is to try to get to that place"
+    },
+    {
+      "start": 790,
+      "text": "at least once a day. And then once you"
+    },
+    {
+      "start": 792,
+      "text": "figure out where it is to start applying"
+    },
+    {
+      "start": 794,
+      "text": "it here and there so you can go back to"
+    },
+    {
+      "start": 796,
+      "text": "this clean slate cuz you're going to"
+    },
+    {
+      "start": 798,
+      "text": "make better decisions, you're going to"
+    },
+    {
+      "start": 800,
+      "text": "feel better with yourself and you're"
+    },
+    {
+      "start": 802,
+      "text": "going to have a better, happier life."
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 360,
+  "timestamp": "2025-07-24T08:16:52.891Z"
+}

@@ -1,0 +1,1038 @@
+{
+  "success": true,
+  "videoId": "UbaXgFM_dGw",
+  "videoTitle": "Vibe Coding All Day？ Stop Delivering PrototypesㅣGraphite, Merrill Lutsky",
+  "transcript": [
+    {
+      "start": 3,
+      "text": "that's really been exciting about"
+    },
+    {
+      "start": 5,
+      "text": "building this company, especially over"
+    },
+    {
+      "start": 7,
+      "text": "the past year as code generation has"
+    },
+    {
+      "start": 8,
+      "text": "gotten so good. As agents get better and"
+    },
+    {
+      "start": 11,
+      "text": "better at generating code, the the way"
+    },
+    {
+      "start": 13,
+      "text": "that you're interacting with them"
+    },
+    {
+      "start": 14,
+      "text": "probably isn't going to look like how we"
+    },
+    {
+      "start": 16,
+      "text": "we write code today. it's v 0ero bolt"
+    },
+    {
+      "start": 19,
+      "text": "new replet agent like something like"
+    },
+    {
+      "start": 21,
+      "text": "that where you know where you're"
+    },
+    {
+      "start": 23,
+      "text": "interacting with these agents and"
+    },
+    {
+      "start": 24,
+      "text": "prompting them and and iterating on"
+    },
+    {
+      "start": 26,
+      "text": "their experiences and it's almost more"
+    },
+    {
+      "start": 29,
+      "text": "analogous to code review than it is to"
+    },
+    {
+      "start": 31,
+      "text": "how we would write code previously and"
+    },
+    {
+      "start": 34,
+      "text": "that's why we think like owning code"
+    },
+    {
+      "start": 36,
+      "text": "review as as the starting point is what"
+    },
+    {
+      "start": 38,
+      "text": "matters you know far more so than the"
+    },
+    {
+      "start": 40,
+      "text": "fist fight that's happening over like in"
+    },
+    {
+      "start": 42,
+      "text": "loop code generation right"
+    },
+    {
+      "start": 48,
+      "text": "Hi, I'm Mel Lutzky, co-founder and CEO"
+    },
+    {
+      "start": 50,
+      "text": "of Graphite. Graphite is the code review"
+    },
+    {
+      "start": 52,
+      "text": "platform for the age of AI. We take"
+    },
+    {
+      "start": 55,
+      "text": "best-in-class workflows and tooling from"
+    },
+    {
+      "start": 57,
+      "text": "companies like Google and Meta and"
+    },
+    {
+      "start": 58,
+      "text": "combine them with our agentic AI code"
+    },
+    {
+      "start": 61,
+      "text": "review companion to help engineers uh"
+    },
+    {
+      "start": 63,
+      "text": "create, review, and merge code changes"
+    },
+    {
+      "start": 65,
+      "text": "faster than ever. We work closely with"
+    },
+    {
+      "start": 67,
+      "text": "the team at Enthropic um to power our AI"
+    },
+    {
+      "start": 70,
+      "text": "code review agent um called Diamond. The"
+    },
+    {
+      "start": 73,
+      "text": "series B that we just announced was $52"
+    },
+    {
+      "start": 76,
+      "text": "million. Um, and Graphite has grown 20x"
+    },
+    {
+      "start": 78,
+      "text": "in the past"
+    },
+    {
+      "start": 80,
+      "text": "[Music]"
+    },
+    {
+      "start": 84,
+      "text": "year. Graphite started on a completely"
+    },
+    {
+      "start": 88,
+      "text": "different idea. We actually we actually"
+    },
+    {
+      "start": 90,
+      "text": "had sort of two one small pivot in the"
+    },
+    {
+      "start": 92,
+      "text": "beginning in the first three months and"
+    },
+    {
+      "start": 93,
+      "text": "then then the iOS tool. We'd hired in"
+    },
+    {
+      "start": 96,
+      "text": "the process then a few engineers uh a"
+    },
+    {
+      "start": 99,
+      "text": "few of Tomas's ex-coorkers from Meta and"
+    },
+    {
+      "start": 102,
+      "text": "this we'd had this really peculiar thing"
+    },
+    {
+      "start": 104,
+      "text": "that happened when when they onboarded."
+    },
+    {
+      "start": 106,
+      "text": "So they'd start on their first day we'd"
+    },
+    {
+      "start": 108,
+      "text": "get them set up on GitHub. We'd show"
+    },
+    {
+      "start": 110,
+      "text": "them how we do code review at the"
+    },
+    {
+      "start": 112,
+      "text": "company and all of them had this kind of"
+    },
+    {
+      "start": 115,
+      "text": "allergic reaction to it immediately and"
+    },
+    {
+      "start": 117,
+      "text": "they all said you know this feels like"
+    },
+    {
+      "start": 119,
+      "text": "so much slower than the tooling that I'd"
+    },
+    {
+      "start": 120,
+      "text": "had at Meta. I I feel like a caveman"
+    },
+    {
+      "start": 123,
+      "text": "using this. Google and Meta have both"
+    },
+    {
+      "start": 126,
+      "text": "built amazing internal tools to help"
+    },
+    {
+      "start": 128,
+      "text": "their their teams of thousands or tens"
+    },
+    {
+      "start": 130,
+      "text": "of thousands of engineers um all working"
+    },
+    {
+      "start": 132,
+      "text": "on on one monor repo at once even across"
+    },
+    {
+      "start": 136,
+      "text": "across time zones and across you know"
+    },
+    {
+      "start": 138,
+      "text": "spanning these massive code bases. And"
+    },
+    {
+      "start": 140,
+      "text": "um if you go outside of those walls"
+    },
+    {
+      "start": 142,
+      "text": "though u it's very hard to to get that"
+    },
+    {
+      "start": 145,
+      "text": "same level of of productivity and uh"
+    },
+    {
+      "start": 148,
+      "text": "have that same that same tool chain. And"
+    },
+    {
+      "start": 150,
+      "text": "that was a lot of why, you know, why we"
+    },
+    {
+      "start": 152,
+      "text": "started Graphite was we saw kind of the"
+    },
+    {
+      "start": 154,
+      "text": "the gap between what we'd had at at the"
+    },
+    {
+      "start": 156,
+      "text": "large companies that that all us and the"
+    },
+    {
+      "start": 158,
+      "text": "founding team had worked on and what was"
+    },
+    {
+      "start": 160,
+      "text": "available to every company when they're"
+    },
+    {
+      "start": 163,
+      "text": "just getting started. And um that was"
+    },
+    {
+      "start": 164,
+      "text": "really what inspired us to to build"
+    },
+    {
+      "start": 166,
+      "text": "graphite. I think it's so important to"
+    },
+    {
+      "start": 169,
+      "text": "like deeply understand and care about"
+    },
+    {
+      "start": 171,
+      "text": "the user that you're building for."
+    },
+    {
+      "start": 173,
+      "text": "You're going to spend if your company is"
+    },
+    {
+      "start": 175,
+      "text": "successful, you know, 10 plus years"
+    },
+    {
+      "start": 177,
+      "text": "talking to these people every single"
+    },
+    {
+      "start": 178,
+      "text": "day. And if you don't genuinely care"
+    },
+    {
+      "start": 181,
+      "text": "about making their lives better, about"
+    },
+    {
+      "start": 182,
+      "text": "solving their problems and about"
+    },
+    {
+      "start": 184,
+      "text": "building uh product experience they"
+    },
+    {
+      "start": 187,
+      "text": "really enjoy using and get a ton of"
+    },
+    {
+      "start": 189,
+      "text": "value from, it's going to be really hard"
+    },
+    {
+      "start": 191,
+      "text": "to just sustain your your level of"
+    },
+    {
+      "start": 192,
+      "text": "enthusiasm about that. And one of the"
+    },
+    {
+      "start": 194,
+      "text": "the things that's so fun about graphite"
+    },
+    {
+      "start": 197,
+      "text": "and one of the best parts about getting"
+    },
+    {
+      "start": 198,
+      "text": "to work on this is that it is something"
+    },
+    {
+      "start": 200,
+      "text": "that we all on the team use every day. A"
+    },
+    {
+      "start": 203,
+      "text": "lot of like great companies use every"
+    },
+    {
+      "start": 204,
+      "text": "day. our friends at at these companies"
+    },
+    {
+      "start": 206,
+      "text": "are are using and are constantly texting"
+    },
+    {
+      "start": 208,
+      "text": "me with feedback. It's just fun to be"
+    },
+    {
+      "start": 210,
+      "text": "able to to build something that that's"
+    },
+    {
+      "start": 212,
+      "text": "for um a user that we're so you know"
+    },
+    {
+      "start": 215,
+      "text": "that we're so deeply familiar with and"
+    },
+    {
+      "start": 217,
+      "text": "um that we genuinely care about and and"
+    },
+    {
+      "start": 219,
+      "text": "want to like make their lives better. So"
+    },
+    {
+      "start": 221,
+      "text": "in the beginning we started with tool"
+    },
+    {
+      "start": 224,
+      "text": "for creating stacked pull requests. The"
+    },
+    {
+      "start": 226,
+      "text": "idea of stack pull requests um is that"
+    },
+    {
+      "start": 228,
+      "text": "instead you you break and having that"
+    },
+    {
+      "start": 230,
+      "text": "all be one pull request um instead you"
+    },
+    {
+      "start": 233,
+      "text": "break that up into a series of small"
+    },
+    {
+      "start": 236,
+      "text": "dependent changes um that all sort of"
+    },
+    {
+      "start": 238,
+      "text": "chain together and build upon each"
+    },
+    {
+      "start": 240,
+      "text": "other. And the advantage of this is that"
+    },
+    {
+      "start": 241,
+      "text": "you know first of all nobody likes to"
+    },
+    {
+      "start": 243,
+      "text": "review like a thousand line pull"
+    },
+    {
+      "start": 245,
+      "text": "request. that's like, you know, there's"
+    },
+    {
+      "start": 246,
+      "text": "that meme that's like, you know,"
+    },
+    {
+      "start": 247,
+      "text": "thousand lines like looks good to me."
+    },
+    {
+      "start": 250,
+      "text": "And I think that that really is is what"
+    },
+    {
+      "start": 251,
+      "text": "you see play play out in the data. Like"
+    },
+    {
+      "start": 254,
+      "text": "nobody wants to to like give a detailed"
+    },
+    {
+      "start": 256,
+      "text": "review to a change that big. Um that's"
+    },
+    {
+      "start": 258,
+      "text": "really why, you know, why stacking is is"
+    },
+    {
+      "start": 261,
+      "text": "so powerful is it just it gives you so"
+    },
+    {
+      "start": 263,
+      "text": "much time back um that you would have"
+    },
+    {
+      "start": 265,
+      "text": "spent kind of sitting on your hands or"
+    },
+    {
+      "start": 266,
+      "text": "trying to find something else to build."
+    },
+    {
+      "start": 268,
+      "text": "And we've seen like really meaningful"
+    },
+    {
+      "start": 270,
+      "text": "improvements in in development speed at"
+    },
+    {
+      "start": 272,
+      "text": "many of our top customers. ASA was the"
+    },
+    {
+      "start": 275,
+      "text": "one where where we save 7 hours per"
+    },
+    {
+      "start": 277,
+      "text": "developer per week. At RAMP, we"
+    },
+    {
+      "start": 279,
+      "text": "increased their development speed by 3x."
+    },
+    {
+      "start": 282,
+      "text": "One of our adviserss kind of famously"
+    },
+    {
+      "start": 283,
+      "text": "said like once you stack, you don't go"
+    },
+    {
+      "start": 285,
+      "text": "back. And I think that that's really"
+    },
+    {
+      "start": 287,
+      "text": "true in terms of the both like the user"
+    },
+    {
+      "start": 289,
+      "text": "excitement and then also just the the"
+    },
+    {
+      "start": 291,
+      "text": "retention numbers and and you know the"
+    },
+    {
+      "start": 293,
+      "text": "engagement that we see with graphite"
+    },
+    {
+      "start": 295,
+      "text": "pretty much every"
+    },
+    {
+      "start": 302,
+      "text": "day as every engineer has tools like you"
+    },
+    {
+      "start": 305,
+      "text": "know cursor and windsurf and copilot and"
+    },
+    {
+      "start": 308,
+      "text": "even some of these more agentic code"
+    },
+    {
+      "start": 309,
+      "text": "generation tools now uh they're able to"
+    },
+    {
+      "start": 312,
+      "text": "like write code faster than ever uh they"
+    },
+    {
+      "start": 314,
+      "text": "can they can do or they're creating more"
+    },
+    {
+      "start": 317,
+      "text": "code changes than than they ever have"
+    },
+    {
+      "start": 318,
+      "text": "before. That's only really the first"
+    },
+    {
+      "start": 320,
+      "text": "part of the story. I think even what"
+    },
+    {
+      "start": 322,
+      "text": "we're seeing with with vibe coding right"
+    },
+    {
+      "start": 324,
+      "text": "now is a lot of those products are kind"
+    },
+    {
+      "start": 326,
+      "text": "of MVP like there. You still need to"
+    },
+    {
+      "start": 329,
+      "text": "take that change and get it through code"
+    },
+    {
+      "start": 331,
+      "text": "review. You still need to test it. You"
+    },
+    {
+      "start": 332,
+      "text": "still need to deploy it and measure the"
+    },
+    {
+      "start": 334,
+      "text": "impact. and that whole kind of outer"
+    },
+    {
+      "start": 336,
+      "text": "loop process um where you're"
+    },
+    {
+      "start": 338,
+      "text": "collaborating with your teammates that's"
+    },
+    {
+      "start": 340,
+      "text": "like a huge part of of your life you"
+    },
+    {
+      "start": 342,
+      "text": "know almost as much in many cases as the"
+    },
+    {
+      "start": 345,
+      "text": "inner loop of of how I'm like writing"
+    },
+    {
+      "start": 347,
+      "text": "code testing locally and getting it"
+    },
+    {
+      "start": 349,
+      "text": "ready to uh to like push up to to a pull"
+    },
+    {
+      "start": 352,
+      "text": "request. So I think that as you know as"
+    },
+    {
+      "start": 355,
+      "text": "you have like this this idea of like"
+    },
+    {
+      "start": 357,
+      "text": "vibe coding and AI code generation it's"
+    },
+    {
+      "start": 360,
+      "text": "almost not enough to be just you know"
+    },
+    {
+      "start": 361,
+      "text": "engineer anymore like the best engineers"
+    },
+    {
+      "start": 364,
+      "text": "are also great product thinkers and"
+    },
+    {
+      "start": 366,
+      "text": "great business thinkers great designers"
+    },
+    {
+      "start": 368,
+      "text": "in some cases it's really it used to be"
+    },
+    {
+      "start": 370,
+      "text": "the case I think that the limiting"
+    },
+    {
+      "start": 372,
+      "text": "factor on creating anything was was you"
+    },
+    {
+      "start": 375,
+      "text": "know asking like how do I actually build"
+    },
+    {
+      "start": 377,
+      "text": "this and how do I implement it now you"
+    },
+    {
+      "start": 380,
+      "text": "have these great tools that can help you"
+    },
+    {
+      "start": 381,
+      "text": "answer that question and kind of get to"
+    },
+    {
+      "start": 383,
+      "text": "an early version like a working"
+    },
+    {
+      "start": 386,
+      "text": "prototype of of something like quite"
+    },
+    {
+      "start": 388,
+      "text": "quickly. So then the question shifts"
+    },
+    {
+      "start": 390,
+      "text": "from being like how do I build this to a"
+    },
+    {
+      "start": 394,
+      "text": "little bit further upstream of like what"
+    },
+    {
+      "start": 396,
+      "text": "should I build in the first place that's"
+    },
+    {
+      "start": 398,
+      "text": "actually going to be of value? you know"
+    },
+    {
+      "start": 400,
+      "text": "how do I actually interact with this and"
+    },
+    {
+      "start": 402,
+      "text": "what is the optimal experience here and"
+    },
+    {
+      "start": 404,
+      "text": "then how do I differentiate that and how"
+    },
+    {
+      "start": 407,
+      "text": "do I in a world where like anybody can"
+    },
+    {
+      "start": 409,
+      "text": "you know go on replet agent and prompt"
+    },
+    {
+      "start": 411,
+      "text": "you with a few prompts make you make"
+    },
+    {
+      "start": 413,
+      "text": "make like a working prototype of"
+    },
+    {
+      "start": 415,
+      "text": "something how is that different from"
+    },
+    {
+      "start": 417,
+      "text": "anybody else's like vibecoded version of"
+    },
+    {
+      "start": 419,
+      "text": "this and I think that that software"
+    },
+    {
+      "start": 422,
+      "text": "engineering looks a lot more like you"
+    },
+    {
+      "start": 423,
+      "text": "know reviewing or even designing or or"
+    },
+    {
+      "start": 426,
+      "text": "like you pming in the future versus like"
+    },
+    {
+      "start": 429,
+      "text": "writing code as we know it today."
+    },
+    {
+      "start": 437,
+      "text": "the transformation of software"
+    },
+    {
+      "start": 438,
+      "text": "engineering uh with AI code generation"
+    },
+    {
+      "start": 441,
+      "text": "is has just been the sort of seismic"
+    },
+    {
+      "start": 443,
+      "text": "shift that's happened in you know as"
+    },
+    {
+      "start": 445,
+      "text": "we've been building the company and you"
+    },
+    {
+      "start": 447,
+      "text": "know we were fortunate in that we were"
+    },
+    {
+      "start": 448,
+      "text": "working on solving a problem that was"
+    },
+    {
+      "start": 451,
+      "text": "now made 10 times worse by AI code"
+    },
+    {
+      "start": 453,
+      "text": "generation code review has always been"
+    },
+    {
+      "start": 456,
+      "text": "and this outer loop of review and"
+    },
+    {
+      "start": 458,
+      "text": "testing and deployments has always been"
+    },
+    {
+      "start": 460,
+      "text": "a bottleneck at large companies it's"
+    },
+    {
+      "start": 461,
+      "text": "always been an area that that needs"
+    },
+    {
+      "start": 463,
+      "text": "better tools And that was true before"
+    },
+    {
+      "start": 466,
+      "text": "AI, but now with with all these great AI"
+    },
+    {
+      "start": 469,
+      "text": "code generation tools, that need is is"
+    },
+    {
+      "start": 472,
+      "text": "all the more acute. And I think that's"
+    },
+    {
+      "start": 473,
+      "text": "that's one of the things that's been I"
+    },
+    {
+      "start": 475,
+      "text": "think we were lucky that we were"
+    },
+    {
+      "start": 476,
+      "text": "building kind of the the right thing at"
+    },
+    {
+      "start": 478,
+      "text": "the right time. U because we built uh we"
+    },
+    {
+      "start": 481,
+      "text": "built tooling for accelerating the outer"
+    },
+    {
+      "start": 483,
+      "text": "loop and we got that into a lot of great"
+    },
+    {
+      "start": 486,
+      "text": "enterprise customers. We also built the"
+    },
+    {
+      "start": 488,
+      "text": "trust with those organizations to be"
+    },
+    {
+      "start": 491,
+      "text": "able to now deploy AI to help them"
+    },
+    {
+      "start": 493,
+      "text": "review code faster. Uh I think it's"
+    },
+    {
+      "start": 495,
+      "text": "really hard if you're just starting an"
+    },
+    {
+      "start": 497,
+      "text": "AI code review company to convince an"
+    },
+    {
+      "start": 500,
+      "text": "enterprise or convince a company like"
+    },
+    {
+      "start": 501,
+      "text": "Shopify to give you access to their"
+    },
+    {
+      "start": 503,
+      "text": "entire GitHub repo from day one. It's"
+    },
+    {
+      "start": 505,
+      "text": "taken us a long time to build up that"
+    },
+    {
+      "start": 507,
+      "text": "level of trust. And I I think there are"
+    },
+    {
+      "start": 509,
+      "text": "a few factors there. One is just like"
+    },
+    {
+      "start": 511,
+      "text": "building just adding value progressively"
+    },
+    {
+      "start": 513,
+      "text": "over time, shipping features constantly,"
+    },
+    {
+      "start": 516,
+      "text": "like showing the customers that we work"
+    },
+    {
+      "start": 518,
+      "text": "with early on that we are consistently"
+    },
+    {
+      "start": 520,
+      "text": "able to like deliver on our promises and"
+    },
+    {
+      "start": 522,
+      "text": "you know continue to just add more and"
+    },
+    {
+      "start": 524,
+      "text": "more great features to the graphite"
+    },
+    {
+      "start": 525,
+      "text": "platform. Um we spend a lot of time"
+    },
+    {
+      "start": 527,
+      "text": "making sure that that everything we do"
+    },
+    {
+      "start": 529,
+      "text": "is like you know best practices for"
+    },
+    {
+      "start": 531,
+      "text": "security. We're pentested very"
+    },
+    {
+      "start": 533,
+      "text": "regularly. Like we really want to invest"
+    },
+    {
+      "start": 535,
+      "text": "in in making sure that that that piece"
+    },
+    {
+      "start": 537,
+      "text": "is is central to what we're doing you"
+    },
+    {
+      "start": 539,
+      "text": "know. And then and then part of it is"
+    },
+    {
+      "start": 540,
+      "text": "just climbing the ladder. I think you"
+    },
+    {
+      "start": 542,
+      "text": "have to you have to start with like"
+    },
+    {
+      "start": 544,
+      "text": "smaller companies first like you're"
+    },
+    {
+      "start": 546,
+      "text": "always going to have kind of more you"
+    },
+    {
+      "start": 547,
+      "text": "know smaller companies that are willing"
+    },
+    {
+      "start": 549,
+      "text": "to adopt tools tools in the beginning"
+    },
+    {
+      "start": 551,
+      "text": "and then like building up trust over"
+    },
+    {
+      "start": 553,
+      "text": "time and I think now that snowball has"
+    },
+    {
+      "start": 555,
+      "text": "really like started to roll and um we"
+    },
+    {
+      "start": 557,
+      "text": "have you know some of some of the"
+    },
+    {
+      "start": 559,
+      "text": "largest technology companies out there"
+    },
+    {
+      "start": 561,
+      "text": "that are are trusting graphite every day"
+    },
+    {
+      "start": 562,
+      "text": "and u you know we're we're really"
+    },
+    {
+      "start": 564,
+      "text": "privileged to be able to serve"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 257,
+  "timestamp": "2025-07-24T08:16:52.967Z"
+}

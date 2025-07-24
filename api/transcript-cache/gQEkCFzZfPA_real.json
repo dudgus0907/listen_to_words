@@ -1,0 +1,2238 @@
+{
+  "success": true,
+  "videoId": "gQEkCFzZfPA",
+  "videoTitle": "How a 3-Person Founder Team Beat Big Tech ㅣMangomint, Daniel Lang",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "I think it would be foolish to believe"
+    },
+    {
+      "start": 2,
+      "text": "that if you're competing against"
+    },
+    {
+      "start": 4,
+      "text": "companies with thousands of employees"
+    },
+    {
+      "start": 6,
+      "text": "and hundreds of millions of billions in"
+    },
+    {
+      "start": 7,
+      "text": "revenue and you can just show up with"
+    },
+    {
+      "start": 9,
+      "text": "like a threers Founder team and after"
+    },
+    {
+      "start": 11,
+      "text": "like one year of work you're just better"
+    },
+    {
+      "start": 13,
+      "text": "right that's just not how it works right"
+    },
+    {
+      "start": 15,
+      "text": "you start out by not having very much of"
+    },
+    {
+      "start": 18,
+      "text": "a competitive Advantage other than you"
+    },
+    {
+      "start": 20,
+      "text": "the founders and what you can bring to"
+    },
+    {
+      "start": 22,
+      "text": "bear with a product for very small"
+    },
+    {
+      "start": 24,
+      "text": "specific Niche and so then over time"
+    },
+    {
+      "start": 27,
+      "text": "what was the initial Niche the smallest"
+    },
+    {
+      "start": 28,
+      "text": "Niche God man"
+    },
+    {
+      "start": 35,
+      "text": "hi my name is TA I'm a partner at altto"
+    },
+    {
+      "start": 37,
+      "text": "ventures we are very excited to have"
+    },
+    {
+      "start": 39,
+      "text": "Daniel Lang here from mango mint welcome"
+    },
+    {
+      "start": 41,
+      "text": "Daniel thanks for being here thanks so"
+    },
+    {
+      "start": 43,
+      "text": "much for having me I'm excited to be"
+    },
+    {
+      "start": 44,
+      "text": "here I'm Daniel Lang I'm co-founder and"
+    },
+    {
+      "start": 47,
+      "text": "CEO of mangement mangement is software"
+    },
+    {
+      "start": 49,
+      "text": "for salons and spas what that means is"
+    },
+    {
+      "start": 52,
+      "text": "that we provide an operating system that"
+    },
+    {
+      "start": 54,
+      "text": "allows Beauty and wellness businesses to"
+    },
+    {
+      "start": 56,
+      "text": "do everything from scheduling"
+    },
+    {
+      "start": 57,
+      "text": "appointments taking payments marketing"
+    },
+    {
+      "start": 60,
+      "text": "to clients all the way through to"
+    },
+    {
+      "start": 62,
+      "text": "Payment Processing actually we should"
+    },
+    {
+      "start": 63,
+      "text": "probably rewind a little bit to your"
+    },
+    {
+      "start": 65,
+      "text": "journey up to Mangan share us a little"
+    },
+    {
+      "start": 68,
+      "text": "bit of that Journey that you were on"
+    },
+    {
+      "start": 70,
+      "text": "sure so I grew up in Austria which is a"
+    },
+    {
+      "start": 73,
+      "text": "for those of you who don't know a very"
+    },
+    {
+      "start": 75,
+      "text": "peaceful quiet small country in the"
+    },
+    {
+      "start": 77,
+      "text": "heart of Europe know sometimes you hear"
+    },
+    {
+      "start": 78,
+      "text": "these stories of entrepreneurs that had"
+    },
+    {
+      "start": 80,
+      "text": "to overcome all of these obstacles and"
+    },
+    {
+      "start": 82,
+      "text": "challenges in their childhood I really"
+    },
+    {
+      "start": 83,
+      "text": "can't say that that was the case for me"
+    },
+    {
+      "start": 86,
+      "text": "but what I will say is that my dad had"
+    },
+    {
+      "start": 88,
+      "text": "like a small business it wasn't so much"
+    },
+    {
+      "start": 89,
+      "text": "much what he was doing it was more so"
+    },
+    {
+      "start": 91,
+      "text": "the fact that he ran his own business"
+    },
+    {
+      "start": 94,
+      "text": "and that that was a possibility that I"
+    },
+    {
+      "start": 96,
+      "text": "think opened my eyes to that being"
+    },
+    {
+      "start": 98,
+      "text": "something that you could in fact do and"
+    },
+    {
+      "start": 100,
+      "text": "then at the age of 12 I just fell in"
+    },
+    {
+      "start": 101,
+      "text": "love with programming started my first"
+    },
+    {
+      "start": 103,
+      "text": "real business with employees at the age"
+    },
+    {
+      "start": 105,
+      "text": "of 19 but at the same time being in"
+    },
+    {
+      "start": 107,
+      "text": "Austria it always felt somewhat limiting"
+    },
+    {
+      "start": 109,
+      "text": "because Austria and Europe for the most"
+    },
+    {
+      "start": 111,
+      "text": "part is not a place that is conducive to"
+    },
+    {
+      "start": 113,
+      "text": "entrepreneurialism taking risks and all"
+    },
+    {
+      "start": 115,
+      "text": "of that stuff so the first time I came"
+    },
+    {
+      "start": 118,
+      "text": "here to America it felt like wow this is"
+    },
+    {
+      "start": 120,
+      "text": "a totally different world I mean just"
+    },
+    {
+      "start": 122,
+      "text": "like in Austria failure is something"
+    },
+    {
+      "start": 124,
+      "text": "that has a big stigma attached to it"
+    },
+    {
+      "start": 126,
+      "text": "whereas here it's almost like embraced"
+    },
+    {
+      "start": 128,
+      "text": "it's not that people enjoy failing like"
+    },
+    {
+      "start": 130,
+      "text": "failing still sucks but it's something"
+    },
+    {
+      "start": 132,
+      "text": "where if you fail as an entrepreneur and"
+    },
+    {
+      "start": 134,
+      "text": "you give it your everything nobody is"
+    },
+    {
+      "start": 137,
+      "text": "going to judge you for that right like"
+    },
+    {
+      "start": 138,
+      "text": "in fact they might high five you so I"
+    },
+    {
+      "start": 140,
+      "text": "was like immediately struck by that knew"
+    },
+    {
+      "start": 143,
+      "text": "that this was the place that I wanted to"
+    },
+    {
+      "start": 145,
+      "text": "start my business share with us a little"
+    },
+    {
+      "start": 146,
+      "text": "bit of the the early days and in"
+    },
+    {
+      "start": 149,
+      "text": "particular what was the journey to"
+    },
+    {
+      "start": 151,
+      "text": "saying I must build software for the"
+    },
+    {
+      "start": 154,
+      "text": "salon and spa industry totally one of"
+    },
+    {
+      "start": 156,
+      "text": "the things that was really important to"
+    },
+    {
+      "start": 158,
+      "text": "us when we started mangement is to find"
+    },
+    {
+      "start": 159,
+      "text": "something that we could truly be"
+    },
+    {
+      "start": 161,
+      "text": "passionate about for 10 15 20 years for"
+    },
+    {
+      "start": 163,
+      "text": "like the length of the journey you know"
+    },
+    {
+      "start": 165,
+      "text": "we spent about a year just looking for"
+    },
+    {
+      "start": 167,
+      "text": "different things and staying open-minded"
+    },
+    {
+      "start": 169,
+      "text": "during that time my wife and I we went"
+    },
+    {
+      "start": 171,
+      "text": "on this road trip I think we visited 32"
+    },
+    {
+      "start": 173,
+      "text": "different states basically visiting all"
+    },
+    {
+      "start": 175,
+      "text": "of these different places the one thing"
+    },
+    {
+      "start": 177,
+      "text": "that I noticed is that every town in the"
+    },
+    {
+      "start": 179,
+      "text": "America no matter how big or small tends"
+    },
+    {
+      "start": 181,
+      "text": "to have a lot of these like small"
+    },
+    {
+      "start": 183,
+      "text": "businesses local businesses that are"
+    },
+    {
+      "start": 184,
+      "text": "literally everywhere and at the time"
+    },
+    {
+      "start": 186,
+      "text": "this is 2016 coming from La I was"
+    },
+    {
+      "start": 189,
+      "text": "already used to using Uber and you know"
+    },
+    {
+      "start": 191,
+      "text": "Uber Eats and all of that modern"
+    },
+    {
+      "start": 192,
+      "text": "technology and yet when it came to"
+    },
+    {
+      "start": 194,
+      "text": "booking a herir appointment or booking a"
+    },
+    {
+      "start": 196,
+      "text": "wellness treatment it felt like you know"
+    },
+    {
+      "start": 199,
+      "text": "it was back in the '90s where you had to"
+    },
+    {
+      "start": 201,
+      "text": "call at a certain time and they had to"
+    },
+    {
+      "start": 202,
+      "text": "get back to you so we started to notice"
+    },
+    {
+      "start": 205,
+      "text": "that there might be an opportunity so"
+    },
+    {
+      "start": 206,
+      "text": "you go on this tour you wrap it up with"
+    },
+    {
+      "start": 209,
+      "text": "your wife you come back to LA and then"
+    },
+    {
+      "start": 211,
+      "text": "you say what we the co-founders and I"
+    },
+    {
+      "start": 214,
+      "text": "made it a point to spend several months"
+    },
+    {
+      "start": 217,
+      "text": "going out and talking to who we thought"
+    },
+    {
+      "start": 219,
+      "text": "would be potential customers and we"
+    },
+    {
+      "start": 221,
+      "text": "basically said if we can't get to them"
+    },
+    {
+      "start": 223,
+      "text": "now why would we be able to later so how"
+    },
+    {
+      "start": 225,
+      "text": "many customers pre-product did you in"
+    },
+    {
+      "start": 228,
+      "text": "some sense convince to use your"
+    },
+    {
+      "start": 229,
+      "text": "non-existent product yeah so one of the"
+    },
+    {
+      "start": 232,
+      "text": "challenges that we identified early on"
+    },
+    {
+      "start": 235,
+      "text": "was that none of us Founders had any"
+    },
+    {
+      "start": 237,
+      "text": "industry experience so none of us had"
+    },
+    {
+      "start": 239,
+      "text": "worked in a salano or Spa before I mean"
+    },
+    {
+      "start": 241,
+      "text": "everyone's a client in the salano spa at"
+    },
+    {
+      "start": 243,
+      "text": "some point in their life but we didn't"
+    },
+    {
+      "start": 245,
+      "text": "really know how these businesses worked"
+    },
+    {
+      "start": 246,
+      "text": "in order to build a great product for"
+    },
+    {
+      "start": 248,
+      "text": "them we had to go way deeper than what"
+    },
+    {
+      "start": 250,
+      "text": "we could learn in like a 1-h hour"
+    },
+    {
+      "start": 251,
+      "text": "conversation with an owner to solve the"
+    },
+    {
+      "start": 253,
+      "text": "problem we decided to use a trojan horse"
+    },
+    {
+      "start": 256,
+      "text": "approach where essentially we offered"
+    },
+    {
+      "start": 259,
+      "text": "free marketing Services we would"
+    },
+    {
+      "start": 261,
+      "text": "literally just like walk into salons and"
+    },
+    {
+      "start": 263,
+      "text": "say hey we have nothing to sell but we"
+    },
+    {
+      "start": 264,
+      "text": "have a background in marketing and Tech"
+    },
+    {
+      "start": 267,
+      "text": "and we'd love to just you know hang"
+    },
+    {
+      "start": 269,
+      "text": "around here and in exchange we'll build"
+    },
+    {
+      "start": 271,
+      "text": "you a new website we'll do your email"
+    },
+    {
+      "start": 273,
+      "text": "marketing honestly in the beginning it"
+    },
+    {
+      "start": 275,
+      "text": "was actually hard to convince people"
+    },
+    {
+      "start": 277,
+      "text": "because they thought we were scamming"
+    },
+    {
+      "start": 278,
+      "text": "them and way but you keep trying and we"
+    },
+    {
+      "start": 281,
+      "text": "found our first 10 20 eventually 30"
+    },
+    {
+      "start": 283,
+      "text": "customers that way two years later in"
+    },
+    {
+      "start": 285,
+      "text": "fact we had a software product that"
+    },
+    {
+      "start": 287,
+      "text": "somebody would actually be like a normal"
+    },
+    {
+      "start": 289,
+      "text": "person would pay for without being"
+    },
+    {
+      "start": 291,
+      "text": "friends with us so so you studied the"
+    },
+    {
+      "start": 293,
+      "text": "market quite intensely you talk to"
+    },
+    {
+      "start": 295,
+      "text": "hundreds of salons before you go into"
+    },
+    {
+      "start": 298,
+      "text": "the space so you probably some really"
+    },
+    {
+      "start": 300,
+      "text": "deep conviction that this could work but"
+    },
+    {
+      "start": 303,
+      "text": "that doesn't mean that it will work and"
+    },
+    {
+      "start": 305,
+      "text": "so as you were selling the first few"
+    },
+    {
+      "start": 308,
+      "text": "dozen software tools to these customers"
+    },
+    {
+      "start": 311,
+      "text": "were there any points where you're like"
+    },
+    {
+      "start": 312,
+      "text": "maybe I'm wrong like maybe maybe this"
+    },
+    {
+      "start": 314,
+      "text": "wasn't a good idea I'm still thinking"
+    },
+    {
+      "start": 316,
+      "text": "that every"
+    },
+    {
+      "start": 317,
+      "text": "day no the space that we're in took us"
+    },
+    {
+      "start": 320,
+      "text": "about 2 years to build the first version"
+    },
+    {
+      "start": 322,
+      "text": "of the product and that version was very"
+    },
+    {
+      "start": 324,
+      "text": "incomplete as I mentioned it probably"
+    },
+    {
+      "start": 326,
+      "text": "took another at least 2 years maybe even"
+    },
+    {
+      "start": 328,
+      "text": "longer to have a product that I would"
+    },
+    {
+      "start": 330,
+      "text": "consider competitive and so that's a"
+    },
+    {
+      "start": 333,
+      "text": "very long time and you know in the early"
+    },
+    {
+      "start": 335,
+      "text": "days we didn't raise funding at the very"
+    },
+    {
+      "start": 336,
+      "text": "beginning so it meant that as Founders"
+    },
+    {
+      "start": 339,
+      "text": "we had to basically put in money"
+    },
+    {
+      "start": 340,
+      "text": "ourselves not only not getting paid we"
+    },
+    {
+      "start": 342,
+      "text": "put in money for several years I think"
+    },
+    {
+      "start": 344,
+      "text": "that is why you really need to focus on"
+    },
+    {
+      "start": 347,
+      "text": "alignment with your co-founders as well"
+    },
+    {
+      "start": 349,
+      "text": "and making sure that they also"
+    },
+    {
+      "start": 351,
+      "text": "understand the length of how long this"
+    },
+    {
+      "start": 353,
+      "text": "takes there's so much in my opinion bad"
+    },
+    {
+      "start": 356,
+      "text": "advice out there for Founders you know"
+    },
+    {
+      "start": 358,
+      "text": "the stories that sound really we oh we"
+    },
+    {
+      "start": 360,
+      "text": "met on a weekend hackathon and like you"
+    },
+    {
+      "start": 362,
+      "text": "know 3 weeks later we had shipped the"
+    },
+    {
+      "start": 364,
+      "text": "first version and 3 months later as AOA"
+    },
+    {
+      "start": 366,
+      "text": "invested what not right like yeah sure"
+    },
+    {
+      "start": 369,
+      "text": "that happens once every 20 years maybe"
+    },
+    {
+      "start": 371,
+      "text": "but like the reality for most Founders"
+    },
+    {
+      "start": 373,
+      "text": "is different right like the reality is"
+    },
+    {
+      "start": 375,
+      "text": "like in the early days you put in"
+    },
+    {
+      "start": 376,
+      "text": "everything you can and a lot of times"
+    },
+    {
+      "start": 378,
+      "text": "you know the initial idea is not the one"
+    },
+    {
+      "start": 380,
+      "text": "that works out and so you have to stay"
+    },
+    {
+      "start": 382,
+      "text": "Nimble and many cases pivot we were"
+    },
+    {
+      "start": 384,
+      "text": "fortunate in the sense that our thesis"
+    },
+    {
+      "start": 386,
+      "text": "didn't actually change but there are"
+    },
+    {
+      "start": 387,
+      "text": "definitely moments where you kind of to"
+    },
+    {
+      "start": 389,
+      "text": "convince yourself to just keep going"
+    },
+    {
+      "start": 391,
+      "text": "there were already a lot of players in"
+    },
+    {
+      "start": 393,
+      "text": "this category of Salon and Spa software"
+    },
+    {
+      "start": 396,
+      "text": "so it's a relatively mature market in"
+    },
+    {
+      "start": 398,
+      "text": "terms of software penetration yet you"
+    },
+    {
+      "start": 401,
+      "text": "found there to be a need for mango mint"
+    },
+    {
+      "start": 404,
+      "text": "to exist and flourish so how would you"
+    },
+    {
+      "start": 407,
+      "text": "characterize the fundamental competitive"
+    },
+    {
+      "start": 410,
+      "text": "advantage that you have in mango mint"
+    },
+    {
+      "start": 413,
+      "text": "yeah it's interesting cuz you know"
+    },
+    {
+      "start": 414,
+      "text": "having started other businesses before"
+    },
+    {
+      "start": 417,
+      "text": "and been around Founders you make a"
+    },
+    {
+      "start": 418,
+      "text": "choice or on like what kind of risk you"
+    },
+    {
+      "start": 421,
+      "text": "want to take and a lot of Founders take"
+    },
+    {
+      "start": 424,
+      "text": "Market risk where they have some great"
+    },
+    {
+      "start": 426,
+      "text": "technology to have an idea but it's"
+    },
+    {
+      "start": 428,
+      "text": "unclear whether there would be a market"
+    },
+    {
+      "start": 430,
+      "text": "for it we did not want to take that risk"
+    },
+    {
+      "start": 432,
+      "text": "we intentionally chose a market that had"
+    },
+    {
+      "start": 435,
+      "text": "a lot of incumbents already we saw that"
+    },
+    {
+      "start": 438,
+      "text": "as a positive characteristic about the"
+    },
+    {
+      "start": 440,
+      "text": "market rather than a negative one a lot"
+    },
+    {
+      "start": 442,
+      "text": "of times you know when you talk to folks"
+    },
+    {
+      "start": 444,
+      "text": "and you tell them the idea they're like"
+    },
+    {
+      "start": 446,
+      "text": "wait but doesn't this already exist like"
+    },
+    {
+      "start": 448,
+      "text": "yes that's the point it exists and"
+    },
+    {
+      "start": 450,
+      "text": "they're doing well and there's many"
+    },
+    {
+      "start": 452,
+      "text": "companies that are making lots of money"
+    },
+    {
+      "start": 453,
+      "text": "that's a good thing because then it"
+    },
+    {
+      "start": 455,
+      "text": "allows you to focus on strategy and"
+    },
+    {
+      "start": 458,
+      "text": "differentiation and how you can carve"
+    },
+    {
+      "start": 461,
+      "text": "out initially like a wedge and then over"
+    },
+    {
+      "start": 464,
+      "text": "time grow that wedge into a real"
+    },
+    {
+      "start": 466,
+      "text": "competitive strength I think it would be"
+    },
+    {
+      "start": 468,
+      "text": "foolish to believe that if you're"
+    },
+    {
+      "start": 470,
+      "text": "competing against companies with"
+    },
+    {
+      "start": 472,
+      "text": "thousands of employees and hundreds of"
+    },
+    {
+      "start": 474,
+      "text": "millions of billions in Revenue that you"
+    },
+    {
+      "start": 475,
+      "text": "can just show up with like a three"
+    },
+    {
+      "start": 477,
+      "text": "person founder team and after like one"
+    },
+    {
+      "start": 479,
+      "text": "year work you're just better right"
+    },
+    {
+      "start": 481,
+      "text": "that's just not how it works right so"
+    },
+    {
+      "start": 482,
+      "text": "you have to really be smart about okay"
+    },
+    {
+      "start": 484,
+      "text": "better for who right and like you know"
+    },
+    {
+      "start": 486,
+      "text": "probably start with a very small group"
+    },
+    {
+      "start": 488,
+      "text": "that's what we did and so you start out"
+    },
+    {
+      "start": 490,
+      "text": "by not having very much of a competitive"
+    },
+    {
+      "start": 492,
+      "text": "Advantage other than you the founders"
+    },
+    {
+      "start": 495,
+      "text": "and what you can bring to bear with a"
+    },
+    {
+      "start": 497,
+      "text": "product for a very small specific Niche"
+    },
+    {
+      "start": 500,
+      "text": "and so then over time what was the"
+    },
+    {
+      "start": 502,
+      "text": "initial Niche the smallest Niche it"
+    },
+    {
+      "start": 504,
+      "text": "wasn't actually like a a niche in terms"
+    },
+    {
+      "start": 506,
+      "text": "of like segmentation of the market it"
+    },
+    {
+      "start": 508,
+      "text": "was a niche more so around what people"
+    },
+    {
+      "start": 510,
+      "text": "wanted from it and so for example when"
+    },
+    {
+      "start": 512,
+      "text": "we launched we did not have Payment"
+    },
+    {
+      "start": 514,
+      "text": "Processing we did not have reporting we"
+    },
+    {
+      "start": 516,
+      "text": "did not have a Shopify integration so if"
+    },
+    {
+      "start": 519,
+      "text": "any of those things were important to"
+    },
+    {
+      "start": 520,
+      "text": "you we would not be a good solution for"
+    },
+    {
+      "start": 522,
+      "text": "you but what we did have was a calendar"
+    },
+    {
+      "start": 525,
+      "text": "that beautifully designed fast"
+    },
+    {
+      "start": 527,
+      "text": "interfaces intuitive I feel like a lot"
+    },
+    {
+      "start": 529,
+      "text": "of people who don't have a plan don't"
+    },
+    {
+      "start": 532,
+      "text": "have a strategy make the mistake that"
+    },
+    {
+      "start": 533,
+      "text": "they say yes to everything and it"
+    },
+    {
+      "start": 536,
+      "text": "dilutes them so much that you can't"
+    },
+    {
+      "start": 538,
+      "text": "really tell after a while what they're"
+    },
+    {
+      "start": 540,
+      "text": "actually good for and so I feel like you"
+    },
+    {
+      "start": 541,
+      "text": "know one of the things that we've always"
+    },
+    {
+      "start": 543,
+      "text": "done well is being very clear who is our"
+    },
+    {
+      "start": 546,
+      "text": "ICP who are we for who are we not for"
+    },
+    {
+      "start": 548,
+      "text": "what are we willing to say yes to and"
+    },
+    {
+      "start": 550,
+      "text": "what are we willing to say no to and"
+    },
+    {
+      "start": 552,
+      "text": "it's actually hard because when you have"
+    },
+    {
+      "start": 555,
+      "text": "somebody knock on your door and wave a"
+    },
+    {
+      "start": 557,
+      "text": "lot of money in front of your face and"
+    },
+    {
+      "start": 558,
+      "text": "say hey I need this thing can you please"
+    },
+    {
+      "start": 560,
+      "text": "build it for me it's very tempting"
+    },
+    {
+      "start": 562,
+      "text": "especially when you don't have a lot of"
+    },
+    {
+      "start": 563,
+      "text": "Revenue yet and you know also don't have"
+    },
+    {
+      "start": 565,
+      "text": "funding but it's those moments when I"
+    },
+    {
+      "start": 567,
+      "text": "think it really matters to be clear"
+    },
+    {
+      "start": 569,
+      "text": "about what your strategy is so that you"
+    },
+    {
+      "start": 571,
+      "text": "have the permission to say no in those"
+    },
+    {
+      "start": 573,
+      "text": "moments what were the most painful NOS"
+    },
+    {
+      "start": 576,
+      "text": "you've said today oh man usually the"
+    },
+    {
+      "start": 578,
+      "text": "ones where somebody shows up and says"
+    },
+    {
+      "start": 580,
+      "text": "hey I got 70 locations we love your"
+    },
+    {
+      "start": 583,
+      "text": "product we've already used it we've"
+    },
+    {
+      "start": 584,
+      "text": "already done the troll and we just need"
+    },
+    {
+      "start": 587,
+      "text": "this one little extra button or this one"
+    },
+    {
+      "start": 589,
+      "text": "little extra report or something can you"
+    },
+    {
+      "start": 592,
+      "text": "can you please build it and we'll be a"
+    },
+    {
+      "start": 593,
+      "text": "customer those are the moments where"
+    },
+    {
+      "start": 595,
+      "text": "it's really difficult to say no but so"
+    },
+    {
+      "start": 597,
+      "text": "far we've managed to do that uh but"
+    },
+    {
+      "start": 598,
+      "text": "certainly not with without like you know"
+    },
+    {
+      "start": 601,
+      "text": "feeling wow like a man that would have"
+    },
+    {
+      "start": 603,
+      "text": "been nice actually right right this is a"
+    },
+    {
+      "start": 606,
+      "text": "question from one of your close"
+    },
+    {
+      "start": 607,
+      "text": "colleagues Daniel has exceptional"
+    },
+    {
+      "start": 610,
+      "text": "intuition for building a great product"
+    },
+    {
+      "start": 612,
+      "text": "how would you describe your personal"
+    },
+    {
+      "start": 614,
+      "text": "philosophy of what it means to build"
+    },
+    {
+      "start": 617,
+      "text": "great product I love the question"
+    },
+    {
+      "start": 619,
+      "text": "because intuition is such a thing that"
+    },
+    {
+      "start": 621,
+      "text": "is underappreciated in traditional"
+    },
+    {
+      "start": 624,
+      "text": "product management for those of you who"
+    },
+    {
+      "start": 625,
+      "text": "don't know product management is a lot"
+    },
+    {
+      "start": 627,
+      "text": "of like lot about prioritization"
+    },
+    {
+      "start": 629,
+      "text": "which features do you build how do you"
+    },
+    {
+      "start": 631,
+      "text": "weigh them there's all kinds of systems"
+    },
+    {
+      "start": 633,
+      "text": "that you can use you can assign points"
+    },
+    {
+      "start": 635,
+      "text": "and impact scores and whatnot right and"
+    },
+    {
+      "start": 637,
+      "text": "what ends up happening is you end up"
+    },
+    {
+      "start": 639,
+      "text": "with unremarkable products because when"
+    },
+    {
+      "start": 641,
+      "text": "you apply such a rigid system to the way"
+    },
+    {
+      "start": 645,
+      "text": "you build product you end up optimizing"
+    },
+    {
+      "start": 648,
+      "text": "for a lot of boring stuff I think the"
+    },
+    {
+      "start": 650,
+      "text": "most exciting products the ones that"
+    },
+    {
+      "start": 652,
+      "text": "really like inspire people make people"
+    },
+    {
+      "start": 654,
+      "text": "truly feel love for a product are the"
+    },
+    {
+      "start": 657,
+      "text": "ones that have intuition in then where"
+    },
+    {
+      "start": 659,
+      "text": "somebody had a feeling that something"
+    },
+    {
+      "start": 662,
+      "text": "was a good idea and went with that gut"
+    },
+    {
+      "start": 664,
+      "text": "instinct that intuition if you call it"
+    },
+    {
+      "start": 666,
+      "text": "so now the question becomes what does it"
+    },
+    {
+      "start": 668,
+      "text": "take to have intuition and I think it's"
+    },
+    {
+      "start": 670,
+      "text": "with many things in life where to"
+    },
+    {
+      "start": 672,
+      "text": "develop intuition for anything you just"
+    },
+    {
+      "start": 674,
+      "text": "got to put in the Reps you just got to"
+    },
+    {
+      "start": 676,
+      "text": "see a lot right so if you want to be a"
+    },
+    {
+      "start": 677,
+      "text": "product leader you have to try a lot of"
+    },
+    {
+      "start": 680,
+      "text": "products you have to be in the products"
+    },
+    {
+      "start": 681,
+      "text": "you have to be willing to try every"
+    },
+    {
+      "start": 683,
+      "text": "product and analyze it and form an"
+    },
+    {
+      "start": 686,
+      "text": "opinion what do you like about it what"
+    },
+    {
+      "start": 687,
+      "text": "do you not like about it why is it good"
+    },
+    {
+      "start": 689,
+      "text": "why does a product make you angry why"
+    },
+    {
+      "start": 691,
+      "text": "does a product make you excited what are"
+    },
+    {
+      "start": 693,
+      "text": "those like you know things that are"
+    },
+    {
+      "start": 695,
+      "text": "going on and a lot of times it's not"
+    },
+    {
+      "start": 696,
+      "text": "stuff that you can perfectly capture in"
+    },
+    {
+      "start": 699,
+      "text": "like spreadsheets like it's like the"
+    },
+    {
+      "start": 701,
+      "text": "little things right and that's what I"
+    },
+    {
+      "start": 702,
+      "text": "mean with intuition right like you need"
+    },
+    {
+      "start": 704,
+      "text": "to see a lot of products try smell taste"
+    },
+    {
+      "start": 707,
+      "text": "products to be able to tell when a"
+    },
+    {
+      "start": 710,
+      "text": "product is good and then also be able to"
+    },
+    {
+      "start": 712,
+      "text": "judge whether an idea or a feature is"
+    },
+    {
+      "start": 714,
+      "text": "good and I'd much rather make an"
+    },
+    {
+      "start": 717,
+      "text": "opinionated decision and be wrong about"
+    },
+    {
+      "start": 719,
+      "text": "it then crowdsourcing these decisions"
+    },
+    {
+      "start": 722,
+      "text": "and then always making the safe decision"
+    },
+    {
+      "start": 723,
+      "text": "so I I believe like you know being"
+    },
+    {
+      "start": 725,
+      "text": "opinionated having a philosophy with"
+    },
+    {
+      "start": 727,
+      "text": "what your product should be is very"
+    },
+    {
+      "start": 729,
+      "text": "important to building a product that"
+    },
+    {
+      "start": 730,
+      "text": "people at will really love at the end of"
+    },
+    {
+      "start": 732,
+      "text": "the day are you still involved in"
+    },
+    {
+      "start": 734,
+      "text": "product at the stage very much so do you"
+    },
+    {
+      "start": 737,
+      "text": "feel like you have to stay involved"
+    },
+    {
+      "start": 739,
+      "text": "there for a while or is there a point"
+    },
+    {
+      "start": 741,
+      "text": "where you think the system has to be set"
+    },
+    {
+      "start": 744,
+      "text": "up such that the PMS or product leaders"
+    },
+    {
+      "start": 747,
+      "text": "have the uh empowerment to make their"
+    },
+    {
+      "start": 749,
+      "text": "own decisions the short answer is yes I"
+    },
+    {
+      "start": 751,
+      "text": "think it will always have to be involved"
+    },
+    {
+      "start": 752,
+      "text": "I think it's actually crazy to think"
+    },
+    {
+      "start": 754,
+      "text": "that the CEO should not be involved in"
+    },
+    {
+      "start": 756,
+      "text": "product I mean product is literally what"
+    },
+    {
+      "start": 759,
+      "text": "you're selling and it's in some ways the"
+    },
+    {
+      "start": 761,
+      "text": "most important thing about your business"
+    },
+    {
+      "start": 764,
+      "text": "so how could you not be intimately"
+    },
+    {
+      "start": 766,
+      "text": "involved as a CEO that's the way I see"
+    },
+    {
+      "start": 768,
+      "text": "it now that being said you don't want to"
+    },
+    {
+      "start": 771,
+      "text": "create an environment where you"
+    },
+    {
+      "start": 772,
+      "text": "micromanage everything of course right"
+    },
+    {
+      "start": 774,
+      "text": "so you want to put in place people who"
+    },
+    {
+      "start": 776,
+      "text": "are able to act with conviction"
+    },
+    {
+      "start": 778,
+      "text": "themselves right but I think that's"
+    },
+    {
+      "start": 780,
+      "text": "different from letting them completely"
+    },
+    {
+      "start": 783,
+      "text": "decide what is getting built and not"
+    },
+    {
+      "start": 784,
+      "text": "being aware of it I think it is very"
+    },
+    {
+      "start": 786,
+      "text": "important to stay plugged in to have"
+    },
+    {
+      "start": 788,
+      "text": "that sort of cohesive vision for where"
+    },
+    {
+      "start": 790,
+      "text": "the product is going and keep doing that"
+    },
+    {
+      "start": 792,
+      "text": "I also believe that the way software is"
+    },
+    {
+      "start": 795,
+      "text": "built in many companies is not conducive"
+    },
+    {
+      "start": 798,
+      "text": "to great product outcomes and what I"
+    },
+    {
+      "start": 800,
+      "text": "mean by that is a lot of times you know"
+    },
+    {
+      "start": 802,
+      "text": "a PM product manager comes up with a"
+    },
+    {
+      "start": 804,
+      "text": "feature they spec it out they work with"
+    },
+    {
+      "start": 807,
+      "text": "design to create like a UI design sign"
+    },
+    {
+      "start": 809,
+      "text": "and then they hand it off to engineering"
+    },
+    {
+      "start": 811,
+      "text": "and then engineering builds something it"
+    },
+    {
+      "start": 813,
+      "text": "comes back there's some Q&A maybe some"
+    },
+    {
+      "start": 815,
+      "text": "back and forth but then it gets shipped"
+    },
+    {
+      "start": 816,
+      "text": "right we fundamentally believe that this"
+    },
+    {
+      "start": 819,
+      "text": "is not a good approach to building great"
+    },
+    {
+      "start": 821,
+      "text": "great products I think you can actually"
+    },
+    {
+      "start": 822,
+      "text": "build really decent products with it but"
+    },
+    {
+      "start": 824,
+      "text": "if you truly aspire to build the world's"
+    },
+    {
+      "start": 827,
+      "text": "best software you have to do it"
+    },
+    {
+      "start": 829,
+      "text": "differently you have to bring the"
+    },
+    {
+      "start": 830,
+      "text": "engineers the ones that are building the"
+    },
+    {
+      "start": 833,
+      "text": "codes that the ones that are living in"
+    },
+    {
+      "start": 834,
+      "text": "the code base into the mix and they have"
+    },
+    {
+      "start": 836,
+      "text": "to understand why it is they building"
+    },
+    {
+      "start": 839,
+      "text": "what they are building they have to"
+    },
+    {
+      "start": 840,
+      "text": "understand the customer and so many"
+    },
+    {
+      "start": 842,
+      "text": "times when they make decisions the"
+    },
+    {
+      "start": 844,
+      "text": "little of things they will spot"
+    },
+    {
+      "start": 846,
+      "text": "opportunities that a product manager"
+    },
+    {
+      "start": 848,
+      "text": "could never identify so it's really"
+    },
+    {
+      "start": 850,
+      "text": "important that you bring them on board"
+    },
+    {
+      "start": 852,
+      "text": "and some companies call it product"
+    },
+    {
+      "start": 853,
+      "text": "Engineers I think that's just like a"
+    },
+    {
+      "start": 855,
+      "text": "title thing but at the end of the day it"
+    },
+    {
+      "start": 857,
+      "text": "means that the product manager is not"
+    },
+    {
+      "start": 859,
+      "text": "the owner of the product they're not"
+    },
+    {
+      "start": 861,
+      "text": "dictating what gets built and how and"
+    },
+    {
+      "start": 863,
+      "text": "all the specs they're more like a"
+    },
+    {
+      "start": 865,
+      "text": "research function that is there to"
+    },
+    {
+      "start": 867,
+      "text": "assist the product development which"
+    },
+    {
+      "start": 869,
+      "text": "happens with engineers and designers and"
+    },
+    {
+      "start": 871,
+      "text": "the product manager informs that by"
+    },
+    {
+      "start": 873,
+      "text": "providing insights and perspective from"
+    },
+    {
+      "start": 876,
+      "text": "talking to customers and the market and"
+    },
+    {
+      "start": 878,
+      "text": "competitors and all of that stuff but"
+    },
+    {
+      "start": 880,
+      "text": "they are not like the mini CEO as"
+    },
+    {
+      "start": 882,
+      "text": "they're sometimes called for a feature"
+    },
+    {
+      "start": 884,
+      "text": "or a product they're more in like this"
+    },
+    {
+      "start": 885,
+      "text": "research and assistance role so in the"
+    },
+    {
+      "start": 887,
+      "text": "early days you bootstrapped you figured"
+    },
+    {
+      "start": 890,
+      "text": "out ways to earn some marketing dollars"
+    },
+    {
+      "start": 892,
+      "text": "here and there and you tged along and at"
+    },
+    {
+      "start": 894,
+      "text": "a certain point you decided to raise"
+    },
+    {
+      "start": 895,
+      "text": "some Capital so what was that moment"
+    },
+    {
+      "start": 898,
+      "text": "when you and your your co-founder said"
+    },
+    {
+      "start": 900,
+      "text": "let's go talk to some fec's I think it"
+    },
+    {
+      "start": 902,
+      "text": "was always obvious for us from the"
+    },
+    {
+      "start": 904,
+      "text": "beginning that the vision was so big"
+    },
+    {
+      "start": 906,
+      "text": "that at some point along the journey we"
+    },
+    {
+      "start": 908,
+      "text": "would have to bring in some outside"
+    },
+    {
+      "start": 909,
+      "text": "Capital to you know just like make the"
+    },
+    {
+      "start": 911,
+      "text": "necessary Investments to hire the team"
+    },
+    {
+      "start": 914,
+      "text": "build the product and do all of that"
+    },
+    {
+      "start": 915,
+      "text": "stuff so it wasn't so much that we were"
+    },
+    {
+      "start": 917,
+      "text": "trying to figure out should we raise or"
+    },
+    {
+      "start": 918,
+      "text": "not it was more like okay when do we"
+    },
+    {
+      "start": 920,
+      "text": "feel like you know there's enough there"
+    },
+    {
+      "start": 922,
+      "text": "that we feel comfortable taking someone"
+    },
+    {
+      "start": 924,
+      "text": "else's money it's a big responsibility"
+    },
+    {
+      "start": 927,
+      "text": "you know if you take someone else's"
+    },
+    {
+      "start": 928,
+      "text": "money and beginning it's like you know"
+    },
+    {
+      "start": 930,
+      "text": "they say family friends and fools right"
+    },
+    {
+      "start": 931,
+      "text": "for a reason uh a lot of times they lose"
+    },
+    {
+      "start": 934,
+      "text": "the money right and we just wanted to"
+    },
+    {
+      "start": 936,
+      "text": "make sure that we felt really good about"
+    },
+    {
+      "start": 938,
+      "text": "it before we did that and did not lose"
+    },
+    {
+      "start": 940,
+      "text": "the money frankly what was the early"
+    },
+    {
+      "start": 943,
+      "text": "iteration of those pitch meetings like"
+    },
+    {
+      "start": 945,
+      "text": "what was the feedback I'm sure you"
+    },
+    {
+      "start": 947,
+      "text": "remember some of the NOS that you heard"
+    },
+    {
+      "start": 949,
+      "text": "like what was that like I mean it sucks"
+    },
+    {
+      "start": 951,
+      "text": "right like you know fundraising as an"
+    },
+    {
+      "start": 953,
+      "text": "early stage it's funny because in the"
+    },
+    {
+      "start": 955,
+      "text": "beginning when you start out doing your"
+    },
+    {
+      "start": 957,
+      "text": "pre-seed your seat round man it's such a"
+    },
+    {
+      "start": 959,
+      "text": "grind right like as a Founder unless you"
+    },
+    {
+      "start": 961,
+      "text": "have some prior background unless you"
+    },
+    {
+      "start": 963,
+      "text": "already are super connected and know"
+    },
+    {
+      "start": 965,
+      "text": "everybody in the industry if that's not"
+    },
+    {
+      "start": 967,
+      "text": "you then chances are it's not going to"
+    },
+    {
+      "start": 969,
+      "text": "be a fun experience it's just not how it"
+    },
+    {
+      "start": 971,
+      "text": "goes right even like you know getting"
+    },
+    {
+      "start": 973,
+      "text": "into a meeting is difficult in the"
+    },
+    {
+      "start": 975,
+      "text": "beginning and then later once the"
+    },
+    {
+      "start": 977,
+      "text": "business starts to take off a little bit"
+    },
+    {
+      "start": 979,
+      "text": "there's this interesting moment where it"
+    },
+    {
+      "start": 981,
+      "text": "completely shifts like all of a sudden"
+    },
+    {
+      "start": 983,
+      "text": "like you know the VCS and the investors"
+    },
+    {
+      "start": 984,
+      "text": "are the ones that are trying to get a"
+    },
+    {
+      "start": 985,
+      "text": "meeting with you and now you are in the"
+    },
+    {
+      "start": 987,
+      "text": "position where there's like way too many"
+    },
+    {
+      "start": 988,
+      "text": "many emails coming in and you're trying"
+    },
+    {
+      "start": 990,
+      "text": "to figure out like how to spend your"
+    },
+    {
+      "start": 992,
+      "text": "time so you actually start to appreciate"
+    },
+    {
+      "start": 994,
+      "text": "what it was like for the investors so"
+    },
+    {
+      "start": 996,
+      "text": "now you're in the driver's seat you can"
+    },
+    {
+      "start": 998,
+      "text": "make some decisions with all these VCS"
+    },
+    {
+      "start": 1000,
+      "text": "knocking on your doors how did you go"
+    },
+    {
+      "start": 1002,
+      "text": "about that process like what did you"
+    },
+    {
+      "start": 1003,
+      "text": "optimize for and ultimately how did you"
+    },
+    {
+      "start": 1006,
+      "text": "pick the right type of Partners to work"
+    },
+    {
+      "start": 1008,
+      "text": "with over time you know for the series a"
+    },
+    {
+      "start": 1010,
+      "text": "um which we did 2022 we actually ran a"
+    },
+    {
+      "start": 1013,
+      "text": "very very short process I think it took"
+    },
+    {
+      "start": 1015,
+      "text": "us like two weeks from first meeting"
+    },
+    {
+      "start": 1017,
+      "text": "until we had term sheets and then like"
+    },
+    {
+      "start": 1019,
+      "text": "another week to actually sign a term"
+    },
+    {
+      "start": 1021,
+      "text": "sheet for C then series a rounds at"
+    },
+    {
+      "start": 1024,
+      "text": "least in my experience it's all about"
+    },
+    {
+      "start": 1026,
+      "text": "like you know do you have traction and"
+    },
+    {
+      "start": 1028,
+      "text": "is the investor excited about the idea"
+    },
+    {
+      "start": 1030,
+      "text": "and usually you know pretty early right"
+    },
+    {
+      "start": 1032,
+      "text": "like 20 minutes into a conversation the"
+    },
+    {
+      "start": 1034,
+      "text": "person who ended up doing a series a"
+    },
+    {
+      "start": 1036,
+      "text": "Sanji from open view he literally like"
+    },
+    {
+      "start": 1038,
+      "text": "20 minutes into our first conversation"
+    },
+    {
+      "start": 1040,
+      "text": "stopped me and said all right what does"
+    },
+    {
+      "start": 1042,
+      "text": "it take to win this deal like I don't"
+    },
+    {
+      "start": 1044,
+      "text": "need to hear anymore like I've heard"
+    },
+    {
+      "start": 1045,
+      "text": "enough like what does it take to win"
+    },
+    {
+      "start": 1046,
+      "text": "this deal right and I feel like it's"
+    },
+    {
+      "start": 1048,
+      "text": "almost obvious when you have that"
+    },
+    {
+      "start": 1049,
+      "text": "meeting and you know oh wow like you"
+    },
+    {
+      "start": 1051,
+      "text": "know this could be some something that"
+    },
+    {
+      "start": 1053,
+      "text": "could work out I guess later on like you"
+    },
+    {
+      "start": 1055,
+      "text": "know for where we are now it shifts a"
+    },
+    {
+      "start": 1057,
+      "text": "little bit right because now it's no"
+    },
+    {
+      "start": 1059,
+      "text": "longer the question of are you going to"
+    },
+    {
+      "start": 1061,
+      "text": "get funded yes or no but more like okay"
+    },
+    {
+      "start": 1062,
+      "text": "who is the best partner to help us"
+    },
+    {
+      "start": 1064,
+      "text": "fulfill our vision and make this like a"
+    },
+    {
+      "start": 1067,
+      "text": "really big meaningful company for the"
+    },
+    {
+      "start": 1069,
+      "text": "long term right so even like you know"
+    },
+    {
+      "start": 1071,
+      "text": "with Altos you know the long-term Focus"
+    },
+    {
+      "start": 1073,
+      "text": "that you guys have that was really"
+    },
+    {
+      "start": 1074,
+      "text": "important to us right and getting to"
+    },
+    {
+      "start": 1076,
+      "text": "know you better and the team here and"
+    },
+    {
+      "start": 1078,
+      "text": "how everybody thought like that was a"
+    },
+    {
+      "start": 1080,
+      "text": "much bigger consideration than when we"
+    },
+    {
+      "start": 1082,
+      "text": "raised our seed rant several years ago"
+    },
+    {
+      "start": 1083,
+      "text": "for example if you're on that road trip"
+    },
+    {
+      "start": 1086,
+      "text": "with your wife talking to the salon"
+    },
+    {
+      "start": 1087,
+      "text": "owners maybe even before that as you"
+    },
+    {
+      "start": 1089,
+      "text": "were thinking about maybe starting a"
+    },
+    {
+      "start": 1091,
+      "text": "company what would you tell Daniel what"
+    },
+    {
+      "start": 1094,
+      "text": "now8 nine years ago I would say the"
+    },
+    {
+      "start": 1097,
+      "text": "thing that I did not appreciate at the"
+    },
+    {
+      "start": 1099,
+      "text": "very beginning of the journey is how"
+    },
+    {
+      "start": 1102,
+      "text": "incredibly long it would take to get to"
+    },
+    {
+      "start": 1105,
+      "text": "a place where it really you can really"
+    },
+    {
+      "start": 1107,
+      "text": "see the future you know everyone"
+    },
+    {
+      "start": 1109,
+      "text": "understands it intellectually when you"
+    },
+    {
+      "start": 1110,
+      "text": "say oh it takes like 7 to 10 years for"
+    },
+    {
+      "start": 1113,
+      "text": "any company to be successful right but"
+    },
+    {
+      "start": 1115,
+      "text": "when you're in it when you're like a"
+    },
+    {
+      "start": 1116,
+      "text": "year three year four it can feel really"
+    },
+    {
+      "start": 1118,
+      "text": "long and it's almost like this thing"
+    },
+    {
+      "start": 1121,
+      "text": "where for the longest time you're just"
+    },
+    {
+      "start": 1122,
+      "text": "trying to survive and then it hits you"
+    },
+    {
+      "start": 1124,
+      "text": "finally where it's like hey I think"
+    },
+    {
+      "start": 1126,
+      "text": "we're no longer fighting to to survive I"
+    },
+    {
+      "start": 1129,
+      "text": "think you know now I can actually shift"
+    },
+    {
+      "start": 1131,
+      "text": "around how big could this be but before"
+    },
+    {
+      "start": 1133,
+      "text": "you hit that moment it's a real grind"
+    },
+    {
+      "start": 1135,
+      "text": "and I would say if I could go back and"
+    },
+    {
+      "start": 1137,
+      "text": "talk to me at the very beginning I would"
+    },
+    {
+      "start": 1139,
+      "text": "just like really emphasize hey make sure"
+    },
+    {
+      "start": 1141,
+      "text": "that you embrace it it's like part of"
+    },
+    {
+      "start": 1143,
+      "text": "the journey don't get discouraged I mean"
+    },
+    {
+      "start": 1145,
+      "text": "we didn't but still like it would have"
+    },
+    {
+      "start": 1146,
+      "text": "been nice to hear that and and and to"
+    },
+    {
+      "start": 1149,
+      "text": "know that this is what it takes"
+    },
+    {
+      "start": 1154,
+      "text": "[Music]"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 557,
+  "timestamp": "2025-07-24T08:25:15.756Z"
+}

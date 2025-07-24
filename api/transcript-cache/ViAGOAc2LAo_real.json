@@ -1,0 +1,2358 @@
+{
+  "success": true,
+  "videoId": "ViAGOAc2LAo",
+  "videoTitle": "How Bolt Hit $40M ARR in 5 Months with This AI Pivot Strategy ｜ Stackblitz(Bolt.new), Eric Simons",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "In the first day, I think we added like"
+    },
+    {
+      "start": 2,
+      "text": "60K. I remember one of our engineers was"
+    },
+    {
+      "start": 4,
+      "text": "like, \"Guys, we added 60K today. Oh my"
+    },
+    {
+      "start": 6,
+      "text": "god.\" And you I jumped in was like,"
+    },
+    {
+      "start": 7,
+      "text": "\"Yep, it's cool, but like this is, you"
+    },
+    {
+      "start": 9,
+      "text": "know, this is like launch day. This is"
+    },
+    {
+      "start": 10,
+      "text": "going to go away.\" And that didn't"
+    },
+    {
+      "start": 12,
+      "text": "happen. Every single day, we kept adding"
+    },
+    {
+      "start": 14,
+      "text": "more and more ARR. In the first 2"
+    },
+    {
+      "start": 17,
+      "text": "months, we went from 0 to 20 million of"
+    },
+    {
+      "start": 19,
+      "text": "ARR. Everyone we were talking to had"
+    },
+    {
+      "start": 21,
+      "text": "never seen anything like it. We were"
+    },
+    {
+      "start": 22,
+      "text": "actually we were going to go out of"
+    },
+    {
+      "start": 23,
+      "text": "business last year. You know, we spent"
+    },
+    {
+      "start": 25,
+      "text": "seven years building out the core"
+    },
+    {
+      "start": 27,
+      "text": "technology of the product. couldn't"
+    },
+    {
+      "start": 29,
+      "text": "figure out how to actually effectively"
+    },
+    {
+      "start": 31,
+      "text": "monetize it. We had one last experiment"
+    },
+    {
+      "start": 33,
+      "text": "that we ran um is it's a product called"
+    },
+    {
+      "start": 35,
+      "text": "Bolt. Finding product market fit. It is"
+    },
+    {
+      "start": 37,
+      "text": "purely how many people you talk to. It"
+    },
+    {
+      "start": 40,
+      "text": "is purely that you people there maybe"
+    },
+    {
+      "start": 42,
+      "text": "early in their product career to kind of"
+    },
+    {
+      "start": 43,
+      "text": "have lots of cool ideas about things"
+    },
+    {
+      "start": 45,
+      "text": "they could build and whatever that are"
+    },
+    {
+      "start": 47,
+      "text": "not really attached to the reality of"
+    },
+    {
+      "start": 49,
+      "text": "the actual end user customer using the"
+    },
+    {
+      "start": 52,
+      "text": "product, what they're trying to do with"
+    },
+    {
+      "start": 53,
+      "text": "it, the challenges they're currently"
+    },
+    {
+      "start": 54,
+      "text": "running into with it. One of the things"
+    },
+    {
+      "start": 56,
+      "text": "we really invested in early on with Bolt"
+    },
+    {
+      "start": 58,
+      "text": "was like community. You know, we've"
+    },
+    {
+      "start": 60,
+      "text": "hired in a couple of folks who their"
+    },
+    {
+      "start": 61,
+      "text": "entire job is just talking to our users."
+    },
+    {
+      "start": 63,
+      "text": "And so I think that's really the only"
+    },
+    {
+      "start": 64,
+      "text": "way you can meaningfully scale the full"
+    },
+    {
+      "start": 66,
+      "text": "cycle of user feedback is just having"
+    },
+    {
+      "start": 68,
+      "text": "great people that are in your community"
+    },
+    {
+      "start": 70,
+      "text": "or on your actual core team. That's"
+    },
+    {
+      "start": 72,
+      "text": "their entire job and they're all working"
+    },
+    {
+      "start": 74,
+      "text": "together. You have to learn how to be"
+    },
+    {
+      "start": 76,
+      "text": "intellectually honest with yourself. And"
+    },
+    {
+      "start": 77,
+      "text": "it's like, am I not giving up because"
+    },
+    {
+      "start": 79,
+      "text": "that's what people say you should do, or"
+    },
+    {
+      "start": 81,
+      "text": "am I not giving up because I actually"
+    },
+    {
+      "start": 83,
+      "text": "really like I have conviction in this"
+    },
+    {
+      "start": 85,
+      "text": "and like I just want to see this I I"
+    },
+    {
+      "start": 87,
+      "text": "really want to see this made possible. I"
+    },
+    {
+      "start": 90,
+      "text": "I think the only way I learned how to"
+    },
+    {
+      "start": 92,
+      "text": "determine when it was time to pivot"
+    },
+    {
+      "start": 94,
+      "text": "versus time to iterate was just"
+    },
+    {
+      "start": 101,
+      "text": "I'm Eric Simons. I'm the co-founder and"
+    },
+    {
+      "start": 103,
+      "text": "CEO of Stack Blitz and we're the"
+    },
+    {
+      "start": 105,
+      "text": "creators of Bolt. new. People went to"
+    },
+    {
+      "start": 107,
+      "text": "bolt.new, typed in the idea of a website"
+    },
+    {
+      "start": 109,
+      "text": "or whatever that they wanted to make,"
+    },
+    {
+      "start": 111,
+      "text": "hit enter, and 30 seconds later, they"
+    },
+    {
+      "start": 113,
+      "text": "had a a web application ready to go."
+    },
+    {
+      "start": 115,
+      "text": "First two months of launching Bolt, we"
+    },
+    {
+      "start": 117,
+      "text": "went from 0 to 20 million of ARR. The 3"
+    },
+    {
+      "start": 119,
+      "text": "months since then, we've added another"
+    },
+    {
+      "start": 121,
+      "text": "20 million of ARR just about, and we now"
+    },
+    {
+      "start": 123,
+      "text": "have almost 4 million registered users"
+    },
+    {
+      "start": 126,
+      "text": "and are continuing to grow like a weed."
+    },
+    {
+      "start": 132,
+      "text": "I like computers from a pretty early"
+    },
+    {
+      "start": 134,
+      "text": "age. I was like building computers like"
+    },
+    {
+      "start": 136,
+      "text": "be gaming computers and that sort of"
+    },
+    {
+      "start": 138,
+      "text": "thing. That was actually when my"
+    },
+    {
+      "start": 139,
+      "text": "co-founder and I met was when we were"
+    },
+    {
+      "start": 141,
+      "text": "you I think around 12 or 13. The first"
+    },
+    {
+      "start": 144,
+      "text": "product that my co-founder and I built."
+    },
+    {
+      "start": 147,
+      "text": "We basically built a version of Dropbox"
+    },
+    {
+      "start": 149,
+      "text": "before Dropbox existed. And this is back"
+    },
+    {
+      "start": 151,
+      "text": "in like 2006 or 7. At that time, the way"
+    },
+    {
+      "start": 154,
+      "text": "that you kind of bring your digital"
+    },
+    {
+      "start": 156,
+      "text": "documents between school and home was"
+    },
+    {
+      "start": 157,
+      "text": "like USB flash drives. You're like 12 or"
+    },
+    {
+      "start": 160,
+      "text": "13 or whatever. You're going to forget"
+    },
+    {
+      "start": 161,
+      "text": "this, right? You're going to leave this"
+    },
+    {
+      "start": 162,
+      "text": "at home. Happened all the time. And so"
+    },
+    {
+      "start": 164,
+      "text": "we had the idea of like, hey, let's just"
+    },
+    {
+      "start": 165,
+      "text": "make a digital storage service that"
+    },
+    {
+      "start": 167,
+      "text": "people can upload their homework to or"
+    },
+    {
+      "start": 168,
+      "text": "whatever. And it took off like wildfire"
+    },
+    {
+      "start": 170,
+      "text": "like the entire many school districts in"
+    },
+    {
+      "start": 172,
+      "text": "Illinois and just kind of across the"
+    },
+    {
+      "start": 174,
+      "text": "Midwest started using this thing. I"
+    },
+    {
+      "start": 176,
+      "text": "think at that time I was I was like 18"
+    },
+    {
+      "start": 178,
+      "text": "or 19. I for come out Silicon Valley. We"
+    },
+    {
+      "start": 180,
+      "text": "had gone through one of these"
+    },
+    {
+      "start": 181,
+      "text": "accelerator program. At that time they"
+    },
+    {
+      "start": 183,
+      "text": "would give you like 20K. So we went"
+    },
+    {
+      "start": 185,
+      "text": "through that money and then we're out of"
+    },
+    {
+      "start": 186,
+      "text": "money but we the product wasn't ready to"
+    },
+    {
+      "start": 188,
+      "text": "launch. And so I was like what do you"
+    },
+    {
+      "start": 190,
+      "text": "do? We just so happened to had access to"
+    },
+    {
+      "start": 192,
+      "text": "the AOL building at that time because"
+    },
+    {
+      "start": 194,
+      "text": "one of our investors said was renting"
+    },
+    {
+      "start": 195,
+      "text": "office space out of there. So I had a"
+    },
+    {
+      "start": 197,
+      "text": "key card to get into the AOL building"
+    },
+    {
+      "start": 199,
+      "text": "and so there's couches here, you know, I"
+    },
+    {
+      "start": 200,
+      "text": "could sleep on the couch, there's a gym"
+    },
+    {
+      "start": 202,
+      "text": "and so they have showers. I was 19."
+    },
+    {
+      "start": 205,
+      "text": "Expectations for quality of of living"
+    },
+    {
+      "start": 206,
+      "text": "are pretty low, I think, at that age."
+    },
+    {
+      "start": 208,
+      "text": "And so I I ended up just, you know,"
+    },
+    {
+      "start": 209,
+      "text": "starting to live out of out of their"
+    },
+    {
+      "start": 211,
+      "text": "headquarters. I I would I was just"
+    },
+    {
+      "start": 213,
+      "text": "coding from 9:00 a.m. to 11:00 p.m."
+    },
+    {
+      "start": 217,
+      "text": "12:00 p.m. I did that for like I think"
+    },
+    {
+      "start": 218,
+      "text": "like 4 months um until they they"
+    },
+    {
+      "start": 220,
+      "text": "eventually someone like someone finally"
+    },
+    {
+      "start": 222,
+      "text": "caught on that I was living in their"
+    },
+    {
+      "start": 223,
+      "text": "headquarters and they they found me and"
+    },
+    {
+      "start": 224,
+      "text": "threw me out at like 5:00 in the"
+    },
+    {
+      "start": 226,
+      "text": "morning. I didn't know anyone in Silicon"
+    },
+    {
+      "start": 227,
+      "text": "Valley. I'm not from California. I went"
+    },
+    {
+      "start": 229,
+      "text": "and like slept on a table at Starbucks"
+    },
+    {
+      "start": 232,
+      "text": "until they opened."
+    },
+    {
+      "start": 234,
+      "text": "Thinking was a company that we didn't"
+    },
+    {
+      "start": 236,
+      "text": "really intend to be a company."
+    },
+    {
+      "start": 237,
+      "text": "Basically, we had a whole bunch of"
+    },
+    {
+      "start": 238,
+      "text": "different startup ideas we were trying"
+    },
+    {
+      "start": 240,
+      "text": "on the side. We were building lots of"
+    },
+    {
+      "start": 242,
+      "text": "different web applications as a result"
+    },
+    {
+      "start": 243,
+      "text": "for each of these startups to stay"
+    },
+    {
+      "start": 245,
+      "text": "afloat. We were like, \"Okay, you know,"
+    },
+    {
+      "start": 246,
+      "text": "we actually know a lot about building"
+    },
+    {
+      "start": 248,
+      "text": "web applications cuz we're we're doing"
+    },
+    {
+      "start": 250,
+      "text": "it so much. We could probably like teach"
+    },
+    {
+      "start": 252,
+      "text": "folks online and, you know, charge for"
+    },
+    {
+      "start": 254,
+      "text": "like our courses and and make money to"
+    },
+    {
+      "start": 256,
+      "text": "keep us afloat so we can keep trying"
+    },
+    {
+      "start": 257,
+      "text": "other ideas.\" Kind of the funny thing is"
+    },
+    {
+      "start": 259,
+      "text": "like of all the things we were working"
+    },
+    {
+      "start": 260,
+      "text": "on at that time, Thinkster was the most"
+    },
+    {
+      "start": 262,
+      "text": "successful of all of them. We were"
+    },
+    {
+      "start": 264,
+      "text": "teaching a lot of people. We had like I"
+    },
+    {
+      "start": 266,
+      "text": "think it's at like 100,000 something"
+    },
+    {
+      "start": 267,
+      "text": "people that were you know using this"
+    },
+    {
+      "start": 268,
+      "text": "site uh to learn how to do web"
+    },
+    {
+      "start": 270,
+      "text": "development. And the biggest problem the"
+    },
+    {
+      "start": 272,
+      "text": "people learning were having. I mean this"
+    },
+    {
+      "start": 274,
+      "text": "is common with anyone that's learning"
+    },
+    {
+      "start": 275,
+      "text": "how to program is not even like learning"
+    },
+    {
+      "start": 277,
+      "text": "how to write the code but it's actually"
+    },
+    {
+      "start": 279,
+      "text": "setting up your development environment"
+    },
+    {
+      "start": 281,
+      "text": "which is basically mean setting up your"
+    },
+    {
+      "start": 282,
+      "text": "computer to be able to even like run"
+    },
+    {
+      "start": 284,
+      "text": "code. That is a huge huge huge challenge"
+    },
+    {
+      "start": 287,
+      "text": "whether you're like a beginner or you're"
+    },
+    {
+      "start": 288,
+      "text": "an advanced developer. We were running"
+    },
+    {
+      "start": 290,
+      "text": "into this problem with the people using"
+    },
+    {
+      "start": 291,
+      "text": "Thinkster of they they just couldn't get"
+    },
+    {
+      "start": 293,
+      "text": "the stuff set up in their environment to"
+    },
+    {
+      "start": 294,
+      "text": "even learn how to write the code. And we"
+    },
+    {
+      "start": 296,
+      "text": "had the realization like okay actually"
+    },
+    {
+      "start": 298,
+      "text": "it should be possible theoretically to"
+    },
+    {
+      "start": 300,
+      "text": "just kind of like run an entire dev"
+    },
+    {
+      "start": 303,
+      "text": "environment inside of the browser"
+    },
+    {
+      "start": 304,
+      "text": "itself. You know not using servers, not"
+    },
+    {
+      "start": 306,
+      "text": "install anything locally like we can"
+    },
+    {
+      "start": 308,
+      "text": "actually run it in a web page, you know,"
+    },
+    {
+      "start": 309,
+      "text": "inside of a browser tab. And we were"
+    },
+    {
+      "start": 311,
+      "text": "looking at all these different"
+    },
+    {
+      "start": 312,
+      "text": "technologies that have released in"
+    },
+    {
+      "start": 313,
+      "text": "browsers and we were like someone must"
+    },
+    {
+      "start": 315,
+      "text": "have done this already, right? Like cuz"
+    },
+    {
+      "start": 316,
+      "text": "we we were just trying to solve our own"
+    },
+    {
+      "start": 317,
+      "text": "problem. We weren't trying to start a"
+    },
+    {
+      "start": 319,
+      "text": "company like we were just trying to"
+    },
+    {
+      "start": 320,
+      "text": "teach people on Thinkster. We looked"
+    },
+    {
+      "start": 322,
+      "text": "around and there was just nothing. There"
+    },
+    {
+      "start": 324,
+      "text": "is nothing that could actually do it. I"
+    },
+    {
+      "start": 326,
+      "text": "kind of knew that this is like something"
+    },
+    {
+      "start": 327,
+      "text": "very different at that point because it,"
+    },
+    {
+      "start": 329,
+      "text": "you know, it's like I'd never run it"
+    },
+    {
+      "start": 331,
+      "text": "across something like this where I kind"
+    },
+    {
+      "start": 332,
+      "text": "of technically knew the underpinnings"
+    },
+    {
+      "start": 334,
+      "text": "that this should be possible, but yet no"
+    },
+    {
+      "start": 336,
+      "text": "one had gone and done it. That key"
+    },
+    {
+      "start": 337,
+      "text": "insight was really what led us to start"
+    },
+    {
+      "start": 339,
+      "text": "stacks cuz we were like, \"Okay, well"
+    },
+    {
+      "start": 341,
+      "text": "that would be huge for people learning"
+    },
+    {
+      "start": 343,
+      "text": "how to code to not have to set up"
+    },
+    {
+      "start": 344,
+      "text": "environments. It would make it way more"
+    },
+    {
+      "start": 346,
+      "text": "accessible. people could just use this"
+    },
+    {
+      "start": 347,
+      "text": "as an environment to just keep building"
+    },
+    {
+      "start": 350,
+      "text": "in like why would you even need to set"
+    },
+    {
+      "start": 351,
+      "text": "up a local environment necessarily. So"
+    },
+    {
+      "start": 353,
+      "text": "that was kind of the origin story of"
+    },
+    {
+      "start": 354,
+      "text": "stacks and it came out of thankster"
+    },
+    {
+      "start": 356,
+      "text": "directly."
+    },
+    {
+      "start": 360,
+      "text": "We had spent half a decade building"
+    },
+    {
+      "start": 363,
+      "text": "building out this technology. The the"
+    },
+    {
+      "start": 365,
+      "text": "problem is that anyone that really"
+    },
+    {
+      "start": 367,
+      "text": "understands how to write software"
+    },
+    {
+      "start": 369,
+      "text": "already knows how to get stuff set up on"
+    },
+    {
+      "start": 370,
+      "text": "their local computer and will tend to"
+    },
+    {
+      "start": 373,
+      "text": "actually just gravitate towards that"
+    },
+    {
+      "start": 375,
+      "text": "because they are super familiar with it."
+    },
+    {
+      "start": 377,
+      "text": "The issue is if you're going to build"
+    },
+    {
+      "start": 378,
+      "text": "something that's web- based that is"
+    },
+    {
+      "start": 380,
+      "text": "getting people to actually leave their"
+    },
+    {
+      "start": 381,
+      "text": "their environment is a huge challenge."
+    },
+    {
+      "start": 384,
+      "text": "We tried out a whole bunch of different"
+    },
+    {
+      "start": 385,
+      "text": "experiments um over the course of the"
+    },
+    {
+      "start": 387,
+      "text": "past, you know, 2 years or whatever. All"
+    },
+    {
+      "start": 388,
+      "text": "of them were very cool. generally like"
+    },
+    {
+      "start": 390,
+      "text": "the people that that try these things"
+    },
+    {
+      "start": 391,
+      "text": "out thought they were really awesome but"
+    },
+    {
+      "start": 392,
+      "text": "it didn't move the needle from like a a"
+    },
+    {
+      "start": 394,
+      "text": "monetization standpoint. My co-ounder"
+    },
+    {
+      "start": 396,
+      "text": "and I have like talked about you know do"
+    },
+    {
+      "start": 398,
+      "text": "should we pack it in shut down the"
+    },
+    {
+      "start": 400,
+      "text": "company and so that was you know like"
+    },
+    {
+      "start": 401,
+      "text": "last year we made the decision my"
+    },
+    {
+      "start": 403,
+      "text": "co-founder and I um with our with our"
+    },
+    {
+      "start": 404,
+      "text": "board and stuff of like okay we're going"
+    },
+    {
+      "start": 406,
+      "text": "to spend the rest of this year going and"
+    },
+    {
+      "start": 407,
+      "text": "trying everything that we think is cool"
+    },
+    {
+      "start": 410,
+      "text": "idea and and if that doesn't work out"
+    },
+    {
+      "start": 412,
+      "text": "we'll have left no stone unturned and"
+    },
+    {
+      "start": 414,
+      "text": "we'll go and kind of prepare to kind of"
+    },
+    {
+      "start": 416,
+      "text": "start spinning things down. How would I"
+    },
+    {
+      "start": 418,
+      "text": "walk away from this knowing that I I"
+    },
+    {
+      "start": 420,
+      "text": "gave it everything I had? Like last year"
+    },
+    {
+      "start": 422,
+      "text": "when as this was kind of going on with"
+    },
+    {
+      "start": 423,
+      "text": "the company, I also had my first child"
+    },
+    {
+      "start": 425,
+      "text": "and if you talk to anyone that has a"
+    },
+    {
+      "start": 427,
+      "text": "kid, you don't get a lot of sleep. It's"
+    },
+    {
+      "start": 428,
+      "text": "pretty high stress. So, I had a lot of"
+    },
+    {
+      "start": 430,
+      "text": "challenges kind of going on just from"
+    },
+    {
+      "start": 431,
+      "text": "the personal side, the work side. I woke"
+    },
+    {
+      "start": 433,
+      "text": "up one morning last April after my"
+    },
+    {
+      "start": 435,
+      "text": "daughter was born and I was like, I'm"
+    },
+    {
+      "start": 436,
+      "text": "going to do an iron man, like a full"
+    },
+    {
+      "start": 438,
+      "text": "iron man. And and I and it was like 6"
+    },
+    {
+      "start": 440,
+      "text": "months from that. I never ran a marathon"
+    },
+    {
+      "start": 442,
+      "text": "or whatever. the six months um you know"
+    },
+    {
+      "start": 445,
+      "text": "of last year I was kind of bringing full"
+    },
+    {
+      "start": 447,
+      "text": "intensity to every part of my life like"
+    },
+    {
+      "start": 449,
+      "text": "physically going and training for this"
+    },
+    {
+      "start": 451,
+      "text": "thing mentally with with my job uh going"
+    },
+    {
+      "start": 453,
+      "text": "and you know really figuring out leaving"
+    },
+    {
+      "start": 455,
+      "text": "no stone unturned and just trying a lots"
+    },
+    {
+      "start": 457,
+      "text": "of different experiments etc and so kind"
+    },
+    {
+      "start": 459,
+      "text": "of bringing full intensity to those"
+    },
+    {
+      "start": 460,
+      "text": "things and and I got to tell you I've"
+    },
+    {
+      "start": 462,
+      "text": "never been happier in my life um I've"
+    },
+    {
+      "start": 463,
+      "text": "never been happier in my life really"
+    },
+    {
+      "start": 465,
+      "text": "investing in in myself my co-workers and"
+    },
+    {
+      "start": 467,
+      "text": "my products and my family and my"
+    },
+    {
+      "start": 469,
+      "text": "business with just such uh intense"
+    },
+    {
+      "start": 471,
+      "text": "dedication and I is okay with whatever"
+    },
+    {
+      "start": 474,
+      "text": "the outcome was. If we end the year and,"
+    },
+    {
+      "start": 476,
+      "text": "you know, our destiny is the same, so be"
+    },
+    {
+      "start": 480,
+      "text": "it. Let the the universe, you know, let"
+    },
+    {
+      "start": 482,
+      "text": "the universe decide, right? Um, I've"
+    },
+    {
+      "start": 484,
+      "text": "done everything that I possibly can do."
+    },
+    {
+      "start": 486,
+      "text": "And Bolt was like the last the last"
+    },
+    {
+      "start": 488,
+      "text": "experiment we had before we're going to"
+    },
+    {
+      "start": 490,
+      "text": "kind of start winding things down. Uh,"
+    },
+    {
+      "start": 492,
+      "text": "what Bolt allows you to do is like to"
+    },
+    {
+      "start": 494,
+      "text": "actually, you know, using just text, you"
+    },
+    {
+      "start": 496,
+      "text": "can type in an idea of an app or a"
+    },
+    {
+      "start": 498,
+      "text": "website you want, it'll build it. The"
+    },
+    {
+      "start": 500,
+      "text": "launch strategy for Bolt was like we put"
+    },
+    {
+      "start": 502,
+      "text": "out a tweet. Like that was it. There was"
+    },
+    {
+      "start": 503,
+      "text": "no blog post. There's no press release."
+    },
+    {
+      "start": 505,
+      "text": "So there's just like a tweet and and"
+    },
+    {
+      "start": 506,
+      "text": "that tweet ended up going viral. So what"
+    },
+    {
+      "start": 508,
+      "text": "ended up happening is people they saw"
+    },
+    {
+      "start": 509,
+      "text": "our tweet, they went to bolt.new, typed"
+    },
+    {
+      "start": 512,
+      "text": "in the idea of a website or whatever"
+    },
+    {
+      "start": 514,
+      "text": "that they wanted to make, hit enter, and"
+    },
+    {
+      "start": 516,
+      "text": "30 seconds later they had a a web"
+    },
+    {
+      "start": 518,
+      "text": "application ready to go. In the first"
+    },
+    {
+      "start": 520,
+      "text": "day, I think we added like 60K. I"
+    },
+    {
+      "start": 523,
+      "text": "remember one of our engineers was like,"
+    },
+    {
+      "start": 524,
+      "text": "\"Guys, we added 60K today. Oh my god.\""
+    },
+    {
+      "start": 526,
+      "text": "And you I jumped in was like, \"Yep, it's"
+    },
+    {
+      "start": 527,
+      "text": "cool, but like this is, you know, this"
+    },
+    {
+      "start": 529,
+      "text": "is like launch day. This is going to go"
+    },
+    {
+      "start": 530,
+      "text": "away.\" And that didn't happen. Every"
+    },
+    {
+      "start": 532,
+      "text": "single day, we kept adding more and more"
+    },
+    {
+      "start": 535,
+      "text": "ARR. In the first 2 months, we went from"
+    },
+    {
+      "start": 537,
+      "text": "0 to 20 million of ARR. Everyone we were"
+    },
+    {
+      "start": 540,
+      "text": "talking to had never seen anything like"
+    },
+    {
+      "start": 542,
+      "text": "it. It was, I mean, just an unbelievable"
+    },
+    {
+      "start": 544,
+      "text": "shift in the destiny of of our company."
+    },
+    {
+      "start": 551,
+      "text": "This episode is sponsored by Atio, the"
+    },
+    {
+      "start": 553,
+      "text": "AI native CRM for the next era of"
+    },
+    {
+      "start": 555,
+      "text": "companies. Connect your email and ATIO"
+    },
+    {
+      "start": 558,
+      "text": "instantly builds your CRM right before"
+    },
+    {
+      "start": 560,
+      "text": "your eyes with every company contact and"
+    },
+    {
+      "start": 562,
+      "text": "interaction you've ever had enriched and"
+    },
+    {
+      "start": 564,
+      "text": "organized. As an entrepreneur, every"
+    },
+    {
+      "start": 567,
+      "text": "email and meeting is an opportunity to"
+    },
+    {
+      "start": 569,
+      "text": "learn more about your client. ATO helps"
+    },
+    {
+      "start": 571,
+      "text": "you do just that. ATO's call"
+    },
+    {
+      "start": 573,
+      "text": "intelligence feature records your"
+    },
+    {
+      "start": 575,
+      "text": "meetings and gives you AI insights both"
+    },
+    {
+      "start": 577,
+      "text": "during and after your customer calls."
+    },
+    {
+      "start": 579,
+      "text": "That's not all. You can use the AI"
+    },
+    {
+      "start": 581,
+      "text": "research agents to qualify leads,"
+    },
+    {
+      "start": 583,
+      "text": "identify expansion opportunities, and"
+    },
+    {
+      "start": 585,
+      "text": "more. You can then build AI powered"
+    },
+    {
+      "start": 587,
+      "text": "automations to tackle some of your most"
+    },
+    {
+      "start": 589,
+      "text": "complex business processes, allowing you"
+    },
+    {
+      "start": 592,
+      "text": "to focus on what's important, building"
+    },
+    {
+      "start": 594,
+      "text": "key relationships while ATIO does the"
+    },
+    {
+      "start": 596,
+      "text": "rest. Join thousands of companies who"
+    },
+    {
+      "start": 598,
+      "text": "are already using Atto to power their"
+    },
+    {
+      "start": 600,
+      "text": "businesses. Visit the link in the"
+    },
+    {
+      "start": 602,
+      "text": "description to begin your twoe free"
+    },
+    {
+      "start": 604,
+      "text": "trial with Atio."
+    },
+    {
+      "start": 615,
+      "text": "So I'd actually had the idea for Bolt"
+    },
+    {
+      "start": 617,
+      "text": "about a year ago, February of 24. At"
+    },
+    {
+      "start": 619,
+      "text": "that time, the Frontier models like"
+    },
+    {
+      "start": 621,
+      "text": "OpenAI or whatever have you. You we had"
+    },
+    {
+      "start": 623,
+      "text": "actually tried to build a prototype with"
+    },
+    {
+      "start": 625,
+      "text": "Bolt. We spent a couple of weeks doing"
+    },
+    {
+      "start": 626,
+      "text": "that. What we ended up finding was the"
+    },
+    {
+      "start": 628,
+      "text": "output just was not good enough. Like"
+    },
+    {
+      "start": 630,
+      "text": "you would tell it to build an app and it"
+    },
+    {
+      "start": 631,
+      "text": "just oftent times it would be broken or"
+    },
+    {
+      "start": 633,
+      "text": "it wouldn't look good. it wouldn't"
+    },
+    {
+      "start": 634,
+      "text": "function properly, which kind of like"
+    },
+    {
+      "start": 635,
+      "text": "ruins the experience. So, we we put that"
+    },
+    {
+      "start": 637,
+      "text": "project on the shelf and we're like,"
+    },
+    {
+      "start": 638,
+      "text": "\"Okay, maybe we'll come back to this at"
+    },
+    {
+      "start": 640,
+      "text": "some point in the future when when these"
+    },
+    {
+      "start": 642,
+      "text": "AI models get better.\" Back in May, we"
+    },
+    {
+      "start": 644,
+      "text": "just so happened to kind of get a sneak"
+    },
+    {
+      "start": 646,
+      "text": "preview of the new stuff that was coming"
+    },
+    {
+      "start": 650,
+      "text": "from Enthropic with Sonnet 3.5 coding"
+    },
+    {
+      "start": 653,
+      "text": "model that has changed software"
+    },
+    {
+      "start": 655,
+      "text": "development period. You we got a kind of"
+    },
+    {
+      "start": 657,
+      "text": "sneak peek of it and we were like, \"This"
+    },
+    {
+      "start": 658,
+      "text": "is good. I mean, this is going to change"
+    },
+    {
+      "start": 659,
+      "text": "everything we think.\" And so we kind of"
+    },
+    {
+      "start": 661,
+      "text": "pulled the pulled bull off the shelf and"
+    },
+    {
+      "start": 663,
+      "text": "yeah took the the latest APIs from"
+    },
+    {
+      "start": 665,
+      "text": "Enthropic pulled them together and"
+    },
+    {
+      "start": 667,
+      "text": "launched it within 90 days of that back"
+    },
+    {
+      "start": 669,
+      "text": "after chatbt had launched a lot of"
+    },
+    {
+      "start": 672,
+      "text": "companies were just kind of like adding"
+    },
+    {
+      "start": 673,
+      "text": "AI stuff to their products and not even"
+    },
+    {
+      "start": 676,
+      "text": "in a very thoughtful way but it was kind"
+    },
+    {
+      "start": 677,
+      "text": "of like people just wanted to be like"
+    },
+    {
+      "start": 679,
+      "text": "relevant and kind of you know show that"
+    },
+    {
+      "start": 680,
+      "text": "they were had an AI strategy and we"
+    },
+    {
+      "start": 682,
+      "text": "didn't cuz we were just like we don't"
+    },
+    {
+      "start": 683,
+      "text": "see the value of this. it's not clear"
+    },
+    {
+      "start": 685,
+      "text": "how this is actually going to make the"
+    },
+    {
+      "start": 687,
+      "text": "experience that much better, right? And"
+    },
+    {
+      "start": 690,
+      "text": "all of our competitors went were you"
+    },
+    {
+      "start": 692,
+      "text": "churning on AI ideas. We held off u"
+    },
+    {
+      "start": 695,
+      "text": "because we just didn't see we didn't"
+    },
+    {
+      "start": 696,
+      "text": "have conviction on it. I think in in"
+    },
+    {
+      "start": 698,
+      "text": "retrospect the right move and when we"
+    },
+    {
+      "start": 700,
+      "text": "did find the right thing, we went all"
+    },
+    {
+      "start": 702,
+      "text": "in. And you kind of look at like the"
+    },
+    {
+      "start": 704,
+      "text": "competitors that we were going up"
+    },
+    {
+      "start": 705,
+      "text": "against then versus now it's like a lot"
+    },
+    {
+      "start": 707,
+      "text": "of them have either shut down some of"
+    },
+    {
+      "start": 709,
+      "text": "them have kind of started to pivot to AI"
+    },
+    {
+      "start": 711,
+      "text": "but like from like a user and revenue"
+    },
+    {
+      "start": 714,
+      "text": "perspective it's like bolt is the number"
+    },
+    {
+      "start": 716,
+      "text": "one thing"
+    },
+    {
+      "start": 721,
+      "text": "you know we get thousands of emails and"
+    },
+    {
+      "start": 724,
+      "text": "tickets and tweets and etc per day"
+    },
+    {
+      "start": 727,
+      "text": "sorting the the signal from the noise is"
+    },
+    {
+      "start": 729,
+      "text": "is you know very difficult challenge But"
+    },
+    {
+      "start": 732,
+      "text": "one of the things we really invested in"
+    },
+    {
+      "start": 734,
+      "text": "early on with Bolt was like community."
+    },
+    {
+      "start": 736,
+      "text": "Like we have a very great community"
+    },
+    {
+      "start": 738,
+      "text": "around Bolt where you know folks really"
+    },
+    {
+      "start": 740,
+      "text": "love the product and there's these"
+    },
+    {
+      "start": 742,
+      "text": "people that that are really smart,"
+    },
+    {
+      "start": 744,
+      "text": "genuine, awesome folks that have stepped"
+    },
+    {
+      "start": 746,
+      "text": "up and really became like kind of"
+    },
+    {
+      "start": 747,
+      "text": "leaders in this community. Yeah. So"
+    },
+    {
+      "start": 749,
+      "text": "that's really how we've been able to"
+    },
+    {
+      "start": 750,
+      "text": "scale the both the support but also the"
+    },
+    {
+      "start": 752,
+      "text": "product feedback function because these"
+    },
+    {
+      "start": 754,
+      "text": "are folks that are like in our Discord"
+    },
+    {
+      "start": 755,
+      "text": "or Reddit or Twitter or whatever and"
+    },
+    {
+      "start": 757,
+      "text": "they're hearing what people are running"
+    },
+    {
+      "start": 759,
+      "text": "into. then they themselves might be"
+    },
+    {
+      "start": 761,
+      "text": "running into it and they'll and they'll"
+    },
+    {
+      "start": 762,
+      "text": "be like, \"Hey, this is something we're"
+    },
+    {
+      "start": 763,
+      "text": "hearing a lot of. Here's maybe how you"
+    },
+    {
+      "start": 765,
+      "text": "you guys go about fixing it, etc.\" And"
+    },
+    {
+      "start": 767,
+      "text": "we also have people on our team who, you"
+    },
+    {
+      "start": 769,
+      "text": "know, we've hired in a couple of folks"
+    },
+    {
+      "start": 770,
+      "text": "who their entire job is just talking to"
+    },
+    {
+      "start": 772,
+      "text": "our users, helping them get unstuck with"
+    },
+    {
+      "start": 774,
+      "text": "stuff, hearing their feedback, etc. And"
+    },
+    {
+      "start": 776,
+      "text": "so, I think that's really the only way"
+    },
+    {
+      "start": 777,
+      "text": "you can meaningfully scale, you know,"
+    },
+    {
+      "start": 779,
+      "text": "uh, support and and the the full cycle"
+    },
+    {
+      "start": 781,
+      "text": "of user feedback is just having great"
+    },
+    {
+      "start": 784,
+      "text": "people that are in your community or,"
+    },
+    {
+      "start": 785,
+      "text": "you know, on your uh, actual core team."
+    },
+    {
+      "start": 787,
+      "text": "That's their entire job and they're all"
+    },
+    {
+      "start": 789,
+      "text": "working together. You know, just bring"
+    },
+    {
+      "start": 790,
+      "text": "in all the data points, make good"
+    },
+    {
+      "start": 792,
+      "text": "decisions, and get the proper things"
+    },
+    {
+      "start": 794,
+      "text": "prioritized in the product. We like to"
+    },
+    {
+      "start": 796,
+      "text": "work on things that users have"
+    },
+    {
+      "start": 799,
+      "text": "specifically either like really asked"
+    },
+    {
+      "start": 801,
+      "text": "for where it's a big a big pain point or"
+    },
+    {
+      "start": 803,
+      "text": "alternatively, it's something that we've"
+    },
+    {
+      "start": 805,
+      "text": "validated that people want. I think it's"
+    },
+    {
+      "start": 808,
+      "text": "very easy for entrepreneurs and yeah,"
+    },
+    {
+      "start": 810,
+      "text": "people that are maybe early in their"
+    },
+    {
+      "start": 811,
+      "text": "product career to kind of have lots of"
+    },
+    {
+      "start": 813,
+      "text": "cool ideas about things they could build"
+    },
+    {
+      "start": 815,
+      "text": "and whatever that are not really"
+    },
+    {
+      "start": 816,
+      "text": "attached to the reality of the actual"
+    },
+    {
+      "start": 819,
+      "text": "end user customer using the product,"
+    },
+    {
+      "start": 821,
+      "text": "what they're trying to do with it, the"
+    },
+    {
+      "start": 823,
+      "text": "challenges they're currently running"
+    },
+    {
+      "start": 824,
+      "text": "into with it. And so a lot of this comes"
+    },
+    {
+      "start": 826,
+      "text": "down to just experience and like"
+    },
+    {
+      "start": 827,
+      "text": "fortunately we've been doing this for a"
+    },
+    {
+      "start": 828,
+      "text": "long time. Like my co-founder and I have"
+    },
+    {
+      "start": 830,
+      "text": "been building stuff for almost 20 years."
+    },
+    {
+      "start": 831,
+      "text": "You know, having a good sense of these"
+    },
+    {
+      "start": 833,
+      "text": "are cool ideas, but we should probably"
+    },
+    {
+      "start": 835,
+      "text": "get to them later. These are really"
+    },
+    {
+      "start": 836,
+      "text": "important ideas. We should do them now."
+    },
+    {
+      "start": 838,
+      "text": "These are really important high priority"
+    },
+    {
+      "start": 839,
+      "text": "things. They need to be fixed and you"
+    },
+    {
+      "start": 841,
+      "text": "know uh sorting accordingly"
+    },
+    {
+      "start": 847,
+      "text": "and and one of the interesting things"
+    },
+    {
+      "start": 848,
+      "text": "too actually about what we did is we"
+    },
+    {
+      "start": 850,
+      "text": "actually open sourced the core version"
+    },
+    {
+      "start": 852,
+      "text": "of bullet when we launched and like even"
+    },
+    {
+      "start": 854,
+      "text": "today it's like I think it's like the"
+    },
+    {
+      "start": 855,
+      "text": "most popular AI product you know by"
+    },
+    {
+      "start": 857,
+      "text": "users of revenue that actually has an"
+    },
+    {
+      "start": 859,
+      "text": "open source version. Like there's"
+    },
+    {
+      "start": 860,
+      "text": "nothing else out there that really has"
+    },
+    {
+      "start": 863,
+      "text": "that other than us. But it was clear to"
+    },
+    {
+      "start": 865,
+      "text": "us was like this is this is knowledge"
+    },
+    {
+      "start": 866,
+      "text": "that someone's going to open source this"
+    },
+    {
+      "start": 868,
+      "text": "at some point and we think it'll just be"
+    },
+    {
+      "start": 870,
+      "text": "actually a lot better for us and the AI"
+    },
+    {
+      "start": 872,
+      "text": "model providers etc. if this is"
+    },
+    {
+      "start": 874,
+      "text": "available for people to try out and fork"
+    },
+    {
+      "start": 876,
+      "text": "and improve and whatever have you which"
+    },
+    {
+      "start": 878,
+      "text": "ended up being a really key decision cuz"
+    },
+    {
+      "start": 880,
+      "text": "a lot of people use Bolt because they"
+    },
+    {
+      "start": 882,
+      "text": "can play around with the open source"
+    },
+    {
+      "start": 883,
+      "text": "version and fork fork it and make it"
+    },
+    {
+      "start": 886,
+      "text": "better and you know whatever have you."
+    },
+    {
+      "start": 888,
+      "text": "We've invested a ton in the open- source"
+    },
+    {
+      "start": 890,
+      "text": "world in large part because like our"
+    },
+    {
+      "start": 892,
+      "text": "product really wouldn't work without"
+    },
+    {
+      "start": 894,
+      "text": "amazing open source software that's been"
+    },
+    {
+      "start": 897,
+      "text": "built for web development and and"
+    },
+    {
+      "start": 898,
+      "text": "otherwise. For us, it's you it's also"
+    },
+    {
+      "start": 900,
+      "text": "really important that that those people"
+    },
+    {
+      "start": 902,
+      "text": "building different web development tool"
+    },
+    {
+      "start": 904,
+      "text": "chains like Vit or whatever have you"
+    },
+    {
+      "start": 906,
+      "text": "also care about us and they want to make"
+    },
+    {
+      "start": 908,
+      "text": "sure that their these open source"
+    },
+    {
+      "start": 909,
+      "text": "projects work well in our technology and"
+    },
+    {
+      "start": 911,
+      "text": "our environment. And that's been really"
+    },
+    {
+      "start": 913,
+      "text": "key for us. Yeah, we became the largest"
+    },
+    {
+      "start": 914,
+      "text": "backer of Vit back in 2021. We have"
+    },
+    {
+      "start": 917,
+      "text": "multiple people on our team that all"
+    },
+    {
+      "start": 919,
+      "text": "they do is work on open source full-time"
+    },
+    {
+      "start": 921,
+      "text": "you. So I think uh developers love our"
+    },
+    {
+      "start": 923,
+      "text": "products. I think in some part because"
+    },
+    {
+      "start": 925,
+      "text": "we genuinely care about open source and"
+    },
+    {
+      "start": 927,
+      "text": "ensuring that folks uh working on open"
+    },
+    {
+      "start": 930,
+      "text": "source get compensated and have a way to"
+    },
+    {
+      "start": 931,
+      "text": "actually continue working on it in a"
+    },
+    {
+      "start": 933,
+      "text": "sustainable way."
+    },
+    {
+      "start": 938,
+      "text": "I I think the only way I learned how to"
+    },
+    {
+      "start": 940,
+      "text": "determine when it was time to pivot"
+    },
+    {
+      "start": 942,
+      "text": "versus time to iterate was just trying a"
+    },
+    {
+      "start": 944,
+      "text": "lot of startup ideas. like that was you"
+    },
+    {
+      "start": 947,
+      "text": "over the course of like a decade through"
+    },
+    {
+      "start": 948,
+      "text": "that I kind of I I ended up building a"
+    },
+    {
+      "start": 950,
+      "text": "good gut instinct of when when we were"
+    },
+    {
+      "start": 952,
+      "text": "kind of at the end of the line on a"
+    },
+    {
+      "start": 954,
+      "text": "certain idea and it was like okay we"
+    },
+    {
+      "start": 956,
+      "text": "need to like pivot and try something"
+    },
+    {
+      "start": 957,
+      "text": "else instead. So my recommendation would"
+    },
+    {
+      "start": 960,
+      "text": "be to to if you think you need to go"
+    },
+    {
+      "start": 962,
+      "text": "deep on something and go along, do it."
+    },
+    {
+      "start": 964,
+      "text": "And typically you're gonna you're you're"
+    },
+    {
+      "start": 966,
+      "text": "eventually going to find out one way or"
+    },
+    {
+      "start": 967,
+      "text": "the other if you were right or wrong and"
+    },
+    {
+      "start": 968,
+      "text": "then you learn from that. And and then"
+    },
+    {
+      "start": 969,
+      "text": "then if you were wrong, if you're like,"
+    },
+    {
+      "start": 971,
+      "text": "\"Hey, we went really deep and it didn't"
+    },
+    {
+      "start": 973,
+      "text": "pan out.\" You have to just take that as"
+    },
+    {
+      "start": 974,
+      "text": "a lesson as part of the journey. When I"
+    },
+    {
+      "start": 977,
+      "text": "was younger and heard people give the"
+    },
+    {
+      "start": 978,
+      "text": "advice that I'm giving right now, the"
+    },
+    {
+      "start": 980,
+      "text": "takeaway that I would take then was"
+    },
+    {
+      "start": 982,
+      "text": "okay, so just don't give up like like no"
+    },
+    {
+      "start": 985,
+      "text": "matter what, just kind of like hold on"
+    },
+    {
+      "start": 986,
+      "text": "to this idea and don't give up, which is"
+    },
+    {
+      "start": 988,
+      "text": "like like I think generally"
+    },
+    {
+      "start": 989,
+      "text": "directionally good advice. But there's"
+    },
+    {
+      "start": 991,
+      "text": "actually like kind of a line where you"
+    },
+    {
+      "start": 993,
+      "text": "have to learn how to be intellectually"
+    },
+    {
+      "start": 995,
+      "text": "honest with yourself and it's like am I"
+    },
+    {
+      "start": 998,
+      "text": "am I not giving up because because"
+    },
+    {
+      "start": 1000,
+      "text": "that's what people say you should do or"
+    },
+    {
+      "start": 1002,
+      "text": "am I not giving up because I actually"
+    },
+    {
+      "start": 1004,
+      "text": "really like I have conviction in this"
+    },
+    {
+      "start": 1006,
+      "text": "and like I just want to see this I I"
+    },
+    {
+      "start": 1009,
+      "text": "really want to see this made possible"
+    },
+    {
+      "start": 1011,
+      "text": "and then seeing it all the way through"
+    },
+    {
+      "start": 1012,
+      "text": "right cuz I think when you're when"
+    },
+    {
+      "start": 1013,
+      "text": "you're starting and you're trying to"
+    },
+    {
+      "start": 1014,
+      "text": "find that passion in that's kind of one"
+    },
+    {
+      "start": 1016,
+      "text": "challenge and then the other side of is"
+    },
+    {
+      "start": 1017,
+      "text": "you know we saw which is okay we built"
+    },
+    {
+      "start": 1019,
+      "text": "this amazing thing Now, how do you"
+    },
+    {
+      "start": 1021,
+      "text": "actually turn into a business? The"
+    },
+    {
+      "start": 1022,
+      "text": "important part there is, you know, when"
+    },
+    {
+      "start": 1024,
+      "text": "you're driving through hell, don't stop."
+    },
+    {
+      "start": 1025,
+      "text": "If you're going to go and and build a"
+    },
+    {
+      "start": 1027,
+      "text": "business, go and try all the way through"
+    },
+    {
+      "start": 1030,
+      "text": "and don't leave any stones unturned"
+    },
+    {
+      "start": 1032,
+      "text": "because what you don't want then is to"
+    },
+    {
+      "start": 1034,
+      "text": "look back and go, \"Ah, man, we had this"
+    },
+    {
+      "start": 1037,
+      "text": "really cool thing. I think it could have"
+    },
+    {
+      "start": 1038,
+      "text": "been really, really important, but we"
+    },
+    {
+      "start": 1040,
+      "text": "didn't actually we didn't do a full core"
+    },
+    {
+      "start": 1042,
+      "text": "press and really make sure that we"
+    },
+    {
+      "start": 1044,
+      "text": "exhausted all options before, you know,"
+    },
+    {
+      "start": 1046,
+      "text": "spinning down or whatever."
+    },
+    {
+      "start": 1052,
+      "text": "AI's impact on software development is"
+    },
+    {
+      "start": 1055,
+      "text": "uh I mean huge like I think I think it's"
+    },
+    {
+      "start": 1057,
+      "text": "it's clear at this point that software"
+    },
+    {
+      "start": 1059,
+      "text": "development is going to be probably the"
+    },
+    {
+      "start": 1061,
+      "text": "number one application of AI that as far"
+    },
+    {
+      "start": 1064,
+      "text": "as like a high leverage uh high impact"
+    },
+    {
+      "start": 1066,
+      "text": "high revenue sort of thing. All the"
+    },
+    {
+      "start": 1068,
+      "text": "world's software I think is going to be"
+    },
+    {
+      "start": 1070,
+      "text": "meaningfully written by AI in years. I"
+    },
+    {
+      "start": 1073,
+      "text": "think I think probably you know"
+    },
+    {
+      "start": 1074,
+      "text": "singledigit sort of years. That doesn't"
+    },
+    {
+      "start": 1076,
+      "text": "mean that software developers are going"
+    },
+    {
+      "start": 1077,
+      "text": "away. There's a lot of things in"
+    },
+    {
+      "start": 1079,
+      "text": "software development that are just"
+    },
+    {
+      "start": 1080,
+      "text": "monotonous and not intellectually"
+    },
+    {
+      "start": 1082,
+      "text": "challenging, right? It's just common"
+    },
+    {
+      "start": 1084,
+      "text": "stuff that you're having to do to build"
+    },
+    {
+      "start": 1086,
+      "text": "an application and AI just kind of"
+    },
+    {
+      "start": 1088,
+      "text": "obliterates all that. Can just take care"
+    },
+    {
+      "start": 1089,
+      "text": "of all that stuff for you so you can"
+    },
+    {
+      "start": 1091,
+      "text": "actually work on like more complicated"
+    },
+    {
+      "start": 1092,
+      "text": "high high value intellectually"
+    },
+    {
+      "start": 1094,
+      "text": "challenging sort of tasks. And so I"
+    },
+    {
+      "start": 1096,
+      "text": "think we're continue to see more and"
+    },
+    {
+      "start": 1097,
+      "text": "more of that, right? We're see more and"
+    },
+    {
+      "start": 1099,
+      "text": "more software built and it's also it's"
+    },
+    {
+      "start": 1100,
+      "text": "enabling people to that are not software"
+    },
+    {
+      "start": 1103,
+      "text": "developers to actually go and build"
+    },
+    {
+      "start": 1104,
+      "text": "software, right? Whether you have an"
+    },
+    {
+      "start": 1106,
+      "text": "idea for a website or an app like you"
+    },
+    {
+      "start": 1108,
+      "text": "can go to Bolt today and do that. The"
+    },
+    {
+      "start": 1109,
+      "text": "next 5 years of Bolt I think is it's"
+    },
+    {
+      "start": 1112,
+      "text": "it's going to be something that from the"
+    },
+    {
+      "start": 1114,
+      "text": "Fortune 100 to 10year-olds people are"
+    },
+    {
+      "start": 1117,
+      "text": "building the future of how you you know"
+    },
+    {
+      "start": 1119,
+      "text": "stream movies online, how you check your"
+    },
+    {
+      "start": 1122,
+      "text": "bank account using a mobile app to a"
+    },
+    {
+      "start": 1124,
+      "text": "game that a 10-year-old had the idea of,"
+    },
+    {
+      "start": 1126,
+      "text": "right? All these things and some of that"
+    },
+    {
+      "start": 1127,
+      "text": "stuff you can even do now with Folk,"
+    },
+    {
+      "start": 1129,
+      "text": "right? But the the quality and the scale"
+    },
+    {
+      "start": 1131,
+      "text": "of which you're going to be able to do"
+    },
+    {
+      "start": 1132,
+      "text": "this stuff is going to be giant, right?"
+    },
+    {
+      "start": 1134,
+      "text": "compared to to what you can do now."
+    },
+    {
+      "start": 1136,
+      "text": "Yeah."
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 587,
+  "timestamp": "2025-07-24T08:16:52.918Z"
+}

@@ -1,0 +1,1082 @@
+{
+  "success": true,
+  "videoId": "GG77NdMC3kk",
+  "videoTitle": "Building AI Search Engine for the GPT-5 Era ｜ Will Bryk, Exa",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "In 5 years, we could have AGI systems"
+    },
+    {
+      "start": 1,
+      "text": "that completely automate all human"
+    },
+    {
+      "start": 3,
+      "text": "labor. AIs do all the repetitive work"
+    },
+    {
+      "start": 4,
+      "text": "and humans do all the novel work. Every"
+    },
+    {
+      "start": 6,
+      "text": "human is going to become a product"
+    },
+    {
+      "start": 7,
+      "text": "manager of a team of AIs. How are you"
+    },
+    {
+      "start": 9,
+      "text": "supposed to plan for that? I think it's"
+    },
+    {
+      "start": 11,
+      "text": "extremely hard to predict where the"
+    },
+    {
+      "start": 12,
+      "text": "world will be in 5 years. One-year plans"
+    },
+    {
+      "start": 14,
+      "text": "make sense right now. Threeear plans are"
+    },
+    {
+      "start": 16,
+      "text": "really hard and 5ear plans are"
+    },
+    {
+      "start": 18,
+      "text": "impossible. So, because the AI market is"
+    },
+    {
+      "start": 20,
+      "text": "changing so fast, like every month, like"
+    },
+    {
+      "start": 22,
+      "text": "new systems come out that make new"
+    },
+    {
+      "start": 24,
+      "text": "things possible. The right way of"
+    },
+    {
+      "start": 26,
+      "text": "navigating that is to think from first"
+    },
+    {
+      "start": 28,
+      "text": "principles about like what does the"
+    },
+    {
+      "start": 29,
+      "text": "market need that still will be true in a"
+    },
+    {
+      "start": 31,
+      "text": "year. Because if you're thinking about"
+    },
+    {
+      "start": 32,
+      "text": "what does the market need right now, a"
+    },
+    {
+      "start": 33,
+      "text": "month later something new is going to"
+    },
+    {
+      "start": 34,
+      "text": "come out and they're not going to need"
+    },
+    {
+      "start": 36,
+      "text": "it anymore. So you have to think a"
+    },
+    {
+      "start": 37,
+      "text": "little more longterm. You have to be a"
+    },
+    {
+      "start": 38,
+      "text": "little more strategic than in the past."
+    },
+    {
+      "start": 40,
+      "text": "You know, for example, like when I was"
+    },
+    {
+      "start": 41,
+      "text": "in college, AI was not at all as"
+    },
+    {
+      "start": 43,
+      "text": "prominent as it is today. Everyone today"
+    },
+    {
+      "start": 45,
+      "text": "talks about AI, but there were a few"
+    },
+    {
+      "start": 46,
+      "text": "people who were aware of what was going"
+    },
+    {
+      "start": 48,
+      "text": "on. I was lucky enough to go to a"
+    },
+    {
+      "start": 50,
+      "text": "Westworld watching party at OpenAI and I"
+    },
+    {
+      "start": 52,
+      "text": "was actually on a bean bag with Greg"
+    },
+    {
+      "start": 54,
+      "text": "Brockman um just chilling on this bean"
+    },
+    {
+      "start": 56,
+      "text": "bag and we were arguing about the"
+    },
+    {
+      "start": 58,
+      "text": "scaling hypothesis and the scaling"
+    },
+    {
+      "start": 59,
+      "text": "hypothesis is this idea that you keep"
+    },
+    {
+      "start": 61,
+      "text": "putting more compute into transformers"
+    },
+    {
+      "start": 64,
+      "text": "and they'll just keep getting better and"
+    },
+    {
+      "start": 65,
+      "text": "that's how we get to"
+    },
+    {
+      "start": 67,
+      "text": "AGI. That was a crazy idea when I was in"
+    },
+    {
+      "start": 70,
+      "text": "college. The vast majority of people"
+    },
+    {
+      "start": 71,
+      "text": "didn't believe it. I didn't believe it."
+    },
+    {
+      "start": 72,
+      "text": "Greg was arguing that if we just keep"
+    },
+    {
+      "start": 74,
+      "text": "scaling these things, we'll get there."
+    },
+    {
+      "start": 76,
+      "text": "We'll get to AGI. And I was arguing that"
+    },
+    {
+      "start": 78,
+      "text": "we need new types of methods. I think we"
+    },
+    {
+      "start": 80,
+      "text": "were both right in our own way, but we"
+    },
+    {
+      "start": 82,
+      "text": "kept seeing progress from GB1 to GB2,"
+    },
+    {
+      "start": 84,
+      "text": "GB3, eventually GB4. And at some point"
+    },
+    {
+      "start": 87,
+      "text": "along that trajectory, I was like, \"Holy"
+    },
+    {
+      "start": 89,
+      "text": "cow, like these systems when you scale"
+    },
+    {
+      "start": 91,
+      "text": "them, they just get really good.\" I"
+    },
+    {
+      "start": 94,
+      "text": "think the people who were earlier to"
+    },
+    {
+      "start": 95,
+      "text": "that conclusion did better. And we kind"
+    },
+    {
+      "start": 97,
+      "text": "of apply the same scaling logic to Exa."
+    },
+    {
+      "start": 100,
+      "text": "We are building transformer-l like"
+    },
+    {
+      "start": 101,
+      "text": "systems for search. And we also know"
+    },
+    {
+      "start": 104,
+      "text": "that if you keep packing data and"
+    },
+    {
+      "start": 105,
+      "text": "compute into the search engine, it will"
+    },
+    {
+      "start": 107,
+      "text": "get better and better. That's a"
+    },
+    {
+      "start": 108,
+      "text": "hypothesis we have. It's like our own"
+    },
+    {
+      "start": 110,
+      "text": "scaling hypothesis for search. It's very"
+    },
+    {
+      "start": 111,
+      "text": "different from traditional search"
+    },
+    {
+      "start": 112,
+      "text": "engines like Google or Bing which"
+    },
+    {
+      "start": 114,
+      "text": "basically have stayed the same for you"
+    },
+    {
+      "start": 116,
+      "text": "know many years whereas like X is"
+    },
+    {
+      "start": 118,
+      "text": "getting better like this. And so we're"
+    },
+    {
+      "start": 120,
+      "text": "thinking a lot about like where is the"
+    },
+    {
+      "start": 121,
+      "text": "future going? Uh so we see a world where"
+    },
+    {
+      "start": 123,
+      "text": "there are agents everywhere. GBD5 level"
+    },
+    {
+      "start": 125,
+      "text": "AI agents navigating the web doing all"
+    },
+    {
+      "start": 127,
+      "text": "sorts of tasks. This future is coming."
+    },
+    {
+      "start": 129,
+      "text": "They're going to need search all of"
+    },
+    {
+      "start": 131,
+      "text": "them."
+    },
+    {
+      "start": 134,
+      "text": "Hey, I'm Will. I'm the CEO of Exa. We're"
+    },
+    {
+      "start": 136,
+      "text": "building the next generation of search."
+    },
+    {
+      "start": 137,
+      "text": "One good way of understanding Exa is in"
+    },
+    {
+      "start": 139,
+      "text": "contrast to traditional search. So,"
+    },
+    {
+      "start": 141,
+      "text": "traditional search engines use mostly"
+    },
+    {
+      "start": 143,
+      "text": "keywords. Okay? So, if you're using a"
+    },
+    {
+      "start": 144,
+      "text": "traditional search engine and you want"
+    },
+    {
+      "start": 146,
+      "text": "to find startups working on futuristic"
+    },
+    {
+      "start": 148,
+      "text": "hardware in the Bay Area, traditional"
+    },
+    {
+      "start": 151,
+      "text": "search engines will use keyword"
+    },
+    {
+      "start": 152,
+      "text": "matchings. The results they give you"
+    },
+    {
+      "start": 154,
+      "text": "will be documents that contain the words"
+    },
+    {
+      "start": 155,
+      "text": "startup and hardware and Bay Area. But"
+    },
+    {
+      "start": 158,
+      "text": "startups that are working on futures of"
+    },
+    {
+      "start": 159,
+      "text": "hardware in the Bay Area, they don't"
+    },
+    {
+      "start": 160,
+      "text": "typically have those terms. Like you"
+    },
+    {
+      "start": 162,
+      "text": "might have a a rocket company in SF. A"
+    },
+    {
+      "start": 165,
+      "text": "traditional search engine won't be able"
+    },
+    {
+      "start": 166,
+      "text": "to find that rocket company. But Exa can"
+    },
+    {
+      "start": 168,
+      "text": "because uh we understand the meaning of"
+    },
+    {
+      "start": 170,
+      "text": "documents. We understand the meaning"
+    },
+    {
+      "start": 171,
+      "text": "that oh, if it's a rocket company in SF,"
+    },
+    {
+      "start": 173,
+      "text": "then it does match startups working on"
+    },
+    {
+      "start": 175,
+      "text": "futures of hardware in the Bay Area. We"
+    },
+    {
+      "start": 178,
+      "text": "believe it's possible to have perfect"
+    },
+    {
+      "start": 179,
+      "text": "search over the web, meaning whatever"
+    },
+    {
+      "start": 181,
+      "text": "information you want, you get exactly"
+    },
+    {
+      "start": 183,
+      "text": "that. We help companies integrate this"
+    },
+    {
+      "start": 185,
+      "text": "high-quality knowledge into their"
+    },
+    {
+      "start": 187,
+      "text": "applications. So we recently raised $17"
+    },
+    {
+      "start": 189,
+      "text": "million from Lightseed and Nvidia. Our"
+    },
+    {
+      "start": 191,
+      "text": "revenue is doubling every quarter. We're"
+    },
+    {
+      "start": 192,
+      "text": "building the next generation of"
+    },
+    {
+      "start": 197,
+      "text": "search. I came into college wanting to"
+    },
+    {
+      "start": 200,
+      "text": "study physics to like I want to"
+    },
+    {
+      "start": 201,
+      "text": "understand how the universe works and I"
+    },
+    {
+      "start": 203,
+      "text": "thought physics was the right way to do"
+    },
+    {
+      "start": 204,
+      "text": "that. Something big that influenced me"
+    },
+    {
+      "start": 205,
+      "text": "was watching the social network cuz I I"
+    },
+    {
+      "start": 207,
+      "text": "was studying at Harvard and the social"
+    },
+    {
+      "start": 209,
+      "text": "network took place in Harvard. It was"
+    },
+    {
+      "start": 210,
+      "text": "actually a very accurate movie and it"
+    },
+    {
+      "start": 212,
+      "text": "was very inspiring to see this guy"
+    },
+    {
+      "start": 214,
+      "text": "change the world just on his laptop. I"
+    },
+    {
+      "start": 216,
+      "text": "realized that you could have like a"
+    },
+    {
+      "start": 217,
+      "text": "massive influence just coding on your"
+    },
+    {
+      "start": 219,
+      "text": "laptop in a way that you couldn't as"
+    },
+    {
+      "start": 221,
+      "text": "much with physics. It was very clear"
+    },
+    {
+      "start": 223,
+      "text": "that that that the AI could understand"
+    },
+    {
+      "start": 225,
+      "text": "the problems of physics. So I went into"
+    },
+    {
+      "start": 227,
+      "text": "computer science and I think that turned"
+    },
+    {
+      "start": 228,
+      "text": "out to be right because now like the AI"
+    },
+    {
+      "start": 230,
+      "text": "is getting so good that it should be"
+    },
+    {
+      "start": 232,
+      "text": "able to just tell us the answer or"
+    },
+    {
+      "start": 234,
+      "text": "infuse it into our brains. Before EXA on"
+    },
+    {
+      "start": 237,
+      "text": "the side I was writing a history book. I"
+    },
+    {
+      "start": 239,
+      "text": "got really excited about world history"
+    },
+    {
+      "start": 240,
+      "text": "and I decided I'm just gonna write a"
+    },
+    {
+      "start": 242,
+      "text": "book about it because I'm like no one"
+    },
+    {
+      "start": 244,
+      "text": "has captured in a book my the level of"
+    },
+    {
+      "start": 247,
+      "text": "excitement that I had and so I was doing"
+    },
+    {
+      "start": 248,
+      "text": "a lot of research for the book. I"
+    },
+    {
+      "start": 250,
+      "text": "quickly realized that Google is actually"
+    },
+    {
+      "start": 252,
+      "text": "not good enough for that type of"
+    },
+    {
+      "start": 253,
+      "text": "research. Like Google is great for"
+    },
+    {
+      "start": 255,
+      "text": "surface level investigations. Once you"
+    },
+    {
+      "start": 257,
+      "text": "start like trying to go deeper and"
+    },
+    {
+      "start": 259,
+      "text": "trying to understand any topic deeply on"
+    },
+    {
+      "start": 261,
+      "text": "the web, Google really fails. For"
+    },
+    {
+      "start": 263,
+      "text": "example, if I want to find like all the"
+    },
+    {
+      "start": 264,
+      "text": "research papers on uh poverty in ancient"
+    },
+    {
+      "start": 267,
+      "text": "Rome, it's actually really hard to find"
+    },
+    {
+      "start": 268,
+      "text": "that on Google. Not every paper will"
+    },
+    {
+      "start": 270,
+      "text": "mention the word poverty. And so I was"
+    },
+    {
+      "start": 271,
+      "text": "doing the research for this book and it"
+    },
+    {
+      "start": 273,
+      "text": "was really hard to find things. And then"
+    },
+    {
+      "start": 275,
+      "text": "at the same time, GB3 had recently come"
+    },
+    {
+      "start": 277,
+      "text": "out and GB3 was this magical creature"
+    },
+    {
+      "start": 279,
+      "text": "really that I could talk to and it could"
+    },
+    {
+      "start": 282,
+      "text": "understand like anything I say at a very"
+    },
+    {
+      "start": 284,
+      "text": "deep complex level. And so the thinking"
+    },
+    {
+      "start": 286,
+      "text": "was what if we could apply the same"
+    },
+    {
+      "start": 289,
+      "text": "technology of GB3 to search? What if you"
+    },
+    {
+      "start": 291,
+      "text": "can make a search engine that actually"
+    },
+    {
+      "start": 293,
+      "text": "understands you at a deep level? And"
+    },
+    {
+      "start": 295,
+      "text": "it's been the same goal ever"
+    },
+    {
+      "start": 300,
+      "text": "since. The first year and a half of EXO,"
+    },
+    {
+      "start": 303,
+      "text": "we did research into uh search models"
+    },
+    {
+      "start": 306,
+      "text": "into how can we take transformer models"
+    },
+    {
+      "start": 308,
+      "text": "and apply them to a search engine. No"
+    },
+    {
+      "start": 310,
+      "text": "one's really done that before. It took a"
+    },
+    {
+      "start": 312,
+      "text": "long time to figure out how to do it"
+    },
+    {
+      "start": 314,
+      "text": "well. And that required persistence."
+    },
+    {
+      "start": 316,
+      "text": "like we were just banging our head"
+    },
+    {
+      "start": 317,
+      "text": "against the wall for a year and a half"
+    },
+    {
+      "start": 318,
+      "text": "trying out different models, trying out"
+    },
+    {
+      "start": 320,
+      "text": "different data sets and eventually we"
+    },
+    {
+      "start": 322,
+      "text": "got something that worked really well."
+    },
+    {
+      "start": 323,
+      "text": "If we didn't have the persistence, you"
+    },
+    {
+      "start": 324,
+      "text": "know, 6 months in, we might have given"
+    },
+    {
+      "start": 325,
+      "text": "up, but we didn't. Early November 2022,"
+    },
+    {
+      "start": 328,
+      "text": "we launched the first version of Exa to"
+    },
+    {
+      "start": 330,
+      "text": "the public. We built a search engine"
+    },
+    {
+      "start": 332,
+      "text": "that was perfect for AI applications."
+    },
+    {
+      "start": 333,
+      "text": "Basically, AI systems, they have all"
+    },
+    {
+      "start": 335,
+      "text": "this intelligence, but they're lacking"
+    },
+    {
+      "start": 336,
+      "text": "in knowledge. And so, when they need"
+    },
+    {
+      "start": 338,
+      "text": "knowledge, they go make a call to Exa"
+    },
+    {
+      "start": 340,
+      "text": "and get exactly that knowledge. Then"
+    },
+    {
+      "start": 342,
+      "text": "catch came out a few weeks later and"
+    },
+    {
+      "start": 345,
+      "text": "that was a big moment uh for the"
+    },
+    {
+      "start": 347,
+      "text": "information ecosystem. But for us it was"
+    },
+    {
+      "start": 348,
+      "text": "really interesting because we started"
+    },
+    {
+      "start": 349,
+      "text": "getting requests for API access to our"
+    },
+    {
+      "start": 352,
+      "text": "search engine. We started getting"
+    },
+    {
+      "start": 353,
+      "text": "requests for API access uh first from a"
+    },
+    {
+      "start": 355,
+      "text": "friend who was actually like living"
+    },
+    {
+      "start": 357,
+      "text": "downstairs. I told him no sorry we don't"
+    },
+    {
+      "start": 359,
+      "text": "have API access. And I didn't really"
+    },
+    {
+      "start": 361,
+      "text": "think much of it. Uh but then we kept"
+    },
+    {
+      "start": 362,
+      "text": "then we got uh a request for API access"
+    },
+    {
+      "start": 365,
+      "text": "from someone from some company in"
+    },
+    {
+      "start": 366,
+      "text": "Germany. And we also told them no sorry"
+    },
+    {
+      "start": 368,
+      "text": "we don't have an API. And then we kept"
+    },
+    {
+      "start": 370,
+      "text": "getting requests for API access. And we"
+    },
+    {
+      "start": 372,
+      "text": "realized that because of chatbt, people"
+    },
+    {
+      "start": 375,
+      "text": "were starting to build AI applications"
+    },
+    {
+      "start": 377,
+      "text": "all over the place for all sorts of"
+    },
+    {
+      "start": 379,
+      "text": "businesses. And all these AI"
+    },
+    {
+      "start": 380,
+      "text": "applications needed search. Like the AIS"
+    },
+    {
+      "start": 382,
+      "text": "themselves needed to search and that's"
+    },
+    {
+      "start": 384,
+      "text": "when we started to realize, okay, X"
+    },
+    {
+      "start": 386,
+      "text": "could be really useful for these AI"
+    },
+    {
+      "start": 388,
+      "text": "applications. Yeah. So our initial"
+    },
+    {
+      "start": 390,
+      "text": "customer found us. And so one lesson"
+    },
+    {
+      "start": 392,
+      "text": "there is just like be a really good"
+    },
+    {
+      "start": 394,
+      "text": "listener to the market. Like what are"
+    },
+    {
+      "start": 395,
+      "text": "people repeatedly saying they need? and"
+    },
+    {
+      "start": 397,
+      "text": "you might have some idea of what you"
+    },
+    {
+      "start": 400,
+      "text": "know what you're going to sell but then"
+    },
+    {
+      "start": 401,
+      "text": "if people keep requesting something like"
+    },
+    {
+      "start": 403,
+      "text": "API access maybe you should start"
+    },
+    {
+      "start": 404,
+      "text": "listening to them like we cared more"
+    },
+    {
+      "start": 406,
+      "text": "about uh learnings from the customer"
+    },
+    {
+      "start": 408,
+      "text": "than getting a lot of revenue and so"
+    },
+    {
+      "start": 410,
+      "text": "yeah we were like opening our ears to"
+    },
+    {
+      "start": 412,
+      "text": "what do the customers need uh over time"
+    },
+    {
+      "start": 414,
+      "text": "developed a hypothesis about how we"
+    },
+    {
+      "start": 417,
+      "text": "should price and what types of customers"
+    },
+    {
+      "start": 419,
+      "text": "we should"
+    },
+    {
+      "start": 423,
+      "text": "pursue. I think you can guess where"
+    },
+    {
+      "start": 426,
+      "text": "companies like OpenAI and Enthropic are"
+    },
+    {
+      "start": 428,
+      "text": "going to build based on like what are"
+    },
+    {
+      "start": 431,
+      "text": "like what are big markets that they"
+    },
+    {
+      "start": 432,
+      "text": "could tackle like agents like automating"
+    },
+    {
+      "start": 434,
+      "text": "work is a clear huge market and so"
+    },
+    {
+      "start": 437,
+      "text": "they're clearly going to do that. Okay."
+    },
+    {
+      "start": 438,
+      "text": "So now you know what types of things"
+    },
+    {
+      "start": 440,
+      "text": "they want to do. Can they do it? Well"
+    },
+    {
+      "start": 442,
+      "text": "then you think about fundamentals of"
+    },
+    {
+      "start": 444,
+      "text": "LLMs. You think like okay LLM can as"
+    },
+    {
+      "start": 447,
+      "text": "long as you can make training data for"
+    },
+    {
+      "start": 448,
+      "text": "some objective they will get better at"
+    },
+    {
+      "start": 450,
+      "text": "that objective. Can you make training"
+    },
+    {
+      "start": 452,
+      "text": "data for agentic behavior? Definitely"
+    },
+    {
+      "start": 454,
+      "text": "you just have a bunch of examples of"
+    },
+    {
+      "start": 457,
+      "text": "navigating the web in order to buy plane"
+    },
+    {
+      "start": 459,
+      "text": "tickets and if you have a million"
+    },
+    {
+      "start": 461,
+      "text": "examples of that then now the LLM will"
+    },
+    {
+      "start": 463,
+      "text": "know how to buy plane tickets. Yes. So"
+    },
+    {
+      "start": 465,
+      "text": "any sort of task such that you could"
+    },
+    {
+      "start": 467,
+      "text": "create data for it LLM will get near"
+    },
+    {
+      "start": 470,
+      "text": "perfect at that task. So that's like a"
+    },
+    {
+      "start": 471,
+      "text": "fundamental way of thinking about this."
+    },
+    {
+      "start": 473,
+      "text": "So will AI get really good at navigating"
+    },
+    {
+      "start": 475,
+      "text": "the"
+    },
+    {
+      "start": 478,
+      "text": "web? Yes. That's pretty easy because"
+    },
+    {
+      "start": 480,
+      "text": "it's it's easy to generate lots of"
+    },
+    {
+      "start": 482,
+      "text": "navigating the web data. Will AI get"
+    },
+    {
+      "start": 484,
+      "text": "really good at"
+    },
+    {
+      "start": 487,
+      "text": "robotics? Yes, but probably on a longer"
+    },
+    {
+      "start": 489,
+      "text": "term horizon because gathering lots of"
+    },
+    {
+      "start": 492,
+      "text": "robotic training data is harder because"
+    },
+    {
+      "start": 494,
+      "text": "it's hardware and hardware is hard to"
+    },
+    {
+      "start": 496,
+      "text": "work with. So what do we learn from"
+    },
+    {
+      "start": 497,
+      "text": "that? We learned that AI's navigating"
+    },
+    {
+      "start": 498,
+      "text": "the web will come pretty soon. AI's"
+    },
+    {
+      "start": 501,
+      "text": "navigating robotics will take longer. So"
+    },
+    {
+      "start": 503,
+      "text": "just from like simple first principles,"
+    },
+    {
+      "start": 505,
+      "text": "you can like guess where things are"
+    },
+    {
+      "start": 506,
+      "text": "going. Picture in your mind how crazy"
+    },
+    {
+      "start": 508,
+      "text": "good technology will be and AI will be"
+    },
+    {
+      "start": 510,
+      "text": "in a year and then build for that world."
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 268,
+  "timestamp": "2025-07-24T08:16:52.880Z"
+}

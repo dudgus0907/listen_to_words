@@ -1,0 +1,1346 @@
+{
+  "success": true,
+  "videoId": "i1MQ91jLRzQ",
+  "videoTitle": "What I Learned Building AI That Competes with TeslaㅣHelm.ai, Vlad Voroninski",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "The end goal is achieving fully"
+    },
+    {
+      "start": 2,
+      "text": "autonomous driving. We allow automakers"
+    },
+    {
+      "start": 4,
+      "text": "to compete with Tesla by bringing to"
+    },
+    {
+      "start": 7,
+      "text": "market cutting edge autonomous driving"
+    },
+    {
+      "start": 8,
+      "text": "systems. We've raised over $und00"
+    },
+    {
+      "start": 10,
+      "text": "million. We'll see very very scalable"
+    },
+    {
+      "start": 13,
+      "text": "commercialization happen. But I would"
+    },
+    {
+      "start": 15,
+      "text": "say that starting a company felt like"
+    },
+    {
+      "start": 17,
+      "text": "drinking from a fire hose. When we were"
+    },
+    {
+      "start": 18,
+      "text": "pitching kind of like seemed like a pipe"
+    },
+    {
+      "start": 20,
+      "text": "dream, pure R&D for 2 years. There was"
+    },
+    {
+      "start": 23,
+      "text": "zero product development during that"
+    },
+    {
+      "start": 25,
+      "text": "time. Everyone thought it was crazy. But"
+    },
+    {
+      "start": 27,
+      "text": "we committed to that vision. We actually"
+    },
+    {
+      "start": 29,
+      "text": "carried out the research and we were"
+    },
+    {
+      "start": 31,
+      "text": "able to make that work very much all or"
+    },
+    {
+      "start": 33,
+      "text": "nothing and it might take a long time"
+    },
+    {
+      "start": 35,
+      "text": "for the world to adjust. My name is Li"
+    },
+    {
+      "start": 38,
+      "text": "Berninski. I'm the CEO of Helm AI. Helm"
+    },
+    {
+      "start": 41,
+      "text": "is an AI software company focusing on a"
+    },
+    {
+      "start": 43,
+      "text": "unified approach to autonomous driving"
+    },
+    {
+      "start": 45,
+      "text": "that goes all the way from L2 plus"
+    },
+    {
+      "start": 48,
+      "text": "through fully autonomous driving L4. We"
+    },
+    {
+      "start": 50,
+      "text": "have partnerships with companies like"
+    },
+    {
+      "start": 52,
+      "text": "Honda and we allow automakers to compete"
+    },
+    {
+      "start": 55,
+      "text": "with Tesla by bringing to market cutting"
+    },
+    {
+      "start": 58,
+      "text": "edge autonomous driving systems. The end"
+    },
+    {
+      "start": 60,
+      "text": "goal is achieving fully autonomous"
+    },
+    {
+      "start": 62,
+      "text": "driving and there are a number of"
+    },
+    {
+      "start": 64,
+      "text": "technological and commercialization"
+    },
+    {
+      "start": 65,
+      "text": "challenges along the way. These days,"
+    },
+    {
+      "start": 67,
+      "text": "one of the key areas that we're focusing"
+    },
+    {
+      "start": 69,
+      "text": "on is AI based simulation, leveraging"
+    },
+    {
+      "start": 72,
+      "text": "generative AI as well as our"
+    },
+    {
+      "start": 74,
+      "text": "unsupervised learning IP in order to"
+    },
+    {
+      "start": 76,
+      "text": "create a unified approach to solving"
+    },
+    {
+      "start": 78,
+      "text": "autonomous driving that essentially"
+    },
+    {
+      "start": 80,
+      "text": "unifies both partial automation and full"
+    },
+    {
+      "start": 86,
+      "text": "automation. First got interested in"
+    },
+    {
+      "start": 88,
+      "text": "self-driving cars and computer vision"
+    },
+    {
+      "start": 91,
+      "text": "during undergrad. So, I was part of the"
+    },
+    {
+      "start": 92,
+      "text": "UCLA computer vision lab while they were"
+    },
+    {
+      "start": 95,
+      "text": "competing in our grand challenges."
+    },
+    {
+      "start": 98,
+      "text": "We're in the offhighway vehicle"
+    },
+    {
+      "start": 100,
+      "text": "recreation area."
+    },
+    {
+      "start": 105,
+      "text": "So we just did our first autonomous path"
+    },
+    {
+      "start": 107,
+      "text": "tracking test and I just thought that"
+    },
+    {
+      "start": 110,
+      "text": "was a very exciting area and was"
+    },
+    {
+      "start": 112,
+      "text": "focusing on computer vision at the time"
+    },
+    {
+      "start": 114,
+      "text": "but decided to pursue mathematics in"
+    },
+    {
+      "start": 117,
+      "text": "academia for about 10 years with the"
+    },
+    {
+      "start": 119,
+      "text": "intent to come back to the space when it"
+    },
+    {
+      "start": 121,
+      "text": "was more mature because I saw that as"
+    },
+    {
+      "start": 123,
+      "text": "the key bottleneck to AI in the sense"
+    },
+    {
+      "start": 126,
+      "text": "that the biggest challenge in in reading"
+    },
+    {
+      "start": 128,
+      "text": "research papers in AI or computer vision"
+    },
+    {
+      "start": 130,
+      "text": "was ultimately a mathematical you know"
+    },
+    {
+      "start": 133,
+      "text": "just a question of do you understand"
+    },
+    {
+      "start": 134,
+      "text": "sort of the equations right so yeah in"
+    },
+    {
+      "start": 136,
+      "text": "some sense I looked at math as a tool to"
+    },
+    {
+      "start": 139,
+      "text": "be able to solve AI down the road the"
+    },
+    {
+      "start": 141,
+      "text": "goal was always to come back to the"
+    },
+    {
+      "start": 143,
+      "text": "autonomous driving space in the war"
+    },
+    {
+      "start": 145,
+      "text": "between humans and artificial"
+    },
+    {
+      "start": 147,
+      "text": "intelligence this is for 33-year-old"
+    },
+    {
+      "start": 149,
+      "text": "professional go gamer Lisa D Elon Musk"
+    },
+    {
+      "start": 152,
+      "text": "he plans to equip all new Tesla cars"
+    },
+    {
+      "start": 154,
+      "text": "with the hardware needed for full"
+    },
+    {
+      "start": 156,
+      "text": "self-driving capacity around I would say"
+    },
+    {
+      "start": 159,
+      "text": "2016 it became clear that the technology"
+    },
+    {
+      "start": 162,
+      "text": "was really taking off in terms of deep"
+    },
+    {
+      "start": 164,
+      "text": "learning. There was an inflection point"
+    },
+    {
+      "start": 166,
+      "text": "in where AI technology was going with uh"
+    },
+    {
+      "start": 168,
+      "text": "deep learning at the time and"
+    },
+    {
+      "start": 171,
+      "text": "simultaneously there was a very clear"
+    },
+    {
+      "start": 173,
+      "text": "opportunity that it was the right time"
+    },
+    {
+      "start": 175,
+      "text": "to jump into that space because what I"
+    },
+    {
+      "start": 178,
+      "text": "witnessed was a lot of companies making"
+    },
+    {
+      "start": 181,
+      "text": "certain decisions that I actually didn't"
+    },
+    {
+      "start": 183,
+      "text": "agree with. Right? It was such an"
+    },
+    {
+      "start": 184,
+      "text": "inefficient space at the time that it"
+    },
+    {
+      "start": 187,
+      "text": "was very clear to me that with the right"
+    },
+    {
+      "start": 189,
+      "text": "approach you can add a lot of value."
+    },
+    {
+      "start": 191,
+      "text": "Right? because uh it's a strategy that's"
+    },
+    {
+      "start": 193,
+      "text": "kind of stood the test of time as"
+    },
+    {
+      "start": 195,
+      "text": "opposed to many companies that peaked"
+    },
+    {
+      "start": 198,
+      "text": "early and then died off or just kind of"
+    },
+    {
+      "start": 200,
+      "text": "ran out of money and what that meant was"
+    },
+    {
+      "start": 202,
+      "text": "that there was an opportunity. So after"
+    },
+    {
+      "start": 204,
+      "text": "my academic career moved back to"
+    },
+    {
+      "start": 206,
+      "text": "California to start"
+    },
+    {
+      "start": 210,
+      "text": "Helm Co was a very kind of a tricky time"
+    },
+    {
+      "start": 214,
+      "text": "for everyone obviously but also in in"
+    },
+    {
+      "start": 216,
+      "text": "the automotive market in particular"
+    },
+    {
+      "start": 218,
+      "text": "because it basically caused a halt in"
+    },
+    {
+      "start": 220,
+      "text": "production. The Corona virus is idling"
+    },
+    {
+      "start": 223,
+      "text": "one auto plant after another. All the"
+    },
+    {
+      "start": 225,
+      "text": "different auto factories and all the"
+    },
+    {
+      "start": 226,
+      "text": "automakers had to immediately start"
+    },
+    {
+      "start": 229,
+      "text": "dealing with that issue versus"
+    },
+    {
+      "start": 231,
+      "text": "everything else. And I think it caused a"
+    },
+    {
+      "start": 233,
+      "text": "bit of a delay in the deployment of"
+    },
+    {
+      "start": 236,
+      "text": "autonomous driving technology. But"
+    },
+    {
+      "start": 238,
+      "text": "beyond that, I mean, I would say quite"
+    },
+    {
+      "start": 240,
+      "text": "exciting. I mean, ultimately, I I I"
+    },
+    {
+      "start": 241,
+      "text": "don't know if it was like I think the"
+    },
+    {
+      "start": 243,
+      "text": "challenges were there, but they like"
+    },
+    {
+      "start": 244,
+      "text": "were outweighed by how exciting it was"
+    },
+    {
+      "start": 247,
+      "text": "to like start a company, you know, make"
+    },
+    {
+      "start": 249,
+      "text": "a truly uh deep tech bet in the space."
+    },
+    {
+      "start": 252,
+      "text": "Our first 10 hires were basically all"
+    },
+    {
+      "start": 255,
+      "text": "just very, very strong researchers. Any"
+    },
+    {
+      "start": 257,
+      "text": "one of those people could have easily"
+    },
+    {
+      "start": 259,
+      "text": "walked away and done something else."
+    },
+    {
+      "start": 261,
+      "text": "Some of those people even made certain"
+    },
+    {
+      "start": 263,
+      "text": "sacrifices of their academic career to"
+    },
+    {
+      "start": 265,
+      "text": "come work at Helm because they were very"
+    },
+    {
+      "start": 267,
+      "text": "excited about the vision. And I think"
+    },
+    {
+      "start": 270,
+      "text": "that helped us really mold the"
+    },
+    {
+      "start": 272,
+      "text": "engineering culture. When we were"
+    },
+    {
+      "start": 274,
+      "text": "pitching Helm 2016, right, unsupervised"
+    },
+    {
+      "start": 276,
+      "text": "learning was kind of like seemed like a"
+    },
+    {
+      "start": 278,
+      "text": "pipe dream almost, right? Um, but we"
+    },
+    {
+      "start": 282,
+      "text": "committed to that vision. We actually"
+    },
+    {
+      "start": 284,
+      "text": "carried out the research and we were"
+    },
+    {
+      "start": 286,
+      "text": "able to make that work. So that was uh,"
+    },
+    {
+      "start": 288,
+      "text": "you know, quite exciting. So I mean I"
+    },
+    {
+      "start": 290,
+      "text": "guess like there was the fact that you"
+    },
+    {
+      "start": 292,
+      "text": "know for 2 years we were essentially"
+    },
+    {
+      "start": 293,
+      "text": "developing that technology and there was"
+    },
+    {
+      "start": 295,
+      "text": "zero product development during that"
+    },
+    {
+      "start": 297,
+      "text": "time. So it's pure R&D for 2 years very"
+    },
+    {
+      "start": 300,
+      "text": "much all or nothing. Um so you know uh"
+    },
+    {
+      "start": 305,
+      "text": "obviously there's risk involved in that"
+    },
+    {
+      "start": 307,
+      "text": "but it was a very creative time so I I"
+    },
+    {
+      "start": 309,
+      "text": "mostly just appreciate"
+    },
+    {
+      "start": 314,
+      "text": "it. an Uber self-driving vehicle that"
+    },
+    {
+      "start": 318,
+      "text": "flipped. Uber is now banned from testing"
+    },
+    {
+      "start": 320,
+      "text": "its self-driving cars in Arizona."
+    },
+    {
+      "start": 322,
+      "text": "Tonight, Tesla confirming this car was"
+    },
+    {
+      "start": 324,
+      "text": "in autopilot mode when it crashed in"
+    },
+    {
+      "start": 326,
+      "text": "Northern California"
+    },
+    {
+      "start": 329,
+      "text": "back in 2018. Kind of foray into"
+    },
+    {
+      "start": 332,
+      "text": "foundation models, even before that term"
+    },
+    {
+      "start": 335,
+      "text": "was coined. What we used that foundation"
+    },
+    {
+      "start": 337,
+      "text": "model for was to essentially build an"
+    },
+    {
+      "start": 339,
+      "text": "autonomous driving system that we were"
+    },
+    {
+      "start": 341,
+      "text": "able to show actually outperforms the"
+    },
+    {
+      "start": 344,
+      "text": "systems you were able to buy in the"
+    },
+    {
+      "start": 345,
+      "text": "market by pretty wide margin. So we"
+    },
+    {
+      "start": 348,
+      "text": "essentially conducted a series of tests"
+    },
+    {
+      "start": 349,
+      "text": "where we put our autonomous vehicle on"
+    },
+    {
+      "start": 352,
+      "text": "uh very steep and curvy mountain road"
+    },
+    {
+      "start": 354,
+      "text": "scenarios where essentially you have to"
+    },
+    {
+      "start": 356,
+      "text": "make very rapid driving decisions as far"
+    },
+    {
+      "start": 359,
+      "text": "as you know taking the various turns in"
+    },
+    {
+      "start": 361,
+      "text": "a challenging uh landscape. And we were"
+    },
+    {
+      "start": 363,
+      "text": "able to achieve much better"
+    },
+    {
+      "start": 364,
+      "text": "disengagement rates uh up to a factor of"
+    },
+    {
+      "start": 367,
+      "text": "200 better than what was out there on"
+    },
+    {
+      "start": 370,
+      "text": "the market. And that is how we got the"
+    },
+    {
+      "start": 372,
+      "text": "attention of some of the brand name"
+    },
+    {
+      "start": 374,
+      "text": "automakers in the world in the early"
+    },
+    {
+      "start": 376,
+      "text": "days. In the last couple of years, we've"
+    },
+    {
+      "start": 379,
+      "text": "been doing a lot of innovation in"
+    },
+    {
+      "start": 381,
+      "text": "generative AI and combining that with"
+    },
+    {
+      "start": 383,
+      "text": "our in-house technology which is called"
+    },
+    {
+      "start": 385,
+      "text": "deep teaching in order to close the gap"
+    },
+    {
+      "start": 388,
+      "text": "between AI based simulation and reality."
+    },
+    {
+      "start": 391,
+      "text": "So essentially that means how do you"
+    },
+    {
+      "start": 393,
+      "text": "simulate driving data or driving footage"
+    },
+    {
+      "start": 396,
+      "text": "sensor data from driving without"
+    },
+    {
+      "start": 397,
+      "text": "actually having to get into a car. And"
+    },
+    {
+      "start": 399,
+      "text": "there are many advantages to doing that."
+    },
+    {
+      "start": 401,
+      "text": "For example, very large fleets, right?"
+    },
+    {
+      "start": 403,
+      "text": "They can be useful for collecting data"
+    },
+    {
+      "start": 406,
+      "text": "in order to address difficult corner"
+    },
+    {
+      "start": 408,
+      "text": "cases for autonomous driving, but the"
+    },
+    {
+      "start": 410,
+      "text": "rate of occurrence of those corner cases"
+    },
+    {
+      "start": 412,
+      "text": "basically goes down exponentially as"
+    },
+    {
+      "start": 414,
+      "text": "your system improves. And so end up"
+    },
+    {
+      "start": 417,
+      "text": "actually paying exponentially more to"
+    },
+    {
+      "start": 419,
+      "text": "gather interesting data as you get"
+    },
+    {
+      "start": 421,
+      "text": "further into the development process. So"
+    },
+    {
+      "start": 422,
+      "text": "it's really not a good property. And"
+    },
+    {
+      "start": 424,
+      "text": "what simulation allows you to do is"
+    },
+    {
+      "start": 427,
+      "text": "generate all the interesting data"
+    },
+    {
+      "start": 428,
+      "text": "without actually having to deploy a"
+    },
+    {
+      "start": 430,
+      "text": "fleet. For example, Tesla that has a"
+    },
+    {
+      "start": 432,
+      "text": "very large fleet. Other automakers don't"
+    },
+    {
+      "start": 434,
+      "text": "have access necessarily to internal"
+    },
+    {
+      "start": 437,
+      "text": "fleets that are that large. So even if"
+    },
+    {
+      "start": 439,
+      "text": "they wanted to take the same approach as"
+    },
+    {
+      "start": 440,
+      "text": "Tesla, they would not be positioned to"
+    },
+    {
+      "start": 442,
+      "text": "do so. The only alternative to doing"
+    },
+    {
+      "start": 444,
+      "text": "that is essentially AI based simulation."
+    },
+    {
+      "start": 447,
+      "text": "And until very recently, it wasn't"
+    },
+    {
+      "start": 450,
+      "text": "possible to generate highly realistic"
+    },
+    {
+      "start": 452,
+      "text": "simulation data. But that's very much"
+    },
+    {
+      "start": 454,
+      "text": "changing these days due to the advent of"
+    },
+    {
+      "start": 456,
+      "text": "generative AI and combining generative"
+    },
+    {
+      "start": 458,
+      "text": "AI with technologies like deep teaching"
+    },
+    {
+      "start": 460,
+      "text": "provides a highly scalable uh simulation"
+    },
+    {
+      "start": 463,
+      "text": "platform that allows you to essentially"
+    },
+    {
+      "start": 465,
+      "text": "deploy a virtual fleet so to say instead"
+    },
+    {
+      "start": 468,
+      "text": "of a real world fleet you're just uh"
+    },
+    {
+      "start": 470,
+      "text": "learning from existing data. So that's a"
+    },
+    {
+      "start": 473,
+      "text": "recent inflection point that we're"
+    },
+    {
+      "start": 474,
+      "text": "definitely you know proud to be part of"
+    },
+    {
+      "start": 476,
+      "text": "and contributing to. Vid Gen 1 and World"
+    },
+    {
+      "start": 479,
+      "text": "Gen 1 are foundation models for"
+    },
+    {
+      "start": 482,
+      "text": "generative AI simulation. Vid Gen is a"
+    },
+    {
+      "start": 484,
+      "text": "foundation model that creates highly"
+    },
+    {
+      "start": 486,
+      "text": "realistic video data from a multitude of"
+    },
+    {
+      "start": 489,
+      "text": "different cameras, essentially arbitrary"
+    },
+    {
+      "start": 491,
+      "text": "cameras, arbitrary locations. Worldgen"
+    },
+    {
+      "start": 494,
+      "text": "is a foundation model that takes a"
+    },
+    {
+      "start": 497,
+      "text": "further step in that it actually"
+    },
+    {
+      "start": 498,
+      "text": "simulates the entire autonomous driving"
+    },
+    {
+      "start": 500,
+      "text": "stack. You can actually use Worldgen to"
+    },
+    {
+      "start": 502,
+      "text": "technically to drive a car because it"
+    },
+    {
+      "start": 504,
+      "text": "does make predictions about what's going"
+    },
+    {
+      "start": 506,
+      "text": "to happen next. So if you input data"
+    },
+    {
+      "start": 509,
+      "text": "from your autonomous driving stack,"
+    },
+    {
+      "start": 510,
+      "text": "it'll tell you what's going to happen in"
+    },
+    {
+      "start": 512,
+      "text": "the next several seconds and that"
+    },
+    {
+      "start": 514,
+      "text": "includes the path that the vehicle"
+    },
+    {
+      "start": 516,
+      "text": "should take to perform certain actions."
+    },
+    {
+      "start": 518,
+      "text": "You can actually use it to drive. So"
+    },
+    {
+      "start": 520,
+      "text": "it's technically uh you know a"
+    },
+    {
+      "start": 522,
+      "text": "self-driving system that not only"
+    },
+    {
+      "start": 524,
+      "text": "functions as a simulator or in a"
+    },
+    {
+      "start": 525,
+      "text": "simulator environment, it also can"
+    },
+    {
+      "start": 527,
+      "text": "function in the real world."
+    },
+    {
+      "start": 532,
+      "text": "Yeah, basically how to actually convince"
+    },
+    {
+      "start": 534,
+      "text": "a customer, how to develop a"
+    },
+    {
+      "start": 536,
+      "text": "relationship with a customer in"
+    },
+    {
+      "start": 538,
+      "text": "autonomous driving space. Um, I think"
+    },
+    {
+      "start": 540,
+      "text": "there's kind of two important aspects at"
+    },
+    {
+      "start": 541,
+      "text": "least. So, one I think is, you know,"
+    },
+    {
+      "start": 543,
+      "text": "seeing is believing. Not only having"
+    },
+    {
+      "start": 546,
+      "text": "kind of marketing materials or video"
+    },
+    {
+      "start": 548,
+      "text": "demos, right? actually being able to put"
+    },
+    {
+      "start": 550,
+      "text": "somebody in a car and have that"
+    },
+    {
+      "start": 552,
+      "text": "autonomous car navigate unforeseeable"
+    },
+    {
+      "start": 554,
+      "text": "situations um I think is a very powerful"
+    },
+    {
+      "start": 556,
+      "text": "sends a very powerful message about the"
+    },
+    {
+      "start": 558,
+      "text": "robustness of the technology and the"
+    },
+    {
+      "start": 560,
+      "text": "product and secondly I think that"
+    },
+    {
+      "start": 563,
+      "text": "working on a production contract there"
+    },
+    {
+      "start": 565,
+      "text": "are going to be kind of other contracts"
+    },
+    {
+      "start": 567,
+      "text": "along the way right I think it's not"
+    },
+    {
+      "start": 569,
+      "text": "really possible for a major car company"
+    },
+    {
+      "start": 571,
+      "text": "to give a production contract to a"
+    },
+    {
+      "start": 573,
+      "text": "supplier as the first contract so"
+    },
+    {
+      "start": 575,
+      "text": "there's going to be some sequence of"
+    },
+    {
+      "start": 577,
+      "text": "contracts along the way and so I think"
+    },
+    {
+      "start": 578,
+      "text": "that being able to execute on those"
+    },
+    {
+      "start": 581,
+      "text": "contracts and deliver exactly what you"
+    },
+    {
+      "start": 583,
+      "text": "signed up to deliver is critical because"
+    },
+    {
+      "start": 586,
+      "text": "ultimately what you're entrusted with as"
+    },
+    {
+      "start": 588,
+      "text": "a supplier is providing not only safety"
+    },
+    {
+      "start": 591,
+      "text": "critical technology but technology that"
+    },
+    {
+      "start": 593,
+      "text": "is absolutely necessary to have in a"
+    },
+    {
+      "start": 596,
+      "text": "certain timeline because you're talking"
+    },
+    {
+      "start": 598,
+      "text": "about a production program that has to"
+    },
+    {
+      "start": 600,
+      "text": "launch in a particular year where you"
+    },
+    {
+      "start": 602,
+      "text": "know a lot of money is a lot more money"
+    },
+    {
+      "start": 603,
+      "text": "is invested into that than just the"
+    },
+    {
+      "start": 605,
+      "text": "money being paid to one supplier. So,"
+    },
+    {
+      "start": 607,
+      "text": "it's incredibly important to be able to"
+    },
+    {
+      "start": 609,
+      "text": "meet those deadlines. Maybe a third"
+    },
+    {
+      "start": 611,
+      "text": "thing I would add is just not only"
+    },
+    {
+      "start": 613,
+      "text": "demonstrating your current state of"
+    },
+    {
+      "start": 615,
+      "text": "where your technology is, but"
+    },
+    {
+      "start": 617,
+      "text": "demonstrating the the difference from"
+    },
+    {
+      "start": 620,
+      "text": "one time to another, right? So, being"
+    },
+    {
+      "start": 621,
+      "text": "able to show, okay, here's where we are"
+    },
+    {
+      "start": 623,
+      "text": "at this point in time. And then in a"
+    },
+    {
+      "start": 626,
+      "text": "month, we expect to be here, right? and"
+    },
+    {
+      "start": 628,
+      "text": "actually showing, you know, showing that"
+    },
+    {
+      "start": 630,
+      "text": "differential and allowing them to"
+    },
+    {
+      "start": 632,
+      "text": "measure not only kind of your position,"
+    },
+    {
+      "start": 634,
+      "text": "but also your velocity, so to say. When"
+    },
+    {
+      "start": 636,
+      "text": "it comes to technology"
+    },
+    {
+      "start": 640,
+      "text": "development, especially when you're"
+    },
+    {
+      "start": 642,
+      "text": "going after such an ambitious play like"
+    },
+    {
+      "start": 644,
+      "text": "autonomous driving, kind of requires"
+    },
+    {
+      "start": 646,
+      "text": "quite a lot of conviction. The hardest"
+    },
+    {
+      "start": 648,
+      "text": "part about it was just if you're a"
+    },
+    {
+      "start": 650,
+      "text": "researcher, I think that your key job is"
+    },
+    {
+      "start": 652,
+      "text": "really okay to to perform the research"
+    },
+    {
+      "start": 654,
+      "text": "and then you put it out there. And sure,"
+    },
+    {
+      "start": 656,
+      "text": "there is some marketing aspect to that,"
+    },
+    {
+      "start": 658,
+      "text": "but it's not nearly as significant, I"
+    },
+    {
+      "start": 660,
+      "text": "think, as what you have to do for a"
+    },
+    {
+      "start": 662,
+      "text": "company. And generally, as a startup"
+    },
+    {
+      "start": 664,
+      "text": "founder, you have to wear so many"
+    },
+    {
+      "start": 665,
+      "text": "different hats. People say when they go"
+    },
+    {
+      "start": 667,
+      "text": "to MIT, for example, that it's kind of"
+    },
+    {
+      "start": 670,
+      "text": "like drinking from a fire hose. I never"
+    },
+    {
+      "start": 672,
+      "text": "had that experience, but I would say"
+    },
+    {
+      "start": 674,
+      "text": "that starting a company felt like"
+    },
+    {
+      "start": 676,
+      "text": "drinking from a fire hose. You know, in"
+    },
+    {
+      "start": 678,
+      "text": "our particular case, I think we were in"
+    },
+    {
+      "start": 680,
+      "text": "some sense working against the grain in"
+    },
+    {
+      "start": 682,
+      "text": "that the vast majority of the funding"
+    },
+    {
+      "start": 684,
+      "text": "went toward companies taking a totally"
+    },
+    {
+      "start": 686,
+      "text": "different approach in that they were"
+    },
+    {
+      "start": 688,
+      "text": "pursuing pure play 4. And you know, when"
+    },
+    {
+      "start": 690,
+      "text": "I first started to engage people about"
+    },
+    {
+      "start": 693,
+      "text": "the fact that we're going to really"
+    },
+    {
+      "start": 694,
+      "text": "focus on partial automation as the key"
+    },
+    {
+      "start": 696,
+      "text": "market, you know, everyone thought it"
+    },
+    {
+      "start": 698,
+      "text": "was crazy. But I I think that it"
+    },
+    {
+      "start": 700,
+      "text": "basically just emphasizes more kind of"
+    },
+    {
+      "start": 703,
+      "text": "this this notion of the importance of"
+    },
+    {
+      "start": 705,
+      "text": "like having grit or something because"
+    },
+    {
+      "start": 708,
+      "text": "you can't expect what you think to be"
+    },
+    {
+      "start": 710,
+      "text": "the predominant world view and it might"
+    },
+    {
+      "start": 712,
+      "text": "take a long time for the the world to"
+    },
+    {
+      "start": 715,
+      "text": "adjust right like I think we only"
+    },
+    {
+      "start": 717,
+      "text": "started seeing signs of the world"
+    },
+    {
+      "start": 719,
+      "text": "adjusting to our point of view some"
+    },
+    {
+      "start": 721,
+      "text": "number of years into the company right"
+    },
+    {
+      "start": 723,
+      "text": "maybe four years in 5 years in right but"
+    },
+    {
+      "start": 726,
+      "text": "then every year the our position has"
+    },
+    {
+      "start": 728,
+      "text": "improved prod not only as a function of"
+    },
+    {
+      "start": 731,
+      "text": "the technology and the product but also"
+    },
+    {
+      "start": 733,
+      "text": "because our strategy was adapted to a"
+    },
+    {
+      "start": 737,
+      "text": "certain worldview that we believed would"
+    },
+    {
+      "start": 739,
+      "text": "essentially would eventually materialize"
+    },
+    {
+      "start": 741,
+      "text": "and that is now happening."
+    },
+    {
+      "start": 744,
+      "text": "[Music]"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 334,
+  "timestamp": "2025-07-24T08:25:15.835Z"
+}

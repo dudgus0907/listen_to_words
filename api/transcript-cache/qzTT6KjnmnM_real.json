@@ -1,0 +1,2226 @@
+{
+  "success": true,
+  "videoId": "qzTT6KjnmnM",
+  "videoTitle": "Advice from the Top 1% of SpaceX Engineer ｜ Sift, Karthik Gollapudi",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "for people just starting their career I"
+    },
+    {
+      "start": 1,
+      "text": "have a bit of a different advice I think"
+    },
+    {
+      "start": 2,
+      "text": "a lot of people say go start your own"
+    },
+    {
+      "start": 3,
+      "text": "company learn by doing I highly don't"
+    },
+    {
+      "start": 5,
+      "text": "recommend that route I would recommend"
+    },
+    {
+      "start": 7,
+      "text": "most people they actually go see what"
+    },
+    {
+      "start": 9,
+      "text": "good looks like and that doesn't"
+    },
+    {
+      "start": 10,
+      "text": "necessarily part where I talk about"
+    },
+    {
+      "start": 11,
+      "text": "Prestige is that like just because"
+    },
+    {
+      "start": 13,
+      "text": "something prestigious doesn't mean the"
+    },
+    {
+      "start": 14,
+      "text": "right place that you're going to learn"
+    },
+    {
+      "start": 15,
+      "text": "the most from the thing that might have"
+    },
+    {
+      "start": 16,
+      "text": "made that procedure might no longer"
+    },
+    {
+      "start": 18,
+      "text": "still be relevant because of people who"
+    },
+    {
+      "start": 20,
+      "text": "were there that got it that state might"
+    },
+    {
+      "start": 21,
+      "text": "not be as involved it might be a much"
+    },
+    {
+      "start": 22,
+      "text": "larger company might be a lot more"
+    },
+    {
+      "start": 24,
+      "text": "process it's very much about I would say"
+    },
+    {
+      "start": 26,
+      "text": "go look for the smartest people you can"
+    },
+    {
+      "start": 28,
+      "text": "surround yourself with and try to work"
+    },
+    {
+      "start": 29,
+      "text": "there and just do like little flavor one"
+    },
+    {
+      "start": 31,
+      "text": "year at a multiple companies like you"
+    },
+    {
+      "start": 33,
+      "text": "really want to understand something from"
+    },
+    {
+      "start": 34,
+      "text": "first principles which really requires"
+    },
+    {
+      "start": 35,
+      "text": "spending multiple years trying to work"
+    },
+    {
+      "start": 37,
+      "text": "through some hard problem you definitely"
+    },
+    {
+      "start": 39,
+      "text": "want to try to look for places have"
+    },
+    {
+      "start": 40,
+      "text": "already had some level of success and"
+    },
+    {
+      "start": 42,
+      "text": "you're going to continue to build on"
+    },
+    {
+      "start": 43,
+      "text": "level of success the reason I call that"
+    },
+    {
+      "start": 45,
+      "text": "out is because there's some pretty"
+    },
+    {
+      "start": 46,
+      "text": "interesting companies with smart people"
+    },
+    {
+      "start": 47,
+      "text": "that seem smart from the outside as a"
+    },
+    {
+      "start": 49,
+      "text": "22y old or when you're young it's hard"
+    },
+    {
+      "start": 51,
+      "text": "to evaluate like what is smart or not"
+    },
+    {
+      "start": 53,
+      "text": "smart because everyone smarter than you"
+    },
+    {
+      "start": 56,
+      "text": "hi I'm Kake I'm the CEO at sift at sift"
+    },
+    {
+      "start": 58,
+      "text": "we're building the data tools to go"
+    },
+    {
+      "start": 60,
+      "text": "build modern machines and a lot of it is"
+    },
+    {
+      "start": 61,
+      "text": "inspired by workflows and processes and"
+    },
+    {
+      "start": 63,
+      "text": "how we built machines back at SpaceX"
+    },
+    {
+      "start": 65,
+      "text": "where I spent the prior 4 and a half"
+    },
+    {
+      "start": 67,
+      "text": "years before working on the dragon"
+    },
+    {
+      "start": 68,
+      "text": "flight software program and dragon was a"
+    },
+    {
+      "start": 70,
+      "text": "capsule that carried astronauts and"
+    },
+    {
+      "start": 72,
+      "text": "cargo to the space station so we have uh"
+    },
+    {
+      "start": 73,
+      "text": "seven publicly announced customers we"
+    },
+    {
+      "start": 75,
+      "text": "raised about 25 million most recently"
+    },
+    {
+      "start": 77,
+      "text": "the series a was led by GV Plus Google"
+    },
+    {
+      "start": 80,
+      "text": "Ventures previous rced was led by two"
+    },
+    {
+      "start": 82,
+      "text": "firms in LA CA Ventures focuses on a lot"
+    },
+    {
+      "start": 84,
+      "text": "of Enterprise SAS Riot Venture is one of"
+    },
+    {
+      "start": 87,
+      "text": "the best like Hardware investing firms"
+    },
+    {
+      "start": 93,
+      "text": "I was born and raised in a little suburb"
+    },
+    {
+      "start": 95,
+      "text": "outside of LA right next to JPL so I was"
+    },
+    {
+      "start": 98,
+      "text": "about 10 15 minutes outside of JPL so I"
+    },
+    {
+      "start": 100,
+      "text": "actually grew up going to Industry days"
+    },
+    {
+      "start": 102,
+      "text": "where you can just walk in there's a lot"
+    },
+    {
+      "start": 103,
+      "text": "of photos of me actually with like"
+    },
+    {
+      "start": 105,
+      "text": "playing with the Mars rover and the"
+    },
+    {
+      "start": 106,
+      "text": "Legos and stuff that they had at JPL I"
+    },
+    {
+      "start": 108,
+      "text": "would always grew up with Legos but then"
+    },
+    {
+      "start": 109,
+      "text": "like my first real like machines were"
+    },
+    {
+      "start": 111,
+      "text": "LEGO Mindstorms you can build all robots"
+    },
+    {
+      "start": 113,
+      "text": "and you can make very simple programs"
+    },
+    {
+      "start": 115,
+      "text": "with these Legos I started that around 9"
+    },
+    {
+      "start": 116,
+      "text": "so I was like fourth grade always had"
+    },
+    {
+      "start": 118,
+      "text": "fun with that with my friends and I also"
+    },
+    {
+      "start": 120,
+      "text": "this thing called first Lego league so"
+    },
+    {
+      "start": 121,
+      "text": "first robotics they have these"
+    },
+    {
+      "start": 122,
+      "text": "competitions it's most known for the"
+    },
+    {
+      "start": 124,
+      "text": "high schoolers that are building like"
+    },
+    {
+      "start": 125,
+      "text": "these robots they'll have like they'll"
+    },
+    {
+      "start": 127,
+      "text": "be like three on three and they'll have"
+    },
+    {
+      "start": 128,
+      "text": "some sort of like theme saying like Hey"
+    },
+    {
+      "start": 130,
+      "text": "we're building a moon base so you have"
+    },
+    {
+      "start": 131,
+      "text": "to build a robot that can go drive"
+    },
+    {
+      "start": 132,
+      "text": "around on a slick floor the floor will"
+    },
+    {
+      "start": 134,
+      "text": "be all whiteboard material and the"
+    },
+    {
+      "start": 136,
+      "text": "wheels you have to use are basically"
+    },
+    {
+      "start": 137,
+      "text": "like a whiteboard material so it's like"
+    },
+    {
+      "start": 138,
+      "text": "super slippery and we all have some sort"
+    },
+    {
+      "start": 140,
+      "text": "of competition we to like move these"
+    },
+    {
+      "start": 142,
+      "text": "massive balls into a net whatever it is"
+    },
+    {
+      "start": 144,
+      "text": "but they also have younger levels it's"
+    },
+    {
+      "start": 146,
+      "text": "Lego based so that was kind of my"
+    },
+    {
+      "start": 147,
+      "text": "background I was like around engineering"
+    },
+    {
+      "start": 149,
+      "text": "but it wasn't like a hardcore"
+    },
+    {
+      "start": 150,
+      "text": "engineering like stem background it's"
+    },
+    {
+      "start": 152,
+      "text": "like I had the exposure but I had a lot"
+    },
+    {
+      "start": 154,
+      "text": "of freedom to do other things there's a"
+    },
+    {
+      "start": 156,
+      "text": "little bit more Nuance I knew that the"
+    },
+    {
+      "start": 157,
+      "text": "whole like PayPal Mafia so basically"
+    },
+    {
+      "start": 159,
+      "text": "during undergrad that's when Peter teal"
+    },
+    {
+      "start": 161,
+      "text": "came out with 0 to1 so that book 0 to1 I"
+    },
+    {
+      "start": 164,
+      "text": "liked it a lot kind of more contrarian"
+    },
+    {
+      "start": 166,
+      "text": "very much promoting first principles"
+    },
+    {
+      "start": 167,
+      "text": "thinking of that I was looking at more"
+    },
+    {
+      "start": 169,
+      "text": "of like the PayPal Mafia companies but"
+    },
+    {
+      "start": 171,
+      "text": "PayPal was also like much later stage I"
+    },
+    {
+      "start": 173,
+      "text": "I didn't think it was the PayPal in the"
+    },
+    {
+      "start": 174,
+      "text": "early days but a lot of these other"
+    },
+    {
+      "start": 176,
+      "text": "companies like paler SpaceX Tesla were"
+    },
+    {
+      "start": 178,
+      "text": "really interesting so that's what I was"
+    },
+    {
+      "start": 180,
+      "text": "looking at as opposed to like the"
+    },
+    {
+      "start": 181,
+      "text": "prestigious companies I actually would"
+    },
+    {
+      "start": 183,
+      "text": "as part of advice I would highly"
+    },
+    {
+      "start": 184,
+      "text": "recommend people not optimizing for"
+    },
+    {
+      "start": 185,
+      "text": "Prestige do you know the atmology of the"
+    },
+    {
+      "start": 187,
+      "text": "word Prestige the atmology of the word"
+    },
+    {
+      "start": 189,
+      "text": "Prestige is actually it goes back to"
+    },
+    {
+      "start": 190,
+      "text": "like the French word for illusion and"
+    },
+    {
+      "start": 192,
+      "text": "then it goes back to the Latin word for"
+    },
+    {
+      "start": 193,
+      "text": "playing tricks Conjuring tricks the"
+    },
+    {
+      "start": 195,
+      "text": "whole concept like Prestige and a"
+    },
+    {
+      "start": 196,
+      "text": "prestigious Place actually a bit of an"
+    },
+    {
+      "start": 198,
+      "text": "illusion you just want to go to places"
+    },
+    {
+      "start": 199,
+      "text": "that are like have results like can like"
+    },
+    {
+      "start": 201,
+      "text": "see people say it's great but you can"
+    },
+    {
+      "start": 202,
+      "text": "actually see with your own eyes on the"
+    },
+    {
+      "start": 204,
+      "text": "ground truth with space xile was clearly"
+    },
+    {
+      "start": 206,
+      "text": "visible"
+    },
+    {
+      "start": 210,
+      "text": "are you a tech startup founder building"
+    },
+    {
+      "start": 211,
+      "text": "something cool if so listen up EO has"
+    },
+    {
+      "start": 214,
+      "text": "teamed up with tech domain to give"
+    },
+    {
+      "start": 215,
+      "text": "Founders like you a rare opportunity to"
+    },
+    {
+      "start": 218,
+      "text": "pitch live directly to topy seas in"
+    },
+    {
+      "start": 220,
+      "text": "Silicon Valley and get featured on this"
+    },
+    {
+      "start": 222,
+      "text": "channel viewed by more than 350k"
+    },
+    {
+      "start": 224,
+      "text": "subscribers worldwide the only condition"
+    },
+    {
+      "start": 227,
+      "text": "your startup must use a do te domain or"
+    },
+    {
+      "start": 230,
+      "text": "plan to upon getting selected to pinch"
+    },
+    {
+      "start": 232,
+      "text": "and erase Less Than 3 million doll in"
+    },
+    {
+      "start": 234,
+      "text": "funding after all if you're building in"
+    },
+    {
+      "start": 236,
+      "text": "Tech do te is the most relevant domain"
+    },
+    {
+      "start": 239,
+      "text": "extension to get it tells the world your"
+    },
+    {
+      "start": 241,
+      "text": "website is all about technology and hey"
+    },
+    {
+      "start": 243,
+      "text": "it's cooler.com some of the coolest Tech"
+    },
+    {
+      "start": 246,
+      "text": "startups are already using te domains"
+    },
+    {
+      "start": 249,
+      "text": "and we've been highlighting their"
+    },
+    {
+      "start": 250,
+      "text": "stories in eo's original interview"
+    },
+    {
+      "start": 252,
+      "text": "series Beyond Tech now it's your turn"
+    },
+    {
+      "start": 255,
+      "text": "head over to www. pitch. or check the"
+    },
+    {
+      "start": 258,
+      "text": "video description to apply"
+    },
+    {
+      "start": 264,
+      "text": "now I joined space act there is a lot of"
+    },
+    {
+      "start": 267,
+      "text": "stuff to learn one of the Dragon"
+    },
+    {
+      "start": 268,
+      "text": "missions as is coming back to Earth the"
+    },
+    {
+      "start": 271,
+      "text": "Dragon capsule has four parachutes one"
+    },
+    {
+      "start": 272,
+      "text": "of the four parachutes it didn't open"
+    },
+    {
+      "start": 274,
+      "text": "until a pretty low altitude of course"
+    },
+    {
+      "start": 276,
+      "text": "there's redundancy built in it was"
+    },
+    {
+      "start": 277,
+      "text": "always going to be safe even though that"
+    },
+    {
+      "start": 278,
+      "text": "parachute didn't open it wasn't an"
+    },
+    {
+      "start": 280,
+      "text": "expected Behavior and the way that this"
+    },
+    {
+      "start": 281,
+      "text": "works is these Dragon missions work on a"
+    },
+    {
+      "start": 283,
+      "text": "scheduling is as soon as you bring these"
+    },
+    {
+      "start": 285,
+      "text": "four astronauts back you want to launch"
+    },
+    {
+      "start": 286,
+      "text": "another four immediately to get back on"
+    },
+    {
+      "start": 288,
+      "text": "a space station our scheduled next"
+    },
+    {
+      "start": 289,
+      "text": "launch was actually just one week behind"
+    },
+    {
+      "start": 291,
+      "text": "but then NASA said hey this parachute"
+    },
+    {
+      "start": 292,
+      "text": "didn't open how do we know this is not"
+    },
+    {
+      "start": 294,
+      "text": "going to be a more problematic issue on"
+    },
+    {
+      "start": 296,
+      "text": "the next mission and then they grounded"
+    },
+    {
+      "start": 297,
+      "text": "the next flight until this result for us"
+    },
+    {
+      "start": 299,
+      "text": "to actually figure out what was"
+    },
+    {
+      "start": 300,
+      "text": "happening we need to see all the data"
+    },
+    {
+      "start": 301,
+      "text": "that was collected from the vehicle but"
+    },
+    {
+      "start": 303,
+      "text": "it's stored on this like black box on"
+    },
+    {
+      "start": 305,
+      "text": "the vehicle just like I was an airplane"
+    },
+    {
+      "start": 306,
+      "text": "has like this black box that stores all"
+    },
+    {
+      "start": 307,
+      "text": "the data and the thing is that this"
+    },
+    {
+      "start": 309,
+      "text": "capsule it lands in the Gulf of Mexico"
+    },
+    {
+      "start": 310,
+      "text": "you don't have internet connection in"
+    },
+    {
+      "start": 312,
+      "text": "the Gulf of Mexico to go debug this so"
+    },
+    {
+      "start": 313,
+      "text": "at that time starlink was like a very"
+    },
+    {
+      "start": 315,
+      "text": "experimental program so we like shot"
+    },
+    {
+      "start": 317,
+      "text": "over and email the Starling team and"
+    },
+    {
+      "start": 318,
+      "text": "we're like hey is there any way we can"
+    },
+    {
+      "start": 320,
+      "text": "get internet over the Gulf of Mexico"
+    },
+    {
+      "start": 322,
+      "text": "they activated some cells over the Gulf"
+    },
+    {
+      "start": 324,
+      "text": "of Mexico upload this data from the"
+    },
+    {
+      "start": 326,
+      "text": "Dragon capsule while it was sailing this"
+    },
+    {
+      "start": 327,
+      "text": "is before like Starling was a thing so"
+    },
+    {
+      "start": 329,
+      "text": "like getting High through put internet"
+    },
+    {
+      "start": 330,
+      "text": "in middle of the ocean is not heard of"
+    },
+    {
+      "start": 332,
+      "text": "we're able to send all the data back to"
+    },
+    {
+      "start": 333,
+      "text": "the headquarters we able to run it"
+    },
+    {
+      "start": 335,
+      "text": "through the whole testing Suite do all"
+    },
+    {
+      "start": 336,
+      "text": "the analysis basically say that the next"
+    },
+    {
+      "start": 338,
+      "text": "mission is good to go it's very"
+    },
+    {
+      "start": 339,
+      "text": "interesting you have very smart people"
+    },
+    {
+      "start": 340,
+      "text": "that are basically able to coordinate"
+    },
+    {
+      "start": 342,
+      "text": "satellites to beam internet when it was"
+    },
+    {
+      "start": 344,
+      "text": "a very experimental program to go"
+    },
+    {
+      "start": 346,
+      "text": "accelerate your physical spacecraft"
+    },
+    {
+      "start": 347,
+      "text": "company at the time so I think that was"
+    },
+    {
+      "start": 349,
+      "text": "just like a very cool experience I think"
+    },
+    {
+      "start": 350,
+      "text": "the biggest things I learned was just"
+    },
+    {
+      "start": 352,
+      "text": "seeing what good looks like which I know"
+    },
+    {
+      "start": 353,
+      "text": "is like very broad because I I actually"
+    },
+    {
+      "start": 355,
+      "text": "noce you were asking the question"
+    },
+    {
+      "start": 356,
+      "text": "earlier about what advice would you give"
+    },
+    {
+      "start": 358,
+      "text": "and I think one of the things is just"
+    },
+    {
+      "start": 360,
+      "text": "learning from the smartest folks and at"
+    },
+    {
+      "start": 361,
+      "text": "SpaceX I just saw a lot of people that"
+    },
+    {
+      "start": 363,
+      "text": "were operating a very high level and"
+    },
+    {
+      "start": 364,
+      "text": "sure you can criticize that like maybe"
+    },
+    {
+      "start": 366,
+      "text": "certain things like management might not"
+    },
+    {
+      "start": 367,
+      "text": "be what everyone else likes but at the"
+    },
+    {
+      "start": 369,
+      "text": "end of the day you see it with your eyes"
+    },
+    {
+      "start": 370,
+      "text": "it's like the largest rocket ever"
+    },
+    {
+      "start": 371,
+      "text": "launched and brought back in landing"
+    },
+    {
+      "start": 373,
+      "text": "until you you can like push the boundary"
+    },
+    {
+      "start": 374,
+      "text": "and like show people things that have"
+    },
+    {
+      "start": 376,
+      "text": "never been possible and you're like"
+    },
+    {
+      "start": 377,
+      "text": "super proud of the work you do you work"
+    },
+    {
+      "start": 380,
+      "text": "really really hard but then you can look"
+    },
+    {
+      "start": 381,
+      "text": "back and you're super proud of what you"
+    },
+    {
+      "start": 383,
+      "text": "do I think the key learning was just how"
+    },
+    {
+      "start": 384,
+      "text": "to operate at that very high level the"
+    },
+    {
+      "start": 386,
+      "text": "things that stood out of operating that"
+    },
+    {
+      "start": 388,
+      "text": "high level La is just urgency so it's"
+    },
+    {
+      "start": 390,
+      "text": "just like high urgency High iteration"
+    },
+    {
+      "start": 391,
+      "text": "rate you learn the most if you just have"
+    },
+    {
+      "start": 393,
+      "text": "that urgency to move faster it was"
+    },
+    {
+      "start": 395,
+      "text": "mostly I just wanted to see what good"
+    },
+    {
+      "start": 396,
+      "text": "look like so I was interview on"
+    },
+    {
+      "start": 397,
+      "text": "companies I thought were really high"
+    },
+    {
+      "start": 399,
+      "text": "performing at that time this is what"
+    },
+    {
+      "start": 400,
+      "text": "2017 is when I decided to join SpaceX I"
+    },
+    {
+      "start": 403,
+      "text": "was just pretty much looking for"
+    },
+    {
+      "start": 405,
+      "text": "learning from very very high performing"
+    },
+    {
+      "start": 406,
+      "text": "companies because I knew eventually I'd"
+    },
+    {
+      "start": 408,
+      "text": "either be running a company or starting"
+    },
+    {
+      "start": 410,
+      "text": "company or be in a high leadership"
+    },
+    {
+      "start": 412,
+      "text": "position let me go see how it was done"
+    },
+    {
+      "start": 413,
+      "text": "by the best so I was interviewing"
+    },
+    {
+      "start": 415,
+      "text": "companies I thought were very very high"
+    },
+    {
+      "start": 416,
+      "text": "performing at that time stripe was one"
+    },
+    {
+      "start": 417,
+      "text": "of the hot companies at that time was"
+    },
+    {
+      "start": 419,
+      "text": "like really interesting at the time I"
+    },
+    {
+      "start": 421,
+      "text": "just wanted to learn from people who"
+    },
+    {
+      "start": 422,
+      "text": "were doing well what stood about SpaceX"
+    },
+    {
+      "start": 424,
+      "text": "like the interview process was just very"
+    },
+    {
+      "start": 425,
+      "text": "different than every other company"
+    },
+    {
+      "start": 427,
+      "text": "nobody was pitching me on benefits no"
+    },
+    {
+      "start": 428,
+      "text": "one was pitching me on like work life"
+    },
+    {
+      "start": 430,
+      "text": "balance they were pitching me on Mission"
+    },
+    {
+      "start": 431,
+      "text": "and the work that you're doing here"
+    },
+    {
+      "start": 433,
+      "text": "there's a lot more Spartan but it's also"
+    },
+    {
+      "start": 434,
+      "text": "something you can look back on and be"
+    },
+    {
+      "start": 436,
+      "text": "very excited about and you can like"
+    },
+    {
+      "start": 438,
+      "text": "point to something great that you"
+    },
+    {
+      "start": 439,
+      "text": "accomplished with another team that was"
+    },
+    {
+      "start": 441,
+      "text": "grinding very hard that was the main"
+    },
+    {
+      "start": 442,
+      "text": "reason why I chose it so while I was"
+    },
+    {
+      "start": 444,
+      "text": "there I learned a lot about how to build"
+    },
+    {
+      "start": 446,
+      "text": "machines that are safer more reliable"
+    },
+    {
+      "start": 447,
+      "text": "fall tolerant I wanted to bring a lot of"
+    },
+    {
+      "start": 449,
+      "text": "those ideas and practices The Wider"
+    },
+    {
+      "start": 451,
+      "text": "industry of people building machines"
+    },
+    {
+      "start": 453,
+      "text": "that's why we actually started sift to"
+    },
+    {
+      "start": 455,
+      "text": "productize some of this knowledge into"
+    },
+    {
+      "start": 456,
+      "text": "tools for the rest of the hardware"
+    },
+    {
+      "start": 458,
+      "text": "industry I see Sith growing in like the"
+    },
+    {
+      "start": 460,
+      "text": "vision that I would have for it or my"
+    },
+    {
+      "start": 461,
+      "text": "goal I want a percentage of the physical"
+    },
+    {
+      "start": 463,
+      "text": "world to be operating on Sith I want at"
+    },
+    {
+      "start": 465,
+      "text": "least a percent of the trains the planes"
+    },
+    {
+      "start": 467,
+      "text": "the automobiles the drones the aircraft"
+    },
+    {
+      "start": 469,
+      "text": "things that are out there I want those"
+    },
+    {
+      "start": 471,
+      "text": "operating on sift whether they're being"
+    },
+    {
+      "start": 473,
+      "text": "designed whether they're being"
+    },
+    {
+      "start": 474,
+      "text": "manufactured if they're out in the field"
+    },
+    {
+      "start": 475,
+      "text": "they're generating data they need to be"
+    },
+    {
+      "start": 477,
+      "text": "maintained there should be at least"
+    },
+    {
+      "start": 478,
+      "text": "percentage of the physical world running"
+    },
+    {
+      "start": 480,
+      "text": "on"
+    },
+    {
+      "start": 484,
+      "text": "CFT process for acquiring cft's first"
+    },
+    {
+      "start": 486,
+      "text": "customer was actually kind of Novel we"
+    },
+    {
+      "start": 488,
+      "text": "actually just rented space parallel"
+    },
+    {
+      "start": 490,
+      "text": "systems's office they're the autonomous"
+    },
+    {
+      "start": 491,
+      "text": "rail company they were our first"
+    },
+    {
+      "start": 493,
+      "text": "customer they have a pretty cool office"
+    },
+    {
+      "start": 494,
+      "text": "and we literally just asked them if we"
+    },
+    {
+      "start": 496,
+      "text": "can rent one of the rooms as we build"
+    },
+    {
+      "start": 497,
+      "text": "out the product and that was just"
+    },
+    {
+      "start": 498,
+      "text": "motivated by at SpaceX Elon always"
+    },
+    {
+      "start": 500,
+      "text": "wanted the engineer on the factory floor"
+    },
+    {
+      "start": 502,
+      "text": "so we said we should just be embedded"
+    },
+    {
+      "start": 503,
+      "text": "with our customers let's go rent a room"
+    },
+    {
+      "start": 505,
+      "text": "and then as we built the product we had"
+    },
+    {
+      "start": 506,
+      "text": "new features we just go grab someone"
+    },
+    {
+      "start": 508,
+      "text": "else in the office and say what do you"
+    },
+    {
+      "start": 509,
+      "text": "think of this what do you want what do"
+    },
+    {
+      "start": 510,
+      "text": "you not like our early road map was"
+    },
+    {
+      "start": 512,
+      "text": "completely driven by them the evolution"
+    },
+    {
+      "start": 513,
+      "text": "of our sales motion to the next first"
+    },
+    {
+      "start": 516,
+      "text": "few customers it was a lot of it was"
+    },
+    {
+      "start": 517,
+      "text": "like using things in network we were"
+    },
+    {
+      "start": 519,
+      "text": "lucky that there's vibrant SpaceX Alum"
+    },
+    {
+      "start": 521,
+      "text": "Community we also were able to reach out"
+    },
+    {
+      "start": 522,
+      "text": "through existing investors our investors"
+    },
+    {
+      "start": 524,
+      "text": "that were generally interested in Sith"
+    },
+    {
+      "start": 525,
+      "text": "uh for introductions and also just even"
+    },
+    {
+      "start": 527,
+      "text": "just reaching out on LinkedIn talking"
+    },
+    {
+      "start": 529,
+      "text": "about this stuff that we so what we"
+    },
+    {
+      "start": 530,
+      "text": "wanted to do showing the product but"
+    },
+    {
+      "start": 532,
+      "text": "then also we had a competitor started"
+    },
+    {
+      "start": 533,
+      "text": "around the same time as us we actually"
+    },
+    {
+      "start": 535,
+      "text": "had a few of those bake offs in the"
+    },
+    {
+      "start": 536,
+      "text": "early days the other companies knew that"
+    },
+    {
+      "start": 538,
+      "text": "there's final customers do with their"
+    },
+    {
+      "start": 539,
+      "text": "multiple companies in the space invited"
+    },
+    {
+      "start": 540,
+      "text": "us to a bake off because it definitely"
+    },
+    {
+      "start": 542,
+      "text": "added a lot of urgency on our team and"
+    },
+    {
+      "start": 543,
+      "text": "we won all the bake offs that we've done"
+    },
+    {
+      "start": 545,
+      "text": "to date that was actually a bit of a"
+    },
+    {
+      "start": 546,
+      "text": "novel experience I would say compared to"
+    },
+    {
+      "start": 548,
+      "text": "most companies I think some of the"
+    },
+    {
+      "start": 549,
+      "text": "biggest lessons I've learned is that"
+    },
+    {
+      "start": 551,
+      "text": "like it really all just comes down to"
+    },
+    {
+      "start": 552,
+      "text": "people you have one life to live like"
+    },
+    {
+      "start": 553,
+      "text": "spend it with the people you want to be"
+    },
+    {
+      "start": 554,
+      "text": "around there's a lot of urgency I have"
+    },
+    {
+      "start": 556,
+      "text": "very very limited time if I'm going to"
+    },
+    {
+      "start": 558,
+      "text": "go spend my time with someone I want to"
+    },
+    {
+      "start": 559,
+      "text": "be the best person I can spend that time"
+    },
+    {
+      "start": 561,
+      "text": "with and that goes into everything"
+    },
+    {
+      "start": 563,
+      "text": "whether that's work whether that's"
+    },
+    {
+      "start": 564,
+      "text": "personal so choosing the best partner or"
+    },
+    {
+      "start": 566,
+      "text": "that everything that you do is just"
+    },
+    {
+      "start": 568,
+      "text": "inform other people that are into that"
+    },
+    {
+      "start": 569,
+      "text": "the end of the day like CFT you can talk"
+    },
+    {
+      "start": 570,
+      "text": "about all this Tech you can talk talk"
+    },
+    {
+      "start": 571,
+      "text": "about this architecture you can talk"
+    },
+    {
+      "start": 573,
+      "text": "about all this cool stuff that we do"
+    },
+    {
+      "start": 574,
+      "text": "even our backgrounds or whatever but it"
+    },
+    {
+      "start": 576,
+      "text": "really just comes down to people without"
+    },
+    {
+      "start": 577,
+      "text": "the people we have at sift we wouldn't"
+    },
+    {
+      "start": 579,
+      "text": "have the company to sift make sure you"
+    },
+    {
+      "start": 581,
+      "text": "bring together the best team create"
+    },
+    {
+      "start": 582,
+      "text": "opportunities for everyone to grow keep"
+    },
+    {
+      "start": 584,
+      "text": "everyone happy to be there that's the"
+    },
+    {
+      "start": 586,
+      "text": "main lesson I"
+    },
+    {
+      "start": 590,
+      "text": "learned and that's actually a big thing"
+    },
+    {
+      "start": 591,
+      "text": "I would call out because a lot of the"
+    },
+    {
+      "start": 592,
+      "text": "audience here probably it looks cool to"
+    },
+    {
+      "start": 594,
+      "text": "get some person that's like oh the CEO"
+    },
+    {
+      "start": 596,
+      "text": "or that person who it's like a really"
+    },
+    {
+      "start": 598,
+      "text": "high profile sounds really you just get"
+    },
+    {
+      "start": 599,
+      "text": "them as advisors but if they're not"
+    },
+    {
+      "start": 601,
+      "text": "invested in your success significantly"
+    },
+    {
+      "start": 602,
+      "text": "they're not going to be actually helping"
+    },
+    {
+      "start": 604,
+      "text": "you they're not going to be doing"
+    },
+    {
+      "start": 605,
+      "text": "interviews they're not going to help you"
+    },
+    {
+      "start": 606,
+      "text": "on the trenches and you need to get"
+    },
+    {
+      "start": 607,
+      "text": "people who are going to do that and in"
+    },
+    {
+      "start": 609,
+      "text": "that process they're going to challenge"
+    },
+    {
+      "start": 610,
+      "text": "you and get the smartest folks around so"
+    },
+    {
+      "start": 612,
+      "text": "the best way to evaluate what is a good"
+    },
+    {
+      "start": 613,
+      "text": "team or smart team honestly is just a"
+    },
+    {
+      "start": 615,
+      "text": "kiss a lot of frogs maintaining that"
+    },
+    {
+      "start": 616,
+      "text": "Talent bar and looking for people who"
+    },
+    {
+      "start": 618,
+      "text": "want to do something challenging that"
+    },
+    {
+      "start": 619,
+      "text": "they can be proud of they're going to"
+    },
+    {
+      "start": 621,
+      "text": "work hard and they can think around like"
+    },
+    {
+      "start": 622,
+      "text": "the same level or smarter than you even"
+    },
+    {
+      "start": 624,
+      "text": "better for people just starting the"
+    },
+    {
+      "start": 625,
+      "text": "career I have a bit of a different"
+    },
+    {
+      "start": 627,
+      "text": "advice I think a lot of people say go"
+    },
+    {
+      "start": 628,
+      "text": "start your own company learn by doing I"
+    },
+    {
+      "start": 630,
+      "text": "highly don't recommend that route I"
+    },
+    {
+      "start": 631,
+      "text": "would recommend most people they"
+    },
+    {
+      "start": 632,
+      "text": "actually go see what good looks like and"
+    },
+    {
+      "start": 634,
+      "text": "that doesn't necessarily part where I"
+    },
+    {
+      "start": 636,
+      "text": "talk about Prestige is that like just"
+    },
+    {
+      "start": 637,
+      "text": "because something's procedes doesn't"
+    },
+    {
+      "start": 639,
+      "text": "mean that it's like the right place that"
+    },
+    {
+      "start": 640,
+      "text": "you're going to learn the most from the"
+    },
+    {
+      "start": 641,
+      "text": "thing that might have made that"
+    },
+    {
+      "start": 642,
+      "text": "procedure might no longer still be"
+    },
+    {
+      "start": 644,
+      "text": "relevant because the people who were"
+    },
+    {
+      "start": 645,
+      "text": "there that got it to that state might"
+    },
+    {
+      "start": 647,
+      "text": "not be as involved it might be a much"
+    },
+    {
+      "start": 648,
+      "text": "larger company might be a lot more"
+    },
+    {
+      "start": 649,
+      "text": "process it's very much about I would say"
+    },
+    {
+      "start": 652,
+      "text": "go look for the smartest people you can"
+    },
+    {
+      "start": 653,
+      "text": "surround yourself with and try to work"
+    },
+    {
+      "start": 655,
+      "text": "there and don't just do like little"
+    },
+    {
+      "start": 656,
+      "text": "flavor one year at multiple companies"
+    },
+    {
+      "start": 658,
+      "text": "like you really want understand"
+    },
+    {
+      "start": 659,
+      "text": "something from first principles which"
+    },
+    {
+      "start": 661,
+      "text": "really requires spending multiple years"
+    },
+    {
+      "start": 662,
+      "text": "TR to work through some hard problems"
+    },
+    {
+      "start": 664,
+      "text": "you definitely want to try to look for"
+    },
+    {
+      "start": 665,
+      "text": "places have already had some level of"
+    },
+    {
+      "start": 667,
+      "text": "success and you're going to continue to"
+    },
+    {
+      "start": 669,
+      "text": "build on a level of success the reason I"
+    },
+    {
+      "start": 670,
+      "text": "call that out is because there's some"
+    },
+    {
+      "start": 672,
+      "text": "pretty interesting companies but smart"
+    },
+    {
+      "start": 673,
+      "text": "people that seem smart from the outside"
+    },
+    {
+      "start": 674,
+      "text": "and as a 22y old or when you're young"
+    },
+    {
+      "start": 676,
+      "text": "it's hard to evaluate like what is smart"
+    },
+    {
+      "start": 678,
+      "text": "or not smart because everyone's smarter"
+    },
+    {
+      "start": 680,
+      "text": "than you you want to be careful to not"
+    },
+    {
+      "start": 682,
+      "text": "go somewhere spend a decade and if that"
+    },
+    {
+      "start": 684,
+      "text": "company shuts down you don't know what"
+    },
+    {
+      "start": 685,
+      "text": "that company did that was successful or"
+    },
+    {
+      "start": 687,
+      "text": "not successful that's why it's good to"
+    },
+    {
+      "start": 689,
+      "text": "go to place has like some level of"
+    },
+    {
+      "start": 690,
+      "text": "success that has momentum and it's"
+    },
+    {
+      "start": 691,
+      "text": "continuing to grow so like SpaceX was"
+    },
+    {
+      "start": 693,
+      "text": "really awesome in that regard they were"
+    },
+    {
+      "start": 695,
+      "text": "actually around the time I landed was"
+    },
+    {
+      "start": 696,
+      "text": "the first time the Falcon heavy was"
+    },
+    {
+      "start": 697,
+      "text": "launched they already had rocket Falcon"
+    },
+    {
+      "start": 699,
+      "text": "9 rockets that were launching they"
+    },
+    {
+      "start": 700,
+      "text": "already had the Dragon 1 program but"
+    },
+    {
+      "start": 702,
+      "text": "there's still a lot more they were"
+    },
+    {
+      "start": 703,
+      "text": "planning on doing they weren't just like"
+    },
+    {
+      "start": 704,
+      "text": "sitting and resting that's what I would"
+    },
+    {
+      "start": 706,
+      "text": "optimize for the reason I call out the"
+    },
+    {
+      "start": 708,
+      "text": "prestige is like I would completely"
+    },
+    {
+      "start": 709,
+      "text": "remove the prestige like if you really"
+    },
+    {
+      "start": 710,
+      "text": "want to do that go do that the reason I"
+    },
+    {
+      "start": 711,
+      "text": "call that out is because a lot of times"
+    },
+    {
+      "start": 713,
+      "text": "people will go into that career purely"
+    },
+    {
+      "start": 714,
+      "text": "for the sake of that saying like it"
+    },
+    {
+      "start": 715,
+      "text": "looks cool you can go tell your aunts"
+    },
+    {
+      "start": 717,
+      "text": "about it but are you going to learn as"
+    },
+    {
+      "start": 719,
+      "text": "much are you doing like hard skills are"
+    },
+    {
+      "start": 720,
+      "text": "you actually working on the problem are"
+    },
+    {
+      "start": 722,
+      "text": "you completely abstracted away are you"
+    },
+    {
+      "start": 724,
+      "text": "just multiplying the Grump work that's"
+    },
+    {
+      "start": 725,
+      "text": "being done so like are you actually"
+    },
+    {
+      "start": 727,
+      "text": "going to ownership of things or are you"
+    },
+    {
+      "start": 728,
+      "text": "just like being the grunt work"
+    },
+    {
+      "start": 729,
+      "text": "multiplier for someone else that's more"
+    },
+    {
+      "start": 731,
+      "text": "senior so the reason I recommend people"
+    },
+    {
+      "start": 733,
+      "text": "to join a company doing something hard"
+    },
+    {
+      "start": 735,
+      "text": "and like seeing what great looks like"
+    },
+    {
+      "start": 736,
+      "text": "it's very difficult to strive for"
+    },
+    {
+      "start": 737,
+      "text": "greatness if you've never seen what"
+    },
+    {
+      "start": 738,
+      "text": "greatness looks like cool you can go"
+    },
+    {
+      "start": 740,
+      "text": "watch as many podcasts as you want you"
+    },
+    {
+      "start": 741,
+      "text": "can go see what some blog posts but it's"
+    },
+    {
+      "start": 743,
+      "text": "kind of like Instagram right you only"
+    },
+    {
+      "start": 744,
+      "text": "see the best of someone's life you only"
+    },
+    {
+      "start": 746,
+      "text": "see like a very curated version that's"
+    },
+    {
+      "start": 748,
+      "text": "in like a blog post but what were the"
+    },
+    {
+      "start": 749,
+      "text": "decisions that got the company to that"
+    },
+    {
+      "start": 751,
+      "text": "place what were the nine failures they"
+    },
+    {
+      "start": 753,
+      "text": "had for that one success that's what you"
+    },
+    {
+      "start": 755,
+      "text": "learn by actually solving hard problems"
+    },
+    {
+      "start": 757,
+      "text": "and you don't get that by spending one"
+    },
+    {
+      "start": 758,
+      "text": "two years at like six companies and then"
+    },
+    {
+      "start": 760,
+      "text": "saying I'm going to do an MBA and then"
+    },
+    {
+      "start": 762,
+      "text": "go start company for example and you"
+    },
+    {
+      "start": 763,
+      "text": "just really have to work deeply on a"
+    },
+    {
+      "start": 765,
+      "text": "hard problem with smart folk and a hard"
+    },
+    {
+      "start": 766,
+      "text": "Problem by the way can be different"
+    },
+    {
+      "start": 768,
+      "text": "problems like you don't necessarily have"
+    },
+    {
+      "start": 769,
+      "text": "to go build Rockets even just like"
+    },
+    {
+      "start": 770,
+      "text": "growing like a software startup there's"
+    },
+    {
+      "start": 772,
+      "text": "a lot of challenges in building that"
+    },
+    {
+      "start": 773,
+      "text": "company honestly like I don't think it's"
+    },
+    {
+      "start": 775,
+      "text": "a complete reflection on the other"
+    },
+    {
+      "start": 776,
+      "text": "person not being smart I think just"
+    },
+    {
+      "start": 778,
+      "text": "what's the right role for the person"
+    },
+    {
+      "start": 779,
+      "text": "like for somebody join your company it's"
+    },
+    {
+      "start": 781,
+      "text": "like it's a pretty big risk it might be"
+    },
+    {
+      "start": 782,
+      "text": "very different than somewhere else that"
+    },
+    {
+      "start": 783,
+      "text": "they've been very successful at someone"
+    },
+    {
+      "start": 785,
+      "text": "who might have been very very successful"
+    },
+    {
+      "start": 786,
+      "text": "like a sales force they might struggle"
+    },
+    {
+      "start": 788,
+      "text": "in a much earlier stage role like I"
+    },
+    {
+      "start": 789,
+      "text": "wouldn't hold it against them it's just"
+    },
+    {
+      "start": 791,
+      "text": "a process like don't feel as bad about"
+    },
+    {
+      "start": 792,
+      "text": "it everyone does it everyone struggles"
+    },
+    {
+      "start": 794,
+      "text": "everyone finds it hard but as you're"
+    },
+    {
+      "start": 796,
+      "text": "talking about iteration rate you want to"
+    },
+    {
+      "start": 797,
+      "text": "kiss more frogs you'll see what's good"
+    },
+    {
+      "start": 799,
+      "text": "what's not a lot faster than sitting"
+    },
+    {
+      "start": 801,
+      "text": "there trying to grind through a bad"
+    },
+    {
+      "start": 805,
+      "text": "decision the best things I learned while"
+    },
+    {
+      "start": 808,
+      "text": "working at SpaceX very very strong focus"
+    },
+    {
+      "start": 810,
+      "text": "on first principles thinking you can"
+    },
+    {
+      "start": 812,
+      "text": "just keep asking why a lot of times"
+    },
+    {
+      "start": 814,
+      "text": "people push something off and they say"
+    },
+    {
+      "start": 815,
+      "text": "oh well we're waiting for this person"
+    },
+    {
+      "start": 817,
+      "text": "before we have that meeting is something"
+    },
+    {
+      "start": 819,
+      "text": "scheduled for 2 weeks from now it's like"
+    },
+    {
+      "start": 820,
+      "text": "why does that person even have to be in"
+    },
+    {
+      "start": 821,
+      "text": "the meeting what can we go around and"
+    },
+    {
+      "start": 822,
+      "text": "still move let's say something's not"
+    },
+    {
+      "start": 824,
+      "text": "working instead of just saying like oh"
+    },
+    {
+      "start": 826,
+      "text": "that's not working because it's just"
+    },
+    {
+      "start": 827,
+      "text": "broken or it's like a thing that you"
+    },
+    {
+      "start": 828,
+      "text": "can't do like people say you can't land"
+    },
+    {
+      "start": 829,
+      "text": "Rockets like why why can't you land"
+    },
+    {
+      "start": 831,
+      "text": "rocket we fly and land planes all the"
+    },
+    {
+      "start": 833,
+      "text": "time people like oh because of this or"
+    },
+    {
+      "start": 835,
+      "text": "this technical reason and it's like well"
+    },
+    {
+      "start": 836,
+      "text": "not actually blocked by physics it's"
+    },
+    {
+      "start": 837,
+      "text": "just that nobody's ever done it before"
+    },
+    {
+      "start": 839,
+      "text": "basically you keep asking why till the"
+    },
+    {
+      "start": 841,
+      "text": "point physics is the reason you can't do"
+    },
+    {
+      "start": 843,
+      "text": "it I think that's what I would consider"
+    },
+    {
+      "start": 844,
+      "text": "first principles but it applies"
+    },
+    {
+      "start": 846,
+      "text": "everywhere it's like I think a lot of"
+    },
+    {
+      "start": 847,
+      "text": "times we have a tendency to just say oh"
+    },
+    {
+      "start": 849,
+      "text": "the hardware team says we can't do this"
+    },
+    {
+      "start": 850,
+      "text": "it's like well who on the hardware team"
+    },
+    {
+      "start": 852,
+      "text": "and you go talk to that person you"
+    },
+    {
+      "start": 853,
+      "text": "realize they actually can do it but it's"
+    },
+    {
+      "start": 854,
+      "text": "just like some other thing that they"
+    },
+    {
+      "start": 855,
+      "text": "also need and if you as long as you get"
+    },
+    {
+      "start": 857,
+      "text": "that then you can actually get this"
+    },
+    {
+      "start": 858,
+      "text": "thing a lot faster there's actually this"
+    },
+    {
+      "start": 860,
+      "text": "plays into a lot of like Risk as well"
+    },
+    {
+      "start": 862,
+      "text": "Warner Von Bron who used to run NASA"
+    },
+    {
+      "start": 864,
+      "text": "back in the during the Apollo era he"
+    },
+    {
+      "start": 866,
+      "text": "noticed that let's say some engineer"
+    },
+    {
+      "start": 867,
+      "text": "identified a risk and then they told"
+    },
+    {
+      "start": 869,
+      "text": "manager about it the manager would"
+    },
+    {
+      "start": 870,
+      "text": "downplay that risk it would go from"
+    },
+    {
+      "start": 871,
+      "text": "saying oh this is fatal when you stop"
+    },
+    {
+      "start": 873,
+      "text": "the mission to the manager saying hey"
+    },
+    {
+      "start": 874,
+      "text": "this is a really high risk that person's"
+    },
+    {
+      "start": 876,
+      "text": "manager says oh we need to go look into"
+    },
+    {
+      "start": 878,
+      "text": "this by the time it reaches Warner Von"
+    },
+    {
+      "start": 879,
+      "text": "Brun he would actually just basically"
+    },
+    {
+      "start": 881,
+      "text": "someone would says oh everything's good"
+    },
+    {
+      "start": 883,
+      "text": "to go he actually implemented this thing"
+    },
+    {
+      "start": 884,
+      "text": "called like weekly notes so what he"
+    },
+    {
+      "start": 886,
+      "text": "would do is he had every individual"
+    },
+    {
+      "start": 887,
+      "text": "engineering squad or team write notes"
+    },
+    {
+      "start": 889,
+      "text": "and his team would compile them into a"
+    },
+    {
+      "start": 891,
+      "text": "book and he would actually review all"
+    },
+    {
+      "start": 892,
+      "text": "them so he basically sees ground truth"
+    },
+    {
+      "start": 894,
+      "text": "and he can actually make decisions from"
+    },
+    {
+      "start": 895,
+      "text": "first principles about what's holding of"
+    },
+    {
+      "start": 897,
+      "text": "the program and basically that's how we"
+    },
+    {
+      "start": 899,
+      "text": "put a person on the moon those Rockets"
+    },
+    {
+      "start": 901,
+      "text": "probably have the compute power of like"
+    },
+    {
+      "start": 902,
+      "text": "a ti84 calculator you can do some pretty"
+    },
+    {
+      "start": 904,
+      "text": "cool things when you actually dig into"
+    },
+    {
+      "start": 910,
+      "text": "[Applause]"
+    },
+    {
+      "start": 914,
+      "text": "yapor"
+    },
+    {
+      "start": 916,
+      "text": "engines we can see those chck"
+    },
+    {
+      "start": 928,
+      "text": "[Music]"
+    },
+    {
+      "start": 940,
+      "text": "let"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 554,
+  "timestamp": "2025-07-24T08:25:15.728Z"
+}

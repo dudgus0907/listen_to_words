@@ -4,7 +4,7 @@ const path = require('path');
 // Load transcript cache data 
 function loadTranscriptCache() {
   try {
-    const cacheDir = path.join(process.cwd(), 'backend', 'transcript-cache');
+    const cacheDir = path.join(process.cwd(), 'api', 'transcript-cache');
     const cacheFiles = fs.readdirSync(cacheDir);
     const videos = [];
     

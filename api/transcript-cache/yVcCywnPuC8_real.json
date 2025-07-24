@@ -1,0 +1,1230 @@
+{
+  "success": true,
+  "videoId": "yVcCywnPuC8",
+  "videoTitle": "How I Built a $3.3B Blockchain Business Against All OddsㅣKonstantin Richter, Blockdaemon",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "There is this sort of psychological"
+    },
+    {
+      "start": 1,
+      "text": "fallacy as a founder where at one point"
+    },
+    {
+      "start": 4,
+      "text": "your logical brain needs to be switched"
+    },
+    {
+      "start": 7,
+      "text": "off because obviously you're working on"
+    },
+    {
+      "start": 9,
+      "text": "a problem that nobody else sees. I was"
+    },
+    {
+      "start": 11,
+      "text": "working on the proof of existence"
+    },
+    {
+      "start": 14,
+      "text": "protocol where we worked with an"
+    },
+    {
+      "start": 16,
+      "text": "Ethereum node and I told people that I"
+    },
+    {
+      "start": 18,
+      "text": "believe in a world where there will be"
+    },
+    {
+      "start": 20,
+      "text": "100,000 nodes that will be run by"
+    },
+    {
+      "start": 23,
+      "text": "institutions by 2020. That's what I"
+    },
+    {
+      "start": 26,
+      "text": "said. And people were laughing at me. I"
+    },
+    {
+      "start": 28,
+      "text": "knew one thing for certain that if I"
+    },
+    {
+      "start": 30,
+      "text": "hold on and deliver this, it'll be a"
+    },
+    {
+      "start": 32,
+      "text": "massive win. And when I told other"
+    },
+    {
+      "start": 34,
+      "text": "people about it, they didn't believe it"
+    },
+    {
+      "start": 36,
+      "text": "at all. They were telling me we won't do"
+    },
+    {
+      "start": 39,
+      "text": "that. And then Block Demon itself now"
+    },
+    {
+      "start": 41,
+      "text": "runs 250,000 nodes, you know, and so you"
+    },
+    {
+      "start": 44,
+      "text": "need to be stupid enough to also hold on"
+    },
+    {
+      "start": 47,
+      "text": "to an idea that most smart people around"
+    },
+    {
+      "start": 49,
+      "text": "you will tell you is a very bad idea."
+    },
+    {
+      "start": 57,
+      "text": "I'm Constantine Richtor. I'm the founder"
+    },
+    {
+      "start": 59,
+      "text": "and CEO of Blog Demon. Blockdemon is the"
+    },
+    {
+      "start": 62,
+      "text": "leading institutional gateway for"
+    },
+    {
+      "start": 64,
+      "text": "institutions to connect to really"
+    },
+    {
+      "start": 66,
+      "text": "blockchains and the web 3 ecosystem. And"
+    },
+    {
+      "start": 68,
+      "text": "so we're one of the market leaders and"
+    },
+    {
+      "start": 71,
+      "text": "staples of the crypto industry that it"
+    },
+    {
+      "start": 73,
+      "text": "has JP Morgan, Goldman Sachs, and City"
+    },
+    {
+      "start": 76,
+      "text": "Bank as investors and customers. Out of"
+    },
+    {
+      "start": 78,
+      "text": "the top 500 companies active in crypto,"
+    },
+    {
+      "start": 81,
+      "text": "70% are customers of block demon for"
+    },
+    {
+      "start": 84,
+      "text": "infrastructure. Ultimately, what we do"
+    },
+    {
+      "start": 86,
+      "text": "is the purest form of infrastructure we"
+    },
+    {
+      "start": 89,
+      "text": "run in a decentralized network. One easy"
+    },
+    {
+      "start": 92,
+      "text": "way to think about it is that the"
+    },
+    {
+      "start": 94,
+      "text": "internet ultimately functions via"
+    },
+    {
+      "start": 96,
+      "text": "different gateways and so do"
+    },
+    {
+      "start": 97,
+      "text": "blockchains. And so one way I used to"
+    },
+    {
+      "start": 99,
+      "text": "describe blockchains to people was you"
+    },
+    {
+      "start": 102,
+      "text": "have ultimately nodes. A node are the"
+    },
+    {
+      "start": 105,
+      "text": "different members of the network that"
+    },
+    {
+      "start": 107,
+      "text": "contain a copy of the ledger. Nodes are"
+    },
+    {
+      "start": 110,
+      "text": "actually like cell towers. It's these"
+    },
+    {
+      "start": 112,
+      "text": "groupings of individual ledgers that"
+    },
+    {
+      "start": 114,
+      "text": "make a blockchain. And Block Demon"
+    },
+    {
+      "start": 116,
+      "text": "manages the individual ledgers. We"
+    },
+    {
+      "start": 119,
+      "text": "basically run these cell towers for"
+    },
+    {
+      "start": 123,
+      "text": "blockchains for institutions. We assume"
+    },
+    {
+      "start": 125,
+      "text": "that we run around 10% of the global"
+    },
+    {
+      "start": 127,
+      "text": "institutional volume of nodes around the"
+    },
+    {
+      "start": 130,
+      "text": "world. Block Demon has raised around"
+    },
+    {
+      "start": 132,
+      "text": "$430 million. The last valuation we've"
+    },
+    {
+      "start": 135,
+      "text": "had was $3.3"
+    },
+    {
+      "start": 139,
+      "text": "billion. One memory I always have is"
+    },
+    {
+      "start": 142,
+      "text": "when the wall came down in Germany. I"
+    },
+    {
+      "start": 145,
+      "text": "was a teenager at the time. I remember"
+    },
+    {
+      "start": 147,
+      "text": "the cold war ending when the world"
+    },
+    {
+      "start": 150,
+      "text": "somehow got a lot closer and also in the"
+    },
+    {
+      "start": 153,
+      "text": "context of the history of Germany from"
+    },
+    {
+      "start": 155,
+      "text": "the second world war being very aware"
+    },
+    {
+      "start": 158,
+      "text": "that it's important to have systems that"
+    },
+    {
+      "start": 160,
+      "text": "are uncorruptible in order to establish"
+    },
+    {
+      "start": 163,
+      "text": "truth. And so I remember that time as a"
+    },
+    {
+      "start": 167,
+      "text": "really important moment to think about"
+    },
+    {
+      "start": 169,
+      "text": "how do we become closer as humanity? How"
+    },
+    {
+      "start": 171,
+      "text": "do we communicate and then how do we"
+    },
+    {
+      "start": 172,
+      "text": "ensure that the forms of communications"
+    },
+    {
+      "start": 175,
+      "text": "are uncorruptible. What I found really"
+    },
+    {
+      "start": 178,
+      "text": "exciting about Bitcoin specifically was"
+    },
+    {
+      "start": 180,
+      "text": "one the immaculate conception story of"
+    },
+    {
+      "start": 183,
+      "text": "Satoshi ultimately a value system that"
+    },
+    {
+      "start": 186,
+      "text": "basically gets birthed by itself and"
+    },
+    {
+      "start": 188,
+      "text": "then the people who can control it"
+    },
+    {
+      "start": 190,
+      "text": "vanish in the background and leave it"
+    },
+    {
+      "start": 192,
+      "text": "for the community. And I like the"
+    },
+    {
+      "start": 194,
+      "text": "encryption and a little bit the sort of"
+    },
+    {
+      "start": 196,
+      "text": "hackery nature of it. I did like that it"
+    },
+    {
+      "start": 199,
+      "text": "was a currency of the underdog. Bitcoin"
+    },
+    {
+      "start": 201,
+      "text": "was started as a result to the financial"
+    },
+    {
+      "start": 203,
+      "text": "crisis in 2008. And the whole idea was"
+    },
+    {
+      "start": 206,
+      "text": "to basically take control of money away"
+    },
+    {
+      "start": 209,
+      "text": "from banks into a system that's"
+    },
+    {
+      "start": 212,
+      "text": "transparent and fair and accessible to"
+    },
+    {
+      "start": 214,
+      "text": "anyone. And um that excited me and I"
+    },
+    {
+      "start": 217,
+      "text": "felt I can actually contribute to it"
+    },
+    {
+      "start": 219,
+      "text": "because I know how to build and scale"
+    },
+    {
+      "start": 221,
+      "text": "software companies and I know how to"
+    },
+    {
+      "start": 223,
+      "text": "corral capital together to work on"
+    },
+    {
+      "start": 225,
+      "text": "succinct problems and belief is"
+    },
+    {
+      "start": 227,
+      "text": "important. I believed Bitcoin is one way"
+    },
+    {
+      "start": 230,
+      "text": "to make the world better, but you also"
+    },
+    {
+      "start": 232,
+      "text": "have to be an active part in creating"
+    },
+    {
+      "start": 233,
+      "text": "that world. I didn't just want to make"
+    },
+    {
+      "start": 236,
+      "text": "money. I also wanted to change the world"
+    },
+    {
+      "start": 238,
+      "text": "a little bit. And I understand there's"
+    },
+    {
+      "start": 239,
+      "text": "also lots of concerns and some of it"
+    },
+    {
+      "start": 241,
+      "text": "might be bad, some of it might be good,"
+    },
+    {
+      "start": 243,
+      "text": "but the system in itself I really hold"
+    },
+    {
+      "start": 245,
+      "text": "very dearly. And so I was thinking what"
+    },
+    {
+      "start": 247,
+      "text": "company in cryptocurrency can you build"
+    },
+    {
+      "start": 249,
+      "text": "that is part of it but not so"
+    },
+    {
+      "start": 251,
+      "text": "susceptible to the short-term velocity"
+    },
+    {
+      "start": 254,
+      "text": "of tokens. And so that's why we started"
+    },
+    {
+      "start": 256,
+      "text": "with"
+    },
+    {
+      "start": 259,
+      "text": "infrastructure when I was working on the"
+    },
+    {
+      "start": 263,
+      "text": "proof of existence protocol where we"
+    },
+    {
+      "start": 265,
+      "text": "worked with an Ethereum node and saw"
+    },
+    {
+      "start": 267,
+      "text": "that the physical node and"
+    },
+    {
+      "start": 269,
+      "text": "infrastructure was very unstable and"
+    },
+    {
+      "start": 271,
+      "text": "there weren't any tools available. When"
+    },
+    {
+      "start": 273,
+      "text": "I started researching that subject and"
+    },
+    {
+      "start": 276,
+      "text": "talking to my friends about it, I saw an"
+    },
+    {
+      "start": 278,
+      "text": "opportunity and I got really excited"
+    },
+    {
+      "start": 280,
+      "text": "about it. You know, it feels so great"
+    },
+    {
+      "start": 282,
+      "text": "when you see a gap in the current"
+    },
+    {
+      "start": 286,
+      "text": "product landscape. What was very"
+    },
+    {
+      "start": 288,
+      "text": "apparent was like you couldn't go"
+    },
+    {
+      "start": 289,
+      "text": "anywhere online and say, \"Hey, is there"
+    },
+    {
+      "start": 292,
+      "text": "a tool that helps me to run an Ethereum"
+    },
+    {
+      "start": 294,
+      "text": "node really efficiently? Okay, if this"
+    },
+    {
+      "start": 296,
+      "text": "is hard for us people who are really"
+    },
+    {
+      "start": 298,
+      "text": "passionate about crypto and blockchain,"
+    },
+    {
+      "start": 300,
+      "text": "how are institutions and banks going to"
+    },
+    {
+      "start": 302,
+      "text": "engage in this if there's no tooling,"
+    },
+    {
+      "start": 305,
+      "text": "nothing available?\" What I saw is a"
+    },
+    {
+      "start": 307,
+      "text": "world in which institutions would want"
+    },
+    {
+      "start": 309,
+      "text": "to run these Ethereum nodes. And when I"
+    },
+    {
+      "start": 312,
+      "text": "told other people about it, they didn't"
+    },
+    {
+      "start": 314,
+      "text": "believe it at all. They were telling me"
+    },
+    {
+      "start": 316,
+      "text": "we won't do that. But the more I learned"
+    },
+    {
+      "start": 319,
+      "text": "about the structure of transactions, the"
+    },
+    {
+      "start": 321,
+      "text": "cost of transactions, the more I saw the"
+    },
+    {
+      "start": 324,
+      "text": "future in which blockchains become an"
+    },
+    {
+      "start": 327,
+      "text": "integral part at this, I knew one thing"
+    },
+    {
+      "start": 329,
+      "text": "for certain that if I hold on and"
+    },
+    {
+      "start": 331,
+      "text": "deliver this, it'll be a massive win. I"
+    },
+    {
+      "start": 334,
+      "text": "believed in the vision of the company to"
+    },
+    {
+      "start": 336,
+      "text": "a point where nobody else believed it"
+    },
+    {
+      "start": 338,
+      "text": "because obviously you're working on a"
+    },
+    {
+      "start": 340,
+      "text": "problem that nobody else sees. I think"
+    },
+    {
+      "start": 342,
+      "text": "that's the resilient part is then to"
+    },
+    {
+      "start": 344,
+      "text": "continue to work on it while people are"
+    },
+    {
+      "start": 346,
+      "text": "telling you this is not a problem. Why"
+    },
+    {
+      "start": 349,
+      "text": "are you working on this? I remember"
+    },
+    {
+      "start": 351,
+      "text": "raising money in 2017 2018. I told"
+    },
+    {
+      "start": 353,
+      "text": "people that I believe in a world where"
+    },
+    {
+      "start": 356,
+      "text": "there will be 100,000 nodes that will be"
+    },
+    {
+      "start": 359,
+      "text": "run by institutions by 2020. That's what"
+    },
+    {
+      "start": 362,
+      "text": "I said. and people were laughing at me."
+    },
+    {
+      "start": 364,
+      "text": "And then Block Demon itself now runs"
+    },
+    {
+      "start": 366,
+      "text": "250,000 nodes. Uh you need to be stupid"
+    },
+    {
+      "start": 370,
+      "text": "enough to also hold on to an idea that"
+    },
+    {
+      "start": 373,
+      "text": "most smart people around you will tell"
+    },
+    {
+      "start": 375,
+      "text": "you is a very bad idea."
+    },
+    {
+      "start": 380,
+      "text": "Within 6 months of starting the company,"
+    },
+    {
+      "start": 382,
+      "text": "the markets of crypto fell down a cliff"
+    },
+    {
+      "start": 385,
+      "text": "which we call the crypto winter which is"
+    },
+    {
+      "start": 387,
+      "text": "like when the tokens that drive a lot of"
+    },
+    {
+      "start": 389,
+      "text": "the momentum in blockchain suddenly"
+    },
+    {
+      "start": 391,
+      "text": "devalue by like 80 90%. Everybody"
+    },
+    {
+      "start": 394,
+      "text": "stopped investing. Banks started"
+    },
+    {
+      "start": 396,
+      "text": "exploding. We had two banks at the time."
+    },
+    {
+      "start": 399,
+      "text": "One bank went bankrupt and so a lot of"
+    },
+    {
+      "start": 401,
+      "text": "the inherent growth for the business"
+    },
+    {
+      "start": 403,
+      "text": "dried up right when I started the"
+    },
+    {
+      "start": 405,
+      "text": "company. You know, quite frankly, at"
+    },
+    {
+      "start": 408,
+      "text": "that point in time, everything was so"
+    },
+    {
+      "start": 409,
+      "text": "bad. We ran out of money a few times."
+    },
+    {
+      "start": 412,
+      "text": "Uh, I had to subsidize payroll, for"
+    },
+    {
+      "start": 414,
+      "text": "example. The only way for Block Demon to"
+    },
+    {
+      "start": 417,
+      "text": "survive is if I put in everything I have"
+    },
+    {
+      "start": 420,
+      "text": "without a clear promise of a better"
+    },
+    {
+      "start": 422,
+      "text": "market environment, and I just have to"
+    },
+    {
+      "start": 424,
+      "text": "make it last as long as I can with as"
+    },
+    {
+      "start": 426,
+      "text": "much output as I can. And so there were"
+    },
+    {
+      "start": 428,
+      "text": "a lot of moments where it felt like wow"
+    },
+    {
+      "start": 430,
+      "text": "I don't really have a believable path"
+    },
+    {
+      "start": 432,
+      "text": "forward but still I have to convince"
+    },
+    {
+      "start": 435,
+      "text": "people that there is one. As an"
+    },
+    {
+      "start": 437,
+      "text": "entrepreneur that's your job ultimately"
+    },
+    {
+      "start": 439,
+      "text": "you have to find resources where other"
+    },
+    {
+      "start": 440,
+      "text": "people can't. You have to keep people"
+    },
+    {
+      "start": 442,
+      "text": "motivated and inspired when uh it looks"
+    },
+    {
+      "start": 444,
+      "text": "very bleak and uh you just have to keep"
+    },
+    {
+      "start": 446,
+      "text": "on leading by example."
+    },
+    {
+      "start": 452,
+      "text": "[Music]"
+    },
+    {
+      "start": 454,
+      "text": "The first one was block demon was very"
+    },
+    {
+      "start": 456,
+      "text": "small. I think the second time around"
+    },
+    {
+      "start": 458,
+      "text": "was unique because at that point we"
+    },
+    {
+      "start": 460,
+      "text": "raised a lot of money. So we had a lot"
+    },
+    {
+      "start": 462,
+      "text": "of capital. What was difficult is that"
+    },
+    {
+      "start": 464,
+      "text": "we started 2022 by raising a lot of"
+    },
+    {
+      "start": 467,
+      "text": "money buying companies to build a sort"
+    },
+    {
+      "start": 469,
+      "text": "of really cohesive product suite that we"
+    },
+    {
+      "start": 472,
+      "text": "thought we could sell within the year to"
+    },
+    {
+      "start": 474,
+      "text": "institutions. And what happened is that"
+    },
+    {
+      "start": 477,
+      "text": "market just died. There was suddenly a"
+    },
+    {
+      "start": 480,
+      "text": "lot of pressure on ultimately scaling"
+    },
+    {
+      "start": 482,
+      "text": "down the projects we worked on that"
+    },
+    {
+      "start": 485,
+      "text": "created operational pressure on the"
+    },
+    {
+      "start": 487,
+      "text": "company to how do we rightsize the"
+    },
+    {
+      "start": 489,
+      "text": "company? How do we losing money in"
+    },
+    {
+      "start": 492,
+      "text": "developing products that currently have"
+    },
+    {
+      "start": 494,
+      "text": "no market? It was a lot harder because"
+    },
+    {
+      "start": 496,
+      "text": "we had to make the hard choice to also"
+    },
+    {
+      "start": 499,
+      "text": "let go of a lot of block demons and"
+    },
+    {
+      "start": 501,
+      "text": "people that worked with us in order to"
+    },
+    {
+      "start": 503,
+      "text": "um ultimately be operational efficient."
+    },
+    {
+      "start": 505,
+      "text": "changing strategies and letting go of"
+    },
+    {
+      "start": 508,
+      "text": "people in order to adjust for a longer"
+    },
+    {
+      "start": 511,
+      "text": "period of time without any growth of a"
+    },
+    {
+      "start": 514,
+      "text": "more mature company. And so I'd say that"
+    },
+    {
+      "start": 517,
+      "text": "crypto winter felt harder to me because"
+    },
+    {
+      "start": 520,
+      "text": "obviously um losing people from your"
+    },
+    {
+      "start": 523,
+      "text": "team because of that is really really"
+    },
+    {
+      "start": 525,
+      "text": "hard. The way I describe it to people,"
+    },
+    {
+      "start": 528,
+      "text": "it actually just felt like another"
+    },
+    {
+      "start": 530,
+      "text": "Wednesday. You just take it on the chin"
+    },
+    {
+      "start": 532,
+      "text": "and are like, \"Okay, now I need to solve"
+    },
+    {
+      "start": 533,
+      "text": "this problem.\" So you have to maintain"
+    },
+    {
+      "start": 535,
+      "text": "an illusion of um competence and vision"
+    },
+    {
+      "start": 539,
+      "text": "where like hey this is not a problem."
+    },
+    {
+      "start": 541,
+      "text": "This is just a little bump on the road."
+    },
+    {
+      "start": 543,
+      "text": "I know exactly how we're going to solve"
+    },
+    {
+      "start": 544,
+      "text": "it. It's challenging because as a"
+    },
+    {
+      "start": 546,
+      "text": "founder you know that a lot of the plans"
+    },
+    {
+      "start": 549,
+      "text": "and thoughts I had very early on are"
+    },
+    {
+      "start": 551,
+      "text": "assumptions. I don't know if they're"
+    },
+    {
+      "start": 553,
+      "text": "right or wrong but I have to pretend I"
+    },
+    {
+      "start": 555,
+      "text": "do. But you know I mean like anything"
+    },
+    {
+      "start": 557,
+      "text": "else you just try to not tell yourself"
+    },
+    {
+      "start": 560,
+      "text": "it's so bad and you just keep moving."
+    },
+    {
+      "start": 562,
+      "text": "and we found solutions for it. You know,"
+    },
+    {
+      "start": 565,
+      "text": "um having a really strong team and"
+    },
+    {
+      "start": 567,
+      "text": "people who uh have good integrity is"
+    },
+    {
+      "start": 570,
+      "text": "really important in moments like that."
+    },
+    {
+      "start": 572,
+      "text": "And I'm very lucky that I do have a"
+    },
+    {
+      "start": 574,
+      "text": "great team and people who stuck it out"
+    },
+    {
+      "start": 576,
+      "text": "with me"
+    },
+    {
+      "start": 580,
+      "text": "basically in a world where it's so hard"
+    },
+    {
+      "start": 583,
+      "text": "for us to develop consensus between"
+    },
+    {
+      "start": 585,
+      "text": "human beings when news and social media"
+    },
+    {
+      "start": 588,
+      "text": "and everything is so um polarized and"
+    },
+    {
+      "start": 591,
+      "text": "it's hard to know what's true and what's"
+    },
+    {
+      "start": 593,
+      "text": "not that systems that are I want to air"
+    },
+    {
+      "start": 596,
+      "text": "quote infallible and always true are"
+    },
+    {
+      "start": 599,
+      "text": "really important. When the internet was"
+    },
+    {
+      "start": 602,
+      "text": "created, people scammed people on the"
+    },
+    {
+      "start": 603,
+      "text": "internet. I never thought the internet"
+    },
+    {
+      "start": 605,
+      "text": "shouldn't exist. I thought there should"
+    },
+    {
+      "start": 606,
+      "text": "be regulation and rules and education to"
+    },
+    {
+      "start": 609,
+      "text": "protect people from scammers, but that"
+    },
+    {
+      "start": 611,
+      "text": "the benefit of the technology of open"
+    },
+    {
+      "start": 614,
+      "text": "access and trade outweighs the downside."
+    },
+    {
+      "start": 618,
+      "text": "If done correctly, crypto is the"
+    },
+    {
+      "start": 622,
+      "text": "antithesis to scamming. It's fully"
+    },
+    {
+      "start": 624,
+      "text": "transparent. It's traceable. You can see"
+    },
+    {
+      "start": 626,
+      "text": "every wallet that's active on the"
+    },
+    {
+      "start": 629,
+      "text": "network. And so it's actually the most"
+    },
+    {
+      "start": 632,
+      "text": "scam resilient system at its core. I"
+    },
+    {
+      "start": 635,
+      "text": "think it took us 3 years before"
+    },
+    {
+      "start": 638,
+      "text": "institutions started engaging with us in"
+    },
+    {
+      "start": 640,
+      "text": "order to engage with institutions. I"
+    },
+    {
+      "start": 643,
+      "text": "think we also made the decision at the"
+    },
+    {
+      "start": 644,
+      "text": "time that the only way institutions are"
+    },
+    {
+      "start": 646,
+      "text": "going to engage with us is if they also"
+    },
+    {
+      "start": 648,
+      "text": "own part of blockdemon are part of the"
+    },
+    {
+      "start": 651,
+      "text": "governance of block demon. And so JP"
+    },
+    {
+      "start": 653,
+      "text": "Morgan and Goldman Sachs for example"
+    },
+    {
+      "start": 655,
+      "text": "have uh participate in the board of"
+    },
+    {
+      "start": 657,
+      "text": "blockdemon. So they're basically also my"
+    },
+    {
+      "start": 659,
+      "text": "bosses which means that they get to see"
+    },
+    {
+      "start": 661,
+      "text": "the inside of the company. They get to"
+    },
+    {
+      "start": 663,
+      "text": "question my choices. They're not just"
+    },
+    {
+      "start": 665,
+      "text": "outside customers. They also in are"
+    },
+    {
+      "start": 668,
+      "text": "parts of creating the company. And so I"
+    },
+    {
+      "start": 671,
+      "text": "think that gave them a lot of"
+    },
+    {
+      "start": 672,
+      "text": "confidence, right? And so that was an"
+    },
+    {
+      "start": 673,
+      "text": "important initial step for the first"
+    },
+    {
+      "start": 676,
+      "text": "customers. And the US has uh started to"
+    },
+    {
+      "start": 679,
+      "text": "look very very different than it did in"
+    },
+    {
+      "start": 682,
+      "text": "2024. We see a huge shift that's uh"
+    },
+    {
+      "start": 685,
+      "text": "materializing very quickly. The"
+    },
+    {
+      "start": 687,
+      "text": "landscape of crypto will look really"
+    },
+    {
+      "start": 690,
+      "text": "really different in the US with a lot"
+    },
+    {
+      "start": 692,
+      "text": "more enterprises and institutions"
+    },
+    {
+      "start": 694,
+      "text": "actively launching services uh for their"
+    },
+    {
+      "start": 698,
+      "text": "respective customers around crypto. Uh I"
+    },
+    {
+      "start": 700,
+      "text": "think in a complicated convoluted world"
+    },
+    {
+      "start": 702,
+      "text": "that we live in transparency and"
+    },
+    {
+      "start": 704,
+      "text": "efficiency are really really important."
+    },
+    {
+      "start": 706,
+      "text": "They're not a luxury. They're"
+    },
+    {
+      "start": 709,
+      "text": "requirement for fair governance and"
+    },
+    {
+      "start": 711,
+      "text": "efficiency. And so I think it is indeed"
+    },
+    {
+      "start": 713,
+      "text": "a golden age for cryptocurrencies. Yes,"
+    },
+    {
+      "start": 715,
+      "text": "I've seen it from it being the underdog"
+    },
+    {
+      "start": 719,
+      "text": "to now becoming basically the not the"
+    },
+    {
+      "start": 722,
+      "text": "main dog, but the standard, right? And"
+    },
+    {
+      "start": 725,
+      "text": "so I think we're halfway there. And it's"
+    },
+    {
+      "start": 726,
+      "text": "so exciting to be a fundamental part of"
+    },
+    {
+      "start": 729,
+      "text": "something that I want to see it through."
+    },
+    {
+      "start": 734,
+      "text": "[Music]"
+    },
+    {
+      "start": 742,
+      "text": "[Music]"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 305,
+  "timestamp": "2025-07-24T08:16:52.926Z"
+}

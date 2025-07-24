@@ -1,0 +1,1162 @@
+{
+  "success": true,
+  "videoId": "_jEnJYU3e7k",
+  "videoTitle": "How I Built a $300M Startup with No Degree and No NetworkㅣSelfbook, Khalid Meniri",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "As a founder, you are taking the biggest"
+    },
+    {
+      "start": 4,
+      "text": "bet and risk on yourself and your life."
+    },
+    {
+      "start": 6,
+      "text": "Being born in Algeria, my moonshot was"
+    },
+    {
+      "start": 8,
+      "text": "New York City and went straight to New"
+    },
+    {
+      "start": 10,
+      "text": "York. I don't have a proper education. I"
+    },
+    {
+      "start": 12,
+      "text": "don't have a proper sort of route to"
+    },
+    {
+      "start": 14,
+      "text": "becoming a founder. For me specifically,"
+    },
+    {
+      "start": 16,
+      "text": "I don't have the option to to fail. And"
+    },
+    {
+      "start": 18,
+      "text": "so giving up is absolutely not on the"
+    },
+    {
+      "start": 21,
+      "text": "table. Every decision I make, I doubt."
+    },
+    {
+      "start": 25,
+      "text": "But then there is a stubborn persona in"
+    },
+    {
+      "start": 27,
+      "text": "me. So, as long as your vision is the"
+    },
+    {
+      "start": 30,
+      "text": "same and consistent and what you're"
+    },
+    {
+      "start": 32,
+      "text": "delivering is clear to the world, how"
+    },
+    {
+      "start": 35,
+      "text": "you get there, it doesn't really matter."
+    },
+    {
+      "start": 37,
+      "text": "What is truly imperative is the"
+    },
+    {
+      "start": 40,
+      "text": "reinforced principle of believing. You"
+    },
+    {
+      "start": 42,
+      "text": "really have to believe that your product"
+    },
+    {
+      "start": 43,
+      "text": "is helping people. And I think"
+    },
+    {
+      "start": 45,
+      "text": "perseverance and any hardship I had"
+    },
+    {
+      "start": 48,
+      "text": "going through life helped me become a"
+    },
+    {
+      "start": 50,
+      "text": "better human first and then a better"
+    },
+    {
+      "start": 52,
+      "text": "founder."
+    },
+    {
+      "start": 56,
+      "text": "My name is Khaled Maneri, co-founder and"
+    },
+    {
+      "start": 58,
+      "text": "CEO of Selfbook. Selfpoke is really"
+    },
+    {
+      "start": 60,
+      "text": "providing the infrastructure for travel."
+    },
+    {
+      "start": 62,
+      "text": "So if someone is on the website and have"
+    },
+    {
+      "start": 64,
+      "text": "intent to book that hotel, we should"
+    },
+    {
+      "start": 66,
+      "text": "eliminate as much friction as possible"
+    },
+    {
+      "start": 68,
+      "text": "to increase conversion. Before self"
+    },
+    {
+      "start": 70,
+      "text": "book, no hotel in the world could accept"
+    },
+    {
+      "start": 72,
+      "text": "Apple Pay for instance. And so we"
+    },
+    {
+      "start": 74,
+      "text": "brought in the digital wallets into the"
+    },
+    {
+      "start": 76,
+      "text": "industry. And then now we're adding much"
+    },
+    {
+      "start": 80,
+      "text": "more features to streamline the"
+    },
+    {
+      "start": 81,
+      "text": "experience even more."
+    },
+    {
+      "start": 86,
+      "text": "Being born in Algeria, obviously"
+    },
+    {
+      "start": 88,
+      "text": "geopolitically we were restricted. We"
+    },
+    {
+      "start": 90,
+      "text": "couldn't travel. When the pandemic was"
+    },
+    {
+      "start": 92,
+      "text": "an example for a lot of people how to"
+    },
+    {
+      "start": 94,
+      "text": "they felt the need to travel but they"
+    },
+    {
+      "start": 96,
+      "text": "couldn't. So imagine a world in Algeria"
+    },
+    {
+      "start": 98,
+      "text": "where you actually can't travel because"
+    },
+    {
+      "start": 100,
+      "text": "it's impossible to get a visa or"
+    },
+    {
+      "start": 102,
+      "text": "especially as a young kid. So when I was"
+    },
+    {
+      "start": 106,
+      "text": "able to finally leave my moonshot was"
+    },
+    {
+      "start": 109,
+      "text": "New York City and went straight to New"
+    },
+    {
+      "start": 110,
+      "text": "York."
+    },
+    {
+      "start": 111,
+      "text": "I walked up Fifth Avenue and discovered"
+    },
+    {
+      "start": 114,
+      "text": "the Apple"
+    },
+    {
+      "start": 116,
+      "text": "store. It was beautiful. I remember the"
+    },
+    {
+      "start": 119,
+      "text": "first iPod ad on Fifth Avenue or in Time"
+    },
+    {
+      "start": 122,
+      "text": "Square. That was a big iPod ad and I"
+    },
+    {
+      "start": 124,
+      "text": "remember how beautiful that product was."
+    },
+    {
+      "start": 127,
+      "text": "I then learned design because they're"
+    },
+    {
+      "start": 131,
+      "text": "open for 24 hours. They let you use the"
+    },
+    {
+      "start": 133,
+      "text": "Mac. So that that changed my life"
+    },
+    {
+      "start": 136,
+      "text": "because I was really inspired by the"
+    },
+    {
+      "start": 138,
+      "text": "design and was really inspired by truly"
+    },
+    {
+      "start": 141,
+      "text": "obsession of excellence and product"
+    },
+    {
+      "start": 143,
+      "text": "excellence and so made me want to learn"
+    },
+    {
+      "start": 145,
+      "text": "how to design and maybe a better product"
+    },
+    {
+      "start": 152,
+      "text": "founder. Uh my business was purely"
+    },
+    {
+      "start": 156,
+      "text": "accidental. As an immigrant I had to do"
+    },
+    {
+      "start": 159,
+      "text": "any job to survive. I really wanted to"
+    },
+    {
+      "start": 162,
+      "text": "design products but I had no education"
+    },
+    {
+      "start": 165,
+      "text": "or network or any sort of background to"
+    },
+    {
+      "start": 169,
+      "text": "earn the benefit to go and work for"
+    },
+    {
+      "start": 170,
+      "text": "someone. I think not going to school"
+    },
+    {
+      "start": 175,
+      "text": "here or at all and not having a strong"
+    },
+    {
+      "start": 179,
+      "text": "network when you first move in to a"
+    },
+    {
+      "start": 182,
+      "text": "foreign country. You have to start"
+    },
+    {
+      "start": 184,
+      "text": "somewhere and so one friend can become"
+    },
+    {
+      "start": 187,
+      "text": "your network, right? When I was"
+    },
+    {
+      "start": 189,
+      "text": "fundraising, I didn't really know a lot"
+    },
+    {
+      "start": 191,
+      "text": "of people, right? I knew two or three"
+    },
+    {
+      "start": 193,
+      "text": "people. That's it. And the three of them"
+    },
+    {
+      "start": 196,
+      "text": "specifically that I have in mind helped"
+    },
+    {
+      "start": 198,
+      "text": "me with a build a network, fund raise."
+    },
+    {
+      "start": 201,
+      "text": "They're still my close adviserss and"
+    },
+    {
+      "start": 204,
+      "text": "investors and even help me hire and get"
+    },
+    {
+      "start": 208,
+      "text": "new customers. So, you really can't go"
+    },
+    {
+      "start": 210,
+      "text": "at this alone, right? Some will change,"
+    },
+    {
+      "start": 213,
+      "text": "some will come, others will go. But"
+    },
+    {
+      "start": 216,
+      "text": "whether they will end up there or not,"
+    },
+    {
+      "start": 218,
+      "text": "they will always be part of your story."
+    },
+    {
+      "start": 220,
+      "text": "We're going to touch us with our"
+    },
+    {
+      "start": 221,
+      "text": "fingers. When the iPhone launched in"
+    },
+    {
+      "start": 224,
+      "text": "2007, that sparked an idea to design an"
+    },
+    {
+      "start": 227,
+      "text": "app. No one had designed for mobile"
+    },
+    {
+      "start": 230,
+      "text": "before. So that was a really opportunity"
+    },
+    {
+      "start": 231,
+      "text": "for start as a starting point and that"
+    },
+    {
+      "start": 233,
+      "text": "was six agency. I called it six agency"
+    },
+    {
+      "start": 236,
+      "text": "because I was working out my apartment"
+    },
+    {
+      "start": 238,
+      "text": "6A. So the name was easy to come up"
+    },
+    {
+      "start": 241,
+      "text": "with. This app in particular, an idea"
+    },
+    {
+      "start": 243,
+      "text": "that we wanted to push to some of our"
+    },
+    {
+      "start": 245,
+      "text": "clients to say you don't need a full"
+    },
+    {
+      "start": 248,
+      "text": "catalog of products in front of a"
+    },
+    {
+      "start": 249,
+      "text": "customer on a small device. The app"
+    },
+    {
+      "start": 252,
+      "text": "would show you only one product per day."
+    },
+    {
+      "start": 255,
+      "text": "Sometimes it could be a pencil from"
+    },
+    {
+      "start": 256,
+      "text": "Japan or it could be a beautiful watch."
+    },
+    {
+      "start": 260,
+      "text": "It was highly curated. This is before"
+    },
+    {
+      "start": 262,
+      "text": "Instagram, before Tik Tok. And some of"
+    },
+    {
+      "start": 264,
+      "text": "the products and experiences that we"
+    },
+    {
+      "start": 266,
+      "text": "started adding is travel experiences."
+    },
+    {
+      "start": 269,
+      "text": "When we showed these experiences,"
+    },
+    {
+      "start": 271,
+      "text": "engagement went up 70%. So people really"
+    },
+    {
+      "start": 274,
+      "text": "wanted to learn about an experience or"
+    },
+    {
+      "start": 276,
+      "text": "buy an experience. But it was really"
+    },
+    {
+      "start": 279,
+      "text": "hard to book on the app just because"
+    },
+    {
+      "start": 281,
+      "text": "there was no proper booking"
+    },
+    {
+      "start": 282,
+      "text": "infrastructure at a time. You had to"
+    },
+    {
+      "start": 285,
+      "text": "leave the app and go find the experience"
+    },
+    {
+      "start": 287,
+      "text": "somewhere else in some other marketplace"
+    },
+    {
+      "start": 290,
+      "text": "to book it. And that's what inspired us"
+    },
+    {
+      "start": 292,
+      "text": "to launch the travel app. It was an app"
+    },
+    {
+      "start": 294,
+      "text": "designed where you can easily discover a"
+    },
+    {
+      "start": 296,
+      "text": "hotel and book it right there and then."
+    },
+    {
+      "start": 299,
+      "text": "But the month we were officially"
+    },
+    {
+      "start": 300,
+      "text": "launching it, the pandemic"
+    },
+    {
+      "start": 304,
+      "text": "started. Every hotel in the world shut"
+    },
+    {
+      "start": 307,
+      "text": "down. Yet I was thinking beyond that."
+    },
+    {
+      "start": 310,
+      "text": "When the world comes back and they would"
+    },
+    {
+      "start": 313,
+      "text": "want to travel again. For me, every"
+    },
+    {
+      "start": 316,
+      "text": "decision I make I doubt. But then there"
+    },
+    {
+      "start": 319,
+      "text": "is a stubborn persona in me and a"
+    },
+    {
+      "start": 322,
+      "text": "relentless drive to create something"
+    },
+    {
+      "start": 324,
+      "text": "seamless. And so we had to think of ways"
+    },
+    {
+      "start": 327,
+      "text": "where we can pivot. Two key insight"
+    },
+    {
+      "start": 329,
+      "text": "points that I received during that time"
+    },
+    {
+      "start": 332,
+      "text": "was that no hotel in the world could"
+    },
+    {
+      "start": 334,
+      "text": "accept Apple Pay at the time. And"
+    },
+    {
+      "start": 336,
+      "text": "secondly is that launching a consumer"
+    },
+    {
+      "start": 338,
+      "text": "app is really really hard. So for us was"
+    },
+    {
+      "start": 341,
+      "text": "how can we leverage everything we built"
+    },
+    {
+      "start": 344,
+      "text": "and still provide this unique customer"
+    },
+    {
+      "start": 347,
+      "text": "experience to compete against OTAAS was"
+    },
+    {
+      "start": 350,
+      "text": "an impossible mission. Big OTAAS use"
+    },
+    {
+      "start": 352,
+      "text": "Apple Pay and they have a really"
+    },
+    {
+      "start": 354,
+      "text": "streamlined booking experience some at"
+    },
+    {
+      "start": 356,
+      "text": "least. Hotels didn't have that. So they"
+    },
+    {
+      "start": 359,
+      "text": "didn't have a leveled playing field. So,"
+    },
+    {
+      "start": 361,
+      "text": "Selfbook provided that to hotels instead"
+    },
+    {
+      "start": 364,
+      "text": "of them just continuing to give 25%"
+    },
+    {
+      "start": 367,
+      "text": "commission to OTAAS because a lack of a"
+    },
+    {
+      "start": 370,
+      "text": "streamlined booking experience. We were"
+    },
+    {
+      "start": 372,
+      "text": "able to bring that to them. Our view was"
+    },
+    {
+      "start": 374,
+      "text": "that if the guest really wants to book a"
+    },
+    {
+      "start": 376,
+      "text": "hotel and they are on the hotel website,"
+    },
+    {
+      "start": 379,
+      "text": "there's absolutely no reason for them to"
+    },
+    {
+      "start": 381,
+      "text": "leave the website and go to an OTAA to"
+    },
+    {
+      "start": 384,
+      "text": "book that same hotel. They should book"
+    },
+    {
+      "start": 386,
+      "text": "it right there and then. And that's"
+    },
+    {
+      "start": 388,
+      "text": "where Self really comes in to provide"
+    },
+    {
+      "start": 390,
+      "text": "this booking infrastructure married with"
+    },
+    {
+      "start": 393,
+      "text": "uh an end-to-end payment layer. We"
+    },
+    {
+      "start": 395,
+      "text": "believe that building a guest first"
+    },
+    {
+      "start": 397,
+      "text": "experience is so much better than just"
+    },
+    {
+      "start": 400,
+      "text": "building another B2B product even though"
+    },
+    {
+      "start": 402,
+      "text": "it was a B2B company. When we think of"
+    },
+    {
+      "start": 406,
+      "text": "the industry and we think of hotels as"
+    },
+    {
+      "start": 409,
+      "text": "clients, obviously the industry is left"
+    },
+    {
+      "start": 411,
+      "text": "behind from a technology perspective and"
+    },
+    {
+      "start": 413,
+      "text": "every product that they have was really"
+    },
+    {
+      "start": 416,
+      "text": "antiquated, especially on the guest"
+    },
+    {
+      "start": 418,
+      "text": "experience, right? Some of these systems"
+    },
+    {
+      "start": 420,
+      "text": "were built in the '60s. User behavior"
+    },
+    {
+      "start": 423,
+      "text": "was moving fast, but the change was"
+    },
+    {
+      "start": 425,
+      "text": "really slow. Our rapid growth since"
+    },
+    {
+      "start": 428,
+      "text": "launch was mainly driven by really being"
+    },
+    {
+      "start": 431,
+      "text": "charmingly relentless. You have to push"
+    },
+    {
+      "start": 433,
+      "text": "an agenda to an industry that I felt and"
+    },
+    {
+      "start": 437,
+      "text": "I still feel like the word sleepwalking"
+    },
+    {
+      "start": 440,
+      "text": "towards a precipice. A modern payment"
+    },
+    {
+      "start": 443,
+      "text": "solution like Apple Pay that uses a"
+    },
+    {
+      "start": 445,
+      "text": "cryptogram doesn't really work with a"
+    },
+    {
+      "start": 447,
+      "text": "system like Saber. And so we had to"
+    },
+    {
+      "start": 450,
+      "text": "build layers that allows a hotel that"
+    },
+    {
+      "start": 452,
+      "text": "still uses Saber to accept digital"
+    },
+    {
+      "start": 454,
+      "text": "wallet. And that was one of the"
+    },
+    {
+      "start": 455,
+      "text": "challenges that we solved. But then as"
+    },
+    {
+      "start": 458,
+      "text": "we kept on going, we've discovered a lot"
+    },
+    {
+      "start": 460,
+      "text": "of other challenges. And one of them is"
+    },
+    {
+      "start": 463,
+      "text": "providing flexibility in rates or even"
+    },
+    {
+      "start": 466,
+      "text": "providing a single API for platforms to"
+    },
+    {
+      "start": 469,
+      "text": "sell travel without having to build"
+    },
+    {
+      "start": 471,
+      "text": "every single component from the ground"
+    },
+    {
+      "start": 473,
+      "text": "up. And as a payment company at a core"
+    },
+    {
+      "start": 476,
+      "text": "or fintech company at a core,"
+    },
+    {
+      "start": 478,
+      "text": "transaction volume was key. And so we"
+    },
+    {
+      "start": 480,
+      "text": "had to achieve high GMV early on because"
+    },
+    {
+      "start": 485,
+      "text": "we were on growth mode. So you know we"
+    },
+    {
+      "start": 487,
+      "text": "went for hotels with higher average"
+    },
+    {
+      "start": 489,
+      "text": "daily rates or in the industry we call"
+    },
+    {
+      "start": 491,
+      "text": "it ADR so that we can achieve that"
+    },
+    {
+      "start": 494,
+      "text": "higher volume. Now again we scale beyond"
+    },
+    {
+      "start": 497,
+      "text": "just luxury but that was the starting"
+    },
+    {
+      "start": 499,
+      "text": "point and that's what helped us grow"
+    },
+    {
+      "start": 500,
+      "text": "really fast. Last year 2024 we 3xed our"
+    },
+    {
+      "start": 503,
+      "text": "revenue. We also helped hotel increase"
+    },
+    {
+      "start": 506,
+      "text": "conversion on their websites by 40% and"
+    },
+    {
+      "start": 509,
+      "text": "we also reduce cancellations by 44%. So"
+    },
+    {
+      "start": 512,
+      "text": "these are some of the ideas that we're"
+    },
+    {
+      "start": 514,
+      "text": "working on. If you go to an agentic on"
+    },
+    {
+      "start": 516,
+      "text": "AI search like Perplex City and you"
+    },
+    {
+      "start": 519,
+      "text": "search a hotel, the best hotel New York"
+    },
+    {
+      "start": 521,
+      "text": "City or I want to stay downtown or in"
+    },
+    {
+      "start": 524,
+      "text": "Soho, what if you can book them right"
+    },
+    {
+      "start": 527,
+      "text": "there and then without leaving"
+    },
+    {
+      "start": 528,
+      "text": "Perplexity? Bringing that to life, it's"
+    },
+    {
+      "start": 532,
+      "text": "so powerful. We're suited to build this"
+    },
+    {
+      "start": 534,
+      "text": "and we're super excited to deliver"
+    },
+    {
+      "start": 539,
+      "text": "it. Murakami says, \"Pain is inevitable."
+    },
+    {
+      "start": 544,
+      "text": "suffering is optional in his memoir. And"
+    },
+    {
+      "start": 546,
+      "text": "it's true as a founder, you're"
+    },
+    {
+      "start": 548,
+      "text": "constantly debating different ideas. A"
+    },
+    {
+      "start": 552,
+      "text": "key word that you know we hear every"
+    },
+    {
+      "start": 554,
+      "text": "hour of the day is trade-offs. You're"
+    },
+    {
+      "start": 556,
+      "text": "constantly trading off different ideas"
+    },
+    {
+      "start": 559,
+      "text": "and different assumptions. So sometimes"
+    },
+    {
+      "start": 561,
+      "text": "you get it wrong. Our biggest assumption"
+    },
+    {
+      "start": 563,
+      "text": "was that we could replace certain"
+    },
+    {
+      "start": 566,
+      "text": "systems, but that was more difficult"
+    },
+    {
+      "start": 569,
+      "text": "just because hotels are set in their"
+    },
+    {
+      "start": 571,
+      "text": "ways or perhaps they use an on-prem"
+    },
+    {
+      "start": 574,
+      "text": "system that it will take decades to"
+    },
+    {
+      "start": 576,
+      "text": "shift away from it. And so we had to"
+    },
+    {
+      "start": 580,
+      "text": "pivot our ways of thinking and work"
+    },
+    {
+      "start": 582,
+      "text": "cohesively with these systems and"
+    },
+    {
+      "start": 584,
+      "text": "integrate with them as opposed to"
+    },
+    {
+      "start": 586,
+      "text": "completely replacing them. really"
+    },
+    {
+      "start": 588,
+      "text": "focusing on what matters most and"
+    },
+    {
+      "start": 590,
+      "text": "focusing on what we are good at or we"
+    },
+    {
+      "start": 592,
+      "text": "are the best at. So a perfect example"
+    },
+    {
+      "start": 595,
+      "text": "Muse uh they are a cloudnative property"
+    },
+    {
+      "start": 598,
+      "text": "management system we're integrating with"
+    },
+    {
+      "start": 601,
+      "text": "and we're really excited to work with"
+    },
+    {
+      "start": 602,
+      "text": "them. We don't have to replace anything"
+    },
+    {
+      "start": 604,
+      "text": "they do but working together with them"
+    },
+    {
+      "start": 607,
+      "text": "we enhance the booking experience and so"
+    },
+    {
+      "start": 610,
+      "text": "building an integration layer across the"
+    },
+    {
+      "start": 613,
+      "text": "industry was key for our success and our"
+    },
+    {
+      "start": 616,
+      "text": "scale. The first customer on self-poke"
+    },
+    {
+      "start": 619,
+      "text": "is a resort called Nemain. This is a"
+    },
+    {
+      "start": 621,
+      "text": "time where almost every hotel in the"
+    },
+    {
+      "start": 623,
+      "text": "world was shut down. In July of 2020, I"
+    },
+    {
+      "start": 626,
+      "text": "flew to Pennsylvania and went to this"
+    },
+    {
+      "start": 628,
+      "text": "resort called Neolin and met with the"
+    },
+    {
+      "start": 630,
+      "text": "team, met with the owner and they were"
+    },
+    {
+      "start": 632,
+      "text": "really passionate about their product."
+    },
+    {
+      "start": 634,
+      "text": "They were really passionate about"
+    },
+    {
+      "start": 635,
+      "text": "hospitality. Despite the fact that we"
+    },
+    {
+      "start": 638,
+      "text": "didn't have a full product yet and we"
+    },
+    {
+      "start": 639,
+      "text": "didn't have uh any track record at the"
+    },
+    {
+      "start": 642,
+      "text": "time or any client, they really believed"
+    },
+    {
+      "start": 644,
+      "text": "in us. They believed in the vision. It"
+    },
+    {
+      "start": 646,
+      "text": "wasn't because it was technical or it"
+    },
+    {
+      "start": 649,
+      "text": "would convert better or anything like"
+    },
+    {
+      "start": 650,
+      "text": "that. It was because we were obsessed"
+    },
+    {
+      "start": 654,
+      "text": "about providing guests a better user"
+    },
+    {
+      "start": 656,
+      "text": "experience. And the owner really cared"
+    },
+    {
+      "start": 658,
+      "text": "about that. She said at the time, if it"
+    },
+    {
+      "start": 661,
+      "text": "isospitable, we want it, right? And so"
+    },
+    {
+      "start": 664,
+      "text": "that's what we aimed for. And uh that"
+    },
+    {
+      "start": 666,
+      "text": "was our first client and they're still"
+    },
+    {
+      "start": 667,
+      "text": "our client. We're proud of that. Travel"
+    },
+    {
+      "start": 670,
+      "text": "is a human connection. Travel is a"
+    },
+    {
+      "start": 672,
+      "text": "gateway to culture. When you walk into a"
+    },
+    {
+      "start": 674,
+      "text": "store, you don't see just a sheet of"
+    },
+    {
+      "start": 677,
+      "text": "rates. You see products and you have a"
+    },
+    {
+      "start": 679,
+      "text": "conversation. So I think Self has big"
+    },
+    {
+      "start": 682,
+      "text": "visions of its existence, provide the"
+    },
+    {
+      "start": 685,
+      "text": "hospitality that the industry is meant"
+    },
+    {
+      "start": 686,
+      "text": "to provide anyways from day"
+    },
+    {
+      "start": 691,
+      "text": "one. Schumaker Formula 1 driver said"
+    },
+    {
+      "start": 694,
+      "text": "once there is passion, motivation is"
+    },
+    {
+      "start": 696,
+      "text": "there and I feel my passion was always"
+    },
+    {
+      "start": 698,
+      "text": "travel. So I was motivated to do so. I"
+    },
+    {
+      "start": 701,
+      "text": "think leaving Algeria was allowed me"
+    },
+    {
+      "start": 704,
+      "text": "to continue to dream bigger. Having that"
+    },
+    {
+      "start": 707,
+      "text": "freedom to create regardless of your"
+    },
+    {
+      "start": 709,
+      "text": "background or education or lack of which"
+    },
+    {
+      "start": 712,
+      "text": "in my case was really beneficial. It's"
+    },
+    {
+      "start": 715,
+      "text": "it's easy to give up. Um but you can't"
+    },
+    {
+      "start": 718,
+      "text": "be a quitter. You have to continue."
+    },
+    {
+      "start": 724,
+      "text": "[Music]"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 288,
+  "timestamp": "2025-07-24T08:16:52.930Z"
+}

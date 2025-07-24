@@ -1,0 +1,1530 @@
+{
+  "success": true,
+  "videoId": "I5YOjn1V1fU",
+  "videoTitle": "From Zero to $1.5B Unicorn in 2 Years ｜ Decagon, Jesse Zhang",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "every startup's biggest Advantage is"
+    },
+    {
+      "start": 1,
+      "text": "you're obviously able to move quicker a"
+    },
+    {
+      "start": 2,
+      "text": "VC might ask you it's like okay what"
+    },
+    {
+      "start": 4,
+      "text": "what do you do when Google starts doing"
+    },
+    {
+      "start": 5,
+      "text": "this honestly a lot of our advisers or"
+    },
+    {
+      "start": 8,
+      "text": "investors were telling us hey support is"
+    },
+    {
+      "start": 9,
+      "text": "going to be too crowded it's like such"
+    },
+    {
+      "start": 10,
+      "text": "an obvious idea my name is Jesse I'm one"
+    },
+    {
+      "start": 13,
+      "text": "of the co-founders here at deagon deagon"
+    },
+    {
+      "start": 15,
+      "text": "builds AI agents primarily for large"
+    },
+    {
+      "start": 17,
+      "text": "corporations on the customer support"
+    },
+    {
+      "start": 19,
+      "text": "customer experience side as a team we're"
+    },
+    {
+      "start": 21,
+      "text": "able to hit seven figures ARR in about 6"
+    },
+    {
+      "start": 24,
+      "text": "months and uh have been growing quickly"
+    },
+    {
+      "start": 25,
+      "text": "since then we're always just looking for"
+    },
+    {
+      "start": 27,
+      "text": "more customers more folks to work with"
+    },
+    {
+      "start": 30,
+      "text": "and we're growing the team as"
+    },
+    {
+      "start": 32,
+      "text": "[Music]"
+    },
+    {
+      "start": 37,
+      "text": "well I was born and raised in Boulder"
+    },
+    {
+      "start": 40,
+      "text": "Colorado I grew up doing a lot of things"
+    },
+    {
+      "start": 42,
+      "text": "like math contests science research"
+    },
+    {
+      "start": 44,
+      "text": "stuff like that and I ended up studying"
+    },
+    {
+      "start": 46,
+      "text": "computer science at Harvard I would say"
+    },
+    {
+      "start": 47,
+      "text": "I was very focused on trying to build"
+    },
+    {
+      "start": 49,
+      "text": "something and so most of the time I"
+    },
+    {
+      "start": 51,
+      "text": "spent outside of classes was towards"
+    },
+    {
+      "start": 53,
+      "text": "like learning how to build things"
+    },
+    {
+      "start": 55,
+      "text": "talking to my friends about building"
+    },
+    {
+      "start": 56,
+      "text": "things I finished College fast for a"
+    },
+    {
+      "start": 58,
+      "text": "bunch of different reasons I thought"
+    },
+    {
+      "start": 59,
+      "text": "that I had already gained what I needed"
+    },
+    {
+      "start": 61,
+      "text": "to from from college and I was excited"
+    },
+    {
+      "start": 63,
+      "text": "to just start building things and so at"
+    },
+    {
+      "start": 65,
+      "text": "Harvard there's a program that allows"
+    },
+    {
+      "start": 66,
+      "text": "you to graduate a year early pretty"
+    },
+    {
+      "start": 68,
+      "text": "easily after Harvard I started my first"
+    },
+    {
+      "start": 70,
+      "text": "company it was a very different startup"
+    },
+    {
+      "start": 71,
+      "text": "we eventually got acquired by Niantic"
+    },
+    {
+      "start": 74,
+      "text": "then decided to start this company so"
+    },
+    {
+      "start": 76,
+      "text": "specifically the problem we're solving"
+    },
+    {
+      "start": 78,
+      "text": "is a lot of these companies have very"
+    },
+    {
+      "start": 80,
+      "text": "large not that efficient operations in"
+    },
+    {
+      "start": 83,
+      "text": "terms of answering customer questions"
+    },
+    {
+      "start": 85,
+      "text": "looking up data dealing with tickets and"
+    },
+    {
+      "start": 87,
+      "text": "many of them will Outsource to large you"
+    },
+    {
+      "start": 90,
+      "text": "know bpos and things like that to have a"
+    },
+    {
+      "start": 91,
+      "text": "lot of human agents answering and so if"
+    },
+    {
+      "start": 93,
+      "text": "you're able to use some of the new"
+    },
+    {
+      "start": 94,
+      "text": "generative AI technology you're able to"
+    },
+    {
+      "start": 96,
+      "text": "automate and just improve the customer"
+    },
+    {
+      "start": 98,
+      "text": "experience by answering all of these"
+    },
+    {
+      "start": 100,
+      "text": "questions automatically looking up data"
+    },
+    {
+      "start": 102,
+      "text": "automatically doing all the sort of"
+    },
+    {
+      "start": 104,
+      "text": "things that a human agent would do every"
+    },
+    {
+      "start": 106,
+      "text": "startup's biggest Advantage is you're"
+    },
+    {
+      "start": 107,
+      "text": "obviously able to move quicker you can"
+    },
+    {
+      "start": 108,
+      "text": "kind of cater towards the customers a"
+    },
+    {
+      "start": 111,
+      "text": "lot more and make sure that you really"
+    },
+    {
+      "start": 113,
+      "text": "capture their needs a VC might ask you"
+    },
+    {
+      "start": 114,
+      "text": "it's like okay what what do you do when"
+    },
+    {
+      "start": 116,
+      "text": "Google starts doing this honestly a lot"
+    },
+    {
+      "start": 117,
+      "text": "of our advisors or investors were"
+    },
+    {
+      "start": 119,
+      "text": "telling us hey support is going to be"
+    },
+    {
+      "start": 120,
+      "text": "too crowded it's like such an obvious"
+    },
+    {
+      "start": 122,
+      "text": "idea but on the flip side that's also a"
+    },
+    {
+      "start": 124,
+      "text": "great a good thing because it allows you"
+    },
+    {
+      "start": 125,
+      "text": "to get to adoption very quickly because"
+    },
+    {
+      "start": 128,
+      "text": "our customers also see the value when"
+    },
+    {
+      "start": 129,
+      "text": "they start using it they immediately get"
+    },
+    {
+      "start": 131,
+      "text": "Roi this is what our customers are"
+    },
+    {
+      "start": 132,
+      "text": "telling us our customers are telling us"
+    },
+    {
+      "start": 133,
+      "text": "that there's need here that they're"
+    },
+    {
+      "start": 134,
+      "text": "willing to pay for a solution if it"
+    },
+    {
+      "start": 135,
+      "text": "works and so that's kind of what led us"
+    },
+    {
+      "start": 137,
+      "text": "there that's also what's made us"
+    },
+    {
+      "start": 138,
+      "text": "successful in terms of competing against"
+    },
+    {
+      "start": 140,
+      "text": "the older generation of chat Bots"
+    },
+    {
+      "start": 143,
+      "text": "because if our customers were happy with"
+    },
+    {
+      "start": 145,
+      "text": "those then they wouldn't have told us in"
+    },
+    {
+      "start": 148,
+      "text": "the first place they wouldn't have even"
+    },
+    {
+      "start": 149,
+      "text": "mentioned that hey we're willing to try"
+    },
+    {
+      "start": 150,
+      "text": "you out and so we're able to basically"
+    },
+    {
+      "start": 152,
+      "text": "capture a lot of the newer needs and a"
+    },
+    {
+      "start": 154,
+      "text": "lot of what was not possible before by"
+    },
+    {
+      "start": 156,
+      "text": "building from the ground up using"
+    },
+    {
+      "start": 158,
+      "text": "generative models a lot of older players"
+    },
+    {
+      "start": 160,
+      "text": "they will have a huge product built"
+    },
+    {
+      "start": 161,
+      "text": "already and they probably have hundreds"
+    },
+    {
+      "start": 162,
+      "text": "of customers and so when they're"
+    },
+    {
+      "start": 163,
+      "text": "shipping new features they have to build"
+    },
+    {
+      "start": 165,
+      "text": "things that kind of satisfy the average"
+    },
+    {
+      "start": 167,
+      "text": "customer they're just slower to adapt"
+    },
+    {
+      "start": 169,
+      "text": "because they have to carry along all"
+    },
+    {
+      "start": 171,
+      "text": "this product they've already built out"
+    },
+    {
+      "start": 173,
+      "text": "so I think when you're a startup like us"
+    },
+    {
+      "start": 175,
+      "text": "we've done a good job at executing and"
+    },
+    {
+      "start": 177,
+      "text": "so we we move really fast there's been a"
+    },
+    {
+      "start": 179,
+      "text": "new technology introduced right large"
+    },
+    {
+      "start": 181,
+      "text": "language models if you just think about"
+    },
+    {
+      "start": 183,
+      "text": "the more traditional chat Bots where"
+    },
+    {
+      "start": 184,
+      "text": "there's some intelligence built in but"
+    },
+    {
+      "start": 185,
+      "text": "it's it's not AI it's not generative and"
+    },
+    {
+      "start": 187,
+      "text": "if you're able to adapt faster then you"
+    },
+    {
+      "start": 189,
+      "text": "have a big Advantage when you're"
+    },
+    {
+      "start": 190,
+      "text": "competing against them I think we've"
+    },
+    {
+      "start": 191,
+      "text": "just built a better product hi I'm T"
+    },
+    {
+      "start": 195,
+      "text": "from if you are enjoying this video"
+    },
+    {
+      "start": 197,
+      "text": "you're going to like one of share before"
+    },
+    {
+      "start": 198,
+      "text": "founding EO I founded three startups one"
+    },
+    {
+      "start": 201,
+      "text": "small sof test and two failures this"
+    },
+    {
+      "start": 204,
+      "text": "experience that me to my current Vision"
+    },
+    {
+      "start": 206,
+      "text": "empowering more Founders to access their"
+    },
+    {
+      "start": 208,
+      "text": "are content and opportunity in growing a"
+    },
+    {
+      "start": 210,
+      "text": "startup I wanted to share a free"
+    },
+    {
+      "start": 212,
+      "text": "research that I would have loved to have"
+    },
+    {
+      "start": 214,
+      "text": "when I was starting out a comprehensive"
+    },
+    {
+      "start": 216,
+      "text": "guide to Startup fundraising kit"
+    },
+    {
+      "start": 218,
+      "text": "provided by hotspot one of the biggest"
+    },
+    {
+      "start": 220,
+      "text": "challenges as a Founder is when you hit"
+    },
+    {
+      "start": 222,
+      "text": "that first wall of fundraising you're"
+    },
+    {
+      "start": 224,
+      "text": "good at building what you do but"
+    },
+    {
+      "start": 226,
+      "text": "convincing investors is an entirely"
+    },
+    {
+      "start": 229,
+      "text": "different task this resource is packed"
+    },
+    {
+      "start": 231,
+      "text": "with practical strategies on finding"
+    },
+    {
+      "start": 233,
+      "text": "investors and building an investor"
+    },
+    {
+      "start": 235,
+      "text": "Outreach strategy managing the due"
+    },
+    {
+      "start": 237,
+      "text": "diligence process like a pro and my"
+    },
+    {
+      "start": 240,
+      "text": "favorite part was the financial planning"
+    },
+    {
+      "start": 242,
+      "text": "worksheet simple actionable resource to"
+    },
+    {
+      "start": 244,
+      "text": "get me started right away so be sure to"
+    },
+    {
+      "start": 246,
+      "text": "check it out download for free and take"
+    },
+    {
+      "start": 249,
+      "text": "your startup to the next round and"
+    },
+    {
+      "start": 250,
+      "text": "thanks to Hotpot for sponsoring this"
+    },
+    {
+      "start": 252,
+      "text": "video now back to the"
+    },
+    {
+      "start": 255,
+      "text": "[Music]"
+    },
+    {
+      "start": 257,
+      "text": "story when we first started we were very"
+    },
+    {
+      "start": 260,
+      "text": "open-minded uh we were not super"
+    },
+    {
+      "start": 261,
+      "text": "opinionated about like this is exactly"
+    },
+    {
+      "start": 263,
+      "text": "what we need to build we kind of just"
+    },
+    {
+      "start": 264,
+      "text": "let our customers tell us what the need"
+    },
+    {
+      "start": 267,
+      "text": "is when you're early it's it's hard to"
+    },
+    {
+      "start": 270,
+      "text": "have a very coherent strategy you're"
+    },
+    {
+      "start": 271,
+      "text": "just trying to get as many customers as"
+    },
+    {
+      "start": 272,
+      "text": "possible and so in the early days it was"
+    },
+    {
+      "start": 274,
+      "text": "just us trying everything we could to"
+    },
+    {
+      "start": 276,
+      "text": "get new customers get new introductions"
+    },
+    {
+      "start": 278,
+      "text": "things like that and with each customer"
+    },
+    {
+      "start": 279,
+      "text": "we would have the same process of going"
+    },
+    {
+      "start": 281,
+      "text": "in and really trying to understand what"
+    },
+    {
+      "start": 283,
+      "text": "they needed and what they wanted instead"
+    },
+    {
+      "start": 284,
+      "text": "of trying to push like our product"
+    },
+    {
+      "start": 287,
+      "text": "Vision on them for a lot of our early"
+    },
+    {
+      "start": 289,
+      "text": "customers vanto would be a great example"
+    },
+    {
+      "start": 291,
+      "text": "vanto was one of our first customers we"
+    },
+    {
+      "start": 293,
+      "text": "just kind of came in with the mindset of"
+    },
+    {
+      "start": 294,
+      "text": "hey you may have some issues that uh"
+    },
+    {
+      "start": 297,
+      "text": "you're dealing with and we just want to"
+    },
+    {
+      "start": 298,
+      "text": "see if we can solve them in a good way"
+    },
+    {
+      "start": 301,
+      "text": "and I think if that's your mindset then"
+    },
+    {
+      "start": 302,
+      "text": "it makes it easier because you're again"
+    },
+    {
+      "start": 304,
+      "text": "putting the customer first and like"
+    },
+    {
+      "start": 306,
+      "text": "really being customer-driven fortunately"
+    },
+    {
+      "start": 307,
+      "text": "at the time they actually did have a"
+    },
+    {
+      "start": 309,
+      "text": "very concrete situation which is around"
+    },
+    {
+      "start": 311,
+      "text": "you know having automation to answer"
+    },
+    {
+      "start": 313,
+      "text": "customer problems it's a complicated"
+    },
+    {
+      "start": 315,
+      "text": "product and so when people come in they"
+    },
+    {
+      "start": 317,
+      "text": "have a lot of questions and if you're"
+    },
+    {
+      "start": 318,
+      "text": "able to answer them well then customers"
+    },
+    {
+      "start": 320,
+      "text": "are happy and they're happy so that's"
+    },
+    {
+      "start": 322,
+      "text": "how we got started we were able to ship"
+    },
+    {
+      "start": 325,
+      "text": "a initial version very quickly they"
+    },
+    {
+      "start": 327,
+      "text": "liked it and then we tested out on on"
+    },
+    {
+      "start": 329,
+      "text": "real customers and they liked that as"
+    },
+    {
+      "start": 331,
+      "text": "well and so we just went from there for"
+    },
+    {
+      "start": 332,
+      "text": "the first 6 months we didn't build"
+    },
+    {
+      "start": 334,
+      "text": "anything that wasn't a direct request"
+    },
+    {
+      "start": 336,
+      "text": "from one of our customers and now"
+    },
+    {
+      "start": 338,
+      "text": "obviously we're slightly farther along"
+    },
+    {
+      "start": 339,
+      "text": "so we we have our own views on what"
+    },
+    {
+      "start": 341,
+      "text": "makes a good product but we still are"
+    },
+    {
+      "start": 343,
+      "text": "extremely customer first we really love"
+    },
+    {
+      "start": 345,
+      "text": "talking to our customers they give us a"
+    },
+    {
+      "start": 346,
+      "text": "lot of Direction and that's how we"
+    },
+    {
+      "start": 348,
+      "text": "approach product"
+    },
+    {
+      "start": 350,
+      "text": "building my first company low key was"
+    },
+    {
+      "start": 353,
+      "text": "very different from what we're currently"
+    },
+    {
+      "start": 354,
+      "text": "building first of all it was a consumer"
+    },
+    {
+      "start": 356,
+      "text": "company and so we didn't have pain"
+    },
+    {
+      "start": 358,
+      "text": "customers off the bat we were much more"
+    },
+    {
+      "start": 360,
+      "text": "concerned about getting users and"
+    },
+    {
+      "start": 362,
+      "text": "getting a lot of them very quickly uh"
+    },
+    {
+      "start": 363,
+      "text": "what we did was we were building"
+    },
+    {
+      "start": 365,
+      "text": "software for people that played video"
+    },
+    {
+      "start": 366,
+      "text": "games to capture their Clips edit them"
+    },
+    {
+      "start": 369,
+      "text": "share them and just you know explore"
+    },
+    {
+      "start": 371,
+      "text": "Clips in general by far it was just"
+    },
+    {
+      "start": 373,
+      "text": "being a new grad and not knowing much"
+    },
+    {
+      "start": 375,
+      "text": "about stuff I was a solar founder for"
+    },
+    {
+      "start": 377,
+      "text": "most of it I didn't really know like"
+    },
+    {
+      "start": 379,
+      "text": "what things were important to work on"
+    },
+    {
+      "start": 381,
+      "text": "what things weren't I didn't really know"
+    },
+    {
+      "start": 382,
+      "text": "how to evaluate of a good idea if an"
+    },
+    {
+      "start": 384,
+      "text": "idea was good or not every day you're"
+    },
+    {
+      "start": 386,
+      "text": "working hard but maybe you're not"
+    },
+    {
+      "start": 387,
+      "text": "working on the right thing and just you"
+    },
+    {
+      "start": 389,
+      "text": "know after few months go by it just"
+    },
+    {
+      "start": 390,
+      "text": "feels like a lot of the time was wasted"
+    },
+    {
+      "start": 392,
+      "text": "so I think that's very natural for"
+    },
+    {
+      "start": 394,
+      "text": "firsttime Founders because especially"
+    },
+    {
+      "start": 396,
+      "text": "younger ones because you don't really"
+    },
+    {
+      "start": 398,
+      "text": "have that perspective what kept me going"
+    },
+    {
+      "start": 400,
+      "text": "was more just yeah being young and"
+    },
+    {
+      "start": 403,
+      "text": "having a lot of energy and being a"
+    },
+    {
+      "start": 404,
+      "text": "little bit naive is also helpful because"
+    },
+    {
+      "start": 406,
+      "text": "you don't really have that much"
+    },
+    {
+      "start": 407,
+      "text": "perspective on how hard things are or"
+    },
+    {
+      "start": 408,
+      "text": "how hard things can be so that that was"
+    },
+    {
+      "start": 410,
+      "text": "by far the hardest part for me I think"
+    },
+    {
+      "start": 412,
+      "text": "being a consumer um exaggerated that a"
+    },
+    {
+      "start": 414,
+      "text": "bit because there is not really like"
+    },
+    {
+      "start": 416,
+      "text": "customers paying a lot of money that you"
+    },
+    {
+      "start": 418,
+      "text": "can talk to and like all right what do"
+    },
+    {
+      "start": 419,
+      "text": "you need I'll build it so that was by"
+    },
+    {
+      "start": 420,
+      "text": "far the hardest um once you start"
+    },
+    {
+      "start": 422,
+      "text": "scaling of course you know what you're"
+    },
+    {
+      "start": 423,
+      "text": "building but there's still that element"
+    },
+    {
+      "start": 425,
+      "text": "of okay you know you're at 10,000 users"
+    },
+    {
+      "start": 427,
+      "text": "how do you get to 100,000 and once"
+    },
+    {
+      "start": 429,
+      "text": "you're at 100,000 users how do you get"
+    },
+    {
+      "start": 430,
+      "text": "to a million and the answer for those"
+    },
+    {
+      "start": 431,
+      "text": "might not be the same and you have to"
+    },
+    {
+      "start": 433,
+      "text": "keep figuring out new things to try and"
+    },
+    {
+      "start": 435,
+      "text": "and things like that and then for that"
+    },
+    {
+      "start": 437,
+      "text": "company you eventually have to figure"
+    },
+    {
+      "start": 438,
+      "text": "out how do you make money so that's a"
+    },
+    {
+      "start": 439,
+      "text": "whole another phase yeah for me the"
+    },
+    {
+      "start": 441,
+      "text": "first part is definitely the hardest as"
+    },
+    {
+      "start": 443,
+      "text": "a Founder you can always overthink"
+    },
+    {
+      "start": 445,
+      "text": "things and you can always rationalize"
+    },
+    {
+      "start": 446,
+      "text": "different things but at the end of the"
+    },
+    {
+      "start": 448,
+      "text": "day it doesn't really matter you just"
+    },
+    {
+      "start": 449,
+      "text": "have to get to a point where you have"
+    },
+    {
+      "start": 450,
+      "text": "customers that really appreciate and"
+    },
+    {
+      "start": 452,
+      "text": "value what you're doing and that speaks"
+    },
+    {
+      "start": 454,
+      "text": "for itself in terms of the growth of the"
+    },
+    {
+      "start": 455,
+      "text": "business so this time around when we"
+    },
+    {
+      "start": 458,
+      "text": "were in the very early stages of"
+    },
+    {
+      "start": 460,
+      "text": "building decagon my co-founder Ashwin is"
+    },
+    {
+      "start": 462,
+      "text": "very similar background also"
+    },
+    {
+      "start": 464,
+      "text": "successfully sold the company before we"
+    },
+    {
+      "start": 466,
+      "text": "just decided hey let's not overthink it"
+    },
+    {
+      "start": 468,
+      "text": "we just want to go out there and see"
+    },
+    {
+      "start": 470,
+      "text": "what people actually want and what"
+    },
+    {
+      "start": 471,
+      "text": "they're willing to spend money on and"
+    },
+    {
+      "start": 473,
+      "text": "that just made the initial ideation"
+    },
+    {
+      "start": 475,
+      "text": "phase much easier uh and we really did"
+    },
+    {
+      "start": 478,
+      "text": "not want to spend too many cycles you"
+    },
+    {
+      "start": 480,
+      "text": "know going back and forth in that in"
+    },
+    {
+      "start": 482,
+      "text": "that stage so I think number one you"
+    },
+    {
+      "start": 483,
+      "text": "need to line up a lot of customer calls"
+    },
+    {
+      "start": 486,
+      "text": "and so you can get those from asking"
+    },
+    {
+      "start": 488,
+      "text": "your friends to introduce you asking"
+    },
+    {
+      "start": 489,
+      "text": "your investors to introduce you reaching"
+    },
+    {
+      "start": 490,
+      "text": "out cold and once you have them set up"
+    },
+    {
+      "start": 492,
+      "text": "you want to make sure the calls are very"
+    },
+    {
+      "start": 495,
+      "text": "structured and after you leave the call"
+    },
+    {
+      "start": 497,
+      "text": "you feel like you like learn something"
+    },
+    {
+      "start": 499,
+      "text": "concrete and so part of that is you know"
+    },
+    {
+      "start": 500,
+      "text": "you have an exploratory phase where"
+    },
+    {
+      "start": 502,
+      "text": "you're kind of just listening to their"
+    },
+    {
+      "start": 503,
+      "text": "problems and seeing like what could"
+    },
+    {
+      "start": 505,
+      "text": "possibly be solved and then the next"
+    },
+    {
+      "start": 507,
+      "text": "phase of the call is you're generally"
+    },
+    {
+      "start": 508,
+      "text": "talking about hypothe IAL Solutions and"
+    },
+    {
+      "start": 510,
+      "text": "then the last part of the call is super"
+    },
+    {
+      "start": 512,
+      "text": "important to get a sense of like how"
+    },
+    {
+      "start": 514,
+      "text": "much people would pay for it because"
+    },
+    {
+      "start": 516,
+      "text": "many times you could get in a"
+    },
+    {
+      "start": 517,
+      "text": "conversation where people are telling"
+    },
+    {
+      "start": 518,
+      "text": "you oh this would be super useful but at"
+    },
+    {
+      "start": 520,
+      "text": "the end you know there's no budget or"
+    },
+    {
+      "start": 522,
+      "text": "they would only be willing to pay a"
+    },
+    {
+      "start": 523,
+      "text": "decent a little amount and how much"
+    },
+    {
+      "start": 525,
+      "text": "they're willing to pay for it is the"
+    },
+    {
+      "start": 527,
+      "text": "only real metric for how useful it is to"
+    },
+    {
+      "start": 529,
+      "text": "them really and so if you're able to"
+    },
+    {
+      "start": 531,
+      "text": "have a call like that then after the"
+    },
+    {
+      "start": 532,
+      "text": "call you're like okay well we talked"
+    },
+    {
+      "start": 533,
+      "text": "about these things and I feel like this"
+    },
+    {
+      "start": 535,
+      "text": "would be really useful to them or it'll"
+    },
+    {
+      "start": 537,
+      "text": "only be kind of useful to them and once"
+    },
+    {
+      "start": 539,
+      "text": "you you've had enough of those calls um"
+    },
+    {
+      "start": 541,
+      "text": "that's like the real signal and as I"
+    },
+    {
+      "start": 542,
+      "text": "mentioned before people were telling us"
+    },
+    {
+      "start": 544,
+      "text": "at the time that customer support agents"
+    },
+    {
+      "start": 546,
+      "text": "customer experience is super crowded"
+    },
+    {
+      "start": 548,
+      "text": "it's like too obvious of an idea but"
+    },
+    {
+      "start": 549,
+      "text": "when we had a lot of these calls that's"
+    },
+    {
+      "start": 550,
+      "text": "what people were saying so it just it"
+    },
+    {
+      "start": 552,
+      "text": "means that there's a need and people"
+    },
+    {
+      "start": 554,
+      "text": "feel like there's Roi there for them to"
+    },
+    {
+      "start": 557,
+      "text": "adopt something uh I think when you're"
+    },
+    {
+      "start": 559,
+      "text": "young the biggest disadvantage is you"
+    },
+    {
+      "start": 561,
+      "text": "just don't know how things work really"
+    },
+    {
+      "start": 563,
+      "text": "um you might feel like you're very smart"
+    },
+    {
+      "start": 564,
+      "text": "or you can work really hard but you"
+    },
+    {
+      "start": 565,
+      "text": "don't really know like how you make"
+    },
+    {
+      "start": 567,
+      "text": "revenue or you don't really make know"
+    },
+    {
+      "start": 568,
+      "text": "how like companies in general so I think"
+    },
+    {
+      "start": 570,
+      "text": "the biggest thing is just uh staying"
+    },
+    {
+      "start": 572,
+      "text": "patient with that and trying to talk to"
+    },
+    {
+      "start": 573,
+      "text": "as many people as possible to get that"
+    },
+    {
+      "start": 575,
+      "text": "intuition the biggest Advantage you have"
+    },
+    {
+      "start": 577,
+      "text": "when you're younger is you just you can"
+    },
+    {
+      "start": 578,
+      "text": "put a lot of hours in and work really"
+    },
+    {
+      "start": 579,
+      "text": "hard I think for me I would just"
+    },
+    {
+      "start": 581,
+      "text": "describe the difference between you know"
+    },
+    {
+      "start": 584,
+      "text": "a lot of successful entrepreneurs that I"
+    },
+    {
+      "start": 586,
+      "text": "know and you know not so successful ones"
+    },
+    {
+      "start": 587,
+      "text": "is mainly just like intensity so I think"
+    },
+    {
+      "start": 590,
+      "text": "a lot of our friends who have built huge"
+    },
+    {
+      "start": 591,
+      "text": "companies or a lot of our advisers or"
+    },
+    {
+      "start": 593,
+      "text": "investors uh they all have intensity I"
+    },
+    {
+      "start": 596,
+      "text": "think it's impossible to build a big"
+    },
+    {
+      "start": 597,
+      "text": "company without intensity and intens"
+    },
+    {
+      "start": 599,
+      "text": "just kind of means like you know you're"
+    },
+    {
+      "start": 600,
+      "text": "always going you're always pushing you"
+    },
+    {
+      "start": 602,
+      "text": "have a very like no excuses attitude"
+    },
+    {
+      "start": 604,
+      "text": "where you just get things done and"
+    },
+    {
+      "start": 606,
+      "text": "that's what we admire about a lot of the"
+    },
+    {
+      "start": 608,
+      "text": "folks who you know help us and that's"
+    },
+    {
+      "start": 610,
+      "text": "what we want to have in our DNA as well"
+    },
+    {
+      "start": 612,
+      "text": "I don't know if we have the best"
+    },
+    {
+      "start": 614,
+      "text": "perspective to give advice on like a"
+    },
+    {
+      "start": 616,
+      "text": "global sort of AI Space level I think"
+    },
+    {
+      "start": 619,
+      "text": "for us the way we think about it is"
+    },
+    {
+      "start": 621,
+      "text": "there's like the core fundamental"
+    },
+    {
+      "start": 623,
+      "text": "players who are building new language"
+    },
+    {
+      "start": 625,
+      "text": "models and building new infrastructure"
+    },
+    {
+      "start": 627,
+      "text": "we of course sit on top of them we we"
+    },
+    {
+      "start": 629,
+      "text": "are an application we interface with our"
+    },
+    {
+      "start": 631,
+      "text": "end customers if you're building in a"
+    },
+    {
+      "start": 633,
+      "text": "space that is deep enough and it's"
+    },
+    {
+      "start": 635,
+      "text": "complex enough to have like a bunch of"
+    },
+    {
+      "start": 636,
+      "text": "features a bunch of product decisions"
+    },
+    {
+      "start": 638,
+      "text": "and a pretty just like a pretty big and"
+    },
+    {
+      "start": 640,
+      "text": "deep product no one really is going to"
+    },
+    {
+      "start": 642,
+      "text": "be able to replace your application"
+    },
+    {
+      "start": 645,
+      "text": "because you know the big players are are"
+    },
+    {
+      "start": 647,
+      "text": "building models right they're they're"
+    },
+    {
+      "start": 648,
+      "text": "not in the business of building like"
+    },
+    {
+      "start": 650,
+      "text": "customer support agents so I think"
+    },
+    {
+      "start": 652,
+      "text": "that's one piece which is what you're"
+    },
+    {
+      "start": 653,
+      "text": "building has to be deep enough and"
+    },
+    {
+      "start": 655,
+      "text": "complex enough for it to like be its own"
+    },
+    {
+      "start": 657,
+      "text": "product and be its own company and I"
+    },
+    {
+      "start": 658,
+      "text": "think there's a big Advantage when you"
+    },
+    {
+      "start": 660,
+      "text": "are the one interfacing with end"
+    },
+    {
+      "start": 661,
+      "text": "customers cuz when you're interfacing"
+    },
+    {
+      "start": 663,
+      "text": "with end customers you're the actual one"
+    },
+    {
+      "start": 665,
+      "text": "that understands their needs and this"
+    },
+    {
+      "start": 666,
+      "text": "goes back to what I've said many times"
+    },
+    {
+      "start": 668,
+      "text": "which is you have to have a good"
+    },
+    {
+      "start": 670,
+      "text": "relationship and a deep relationship"
+    },
+    {
+      "start": 671,
+      "text": "with your customers like really"
+    },
+    {
+      "start": 672,
+      "text": "understand what they need and everything"
+    },
+    {
+      "start": 673,
+      "text": "they say and everything they do gets"
+    },
+    {
+      "start": 675,
+      "text": "baked into your product you're the only"
+    },
+    {
+      "start": 677,
+      "text": "one that has that right because all the"
+    },
+    {
+      "start": 679,
+      "text": "big players and the like Googles of the"
+    },
+    {
+      "start": 681,
+      "text": "world the cloud providers like you're"
+    },
+    {
+      "start": 683,
+      "text": "building on top of them but they're"
+    },
+    {
+      "start": 684,
+      "text": "never going to have that access to the"
+    },
+    {
+      "start": 686,
+      "text": "exact customers I think if you're"
+    },
+    {
+      "start": 688,
+      "text": "building an application that that's"
+    },
+    {
+      "start": 689,
+      "text": "important uh if you're trying to make"
+    },
+    {
+      "start": 691,
+      "text": "sure that you know a big a big player"
+    },
+    {
+      "start": 693,
+      "text": "doesn't come around and just replicate"
+    },
+    {
+      "start": 695,
+      "text": "your product"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 380,
+  "timestamp": "2025-07-24T08:25:15.752Z"
+}

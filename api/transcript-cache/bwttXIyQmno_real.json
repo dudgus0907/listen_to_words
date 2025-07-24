@@ -1,0 +1,1506 @@
+{
+  "success": true,
+  "videoId": "bwttXIyQmno",
+  "videoTitle": "How We 5X Our Revenue While Others Chase AI Updates ｜ Lindy, Flo Crivello",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "If you're not embarrassed by your first"
+    },
+    {
+      "start": 1,
+      "text": "version, you shipped to late in AI. I"
+    },
+    {
+      "start": 4,
+      "text": "would even go as far as to say like if"
+    },
+    {
+      "start": 5,
+      "text": "your first version works, you're not"
+    },
+    {
+      "start": 7,
+      "text": "thinking big enough. You should build"
+    },
+    {
+      "start": 10,
+      "text": "for the future generations of the model"
+    },
+    {
+      "start": 12,
+      "text": "so much and the models are improving so"
+    },
+    {
+      "start": 13,
+      "text": "rapidly that the current generation of"
+    },
+    {
+      "start": 16,
+      "text": "models should barely support your"
+    },
+    {
+      "start": 17,
+      "text": "vision. Just barely. If you spend any"
+    },
+    {
+      "start": 19,
+      "text": "time on Twitter, you feel like there is"
+    },
+    {
+      "start": 21,
+      "text": "so much competition in AI agents. You"
+    },
+    {
+      "start": 23,
+      "text": "feel like there is a new a new company"
+    },
+    {
+      "start": 24,
+      "text": "coming out every week. And yet when"
+    },
+    {
+      "start": 26,
+      "text": "you're out in the market like us, you"
+    },
+    {
+      "start": 27,
+      "text": "don't run into competitors that often."
+    },
+    {
+      "start": 30,
+      "text": "So I sometimes compare it to like"
+    },
+    {
+      "start": 31,
+      "text": "there's like trillions of trillions of"
+    },
+    {
+      "start": 33,
+      "text": "stars in the universe and yet the"
+    },
+    {
+      "start": 35,
+      "text": "universe is 99.9% empty space. It's the"
+    },
+    {
+      "start": 37,
+      "text": "same, right? There's a lot of us"
+    },
+    {
+      "start": 39,
+      "text": "nominally, but somehow it feels empty."
+    },
+    {
+      "start": 40,
+      "text": "And I think because the market is just"
+    },
+    {
+      "start": 42,
+      "text": "so enormously huge. These people have"
+    },
+    {
+      "start": 44,
+      "text": "gone about their entire life hearing"
+    },
+    {
+      "start": 47,
+      "text": "everyone tell them the reason why they"
+    },
+    {
+      "start": 48,
+      "text": "couldn't do things. But actually, if you"
+    },
+    {
+      "start": 50,
+      "text": "do it, you're going to be very, very"
+    },
+    {
+      "start": 52,
+      "text": "successful. You're going to make a lot"
+    },
+    {
+      "start": 53,
+      "text": "of money. you're going to build"
+    },
+    {
+      "start": 54,
+      "text": "something very impactful with the twof"
+    },
+    {
+      "start": 55,
+      "text": "world. It becomes addictive. It's like a"
+    },
+    {
+      "start": 57,
+      "text": "ha like tell me you can't I can't do it."
+    },
+    {
+      "start": 58,
+      "text": "I'll show you I can."
+    },
+    {
+      "start": 64,
+      "text": "I'm Flo Killo. I'm the CEO of Lindy"
+    },
+    {
+      "start": 67,
+      "text": "which is the world's easiest way to"
+    },
+    {
+      "start": 69,
+      "text": "build AI agents with no code. Lindy is a"
+    },
+    {
+      "start": 72,
+      "text": "setup of building blocks that you can"
+    },
+    {
+      "start": 74,
+      "text": "put together to build your own AI agents"
+    },
+    {
+      "start": 77,
+      "text": "and to get them to do anything. One big"
+    },
+    {
+      "start": 78,
+      "text": "use case that we have is a customer"
+    },
+    {
+      "start": 80,
+      "text": "support. Step one, customer support"
+    },
+    {
+      "start": 82,
+      "text": "ticket arrives by email. Step two, you"
+    },
+    {
+      "start": 84,
+      "text": "can have a condition building block that"
+    },
+    {
+      "start": 86,
+      "text": "basically branches up the agent. So you"
+    },
+    {
+      "start": 88,
+      "text": "can be like, hey, is this a customer"
+    },
+    {
+      "start": 90,
+      "text": "asking a question or is this a customer"
+    },
+    {
+      "start": 91,
+      "text": "asking for a refund? Step three, for"
+    },
+    {
+      "start": 93,
+      "text": "example, if they're asking a question,"
+    },
+    {
+      "start": 95,
+      "text": "you can use our knowledge base building"
+    },
+    {
+      "start": 97,
+      "text": "block, your FAQ, your website, a PDF,"
+    },
+    {
+      "start": 99,
+      "text": "your notion, whatever you want. Then you"
+    },
+    {
+      "start": 101,
+      "text": "can ask maybe finally step four to"
+    },
+    {
+      "start": 103,
+      "text": "answer the support ticket based on the"
+    },
+    {
+      "start": 106,
+      "text": "knowledge that it extracted in the"
+    },
+    {
+      "start": 107,
+      "text": "knowledge base. We have quintupled uh in"
+    },
+    {
+      "start": 109,
+      "text": "revenue over the last 6 months and"
+    },
+    {
+      "start": 111,
+      "text": "roughly doubled the size of the team"
+    },
+    {
+      "start": 112,
+      "text": "since then."
+    },
+    {
+      "start": 118,
+      "text": "I think it's Jeff Bezos who said"
+    },
+    {
+      "start": 120,
+      "text": "something like people always comment"
+    },
+    {
+      "start": 122,
+      "text": "about how fast everything is always"
+    },
+    {
+      "start": 123,
+      "text": "changing like he likes to focus on what"
+    },
+    {
+      "start": 125,
+      "text": "doesn't change right in a world thing is"
+    },
+    {
+      "start": 126,
+      "text": "always changing it finds these pillars"
+    },
+    {
+      "start": 128,
+      "text": "of stability to hang on to and I think"
+    },
+    {
+      "start": 130,
+      "text": "what doesn't change is the user and a"
+    },
+    {
+      "start": 132,
+      "text": "lot of preferences of the user will just"
+    },
+    {
+      "start": 134,
+      "text": "immutable that really surprised us. We"
+    },
+    {
+      "start": 137,
+      "text": "released the platform and we started to"
+    },
+    {
+      "start": 139,
+      "text": "have quite a few users ask us for HIPPA"
+    },
+    {
+      "start": 141,
+      "text": "compliance which is this regulatory"
+    },
+    {
+      "start": 143,
+      "text": "standard in the US that allows you to"
+    },
+    {
+      "start": 145,
+      "text": "work with sensitive health information."
+    },
+    {
+      "start": 147,
+      "text": "So people started to be like can you be"
+    },
+    {
+      "start": 149,
+      "text": "HIPPA compliant? Can you be HIPPA"
+    },
+    {
+      "start": 150,
+      "text": "compliant? I want to use legal for"
+    },
+    {
+      "start": 151,
+      "text": "healthcare use cases. And we were like"
+    },
+    {
+      "start": 153,
+      "text": "why like what do what do you want us to"
+    },
+    {
+      "start": 154,
+      "text": "be HIPPA compliant for? And that's when"
+    },
+    {
+      "start": 156,
+      "text": "we we understood the use case which is"
+    },
+    {
+      "start": 158,
+      "text": "turns out it's huge and it's a big"
+    },
+    {
+      "start": 159,
+      "text": "industry today. There's a lot of really"
+    },
+    {
+      "start": 161,
+      "text": "big companies dedicated solely to this"
+    },
+    {
+      "start": 162,
+      "text": "use case where doctors spend a lot of"
+    },
+    {
+      "start": 165,
+      "text": "time taking notes during patient visits."
+    },
+    {
+      "start": 167,
+      "text": "They call it charting because there's"
+    },
+    {
+      "start": 168,
+      "text": "like a very specific standard of notes"
+    },
+    {
+      "start": 170,
+      "text": "that they call soap notes. Some of them"
+    },
+    {
+      "start": 172,
+      "text": "started building Lindy's to help them"
+    },
+    {
+      "start": 174,
+      "text": "build get their soap notes. So they use"
+    },
+    {
+      "start": 176,
+      "text": "Lindy on a mobile phone and they"
+    },
+    {
+      "start": 178,
+      "text": "recorded the conversation using the"
+    },
+    {
+      "start": 179,
+      "text": "record feature that we have and then"
+    },
+    {
+      "start": 181,
+      "text": "they would prompt Lindy to give them the"
+    },
+    {
+      "start": 182,
+      "text": "format of notes. In the case of AI"
+    },
+    {
+      "start": 184,
+      "text": "agents, the user wants something that's"
+    },
+    {
+      "start": 185,
+      "text": "easy to use. We want something that's"
+    },
+    {
+      "start": 187,
+      "text": "effective, something that works,"
+    },
+    {
+      "start": 188,
+      "text": "something that's simple to use,"
+    },
+    {
+      "start": 189,
+      "text": "something that's affordable, something"
+    },
+    {
+      "start": 190,
+      "text": "that's fast. These things are always"
+    },
+    {
+      "start": 192,
+      "text": "going to be the case. And the problem"
+    },
+    {
+      "start": 193,
+      "text": "that the user is trying to solve is is"
+    },
+    {
+      "start": 195,
+      "text": "fairly constant as well."
+    },
+    {
+      "start": 201,
+      "text": "LinkedIn's founder Hoffman, who said"
+    },
+    {
+      "start": 203,
+      "text": "this famous thing, if you're not"
+    },
+    {
+      "start": 204,
+      "text": "embarrassed by your first version, you"
+    },
+    {
+      "start": 206,
+      "text": "shipped too late in AI. I would even go"
+    },
+    {
+      "start": 208,
+      "text": "as far as to say like if your first"
+    },
+    {
+      "start": 210,
+      "text": "version works, you're not thinking big"
+    },
+    {
+      "start": 212,
+      "text": "enough. You should build for the future"
+    },
+    {
+      "start": 214,
+      "text": "generations of the model. so much and"
+    },
+    {
+      "start": 216,
+      "text": "the models are improving so rapidly that"
+    },
+    {
+      "start": 218,
+      "text": "the current generation of models should"
+    },
+    {
+      "start": 220,
+      "text": "barely support your vision just barely."
+    },
+    {
+      "start": 222,
+      "text": "That was very much our case at Lindy"
+    },
+    {
+      "start": 224,
+      "text": "like for a long time the product simply"
+    },
+    {
+      "start": 226,
+      "text": "did not work because the models were not"
+    },
+    {
+      "start": 227,
+      "text": "good enough. The very first version of"
+    },
+    {
+      "start": 230,
+      "text": "the product was just a prompt. So"
+    },
+    {
+      "start": 233,
+      "text": "instead of building this AI agent using"
+    },
+    {
+      "start": 235,
+      "text": "these building blocks that I mentioned,"
+    },
+    {
+      "start": 236,
+      "text": "it was literally just writing text."
+    },
+    {
+      "start": 238,
+      "text": "Because it's just a prompt, you're just"
+    },
+    {
+      "start": 239,
+      "text": "trusting this AI model to basically"
+    },
+    {
+      "start": 242,
+      "text": "follow your instructions. It may not"
+    },
+    {
+      "start": 243,
+      "text": "follow the instructions. You're you're"
+    },
+    {
+      "start": 245,
+      "text": "like praying the LM gods. Even to this"
+    },
+    {
+      "start": 247,
+      "text": "day, even to the frontier models, like"
+    },
+    {
+      "start": 249,
+      "text": "fast forward two or three years, to this"
+    },
+    {
+      "start": 251,
+      "text": "day, Claude Opus 4 or OpenAI, I use the"
+    },
+    {
+      "start": 255,
+      "text": "very most frontier models right now,"
+    },
+    {
+      "start": 257,
+      "text": "even they very often struggle. We are"
+    },
+    {
+      "start": 259,
+      "text": "building for the next generation of"
+    },
+    {
+      "start": 260,
+      "text": "models. The current product doesn't work"
+    },
+    {
+      "start": 262,
+      "text": "and yet we keep building because we"
+    },
+    {
+      "start": 263,
+      "text": "expect that the next generation of"
+    },
+    {
+      "start": 265,
+      "text": "models will make it work. And the way I"
+    },
+    {
+      "start": 267,
+      "text": "characterize it today is it's it's sort"
+    },
+    {
+      "start": 268,
+      "text": "of AI in turn. It can perform simple"
+    },
+    {
+      "start": 271,
+      "text": "enough tasks. Anything that you can"
+    },
+    {
+      "start": 272,
+      "text": "describe in a step-by-step uh fashion is"
+    },
+    {
+      "start": 275,
+      "text": "something that that Lindy can do. Over"
+    },
+    {
+      "start": 276,
+      "text": "the long term, the vision is to build a"
+    },
+    {
+      "start": 278,
+      "text": "full-blown AI employees, an AI agent"
+    },
+    {
+      "start": 280,
+      "text": "that can do anything that the human"
+    },
+    {
+      "start": 282,
+      "text": "employee can do on a computer. So,"
+    },
+    {
+      "start": 284,
+      "text": "that's my piece of advice is like skate"
+    },
+    {
+      "start": 286,
+      "text": "for the puck is going to be in in Steve"
+    },
+    {
+      "start": 287,
+      "text": "Jobs world and skate for where the the"
+    },
+    {
+      "start": 289,
+      "text": "next generation of models is going to be"
+    },
+    {
+      "start": 291,
+      "text": "and build with that in mind."
+    },
+    {
+      "start": 297,
+      "text": "Don't build a mine until you've you've"
+    },
+    {
+      "start": 299,
+      "text": "found gold. I really identified these"
+    },
+    {
+      "start": 301,
+      "text": "two different distinct phases in a"
+    },
+    {
+      "start": 303,
+      "text": "startup life cycle. One, you prospect."
+    },
+    {
+      "start": 305,
+      "text": "You look for the right mining site where"
+    },
+    {
+      "start": 307,
+      "text": "you can find gold. And once you've"
+    },
+    {
+      "start": 309,
+      "text": "struck gold, but only then do you build"
+    },
+    {
+      "start": 311,
+      "text": "a mine. And building a mine is basically"
+    },
+    {
+      "start": 313,
+      "text": "hiring a team and raising money and all"
+    },
+    {
+      "start": 315,
+      "text": "of that stuff. It is really hard to move"
+    },
+    {
+      "start": 317,
+      "text": "a mine. And so if if you build too large"
+    },
+    {
+      "start": 319,
+      "text": "a mine and you haven't found gold, what"
+    },
+    {
+      "start": 320,
+      "text": "you need to do is you need to destroy"
+    },
+    {
+      "start": 321,
+      "text": "your mine. You need to fire your team."
+    },
+    {
+      "start": 325,
+      "text": "So I started at Uber as a software"
+    },
+    {
+      "start": 327,
+      "text": "engineer. I took a six months break"
+    },
+    {
+      "start": 329,
+      "text": "after Uber. So COVID breakout, everybody"
+    },
+    {
+      "start": 331,
+      "text": "was stuck at home. So I was just on my"
+    },
+    {
+      "start": 333,
+      "text": "computer at home and I I read a blog"
+    },
+    {
+      "start": 335,
+      "text": "post by John Palmer called the spatial"
+    },
+    {
+      "start": 337,
+      "text": "interfaces sort of extolling the virtues"
+    },
+    {
+      "start": 339,
+      "text": "of of spatial design. And there's almost"
+    },
+    {
+      "start": 341,
+      "text": "a call to action in that blog post"
+    },
+    {
+      "start": 342,
+      "text": "that's like I wonder what a special zoom"
+    },
+    {
+      "start": 344,
+      "text": "would look like. I was like oh it's a"
+    },
+    {
+      "start": 345,
+      "text": "good question like I started like"
+    },
+    {
+      "start": 346,
+      "text": "hacking it together and in the span of a"
+    },
+    {
+      "start": 348,
+      "text": "couple of hours they just had like a"
+    },
+    {
+      "start": 350,
+      "text": "prototype of like a special zoom. It's"
+    },
+    {
+      "start": 351,
+      "text": "like you see your video in a bubble. You"
+    },
+    {
+      "start": 353,
+      "text": "can move the bubble around on like a two"
+    },
+    {
+      "start": 354,
+      "text": "dimensional canvas and you can only hear"
+    },
+    {
+      "start": 356,
+      "text": "and be held by people around you. And"
+    },
+    {
+      "start": 358,
+      "text": "again, this coincided perfectly with"
+    },
+    {
+      "start": 359,
+      "text": "COVID. And so I started hosting virtual"
+    },
+    {
+      "start": 361,
+      "text": "happy hours in there with my friends"
+    },
+    {
+      "start": 362,
+      "text": "like, \"Hey, join me in that space. I I"
+    },
+    {
+      "start": 363,
+      "text": "built and I sort of got sucked in little"
+    },
+    {
+      "start": 365,
+      "text": "by little. I just kept adding features"
+    },
+    {
+      "start": 367,
+      "text": "and I realized it could be like a"
+    },
+    {
+      "start": 368,
+      "text": "collaboration space. I added a"
+    },
+    {
+      "start": 370,
+      "text": "whiteboard and so forth. And then I"
+    },
+    {
+      "start": 371,
+      "text": "realized like oh my god, like"
+    },
+    {
+      "start": 372,
+      "text": "everybody's working remotely right now."
+    },
+    {
+      "start": 374,
+      "text": "Like you know this could be a virtual"
+    },
+    {
+      "start": 375,
+      "text": "office. Like there is a market here.\" I"
+    },
+    {
+      "start": 377,
+      "text": "released it. It got traction. like bunch"
+    },
+    {
+      "start": 378,
+      "text": "of users started sagging up, raised some"
+    },
+    {
+      "start": 380,
+      "text": "money and then like the company was just"
+    },
+    {
+      "start": 382,
+      "text": "after the races. When COVID subsided and"
+    },
+    {
+      "start": 386,
+      "text": "when people returned to the office, Team"
+    },
+    {
+      "start": 388,
+      "text": "Flow started not going so well and the"
+    },
+    {
+      "start": 390,
+      "text": "growth stalled completely. What finally"
+    },
+    {
+      "start": 393,
+      "text": "convinced me that there was simply no"
+    },
+    {
+      "start": 394,
+      "text": "market anymore was like looking around"
+    },
+    {
+      "start": 396,
+      "text": "and seeing all the competitors of which"
+    },
+    {
+      "start": 398,
+      "text": "we had many like good teams like really"
+    },
+    {
+      "start": 401,
+      "text": "good people and they had raised a lot of"
+    },
+    {
+      "start": 403,
+      "text": "money and none of them were taking off."
+    },
+    {
+      "start": 404,
+      "text": "So that's when I just realized like"
+    },
+    {
+      "start": 406,
+      "text": "there is no there is no market. That's"
+    },
+    {
+      "start": 407,
+      "text": "what I did. It was extremely painful,"
+    },
+    {
+      "start": 408,
+      "text": "but I fired twothirds of the team and it"
+    },
+    {
+      "start": 410,
+      "text": "coincided with the release of the GPT3"
+    },
+    {
+      "start": 413,
+      "text": "API. So, it was before the GPT. It was"
+    },
+    {
+      "start": 416,
+      "text": "like mid 2022 and we built a meeting"
+    },
+    {
+      "start": 419,
+      "text": "recorder in team flow and we were very"
+    },
+    {
+      "start": 421,
+      "text": "interested in the GP3 API and so we were"
+    },
+    {
+      "start": 424,
+      "text": "like what can we do with it? So, we we"
+    },
+    {
+      "start": 426,
+      "text": "did what now a lot of applications do"
+    },
+    {
+      "start": 427,
+      "text": "which is a meeting summarization. And"
+    },
+    {
+      "start": 430,
+      "text": "then sales team came to me and they were"
+    },
+    {
+      "start": 431,
+      "text": "like flow can this thing also update our"
+    },
+    {
+      "start": 433,
+      "text": "sales force after sales calls and we"
+    },
+    {
+      "start": 435,
+      "text": "were like sure I don't see why not. And"
+    },
+    {
+      "start": 436,
+      "text": "so we basically kept building and kept"
+    },
+    {
+      "start": 439,
+      "text": "fleshing out that like Salesforce"
+    },
+    {
+      "start": 440,
+      "text": "integration and then HubSpot integration"
+    },
+    {
+      "start": 442,
+      "text": "and and that's when it clicked for us"
+    },
+    {
+      "start": 444,
+      "text": "like we realized like wait a minute we"
+    },
+    {
+      "start": 446,
+      "text": "can get the LLM to not just generate"
+    },
+    {
+      "start": 448,
+      "text": "text for us but generate API calls like"
+    },
+    {
+      "start": 450,
+      "text": "generate actual actions for us and so"
+    },
+    {
+      "start": 452,
+      "text": "that's when we were like wait a minute"
+    },
+    {
+      "start": 454,
+      "text": "like this can be like an an entire AI"
+    },
+    {
+      "start": 456,
+      "text": "employee basically we got sucked in to"
+    },
+    {
+      "start": 458,
+      "text": "that and again it coincided with first"
+    },
+    {
+      "start": 460,
+      "text": "team flow stalling out we got excited"
+    },
+    {
+      "start": 463,
+      "text": "about this AI thing jp came about in the"
+    },
+    {
+      "start": 465,
+      "text": "middle exploded and like oh my god like"
+    },
+    {
+      "start": 467,
+      "text": "AI is real it's happening and so we just"
+    },
+    {
+      "start": 469,
+      "text": "decided in 2023 to completely fool the"
+    },
+    {
+      "start": 472,
+      "text": "team flow and just focus on the AI"
+    },
+    {
+      "start": 474,
+      "text": "opportunity and and I I did that very"
+    },
+    {
+      "start": 476,
+      "text": "deliberately and it's painful as a"
+    },
+    {
+      "start": 477,
+      "text": "founder you need to deliberately"
+    },
+    {
+      "start": 479,
+      "text": "mismanage your team you need to let them"
+    },
+    {
+      "start": 481,
+      "text": "alone and they're going to hate you like"
+    },
+    {
+      "start": 483,
+      "text": "where is our CEO what's he doing all day"
+    },
+    {
+      "start": 485,
+      "text": "I'm looking for gold like the mind"
+    },
+    {
+      "start": 486,
+      "text": "doesn't matter the mind is so very"
+    },
+    {
+      "start": 488,
+      "text": "mismanaged right now and you guys are"
+    },
+    {
+      "start": 490,
+      "text": "lost at sea and I decide not to care"
+    },
+    {
+      "start": 492,
+      "text": "because I'm going to spend my time"
+    },
+    {
+      "start": 493,
+      "text": "digging for gold um that's that's what I"
+    },
+    {
+      "start": 496,
+      "text": "Don't don't don't build a mind before"
+    },
+    {
+      "start": 497,
+      "text": "you you found the gold."
+    },
+    {
+      "start": 504,
+      "text": "My leadership philosophy is the job of a"
+    },
+    {
+      "start": 506,
+      "text": "CEO is to win. And so that that's my"
+    },
+    {
+      "start": 508,
+      "text": "guiding light. Epistemologically that is"
+    },
+    {
+      "start": 510,
+      "text": "how I will define what is right or"
+    },
+    {
+      "start": 512,
+      "text": "wrong. Perhaps I would compare it to"
+    },
+    {
+      "start": 513,
+      "text": "gardening. You know it starts with like"
+    },
+    {
+      "start": 515,
+      "text": "selecting the seeds. So I really do"
+    },
+    {
+      "start": 516,
+      "text": "believe like half the job is just"
+    },
+    {
+      "start": 518,
+      "text": "recruiting like getting the right people"
+    },
+    {
+      "start": 519,
+      "text": "into the door. Like again I think it's"
+    },
+    {
+      "start": 521,
+      "text": "Kra Boy who said the people you hire is"
+    },
+    {
+      "start": 523,
+      "text": "the company you build. and I'm reminded"
+    },
+    {
+      "start": 524,
+      "text": "every day of how true that is. It's half"
+    },
+    {
+      "start": 526,
+      "text": "the job. So just getting the right"
+    },
+    {
+      "start": 528,
+      "text": "seeds. If you don't have that, the plant"
+    },
+    {
+      "start": 529,
+      "text": "won't be good. And then giving a"
+    },
+    {
+      "start": 531,
+      "text": "direction to the team and to the seed"
+    },
+    {
+      "start": 532,
+      "text": "like that's the sign. You grow in this"
+    },
+    {
+      "start": 534,
+      "text": "direction, you know. So that's that's"
+    },
+    {
+      "start": 536,
+      "text": "the second big part of the job is just"
+    },
+    {
+      "start": 537,
+      "text": "setting the vision and guiding the plant"
+    },
+    {
+      "start": 539,
+      "text": "as it grows, but you can't grow for the"
+    },
+    {
+      "start": 542,
+      "text": "plant. Plant won't grow the way you want"
+    },
+    {
+      "start": 544,
+      "text": "it to. So you've got to fire people."
+    },
+    {
+      "start": 545,
+      "text": "There's this amazing book by Bill Walsh"
+    },
+    {
+      "start": 547,
+      "text": "called The School Takes of Itself,"
+    },
+    {
+      "start": 548,
+      "text": "right? And so the philosophy of Bill"
+    },
+    {
+      "start": 550,
+      "text": "Walsh is like success consists of just"
+    },
+    {
+      "start": 552,
+      "text": "two things. one, identifying the right"
+    },
+    {
+      "start": 554,
+      "text": "inputs that lead to success. And two,"
+    },
+    {
+      "start": 556,
+      "text": "nailing each and every one of these"
+    },
+    {
+      "start": 557,
+      "text": "inputs perfectly, right? If you do these"
+    },
+    {
+      "start": 559,
+      "text": "two things, you will win. If you don't"
+    },
+    {
+      "start": 560,
+      "text": "win, it means you either don't"
+    },
+    {
+      "start": 561,
+      "text": "understand what it takes to win or"
+    },
+    {
+      "start": 562,
+      "text": "you're not doing what it takes to win."
+    },
+    {
+      "start": 564,
+      "text": "That's just one of these two things. And"
+    },
+    {
+      "start": 565,
+      "text": "so, it's actually funny. We on boarded a"
+    },
+    {
+      "start": 567,
+      "text": "new employee this morning. He's the"
+    },
+    {
+      "start": 569,
+      "text": "first one of his function. And I spent"
+    },
+    {
+      "start": 570,
+      "text": "the day yesterday, Sunday, like"
+    },
+    {
+      "start": 572,
+      "text": "literally seven plus hours just writing"
+    },
+    {
+      "start": 574,
+      "text": "an 18 pages long document about this is"
+    },
+    {
+      "start": 577,
+      "text": "precisely exactly we we call it a"
+    },
+    {
+      "start": 579,
+      "text": "standard of excellence. Step by step by"
+    },
+    {
+      "start": 580,
+      "text": "step. This is the job. Again, that's the"
+    },
+    {
+      "start": 583,
+      "text": "plan. It's like if you if you see them"
+    },
+    {
+      "start": 584,
+      "text": "doing something wrong, it's like no."
+    },
+    {
+      "start": 585,
+      "text": "It's like your guard is like, \"No, this"
+    },
+    {
+      "start": 586,
+      "text": "is not what you this is not what this is"
+    },
+    {
+      "start": 588,
+      "text": "what you do.\" And you just keep putting"
+    },
+    {
+      "start": 589,
+      "text": "these guardrails and you refer back to"
+    },
+    {
+      "start": 590,
+      "text": "the dock that you wrote. Absolutely, you"
+    },
+    {
+      "start": 592,
+      "text": "should micromanage. The reason why you"
+    },
+    {
+      "start": 593,
+      "text": "are in a position of of of authority is"
+    },
+    {
+      "start": 595,
+      "text": "because someone with capital most likely"
+    },
+    {
+      "start": 598,
+      "text": "trusted you and your taste. So you you"
+    },
+    {
+      "start": 600,
+      "text": "are entitled, you are in fact obligated"
+    },
+    {
+      "start": 602,
+      "text": "to micromanage. That that's why you're"
+    },
+    {
+      "start": 603,
+      "text": "in your seat. You exercise your taste."
+    },
+    {
+      "start": 604,
+      "text": "You exercise your judgment. You exercise"
+    },
+    {
+      "start": 606,
+      "text": "your your knowledge about your business,"
+    },
+    {
+      "start": 607,
+      "text": "your industry, your user, your product,"
+    },
+    {
+      "start": 609,
+      "text": "and you guide the plant. That's my"
+    },
+    {
+      "start": 610,
+      "text": "philosophy."
+    },
+    {
+      "start": 617,
+      "text": "I view building a company as a way to"
+    },
+    {
+      "start": 620,
+      "text": "bring an ambitious bold vision to"
+    },
+    {
+      "start": 623,
+      "text": "reality. I don't think the Lin startup"
+    },
+    {
+      "start": 626,
+      "text": "model leads you there. I'm a huge fan of"
+    },
+    {
+      "start": 629,
+      "text": "Peter Thiel's thinking on this. He calls"
+    },
+    {
+      "start": 631,
+      "text": "it definite optimism. It's like a 2x2."
+    },
+    {
+      "start": 633,
+      "text": "You've got a definite and indefinite and"
+    },
+    {
+      "start": 634,
+      "text": "optimism and pessimism. And so definite"
+    },
+    {
+      "start": 636,
+      "text": "or indefinite is like do you know or do"
+    },
+    {
+      "start": 638,
+      "text": "you not know? There's a lot of"
+    },
+    {
+      "start": 639,
+      "text": "indefinite optimists in tech. I view"
+    },
+    {
+      "start": 642,
+      "text": "crypto as the the eternal indefinite"
+    },
+    {
+      "start": 644,
+      "text": "optimist industry. It's like we don't"
+    },
+    {
+      "start": 646,
+      "text": "know what's going to happen. We don't"
+    },
+    {
+      "start": 647,
+      "text": "know why things are going to go well,"
+    },
+    {
+      "start": 648,
+      "text": "but wag me, we're all going to make it."
+    },
+    {
+      "start": 650,
+      "text": "You know, everything's going to go so"
+    },
+    {
+      "start": 651,
+      "text": "well, but we we can't exactly tell you"
+    },
+    {
+      "start": 653,
+      "text": "half. Instead, Peter Tiel pushes for"
+    },
+    {
+      "start": 655,
+      "text": "this vision of a definite optimism."
+    },
+    {
+      "start": 657,
+      "text": "Like, you must have a crisp opinion, a"
+    },
+    {
+      "start": 660,
+      "text": "well-defined opinion of what the world"
+    },
+    {
+      "start": 662,
+      "text": "will look like in the future, what it"
+    },
+    {
+      "start": 663,
+      "text": "should look like, what it must look"
+    },
+    {
+      "start": 665,
+      "text": "like, and bring that vision to life."
+    },
+    {
+      "start": 667,
+      "text": "What percent of your time did you spend"
+    },
+    {
+      "start": 668,
+      "text": "in 2022 speaking to an AI? It was 0%."
+    },
+    {
+      "start": 671,
+      "text": "Today in 2025, it's it's a lot more than"
+    },
+    {
+      "start": 673,
+      "text": "that. And I think the trend is going to"
+    },
+    {
+      "start": 674,
+      "text": "continue and continue and continue. AI"
+    },
+    {
+      "start": 676,
+      "text": "agents are basically in the short term"
+    },
+    {
+      "start": 678,
+      "text": "going to turn us all into managers."
+    },
+    {
+      "start": 680,
+      "text": "Instead of doing individual contributor"
+    },
+    {
+      "start": 682,
+      "text": "work, you're going to manage a swoop of"
+    },
+    {
+      "start": 684,
+      "text": "AI agents doing your work. I sometimes"
+    },
+    {
+      "start": 687,
+      "text": "describe it as like imagine if any"
+    },
+    {
+      "start": 690,
+      "text": "random 25year-old could have the same"
+    },
+    {
+      "start": 692,
+      "text": "impact in the world as Google. And so I"
+    },
+    {
+      "start": 695,
+      "text": "I think that AI agents are going to do"
+    },
+    {
+      "start": 697,
+      "text": "to the world of business at large what"
+    },
+    {
+      "start": 699,
+      "text": "the internet has done to media. It's"
+    },
+    {
+      "start": 701,
+      "text": "going to be a very powerful leveling of"
+    },
+    {
+      "start": 704,
+      "text": "the playing field. It's going to unlock"
+    },
+    {
+      "start": 706,
+      "text": "opportunity to for everyone regardless"
+    },
+    {
+      "start": 708,
+      "text": "of their network or their capital or"
+    },
+    {
+      "start": 710,
+      "text": "their access or their geography. It's"
+    },
+    {
+      "start": 713,
+      "text": "just really going to come down to their"
+    },
+    {
+      "start": 715,
+      "text": "vision and the ideas they have and their"
+    },
+    {
+      "start": 717,
+      "text": "ability to leverage AI agents."
+    }
+  ],
+  "method": "yt-dlp-auto",
+  "segments": 374,
+  "timestamp": "2025-07-24T08:01:29.688Z"
+}

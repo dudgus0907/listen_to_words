@@ -1,0 +1,662 @@
+{
+  "success": true,
+  "videoId": "rQ3luEIcKes",
+  "videoTitle": "I Built a General AI Agent After School at Age 13 ｜ Flowe AI, Michael Goldstein",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "The school doesn't like AI. They don't"
+    },
+    {
+      "start": 1,
+      "text": "really allow it technically. But what I"
+    },
+    {
+      "start": 4,
+      "text": "think is over the past few years,"
+    },
+    {
+      "start": 6,
+      "text": "there's been the rise of AI products."
+    },
+    {
+      "start": 8,
+      "text": "Naturally, over the past couple years,"
+    },
+    {
+      "start": 10,
+      "text": "we all use AI on a daily basis at school"
+    },
+    {
+      "start": 12,
+      "text": "like notes sometimes or for like general"
+    },
+    {
+      "start": 15,
+      "text": "answers. And I think the rise of AI like"
+    },
+    {
+      "start": 18,
+      "text": "in schools like uh try CBT and those"
+    },
+    {
+      "start": 21,
+      "text": "types of things. I think that also kind"
+    },
+    {
+      "start": 23,
+      "text": "of inspired me to do flow because it"
+    },
+    {
+      "start": 25,
+      "text": "opened up a new bridge. My name is"
+    },
+    {
+      "start": 28,
+      "text": "Michael and I'm the founder of Flow AI."
+    },
+    {
+      "start": 31,
+      "text": "Over the past few months, I've been"
+    },
+    {
+      "start": 33,
+      "text": "building something by Lucer, a general"
+    },
+    {
+      "start": 35,
+      "text": "AI agent that actually gets things done."
+    },
+    {
+      "start": 38,
+      "text": "From booking flights to cancel"
+    },
+    {
+      "start": 39,
+      "text": "subscriptions to making presentations,"
+    },
+    {
+      "start": 42,
+      "text": "Flo can do it all. This is one step"
+    },
+    {
+      "start": 44,
+      "text": "closer to AGI and a glimpse of the"
+    },
+    {
+      "start": 47,
+      "text": "future."
+    },
+    {
+      "start": 54,
+      "text": "Um, my name is Michael Goldstein. I'm 13"
+    },
+    {
+      "start": 57,
+      "text": "years old. Uh I live in Toronto, Canada."
+    },
+    {
+      "start": 60,
+      "text": "I'm the founder of Flow AI. Flowey is a"
+    },
+    {
+      "start": 62,
+      "text": "general AI agent. So it's an agent that"
+    },
+    {
+      "start": 64,
+      "text": "can do a wide variety of tasks, not only"
+    },
+    {
+      "start": 67,
+      "text": "one certain thing. So a couple months"
+    },
+    {
+      "start": 68,
+      "text": "ago, I had the idea and I reached out to"
+    },
+    {
+      "start": 71,
+      "text": "multiple developers to ask if they"
+    },
+    {
+      "start": 72,
+      "text": "wanted to help. And none of them really"
+    },
+    {
+      "start": 74,
+      "text": "said yes. I don't know, probably because"
+    },
+    {
+      "start": 76,
+      "text": "my age and a bunch of other things. So I"
+    },
+    {
+      "start": 78,
+      "text": "started building it myself using like a"
+    },
+    {
+      "start": 80,
+      "text": "bunch of AI tools to help. Um so I also"
+    },
+    {
+      "start": 82,
+      "text": "I do coding lessons now every week so I"
+    },
+    {
+      "start": 84,
+      "text": "can in the future do it myself. No help"
+    },
+    {
+      "start": 86,
+      "text": "from anyone right now. I'm actually like"
+    },
+    {
+      "start": 88,
+      "text": "a paying user. Someone else said I"
+    },
+    {
+      "start": 90,
+      "text": "should do normal a normal kid life. But"
+    },
+    {
+      "start": 92,
+      "text": "what I think is just build build"
+    },
+    {
+      "start": 107,
+      "text": "like I have a group of friends right"
+    },
+    {
+      "start": 109,
+      "text": "like our little bubble and we all are"
+    },
+    {
+      "start": 111,
+      "text": "kind of have a similar spirit for"
+    },
+    {
+      "start": 114,
+      "text": "entrepreneur. So, a project we did and"
+    },
+    {
+      "start": 116,
+      "text": "still do more of is weather balloon"
+    },
+    {
+      "start": 118,
+      "text": "launches. Um, and those are really big"
+    },
+    {
+      "start": 120,
+      "text": "balloons that go to 100,000 ft and then"
+    },
+    {
+      "start": 123,
+      "text": "come back down. And the first one was on"
+    },
+    {
+      "start": 126,
+      "text": "CNN. Yeah. For the solar eclipse, we did"
+    },
+    {
+      "start": 128,
+      "text": "it during there. And I think it's fun to"
+    },
+    {
+      "start": 130,
+      "text": "see it actually working. So, my friends,"
+    },
+    {
+      "start": 132,
+      "text": "they they they know I have this a"
+    },
+    {
+      "start": 135,
+      "text": "spirit. So, they weren't that surprised."
+    },
+    {
+      "start": 138,
+      "text": "And I think my family, I think it's the"
+    },
+    {
+      "start": 140,
+      "text": "same. My family knows that I have this"
+    },
+    {
+      "start": 143,
+      "text": "type of spirit. Uh so I think um they"
+    },
+    {
+      "start": 147,
+      "text": "weren't surprised also when I launched"
+    },
+    {
+      "start": 148,
+      "text": "it. They were very excited and happy and"
+    },
+    {
+      "start": 151,
+      "text": "I don't know if they expected it to work"
+    },
+    {
+      "start": 153,
+      "text": "also."
+    },
+    {
+      "start": 155,
+      "text": "I had extracted all the emails of users"
+    },
+    {
+      "start": 158,
+      "text": "from Subbase and I sent an email to"
+    },
+    {
+      "start": 161,
+      "text": "everyone giving them everyone a discount"
+    },
+    {
+      "start": 163,
+      "text": "and I woke up and I got a response from"
+    },
+    {
+      "start": 165,
+      "text": "one person who was saying the code"
+    },
+    {
+      "start": 167,
+      "text": "wasn't working."
+    },
+    {
+      "start": 169,
+      "text": "Um, so I had to fix that glitch and I"
+    },
+    {
+      "start": 172,
+      "text": "responded and then I got the message"
+    },
+    {
+      "start": 174,
+      "text": "from Stripe. I got my first sale. It"
+    },
+    {
+      "start": 176,
+      "text": "happened when I was walking downstairs."
+    },
+    {
+      "start": 180,
+      "text": "Um, so I was very excited. I told all my"
+    },
+    {
+      "start": 182,
+      "text": "friends and family and parents. So I ran"
+    },
+    {
+      "start": 185,
+      "text": "into my parents room. I was like, \"Ah, I"
+    },
+    {
+      "start": 187,
+      "text": "made it. Yay.\""
+    },
+    {
+      "start": 194,
+      "text": "So uh, my experience has been good, I"
+    },
+    {
+      "start": 198,
+      "text": "guess. Um, of course there's advantages"
+    },
+    {
+      "start": 200,
+      "text": "like when I when I posted the launch"
+    },
+    {
+      "start": 202,
+      "text": "video that did pretty well and I bet my"
+    },
+    {
+      "start": 205,
+      "text": "age was a factor of that. A lot of"
+    },
+    {
+      "start": 208,
+      "text": "people are also more curious because I'm"
+    },
+    {
+      "start": 210,
+      "text": "younger. Uh, so I think it opens up a"
+    },
+    {
+      "start": 212,
+      "text": "lot more opportunities like this"
+    },
+    {
+      "start": 214,
+      "text": "interview for example. I don't know if"
+    },
+    {
+      "start": 215,
+      "text": "it would have happened if I was much"
+    },
+    {
+      "start": 217,
+      "text": "older. Um, so a lot of opportunities"
+    },
+    {
+      "start": 220,
+      "text": "open up when I'm younger. Uh, like"
+    },
+    {
+      "start": 222,
+      "text": "Founders Inc. also that's a very big"
+    },
+    {
+      "start": 225,
+      "text": "accomplishment also. Um I'm the youngest"
+    },
+    {
+      "start": 228,
+      "text": "accepted there. Also I was invited to a"
+    },
+    {
+      "start": 231,
+      "text": "summit in Paris, one of the top AI"
+    },
+    {
+      "start": 233,
+      "text": "summits. So that was that was something"
+    },
+    {
+      "start": 236,
+      "text": "that happened from the interview. And"
+    },
+    {
+      "start": 238,
+      "text": "the disadvantages are probably"
+    },
+    {
+      "start": 241,
+      "text": "um it's hard to get people to trust you"
+    },
+    {
+      "start": 243,
+      "text": "also. So on top of the advantages that"
+    },
+    {
+      "start": 247,
+      "text": "some people don't really trust me, for"
+    },
+    {
+      "start": 248,
+      "text": "example. And I guess like I mentioned"
+    },
+    {
+      "start": 250,
+      "text": "earlier, uh recruiting is really hard um"
+    },
+    {
+      "start": 254,
+      "text": "when you're much younger because I have"
+    },
+    {
+      "start": 256,
+      "text": "no capital, right? I guess my birthday"
+    },
+    {
+      "start": 259,
+      "text": "money, right? So I think that was the"
+    },
+    {
+      "start": 261,
+      "text": "hardest part. It took a couple of months"
+    },
+    {
+      "start": 263,
+      "text": "before I could recruit two developers"
+    },
+    {
+      "start": 264,
+      "text": "and one guy who does who helps with"
+    },
+    {
+      "start": 266,
+      "text": "strategy. They actually reached out to"
+    },
+    {
+      "start": 268,
+      "text": "me first, all three of them. Uh they all"
+    },
+    {
+      "start": 271,
+      "text": "reached out saying they're interested"
+    },
+    {
+      "start": 272,
+      "text": "and they would love to help. uh right I"
+    },
+    {
+      "start": 274,
+      "text": "reached out to a lot of adults and"
+    },
+    {
+      "start": 276,
+      "text": "mentors and all types of people to help"
+    },
+    {
+      "start": 278,
+      "text": "and a lot of them helped. So I think I"
+    },
+    {
+      "start": 281,
+      "text": "have to give back to everyone not just"
+    },
+    {
+      "start": 283,
+      "text": "them but everyone."
+    },
+    {
+      "start": 289,
+      "text": "We're all interested in AI. Uh we all"
+    },
+    {
+      "start": 292,
+      "text": "use AI on a daily basis at school. Uh I"
+    },
+    {
+      "start": 294,
+      "text": "think not only my friends I think the"
+    },
+    {
+      "start": 296,
+      "text": "whole everyone at school all the kids"
+    },
+    {
+      "start": 297,
+      "text": "now use AI. So I think we're all"
+    },
+    {
+      "start": 300,
+      "text": "interested in in it in terms of my"
+    },
+    {
+      "start": 302,
+      "text": "friends and the school. There's a lot of"
+    },
+    {
+      "start": 304,
+      "text": "AI tools available but I really think we"
+    },
+    {
+      "start": 305,
+      "text": "only use one main one which is CHBT. I"
+    },
+    {
+      "start": 308,
+      "text": "think a lot of kids at school don't know"
+    },
+    {
+      "start": 310,
+      "text": "about the other tools and I think you"
+    },
+    {
+      "start": 312,
+      "text": "have to be more involved in AI to know"
+    },
+    {
+      "start": 313,
+      "text": "the other tools. So yeah I think most of"
+    },
+    {
+      "start": 316,
+      "text": "the school or the kids or my friends are"
+    },
+    {
+      "start": 319,
+      "text": "using child only which is unfortunate."
+    },
+    {
+      "start": 321,
+      "text": "Um only recently really is when I really"
+    },
+    {
+      "start": 324,
+      "text": "learned in depth about AI and how it"
+    },
+    {
+      "start": 326,
+      "text": "works and for the idea of flow it came"
+    },
+    {
+      "start": 329,
+      "text": "when I when I realized that there's a"
+    },
+    {
+      "start": 330,
+      "text": "big gap and that there was something"
+    },
+    {
+      "start": 332,
+      "text": "that wasn't being done which is"
+    },
+    {
+      "start": 334,
+      "text": "automated tasks. Uh I think it it can"
+    },
+    {
+      "start": 337,
+      "text": "really help humans with efficiency. uh"
+    },
+    {
+      "start": 340,
+      "text": "like my parents for example, we all"
+    },
+    {
+      "start": 341,
+      "text": "waste time filling out forms. But I"
+    },
+    {
+      "start": 343,
+      "text": "think that's the biggest one because"
+    },
+    {
+      "start": 345,
+      "text": "there's not many platforms that are"
+    },
+    {
+      "start": 346,
+      "text": "doing that like claw doesn't do that or"
+    },
+    {
+      "start": 350,
+      "text": "open AAI. I think that's the biggest gap"
+    },
+    {
+      "start": 352,
+      "text": "that there is. It's the browser"
+    },
+    {
+      "start": 354,
+      "text": "automation. So I think in general by"
+    },
+    {
+      "start": 356,
+      "text": "next year I hope to have many more"
+    },
+    {
+      "start": 358,
+      "text": "features in it and I hope for it to be"
+    },
+    {
+      "start": 360,
+      "text": "more smooth of course because there's"
+    },
+    {
+      "start": 362,
+      "text": "many many bugs still which is uh going"
+    },
+    {
+      "start": 366,
+      "text": "to be fixed over time and that I think"
+    },
+    {
+      "start": 368,
+      "text": "in terms of more of the money type. I"
+    },
+    {
+      "start": 370,
+      "text": "set a goal on Twitter for $10,000 in"
+    },
+    {
+      "start": 373,
+      "text": "recur monthly recurring revenue and it"
+    },
+    {
+      "start": 376,
+      "text": "might take plenty of years. I'm not sure"
+    },
+    {
+      "start": 378,
+      "text": "how long it will take but I hope in a"
+    },
+    {
+      "start": 380,
+      "text": "year we can get somewhere close to that."
+    },
+    {
+      "start": 382,
+      "text": "So I hope Floy is able to you know"
+    },
+    {
+      "start": 385,
+      "text": "become part of everyone's life almost"
+    },
+    {
+      "start": 388,
+      "text": "right um I think the goal that you'll be"
+    },
+    {
+      "start": 391,
+      "text": "able to do that can be automated right"
+    },
+    {
+      "start": 395,
+      "text": "we get to see how AI evolves and that"
+    },
+    {
+      "start": 398,
+      "text": "kind of stuff I think the longterm goal"
+    },
+    {
+      "start": 400,
+      "text": "for me is in some way to help people you"
+    },
+    {
+      "start": 405,
+      "text": "know give back Almost."
+    }
+  ],
+  "method": "yt-dlp-auto",
+  "segments": 163,
+  "timestamp": "2025-07-24T07:59:57.275Z"
+}

@@ -1,0 +1,1790 @@
+{
+  "success": true,
+  "videoId": "dWkt0oa4Uxk",
+  "videoTitle": "AI for Car Rentals？! Prove It! ｜ Pitch.Tech EP 2",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "Right. That doesn't sound like an AI"
+    },
+    {
+      "start": 1,
+      "text": "recommendation, but because they told us"
+    },
+    {
+      "start": 5,
+      "text": "they all the pitches talked something"
+    },
+    {
+      "start": 7,
+      "text": "about AI. To be honest, like many of"
+    },
+    {
+      "start": 9,
+      "text": "these these are more of like a buzz"
+    },
+    {
+      "start": 11,
+      "text": "word. They are using it more like a buzz"
+    },
+    {
+      "start": 12,
+      "text": "word. Hi, I'm John Willie. Uh I'm a"
+    },
+    {
+      "start": 15,
+      "text": "three-time founder. I graduated from MIT"
+    },
+    {
+      "start": 18,
+      "text": "and from Stanford. I I won the best"
+    },
+    {
+      "start": 19,
+      "text": "thesis award at Stanford. Had multiple"
+    },
+    {
+      "start": 22,
+      "text": "exits so far. also started Inception"
+    },
+    {
+      "start": 24,
+      "text": "Studio which is now the top accelerator"
+    },
+    {
+      "start": 26,
+      "text": "program for early stage AI founders here"
+    },
+    {
+      "start": 29,
+      "text": "in Silicon Valley. You know I've I've"
+    },
+    {
+      "start": 31,
+      "text": "been an engineer since I was 5 years old"
+    },
+    {
+      "start": 33,
+      "text": "when I start started programming. I won"
+    },
+    {
+      "start": 35,
+      "text": "the USA computer olympiad as one of the"
+    },
+    {
+      "start": 37,
+      "text": "top 15 programmers in the US. As an"
+    },
+    {
+      "start": 39,
+      "text": "investor I'm looking for venture scale"
+    },
+    {
+      "start": 41,
+      "text": "opportunities where I can put in a"
+    },
+    {
+      "start": 42,
+      "text": "million dollars and then I have an"
+    },
+    {
+      "start": 43,
+      "text": "opportunity for at least 100x return you"
+    },
+    {
+      "start": 46,
+      "text": "know coming back to me within you know 5"
+    },
+    {
+      "start": 48,
+      "text": "to 7 to 10 years. Pitch.te Tech is where"
+    },
+    {
+      "start": 51,
+      "text": "bold startups on tech domains get"
+    },
+    {
+      "start": 53,
+      "text": "game-changing insights from top VCs.te"
+    },
+    {
+      "start": 55,
+      "text": "domain instantly signals you're all"
+    },
+    {
+      "start": 57,
+      "text": "about cutting edge tech and innovation."
+    },
+    {
+      "start": 59,
+      "text": "Building a tech startup build it on"
+    },
+    {
+      "start": 62,
+      "text": "tech."
+    },
+    {
+      "start": 65,
+      "text": "So we are raising around our preed round"
+    },
+    {
+      "start": 67,
+      "text": "of 1.5 million. The goal of today is to"
+    },
+    {
+      "start": 70,
+      "text": "meet investors and potentially close our"
+    },
+    {
+      "start": 73,
+      "text": "round. Let's go. My name is Laurana. Uh"
+    },
+    {
+      "start": 76,
+      "text": "I'm a co-founder and the CEO of Rexalto."
+    },
+    {
+      "start": 78,
+      "text": "We have developed and introduced an AI"
+    },
+    {
+      "start": 80,
+      "text": "dynamic pricing engine. We previously"
+    },
+    {
+      "start": 82,
+      "text": "co-ounded one of the largest European"
+    },
+    {
+      "start": 84,
+      "text": "car sharing companies. Company generated"
+    },
+    {
+      "start": 86,
+      "text": "75 million uh annual revenue and what's"
+    },
+    {
+      "start": 90,
+      "text": "more important it was cash flow"
+    },
+    {
+      "start": 91,
+      "text": "positive. What's happening now in the"
+    },
+    {
+      "start": 93,
+      "text": "car rental industry? Increasing prices"
+    },
+    {
+      "start": 95,
+      "text": "of uh vehicles, uncertain residual"
+    },
+    {
+      "start": 98,
+      "text": "values, and growing percentage of"
+    },
+    {
+      "start": 99,
+      "text": "electric vehicles are forcing car rental"
+    },
+    {
+      "start": 102,
+      "text": "and mobility companies to put more focus"
+    },
+    {
+      "start": 104,
+      "text": "on not just reselling cars as they used"
+    },
+    {
+      "start": 106,
+      "text": "to do before, but actually making sure"
+    },
+    {
+      "start": 108,
+      "text": "that they do money on their"
+    },
+    {
+      "start": 110,
+      "text": "cooperations. On top of that, for"
+    },
+    {
+      "start": 112,
+      "text": "mobility companies especially, they"
+    },
+    {
+      "start": 114,
+      "text": "strive to increase their utilization to"
+    },
+    {
+      "start": 117,
+      "text": "improve uh fleet distribution and all of"
+    },
+    {
+      "start": 120,
+      "text": "that can be done with the correct"
+    },
+    {
+      "start": 122,
+      "text": "pricing. Taking all of that into"
+    },
+    {
+      "start": 124,
+      "text": "account, we have engineered an AI"
+    },
+    {
+      "start": 126,
+      "text": "dynamic pricing engine that basically"
+    },
+    {
+      "start": 128,
+      "text": "sets the right price at any given time."
+    },
+    {
+      "start": 130,
+      "text": "First class of economics, bringing"
+    },
+    {
+      "start": 132,
+      "text": "supply and demand into equilibrium. So"
+    },
+    {
+      "start": 134,
+      "text": "the way it works is we look into the"
+    },
+    {
+      "start": 137,
+      "text": "company's historical data, market"
+    },
+    {
+      "start": 139,
+      "text": "historical data, competitors prices, and"
+    },
+    {
+      "start": 142,
+      "text": "many other factors that help us forecast"
+    },
+    {
+      "start": 144,
+      "text": "demand. Things like weather forecast,"
+    },
+    {
+      "start": 146,
+      "text": "flight information, booking information."
+    },
+    {
+      "start": 148,
+      "text": "We not only set the price for the for"
+    },
+    {
+      "start": 150,
+      "text": "our customers but we also push it back"
+    },
+    {
+      "start": 153,
+      "text": "either into their fleet management"
+    },
+    {
+      "start": 155,
+      "text": "system or to the OTAAS the aggregators"
+    },
+    {
+      "start": 157,
+      "text": "where they get rents from. We currently"
+    },
+    {
+      "start": 159,
+      "text": "focus on the North American, Europe and"
+    },
+    {
+      "start": 162,
+      "text": "the Middle East. The segments that we"
+    },
+    {
+      "start": 164,
+      "text": "look at and work with are either small"
+    },
+    {
+      "start": 166,
+      "text": "companies or large enterprise companies."
+    },
+    {
+      "start": 168,
+      "text": "What differentiates us is that we uh"
+    },
+    {
+      "start": 171,
+      "text": "work not only with car rental industry"
+    },
+    {
+      "start": 173,
+      "text": "but with mobility industry and of the"
+    },
+    {
+      "start": 176,
+      "text": "technology because for mobility"
+    },
+    {
+      "start": 177,
+      "text": "companies we use up to 500 data points"
+    },
+    {
+      "start": 180,
+      "text": "for car rental companies it's about 20"
+    },
+    {
+      "start": 183,
+      "text": "30 maybe 40. We offer three pricing as a"
+    },
+    {
+      "start": 185,
+      "text": "service for our traction. We currently"
+    },
+    {
+      "start": 187,
+      "text": "have uh 20 customers paying customers"
+    },
+    {
+      "start": 190,
+      "text": "plus piloting customers. We have"
+    },
+    {
+      "start": 192,
+      "text": "integrated six uh reseller solution. We"
+    },
+    {
+      "start": 195,
+      "text": "uh generated about 200,000 uh annual"
+    },
+    {
+      "start": 199,
+      "text": "revenue. Uh this year we are raising a"
+    },
+    {
+      "start": 201,
+      "text": "round of 1.5 million. We closed 950."
+    },
+    {
+      "start": 205,
+      "text": "We're now closing the remaining 550."
+    },
+    {
+      "start": 208,
+      "text": "Thank you very much. You mentioned kind"
+    },
+    {
+      "start": 211,
+      "text": "of in the presentation. Okay. Like you"
+    },
+    {
+      "start": 212,
+      "text": "have uh some of your customers are using"
+    },
+    {
+      "start": 214,
+      "text": "this for kind of rental car rental car"
+    },
+    {
+      "start": 217,
+      "text": "rates. Are there other kind of things in"
+    },
+    {
+      "start": 218,
+      "text": "the automotive space that you're using"
+    },
+    {
+      "start": 220,
+      "text": "for that dynamic pricing today or is it"
+    },
+    {
+      "start": 222,
+      "text": "a lot of companies in mobility are using"
+    },
+    {
+      "start": 225,
+      "text": "that. Look at Uber, Lift, other mobility"
+    },
+    {
+      "start": 227,
+      "text": "companies. It depends because you have a"
+    },
+    {
+      "start": 229,
+      "text": "lot of smaller players players for"
+    },
+    {
+      "start": 231,
+      "text": "micromobility for instance and they use"
+    },
+    {
+      "start": 233,
+      "text": "third party solution. They don't have"
+    },
+    {
+      "start": 235,
+      "text": "their proprietary software and this is"
+    },
+    {
+      "start": 237,
+      "text": "for us they are resellers because we"
+    },
+    {
+      "start": 239,
+      "text": "integrate into their platform and they"
+    },
+    {
+      "start": 240,
+      "text": "sell us to their uh to their customers."
+    },
+    {
+      "start": 243,
+      "text": "you know, for any tech enabled platform."
+    },
+    {
+      "start": 244,
+      "text": "I mean, I imagine like they're already"
+    },
+    {
+      "start": 246,
+      "text": "doing something like this or they're"
+    },
+    {
+      "start": 248,
+      "text": "doing some version of this where they"
+    },
+    {
+      "start": 250,
+      "text": "have they're going to have some pricing"
+    },
+    {
+      "start": 251,
+      "text": "engine. They're going to be able to like"
+    },
+    {
+      "start": 253,
+      "text": "determine prices like this is kind of a"
+    },
+    {
+      "start": 254,
+      "text": "common thing. I mean, you mentioned Uber"
+    },
+    {
+      "start": 255,
+      "text": "and Lift, they obviously do all of that,"
+    },
+    {
+      "start": 257,
+      "text": "but then now I mean everything from"
+    },
+    {
+      "start": 260,
+      "text": "concert tickets to, you know, things"
+    },
+    {
+      "start": 262,
+      "text": "anything e-commerce kind of often doing"
+    },
+    {
+      "start": 264,
+      "text": "this type of this type of dynamic"
+    },
+    {
+      "start": 266,
+      "text": "pricing, this might be like core to"
+    },
+    {
+      "start": 268,
+      "text": "their business, very important. So, like"
+    },
+    {
+      "start": 270,
+      "text": "they may want to like develop that"
+    },
+    {
+      "start": 271,
+      "text": "themselves. they have all the data about"
+    },
+    {
+      "start": 273,
+      "text": "it like what type of customer would use"
+    },
+    {
+      "start": 275,
+      "text": "like a service like yours uh versus like"
+    },
+    {
+      "start": 277,
+      "text": "hey we're going to de we either develop"
+    },
+    {
+      "start": 279,
+      "text": "this in our own inhouse or like use some"
+    },
+    {
+      "start": 282,
+      "text": "other very good good question first I'll"
+    },
+    {
+      "start": 284,
+      "text": "answer who are the companies that"
+    },
+    {
+      "start": 286,
+      "text": "develop their own like I talked to head"
+    },
+    {
+      "start": 288,
+      "text": "of revenue management of get get around"
+    },
+    {
+      "start": 291,
+      "text": "they spent a lot of money and many years"
+    },
+    {
+      "start": 294,
+      "text": "developing the dynamic pricing and it"
+    },
+    {
+      "start": 296,
+      "text": "didn't work it's not that simple right"
+    },
+    {
+      "start": 299,
+      "text": "because you need to know how to do it"
+    },
+    {
+      "start": 300,
+      "text": "not to reduce your re revenue even by 1%"
+    },
+    {
+      "start": 304,
+      "text": "right because if you do that you're"
+    },
+    {
+      "start": 305,
+      "text": "fired. So they said we cannot just use"
+    },
+    {
+      "start": 308,
+      "text": "your service software because we need to"
+    },
+    {
+      "start": 310,
+      "text": "make sure our work so we'll keep on"
+    },
+    {
+      "start": 312,
+      "text": "advancing our technology and use it at"
+    },
+    {
+      "start": 314,
+      "text": "the end of the day. Who answering your"
+    },
+    {
+      "start": 316,
+      "text": "question who are our customers? We have"
+    },
+    {
+      "start": 318,
+      "text": "either very small companies that have 50"
+    },
+    {
+      "start": 320,
+      "text": "hundred of cars. They don't have their"
+    },
+    {
+      "start": 323,
+      "text": "proprietary basically their fleet"
+    },
+    {
+      "start": 325,
+      "text": "managers right they're operating their"
+    },
+    {
+      "start": 326,
+      "text": "fleet and they want to do it in the most"
+    },
+    {
+      "start": 328,
+      "text": "effective way. they have a third-party"
+    },
+    {
+      "start": 330,
+      "text": "software solution and they compete with"
+    },
+    {
+      "start": 332,
+      "text": "a budget enterprise etc. So they need to"
+    },
+    {
+      "start": 335,
+      "text": "make sure that they somehow stand out."
+    },
+    {
+      "start": 338,
+      "text": "So these are our customers and they use"
+    },
+    {
+      "start": 339,
+      "text": "our standard dashboard self-service"
+    },
+    {
+      "start": 341,
+      "text": "dashboard. Then we work with large"
+    },
+    {
+      "start": 343,
+      "text": "companies and these companies are not as"
+    },
+    {
+      "start": 346,
+      "text": "big as enterprise herds but they have"
+    },
+    {
+      "start": 348,
+      "text": "hundreds of thousands of cars still"
+    },
+    {
+      "start": 350,
+      "text": "huge. They basically manage their"
+    },
+    {
+      "start": 352,
+      "text": "franchises. So they need to make sure"
+    },
+    {
+      "start": 354,
+      "text": "that their pricing is consistent"
+    },
+    {
+      "start": 356,
+      "text": "throughout their uh network that they"
+    },
+    {
+      "start": 358,
+      "text": "offer the same quality of service and"
+    },
+    {
+      "start": 360,
+      "text": "that they actually their franchises do"
+    },
+    {
+      "start": 363,
+      "text": "well because they get a percentage of"
+    },
+    {
+      "start": 364,
+      "text": "the what franchises earn. So that's our"
+    },
+    {
+      "start": 367,
+      "text": "second type of customers big groups and"
+    },
+    {
+      "start": 370,
+      "text": "enterprise companies that manage"
+    },
+    {
+      "start": 372,
+      "text": "franchises. What what makes your dynamic"
+    },
+    {
+      "start": 374,
+      "text": "pricing engine better than the"
+    },
+    {
+      "start": 377,
+      "text": "competition? First, as I said, like it's"
+    },
+    {
+      "start": 379,
+      "text": "it's the number of uh data points that"
+    },
+    {
+      "start": 382,
+      "text": "our engine can absorb and make this"
+    },
+    {
+      "start": 384,
+      "text": "decision and judgment. You saw that we"
+    },
+    {
+      "start": 386,
+      "text": "have an AI in the beginning of of this."
+    },
+    {
+      "start": 388,
+      "text": "Every company"
+    },
+    {
+      "start": 389,
+      "text": "now flexing internet. Yeah. But I'll"
+    },
+    {
+      "start": 393,
+      "text": "tell you where the AI comes. Uh so it's"
+    },
+    {
+      "start": 395,
+      "text": "it's it's it's a bunch of ML models that"
+    },
+    {
+      "start": 397,
+      "text": "work together, right? So that's not"
+    },
+    {
+      "start": 399,
+      "text": "there's this is this is not AI but where"
+    },
+    {
+      "start": 401,
+      "text": "the AI comes is that we every time our"
+    },
+    {
+      "start": 405,
+      "text": "model works in a certain location for a"
+    },
+    {
+      "start": 407,
+      "text": "certain customer it learns from its past"
+    },
+    {
+      "start": 410,
+      "text": "uh performance and next time makes"
+    },
+    {
+      "start": 412,
+      "text": "better predictions make better"
+    },
+    {
+      "start": 413,
+      "text": "assumptions and improves the quality. I"
+    },
+    {
+      "start": 416,
+      "text": "mean, and and on that topic, I noticed"
+    },
+    {
+      "start": 417,
+      "text": "your pricing model is that you're"
+    },
+    {
+      "start": 419,
+      "text": "charging like per car, you know? I mean,"
+    },
+    {
+      "start": 421,
+      "text": "and if if you actually are really"
+    },
+    {
+      "start": 422,
+      "text": "confident about, hey, we're gonna have"
+    },
+    {
+      "start": 425,
+      "text": "this R this is the ROI that we're going"
+    },
+    {
+      "start": 426,
+      "text": "to get. Like, why are you not like"
+    },
+    {
+      "start": 428,
+      "text": "saying, hey, well, you get you're going"
+    },
+    {
+      "start": 430,
+      "text": "to have 90% of the up and we'll just"
+    },
+    {
+      "start": 432,
+      "text": "take 10% of the of the one customer with"
+    },
+    {
+      "start": 435,
+      "text": "who did that. And that was the I was"
+    },
+    {
+      "start": 437,
+      "text": "like telling my team like, let's move"
+    },
+    {
+      "start": 438,
+      "text": "into that like we will make sure our"
+    },
+    {
+      "start": 440,
+      "text": "customers do better and we'll do better."
+    },
+    {
+      "start": 442,
+      "text": "It didn't work. uh we we still have one"
+    },
+    {
+      "start": 444,
+      "text": "customer on that contract and I'm just"
+    },
+    {
+      "start": 446,
+      "text": "waiting for the contract to renew to get"
+    },
+    {
+      "start": 448,
+      "text": "get away from the the reason why you"
+    },
+    {
+      "start": 450,
+      "text": "always have to you need to have a"
+    },
+    {
+      "start": 451,
+      "text": "baseline. So what are you comparing to?"
+    },
+    {
+      "start": 453,
+      "text": "So usually you would oranges to oranges"
+    },
+    {
+      "start": 456,
+      "text": "December to December, January to"
+    },
+    {
+      "start": 457,
+      "text": "January. But then when things like"
+    },
+    {
+      "start": 460,
+      "text": "Easter or Ramadan happens, they move"
+    },
+    {
+      "start": 464,
+      "text": "from one month to another. Then they"
+    },
+    {
+      "start": 466,
+      "text": "like yeah but the increase was not"
+    },
+    {
+      "start": 467,
+      "text": "because of your pricing model but"
+    },
+    {
+      "start": 468,
+      "text": "because it was uh Easter was in this"
+    },
+    {
+      "start": 470,
+      "text": "month and last year it was in a"
+    },
+    {
+      "start": 472,
+      "text": "different month. So much time is spent"
+    },
+    {
+      "start": 474,
+      "text": "on actually this argument because they"
+    },
+    {
+      "start": 476,
+      "text": "don't want to pay you more, they want to"
+    },
+    {
+      "start": 477,
+      "text": "pay you less. And we said like at this"
+    },
+    {
+      "start": 479,
+      "text": "point we cannot do this. It's it's it's"
+    },
+    {
+      "start": 481,
+      "text": "crazy. So we said we want to be uh clear"
+    },
+    {
+      "start": 484,
+      "text": "and straightforward. We'll do uh"
+    },
+    {
+      "start": 487,
+      "text": "standard pricing per car per month and"
+    },
+    {
+      "start": 489,
+      "text": "that's that's good enough. Yeah. I mean"
+    },
+    {
+      "start": 491,
+      "text": "but that that also I mean you point to"
+    },
+    {
+      "start": 494,
+      "text": "like kind of fundamental problem which"
+    },
+    {
+      "start": 495,
+      "text": "is like that is like measuring like the"
+    },
+    {
+      "start": 497,
+      "text": "the improvement in lift that you're"
+    },
+    {
+      "start": 498,
+      "text": "going to have like from this because"
+    },
+    {
+      "start": 500,
+      "text": "Yeah. I mean, how do you compare apple"
+    },
+    {
+      "start": 502,
+      "text": "to apples like when you're kind of"
+    },
+    {
+      "start": 504,
+      "text": "revenue over time? still compare. We"
+    },
+    {
+      "start": 505,
+      "text": "still they have dashboards. They see how"
+    },
+    {
+      "start": 507,
+      "text": "their pricing increase over a longer"
+    },
+    {
+      "start": 509,
+      "text": "period of time. Like okay, maybe one"
+    },
+    {
+      "start": 512,
+      "text": "month to another might be tricky. But"
+    },
+    {
+      "start": 514,
+      "text": "then if you look on a year scale, you"
+    },
+    {
+      "start": 516,
+      "text": "still see the increase. Do your"
+    },
+    {
+      "start": 518,
+      "text": "customers do AB testing. They can run"
+    },
+    {
+      "start": 520,
+      "text": "two side by side. We usually start with"
+    },
+    {
+      "start": 523,
+      "text": "AB testing especially with big uh"
+    },
+    {
+      "start": 526,
+      "text": "customers but we don't do it within one"
+    },
+    {
+      "start": 527,
+      "text": "city because you can't you cannot do it"
+    },
+    {
+      "start": 529,
+      "text": "in with one location. The customer will"
+    },
+    {
+      "start": 531,
+      "text": "choose what is cheaper. So you have to"
+    },
+    {
+      "start": 532,
+      "text": "do it different locations. So we would"
+    },
+    {
+      "start": 534,
+      "text": "choose few selected location usually the"
+    },
+    {
+      "start": 536,
+      "text": "way our pilot works two three locations"
+    },
+    {
+      "start": 539,
+      "text": "one would be maybe the top location"
+    },
+    {
+      "start": 541,
+      "text": "another one would be midsize location"
+    },
+    {
+      "start": 542,
+      "text": "and third would be like the small"
+    },
+    {
+      "start": 545,
+      "text": "location and then we will see the"
+    },
+    {
+      "start": 547,
+      "text": "results in those those and what has been"
+    },
+    {
+      "start": 549,
+      "text": "the result worst result that we had was"
+    },
+    {
+      "start": 551,
+      "text": "plus 5% of revenue increase. Our best"
+    },
+    {
+      "start": 554,
+      "text": "was it was six times but that was a very"
+    },
+    {
+      "start": 556,
+      "text": "particular case a luxury uh car rental"
+    },
+    {
+      "start": 559,
+      "text": "company that was staying within within"
+    },
+    {
+      "start": 562,
+      "text": "its boundaries. We analyze also the"
+    },
+    {
+      "start": 564,
+      "text": "supply and we said it's Dubai end of"
+    },
+    {
+      "start": 567,
+      "text": "December there are two Lamborghinis"
+    },
+    {
+      "start": 569,
+      "text": "available and there is a demand for 100"
+    },
+    {
+      "start": 571,
+      "text": "you can put whatever price you want you"
+    },
+    {
+      "start": 573,
+      "text": "will still sell it right that doesn't"
+    },
+    {
+      "start": 574,
+      "text": "sound like an AI recommendation no that"
+    },
+    {
+      "start": 576,
+      "text": "I mean like that because they was cap"
+    },
+    {
+      "start": 578,
+      "text": "they called us because they called me"
+    },
+    {
+      "start": 579,
+      "text": "they were like a brilliant your system"
+    },
+    {
+      "start": 581,
+      "text": "is crazy that tells me to put I don't"
+    },
+    {
+      "start": 584,
+      "text": "remember the price something is wrong"
+    },
+    {
+      "start": 585,
+      "text": "with that I was like hold on let me uh"
+    },
+    {
+      "start": 587,
+      "text": "look into this so I looked into this and"
+    },
+    {
+      "start": 589,
+      "text": "then we said like that's what you should"
+    },
+    {
+      "start": 590,
+      "text": "put customers don't like dynamic pricing"
+    },
+    {
+      "start": 593,
+      "text": "because it's like wait a second. Oh, you"
+    },
+    {
+      "start": 594,
+      "text": "got you got a different price than I got"
+    },
+    {
+      "start": 597,
+      "text": "when I like when I went you know went to"
+    },
+    {
+      "start": 599,
+      "text": "for this or like it's you know there's a"
+    },
+    {
+      "start": 602,
+      "text": "lot of backlash around pricing and like"
+    },
+    {
+      "start": 604,
+      "text": "these these sorts of things which"
+    },
+    {
+      "start": 606,
+      "text": "ultimately ends up kind of a brand risk"
+    },
+    {
+      "start": 608,
+      "text": "there which is like why sometimes like"
+    },
+    {
+      "start": 610,
+      "text": "even though they can you know they could"
+    },
+    {
+      "start": 612,
+      "text": "potentially uh you know try to do this"
+    },
+    {
+      "start": 614,
+      "text": "like kind of they're they're careful"
+    },
+    {
+      "start": 615,
+      "text": "about time to do this. So what what are"
+    },
+    {
+      "start": 617,
+      "text": "your thoughts on that side? First of"
+    },
+    {
+      "start": 618,
+      "text": "all, uh revenue is not the only KPI why"
+    },
+    {
+      "start": 621,
+      "text": "our customers use us. In many cases is"
+    },
+    {
+      "start": 624,
+      "text": "they want to avoid human mistake. Many"
+    },
+    {
+      "start": 626,
+      "text": "most of them they do uh they look at"
+    },
+    {
+      "start": 628,
+      "text": "competitors prices and they do their"
+    },
+    {
+      "start": 630,
+      "text": "manual and I mean the level of"
+    },
+    {
+      "start": 632,
+      "text": "complexity you have different codes zip"
+    },
+    {
+      "start": 635,
+      "text": "codes like cars are divided into codes."
+    },
+    {
+      "start": 637,
+      "text": "You have different lengths of rental one"
+    },
+    {
+      "start": 639,
+      "text": "day, two days, three days etc etc. You"
+    },
+    {
+      "start": 642,
+      "text": "have different locations. So actually"
+    },
+    {
+      "start": 643,
+      "text": "the number of price points you have to"
+    },
+    {
+      "start": 647,
+      "text": "change every day sometimes even every"
+    },
+    {
+      "start": 649,
+      "text": "hour it's tremendous. So if you do it"
+    },
+    {
+      "start": 651,
+      "text": "all manually you do mistakes and this"
+    },
+    {
+      "start": 654,
+      "text": "this is what our top managers of the"
+    },
+    {
+      "start": 655,
+      "text": "companies tell us. We know that this is"
+    },
+    {
+      "start": 657,
+      "text": "not"
+    },
+    {
+      "start": 658,
+      "text": "ideal or we often have to actually cut"
+    },
+    {
+      "start": 661,
+      "text": "cut cut the road. So like okay we'll"
+    },
+    {
+      "start": 663,
+      "text": "like not put too much effort here"
+    },
+    {
+      "start": 665,
+      "text": "because just too much. So we'll make an"
+    },
+    {
+      "start": 666,
+      "text": "assumption. So without basing their"
+    },
+    {
+      "start": 668,
+      "text": "assumptions on data. So automatization"
+    },
+    {
+      "start": 671,
+      "text": "of the process and pushing it back into"
+    },
+    {
+      "start": 674,
+      "text": "the system is number one KPI for many of"
+    },
+    {
+      "start": 677,
+      "text": "our large companies. Secondly, we don't"
+    },
+    {
+      "start": 679,
+      "text": "change the price depending on the"
+    },
+    {
+      "start": 681,
+      "text": "customer. So this is up to the company"
+    },
+    {
+      "start": 683,
+      "text": "whether they want to charge C different"
+    },
+    {
+      "start": 684,
+      "text": "customers have their loyalty programs"
+    },
+    {
+      "start": 686,
+      "text": "for mobility companies. We do we don't"
+    },
+    {
+      "start": 688,
+      "text": "look at a particular customer because we"
+    },
+    {
+      "start": 690,
+      "text": "don't have the data but we cluster them."
+    },
+    {
+      "start": 692,
+      "text": "So we understand that this customer"
+    },
+    {
+      "start": 694,
+      "text": "falls into this cluster at this and so"
+    },
+    {
+      "start": 696,
+      "text": "there's a different coefficient but"
+    },
+    {
+      "start": 697,
+      "text": "that's what all mobility companies are"
+    },
+    {
+      "start": 699,
+      "text": "famous for because they uh they give the"
+    },
+    {
+      "start": 702,
+      "text": "car to to different audiences. This is"
+    },
+    {
+      "start": 704,
+      "text": "very interesting because I mean I went"
+    },
+    {
+      "start": 706,
+      "text": "to your website actually to very nice"
+    },
+    {
+      "start": 707,
+      "text": "looking website uh to be honest looking"
+    },
+    {
+      "start": 709,
+      "text": "at your website I had no clue what you"
+    },
+    {
+      "start": 710,
+      "text": "guys did. Uh, so like this is uh like uh"
+    },
+    {
+      "start": 713,
+      "text": "hearing the pitch is like actually like"
+    },
+    {
+      "start": 715,
+      "text": "now I have a much better idea of like uh"
+    },
+    {
+      "start": 717,
+      "text": "what what you're doing because like I"
+    },
+    {
+      "start": 719,
+      "text": "think it just at least in terms of like"
+    },
+    {
+      "start": 721,
+      "text": "the copy that was on the website they"
+    },
+    {
+      "start": 723,
+      "text": "didn't it didn't come across like on on"
+    },
+    {
+      "start": 725,
+      "text": "there. You you cover the team extremely"
+    },
+    {
+      "start": 726,
+      "text": "early. Um which to be honest like before"
+    },
+    {
+      "start": 729,
+      "text": "I know what problem you're solving it's"
+    },
+    {
+      "start": 731,
+      "text": "hard to be able to judge wait is this"
+    },
+    {
+      "start": 733,
+      "text": "the right team that sort of thing right?"
+    },
+    {
+      "start": 735,
+      "text": "Um, so like you know sometimes better"
+    },
+    {
+      "start": 737,
+      "text": "like say that later like after oh and by"
+    },
+    {
+      "start": 739,
+      "text": "the way this is why the this is here's"
+    },
+    {
+      "start": 740,
+      "text": "the evidence is why we're the right team"
+    },
+    {
+      "start": 742,
+      "text": "to do this right and so like what is"
+    },
+    {
+      "start": 744,
+      "text": "your connection to this problem this"
+    },
+    {
+      "start": 747,
+      "text": "space and like how about the rest of the"
+    },
+    {
+      "start": 748,
+      "text": "team like how like why are you uniquely"
+    },
+    {
+      "start": 750,
+      "text": "suited to be like you're the ones in the"
+    },
+    {
+      "start": 753,
+      "text": "world to solve this problem. So that"
+    },
+    {
+      "start": 754,
+      "text": "yeah the actually the reason why I"
+    },
+    {
+      "start": 755,
+      "text": "showed it in the beginning is that in"
+    },
+    {
+      "start": 757,
+      "text": "our past company when we exited and"
+    },
+    {
+      "start": 759,
+      "text": "decided to do something else together we"
+    },
+    {
+      "start": 761,
+      "text": "started thinking okay let's share our"
+    },
+    {
+      "start": 763,
+      "text": "knowledge with other companies we"
+    },
+    {
+      "start": 765,
+      "text": "definitely decided not to build another"
+    },
+    {
+      "start": 766,
+      "text": "car a car car sharing company anywhere"
+    },
+    {
+      "start": 768,
+      "text": "in the world it's very operationally"
+    },
+    {
+      "start": 770,
+      "text": "intense business and then we thought"
+    },
+    {
+      "start": 771,
+      "text": "maybe we do consultancy maybe we do that"
+    },
+    {
+      "start": 773,
+      "text": "that that we said listen let's do what"
+    },
+    {
+      "start": 775,
+      "text": "we did best and we really were best on"
+    },
+    {
+      "start": 778,
+      "text": "the market in terms of pricing correctly"
+    },
+    {
+      "start": 781,
+      "text": "distributing the fleet pricing"
+    },
+    {
+      "start": 784,
+      "text": "uh being considered to be the low coster"
+    },
+    {
+      "start": 787,
+      "text": "and yet making more revenue than our"
+    },
+    {
+      "start": 789,
+      "text": "customers competitors. So that's what we"
+    },
+    {
+      "start": 791,
+      "text": "did and we said let's try to replicate"
+    },
+    {
+      "start": 793,
+      "text": "it uh for other companies. So we started"
+    },
+    {
+      "start": 795,
+      "text": "initially with car car sharing and"
+    },
+    {
+      "start": 798,
+      "text": "mobility companies but then we said"
+    },
+    {
+      "start": 799,
+      "text": "listen there's a much bigger market here"
+    },
+    {
+      "start": 802,
+      "text": "car rental which has it's a dinosaur"
+    },
+    {
+      "start": 804,
+      "text": "industry. So we started looking into"
+    },
+    {
+      "start": 806,
+      "text": "that talking to potential customers and"
+    },
+    {
+      "start": 808,
+      "text": "that's how it all started. Thank you."
+    },
+    {
+      "start": 811,
+      "text": "Thank you very much. I grew up in a very"
+    },
+    {
+      "start": 813,
+      "text": "international environment. I'm half"
+    },
+    {
+      "start": 815,
+      "text": "Russian, half Indian. So I was always"
+    },
+    {
+      "start": 818,
+      "text": "exposed to different cultures. I"
+    },
+    {
+      "start": 820,
+      "text": "graduated from two US universities, both"
+    },
+    {
+      "start": 823,
+      "text": "in Russia. Then I traveled abroad. So I"
+    },
+    {
+      "start": 826,
+      "text": "started my previous uh together with my"
+    },
+    {
+      "start": 828,
+      "text": "co-founders. We started the previous"
+    },
+    {
+      "start": 829,
+      "text": "company back in 2014 and we were running"
+    },
+    {
+      "start": 833,
+      "text": "the business for 8 years. I left the"
+    },
+    {
+      "start": 836,
+      "text": "country in 2022 for for the war reasons"
+    },
+    {
+      "start": 839,
+      "text": "and it was one of the most difficult"
+    },
+    {
+      "start": 841,
+      "text": "moments of my life was very stressful"
+    },
+    {
+      "start": 844,
+      "text": "was very uncertain and we came here to"
+    },
+    {
+      "start": 846,
+      "text": "US together with my family with my"
+    },
+    {
+      "start": 848,
+      "text": "husband after maybe half a year I said I"
+    },
+    {
+      "start": 851,
+      "text": "want to build something new together"
+    },
+    {
+      "start": 853,
+      "text": "something new here we wanted to use our"
+    },
+    {
+      "start": 856,
+      "text": "knowledge that we gained in our previous"
+    },
+    {
+      "start": 858,
+      "text": "company and the experience that we had"
+    },
+    {
+      "start": 860,
+      "text": "and the understanding of the market and"
+    },
+    {
+      "start": 862,
+      "text": "share it with other companies not only"
+    },
+    {
+      "start": 864,
+      "text": "cautious sharing companies but mobility"
+    },
+    {
+      "start": 866,
+      "text": "companies and also car rental companies."
+    },
+    {
+      "start": 869,
+      "text": "The thing I like about Rick Alto is is"
+    },
+    {
+      "start": 872,
+      "text": "that uh she is a successful founder that"
+    },
+    {
+      "start": 875,
+      "text": "she built a very successful business"
+    },
+    {
+      "start": 877,
+      "text": "before and based on that experience has"
+    },
+    {
+      "start": 880,
+      "text": "come up to solve this problem in a"
+    },
+    {
+      "start": 883,
+      "text": "compelling manner. What would been great"
+    },
+    {
+      "start": 885,
+      "text": "for me that I would like is uh uh fairly"
+    },
+    {
+      "start": 889,
+      "text": "early on that once she explains that"
+    },
+    {
+      "start": 892,
+      "text": "this is her product is to have a slide"
+    },
+    {
+      "start": 894,
+      "text": "that first says I have six customers"
+    },
+    {
+      "start": 896,
+      "text": "right now because in the beginning I'm"
+    },
+    {
+      "start": 898,
+      "text": "wondering is this an idea? Does she have"
+    },
+    {
+      "start": 901,
+      "text": "customers? Does it work? All these"
+    },
+    {
+      "start": 903,
+      "text": "things. But if I know she's got like six"
+    },
+    {
+      "start": 905,
+      "text": "customers that like it then I know this"
+    },
+    {
+      "start": 907,
+      "text": "is great. And then the next is uh in the"
+    },
+    {
+      "start": 910,
+      "text": "same slide is to show in one year I'll"
+    },
+    {
+      "start": 913,
+      "text": "have 20 customers and these are the"
+    },
+    {
+      "start": 916,
+      "text": "customers that I'm working on. And then"
+    },
+    {
+      "start": 918,
+      "text": "maybe 5 years from now this is what I"
+    },
+    {
+      "start": 921,
+      "text": "want 1,000 customers. All the pitches"
+    },
+    {
+      "start": 923,
+      "text": "talked something about AI. To be honest"
+    },
+    {
+      "start": 925,
+      "text": "like many of these are these are more of"
+    },
+    {
+      "start": 927,
+      "text": "like a buzz word. They using it more"
+    },
+    {
+      "start": 929,
+      "text": "like a buzz word. I know we need to talk"
+    },
+    {
+      "start": 931,
+      "text": "about AI so let's like try to craft an"
+    },
+    {
+      "start": 934,
+      "text": "AI story like on onto our business."
+    },
+    {
+      "start": 936,
+      "text": "didn't really talk about why is a why"
+    },
+    {
+      "start": 939,
+      "text": "using AI, why is this important, why we"
+    },
+    {
+      "start": 941,
+      "text": "have a tech domain. I think the domain"
+    },
+    {
+      "start": 944,
+      "text": "that you choose it should reflect what"
+    },
+    {
+      "start": 946,
+      "text": "you're doing, right? I like the idea of"
+    },
+    {
+      "start": 948,
+      "text": "highlighting that it's a tech company,"
+    },
+    {
+      "start": 950,
+      "text": "it's a tech product. And I think it also"
+    },
+    {
+      "start": 953,
+      "text": "we stand out uh to our competitors"
+    },
+    {
+      "start": 956,
+      "text": "because it we highlight uh highlight"
+    },
+    {
+      "start": 959,
+      "text": "this point."
+    },
+    {
+      "start": 961,
+      "text": "[Music]"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 445,
+  "timestamp": "2025-07-24T08:16:52.869Z"
+}

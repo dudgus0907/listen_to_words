@@ -1,0 +1,1946 @@
+{
+  "success": true,
+  "videoId": "llMFdIVBDBQ",
+  "videoTitle": "How a Solo Dev Went From $0 to $57M RaisedㅣLaravel, Taylor Otwell",
+  "transcript": [
+    {
+      "start": 0,
+      "text": "try to solve a problem that you yourself"
+    },
+    {
+      "start": 2,
+      "text": "have. When you have an opportunity to"
+    },
+    {
+      "start": 4,
+      "text": "build tools that people use pretty much"
+    },
+    {
+      "start": 6,
+      "text": "8 hours a day, you're making a huge"
+    },
+    {
+      "start": 8,
+      "text": "impact. For the first 3 years, I made no"
+    },
+    {
+      "start": 10,
+      "text": "money on Laravel at all. It was totally"
+    },
+    {
+      "start": 12,
+      "text": "open source. I see myself as a very"
+    },
+    {
+      "start": 14,
+      "text": "average developer. Everything I've built"
+    },
+    {
+      "start": 16,
+      "text": "at Laravel was essentially solving a"
+    },
+    {
+      "start": 19,
+      "text": "problem that I had encountered in"
+    },
+    {
+      "start": 21,
+      "text": "reality. When you're building open"
+    },
+    {
+      "start": 23,
+      "text": "source software, there's a lot of"
+    },
+    {
+      "start": 24,
+      "text": "voices. Some of them are coming from a"
+    },
+    {
+      "start": 26,
+      "text": "place of like genuine uh constructive"
+    },
+    {
+      "start": 28,
+      "text": "criticism and some of them are more like"
+    },
+    {
+      "start": 30,
+      "text": "haters of your project. Say you're"
+    },
+    {
+      "start": 32,
+      "text": "Metallica or you're Taylor Swift. If"
+    },
+    {
+      "start": 34,
+      "text": "Metallica starts trying to cater to like"
+    },
+    {
+      "start": 36,
+      "text": "Taylor Swift fans, then they lose all of"
+    },
+    {
+      "start": 39,
+      "text": "their core fans. In the same way, like"
+    },
+    {
+      "start": 41,
+      "text": "if Taylor Swift changes her core sound,"
+    },
+    {
+      "start": 44,
+      "text": "she upsets that core fan base. And so"
+    },
+    {
+      "start": 47,
+      "text": "play the hits for your fans. They're the"
+    },
+    {
+      "start": 49,
+      "text": "core piece of your community. I think it"
+    },
+    {
+      "start": 50,
+      "text": "can be very tempting, especially when"
+    },
+    {
+      "start": 52,
+      "text": "other like smart people try to tell you,"
+    },
+    {
+      "start": 54,
+      "text": "\"Oh, I think it should work this way or"
+    },
+    {
+      "start": 56,
+      "text": "I think you should do this.\" The people"
+    },
+    {
+      "start": 58,
+      "text": "that like sit on the sidelines and sort"
+    },
+    {
+      "start": 60,
+      "text": "of just like shout criticisms at open"
+    },
+    {
+      "start": 63,
+      "text": "source projects. If you were to follow"
+    },
+    {
+      "start": 65,
+      "text": "their feedback, there's always like"
+    },
+    {
+      "start": 66,
+      "text": "another like carrot on a stick they're"
+    },
+    {
+      "start": 68,
+      "text": "dangling out there. They're like, \"Oh,"
+    },
+    {
+      "start": 70,
+      "text": "thanks for doing that, but I don't like"
+    },
+    {
+      "start": 71,
+      "text": "this either.\" And like if you change"
+    },
+    {
+      "start": 73,
+      "text": "this, oh, that would be great. You know,"
+    },
+    {
+      "start": 75,
+      "text": "you keep jumping through the hoops, but"
+    },
+    {
+      "start": 76,
+      "text": "they never actually like become a user"
+    },
+    {
+      "start": 78,
+      "text": "of the product. do the hardest parts"
+    },
+    {
+      "start": 80,
+      "text": "first. This is something that I think a"
+    },
+    {
+      "start": 82,
+      "text": "lot of web developers that are trying to"
+    },
+    {
+      "start": 84,
+      "text": "start new products get wrong. While"
+    },
+    {
+      "start": 86,
+      "text": "they're the most motivated at the"
+    },
+    {
+      "start": 88,
+      "text": "beginning, they build a lot of like of"
+    },
+    {
+      "start": 90,
+      "text": "the easy parts and then once you've"
+    },
+    {
+      "start": 92,
+      "text": "wasted all of your like initial"
+    },
+    {
+      "start": 94,
+      "text": "enthusiasm kind of dancing around, you"
+    },
+    {
+      "start": 96,
+      "text": "sort of lost your momentum. Especially"
+    },
+    {
+      "start": 98,
+      "text": "as a solo founder, I would much rather"
+    },
+    {
+      "start": 100,
+      "text": "fail after 2 weeks than wasting 3"
+    },
+    {
+      "start": 102,
+      "text": "months. It's changing from a solo"
+    },
+    {
+      "start": 105,
+      "text": "developer to running a bootstrapped"
+    },
+    {
+      "start": 107,
+      "text": "company to now VCbacked company and they"
+    },
+    {
+      "start": 110,
+      "text": "all work really differently honestly."
+    },
+    {
+      "start": 112,
+      "text": "But I think what hasn't changed is"
+    },
+    {
+      "start": 118,
+      "text": "Hi, I'm Taylor Rotwell. I am the creator"
+    },
+    {
+      "start": 120,
+      "text": "of Laravel, an open-source PHP framework"
+    },
+    {
+      "start": 123,
+      "text": "for building web applications. So I"
+    },
+    {
+      "start": 125,
+      "text": "started creating Laravel as a way for me"
+    },
+    {
+      "start": 127,
+      "text": "to build web applications faster. And it"
+    },
+    {
+      "start": 130,
+      "text": "was actually not my original intention"
+    },
+    {
+      "start": 132,
+      "text": "to make it a big popular open-source"
+    },
+    {
+      "start": 135,
+      "text": "framework or community. And so the"
+    },
+    {
+      "start": 137,
+      "text": "community's grown tremendously. We've"
+    },
+    {
+      "start": 139,
+      "text": "gone from relatively a few downloads per"
+    },
+    {
+      "start": 141,
+      "text": "day when I first released Laravel to now"
+    },
+    {
+      "start": 143,
+      "text": "a quarter million downloads per day. Our"
+    },
+    {
+      "start": 146,
+      "text": "first Laracon conference was in 2013 and"
+    },
+    {
+      "start": 148,
+      "text": "we only had 90 attendees. At last year's"
+    },
+    {
+      "start": 151,
+      "text": "Laracon in Dallas, Texas, we had over"
+    },
+    {
+      "start": 153,
+      "text": "900 attendees. Tons of developers around"
+    },
+    {
+      "start": 155,
+      "text": "the world and almost every country in"
+    },
+    {
+      "start": 157,
+      "text": "the world use Laravel to build"
+    },
+    {
+      "start": 159,
+      "text": "incredible applications."
+    },
+    {
+      "start": 164,
+      "text": "I grew up in Hot Springs, Arkansas. It's"
+    },
+    {
+      "start": 166,
+      "text": "a relatively small town in central"
+    },
+    {
+      "start": 168,
+      "text": "Arkansas. I was always fairly interested"
+    },
+    {
+      "start": 171,
+      "text": "in computers and the web as a kid. I"
+    },
+    {
+      "start": 174,
+      "text": "think I built my first website when I"
+    },
+    {
+      "start": 176,
+      "text": "was about 10 years old. I think I was"
+    },
+    {
+      "start": 178,
+      "text": "one of the only kids I knew that knew"
+    },
+    {
+      "start": 181,
+      "text": "how to build anything on the web, which"
+    },
+    {
+      "start": 183,
+      "text": "was kind of fun cuz like when you're the"
+    },
+    {
+      "start": 185,
+      "text": "only kid in school that can build a"
+    },
+    {
+      "start": 186,
+      "text": "website, everyone wants you to build a"
+    },
+    {
+      "start": 188,
+      "text": "website for them. So, it was a pretty"
+    },
+    {
+      "start": 190,
+      "text": "interesting way to grow up not being"
+    },
+    {
+      "start": 192,
+      "text": "around any other techy people or kids or"
+    },
+    {
+      "start": 196,
+      "text": "startups. It's a very different world"
+    },
+    {
+      "start": 198,
+      "text": "programming and being a developer in"
+    },
+    {
+      "start": 200,
+      "text": "Arkansas than being, for example, in"
+    },
+    {
+      "start": 202,
+      "text": "Silicon Valley. But overall, I think"
+    },
+    {
+      "start": 204,
+      "text": "that being in Arkansas has helped me"
+    },
+    {
+      "start": 206,
+      "text": "maintain a level of focus and clarity on"
+    },
+    {
+      "start": 209,
+      "text": "what I wanted to build that I probably"
+    },
+    {
+      "start": 211,
+      "text": "wouldn't otherwise had if I had been"
+    },
+    {
+      "start": 213,
+      "text": "somewhere else. College was a good"
+    },
+    {
+      "start": 215,
+      "text": "experience in a sense because a lot of"
+    },
+    {
+      "start": 217,
+      "text": "my professors were very old school"
+    },
+    {
+      "start": 219,
+      "text": "programmers. Some of them had worked at"
+    },
+    {
+      "start": 221,
+      "text": "like NASA. Many of them did not even use"
+    },
+    {
+      "start": 224,
+      "text": "like a guey on their computer, you know,"
+    },
+    {
+      "start": 226,
+      "text": "they were like very old school nerdy"
+    },
+    {
+      "start": 228,
+      "text": "programmer people teaching me like core"
+    },
+    {
+      "start": 231,
+      "text": "foundational programming concepts that"
+    },
+    {
+      "start": 233,
+      "text": "apply across all languages. They really"
+    },
+    {
+      "start": 236,
+      "text": "understood the foundational concepts of"
+    },
+    {
+      "start": 237,
+      "text": "building good software which I think was"
+    },
+    {
+      "start": 239,
+      "text": "extremely helpful. So when I was working"
+    },
+    {
+      "start": 241,
+      "text": "just like a day job as a software"
+    },
+    {
+      "start": 243,
+      "text": "engineer, I always gravitated towards"
+    },
+    {
+      "start": 246,
+      "text": "building tools for the other engineers"
+    },
+    {
+      "start": 249,
+      "text": "at the company. like I would always um"
+    },
+    {
+      "start": 251,
+      "text": "try to get side projects or like get"
+    },
+    {
+      "start": 253,
+      "text": "assigned to build things that would make"
+    },
+    {
+      "start": 255,
+      "text": "us as developers more productive. So I"
+    },
+    {
+      "start": 257,
+      "text": "was always finding ways to like optimize"
+    },
+    {
+      "start": 259,
+      "text": "our workflow and I always found that"
+    },
+    {
+      "start": 261,
+      "text": "like actually more interesting than what"
+    },
+    {
+      "start": 263,
+      "text": "the business was about. I had some"
+    },
+    {
+      "start": 266,
+      "text": "businesses that I wanted to build some"
+    },
+    {
+      "start": 268,
+      "text": "startup ideas and PHP is a web"
+    },
+    {
+      "start": 271,
+      "text": "programming language that is very easy"
+    },
+    {
+      "start": 273,
+      "text": "to deploy out onto the web. It's easy to"
+    },
+    {
+      "start": 276,
+      "text": "run and maintain and to ship. I needed"
+    },
+    {
+      "start": 278,
+      "text": "sort of like a toolkit to build these"
+    },
+    {
+      "start": 280,
+      "text": "web applications more quickly. And there"
+    },
+    {
+      "start": 282,
+      "text": "was other ways to do this in PHP. There"
+    },
+    {
+      "start": 284,
+      "text": "was existing frameworks that were"
+    },
+    {
+      "start": 285,
+      "text": "already out there. Many of them were"
+    },
+    {
+      "start": 287,
+      "text": "kind of dated and maybe getting a little"
+    },
+    {
+      "start": 289,
+      "text": "older. And I thought that I could build"
+    },
+    {
+      "start": 291,
+      "text": "a little bit more modern take on how to"
+    },
+    {
+      "start": 293,
+      "text": "build web applications in PHP. Once I"
+    },
+    {
+      "start": 296,
+      "text": "was almost done with it, I thought like,"
+    },
+    {
+      "start": 298,
+      "text": "hm, this is actually kind of cool and"
+    },
+    {
+      "start": 300,
+      "text": "maybe other people would want to use"
+    },
+    {
+      "start": 301,
+      "text": "Laravel to build things. So that's when"
+    },
+    {
+      "start": 303,
+      "text": "I decided to open source it, put"
+    },
+    {
+      "start": 305,
+      "text": "documentation around it and try to, you"
+    },
+    {
+      "start": 308,
+      "text": "know, share it with the world. And for"
+    },
+    {
+      "start": 309,
+      "text": "the first 3 years of Laravel's life, I"
+    },
+    {
+      "start": 312,
+      "text": "made no money on Laravel at all. It was"
+    },
+    {
+      "start": 314,
+      "text": "totally open source. I had sort of"
+    },
+    {
+      "start": 316,
+      "text": "written my own scripts to automate this"
+    },
+    {
+      "start": 318,
+      "text": "on my machine, but I decided to build"
+    },
+    {
+      "start": 320,
+      "text": "user interface around it and build like"
+    },
+    {
+      "start": 322,
+      "text": "a product out of shipping Laravel"
+    },
+    {
+      "start": 324,
+      "text": "applications to the web. And I called"
+    },
+    {
+      "start": 325,
+      "text": "that Laravel Forge. And I released that"
+    },
+    {
+      "start": 327,
+      "text": "in 2014. And honestly, I had no idea how"
+    },
+    {
+      "start": 331,
+      "text": "it was going to perform, like how many"
+    },
+    {
+      "start": 332,
+      "text": "customers it was going to have. I still"
+    },
+    {
+      "start": 334,
+      "text": "honestly expected that I would need to"
+    },
+    {
+      "start": 336,
+      "text": "work a day job. Even after I released"
+    },
+    {
+      "start": 338,
+      "text": "Forge, but within probably a month or"
+    },
+    {
+      "start": 341,
+      "text": "two of releasing Forge, Forge was making"
+    },
+    {
+      "start": 344,
+      "text": "more money than I was making at my"
+    },
+    {
+      "start": 346,
+      "text": "regular job. I was having to do customer"
+    },
+    {
+      "start": 348,
+      "text": "support and I was having to fix bugs."
+    },
+    {
+      "start": 350,
+      "text": "Then I was in a situation where it was"
+    },
+    {
+      "start": 351,
+      "text": "like very obvious I could not do both"
+    },
+    {
+      "start": 353,
+      "text": "things at the same time. About six"
+    },
+    {
+      "start": 355,
+      "text": "months after launching Forge, uh January"
+    },
+    {
+      "start": 357,
+      "text": "1st, 2015 was actually my first"
+    },
+    {
+      "start": 360,
+      "text": "full-time day working on Laravel where I"
+    },
+    {
+      "start": 362,
+      "text": "sat down in my home office, which was"
+    },
+    {
+      "start": 365,
+      "text": "basically a spare bedroom at the time."
+    },
+    {
+      "start": 367,
+      "text": "And I was working on Laravel all day"
+    },
+    {
+      "start": 369,
+      "text": "that day and have ever since. The first"
+    },
+    {
+      "start": 371,
+      "text": "couple of years, I was the only person"
+    },
+    {
+      "start": 373,
+      "text": "at the company. So I wrote the front"
+    },
+    {
+      "start": 376,
+      "text": "end, I wrote the backend, I did the"
+    },
+    {
+      "start": 377,
+      "text": "customer support, I did the docs, I did"
+    },
+    {
+      "start": 379,
+      "text": "everything. And we made our first hire."
+    },
+    {
+      "start": 381,
+      "text": "I think around 2016 2017 I hired another"
+    },
+    {
+      "start": 384,
+      "text": "engineer. I think this is actually one"
+    },
+    {
+      "start": 386,
+      "text": "mistake I made is I put off hiring too"
+    },
+    {
+      "start": 389,
+      "text": "long. This may be common for other open"
+    },
+    {
+      "start": 391,
+      "text": "source developers where when you create"
+    },
+    {
+      "start": 393,
+      "text": "something open source or you create a"
+    },
+    {
+      "start": 395,
+      "text": "product you're like extremely protective"
+    },
+    {
+      "start": 397,
+      "text": "of it like it's your you know it's it's"
+    },
+    {
+      "start": 399,
+      "text": "your thing that you've created and"
+    },
+    {
+      "start": 400,
+      "text": "you're scared that anyone's going to"
+    },
+    {
+      "start": 401,
+      "text": "like come in and mess it up or like mess"
+    },
+    {
+      "start": 403,
+      "text": "up your vision for it. And so that made"
+    },
+    {
+      "start": 404,
+      "text": "me very hesitant to hire but then once I"
+    },
+    {
+      "start": 406,
+      "text": "did I was like oh wow I should have done"
+    },
+    {
+      "start": 408,
+      "text": "this a long time ago. Running a company"
+    },
+    {
+      "start": 410,
+      "text": "by yourself can be stressful and a bit"
+    },
+    {
+      "start": 414,
+      "text": "lonely. I always felt like Laravel and"
+    },
+    {
+      "start": 418,
+      "text": "PHP was a bit of an underdog and web"
+    },
+    {
+      "start": 421,
+      "text": "development. Even when I created Laravel"
+    },
+    {
+      "start": 424,
+      "text": "in 2010 or 2011, PHP was already seen as"
+    },
+    {
+      "start": 427,
+      "text": "like not the most glamorous web"
+    },
+    {
+      "start": 429,
+      "text": "language. That was nothing new. Like"
+    },
+    {
+      "start": 431,
+      "text": "even back then, I think that underdog"
+    },
+    {
+      "start": 433,
+      "text": "mentality of like, okay, well, I"
+    },
+    {
+      "start": 434,
+      "text": "actually think there's something really"
+    },
+    {
+      "start": 435,
+      "text": "great here and I think this is a"
+    },
+    {
+      "start": 436,
+      "text": "fantastic way to build applications"
+    },
+    {
+      "start": 438,
+      "text": "really quickly, it really motivated me"
+    },
+    {
+      "start": 440,
+      "text": "to like prove it over many years. And"
+    },
+    {
+      "start": 443,
+      "text": "all of them in a way were sort of born"
+    },
+    {
+      "start": 446,
+      "text": "out of my own like desire to make things"
+    },
+    {
+      "start": 449,
+      "text": "easier for developers."
+    },
+    {
+      "start": 452,
+      "text": "This episode is sponsored by Atio, the"
+    },
+    {
+      "start": 455,
+      "text": "AI native CRM for the next era of"
+    },
+    {
+      "start": 457,
+      "text": "companies. Connect your email and ATIO"
+    },
+    {
+      "start": 459,
+      "text": "instantly builds your CRM right before"
+    },
+    {
+      "start": 461,
+      "text": "your eye with every company, contact,"
+    },
+    {
+      "start": 464,
+      "text": "and interaction you've ever had enriched"
+    },
+    {
+      "start": 466,
+      "text": "and organized. That's ATIO. And here's"
+    },
+    {
+      "start": 468,
+      "text": "what makes it even more game-changing."
+    },
+    {
+      "start": 470,
+      "text": "You can build AI powered automations and"
+    },
+    {
+      "start": 473,
+      "text": "use its research agents to tackle some"
+    },
+    {
+      "start": 475,
+      "text": "of your most complex business processes,"
+    },
+    {
+      "start": 477,
+      "text": "freeing you to focus on what matters"
+    },
+    {
+      "start": 479,
+      "text": "most, building your company. Join"
+    },
+    {
+      "start": 481,
+      "text": "thousands of companies who are already"
+    },
+    {
+      "start": 483,
+      "text": "using to power their businesses. Visit"
+    },
+    {
+      "start": 486,
+      "text": "the link in the description to begin"
+    },
+    {
+      "start": 488,
+      "text": "your 2e free trial with Atio."
+    },
+    {
+      "start": 495,
+      "text": "I think opensource is powering almost"
+    },
+    {
+      "start": 499,
+      "text": "every business in the world at this"
+    },
+    {
+      "start": 501,
+      "text": "point. It's become the norm. You can"
+    },
+    {
+      "start": 504,
+      "text": "inspect it and read it and you can even"
+    },
+    {
+      "start": 506,
+      "text": "contribute to it. It's almost like the"
+    },
+    {
+      "start": 507,
+      "text": "first thought is to release it on"
+    },
+    {
+      "start": 508,
+      "text": "GitHub. You know that that's like the"
+    },
+    {
+      "start": 510,
+      "text": "most obvious thing you would do if"
+    },
+    {
+      "start": 512,
+      "text": "you're running an open- source company."
+    },
+    {
+      "start": 514,
+      "text": "The most obvious risk is just other"
+    },
+    {
+      "start": 516,
+      "text": "people taking your open source code, you"
+    },
+    {
+      "start": 519,
+      "text": "know, and building uh alternatives or"
+    },
+    {
+      "start": 521,
+      "text": "competitors built on pretty much"
+    },
+    {
+      "start": 523,
+      "text": "everything you've done over the last"
+    },
+    {
+      "start": 525,
+      "text": "decade or however long you've worked on"
+    },
+    {
+      "start": 527,
+      "text": "your project. I think the way you avoid"
+    },
+    {
+      "start": 529,
+      "text": "that in many cases is how you run the"
+    },
+    {
+      "start": 532,
+      "text": "community and how you interact with the"
+    },
+    {
+      "start": 534,
+      "text": "community. I've always tried to stay"
+    },
+    {
+      "start": 536,
+      "text": "extremely receptive to community"
+    },
+    {
+      "start": 538,
+      "text": "feedback. I'm still very involved. I"
+    },
+    {
+      "start": 540,
+      "text": "actually still the first hour and a half"
+    },
+    {
+      "start": 542,
+      "text": "of my day is getting on GitHub and"
+    },
+    {
+      "start": 544,
+      "text": "managing pull requests to the open"
+    },
+    {
+      "start": 546,
+      "text": "source Laravel framework. I'm actually"
+    },
+    {
+      "start": 548,
+      "text": "still the only person that does that at"
+    },
+    {
+      "start": 550,
+      "text": "the company. I think if you develop an"
+    },
+    {
+      "start": 552,
+      "text": "attitude where you're not listening to"
+    },
+    {
+      "start": 555,
+      "text": "the community and they feel that that's"
+    },
+    {
+      "start": 558,
+      "text": "when like you start getting grumblings"
+    },
+    {
+      "start": 560,
+      "text": "in the community, people get unhappy and"
+    },
+    {
+      "start": 563,
+      "text": "then you like run the risk of a fork in"
+    },
+    {
+      "start": 566,
+      "text": "the open source project. Forks the"
+    },
+    {
+      "start": 567,
+      "text": "project, renames it. this is now a"
+    },
+    {
+      "start": 570,
+      "text": "better, more community-friendly version"
+    },
+    {
+      "start": 571,
+      "text": "of your product. That's the biggest"
+    },
+    {
+      "start": 573,
+      "text": "risk. When you're building open source"
+    },
+    {
+      "start": 575,
+      "text": "software, there's a lot of voices. They"
+    },
+    {
+      "start": 577,
+      "text": "all have an opinion on where you should"
+    },
+    {
+      "start": 579,
+      "text": "take um the framework. And some of them"
+    },
+    {
+      "start": 581,
+      "text": "are coming from a place of like genuine"
+    },
+    {
+      "start": 584,
+      "text": "uh constructive criticism, and some of"
+    },
+    {
+      "start": 586,
+      "text": "them are more like just sort of like"
+    },
+    {
+      "start": 588,
+      "text": "haters of your project. One really great"
+    },
+    {
+      "start": 591,
+      "text": "piece of advice that another open-source"
+    },
+    {
+      "start": 594,
+      "text": "founder, Adam Wavin from Tailwind, gave"
+    },
+    {
+      "start": 596,
+      "text": "me was that just like when you're in a"
+    },
+    {
+      "start": 598,
+      "text": "band, say you're Metallica or you're"
+    },
+    {
+      "start": 601,
+      "text": "Taylor Swift, if Metallica starts trying"
+    },
+    {
+      "start": 603,
+      "text": "to cater to like Taylor Swift fans, then"
+    },
+    {
+      "start": 606,
+      "text": "they lose all of their core fans. In the"
+    },
+    {
+      "start": 608,
+      "text": "same way, like if Taylor Swift changes"
+    },
+    {
+      "start": 610,
+      "text": "her core sound that her fans love and"
+    },
+    {
+      "start": 613,
+      "text": "that they come to her concerts to hear,"
+    },
+    {
+      "start": 615,
+      "text": "she upsets that core fan base. And so"
+    },
+    {
+      "start": 618,
+      "text": "play the hits for your fans. They love"
+    },
+    {
+      "start": 621,
+      "text": "what you build. They're the core piece"
+    },
+    {
+      "start": 622,
+      "text": "of your community. I think it can be"
+    },
+    {
+      "start": 624,
+      "text": "very tempting, especially when other"
+    },
+    {
+      "start": 626,
+      "text": "like smart people try to tell you, \"Oh,"
+    },
+    {
+      "start": 628,
+      "text": "I think it should work this way or I"
+    },
+    {
+      "start": 630,
+      "text": "think you should do this.\" It can be so"
+    },
+    {
+      "start": 632,
+      "text": "so tempting as an open source maintainer"
+    },
+    {
+      "start": 634,
+      "text": "to like go down these rabbit holes of"
+    },
+    {
+      "start": 636,
+      "text": "like, \"Okay, well maybe if I add this"
+    },
+    {
+      "start": 638,
+      "text": "feature then like this group of people"
+    },
+    {
+      "start": 640,
+      "text": "will finally use Laravel and start"
+    },
+    {
+      "start": 643,
+      "text": "building with it.\" In my experience, the"
+    },
+    {
+      "start": 645,
+      "text": "people that like sit on the sidelines"
+    },
+    {
+      "start": 647,
+      "text": "and sort of just like shout criticisms"
+    },
+    {
+      "start": 649,
+      "text": "at open source projects, if you were to"
+    },
+    {
+      "start": 652,
+      "text": "follow their feedback and like jump"
+    },
+    {
+      "start": 654,
+      "text": "through that first hoop of what they"
+    },
+    {
+      "start": 655,
+      "text": "want you to do, there's always like"
+    },
+    {
+      "start": 657,
+      "text": "another another like carrot on a stick"
+    },
+    {
+      "start": 659,
+      "text": "they're dangling out there, they're"
+    },
+    {
+      "start": 661,
+      "text": "like, \"Oh, thanks for doing that, but I"
+    },
+    {
+      "start": 663,
+      "text": "don't like this either.\" And like if you"
+    },
+    {
+      "start": 664,
+      "text": "change this, oh, that would be great."
+    },
+    {
+      "start": 666,
+      "text": "You know, you keep jumping through the"
+    },
+    {
+      "start": 668,
+      "text": "hoops, but they never actually like"
+    },
+    {
+      "start": 669,
+      "text": "become a user of the product, which it"
+    },
+    {
+      "start": 671,
+      "text": "can be incredibly frustrating. So listen"
+    },
+    {
+      "start": 674,
+      "text": "to just your core audience that's"
+    },
+    {
+      "start": 675,
+      "text": "already building with Laravel and they"
+    },
+    {
+      "start": 677,
+      "text": "love what you're doing and they have"
+    },
+    {
+      "start": 678,
+      "text": "businesses on Laravel. It's important to"
+    },
+    {
+      "start": 680,
+      "text": "hear outside feedback too, but just use"
+    },
+    {
+      "start": 682,
+      "text": "caution with how far you stray from like"
+    },
+    {
+      "start": 685,
+      "text": "your core beliefs and what you think"
+    },
+    {
+      "start": 688,
+      "text": "your product needs to be."
+    },
+    {
+      "start": 694,
+      "text": "I had never really considered taking"
+    },
+    {
+      "start": 697,
+      "text": "outside investment before Excel. I used"
+    },
+    {
+      "start": 699,
+      "text": "to get emails about that pretty"
+    },
+    {
+      "start": 701,
+      "text": "frequently and I would always just"
+    },
+    {
+      "start": 703,
+      "text": "delete them which Excel found hilarious."
+    },
+    {
+      "start": 705,
+      "text": "The reason for that honestly is just"
+    },
+    {
+      "start": 707,
+      "text": "like we were happy at the company as"
+    },
+    {
+      "start": 709,
+      "text": "just a small team working on whatever we"
+    },
+    {
+      "start": 711,
+      "text": "wanted to work on, not wanting someone"
+    },
+    {
+      "start": 714,
+      "text": "to mess up what I had built. So that"
+    },
+    {
+      "start": 716,
+      "text": "fear of messing up everything we had put"
+    },
+    {
+      "start": 718,
+      "text": "so much work into made me hesitant in"
+    },
+    {
+      "start": 720,
+      "text": "both regards for hiring and raising"
+    },
+    {
+      "start": 722,
+      "text": "money, especially as developer"
+    },
+    {
+      "start": 725,
+      "text": "expectations have risen quite a bit"
+    },
+    {
+      "start": 728,
+      "text": "since 2011. like the user experience and"
+    },
+    {
+      "start": 731,
+      "text": "the tooling that developers expect. They"
+    },
+    {
+      "start": 734,
+      "text": "expect it to be really really good. The"
+    },
+    {
+      "start": 736,
+      "text": "bar just like keeps getting higher for"
+    },
+    {
+      "start": 738,
+      "text": "how polished and how productive and how"
+    },
+    {
+      "start": 740,
+      "text": "great your products have to be. And I"
+    },
+    {
+      "start": 743,
+      "text": "knew that if we wanted to like take"
+    },
+    {
+      "start": 744,
+      "text": "Laravel to the next level, it was going"
+    },
+    {
+      "start": 746,
+      "text": "to take a lot of work and it was going"
+    },
+    {
+      "start": 748,
+      "text": "to have to be some pretty ambitious"
+    },
+    {
+      "start": 750,
+      "text": "projects that were far beyond anything"
+    },
+    {
+      "start": 752,
+      "text": "we had built before and it was going to"
+    },
+    {
+      "start": 754,
+      "text": "take a much bigger team to build these"
+    },
+    {
+      "start": 756,
+      "text": "things. And so that's what sort of led"
+    },
+    {
+      "start": 757,
+      "text": "me down the path of raising money with"
+    },
+    {
+      "start": 759,
+      "text": "Excel. It's been a gradual process"
+    },
+    {
+      "start": 762,
+      "text": "changing from a solo developer to"
+    },
+    {
+      "start": 765,
+      "text": "running a bootstrapped company to now"
+    },
+    {
+      "start": 767,
+      "text": "trying to lead a VCbacked company. And"
+    },
+    {
+      "start": 770,
+      "text": "they all work really differently."
+    },
+    {
+      "start": 773,
+      "text": "Honestly, when I was bootstrapping the"
+    },
+    {
+      "start": 775,
+      "text": "company, it was extremely flat. But at"
+    },
+    {
+      "start": 776,
+      "text": "the same time, when you go from 10 to"
+    },
+    {
+      "start": 778,
+      "text": "50, there are just new new layers of"
+    },
+    {
+      "start": 780,
+      "text": "organizational hierarchy and management"
+    },
+    {
+      "start": 782,
+      "text": "that comes with that. But I think what"
+    },
+    {
+      "start": 784,
+      "text": "hasn't changed is our core mission to"
+    },
+    {
+      "start": 788,
+      "text": "build awesome developer tools. Like"
+    },
+    {
+      "start": 790,
+      "text": "that's still the mission we're on. And"
+    },
+    {
+      "start": 792,
+      "text": "so like our underlying mission of"
+    },
+    {
+      "start": 794,
+      "text": "building great products, nurturing a"
+    },
+    {
+      "start": 796,
+      "text": "really great community with community"
+    },
+    {
+      "start": 798,
+      "text": "events like Laracon and Laravel lives"
+    },
+    {
+      "start": 800,
+      "text": "and meetups, all of that is the same."
+    },
+    {
+      "start": 803,
+      "text": "But I feel like I should have grown this"
+    },
+    {
+      "start": 805,
+      "text": "kind of team much earlier, but I was"
+    },
+    {
+      "start": 808,
+      "text": "scared to and I didn't know how to"
+    },
+    {
+      "start": 809,
+      "text": "really. and bringing on people that can"
+    },
+    {
+      "start": 812,
+      "text": "help us build these products and help us"
+    },
+    {
+      "start": 815,
+      "text": "grow this community beyond what I'm"
+    },
+    {
+      "start": 817,
+      "text": "capable of myself. And I'm super excited"
+    },
+    {
+      "start": 819,
+      "text": "to see where we can go in the next few"
+    },
+    {
+      "start": 821,
+      "text": "years."
+    },
+    {
+      "start": 825,
+      "text": "When I first released Laravel, we had,"
+    },
+    {
+      "start": 828,
+      "text": "you know, like discussion forums about"
+    },
+    {
+      "start": 829,
+      "text": "the framework where people could ask for"
+    },
+    {
+      "start": 831,
+      "text": "feedback or give ideas. Every day I was"
+    },
+    {
+      "start": 834,
+      "text": "in those forums myself, like answering"
+    },
+    {
+      "start": 836,
+      "text": "questions, asking for feedback on new"
+    },
+    {
+      "start": 838,
+      "text": "features and I always try to be really"
+    },
+    {
+      "start": 841,
+      "text": "involved in the community early. We"
+    },
+    {
+      "start": 843,
+      "text": "built sort of like a very friendly,"
+    },
+    {
+      "start": 845,
+      "text": "welcoming vibe where everyone can pitch"
+    },
+    {
+      "start": 847,
+      "text": "in and get help. And there wasn't a lot"
+    },
+    {
+      "start": 850,
+      "text": "of like posturing or judgment on what"
+    },
+    {
+      "start": 852,
+      "text": "stage people were at in their journey"
+    },
+    {
+      "start": 854,
+      "text": "with Laravel or with development in"
+    },
+    {
+      "start": 856,
+      "text": "general. We were just all trying to help"
+    },
+    {
+      "start": 857,
+      "text": "each other and kind of be a part of"
+    },
+    {
+      "start": 859,
+      "text": "building businesses and building"
+    },
+    {
+      "start": 861,
+      "text": "products where people feel like they can"
+    },
+    {
+      "start": 863,
+      "text": "come and learn and and build something"
+    },
+    {
+      "start": 865,
+      "text": "cool and they have other people kind of"
+    },
+    {
+      "start": 866,
+      "text": "have their back. Everyone wants to be a"
+    },
+    {
+      "start": 869,
+      "text": "part of something like they want to"
+    },
+    {
+      "start": 871,
+      "text": "contribute to something and it if they"
+    },
+    {
+      "start": 872,
+      "text": "feel like they can actually have an"
+    },
+    {
+      "start": 875,
+      "text": "impact on the software which you can I"
+    },
+    {
+      "start": 877,
+      "text": "think for a lot of people that creates a"
+    },
+    {
+      "start": 880,
+      "text": "very strong like sense of belonging and"
+    },
+    {
+      "start": 882,
+      "text": "community. If you were to pull up a"
+    },
+    {
+      "start": 884,
+      "text": "contributor list of Laravel, like their"
+    },
+    {
+      "start": 886,
+      "text": "name is now on the list forever. I think"
+    },
+    {
+      "start": 888,
+      "text": "of people like Jeffrey Wei that founded"
+    },
+    {
+      "start": 890,
+      "text": "Laracas creating video content and"
+    },
+    {
+      "start": 894,
+      "text": "educational material about how to use"
+    },
+    {
+      "start": 895,
+      "text": "the framework. He was actually the first"
+    },
+    {
+      "start": 897,
+      "text": "person to build a full-time career"
+    },
+    {
+      "start": 900,
+      "text": "around Laravel even before I did. By"
+    },
+    {
+      "start": 903,
+      "text": "embracing and encouraging those"
+    },
+    {
+      "start": 904,
+      "text": "relationships, I think it helped build a"
+    },
+    {
+      "start": 906,
+      "text": "really vibrant, strong community. And"
+    },
+    {
+      "start": 908,
+      "text": "it's good for us as well because people"
+    },
+    {
+      "start": 910,
+      "text": "are constantly making content about, you"
+    },
+    {
+      "start": 913,
+      "text": "know, our framework."
+    },
+    {
+      "start": 917,
+      "text": "I've always said I see myself as a very"
+    },
+    {
+      "start": 919,
+      "text": "average developer, which that sounds"
+    },
+    {
+      "start": 922,
+      "text": "bad, but I think it's actually been a"
+    },
+    {
+      "start": 924,
+      "text": "really good thing because there's a lot"
+    },
+    {
+      "start": 926,
+      "text": "of average developers in the world, and"
+    },
+    {
+      "start": 928,
+      "text": "I feel like I build tools that helps the"
+    },
+    {
+      "start": 930,
+      "text": "average developer do their job quickly."
+    },
+    {
+      "start": 932,
+      "text": "And that is just statistically a lot of"
+    },
+    {
+      "start": 934,
+      "text": "people. When you have an opportunity to"
+    },
+    {
+      "start": 936,
+      "text": "build tools that people use pretty much"
+    },
+    {
+      "start": 938,
+      "text": "eight hours a day at their job, then"
+    },
+    {
+      "start": 941,
+      "text": "you're making a huge impact like on"
+    },
+    {
+      "start": 942,
+      "text": "someone's personal enjoyment of their"
+    },
+    {
+      "start": 944,
+      "text": "life, I think is really interesting and"
+    },
+    {
+      "start": 946,
+      "text": "amazing and like this huge privileged"
+    },
+    {
+      "start": 948,
+      "text": "and it's something very few companies"
+    },
+    {
+      "start": 950,
+      "text": "and software tools really get to do. The"
+    },
+    {
+      "start": 952,
+      "text": "most common advice I give first is try"
+    },
+    {
+      "start": 955,
+      "text": "to solve a problem that you yourself"
+    },
+    {
+      "start": 958,
+      "text": "have. These are the problems that you're"
+    },
+    {
+      "start": 960,
+      "text": "going to understand the most deeply."
+    },
+    {
+      "start": 963,
+      "text": "Everything I've built at Laravel was"
+    },
+    {
+      "start": 965,
+      "text": "essentially solving a problem that I had"
+    },
+    {
+      "start": 968,
+      "text": "encountered in reality. Many of them are"
+    },
+    {
+      "start": 970,
+      "text": "things that I needed. And I think that"
+    },
+    {
+      "start": 973,
+      "text": "if possible, you should try to build a"
+    },
+    {
+      "start": 974,
+      "text": "business that way to where you are a"
+    },
+    {
+      "start": 977,
+      "text": "customer yourself. The second piece of"
+    },
+    {
+      "start": 979,
+      "text": "advice I would give would be do the"
+    },
+    {
+      "start": 982,
+      "text": "hardest parts first. Um, this is"
+    },
+    {
+      "start": 984,
+      "text": "something that I think a lot of web"
+    },
+    {
+      "start": 986,
+      "text": "developers that are trying to start new"
+    },
+    {
+      "start": 988,
+      "text": "products get wrong. while they're the"
+    },
+    {
+      "start": 991,
+      "text": "most motivated at the beginning of that"
+    },
+    {
+      "start": 993,
+      "text": "idea, they build a lot of like of the"
+    },
+    {
+      "start": 995,
+      "text": "easy parts. Like they might build, oh,"
+    },
+    {
+      "start": 997,
+      "text": "I'll build the login form first. And you"
+    },
+    {
+      "start": 1000,
+      "text": "spend a month or two building all of"
+    },
+    {
+      "start": 1003,
+      "text": "these really easy parts, and you're kind"
+    },
+    {
+      "start": 1004,
+      "text": "of procrastinating in this like clever"
+    },
+    {
+      "start": 1006,
+      "text": "way of tackling the core like hardest"
+    },
+    {
+      "start": 1010,
+      "text": "problems you need to solve to really"
+    },
+    {
+      "start": 1012,
+      "text": "make this product great. And then once"
+    },
+    {
+      "start": 1014,
+      "text": "you've wasted all of your like initial"
+    },
+    {
+      "start": 1016,
+      "text": "enthusiasm kind of dancing around, you"
+    },
+    {
+      "start": 1019,
+      "text": "sort of lost your momentum, especially"
+    },
+    {
+      "start": 1020,
+      "text": "as a solo founder. And so for me, when I"
+    },
+    {
+      "start": 1023,
+      "text": "have a new product idea, I absolutely"
+    },
+    {
+      "start": 1025,
+      "text": "try to build the most impossible part"
+    },
+    {
+      "start": 1027,
+      "text": "first. Like the part I'm not sure that I"
+    },
+    {
+      "start": 1030,
+      "text": "even have the skills to build or"
+    },
+    {
+      "start": 1032,
+      "text": "understand or whatever. I'll just try to"
+    },
+    {
+      "start": 1034,
+      "text": "get that working. Even though it's the"
+    },
+    {
+      "start": 1036,
+      "text": "hardest part, if you do that at the"
+    },
+    {
+      "start": 1038,
+      "text": "beginning, you're the most motivated."
+    },
+    {
+      "start": 1040,
+      "text": "And if you crack it and you nail it, the"
+    },
+    {
+      "start": 1043,
+      "text": "other part is just like it's all"
+    },
+    {
+      "start": 1044,
+      "text": "downhill from there as far as building"
+    },
+    {
+      "start": 1046,
+      "text": "the product. If you fail, you would you"
+    },
+    {
+      "start": 1048,
+      "text": "would rather fail earlier, you know,"
+    },
+    {
+      "start": 1050,
+      "text": "like building the product. I would much"
+    },
+    {
+      "start": 1052,
+      "text": "rather fail after 2 weeks than wasting 3"
+    },
+    {
+      "start": 1054,
+      "text": "months. So do the hardest part first and"
+    },
+    {
+      "start": 1057,
+      "text": "try to solve problems you deeply"
+    },
+    {
+      "start": 1059,
+      "text": "understand being customer number one"
+    },
+    {
+      "start": 1061,
+      "text": "yourself."
+    },
+    {
+      "start": 1063,
+      "text": "[Music]"
+    },
+    {
+      "start": 1086,
+      "text": "[Music]"
+    }
+  ],
+  "method": "yt-dlp-batch-auto",
+  "segments": 484,
+  "timestamp": "2025-07-24T08:16:52.911Z"
+}
