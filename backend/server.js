@@ -40,39 +40,50 @@ let videoDatabase = [];
 // Initialize the system with enhanced data
 async function initializeSystem() {
   console.log('🚀 Initializing Advanced Transcript System...');
-  console.log('⚡ Fast startup mode - loading cached data only');
+  console.log('⚡ Memory-optimized startup mode - loading cached data');
   
-  // Load cached transcripts from database instead of processing
+  // Load cached transcripts from database with memory optimization
   const fs = require('fs');
   const cachedVideos = [];
   
   try {
-    // Load from transcript cache directory
+    // Load from transcript cache directory with file limit
     const cacheDir = path.join(__dirname, 'transcript-cache');
-    const cacheFiles = fs.readdirSync(cacheDir);
+    const cacheFiles = fs.readdirSync(cacheDir).filter(file => file.endsWith('_real.json'));
     
-    for (const file of cacheFiles) {
-      if (file.endsWith('_real.json')) {
-        try {
-          const videoId = file.replace('_real.json', '');
-          const data = JSON.parse(fs.readFileSync(path.join(cacheDir, file), 'utf8'));
-          
-          if (data.transcript && data.transcript.length > 0) {
-            cachedVideos.push({
-              id: data.video_id || data.videoId || videoId, // 캐시 파일의 video_id 사용
-              title: data.video_title || data.videoTitle || `Cached Video ${videoId}`, // 캐시 파일의 video_title 사용
-              duration: Math.max(...data.transcript.map(t => t.start)) + 30,
-              transcript: data.transcript,
-              method: 'cached-real'
-            });
-          }
-        } catch (error) {
-          // Skip invalid cache files
+    // Limit to first 100 files to prevent memory overflow
+    const filesToProcess = cacheFiles.slice(0, 100);
+    console.log(`📁 Found ${cacheFiles.length} files, processing ${filesToProcess.length} for memory optimization`);
+    
+    for (const file of filesToProcess) {
+      try {
+        const videoId = file.replace('_real.json', '');
+        const filePath = path.join(cacheDir, file);
+        
+        // Check file size before loading (skip if too large)
+        const stats = fs.statSync(filePath);
+        if (stats.size > 5 * 1024 * 1024) { // Skip files larger than 5MB
+          console.log(`⚠️ Skipping large file: ${file} (${Math.round(stats.size/1024/1024)}MB)`);
+          continue;
         }
+        
+        const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+        
+        if (data.transcript && data.transcript.length > 0) {
+          cachedVideos.push({
+            id: data.video_id || data.videoId || videoId,
+            title: data.video_title || data.videoTitle || `Cached Video ${videoId}`,
+            duration: Math.max(...data.transcript.map(t => t.start)) + 30,
+            transcript: data.transcript,
+            method: 'cached-real'
+          });
+        }
+      } catch (fileError) {
+        console.log(`⚠️ Skipping invalid cache file: ${file}`);
       }
     }
     
-    console.log(`✅ Loaded ${cachedVideos.length} cached videos instantly`);
+    console.log(`✅ Loaded ${cachedVideos.length} cached videos with memory optimization`);
     videoDatabase = cachedVideos;
     
   } catch (error) {
@@ -395,18 +406,21 @@ app.listen(PORT, async () => {
   console.log(`🌍 Environment: ${process.env.NODE_ENV || 'development'}`);
   console.log(`📍 Process ID: ${process.pid}`);
   console.log(`🔍 Health check endpoint: http://localhost:${PORT}/api/health`);
+  console.log(`✅ Server is ready - Health check will respond immediately`);
   
-  // Initialize the advanced transcript system with detailed logging
-  try {
-    console.log(`📚 Starting system initialization...`);
-    await initializeSystem();
-    console.log(`✅ Advanced Transcript System ready with ${videoDatabase.length} videos`);
-    console.log(`🎯 Server fully initialized and ready to accept requests`);
-  } catch (error) {
-    console.error(`❌ Initialization failed:`, error.message);
-    console.error(`📋 Stack trace:`, error.stack);
-    console.log(`🔄 Server will continue with limited functionality`);
-  }
+  // Initialize the advanced transcript system in background (non-blocking)
+  setTimeout(async () => {
+    try {
+      console.log(`📚 Starting background system initialization...`);
+      await initializeSystem();
+      console.log(`✅ Advanced Transcript System ready with ${videoDatabase.length} videos`);
+      console.log(`🎯 Background initialization completed successfully`);
+    } catch (error) {
+      console.error(`❌ Background initialization failed:`, error.message);
+      console.error(`📋 Stack trace:`, error.stack);
+      console.log(`🔄 Server will continue with limited functionality`);
+    }
+  }, 100); // Start background initialization after 100ms
 });
 
 module.exports = app; 
