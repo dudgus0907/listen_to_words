@@ -190,7 +190,19 @@ app.get('/api/search', async (req, res) => {
       similarity: 1 - (result.relevanceScore || 0) / 100, // relevanceScore를 similarity로 변환 (0-1 범위)
       searchQuery: query,
       method: result.method
-    }));
+    }))
+    // 유효한 YouTube 비디오 ID만 필터링 (11자리 영숫자)
+    .filter(result => {
+      const isValidYouTubeId = result.videoId && 
+        typeof result.videoId === 'string' && 
+        /^[a-zA-Z0-9_-]{11}$/.test(result.videoId);
+      
+      if (!isValidYouTubeId) {
+        console.log(`⚠️ Filtering out invalid YouTube ID: "${result.videoId}" from "${result.title}"`);
+      }
+      
+      return isValidYouTubeId;
+    });
     
     const finalResults = formattedResults.length > 0 ? formattedResults : fallbackResults;
     
