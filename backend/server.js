@@ -248,36 +248,47 @@ app.get('/api/video/:videoId', async (req, res) => {
   }
 });
 
-// Simple health check - independent of initialization
+// Health check with system info and detailed logging
 app.get('/api/health', (req, res) => {
+  console.log(`💓 Health check request received from ${req.ip || 'unknown'}`);
+  
   try {
     const methodStats = {};
-    if (typeof videoDatabase !== 'undefined' && videoDatabase) {
+    
+    // Check if videoDatabase exists and is accessible
+    if (typeof videoDatabase !== 'undefined' && Array.isArray(videoDatabase)) {
       videoDatabase.forEach(video => {
         const method = video.method || 'unknown';
         methodStats[method] = (methodStats[method] || 0) + 1;
       });
+      console.log(`📊 Video database accessible: ${videoDatabase.length} videos`);
+    } else {
+      console.log(`⚠️ Video database not ready: ${typeof videoDatabase}`);
     }
     
-    res.json({ 
+    const response = {
       status: 'OK', 
       timestamp: new Date().toISOString(),
       systemInfo: {
         advancedSystemActive: true,
-        accurateSystemActive: (typeof accurateDatabase !== 'undefined' && accurateDatabase) ? accurateDatabase.length > 0 : false,
+        accurateSystemActive: (typeof accurateDatabase !== 'undefined' && Array.isArray(accurateDatabase)) ? accurateDatabase.length > 0 : false,
         pythonBridgeActive: true,
-        videosInDatabase: (typeof videoDatabase !== 'undefined' && videoDatabase) ? videoDatabase.length : 0,
-        accurateVideos: (typeof accurateDatabase !== 'undefined' && accurateDatabase) ? accurateDatabase.length : 0,
+        videosInDatabase: (typeof videoDatabase !== 'undefined' && Array.isArray(videoDatabase)) ? videoDatabase.length : 0,
+        accurateVideos: (typeof accurateDatabase !== 'undefined' && Array.isArray(accurateDatabase)) ? accurateDatabase.length : 0,
         processingMethods: methodStats,
         features: ['python-youtube-transcript-api', 'accurate-verified-database', 'real-transcript-extraction', 'known-quotes', 'synthetic-generation', 'caching']
       }
-    });
+    };
+    
+    console.log(`✅ Health check response sent successfully`);
+    res.json(response);
   } catch (error) {
-    console.error('Health check error:', error);
+    console.error(`❌ Health check error:`, error.message);
+    console.error(`📋 Health check stack:`, error.stack);
     res.status(500).json({ 
       status: 'ERROR', 
       timestamp: new Date().toISOString(),
-      error: 'Internal server error during health check'
+      error: error.message
     });
   }
 });
@@ -370,16 +381,21 @@ app.get('/api/search-stats', async (req, res) => {
 
 // Start server with advanced system initialization
 app.listen(PORT, async () => {
-  console.log(`🚀 Server is running on port ${PORT}`);
-  console.log(`🔍 Health check: http://localhost:${PORT}/api/health`);
+  console.log(`🚀 Server starting on port ${PORT}`);
+  console.log(`🌍 Environment: ${process.env.NODE_ENV || 'development'}`);
+  console.log(`📍 Process ID: ${process.pid}`);
+  console.log(`🔍 Health check endpoint: http://localhost:${PORT}/api/health`);
   
-  // Initialize the advanced transcript system with error handling
+  // Initialize the advanced transcript system with detailed logging
   try {
+    console.log(`📚 Starting system initialization...`);
     await initializeSystem();
-    console.log(`📚 Advanced Transcript System ready with ${videoDatabase.length} videos`);
+    console.log(`✅ Advanced Transcript System ready with ${videoDatabase.length} videos`);
+    console.log(`🎯 Server fully initialized and ready to accept requests`);
   } catch (error) {
-    console.error('❌ Initialization failed, but server is still running:', error);
-    console.log('🔄 Server will continue to operate with limited functionality');
+    console.error(`❌ Initialization failed:`, error.message);
+    console.error(`📋 Stack trace:`, error.stack);
+    console.log(`🔄 Server will continue with limited functionality`);
   }
 });
 
