@@ -3,7 +3,6 @@ const cors = require('cors');
 const axios = require('axios');
 const { AdvancedTranscriptSystem } = require('./advanced-transcript-system');
 const { PythonYouTubeBridge } = require('./python-youtube-bridge');
-const { LazyTranscriptSystem } = require('./lazy-transcript-system');
 const FastSearchSystem = require('./fast-search-system');
 require('dotenv').config();
 const path = require('path'); // Added for path.join
@@ -19,10 +18,9 @@ app.use(express.json());
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY;
 const YOUTUBE_API_BASE_URL = 'https://www.googleapis.com/youtube/v3';
 
-// Initialize Advanced Transcript System, Python Bridge, Lazy System, and Fast Search System
+// Initialize Advanced Transcript System, Python Bridge, and Fast Search System
 const transcriptSystem = new AdvancedTranscriptSystem();
 const pythonBridge = new PythonYouTubeBridge();
-const lazySystem = new LazyTranscriptSystem();
 const fastSearch = new FastSearchSystem();
 
 // Load accurate verified database
