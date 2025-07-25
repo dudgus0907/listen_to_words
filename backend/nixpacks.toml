@@ -1,8 +1,8 @@
 [phases.setup]
-nixPkgs = ["nodejs_18", "python3", "pkg-config", "cairo", "pango", "libjpeg", "giflib"]
+nixPkgs = ["nodejs_18", "python310", "python310Packages.setuptools", "pkg-config", "cairo", "pango", "libjpeg", "giflib"]
 
 [phases.install]
-cmds = ["npm ci", "npm rebuild sqlite3 --build-from-source"]
+cmds = ["npm ci"]
 
 [start]
 cmd = "npm start" 
