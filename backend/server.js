@@ -40,7 +40,7 @@ let videoDatabase = [];
 // Initialize the system with enhanced data
 async function initializeSystem() {
   console.log('🚀 Initializing Advanced Transcript System...');
-  console.log('⚡ Ultra-safe startup mode with fallback');
+  console.log('⚡ Safe startup mode with extended timeout');
   
   // Initialize with minimal fallback first
   videoDatabase = [
@@ -58,12 +58,11 @@ async function initializeSystem() {
   ];
   console.log('✅ Safe fallback database initialized');
   
-  // Try to load cached transcripts with ultra-safe approach
+  // Try to load cached transcripts with a safer, incremental approach
   try {
     const fs = require('fs');
     const cachedVideos = [];
     
-    // Check if transcript-cache directory exists
     const cacheDir = path.join(__dirname, 'transcript-cache');
     if (!fs.existsSync(cacheDir)) {
       console.log('⚠️ transcript-cache directory not found - using fallback only');
@@ -72,9 +71,9 @@ async function initializeSystem() {
     
     const cacheFiles = fs.readdirSync(cacheDir).filter(file => file.endsWith('_real.json'));
     
-    // Ultra-conservative: only load first 20 files to prevent memory issues
-    const filesToProcess = cacheFiles.slice(0, 20);
-    console.log(`📁 Found ${cacheFiles.length} files, safely processing ${filesToProcess.length} only`);
+    // Load up to 200 files to include more content
+    const filesToProcess = cacheFiles.slice(0, 200);
+    console.log(`📁 Found ${cacheFiles.length} files, safely processing up to ${filesToProcess.length}`);
     
     for (let i = 0; i < filesToProcess.length; i++) {
       const file = filesToProcess[i];
@@ -82,10 +81,9 @@ async function initializeSystem() {
         const videoId = file.replace('_real.json', '');
         const filePath = path.join(cacheDir, file);
         
-        // Ultra-safe file size check (skip if larger than 1MB)
         const stats = fs.statSync(filePath);
-        if (stats.size > 1 * 1024 * 1024) {
-          console.log(`⚠️ Skipping large file: ${file} (${Math.round(stats.size/1024/1024)}MB)`);
+        if (stats.size > 1 * 1024 * 1024) { // Skip files larger than 1MB
+          console.log(`⚠️ Skipping large file: ${file} (${(stats.size / 1024 / 1024).toFixed(2)}MB)`);
           continue;
         }
         
@@ -96,14 +94,14 @@ async function initializeSystem() {
             id: data.video_id || data.videoId || videoId,
             title: data.video_title || data.videoTitle || `Cached Video ${videoId}`,
             duration: Math.max(...data.transcript.map(t => t.start)) + 30,
-            transcript: data.transcript.slice(0, 100), // Limit transcript segments
+            transcript: data.transcript, // Load full transcript
             method: 'cached-safe'
           });
         }
         
-        // Add small delay to prevent overwhelming the system
-        if (i % 5 === 0) {
-          await new Promise(resolve => setTimeout(resolve, 10));
+        // Yield to event loop every 10 files to keep server responsive
+        if (i > 0 && i % 10 === 0) {
+          await new Promise(resolve => setTimeout(resolve, 5));
         }
         
       } catch (fileError) {
@@ -111,7 +109,6 @@ async function initializeSystem() {
       }
     }
     
-    // Add cached videos to database (keeping fallback)
     if (cachedVideos.length > 0) {
       videoDatabase = [...videoDatabase, ...cachedVideos];
       console.log(`✅ Safely loaded ${cachedVideos.length} additional videos`);
