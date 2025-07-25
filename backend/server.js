@@ -40,29 +40,51 @@ let videoDatabase = [];
 // Initialize the system with enhanced data
 async function initializeSystem() {
   console.log('🚀 Initializing Advanced Transcript System...');
-  console.log('⚡ Memory-optimized startup mode - loading cached data');
+  console.log('⚡ Ultra-safe startup mode with fallback');
   
-  // Load cached transcripts from database with memory optimization
-  const fs = require('fs');
-  const cachedVideos = [];
+  // Initialize with minimal fallback first
+  videoDatabase = [
+    {
+      id: 'dQw4w9WgXcQ',
+      title: 'Rick Astley - Never Gonna Give You Up',
+      duration: 212,
+      transcript: [
+        { start: 43, text: "Never gonna give you up" },
+        { start: 45, text: "Never gonna let you down" },
+        { start: 47, text: "Never gonna run around and desert you" }
+      ],
+      method: 'fallback-safe'
+    }
+  ];
+  console.log('✅ Safe fallback database initialized');
   
+  // Try to load cached transcripts with ultra-safe approach
   try {
-    // Load from transcript cache directory with file limit
+    const fs = require('fs');
+    const cachedVideos = [];
+    
+    // Check if transcript-cache directory exists
     const cacheDir = path.join(__dirname, 'transcript-cache');
+    if (!fs.existsSync(cacheDir)) {
+      console.log('⚠️ transcript-cache directory not found - using fallback only');
+      return;
+    }
+    
     const cacheFiles = fs.readdirSync(cacheDir).filter(file => file.endsWith('_real.json'));
     
-    // Limit to first 100 files to prevent memory overflow
-    const filesToProcess = cacheFiles.slice(0, 100);
-    console.log(`📁 Found ${cacheFiles.length} files, processing ${filesToProcess.length} for memory optimization`);
+    // Ultra-conservative: only load first 20 files to prevent memory issues
+    const filesToProcess = cacheFiles.slice(0, 20);
+    console.log(`📁 Found ${cacheFiles.length} files, safely processing ${filesToProcess.length} only`);
     
-    for (const file of filesToProcess) {
+    for (let i = 0; i < filesToProcess.length; i++) {
+      const file = filesToProcess[i];
       try {
         const videoId = file.replace('_real.json', '');
         const filePath = path.join(cacheDir, file);
         
-        // Check file size before loading (skip if too large)
+        // Ultra-safe file size check (skip if larger than 1MB)
         const stats = fs.statSync(filePath);
-        if (stats.size > 5 * 1024 * 1024) { // Skip files larger than 5MB
+        if (stats.size > 1 * 1024 * 1024) {
           console.log(`⚠️ Skipping large file: ${file} (${Math.round(stats.size/1024/1024)}MB)`);
           continue;
         }
@@ -74,33 +96,29 @@ async function initializeSystem() {
             id: data.video_id || data.videoId || videoId,
             title: data.video_title || data.videoTitle || `Cached Video ${videoId}`,
             duration: Math.max(...data.transcript.map(t => t.start)) + 30,
-            transcript: data.transcript,
-            method: 'cached-real'
+            transcript: data.transcript.slice(0, 100), // Limit transcript segments
+            method: 'cached-safe'
           });
         }
+        
+        // Add small delay to prevent overwhelming the system
+        if (i % 5 === 0) {
+          await new Promise(resolve => setTimeout(resolve, 10));
+        }
+        
       } catch (fileError) {
-        console.log(`⚠️ Skipping invalid cache file: ${file}`);
+        console.log(`⚠️ Skipping problematic file: ${file} - ${fileError.message}`);
       }
     }
     
-    console.log(`✅ Loaded ${cachedVideos.length} cached videos with memory optimization`);
-    videoDatabase = cachedVideos;
+    // Add cached videos to database (keeping fallback)
+    if (cachedVideos.length > 0) {
+      videoDatabase = [...videoDatabase, ...cachedVideos];
+      console.log(`✅ Safely loaded ${cachedVideos.length} additional videos`);
+    }
     
   } catch (error) {
-    console.log('⚠️ No cache directory found, using minimal fallback');
-    videoDatabase = [
-      {
-        id: 'dQw4w9WgXcQ',
-        title: 'Rick Astley - Never Gonna Give You Up',
-        duration: 212,
-        transcript: [
-          { start: 43, text: "Never gonna give you up" },
-          { start: 45, text: "Never gonna let you down" },
-          { start: 47, text: "Never gonna run around and desert you" }
-        ],
-        method: 'fallback'
-      }
-    ];
+    console.log(`⚠️ Cache loading failed but server continues: ${error.message}`);
   }
   
   // 통계 출력
@@ -108,8 +126,8 @@ async function initializeSystem() {
   videoDatabase.forEach(video => {
     methods[video.method] = (methods[video.method] || 0) + 1;
   });
-  console.log('📊 Processing methods used:', methods);
-  console.log('💡 New videos will be processed on-demand during search');
+  console.log('📊 Final video sources:', methods);
+  console.log(`📈 Total videos available: ${videoDatabase.length}`);
   
   // FastSearchSystem 초기화 및 인덱스 확인
   try {
