@@ -41,55 +41,76 @@ class FastSearchSystem {
   }
 
   /**
-   * 인덱스 통계 조회
-   */
-  async getStats() {
-    try {
-      const result = this.runQuery('SELECT COUNT(DISTINCT video_id) as count FROM transcript_search');
-      return {
-        indexedVideos: result[0]?.count || 0,
-        lastUpdated: new Date().toISOString()
-      };
-    } catch (error) {
-      console.error('❌ 통계 조회 오류:', error);
-      return {
-        indexedVideos: 0,
-        lastUpdated: new Date().toISOString()
-      };
-    }
-  }
-
-  /**
    * 빌드 인덱스
    */
-  async buildIndex() {
+  async buildIndex(force = false) {
     const startTime = Date.now();
     console.log('🔨 인덱스 빌드 시작...');
     
     try {
-      // SRT 파일들 찾기
-      const files = fs.readdirSync('./').filter(file => file.endsWith('.srt'));
-      console.log(`📁 발견된 SRT 파일: ${files.length}개`);
-      
-      if (files.length === 0) {
-        console.log('⚠️ SRT 파일이 없습니다.');
-        return;
+      // 강제 재인덱싱이 아니라면 필요성 확인
+      if (!force) {
+        const needsIndex = await this.needsIndexing();
+        if (!needsIndex) {
+          console.log('✅ 인덱스가 이미 최신 상태입니다. 재구축을 건너뜁니다.');
+          const stats = await this.getStats();
+          console.log(`📊 기존 인덱스: ${stats.totalVideos}개 영상, ${stats.totalSegments}개 세그먼트`);
+          return { videos: stats.totalVideos, segments: stats.totalSegments, timeMs: 0, skipped: true };
+        }
       }
 
-      // 기존 데이터 삭제
-      const indexedResult = this.runQuery('SELECT DISTINCT video_id FROM transcript_search');
-      if (indexedResult.length > 0) {
-        console.log(`🗑️ 기존 ${indexedResult.length}개 비디오 인덱스 삭제 중...`);
-        this.runQuery('DELETE FROM transcript_search');
+      const cacheDir = path.join(__dirname, 'transcript-cache');
+      if (!fs.existsSync(cacheDir)) {
+        console.log('⚠️ transcript-cache 디렉터리가 없습니다.');
+        return { videos: 0, segments: 0, timeMs: 0, skipped: false };
       }
+
+      // JSON 캐시 파일들 찾기
+      const files = fs.readdirSync(cacheDir).filter(file => file.endsWith('_real.json'));
+      console.log(`📁 발견된 JSON 캐시 파일: ${files.length}개`);
+      
+      if (files.length === 0) {
+        console.log('⚠️ JSON 캐시 파일이 없습니다.');
+        return { videos: 0, segments: 0, timeMs: 0, skipped: false };
+      }
+
+      if (force) {
+        // 강제 재인덱싱: 기존 데이터 삭제
+        console.log('🗑️ 강제 재인덱싱 - 기존 인덱스 삭제 중...');
+        this.runQuery('DELETE FROM transcript_search');
+        console.log('✅ 기존 인덱스 삭제 완료\n');
+      } else {
+        // 증분 인덱싱: 이미 인덱싱된 비디오 제외
+        const indexedVideos = this.runQuery('SELECT DISTINCT video_id FROM transcript_search');
+        const indexedIds = new Set(indexedVideos.map(row => row.video_id));
+        const unindexedFiles = files.filter(file => {
+          const videoId = file.replace('_real.json', '');
+          return !indexedIds.has(videoId);
+        });
+        
+        if (unindexedFiles.length === 0) {
+          console.log('✅ 모든 영상이 이미 인덱싱되어 있습니다.');
+          const stats = await this.getStats();
+          return { videos: stats.totalVideos, segments: stats.totalSegments, timeMs: 0, skipped: true };
+        }
+        
+        console.log(`📁 새로운 ${unindexedFiles.length}개 파일만 인덱싱 예정\n`);
+        files.splice(0, files.length, ...unindexedFiles);
+      }
+
+      let indexedVideos = 0;
+      let totalSegments = 0;
 
       // 각 파일 처리
       for (let i = 0; i < files.length; i++) {
         const file = files[i];
-        console.log(`📝 처리 중 (${i + 1}/${files.length}): ${file}`);
+        const progress = Math.round(((i + 1) / files.length) * 100);
+        console.log(`📝 처리 중 (${i + 1}/${files.length}) ${progress}%: ${file}`);
         
         try {
-          await this.processSRTFile(file);
+          const segmentCount = await this.processJSONFile(file, cacheDir);
+          totalSegments += segmentCount;
+          indexedVideos++;
         } catch (error) {
           console.error(`❌ 파일 처리 오류 ${file}:`, error);
         }
@@ -97,6 +118,9 @@ class FastSearchSystem {
 
       const buildTime = Date.now() - startTime;
       console.log(`✅ 인덱스 빌드 완료 (${buildTime}ms)`);
+      console.log(`📊 처리된 영상: ${indexedVideos}개, 세그먼트: ${totalSegments}개`);
+      
+      return { videos: indexedVideos, segments: totalSegments, timeMs: buildTime, skipped: false };
     } catch (error) {
       console.error('❌ 인덱스 빌드 오류:', error);
       throw error;
@@ -104,31 +128,75 @@ class FastSearchSystem {
   }
 
   /**
-   * SRT 파일 처리
+   * JSON 캐시 파일 처리
    */
-  async processSRTFile(filename) {
+  async processJSONFile(filename, cacheDir) {
     try {
-      const content = fs.readFileSync(filename, 'utf-8');
-      const videoId = this.extractVideoId(filename);
-      const title = this.extractTitle(filename);
+      const filePath = path.join(cacheDir, filename);
+      const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+      
+      const videoId = data.video_id || data.videoId || filename.replace('_real.json', '');
+      const title = data.video_title || data.videoTitle || 'Unknown Video';
 
-      const segments = this.parseSRT(content);
-      console.log(`  📊 ${segments.length}개 세그먼트 발견`);
+      if (!data.transcript || data.transcript.length === 0) {
+        console.log(`  ⚠️ 빈 transcript: ${filename}`);
+        return 0;
+      }
 
+      let segmentCount = 0;
+      
       // 데이터베이스에 삽입
       const stmt = this.db.prepare(`
         INSERT INTO transcript_search (video_id, video_title, text, start_time, method)
         VALUES (?, ?, ?, ?, ?)
       `);
 
-      for (const segment of segments) {
-        stmt.run(videoId, title, segment.text, segment.startTime, 'srt');
+      for (const segment of data.transcript) {
+        stmt.run(videoId, title, segment.text, segment.start, data.method || 'json');
+        segmentCount++;
       }
 
-      console.log(`  ✅ ${filename} 처리 완료`);
+      console.log(`  ✅ ${segmentCount}개 세그먼트 인덱싱 완료`);
+      return segmentCount;
     } catch (error) {
-      console.error(`❌ SRT 파일 처리 오류 ${filename}:`, error);
-      throw error;
+      console.error(`❌ JSON 파일 처리 오류 ${filename}:`, error);
+      return 0;
+    }
+  }
+
+  /**
+   * 인덱싱이 필요한지 확인
+   */
+  async needsIndexing() {
+    try {
+      const cacheDir = path.join(__dirname, 'transcript-cache');
+      if (!fs.existsSync(cacheDir)) return false;
+      
+      const cacheFiles = fs.readdirSync(cacheDir).filter(f => f.endsWith('_real.json'));
+      const indexedVideos = this.runQuery('SELECT DISTINCT video_id FROM transcript_search');
+      
+      return cacheFiles.length > indexedVideos.length;
+    } catch (error) {
+      console.error('인덱싱 필요성 확인 오류:', error);
+      return true;
+    }
+  }
+
+  /**
+   * 인덱스 통계 가져오기
+   */
+  async getStats() {
+    try {
+      const videosResult = this.runQuery('SELECT COUNT(DISTINCT video_id) as count FROM transcript_search');
+      const segmentsResult = this.runQuery('SELECT COUNT(*) as count FROM transcript_search');
+      
+      return {
+        totalVideos: videosResult[0]?.count || 0,
+        totalSegments: segmentsResult[0]?.count || 0
+      };
+    } catch (error) {
+      console.error('통계 가져오기 오류:', error);
+      return { totalVideos: 0, totalSegments: 0 };
     }
   }
 
