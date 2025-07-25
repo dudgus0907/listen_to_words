@@ -2,10 +2,7 @@
 nixPkgs = ["nodejs_18", "python3", "pkg-config", "cairo", "pango", "libjpeg", "giflib"]
 
 [phases.install]
-cmds = ["npm ci"]
-
-[phases.build]
-cmds = ["npm run postinstall"]
+cmds = ["npm ci", "npm rebuild sqlite3 --build-from-source"]
 
 [start]
 cmd = "npm start" 
