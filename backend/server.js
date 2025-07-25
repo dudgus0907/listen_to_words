@@ -248,27 +248,38 @@ app.get('/api/video/:videoId', async (req, res) => {
   }
 });
 
-// Health check with system info
+// Simple health check - independent of initialization
 app.get('/api/health', (req, res) => {
-  const methodStats = {};
-  videoDatabase.forEach(video => {
-    const method = video.method || 'unknown';
-    methodStats[method] = (methodStats[method] || 0) + 1;
-  });
-  
-  res.json({ 
-    status: 'OK', 
-    timestamp: new Date().toISOString(),
-    systemInfo: {
-      advancedSystemActive: true,
-      accurateSystemActive: accurateDatabase.length > 0,
-      pythonBridgeActive: true,
-      videosInDatabase: videoDatabase.length,
-      accurateVideos: accurateDatabase.length,
-      processingMethods: methodStats,
-      features: ['python-youtube-transcript-api', 'accurate-verified-database', 'real-transcript-extraction', 'known-quotes', 'synthetic-generation', 'caching']
+  try {
+    const methodStats = {};
+    if (typeof videoDatabase !== 'undefined' && videoDatabase) {
+      videoDatabase.forEach(video => {
+        const method = video.method || 'unknown';
+        methodStats[method] = (methodStats[method] || 0) + 1;
+      });
     }
-  });
+    
+    res.json({ 
+      status: 'OK', 
+      timestamp: new Date().toISOString(),
+      systemInfo: {
+        advancedSystemActive: true,
+        accurateSystemActive: (typeof accurateDatabase !== 'undefined' && accurateDatabase) ? accurateDatabase.length > 0 : false,
+        pythonBridgeActive: true,
+        videosInDatabase: (typeof videoDatabase !== 'undefined' && videoDatabase) ? videoDatabase.length : 0,
+        accurateVideos: (typeof accurateDatabase !== 'undefined' && accurateDatabase) ? accurateDatabase.length : 0,
+        processingMethods: methodStats,
+        features: ['python-youtube-transcript-api', 'accurate-verified-database', 'real-transcript-extraction', 'known-quotes', 'synthetic-generation', 'caching']
+      }
+    });
+  } catch (error) {
+    console.error('Health check error:', error);
+    res.status(500).json({ 
+      status: 'ERROR', 
+      timestamp: new Date().toISOString(),
+      error: 'Internal server error during health check'
+    });
+  }
 });
 
 // System status endpoint
@@ -362,9 +373,14 @@ app.listen(PORT, async () => {
   console.log(`🚀 Server is running on port ${PORT}`);
   console.log(`🔍 Health check: http://localhost:${PORT}/api/health`);
   
-  // Initialize the advanced transcript system
-  await initializeSystem();
-  console.log(`📚 Advanced Transcript System ready with ${videoDatabase.length} videos`);
+  // Initialize the advanced transcript system with error handling
+  try {
+    await initializeSystem();
+    console.log(`📚 Advanced Transcript System ready with ${videoDatabase.length} videos`);
+  } catch (error) {
+    console.error('❌ Initialization failed, but server is still running:', error);
+    console.log('🔄 Server will continue to operate with limited functionality');
+  }
 });
 
 module.exports = app; 
