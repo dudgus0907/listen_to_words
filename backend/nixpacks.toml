@@ -1,5 +1,5 @@
 [phases.setup]
-nixPkgs = ["nodejs_18", "python310", "python310Packages.setuptools", "pkg-config", "cairo", "pango", "libjpeg", "giflib"]
+nixPkgs = ["nodejs_18"]
 
 [phases.install]
 cmds = ["npm ci"]
