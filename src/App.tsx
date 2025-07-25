@@ -29,13 +29,35 @@ const API_BASE_URL = process.env.REACT_APP_API_URL || '/api';
 
 // Helper function to safely render highlighted text
 const HighlightedText: React.FC<{ text: string }> = ({ text }) => {
-  return (
-    <span 
-      dangerouslySetInnerHTML={{ 
-        __html: text.replace(/<mark>/g, '<mark style="background-color: #ffeb3b; padding: 2px 4px; border-radius: 2px;">').replace(/<\/mark>/g, '</mark>')
-      }} 
-    />
-  );
+  // 안전장치 추가
+  if (!text || typeof text !== 'string') {
+    console.warn('HighlightedText received invalid text:', text);
+    return <span>{text || ''}</span>;
+  }
+
+  try {
+    // HTML 태그 균형 확인
+    const openMarks = (text.match(/<mark>/g) || []).length;
+    const closeMarks = (text.match(/<\/mark>/g) || []).length;
+    
+    if (openMarks !== closeMarks) {
+      console.warn('Unbalanced mark tags in text:', text);
+      // 태그 제거하고 안전하게 렌더링
+      return <span>{text.replace(/<\/?mark[^>]*>/g, '')}</span>;
+    }
+
+    return (
+      <span 
+        dangerouslySetInnerHTML={{ 
+          __html: text.replace(/<mark>/g, '<mark style="background-color: #ffeb3b; padding: 2px 4px; border-radius: 2px;">').replace(/<\/mark>/g, '</mark>')
+        }} 
+      />
+    );
+  } catch (error) {
+    console.error('Error rendering highlighted text:', error, 'Text:', text);
+    // 에러 시 안전하게 일반 텍스트로 렌더링
+    return <span>{text.replace(/<\/?mark[^>]*>/g, '')}</span>;
+  }
 };
 
 function App() {
@@ -122,37 +144,79 @@ function App() {
     if (!searchQuery.trim()) return;
     
     setIsLoading(true);
+    console.log('🔍 Starting search for:', searchQuery);
+    
     try {
       console.log('Searching for:', searchQuery);
       const response = await axios.get(`${API_BASE_URL}/search`, {
-        params: { query: searchQuery }
+        params: { query: searchQuery },
+        timeout: 10000 // 10초 타임아웃 추가
+      });
+      
+      console.log('📊 Search response:', {
+        status: response.status,
+        dataKeys: Object.keys(response.data),
+        resultsCount: response.data?.results?.length
       });
       
       const results = response.data.results;
-      setSearchResults(results);
       
-      if (results.length > 0) {
-        const firstResult = results[0];
+      // 결과 유효성 검사
+      if (!Array.isArray(results)) {
+        throw new Error('Invalid response format: results is not an array');
+      }
+      
+      // 각 결과 항목 검증
+      const validResults = results.filter((result, index) => {
+        if (!result.videoId || !result.title || typeof result.startTime !== 'number') {
+          console.warn(`Invalid result at index ${index}:`, result);
+          return false;
+        }
+        return true;
+      });
+      
+      console.log(`✅ Valid results: ${validResults.length}/${results.length}`);
+      setSearchResults(validResults);
+      
+      if (validResults.length > 0) {
+        const firstResult = validResults[0];
+        console.log('🎬 First result:', firstResult);
+        
         const clip: VideoClip = {
           id: `${firstResult.videoId}-${firstResult.startTime}`,
           videoId: firstResult.videoId,
           title: firstResult.title,
           startTime: firstResult.startTime,
           searchQuery: searchQuery,
-          transcript: firstResult.transcript,
+          transcript: firstResult.transcript || firstResult.text || '',
           contextualText: firstResult.contextualText,
           similarity: firstResult.similarity
         };
+        
+        console.log('🎯 Setting current clip:', clip);
         setCurrentClip(clip);
         setCurrentResultIndex(0);
       } else {
         alert('검색 결과가 없습니다. 다른 검색어를 시도해보세요.');
       }
     } catch (error) {
-      console.error('Search error:', error);
-      alert('검색 중 오류가 발생했습니다. 백엔드 서버가 실행 중인지 확인해주세요.');
+      console.error('❌ Search error details:', {
+        message: error.message,
+        response: error.response?.data,
+        status: error.response?.status,
+        searchQuery: searchQuery
+      });
+      
+      if (error.code === 'ECONNABORTED') {
+        alert('검색 요청이 시간 초과되었습니다. 잠시 후 다시 시도해주세요.');
+      } else if (error.response?.status >= 500) {
+        alert('서버 오류가 발생했습니다. 잠시 후 다시 시도해주세요.');
+      } else {
+        alert(`검색 중 오류가 발생했습니다: ${error.message}`);
+      }
     } finally {
       setIsLoading(false);
+      console.log('🏁 Search completed');
     }
   };
 
